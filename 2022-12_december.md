@@ -1,5 +1,70 @@
 ## 12/12/2022
 
+### From a [Health Affairs event](https://www.healthaffairs.org/do/10.1377/he20221129.985991/full/)
+
+ASHISH JHA, WHITE HOUSE [00:13:50]
+
+We got to get through this period of time. I don't know how long it'll last, what we're going to see with this increase, but we've got to manage it. And that is acting. 
+
+In the background, and not so far in the background, we have a group of people on our team who are thinking about the transition. The transition to sort of more normal, as some people call it, commercialization, kind of the more normal way of doing business. 
+
+You know, the last three years, I think very much rightly so, certainly the last two years under the under President Biden, the U.S. government has been buying vaccines, has been buying treatments, has been buying diagnostic tests. We know at some point that needs to transition. 
+
+What is that point? Well, that point is driven by a few different factors, not the least of which is lack of congressional funding. Congress is not funding us buying these things, so we can't purchase them if we don't have the resources. 
+
+But also, we are moving to a different phase in this outbreak where-- where I do think it will be reasonable to move a lot of this stuff into the normal health care market. 
+
+Our principle or values on this have been: make sure this transition happens in a seamless, non-disruptive way. We want to make sure that people don't all of sudden wake up one morning and say, 'Oh, I no longer have access to treatment.' That would be a real problem. Got to make sure that that's very (inaudible). 
+
+Second, have a very clear strategy for both-- for cost issues around-- you and I both know that while 92% of Americans are insured in America, there are still significant cost barriers for a lot of insurance. I do not want a low income senior unable to afford Paxlovid or unable to afford diagnostic testing, and therefore not be able to get treatments. That would not be okay. 
+
+So our values are that there should not be cost barriers, particularly for lower income people. 
+
+And then obviously there are 8-10% of people who are uninsured. Making sure that they have access. And that cost barriers are not a problem. 
+
+That is all work that has been going on in pretty vigorous ways, ready for the time when things transition. When will that be? The reason I can't break news today is because I don't know what I would answer even if I wanted to. 
+
+There will come a day when the secretary of HHS will decide to end the public health emergency. I don't know what that day is, and there will be a set of factors that will go into it. The only thing I know the secretary has promised and we as an administration have promised that we'll give everybody at least 60 days. 
+
+...
+
+ASHISH JHA, WHITE HOUSE [00:20:04]
+
+One of the big, big difference is I do less predicting. As a colleague of mine said, I was in the business before I started this job of predicting where the fires were going to be, how big were the fires, and if they turned out not to be true, there was really no big deal. 
+
+I'm largely out of that business. I am now much more in the business of making sure we have a fire response plan, making sure that if it's a large fire, we're ready for that. If it's a small fire, we're ready for that. When we see fires, making sure that we actually go execute on all of that. 
+
+That necessarily changes the communications. And appropriately so. Right? It's very different to be in a actual execution role and a coordinating role than as an academic, where you get to sit back and look at the world and say, I think this is going to happen. 
+
+...
+
+ASHISH JHA, WHITE HOUSE [00:30:19]
+
+We have a whole series of tools we use for mitigation, preventing serious illness, preventing infections. Masks should be one of them. They shouldn't be exalted. They should not be diminished. They are one of the tools we have. People should use them when they want to. We don't ask and demand people use all the tools, but the more you use, the safer you will be. 
+
+I think turning down the temperature on this, remembering what masks are: one important public health tool. High quality masks clearly make a difference, and that if we see it in that context, maybe we don't have to have so many fights about masks.
+
+...
+
+
+ASHISH JHA, WHITE HOUSE [00:04:36]
+
+I think in terms of COVID, specifically, the way I look at where we are today, I think again, with infections rising, there's a series of things that we can do that will influence what happens next. And there's a series of things that the virus is going to do that are largely outside of our control. 
+
+The virus continues to evolve. How it's going to evolve, are we going to see some other major new variants, things that we don't know, but things that we do know are that we are at a place in this pandemic where if people are up to date on their vaccines, people are getting treated, people are using basic precautions, wearing masks in super crowded, indoor, poorly ventilated spaces, where we are using testing for large gatherings, we do some basic things, we can make an enormous difference in terms of keeping infection numbers lower, certainly preventing serious illness. 
+
+That stuff is under our control and I think that's going to be a truism moving forward. But there's going to be more and more things that we can do under our control to manage things. But obviously, the virus continues to have its own X-factor. 
+
+It's really hard to make predictions about exactly where the virus is going to go.
+
+...
+
+ASHISH JHA, WHITE HOUSE [00:46:10]
+
+So I report to the president, I meet with him, and he's got a pretty full plate. I meet with them whenever there are sort of critical issues or we're engaging him on something or he wants to be briefed up on something. And there are lots of ways of engaging the president, beyond just one on one meetings or in person. 
+
+And the day to day, a lot of it is my meeting with and spending time with Ron Klain, the president's chief of staff. So that's sort of kind of the mechanics of how a lot of this. 
+
 ### From a [Pfizer investors event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/Pfizer-Near-Term-Launches--High-Value-Pipeline-Day/default.aspx)
 
 ANNALIESA ANDERSON, PFIZER [00:44:40]
