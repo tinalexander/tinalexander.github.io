@@ -38,9 +38,19 @@ That necessarily changes the communications. And appropriately so. Right? It's v
 
 ...
 
-ASHISH JHA, WHITE HOUSE [00:30:19]
+ASHISH JHA, WHITE HOUSE [00:29:00]
 
-We have a whole series of tools we use for mitigation, preventing serious illness, preventing infections. Masks should be one of them. They shouldn't be exalted. They should not be diminished. They are one of the tools we have. People should use them when they want to. We don't ask and demand people use all the tools, but the more you use, the safer you will be. 
+On masking, this has also got, I think, unnecessarily complex. Here's how I think about masking. 
+
+Do masks work? Well, low quality masks don't work that well. High quality masks really work much, much better. 
+
+Again, going back to my clinical experience, you know, I was struck by, I remember one day, this was in early January of this year, I was in the hospital taking care of patients. I had a really sick COVID patient, with COVID pneumonia, coughing up just a lot of like virus into the air. Walked into his room wearing my mask and also had an eye goggles, but other than that, like wearing a mask that is widely available. 
+
+I was listening to his lungs and in the middle of it, he had this coughing fit, and just coughed cough cough on my face. He felt bad. I was fine. I walked out and I took off my goggles and I said to my one of my residents, I said, 'This is what I'm going to count on my vaccine and an N95 to get me through it.' 
+
+And it did. A high quality N95, that are widely available now, it was not some purposefully special fitted, I had literally bought it from a store and was wearing it protectively in a pretty high risk situation. I'm confident I was wearing a surgical mask or a cloth mask at that moment, that would not have been (inaudible).
+
+What I say to folks is we have a whole series of tools we use for mitigation, preventing serious illness, preventing infections. Masks should be one of them. They shouldn't be exalted. They should not be diminished. They are one of the tools we have. People should use them when they want to. We don't ask and demand people use all the tools, but the more you use, the safer you will be. 
 
 I think turning down the temperature on this, remembering what masks are: one important public health tool. High quality masks clearly make a difference, and that if we see it in that context, maybe we don't have to have so many fights about masks.
 
