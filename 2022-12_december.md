@@ -1,5 +1,23 @@
 ## 12/13/2022
 
+### From a [CDC clinician outreach call](https://emergency.cdc.gov/coca/calls/2022/callinfo_121322.asp)
+
+ELISHA HALL, CDC [00:20:06]
+
+One question we're already receiving a lot is that there is this bivalent booster on the schedule for children age five, who received a Pfizer primary series. Can a child who completes their primary series at the younger age group, six months through four years, and then ages up to five, can they get that bivalent booster when they turn five years? 
+
+The answer is yes. A child in the six months through four years age group who completes their three dose Pfizer series, but then ages up to five years, they can get this one bivalent Pfizer booster as long as it's been at least two months since their last dose. 
+
+...
+
+ELISHA HALL, CDC [00:29:22]
+
+This slide shows the percentage of nursing home residents who are up to date with COVID-19 vaccination using facility level level data. The National Healthcare Safety Network collects data on nursing home residents and staff who are up to date with COVID 19 vaccines for the purpose of surveillance. As of the week ending October 2nd, individuals are considered up to date if they received a bivalent booster or completed a primary series in the last two months or received their last monovalent booster in the last two months. These vaccination data can be reported at the person level or at the facility level. 
+
+Among the subset of facilities submitting person-level data, over 99% of individuals classified as up to date received a bivalent booster dose. Therefore, up to date can be used to estimate bivalent booster coverage. 
+
+So the take home on this slide is that, as of the week ending 11/27/2022, an estimated 45% of nursing home residents have received a bivalent booster dose. Next slide. 
+
 ### From an [American Medical Association event](https://edhub.ama-assn.org/cdc-project-firstline/interactive/18739550)
 
 MICHAEL BELL, CDC [00:30:37]
