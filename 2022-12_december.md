@@ -1,3 +1,39 @@
+## 12/12/2022
+
+### From a [Pfizer investors event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/Pfizer-Near-Term-Launches--High-Value-Pipeline-Day/default.aspx)
+
+ANNALIESA ANDERSON, PFIZER [00:44:40]
+
+Here's just some preclinical data that we're showing for the first time. And this is our data with our investigational modFlu vaccine, put in combination with our COVID bivalent vaccine. And on the left of the slide, you can see data for our COVID vaccine. And so what we did is we vaccinated mice with either the COVID vaccine alone, the investigational flu vaccine alone, or both of them together. The left shows neutralization data for the COVID component of the vaccine, both the vaccine alone, the COVID vaccine alone in blue or-- and gray, actually, and then against the Wuhan strain, and the 4/5 variant. 
+
+And you can see there's really very similar levels of neutralization when you have the vaccine as monovalent vaccines with just the COVID or when combined. And then on the right of the slide, you can see very similar data for the flu components where you have the flu vaccine alone, and then the flu vaccine with the COVID, tested against the four different hemagglutinin antigens. And we see little or no interference when we combine those vaccines. 
+
+So we're currently in phase one with this study, and we're looking forward to having a readout early next year, to then move that program forward. 
+
+...
+
+NAVIN KATYAL, PFIZER [01:22:06]
+
+But just in terms of COVID 19, I think we know first and foremost, COVID is here to stay, unfortunately. So we do expect that there will be, moving forward, a sort of a durable business around standalone Comirnaty as well as the combo with influenza moving forward. 
+
+I think many countries around the world have already started to signal that they will move towards an annual recommendation for most of the population, or large parts of the population, and then for some, potentially those at high risk or maybe immunocompromised, maybe something somewhat more frequent. 
+
+But that is based-- the basis for our strong view that this will be a durable annual business that looks like flu. I think as we think about the commercial potential, we also think about the influenza sort of paradigm, given all the reasons I just talked about. I do think that the adult market will quickly emulate the flu in terms of uptake. And I think the pediatrics basis, given what we've seen in terms of uptake to date, will take a little bit longer to mature, but over time, I think we do see that that will start to converge. 
+
+And then I think to your point on combination, you know, we're very bullish on combination because we know that the adult vaccination market is getting a bit more crowded and there is a lot of interest, particularly amongst the health care system, but also amongst consumers, for something that's more convenient. 
+
+And I think that will have a synergistic effect in terms of driving uptake both for flu as well as for for COVID moving forward. 
+
+So we're know, I think we're very confident and we definitely are continue to invest given the large and durable business that we see moving forward. 
+
+...
+
+NAVIN KATYAL, PFIZER [01:32:16]
+
+Something we're spending a ton of time on, because we think there's an opportunity both for Comirnaty and for COVID rather, but also for flu, to do have better strain match. And so what we are going to be doing and we're already doing is actively having discussions with regulators around the world, institutions like the CDC, WHO, to make sure that we have a fit-for-purpose strain selection that allows us to get closer. 
+
+And then as you highlighted, it's going to be complex, because you are going to have potentially shifting strains both for flu and for COVID. But I think, as we've spent a lot of time meditating on this, I think we at Pfizer, we're going to be uniquely and I think, really well positioned, for sort of working through all of those different sort of moving parts. 
+
 ## 12/09/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-12-09-2022-1495718)
