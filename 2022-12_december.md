@@ -1,3 +1,25 @@
+## 12/13/2022
+
+### From an [American Medical Association event](https://edhub.ama-assn.org/cdc-project-firstline/interactive/18739550)
+
+MICHAEL BELL, CDC [00:30:37]
+
+The other piece of the PPE conundrum, and this is going to get more interesting as the months pass, because we're in the process of revising the isolation guidelines, the old droplet versus airborne, very black and white, binary approach. 
+
+It was useful back in the day when people were just getting their their feet wet, as it were, with with infection control practices. And we needed some very concrete approaches. 
+
+But I think we as a society are ready to think a little bit more critically about what we're doing. We want to be thinking about the very real issue of the area around other people having some amount of respiratory secretions floating around all the time. 
+
+...
+
+MICHAEL BELL, CDC [00:33:45]
+
+We're in the process, as I said, of trying to state this in a clear and useful way in the update of the isolation guideline. That is in progress right now. I hope to have a draft in the Federal Register for the public to look at and comment on, probably mid to late spring of this coming year. 
+
+That is going to be a document that says, here's how we are describing infection transmission. And here are the things that we do about it. But then, it'll be followed, probably over the course of a year and a half or two years, by the Appendix A section. Those of you who have looked at this know that there's a big table that lists all of the different organisms and what we recommend for infection control. 
+
+And going through each one of those is going to be a very challenging but important exercise to start drawing the line between things like seasonal versus pandemic flu, COVID now versus COVID five years from now.
+
 ## 12/12/2022
 
 ### From a [Health Affairs event](https://www.healthaffairs.org/do/10.1377/he20221129.985991/full/)
