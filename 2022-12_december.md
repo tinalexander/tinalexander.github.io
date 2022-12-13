@@ -1,3 +1,5 @@
+These are some of my notes from December 2022. See a README [here](https://github.com/tinalexander/notes/blob/main/README.md).
+
 ## 12/13/2022
 
 ### From a [CDC clinician outreach call](https://emergency.cdc.gov/coca/calls/2022/callinfo_121322.asp)
