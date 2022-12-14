@@ -1,5 +1,11 @@
 These are some of my notes from December 2022. See a README [here](https://github.com/tinalexander/notes/blob/main/README.md).
 
+## 12/14/2022
+
+### From a Health and Human Services spokesperson
+
+As part of a previously announced purchase, we notified Congress in August that HHS would be procuring 3.7 million treatment courses of Paxlovid – one of the best lifesaving tools we have to treat those who are infected with COVID-19 and are at high risk of severe illness. 
+
 ## 12/13/2022
 
 ### From a [CDC clinician outreach call](https://emergency.cdc.gov/coca/calls/2022/callinfo_121322.asp)
