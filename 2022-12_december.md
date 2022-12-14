@@ -6,6 +6,45 @@ These are some of my notes from December 2022. See a README [here](https://githu
 
 As part of a previously announced purchase, we notified Congress in August that HHS would be procuring 3.7 million treatment courses of Paxlovid – one of the best lifesaving tools we have to treat those who are infected with COVID-19 and are at high risk of severe illness. 
 
+### From a NCHS spokesperson on long COVID guidance
+
+*Wondering if you'd be able to clarify if/when NCHS is also planning to release updated guidance for completing long COVID death certificates? Apologies if this was already published and I missed it.*
+
+NCHS plans to release this guidance, but we do not have a release date yet.
+
+Brian
+
+### From a [NCHS BSC meeting in October 2022](https://www.cdc.gov/nchs/about/bsc/bsc_meetings.htm)
+
+FARIDA AHMAD, CDC [00:36:42]
+While previous presentations in this panel have looked at measuring the prevalence of long COVID illness, we have limited information about long COVID mortality. There are currently no estimates of the number of long COVID deaths in the U.S., and this is due to a number of challenges. 
+
+Long COVID diagnostic guidelines are evolving over time as we understand more about the condition, so there's no simple diagnostic test for long COVID. Terminology has also changed over time. Additionally, we don't have standardized guidance for listing long COVID as a cause of death on the death certificate. There's also no cause of death code approved for coding long COVID on certificates, and this presents a challenge for quantifying how many deaths have involved long COVID. 
+
+Next slide, please. 
+
+So a little bit more about cause of death coding. In order to quantify deaths and compile statistics, NCHS codes death certificate data according to the International Classification of Diseases 10th revision, or ICD-10. 
+
+NCHS takes the literal text written on the cause of death-- in the cause of death section of the death certificate and codes those words and phrases to standardized ICD-10 codes. 
+
+The code used U09.9 is designated for coding and reporting post-COVID conditions. It was approved by the World Health Organization in September 2020. However, it has not yet been adopted for use in U.S. mortality coding. Next slide, please. 
+
+So why don't we use U09.9? So implementing new ICD-10 codes requires developing coding guidelines and training for manual coders, developing coding logic for automated coding systems, and updates to downstream data systems to recognize that new code. 
+
+But before that new code can be adopted and used, we need to understand what terms are being used. What are the literal text terms being written on the death certificate, and how often are those terms found? So this information will help us when we go to update our coding systems to implement the new code. Next slide, please. 
+
+So to get at those questions, we developed an exploratory analysis. The goal was to work to quantify long COVID in NVSS data using the literal text from death certificate. First, we needed to make a list of key terms so that we could use that list to find the death certificates and then quantify and summarize the results. Next slide, please. 
+
+In making this list of key terms, we consulted with experts and literature. We ended up with a list of eight terms as seen in the brown box. These terms include 'long COVID,' 'long haul COVID,' 'post COVID,' 'post COVID syndrome,' 'PASC,' 'post-acute sequelae COVID 19,' etc.. Next slide. 
+
+So we then had a few analytic considerations to make. First, we limited death to those with COVID-19 as a contributing or underlying cause. So even if 'long COVID' was written on a death certificate, we wanted to make sure that-- or even some of those terms were listed, we wanted to make sure that those were coded to U07.1. And then in considering data completeness, we limited the study period to deaths that occurred through June 30th, 2022. So we had pulled these records in the summer of 2022, this past summer, and we wanted to make sure that we had the most complete information for the deaths that we would expect through June. 
+
+And lastly, we wanted to compute. We wanted to be able to compute crude and age adjusted rates. So we needed a subset of data for a 12 month period. So we, in our analysis, we also chose a subset of data from July 2021 through June 2022 for that subset to create rates. 
+
+So, our next steps, I know that was a bit of a teaser, so we don't have the results published yet, though that is our-- the next big step that we've got ahead of us, is to summarize and publish those results in a Vital Statistics Rapid Release Report. And then some potential future steps include updating the analysis with more recent data and maybe refining key terms if necessary. 
+
+And then the last two bullets are for consideration after we have the results. First, we'll look at the need to issue certification guidance to promote consistent and accurate reporting of long COVID on death certificates. And second, would be the potential implementation of the ICD-10 code U09.9 for cause of death coding. 
+
 ## 12/13/2022
 
 ### From a [CDC clinician outreach call](https://emergency.cdc.gov/coca/calls/2022/callinfo_121322.asp)
