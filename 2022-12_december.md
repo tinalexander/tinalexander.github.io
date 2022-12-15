@@ -38,6 +38,8 @@ Procurements are ongoing and so I can't give you exact numbers on how this is go
 
 ### From a White House spokesperson on tests for COVIDTests.gov 
 
+*Can you clarify something: so new tests are being purchased for this round? Aka these aren't old tests that were stockpiled earlier that might be near expiration?*
+
 The stockpile is being replenished with last procurement, so it’s a mix
 
 ## 12/14/2022
