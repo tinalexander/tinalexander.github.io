@@ -2,6 +2,16 @@ These are some of my notes from December 2022. See a README [here](https://githu
 
 ## 12/15/2022
 
+### From a CDC spokesperson on adult COVID seroprevalence estimates
+
+Q1 (Jan-Mar) 2022 estimates are currently available at https://covid.cdc.gov/covid-data-tracker/#nationwide-blood-donor-seroprevalence-2022.
+
+We are planning an update soon (no specified date) to include quarter 2 (April-June) 2022 estimates. Updates should occur approximately every 3 months after that.
+
+Thanks,
+
+LaKia Bryant, MPA
+
 ### From a White House briefing on the ["winter preparedness plan"](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-biden-administration-announces-covid-19-winter-preparedness-plan/)
 
 5:09:17 PM SENIOR ADMINISTRATION OFFICIAL: First, starting tomorrow, each household can visit COVIDTests.gov and order a total of four at-home tests to be mailed directly to their doorsteps for free. That's four free tests per household, regardless of how many tests they've ordered previously, with tests starting to ship next week, the week of the 19th.
