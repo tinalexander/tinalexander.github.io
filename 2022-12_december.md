@@ -1,5 +1,45 @@
 These are some of my notes from December 2022. See a README [here](https://github.com/tinalexander/notes/blob/main/README.md).
 
+## 12/15/2022
+
+### From a White House briefing on the ["winter preparedness plan"](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-biden-administration-announces-covid-19-winter-preparedness-plan/)
+
+5:09:17 PM SENIOR ADMINISTRATION OFFICIAL: First, starting tomorrow, each household can visit COVIDTests.gov and order a total of four at-home tests to be mailed directly to their doorsteps for free. That's four free tests per household, regardless of how many tests they've ordered previously, with tests starting to ship next week, the week of the 19th.
+
+This adds another way Americans can access free tests this winter, including through their health insurance plan, which covers free eight free tests per month, per individual, as well as thousands of community-based locations around the U.S. like community health centers, schools, and long-term care facilities.
+
+We're able to reopen COVIDTests.gov for a limited round because, in the absence of congressional funding, we've acted within our limited resources to buy more at home tests for our national stockpile.
+
+...
+
+5:13:07 PM SENIOR ADMINISTRATION OFFICIAL: Thanks so much for the question. This entire time as we've been fighting COVID, we've been talking about making hard choices given limited funding . And when we-- sorry-- and there remains an urgent need for additional COVID funding to help us stay prepared in the face of an unpredictable virus.
+
+So at the end of the day, we had to repurpose some of our existing money to focus on this important initiative as we are seeing cases go up. These are always hard choices and we have to make trade-offs
+
+...
+
+5:14:45 PM SENIOR ADMINISTRATION OFFICIAL: Thank you for that question. As you'll see in our plan, we do reference masks. The administration has given out hundreds of millions of masks for free and they are widely available.
+
+They were originally distributed to pharmacies and we are now ensuring that they are also being distributed to places where people who might have greater challenges accessing free masks can get them, including food banks, community health centers, and other locations.
+
+And I think we view masks to be just one important tool in an arsenal of tools that is part of a multi-pronged strategy to combat COVID.
+
+...
+
+5:18:29 PM SENIOR ADMINISTRATION OFFICIAL: Thanks, great question. So, just going to the first part of your question, first, we've been talking for months about being prepared for a winter surge.
+
+Before Thanksgiving, we talked about the six week push for vaccinations, and we are constantly looking for ways to be ready. We are a few years into-- we're a few years into the pandemic, and we are prepared for this moment. We have the tools, we've learned from the past, and we saw an uptick in cases after Thanksgiving, and we believe that-- that was expected when people gather indoors. We expect those sorts of things. We're closely monitoring cases, post that. And we are standing ready and prepared with the tools that we have assembled to face this this winter.
+
+...
+
+5:19:53 PM SENIOR ADMINISTRATION OFFICIAL: So in terms of where the funds came from, they are ARP funds. And we've had to think very hard about how exactly to make these trade-offs, in terms of how we use these funds. So it's from ARP.
+
+Procurements are ongoing and so I can't give you exact numbers on how this is going to land, but we feel confident that we are going to have enough tests to get through this next round, four per household, in the coming weeks.
+
+### From a White House spokesperson on tests for COVIDTests.gov 
+
+The stockpile is being replenished with last procurement, so it’s a mix
+
 ## 12/14/2022
 
 ### From a Health and Human Services spokesperson
