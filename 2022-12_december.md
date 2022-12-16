@@ -2,6 +2,28 @@ These are some of my notes from December 2022. See a README [here](https://githu
 
 ## 12/15/2022
 
+### From a [webinar hosted by NACCHO on "Preparing for Flu Season 2022-2023"](https://www.naccho.org/blog/articles/webinar-preparing-for-flu-season-2022-2023-early-surveillance-and-vaccine-uptake-data-from-the-cdc)
+
+LYNNETTE BRAMMER, CDC [00:08:52]
+
+This data shows some of our information on outpatient respiratory illness. The graph on the upper left side shows the percentage of outpatient visits for respiratory illnesses reported through the U.S. outpatient influenza like illness surveillance network or ILINet. During week 48, 7.2% of patient visits were for influenza like illness. This showed a slight decline from 7.6% the week before. But I'd like to note that that week, the-- where we had the 7.6%, was the Thanksgiving week. And sometimes we see a little bit of elevation because of the holiday, because people are less likely to go to the doctor for routine issues, but still go when they're sick. So it sometimes elevates our percent ILI a little bit during those holiday weeks. 
+
+If you look on the upper right hand side, you can see it's basically the same data as the percent ILI, but by age group. You can see that for the most recent week we did see a slight decline in the percent of patient visits for influenza like illness for the 0 to 4 and 5 to 24 year age groups. But for all the adult age groups, we did see-- continued to see increases. 
+
+...
+
+SUCHITA PATEL, CDC [00:43:44]
+
+And then these data are just numerator data, but they tell us about where to places where vaccinations happen in pharmacies and in medical offices. We do not have data for workplace vaccinations and other vaccinations to kind of round out the picture. 
+
+But for these two settings, we are seeing 4.5 million fewer doses administered in physician medical offices this year compared to the same time last year. However, we're seeing 2 million more administered at pharmacies. So either adults are not making it or not getting to see doctors, or staying away purposefully because there's that they're hearing that there's a bad respiratory season going on. We really don't know why, but we're seeing lower-- lower doses in medical offices so far. Next slide. 
+
+...
+
+LYNNETTE BRAMMER, CDC [00:56:07]
+
+I don't believe there are any early estimates in yet. Typically, we will put out the preliminary estimates usually in about February. So I would expect some-- a similar schedule this year.
+
 ### From an [event hosted by The Philadelphia Inquirer on "The Future of COVID & Public Health"](https://www.youtube.com/watch?v=F8MiQRx_GKA)
 
 ASHISH JHA, WHITE HOUSE [00:09:26]
