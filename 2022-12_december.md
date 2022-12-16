@@ -2,6 +2,30 @@ These are some of my notes from December 2022. See a README [here](https://githu
 
 ## 12/15/2022
 
+### From an [event hosted by The Philadelphia Inquirer on "The Future of COVID & Public Health"](https://www.youtube.com/watch?v=F8MiQRx_GKA)
+
+ASHISH JHA, WHITE HOUSE [00:09:26]
+
+Now, let me add on this that there have been and again, I'm not talking about Dr. Offit specifically, but in general, there have been people who have been booster skeptics, or booster skeptics last fall, the evidence was overwhelmingly clear that people should get that booster last fall. And those 750 people that we heard about who passed away in Philadelphia, and the tens of thousands of Americans who died, almost all of them were people who had not gotten a booster. The data on this is overwhelmingly clear. In the spring and summer, there was a lot of skepticism about, kind of for older Americans, that second booster. The data was overwhelmingly clear from Israel, if you got that booster, you were dramatically less likely to die. 
+
+I think the scientists at the FDA, the career scientists at the FDA, made-- they thought the data was very clear that these things should be recommended for every adult and now for kids as well. That's where the CDC scientists are. I spent a lot of time talking to scientists across the country on an ongoing basis. I think the broad consensus is that people are better off with the bivalent booster. The broad consensus in the scientific community is that the bivalent booster is substantially better than the original booster. 
+
+And so, look, there are going to be individual people are going to have their individual views. My job sitting at the White House is to look at what all of the broad range of scientists, Dr. Fauci and the folks at the NIH, what do they think? What does FDA think? What does CDC think? What do the broader scientists think? 
+
+This is one where there's actually a lot of consensus that this new bivalent vaccine is a clear improvement and that it is absolutely essential for people, especially if you're at elevated risk, of getting this booster, it's going to make an enormous difference in whether you get sick or not. That should be our message. That is our message. There's actually quite a bit of scientific consensus.
+
+...
+
+ASHISH JHA, WHITE HOUSE [00:17:47]
+
+You know, in terms of other investments, there are a lot of dollars that came out of the American Rescue Plan given to cities and states for investments in improving indoor air quality. I actually think this is probably the most important long term thing we can be doing for schools or office buildings or nursing homes. 
+
+Indoor air quality is sort of-- has just not got the level of attention it deserves. Most experts believe that, if we make some basic investments in indoor air quality, we can reduce, in fact, all respiratory infections by 30 or 60 or even 80%. I mean, the notion that you could cut respiratory infections-- there is no study in the world that shows that masks work that well. So you're never going to get the kind of benefit from mandatory year round masking as you would from making substantial improvements in indoor air quality, plus it's a lot easier to implement as well. 
+
+So this is an area where we're doing a lot and trying to really encourage people to use the resources they have to make those investments and start really improving ventilation filtration.
+
+## 12/15/2022
+
 ### From a CDC spokesperson on adult COVID seroprevalence estimates
 
 Q1 (Jan-Mar) 2022 estimates are currently available at https://covid.cdc.gov/covid-data-tracker/#nationwide-blood-donor-seroprevalence-2022.
