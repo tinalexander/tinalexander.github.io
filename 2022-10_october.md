@@ -1,1 +1,0 @@
-I've moved this to my Wiki [here](https://github.com/tinalexander/notes/wiki/10-2022-(October)).
