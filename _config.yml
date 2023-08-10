@@ -1,11 +1,7 @@
+title: notes
+description: Files and other notes gathered by Alexander Tin while reporting for CBS News.
+author: "Alexander Tin"
 email: TinA@CBSNews.com
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Files and other notes gathered by Alexander Tin while reporting for CBS News.
-
-# Build settings
 
 theme: minima
 
@@ -13,18 +9,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Theme-specific settings
+# Minima social links
+github_username: tinalexander
+rss: rss
 
-minima:
-  # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%b %-d, %Y"
-  
-  # Generate social links in footer.
-  #
-  # social_links:
-  #   - { platform: github,         user_url: "https://github.com/tinalexander" }
-
+# Minima custom header links
 header_pages:
   - README.md
+
