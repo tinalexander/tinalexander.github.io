@@ -1,7 +1,7 @@
 ---
 title: August 2023
 layout: minimal
-parent: 2023
+parent: Notes for 2023
 permalink: /pages/2023/08-august
 ---
 
