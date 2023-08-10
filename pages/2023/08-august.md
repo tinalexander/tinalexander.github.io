@@ -1,7 +1,7 @@
 ---
 layout: default
 title: August 2023
-permalink: pages/2023/08-august/
+permalink: /pages/2023/08-august/
 ---
 
 [About these notes](https://github.com/tinalexander/notes).
