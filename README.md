@@ -2,6 +2,6 @@ This [repository](https://github.com/tinalexander/notes-by-alexander-tin) contai
 
 Initially, I was saving them on [Revue](https://help.twitter.com/en/using-twitter/revue) before it was shut down by Twitter. Recently, I was organizing them under Github's [Wiki tab](https://github.com/tinalexander/notes/wiki), but I switched to publishing them here with Github Pages in hopes of making them [indexable by search engines](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis#:~:text=Note%3A%20Search,a%20public%20repository.).
 
-The notes here probably contain typos or other errors. Please let me know if you spot one!
+The notes here probably contain typos or other errors I haven't noticed. Please let me know if you spot one!
 
 You can reach me by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or through the information on my [Github profile](https://github.com/tinalexander). 
