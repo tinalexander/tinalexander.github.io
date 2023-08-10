@@ -6,12 +6,10 @@ email: TinA@CBSNews.com
 theme: minima
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 # Minima social links
 github_username: tinalexander
-rss: rss
 
 # Minima custom header links
 header_pages:
