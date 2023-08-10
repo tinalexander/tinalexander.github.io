@@ -7,7 +7,7 @@ permalink: /pages/2023/08-august/
 <br>
 
 {: .note }
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
 
 ## August 9, 2023
 
