@@ -1,13 +1,17 @@
 ---
-layout: default
-title: January 2023
-permalink: /pages/2023/01-january/
+title: January
+layout: minimal
+parent: 2023
+has_children: false
+has_toc: false
+nav_order: 1
+permalink: /2023/01
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me).  
 
 ## 01/31/2023
 
