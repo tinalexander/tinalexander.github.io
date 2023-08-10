@@ -4,13 +4,13 @@ title: December 2022
 permalink: /pages/2022/12-december/
 ---
 
-___
- 
+<br>
+
 > [!NOTE]
 > Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
 
-___
- 
+<br>
+
 ## 12/30/2022
 
 ### From Barbara Mahon of the CDC's proposed Coronavirus and Other Respiratory Viruses Division
