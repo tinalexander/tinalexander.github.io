@@ -1,13 +1,16 @@
 ---
-layout: default
-title: May 2023
-permalink: /pages/2023/05-may/
+title: May
+layout: minimal
+parent: 2023
+has_children: false
+has_toc: false
+permalink: /2023/05
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 ## 05/26/2023
 
