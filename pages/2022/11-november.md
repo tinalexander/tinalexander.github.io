@@ -4,7 +4,10 @@ title: November 2022
 permalink: /pages/2022/11-november/
 ---
 
-[About these notes](https://github.com/tinalexander/notes).
+<br>
+
+> [!NOTE]
+> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
 
 ## 11/30/2022
 
