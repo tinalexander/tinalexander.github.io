@@ -1,3 +1,3 @@
 This [repository](https://github.com/tinalexander/notes/tree/main) contains files and notes gathered by [Alexander Tin](https://github.com/tinalexander) while covering the Biden administration's public health agencies, including their response to infectious disease outbreaks like COVID-19 or mpox.
 
-I've moved the notes that were in this repository over to [the Wiki tab](https://github.com/tinalexander/notes/wiki/About-these-notes).
+Previously they were organized under [the Wiki tab](https://github.com/tinalexander/notes/wiki/About-these-notes), but I moved them to Github Pages in hopes of making them [indexable by search engines](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis#:~:text=Note%3A%20Search,a%20public%20repository.).
