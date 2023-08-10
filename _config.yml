@@ -28,5 +28,5 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 callouts:
   note:
-    title: Note
+    title: Important
     color: yellow
