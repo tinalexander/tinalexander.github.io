@@ -1,13 +1,17 @@
 ---
-layout: default
-title: September 2022
-permalink: /pages/2022/09-september/
+title: September
+layout: minimal
+parent: 2022
+has_children: false
+has_toc: false
+nav_order: 9
+permalink: /2022/09
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me).  
 
 ## 09/30/2022
 
