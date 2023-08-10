@@ -4,8 +4,14 @@ layout: minimal
 parent: 2023
 has_children: false
 has_toc: false
+nav_order: 5
 permalink: /2023/05
 ---
+
+<br>
+
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 <br>
 
