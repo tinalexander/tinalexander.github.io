@@ -2,6 +2,7 @@ title: notes
 description: Notes gathered by Alexander Tin while reporting for CBS News.
 author: "Alexander Tin"
 email: TinA@CBSNews.com
+github_username: tinalexander
 
 remote_theme: just-the-docs/just-the-docs
 
@@ -10,7 +11,22 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-# Minima social links
-github_username: tinalexander
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
 
+# Aux links for the upper right navigation
+aux_links:
+  "See these notes on Github":
+    - "https://github.com/tinalexander/notes"
 
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+# Sort order for navigation links
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+callouts:
+  note:
+    title: Note
+    color: yellow
