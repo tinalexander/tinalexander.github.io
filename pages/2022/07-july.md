@@ -1,13 +1,17 @@
 ---
-layout: default
-title: July 2022
-permalink: /pages/2022/07-july/
+title: July
+layout: minimal
+parent: 2022
+has_children: false
+has_toc: false
+nav_order: 7
+permalink: /2022/07
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 ## 07/28/2022 
 
