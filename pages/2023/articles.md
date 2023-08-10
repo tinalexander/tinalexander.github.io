@@ -12,14 +12,14 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 
 ## August 2023
 
-- [Thousands of Tydemy birth control pills recalled, may be ineffective, FDA warns](https://www.cbsnews.com/news/birth-control-pills-recalled-tydemy-fda/)
-- [Babies born in fall and winter should get RSV shots, CDC recommends](https://www.cbsnews.com/news/rsv-shots-for-newborns-cdc-panel-recommends/)
-- [Valley fever is on the rise in the U.S., and climate change could be helping the fungus spread](https://www.cbsnews.com/news/valley-fever-symptoms-fungus-coccidioides/)
-- [FDA approves zuranolone, first pill for postpartum depression](https://www.cbsnews.com/news/fda-approves-zuranolone-first-pill-for-postpartum-depression/)
-- [CDC says COVID variant EG.5 is now dominant, including strain some call "Eris"](https://www.cbsnews.com/news/covid-variant-eg-5-now-eris/)
-- [First long COVID treatment clinical trials from NIH getting underway](https://www.cbsnews.com/news/first-long-covid-treatment-clinical-trial-nih/)
-- [Loss of smell or taste was once a telltale sign of COVID. Not anymore.](https://www.cbsnews.com/news/covid-symptoms-loss-of-smell-taste-less-common-omicron-study/)
 - [New COVID vaccine and booster shots for this fall to be available by end of September](https://www.cbsnews.com/news/covid-vaccine-booster-xbb-variants-september-2023/)
+- [Loss of smell or taste was once a telltale sign of COVID. Not anymore.](https://www.cbsnews.com/news/covid-symptoms-loss-of-smell-taste-less-common-omicron-study/)
+- [First long COVID treatment clinical trials from NIH getting underway](https://www.cbsnews.com/news/first-long-covid-treatment-clinical-trial-nih/)
+- [CDC says COVID variant EG.5 is now dominant, including strain some call "Eris"](https://www.cbsnews.com/news/covid-variant-eg-5-now-eris/)
+- [FDA approves zuranolone, first pill for postpartum depression](https://www.cbsnews.com/news/fda-approves-zuranolone-first-pill-for-postpartum-depression/)
+- [Valley fever is on the rise in the U.S., and climate change could be helping the fungus spread](https://www.cbsnews.com/news/valley-fever-symptoms-fungus-coccidioides/)
+- [Babies born in fall and winter should get RSV shots, CDC recommends](https://www.cbsnews.com/news/rsv-shots-for-newborns-cdc-panel-recommends/)
+- [Thousands of Tydemy birth control pills recalled, may be ineffective, FDA warns](https://www.cbsnews.com/news/birth-control-pills-recalled-tydemy-fda/)
 
 ## July 2023
 
