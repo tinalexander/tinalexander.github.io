@@ -1,13 +1,17 @@
 ---
-layout: default
-title: December 2022
-permalink: /pages/2022/12-december/
+title: December
+layout: minimal
+parent: 2022
+has_children: false
+has_toc: false
+nav_order: 12
+permalink: /2022/12
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 ## 12/30/2022
 
