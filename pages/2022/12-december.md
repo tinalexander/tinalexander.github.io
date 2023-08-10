@@ -5,7 +5,7 @@ permalink: /pages/2022/12-december/
 ---
 
 > [!NOTE]
-> Read more [about these notes](https://github.com/tinalexander/notes). |
+> Read more [about these notes](https://github.com/tinalexander/notes). 
 
 ## 12/30/2022
 
