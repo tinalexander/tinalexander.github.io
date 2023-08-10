@@ -2,4 +2,4 @@ This [repository](https://github.com/tinalexander/notes/tree/main) contains [fil
 
 Previously I was organizing them under Github's [Wiki tab](https://github.com/tinalexander/notes/wiki/About-these-notes), but I switched to publishing them here with Github Pages in hopes of making them [indexable by search engines](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis#:~:text=Note%3A%20Search,a%20public%20repository.).
 
-You can learn more about me [here](https://github.com/tinalexander), including my contact information.
+You can learn more about me on my [profile](https://github.com/tinalexander), including my contact information.
