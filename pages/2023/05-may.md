@@ -11,12 +11,7 @@ permalink: /2023/05
 <br>
 
 {: .important }
-Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
-
-<br>
-
-{: .important }
-Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
+Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 ## 05/26/2023
 
