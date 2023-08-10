@@ -4,11 +4,9 @@ title: December 2022
 permalink: /pages/2022/12-december/
 ---
 
-___
-
+---
 **[About these notes](https://github.com/tinalexander/notes).**
-
-___
+---
 
 ## 12/30/2022
 
