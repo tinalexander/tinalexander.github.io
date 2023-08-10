@@ -2,7 +2,7 @@
 title: August 2023
 layout: minimal
 parent: Notes for 2023
-permalink: /pages/notes-2023/08-august
+permalink: /notes-2023/08-august
 ---
 
 <br>
