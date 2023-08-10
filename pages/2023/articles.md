@@ -4,11 +4,11 @@ layout: minimal
 parent: 2023
 has_children: false
 has_toc: false
-permalink: /articles
+permalink: /2023/articles
 nav_order: 0
 ---
 
-Here are some recent articles I've worked on so far this year. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
+Here are some articles I've worked on for 2023. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
 ## July 2023
 
