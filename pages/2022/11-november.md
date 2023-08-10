@@ -1,13 +1,17 @@
 ---
-layout: default
-title: November 2022
-permalink: /pages/2022/11-november/
+title: November
+layout: minimal
+parent: 2022
+has_children: false
+has_toc: false
+nav_order: 11
+permalink: /2022/11
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 ## 11/30/2022
 
