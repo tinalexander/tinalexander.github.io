@@ -3,8 +3,6 @@ author:
   name: Alexander Tin
   email: TinA@CBSNews.com
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   This repository contains files and other notes gathered by Alexander Tin.
 
@@ -19,10 +17,8 @@ plugins:
 # Theme-specific settings
 
 minima:
-  # Generate social links in footer.
-  #
-  # social_links:
-  #   - { platform: github,         user_url: "https://github.com/tinalexander" }
+  social_links:
+   - { platform: github,         user_url: "https://github.com/tinalexander" }
 
 header_pages:
   - README.md
