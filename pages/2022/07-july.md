@@ -6,7 +6,7 @@ permalink: /pages/2022/07-july/
 
 <br>
 
-> [!NOTE]
+> [!IMPORTANT]
 > Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
 
 ## 07/28/2022 
