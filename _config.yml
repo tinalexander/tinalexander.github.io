@@ -3,7 +3,7 @@ description: Notes gathered by Alexander Tin while reporting for CBS News.
 author: "Alexander Tin"
 email: TinA@CBSNews.com
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-seo-tag
