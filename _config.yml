@@ -5,9 +5,8 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-
 description: >
-  This repository contains files and other notes I gathered while covering the Biden administration’s public health agencies, including their response to infectious disease outbreaks like COVID-19 or mpox.
+  This repository contains files and other notes gathered by Alexander Tin.
 
 # Build settings
 
