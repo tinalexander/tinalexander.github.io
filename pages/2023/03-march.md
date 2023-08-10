@@ -4,4 +4,7 @@ title: March 2023
 permalink: /pages/2023/03-march/
 ---
 
-[About these notes](https://github.com/tinalexander/notes).
+<br>
+
+> [!IMPORTANT]
+> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
