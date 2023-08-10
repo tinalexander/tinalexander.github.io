@@ -96,12 +96,73 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 
 ## June 2022
 
+- [CDC now also recommends Moderna's COVID vaccine for adolescents](https://www.cbsnews.com/news/covid-vaccine-moderna-children-adolescents-cdc/)
+- [As New York City rolls out monkeypox vaccinations, CDC works to expand access](https://www.cbsnews.com/news/monkeypox-vaccine-new-york-city-cdc/)
+- [COVID vaccines for kids as young as 6 months old are here. What parents need to know.](https://www.cbsnews.com/news/covid-vaccines-children-6-months-to-5-years-old-what-parents-need-to-know/)
+- [CDC and FDA clear the way for COVID vaccines for kids under 5](https://www.cbsnews.com/news/covid-vaccine-kids-under-5-pfizer-moderna-fda-authorize/)
+- [Here's when the White House says parents could start scheduling COVID vaccines for kids under 5](https://www.cbsnews.com/news/covid-vaccine-children-under-5-june-july-plan/)
+- [Moderna says updated COVID booster is superior to original vaccine shots, could begin shipping by August](https://www.cbsnews.com/news/covid-vaccine-moderna-new-booster-antibodies/)
+- [U.S. monkeypox cases are from at least two separate outbreaks, CDC says](https://www.cbsnews.com/news/monkeypox-cases-two-separate-outbreaks-cdc/)
+- [Why boosted Americans seem to be getting more COVID-19 infections](https://www.cbsnews.com/news/covid-19-vaccine-booster-shot-infection-rate/)
+
 ## May 2022
+
+- [At least 4 states now offering monkeypox vaccine to at-risk contacts](https://www.cbsnews.com/news/monkeypox-vaccine-jynneos-us-states/)
+- [White House touts efforts to expand COVID test-to-treat sites amid latest wave](https://www.cbsnews.com/news/covid-19-test-to-treat-sites-white-house/)
+- ["Long COVID" or "post-COVID" symptoms affect 1 in 4 seniors who survived infection, study finds](https://www.cbsnews.com/news/long-covid-symptoms-study/)
+- [Nearly half of Americans live in areas where they should consider masking, CDC data says](https://www.cbsnews.com/news/covid-19-nearly-half-of-americans-live-in-areas-where-they-should-consider-masking-says-cdc/)
+- [CDC clears Pfizer's COVID-19 vaccine boosters for children as young as 5](https://www.cbsnews.com/news/covid-19-vaccine-boosters-cdc-clears-pfizer-for-children-as-young-as-five/)
+- [1 million COVID deaths: Pandemic's tragic toll in U.S. extends far beyond the numbers](https://www.cbsnews.com/news/covid-deaths-1-million-us-pandemic-toll/)
+- [Why some of Biden's top doctors are wearing masks in "low" COVID areas](https://www.cbsnews.com/news/covid-19-doctors-masks-anthony-fauci-rochelle-walensky/)
+- [Gun deaths surged to 20-year high amid pandemic, CDC reports](https://www.cbsnews.com/news/gun-deaths-surge-20-year-high-2020-pandemic-cdc-reports/)
+- [What to know about "rebound" in COVID symptoms after taking Paxlovid](https://www.cbsnews.com/news/covid-rebound-infection-symptoms-paxlovid/)
+- [Mental health shouldn't be "treated like a stepchild" to physical health, says HHS chief](https://www.cbsnews.com/news/mental-health-biden-administration-xavier-becerra/)
 
 ## April 2022
 
+- [FDA could authorize COVID vaccine for children 5 and under, and Novavax vaccine, this June](https://www.cbsnews.com/news/covid-vaccine-children-5-and-under-june-novavax/)
+- [Moderna asks FDA to authorize its COVID vaccine for children ages 5 and under](https://www.cbsnews.com/news/covid-vaccine-kids-moderna/)
+- [More than half of Americans, including 3 in 4 kids, have survived a case of COVID-19, CDC study suggests](https://www.cbsnews.com/news/covid-majority-americans-children-adults-infected/)
+- [White House aims to boost use of COVID drugs like Paxlovid, citing plentiful supply](https://www.cbsnews.com/news/covid-drugs-paxlovid-pills-supply-biden-administration/)
+- [Fauci fears judge's ruling on travel mask mandate may set "dangerous precedent"](https://www.cbsnews.com/news/anthony-fauci-covid-mask-mandate-judge/)
+- [FDA authorizes breath test that can detect COVID-19 in three minutes](https://www.cbsnews.com/news/covid-breath-test-inspectir-fda-authorizes-breathalyzer/)
+- [Pfizer and BioNTech to ask FDA to authorize COVID-19 booster for kids as young as 5](https://www.cbsnews.com/news/covid-vaccine-booster-pfizer-kids-ask-fda/)
+- [BA.2 now more than 90% of new COVID-19 cases in the Northeast, CDC estimates](https://www.cbsnews.com/news/covid-ba-2-omicron-subvariant-northeast-cdc/)
+- [Watching for new COVID variants in wildlife "now critical," CDC says](https://www.cbsnews.com/news/covid-variants-in-animals-wildlife-cdc/)
+
 ## March 2022
+
+- [FDA and CDC clear second booster of COVID vaccine for ages 50 and over](https://www.cbsnews.com/news/covid-vaccine-second-booster-fda-authorizes-age-50-older/)
+- [Omicron subvariant BA.2 is now dominant in U.S., CDC estimates](https://www.cbsnews.com/news/covid-omicron-ba-2-subvariant-dominant-us-cdc/)
+- [Omicron deaths of Johnson & Johnson recipients were double the rate of other vaccinated Americans, new data show](https://www.cbsnews.com/news/covid-omicron-johnson-johnson-vaccine/)
+- ["We trust the COVID vaccine," heads of top medical groups say in ads targeting parents](https://www.cbsnews.com/news/we-trust-the-covid-vaccine-say-heads-of-top-medical-groups-in-plea-to-parents/)
+- [Pfizer asks FDA to OK fourth dose of COVID vaccine for seniors](https://www.cbsnews.com/news/covid-vaccine-pfizer-fda-fourth-dose-seniors/)
+- [Omicron BA.2 subvariant now nearly a quarter of new COVID cases in U.S., CDC estimates](https://www.cbsnews.com/news/covid-ba2-omicron-sub-variant-cases-cdc/)
+- [The CDC could lose access to key data to track COVID-19](https://www.cbsnews.com/news/covid-19-pandemic-cdc-could-lose-data-access/)
+- [Pfizer CEO says fourth dose of COVID vaccine is "necessary," submits data to FDA](https://www.cbsnews.com/news/covid-vaccine-fourth-dose-booster-pfizer-ceo-albert-bourla/)
+- [Pfizer's COVID vaccine less effective against Omicron in younger children, new study suggests](https://www.cbsnews.com/news/covid-vaccine-less-effective-against-omicron-infections-younger-children/)
+- [COVID pandemic death toll may be 3 times higher than official tally, new study finds](https://www.cbsnews.com/news/covid-pandemic-deaths-18-million-study/)
+- [COVID-19 associated with "significant, deleterious impact" on brain, finds U.K. study](https://www.cbsnews.com/news/covid-19-impact-on-brain-uk-study/)
+- [White House lays out new COVID plan, will begin stockpiling tests and pills](https://www.cbsnews.com/news/covid-19-white-house-plan-tests-pills/)
 
 ## February 2022
 
+- [COVID vaccine for children less effective against Omicron, but booster helps, study finds](https://www.cbsnews.com/news/covid-vaccine-effectiveness-children-omicron-booster/)
+- [CDC revises mask guidelines, says millions of Americans no longer need to wear masks indoors](https://www.cbsnews.com/news/cdc-guidelines-mask-indoors-covid-19/)
+- [Millions of children worldwide have lost a parent or caregiver to COVID-19: "The hidden pandemic"](https://www.cbsnews.com/news/covid-children-lost-parent-pandemic-orphans/)
+- [Biden administration has shipped more than 90% of free at-home COVID test orders](https://www.cbsnews.com/news/covid-tests-free-orders-shipped/)
+
 ## January 2022
+
+- [Novavax could offer unvaccinated Americans a new option, if regulators agree](https://www.cbsnews.com/news/novavax-covid-vaccine-seeking-fda-authorization/)
+- [Millions of Americans can't isolate from COVID in the home. Here's what experts suggest.](https://www.cbsnews.com/news/covid-19-isolation-exposure-home/)
+- [How can I get Paxlovid, the COVID-19 pill? Access to COVID treatments remains a challenge](https://www.cbsnews.com/news/covid-19-paxlovid-pill-monoclonal-antibodies-treatments/)
+- [Is Omicron driving a surge in "incidental" COVID hospitalizations?](https://www.cbsnews.com/news/is-omicron-driving-a-surge-in-incidental-covid-hospitalizations/)
+- [Study finds vaccination doesn't reduce fertility for women, but men catching COVID might](https://www.cbsnews.com/news/covid-19-fertility-vaccination-infection-study/)
+- [Biden administration to give out 400 million free N95 masks](https://www.cbsnews.com/news/n95-masks-400-million-free-biden-administration-strategic-stockpile/)
+- [Free COVID-19 test rollout begins early online](https://www.cbsnews.com/news/free-covid-tests-online-white-house-website/)
+- [COVID-19 symptoms and the Omicron variant: What the latest studies show](https://www.cbsnews.com/news/covid-omicron-variant-symptoms-studies/)
+- [Why do COVID-19 PCR and antigen tests produce different results?](https://www.cbsnews.com/news/covid-test-pcr-antigen-results/)
+- [CDC recommends COVID-19 vaccine boosters down to age 12](https://www.cbsnews.com/news/covid-vaccine-booster-shot-cdc-ages-12-15/)
+- [CDC stops short of requiring test for ending COVID isolation, but says they're the "best approach"](https://www.cbsnews.com/news/cdc-guidelines-covid-test-isolation-quarantine/)
+- [Omicron now 95% of new COVID-19 infections in U.S., CDC estimates](https://www.cbsnews.com/news/covid-omicron-variant-95-percent-cases/)
