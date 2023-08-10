@@ -4,7 +4,7 @@ title: August 2023
 permalink: pages/2023/08-august/
 ---
 
-[About these notes](https://github.com/tinalexander/notes-by-alexander-tin/tree/main/docs).
+[About these notes](https://github.com/tinalexander/notes-by-alexander-tin).
 
 ## August 9, 2023
 
