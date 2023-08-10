@@ -6,7 +6,7 @@ permalink: /pages/2022/12-december/
 
 <br>
 
-> [!NOTE]
+> [!IMPORTANT]
 > Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
 
 ## 12/30/2022
