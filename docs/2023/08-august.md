@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: August 2023
 permalink: /2023/08-august/
 ---
