@@ -1,5 +1,7 @@
 title: Alexander Tin's notes
-email: TinA@CBSNews.com
+author:
+  name: Alexander Tin
+  email: TinA@CBSNews.com
 
 description: >
   Files and other notes gathered by Alexander Tin while reporting for CBS News.
@@ -15,8 +17,10 @@ plugins:
 # Theme-specific settings
 
 minima:
-  social_links:
-   - { platform: github,         user_url: "https://github.com/tinalexander" }
+  # Generate social links in footer.
+  #
+  # social_links:
+  #   - { platform: github,         user_url: "https://github.com/tinalexander" }
 
 header_pages:
   - README.md
