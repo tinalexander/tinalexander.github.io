@@ -4,7 +4,10 @@ title: September 2022
 permalink: /pages/2022/09-september/
 ---
 
-[About these notes](https://github.com/tinalexander/notes).
+<br>
+
+> [!NOTE]
+> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
 
 ## 09/30/2022
 
