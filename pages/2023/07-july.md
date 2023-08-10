@@ -4,6 +4,7 @@ layout: minimal
 parent: 2023
 has_children: false
 has_toc: false
+nav_order: 7
 permalink: /2023/07
 ---
 
