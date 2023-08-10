@@ -1,6 +1,4 @@
-This Wiki contains notes taken by Alexander Tin while covering federal responses to COVID-19 and other public health issues for CBS News. 
-
-This [repository](https://github.com/tinalexander/notes/tree/main) contains [files](https://github.com/tinalexander/notes-by-alexander-tin/tree/main/attachments) and other notes gathered by Alexander Tin while covering the Biden administration's public health agencies, including their response to infectious disease outbreaks like COVID-19 or mpox. Some of these end up in articles and other reporting I do for the network.
+This [repository](https://github.com/tinalexander/notes/tree/main) contains [files](https://github.com/tinalexander/notes-by-alexander-tin/tree/main/attachments) and other notes gathered by me (Alexander Tin) while covering the Biden administration's public health agencies, including their response to infectious disease outbreaks like COVID-19 or mpox. Some of these end up in articles and other reporting I do for the network.
 
 Before December 2022, many of my notes were previously written in Revue before being shared on Twitter. Revue has since been shut down, but you can still see some of those notes on the Internet Archive. 
 
