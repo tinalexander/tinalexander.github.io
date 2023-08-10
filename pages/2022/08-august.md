@@ -4,6 +4,11 @@ title: August 2022
 permalink: /pages/2022/08-august/
 ---
 
+<br>
+
+> [!NOTE]
+> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+
 ## 08/31/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-31-2022-1336103)
