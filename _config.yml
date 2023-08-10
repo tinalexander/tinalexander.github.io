@@ -3,7 +3,7 @@ description: Files and other notes gathered by Alexander Tin while reporting for
 author: "Alexander Tin"
 email: TinA@CBSNews.com
 
-theme: minima
+theme: minimal
 
 plugins:
   - jekyll-seo-tag
@@ -12,7 +12,4 @@ plugins:
 # Minima social links
 github_username: tinalexander
 
-# Minima custom header links
-header_pages:
-  - README.md
 
