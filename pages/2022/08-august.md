@@ -6,7 +6,7 @@ permalink: /pages/2022/08-august/
 
 <br>
 
-> [!NOTE]
+> [!IMPORTANT]
 > Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
 
 ## 08/31/2022
