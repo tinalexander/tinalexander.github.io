@@ -27,6 +27,6 @@ aux_links_new_tab: false
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 callouts:
-  note:
+  important:
     title: Important
     color: yellow
