@@ -4,7 +4,9 @@ title: August 2022
 permalink: /pages/2022/08-august/
 ---
 
-[About these notes](https://github.com/tinalexander/notes).
+## 08/31/2022
+
+Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-31-2022-1336103)
 
 ### From an [HHS spokesperson](https://www.cbsnews.com/news/covid-vaccine-boosters-omicron-variant-ba4-ba5-fda-cdc/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
@@ -874,3 +876,4 @@ But we’re just going to beg, steal, and borrow from parts of the FDA until we 
 
 ... we began pharmacist assessment/prescribing in a limited number of stores this week.
 Beginning this week, a small number of stores in Florida and Kentucky will have trained, state-licensed pharmacists on site available to perform a clinical screening and assessment, prescribe and dispense Paxlovid to eligible patients who have a tested positive for COVID-19. We have prioritized access to patients living in socially vulnerable and medically underserved communities and will continue to do so as we expand the service.
+
