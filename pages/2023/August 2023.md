@@ -1,6 +1,8 @@
+---
 layout: page
 title: "August 2023"
 permalink: /2023/august-2023
+---
 
 [About these notes](https://github.com/tinalexander/notes/wiki).
 
