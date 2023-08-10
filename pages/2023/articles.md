@@ -1,5 +1,5 @@
 ---
-title: articles
+title: Articles
 layout: minimal
 parent: 2023
 has_children: false
