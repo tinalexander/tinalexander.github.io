@@ -1,5 +1,10 @@
-email: TinA@CBSNews.com
+title: Notes by Alexander Tin
+author:
+  name: Alexander Tin
+  email: TinA@CBSNews.com
 
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Files and other notes gathered by Alexander Tin while reporting for CBS News.
 
@@ -14,6 +19,11 @@ plugins:
 # Theme-specific settings
 
 minima:
+  # Minima date format.
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #
+  # date_format: "%b %-d, %Y"
+  
   # Generate social links in footer.
   #
   # social_links:
