@@ -4,4 +4,4 @@ Initially, I was saving them on [Revue](https://help.twitter.com/en/using-twitte
 
 The notes here probably contain typos or other errors. Please let me know if you spot one!
 
-You can email me at [TinA@CBSNews.com](mailto:TinA@CBSNews.com). More about me can be found [Github profile](https://github.com/tinalexander). 
+You can reach me by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or through the information on my [Github profile](https://github.com/tinalexander). 
