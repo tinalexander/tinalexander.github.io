@@ -1,13 +1,16 @@
 ---
-layout: default
-title: March 2023
-permalink: /pages/2023/03-march/
+title: March
+layout: minimal
+parent: 2023
+has_children: false
+has_toc: false
+permalink: /2023/03
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me).  
 
 ## 03/30/2023
 
