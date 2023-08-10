@@ -1,13 +1,17 @@
 ---
-layout: default
-title: October 2022
-permalink: /pages/2022/10-october/
+title: October
+layout: minimal
+parent: 2022
+has_children: false
+has_toc: false
+nav_order: 10
+permalink: /2022/10
 ---
 
 <br>
 
-> [!IMPORTANT]
-> Learn more [about these notes](https://github.com/tinalexander/notes) and how to get in touch. 
+{: .important }
+Learn more [about these notes](https://github.com/tinalexander/notes) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 ## 10/27/2022
 
