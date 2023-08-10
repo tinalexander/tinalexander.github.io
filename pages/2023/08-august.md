@@ -1,8 +1,10 @@
 ---
-title: August 2023
-layout: minimal
-parent: Notes for 2023
-permalink: /2023/08-august
+title: August
+layout: default
+parent: 2023
+has_children: false
+has_toc: false
+permalink: /2023/08
 ---
 
 <br>
