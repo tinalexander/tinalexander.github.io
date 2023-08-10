@@ -1,10 +1,10 @@
 ---
 title: articles
-layout: default
+layout: minimal
 has_children: false
 has_toc: false
 permalink: /articles
-nav_order: 3
+nav_order: 0
 ---
 
 Here are some recent articles I've worked on so far this year. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
