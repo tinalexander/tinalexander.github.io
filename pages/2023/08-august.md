@@ -686,7 +686,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > CDC is concerned any time we see a rise in case counts. However, CDC does not believe there is a great concern to the American public. The number of persons in the United States with unexplained Hansen’s disease is very small. The majority of the population is genetically immune to Hansen’s disease.
 > 
-> For additional information you may want to reach out to HRSA’s National Hansen’s Disease Program: National Hansen's Disease (Leprosy) Program Caring and Curing Since 1894 | HRSA.
+> For additional information you may want to reach out to HRSA’s National Hansen’s Disease Program: National Hansen's Disease (Leprosy) Program Caring and Curing Since 1894  HRSA.
 
 # August 2, 2023
 
