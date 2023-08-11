@@ -1,6 +1,6 @@
 ---
 title: Articles
-layout: minimal
+layout: default
 parent: 2023
 has_children: false
 has_toc: false

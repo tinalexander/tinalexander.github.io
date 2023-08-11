@@ -1,6 +1,6 @@
 ---
 title: November
-layout: minimal
+layout: default
 parent: 2022
 has_children: false
 has_toc: false
