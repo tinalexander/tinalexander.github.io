@@ -17,7 +17,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 ## HHS secretary on marijuana scheduling
 
-- **Source:** [livestream] on "visiting UC Davis' farm-to-fork kitchen"
+- **Source:** [livestream](https://www.youtube.com/watch?v=hehDVXIXBOI) on "visiting UC Davis' farm-to-fork kitchen"
 - **Date:** broadcasted June 15, 2023
 
 > Xavier Becerra, HHS [00:15:01]
