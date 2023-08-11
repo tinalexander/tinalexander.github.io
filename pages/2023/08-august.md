@@ -684,9 +684,9 @@ If Pfizer’s RSV vaccine receives the necessary FDA regulatory approvals, CDC a
 
 > The CDC does publish the EID journal, but conclusions, findings, and opinions expressed by authors contributing to this journal do not necessarily reflect the official position of CDC. So, we would defer to the study authors to discuss this specific report.
 > 
-> CDC is concerned any time we see a rise in case counts. However, CDC does not believe there is a great concern to the American public. The number of persons in the United States with unexplained Hansen’s disease is very small.  The majority of the population is [genetically immune to Hansen’s disease](https://urldefense.com/v3/__https:/www.cdc.gov/leprosy/index.html*:*:text=Around*2095*25*20of*20all*20people,the*20disease*20to*20other*20people.__;I34lJSUlJSUlJSU!!CxwJSw!PwiLDAkomVVCFfOYQq2kp1wb1xp_pky0xOuWPSEjC6ewVScSyudUAf49wLzn3qpJE2urqB6y-w$).   
+> CDC is concerned any time we see a rise in case counts. However, CDC does not believe there is a great concern to the American public. The number of persons in the United States with unexplained Hansen’s disease is very small. The majority of the population is genetically immune to Hansen’s disease.
 > 
-> For additional information you may want to reach out to HRSA’s National Hansen’s Disease Program: [National Hansen's Disease (Leprosy) Program Caring and Curing Since 1894 | HRSA](https://urldefense.com/v3/__https:/www.hrsa.gov/hansens-disease__;!!CxwJSw!PwiLDAkomVVCFfOYQq2kp1wb1xp_pky0xOuWPSEjC6ewVScSyudUAf49wLzn3qpJE2u79UwtAQ$).
+> For additional information you may want to reach out to HRSA’s National Hansen’s Disease Program: National Hansen's Disease (Leprosy) Program Caring and Curing Since 1894 | HRSA.
 
 # August 2, 2023
 
@@ -833,8 +833,8 @@ If Pfizer’s RSV vaccine receives the necessary FDA regulatory approvals, CDC a
 > 
 > Swine flu cases are reported as “influenza, novel” in the weekly Flu Focus reports and the Michigan Diseases Surveillance Reports.
 > 
-> [MI Flu Focus influenza surveillance report (michigan.gov)](https://urldefense.com/v3/__https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/Folder1/Folder43/MIFluFocus.pdf?rev=5b6f381a4c5b4c6a9eea3b8b05cd0332&hash=FD426CBAA59B13F24643C5B08D33BF62__;!!CxwJSw!NVixpqnOcwr-YBu00XFMDzn7a-fSWR7j25mX-VI6ZXXvpuSxWfMLlSIa23ygJH0vlH984NX8BGvzfaE$)
+> MI Flu Focus influenza surveillance report (michigan.gov)
 > 
-> [Current_WSR.pdf (michigan.gov)](https://urldefense.com/v3/__https://www.michigan.gov/mdhhs/-/media/Project/Websites/mdhhs/CDINFO/WSR/Current_WSR.pdf?rev=2219a79dac8f486fa870c4afcb339848&hash=F23C8EB5D0CCD5378F6A5AE8CF1CB954__;!!CxwJSw!NVixpqnOcwr-YBu00XFMDzn7a-fSWR7j25mX-VI6ZXXvpuSxWfMLlSIa23ygJH0vlH984NX8gwSwVro$)
+> Current_WSR.pdf (michigan.gov)
 > 
-> [Reports & Publications (michigan.gov)](https://urldefense.com/v3/__https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/recentupdates/publications__;!!CxwJSw!NVixpqnOcwr-YBu00XFMDzn7a-fSWR7j25mX-VI6ZXXvpuSxWfMLlSIa23ygJH0vlH984NX8Gu46pdI$)
+> Reports & Publications (michigan.gov)
