@@ -13,6 +13,31 @@ permalink: /2023/08
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
+# August 11, 2023
+
+## CDC official on disease forecasting
+
+- **Source:** [episode](http://johnshopkinssph.libsyn.com/647-the-zombie-episode-pandemics-in-science-fiction) of "Public Health On Call"
+- **Date:** published August 9, 2023
+
+> Dylan George, CDC [00:14:50]
+> 
+> We launched the center for forecasting outbreak analytics officially in January of this year. 
+> 
+> We started as a team of five. Now we have about a headcount of about 50, and it is an impressive group of folks that we've been able to bring together. There are people that have left academia, tenure track positions in academia, to come help us build this because they see the mission as so important. 
+> 
+> We've got-- we're starting to build the tools. We're starting to build the teams. We're starting to build the partnerships. So we're well on our way to actually making a lasting impact. And so it's exciting to see the progress that we're making right now.
+> 
+> Question [00:15:25]
+> 
+> Yeah. I can tell you are envisioning a much more rapid effective data to really help with the response, not just at the national level, but at community levels too. Is that right?
+> 
+> Dylan George, CDC [00:15:36]
+> 
+> Exactly. It's, you know, we take a lot of inspiration from looking at how weather forecasting has transformed over the last 50 years or so. I mean, to the point that we all have mobile devices now, and if you have an Apple mobile device, you can actually see in the weather app, you can see hyper local information about when rain is coming through, what's the precipitation gonna be like, what is the temperature, what is going to be the humidity. And in a very, very localized way.
+> 
+> We take a lot of inspiration and aspirationally we want to build to that so that we can enable individuals, mayors, and governors to have the information so that they can be empowered to make decisions, to keep themselves, their families and their communities safe from infectious diseases.
+
 # August 9, 2023
 
 ## CDC spokesperson on Jose Romero's departure
