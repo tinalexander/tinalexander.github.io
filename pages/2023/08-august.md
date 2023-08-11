@@ -675,7 +675,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source**: email from CDC spokesperson Kathleen Conley
 - **Date**: received August 3, 2023
 
-If Pfizer’s RSV vaccine receives the necessary FDA regulatory approvals, CDC and its advisers will determine the appropriate timing of another meeting to discuss recommendations.
+> If Pfizer’s RSV vaccine receives the necessary FDA regulatory approvals, CDC and its advisers will determine the appropriate timing of another meeting to discuss recommendations.
 
 ## CDC spokesperson about leprosy report in EID journal
 
