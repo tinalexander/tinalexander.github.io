@@ -820,7 +820,7 @@ If Pfizer’s RSV vaccine receives the necessary FDA regulatory approvals, CDC a
 > 
 > However, it is likely the patient was infected with an influenza A(H3)v virus given the presumptive positive test results from Michigan, as well as the epidemiologic findings of the local investigation which determined the patient was exposed to pigs within 10 days prior to illness onset at an agricultural fair where influenza A virus was detected among pigs. Additional investigation did not identify respiratory illness in any of the patient’s close contacts or household contacts. No person-to-person transmission of influenza A(H3)v virus associated with this patient has been identified. This case will be reported in FluView and FluView Interactive on Friday, August 4th. 
 > 
-> CDC recommends people take precautions to prevent the spread of flu viruses between pigs and people when exhibiting pigs or attending agricultural fairs where pigs are present. CDC guidance for people exhibiting pigs at fairs is available at Key Facts for People Exhibiting Pigs at Fairs | CDC, and guidance for fair organizers is available at Issues for Fair Organizers to Consider When Planning Fairs | CDC.
+> CDC recommends people take precautions to prevent the spread of flu viruses between pigs and people when exhibiting pigs or attending agricultural fairs where pigs are present. CDC guidance for people exhibiting pigs at fairs is available at Key Facts for People Exhibiting Pigs at Fairs  CDC, and guidance for fair organizers is available at Issues for Fair Organizers to Consider When Planning Fairs  CDC.
 
 ## Michigan DHHS spokesperson on swine flu case
 
