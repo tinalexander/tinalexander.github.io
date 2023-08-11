@@ -15,6 +15,51 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 11, 2023
 
+## DEA administrator on HHS marijuana scheduling
+
+- **Source:** [hearing](https://judiciary.house.gov/committee-activity/hearings/oversight-drug-enforcement-administration) of "Oversight of the Drug Enforcement Administration"
+- **Date:** broadcasted July 27, 2023
+
+> Rep Matt Gaetz [01:00:42]
+> 
+> So I guess my question is this, why has the Biden administration not taken marijuana off the list of schedule one drugs?
+> 
+> Anne Milgram, DEA [01:00:50]
+> 
+> So Congressman, as you know, the president had sent a letter to the secretary of HHS and to the attorney general to ask for the scheduling, descheduling, process to begin. It's now with HHS. They are in that process. They start, then they send it to DEA. We have not received it yet.
+> 
+> Rep Matt Gaetz [01:01:08]
+> 
+> That's encouraging. When do you expect to receive that recommendation from HHS?
+> 
+> Anne Milgram, DEA [01:01:13]
+> 
+> I have not heard of a timeline from them. So I don't know.
+> 
+> Rep Matt Gaetz [01:01:17]
+> 
+> Well, that's unsettling, isn't it? I mean, when you don't even know a timeline, it doesn't really make it seem like something's front of mind.
+> 
+> Anne Milgram, DEA [01:01:24]
+> 
+> We have constant conversations with HHS and with FDA, but we have not been given a specific timeline.
+> 
+> Rep Matt Gaetz [01:01:30]
+> 
+> Will you leave this briefing and encourage HHS to give you a timeline on getting that information to you?
+> 
+> Anne Milgram, DEA [01:01:35]
+> 
+> I will ask.
+> 
+> Rep Matt Gaetz [01:01:37]
+> 
+> Thank you. And when you receive the work product from HHS, is there any basis that DEA would have to oppose the descheduling of marijuana as a schedule one drug?
+> 
+> Anne Milgram, DEA [01:01:49]
+> 
+> So the way the scheduling process works, under the law and the regulations, is HHS does a review. They then send it to DEA. We then do what is known as an eight factor review. There's an opportunity for public comment as well. And so we go through that part of the process. And so obviously we start with what HHS has provided us. We then go through our own review, and a public comment process. And then we come to a scheduling decision.
+
 ## CDC official on disease forecasting
 
 - **Source:** [episode](http://johnshopkinssph.libsyn.com/647-the-zombie-episode-pandemics-in-science-fiction) of "Public Health On Call"
