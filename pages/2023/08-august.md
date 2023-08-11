@@ -15,6 +15,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 11, 2023
 
+## HHS secretary on marijuana scheduling
+
+- **Source:** [livestream] on "visiting UC Davis' farm-to-fork kitchen"
+- **Date:** broadcasted June 15, 2023
+
+> Xavier Becerra, HHS [00:15:01]
+> 
+> On the issue of marijuana, what I can tell you is that the president instructed us at HHS, FDA in particular, to take a look at how we treat marijuana to see if we can update our review of marijuana as a drug and how we can make sure we treat it going forward on a federal level. Places like California have already changed the laws, the federal government has not. 
+> 
+> And so we've been instructed, and we're underway with that review as we speak. It doesn't-- it's not just HHS, it also includes DEA, other agencies, but we're working together to try to see if we can give the president an answer that's based on the science and the evidence.
+> 
+> Stay tuned. We hope to be able to get there pretty soon, hopefully this year.
+
 ## DEA administrator on HHS marijuana scheduling
 
 - **Source:** [hearing](https://judiciary.house.gov/committee-activity/hearings/oversight-drug-enforcement-administration) of "Oversight of the Drug Enforcement Administration"
