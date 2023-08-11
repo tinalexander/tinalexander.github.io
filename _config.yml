@@ -11,11 +11,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-# Enable or disable the site search
-# Supports true (default) or false
 search_enabled: true
 
-# Sort order for navigation links
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 callouts:
@@ -23,7 +20,11 @@ callouts:
     title: Important
     color: yellow
 
-# Footer "Edit this page on GitHub" link text
+nav_external_links:
+  - title: Attachments
+  url: https://github.com/tinalexander/notes/tree/main/attachments
+  hide_icon: false
+
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/tinalexander/notes/" # the github URL for your repo
