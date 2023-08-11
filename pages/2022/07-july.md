@@ -13,11 +13,11 @@ permalink: /2022/07
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 07/28/2022 
+# 07/28/2022 
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-07-28-2022-1286254)
 
-### From a COCA call
+## From a COCA call
 
 [01;01] CHRIS DUGGAR, CDC: Ordering began this Monday July 25th. And our first deliveries began yesterday.
 We have more in the air and on the ground today and more expected to be delivered tomorrow.
@@ -43,7 +43,7 @@ Everything that we’re shipping to you has a February 2023 expiration.
 
 So the lot that we have for distribution expires in February next calendar year.
 
-### From a monkeypox presser
+## From a monkeypox presser
 
 11:25:26 AM   JENNIFER MCQUISTON, CDC: As of July 27th, over 20,000 cases have been detected globally in 77 countries. 
 And here in the United States, there have been over 4,600 cases of monkeypox identified across 48 jurisdictions, including states, Washington DC, and Puerto Rico.

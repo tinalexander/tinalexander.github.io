@@ -13,30 +13,30 @@ permalink: /2023/06
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 06/29/2023
+# 06/29/2023
 
-### From CDC spokesperson Kathleen Conley
+## From CDC spokesperson Kathleen Conley
 
 CDC can confirm that it has received and tested mosquito specimens from both FL and TX in support of their investigations.
 
 Information on the result of specimens tested at CDC are shared with the states. For additional information on the number of mosquitos sent by the state, results of testing, and locations where mosquitos were collected please contact the state.
 
-### From Texas DSHS spokesperson Chris Van Deusen
+## From Texas DSHS spokesperson Chris Van Deusen
 
 So far, all mosquitoes tested have been negative. We generally discuss cases, not suspected, possible or speculative cases.
 
-### From Sarasota County Mosquito Management Services
+## From Sarasota County Mosquito Management Services
 
 Sarasota County Mosquito Management Services sends samples to the CDC weekly. We have sent over 100 Anopheles to the CDC for testing. So far three have come back positive. All three were collected from the same woodlot. Mosquito management has already conducted multiple truck, aerial, backpack treatments in that woodlot to eradicate the Anopheles. Efforts continue to test more Anopheles from all areas of concern as well as treatments.
 
-### From Christopher Lesser of Manatee County Mosquito Control District
+## From Christopher Lesser of Manatee County Mosquito Control District
 
 we are collecting 2x/week since May 23 for a total of 11 shipments.  None have been found to be “positive” or infected with malaria/Plasmodium in Manatee County.  In addition, we have no humans infected in Manatee County (we are immediately to the north of Sarasota. 
 As a point of clarification, within these 11 shipments, there have been approximately 50 individual samples or “pools” submitted.  Again …. None have been been found to be positive for malaria in Manatee County. 
 
-## 06/27/2023
+# 06/27/2023
 
-### From a COVID-19 Vaccine Education and Equity Project [webinar](https://covidvaccineproject.org/news/whats-next-for-the-covid-19-response-a-conversation-with-experts/)
+## From a COVID-19 Vaccine Education and Equity Project [webinar](https://covidvaccineproject.org/news/whats-next-for-the-covid-19-response-a-conversation-with-experts/)
 
 Peter Marks, FDA [00:05:30]
 
@@ -94,9 +94,9 @@ As I said, in September, we expect the 2023-2024 formulations to be available, a
 
 And I do hear, incredibly, thank you for the advice, we do need to keep-- we will try to make sure that there are clear recommendations for providers and clear recommendations to the population about what they should be doing. 
 
-## 06/26/2023
+# 06/26/2023
 
-### From a CDC [webinar](https://www.cdc.gov/locs/2023/06-23-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_June_26.html) for testing laboratories 
+## From a CDC [webinar](https://www.cdc.gov/locs/2023/06-23-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_June_26.html) for testing laboratories 
 
 Natalie Thornburg, CDC [00:09:29]
 
@@ -208,9 +208,9 @@ Anastasia Litvintseva, CDC [00:50:17]
 
 To the best of my knowledge there have been autopsies, the specimens have been sent for culture, unfortunately, there are no positive cultures yet, but in theory it should be possible to culture this organism from tissues, but unfortunately all negative so far.
 
-## 06/23/2023
+# 06/23/2023
 
-### From the third of a three day [meeting](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) of the CDC's ACIP during June 2023
+## From the third of a three day [meeting](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) of the CDC's ACIP during June 2023
 
 Matthew Daley, ACIP [01:13:07]
 
@@ -378,9 +378,9 @@ So persons who have not had mpox and also have not received vaccinations. And th
 
 So if you can find people to give them an extra dose of the vaccine, similarly, you should be able to find people to optimize immune function. And then they also, if someone were to develop severe manifestations of mpox, regardless of whether it's after a vaccination or not, we do have CDC interim treatment considerations that were published in March of this year about how to manage patients with, at risk, of severe manifestations of mpox that describes how to use the medical countermeasures that are stockpiled by the U.S. government and how to consult CDC for 24/7 consultations. And all of these things might help prevent  severe infections and should be considered in combination with vaccines. 
 
-## 06/22/2023
+# 06/22/2023
 
-### From the second of a three day [meeting](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) of the CDC's ACIP during June 2023
+## From the second of a three day [meeting](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) of the CDC's ACIP during June 2023
 
 David Kaslow, FDA [08:32:49]
 
@@ -653,9 +653,9 @@ Peggy Webster, GSK [04:34:06]
 
 I can answer for GSK. We did look at COVID infections and were unable to find, again, any sort of association between the pre-term births and the COVID infection or COVID vaccinations.
 
-## 06/21/2023
+# 06/21/2023
 
-### From the first of a three day [meeting](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) of the CDC's ACIP during June 2023
+## From the first of a three day [meeting](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) of the CDC's ACIP during June 2023
 
 Alejandra Gurtman, Pfizer [08:38:07]
 
@@ -1017,9 +1017,9 @@ Grace Lee, ACIP [04:58:58]
 
 Okay. Thank you. And vote number two passes. So adults 60 to 64 may receive a single dose of RSV vaccine using shared clinical decision making. 
 
-## 06/20/2023
+# 06/20/2023
 
-### From a CDC [webinar](https://emergency.cdc.gov/coca/calls/2023/callinfo_062023.asp) on "What Providers Need to Know about Zoonotic Influenza"
+## From a CDC [webinar](https://emergency.cdc.gov/coca/calls/2023/callinfo_062023.asp) on "What Providers Need to Know about Zoonotic Influenza"
 
 Todd Davis, CDC [00:29:17]
 
@@ -1031,9 +1031,9 @@ And then finally, a lot of this is also coordinated with other U.S. government a
 
 There are also antivirals that are stocked as well as PPE that's stocked in addition.
 
-## 06/16/2023
+# 06/16/2023
 
-### From the second day of an HHS NVAC [meeting](https://www.hhs.gov/vaccines/nvac/meetings/2023/06-15/index.html) for June 2023
+## From the second day of an HHS NVAC [meeting](https://www.hhs.gov/vaccines/nvac/meetings/2023/06-15/index.html) for June 2023
 
 Georgina Peacock, CDC [00:20:44]
 
@@ -1107,9 +1107,9 @@ Georgina Peacock, CDC [00:49:35]
 
 I don't think I can speak to that at this moment, because I--  we don't have the recommendation yet.
 
-## 06/15/2023
+# 06/15/2023
 
-### From the first day of an HHS NVAC [meeting](https://www.hhs.gov/vaccines/nvac/meetings/2023/06-15/index.html) for June 2023
+## From the first day of an HHS NVAC [meeting](https://www.hhs.gov/vaccines/nvac/meetings/2023/06-15/index.html) for June 2023
 
 Anne Hause, CDC [10:13:43 AM]
 
@@ -1165,7 +1165,7 @@ So in addition to our ongoing support of currently approved recombinant proteins
 
 We are pleased to announce that, in partnership with the Joint Program Executive Office for Chemical, Biological, Radiological and Nuclear Defense, we have partnered with Access to Advanced Health Institute and AstraZeneca to develop pandemic influenza RNA vaccine candidates. 
 
-### From an FDA VRBPAC [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-15-2023-meeting-announcement) on COVID-19 vaccine strain selection
+## From an FDA VRBPAC [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-15-2023-meeting-announcement) on COVID-19 vaccine strain selection
 
 Peter Marks, FDA [09:10:01 AM]
 
@@ -1379,9 +1379,9 @@ What we heard today is that we did hear the recommendation for an updated compos
 
 I think our decision obviously will incorporate what we've heard today. And I don't think it will come as any surprise based on the discussion today. And then we anticipate that the manufacturers will be moving forward, with manufacturing and then obtaining data and filings needed to inform our ultimate FDA actions in order to have vaccines evaluated with our safety and effectiveness standards for availability in the September timeframe. 
 
-## 06/13/2023
+# 06/13/2023
 
-### From a Foreign Policy [event](https://www.youtube.com/watch?v=PE1A-Lra7wU) on "Influenza Strategies in the Age of COVID"
+## From a Foreign Policy [event](https://www.youtube.com/watch?v=PE1A-Lra7wU) on "Influenza Strategies in the Age of COVID"
 
 Vivien Dugan, CDC [00:01:13]
 
@@ -1401,9 +1401,9 @@ We do watch and analyze what's happening in the Southern hemisphere quite a bit.
 
 You know, when we think about flu, it's not just one virus, it's actually three to four viruses each year that circulate around the world. And so that's always flu season somewhere. So in the Northern hemisphere, it's our winter, but right now it's winter in the Southern hemisphere. And so that activity is starting to pick up.
 
-## 06/09/2023
+# 06/09/2023
 
-### From an FDA [advisory committee meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/updated-information-june-9-2023-meeting-peripheral-and-central-nervous-system-drugs-advisory) on Eisai's Leqembi
+## From an FDA [advisory committee meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/updated-information-june-9-2023-meeting-peripheral-and-central-nervous-system-drugs-advisory) on Eisai's Leqembi
 
 Dr Teresa Buracchio, FDA [00:11:53]
 
@@ -1429,9 +1429,9 @@ Dr Teresa Buracchio, FDA [00:23:22]
 
 Again, no final decision has been made on approvability of this supplemental application. And we very much look forward to the insights you will provide. We have convened this committee because we feel that a final decision requires your input and advice.
 
-## 06/07/2023
+# 06/07/2023
 
-### From an IDSA and CDC [webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-ending-of-the-covid-19-public-health-emergency--other-related-changes-what-clinicians-need-to-know/) on end of public health emergency
+## From an IDSA and CDC [webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-ending-of-the-covid-19-public-health-emergency--other-related-changes-what-clinicians-need-to-know/) on end of public health emergency
 
 MEGHAN PENNINI, ASPR [00:29:56]
 
@@ -1471,9 +1471,9 @@ I can't give you an exact timeline on that, but it's something that we're active
 
 The longer term-- Alex Kallen to talk about the healthcare specifics of-- the longer term goal is to have some sort of like widget that could be go on your weather app or otherwise that tells you how much respiratory disease is in  your community. And just a super simple thing for the public, certainly healthcare professionals may want something that's more in depth.
 
-## 06/01/2023
+# 06/01/2023
 
-### From CDC's update through May 31 on mpox cases
+## From CDC's update through May 31 on mpox cases
 
 Location | [31-May-23](https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) | [24-May-23](https://web.archive.org/web/20230530143013/https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) | Difference
 -- | -- | -- | --

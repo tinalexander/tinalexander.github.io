@@ -13,9 +13,9 @@ permalink: /2023/05
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 05/26/2023
+# 05/26/2023
 
-### From a [webinar](https://twitter.com/msg_erc/status/1661470477574103041?s=12&t=NM6QgCzjQYBje9-ZtyxSvg) hosted by MSG ERC on fungal meningitis outbreak
+## From a [webinar](https://twitter.com/msg_erc/status/1661470477574103041?s=12&t=NM6QgCzjQYBje9-ZtyxSvg) hosted by MSG ERC on fungal meningitis outbreak
 
 DALLAS SMITH, CDC [00:05:22]
 
@@ -101,9 +101,9 @@ I mean, you can do a little bit of sequencing of the little region you get from 
 
 So yes, we, we are hoping to do that, but I think we need to grow at first either in the United States or Mexico.
 
-## 05/25/2023
+# 05/25/2023
 
-### From a [webinar](https://www.aabb.org/education/calendar/event/2023/05/25/hot-topic-discussion/hot-topic-discussion-join-fdas-dr-peter-marks-for-an-individual-donor-assessment-update-23el-840) hosted by AABB on the updated individual donor assessment 
+## From a [webinar](https://www.aabb.org/education/calendar/event/2023/05/25/hot-topic-discussion/hot-topic-discussion-join-fdas-dr-peter-marks-for-an-individual-donor-assessment-update-23el-840) hosted by AABB on the updated individual donor assessment 
 
 QUESTION [00:24:08]
 
@@ -155,11 +155,11 @@ This has to be done in an orderly fashion, in a safe fashion, that it takes time
 
 So I think we'll be continuing to say that. 
 
-### From an FDA spokesperson asked if doctors can now prescribe Paxlovid off-label
+## From an FDA spokesperson asked if doctors can now prescribe Paxlovid off-label
 
 PAXLOVID that is labeled for use under the Emergency Use Authorization (EUA) remains subject to the terms and conditions of the EUA. Individuals being considered for PAXLOVID treatment must meet the eligibility requirements under the EUA at the time of prescription. For related and other important information on PAXLOVID, please refer to FDA’s FAQs at: https://www.fda.gov/media/155052/download
 
-### From CDC's [tallies](https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) of U.S. mpox cases through May 24
+## From CDC's [tallies](https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) of U.S. mpox cases through May 24
 
 Location | [24-May-23](https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) | [17-May-23](https://web.archive.org/web/20230522000112/https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) | Difference
 -- | -- | -- | --
@@ -177,7 +177,7 @@ Virginia | 572 | 571 | 1
 ... | ... | ... | ...
 Michigan | 399 | 400 | -1
 
-### From CDC's mpox [case trends](https://www.cdc.gov/poxvirus/mpox/response/2022/mpx-trends.html) through May 24
+## From CDC's mpox [case trends](https://www.cdc.gov/poxvirus/mpox/response/2022/mpx-trends.html) through May 24
 
 Epi date | Cases | 7 day average | Cumulative this month
 -- | -- | -- | --
@@ -236,9 +236,9 @@ Epi date | Cases | 7 day average | Cumulative this month
 5/23/23 | 0 | 0.85714287 | 32
 5/24/23 | 0 | 0.85714287 | 32
 
-## 05/24/2023
+# 05/24/2023
 
-### From a [public meeting](https://reaganudall.org/news-and-events/events/2023-annual-public-meeting) by the Reagan Udall Foundation
+## From a [public meeting](https://reaganudall.org/news-and-events/events/2023-annual-public-meeting) by the Reagan Udall Foundation
 
 HILARY MARSTON, FDA [00:39:07]
 
@@ -272,7 +272,7 @@ But these are things at the edges, right? And in the interim, while we're trying
 
 But we definitely welcome creativity in this area.
 
-### From a panel at the WOAH annual [general session](https://www.facebook.com/worldanimalhealth/videos/1298281484456241/) this week
+## From a panel at the WOAH annual [general session](https://www.facebook.com/worldanimalhealth/videos/1298281484456241/) this week
 
 ROSEMARY SIFFORD, USDA [01:17:37]
 
@@ -290,9 +290,9 @@ We also see quite a bit of interest from other stakeholders who are not a part o
 
 And then I'll close out by mentioning, too, that we have spent a lot of time talking about our regionalization and compartmentalization. We do think that there is a strong role for for those tools with the use of vaccination. And so the scenarios that we've been developing definitely incorporate the use of either regionalization or compartmentalization to think about how we might effectively use vaccination.
 
-## 05/23/2023
+# 05/23/2023
 
-### From an [interview](https://www.csis.org/podcasts/commonhealth/dr-ashish-jha-white-house-covid-response-coordinator-pandemic-wartime-over) on "The CommonHealth" podcast
+## From an [interview](https://www.csis.org/podcasts/commonhealth/dr-ashish-jha-white-house-covid-response-coordinator-pandemic-wartime-over) on "The CommonHealth" podcast
 
 ASHISH JHA, WHITE HOUSE [00:19:29]
 
@@ -324,7 +324,7 @@ I will say, by the way, it is hard to predict when you're going to get another T
 
 So the strategy is you pick the best people. Thankfully, we have a lot of very talented, capable scientific and public health leaders in our country that the administration can turn to. Who knows who will still be there 50 years later, 40 years later? That's a-- you only can hope we get another Tony Fauci. But I dare not imagine that's going to happen.
 
-### From a [webinar](https://www.acpjournals.org/doi/10.7326/M23-1338) published by Annals of Internal Medicine
+## From a [webinar](https://www.acpjournals.org/doi/10.7326/M23-1338) published by Annals of Internal Medicine
 
 ASHISH JHA, WHITE HOUSE [00:22:10]
 
@@ -338,9 +338,9 @@ What will happen with those is Pfizer has applied for full licensure. At some po
 
 So there's a lot of complexity here. So simply thinking about this: vaccine, probably in the fall, treatment, probably sometime in the late summer or fall, we'll start seeing that switch over, and between now and then, remains free, remains widely available, remains U.S. government stock.
 
-## 05/19/2023
+# 05/19/2023
 
-### From a CDC press briefing on mpox updates
+## From a CDC press briefing on mpox updates
 
 CHRISTOPHER BRADEN, CDC [00:22:21]
 
@@ -428,7 +428,7 @@ But also in the current outbreak, we have studies ongoing in Washington, DC and 
 
 But we don't have that information yet, especially for the patients in the United States, they just haven't been vaccinated for that long. So-- but we're going to be looking and interrogating that data as soon as we can to get some clues about what may be happening. 
 
-### From a [meeting](https://youtu.be/NXVMILYvocM) of FDA's VRBPAC on Pfizer's RSV vaccine to protect infants
+## From a [meeting](https://youtu.be/NXVMILYvocM) of FDA's VRBPAC on Pfizer's RSV vaccine to protect infants
 
 DAVID KASLOW, FDA [08:50:53]
 
@@ -764,7 +764,7 @@ But we can't wait for all that to take place because of something, which I'm sur
 
 So I think for a number of reasons, I think I'm convinced that we have evidence and evidence that should give us some degree of comfort that we can bite the bullet and move ahead with robust observational studies to help us over.
 
-### From an [FDLI conference](https://www.fdli.org/2023/05/2023-fdli-annual-conference/) session with Peter Marks
+## From an [FDLI conference](https://www.fdli.org/2023/05/2023-fdli-annual-conference/) session with Peter Marks
 
 PETER MARKS, FDA [00:16:12]
 
@@ -778,7 +778,7 @@ And what we're hoping now is that there will be a group of blood collectors that
 
 Larger blood collection systems may take a little time because it's true they have these large, in order to maintain a high level of safety, they have computer systems that need to be reprogrammed. And it costs a bunch of money and it takes some time to do. But I think this is a significant step forward. And it took a lot of effort from a lot of people. 
 
-### From an [FDLI conference](https://www.fdli.org/2023/05/2023-fdli-annual-conference/) session with Susan Mayne
+## From an [FDLI conference](https://www.fdli.org/2023/05/2023-fdli-annual-conference/) session with Susan Mayne
 
 SUSAN MAYNE, FDA [00:11:20]
 
@@ -786,9 +786,9 @@ We've also initiated work with the National Advisory Committee on Microbiologica
 
 First, it's important that Cronobacter sakazakii infections become a nationally notifiable disease. Currently, only two states, Minnesota and Michigan, require reporting of Cronobacter infections to state public health departments. This lack of mandatory reporting nationwide significantly hampers our ability to fully understand the public health impact of Cronobacter. In June, the Council of State and Territorial epidemiologists will consider the issue of notifiability for Cronobacter. And we fully support them, adding Cronobacter to the list of notifiable diseases. 
 
-## 05/17/2023
+# 05/17/2023
 
-### From a spokesperson for the Chicago Health Department on mpox cases
+## From a spokesperson for the Chicago Health Department on mpox cases
 
 Between 4/18 and 5/15, 21 cases have been reported to CDPH (20 confirmed; 1 probable). Prior to 4/18, 5 cases were reported from the start of the year.
 
@@ -805,7 +805,7 @@ CDPH is coordinating with CDC to investigate the outbreak. CDC is sending staff 
 <br>CDPH continues to actively engage community and health care providers to share/receive information.
 <br>CDPH recommends individuals vulnerable to Mpox infection receive 2 doses of Jynneos.
 
-### From a Health Affairs [event](https://www.healthaffairs.org/do/10.1377/he20230501.510972/) with Dawn O'Connell
+## From a Health Affairs [event](https://www.healthaffairs.org/do/10.1377/he20230501.510972/) with Dawn O'Connell
 
 DAWN O'CONNELL, ASPR [00:24:44]
 
@@ -857,11 +857,11 @@ This is an important part of the conversations that we're having. Will they have
 
 And the administration's been committed to setting up a bridge program, making sure that some of the doses that we have procured, and will continue to have, that we make available through through federally qualified health centers and that folks can get them there. CDC is working to do this through the pharmacy network to make sure that the pharmacies continue to be a place where folks without insurance can access some of these. And then, of course, the manufacturers themselves have been looking at their provider programs to be able to to ensure accessibility. 
 
-### From a spokesperson for Texas Department of State Health Services on fungal meningitis 
+## From a spokesperson for Texas Department of State Health Services on fungal meningitis 
 
 The patients were primarily from South Texas but not all of them. The procedures were all cosmetic procedures and we wanted to note that this includes liposuction because some people may not consider that surgery. We don’t want to give the impression that the risk is only associated with cosmetic procedures. The important thing to note is that all of the procedures included an epidural.
 
-### From a plenary session at the [2023 FDLI Annual Conference](https://www.fdli.org/2023/05/2023-fdli-annual-conference/)
+## From a plenary session at the [2023 FDLI Annual Conference](https://www.fdli.org/2023/05/2023-fdli-annual-conference/)
 
 ROBERT CALIFF, FDA [00:19:57]
 
@@ -877,13 +877,13 @@ I'm not asking you not to advocate, be advocates for your clients. My hope, howe
 
 In taking this honorable path, you can help make sure that facts win out over misinformation and disinformation, that the principles we stand for are not eroded, and that our ability to protect patients and consumers is reaffirmed and preserved. 
 
-### From a NIOSH spokesperson on recent visit to Billerud's Escanaba Mill after fungal outbreak
+## From a NIOSH spokesperson on recent visit to Billerud's Escanaba Mill after fungal outbreak
 
 NIOSH is in the process of combining information from the urine antigen test results with responses from the questionnaire to look for possible exposure to Blastomyces inside and outside the mill. NIOSH will summarize the overall results of the medical survey (screening test and questionnaire) and will share summarized information—without employee identities—with management. The NIOSH environmental team collected environmental samples from a variety of locations in and around the mill and are awaiting results from those samples. It is important to recognize that there aren’t well-standardized methods for this type of assessment, so we are not sure if it will be informative. There are no plans to return to the mill at this time.
 
-## 05/16/2023
+# 05/16/2023
 
-### From a CDC meeting with [testing laboratories](https://www.cdc.gov/locs/index.html) on May 15
+## From a CDC meeting with [testing laboratories](https://www.cdc.gov/locs/index.html) on May 15
 
 CARRIE REED, CDC [00:08:31]
 
@@ -931,13 +931,13 @@ CINDY FRIEDMAN, CDC [00:27:26]
 
 The expiration of the public health emergency will not impact our program for the next year. We will sustain the current footprint on both the nasal swab side and the wastewater side. And we're going to be integrating multi-pathogen targets as well, both on the nasal side and the aircraft wastewater side. And we hope to expand to 2 to 3 new airports in the coming year. 
 
-## 05/15/2023
+# 05/15/2023
 
-### From the California Department of Public Health on May 12
+## From the California Department of Public Health on May 12
 
 CDPH continues to closely monitor mpox trends in California and has not detected an increase in cases in recent weeks. CDPH is working with local health departments, clinics and community-based organizations serving patient populations most impacted by mpox to prepare for Pride events and/or increases in cases, including supporting vaccination efforts.
 
-### From the Chicago Department of Public Health on May 12
+## From the Chicago Department of Public Health on May 12
 
 I wanted to get back to you by the end of the day.
 
@@ -945,13 +945,13 @@ I haven't gotten any other details, other than yes, CDPH will be working with CD
 
 If I get any additional details, I'll get back to you asap.
 
-### From the New York City Department of Health and Mental Hygiene
+## From the New York City Department of Health and Mental Hygiene
 
 We are closely monitoring but right now we are not seeing clusters. However, sporadic cases of mpox continue to be reported and we urge people to protect themselves by getting both doses of the vaccine.
 
-## 05/12/2023
+# 05/12/2023
 
-### From a recent meeting of [CDC advisers to the director](https://www.cdc.gov/about/advisory-committee-director/index.html)
+## From a recent meeting of [CDC advisers to the director](https://www.cdc.gov/about/advisory-committee-director/index.html)
 
 NIRAV SHAH, CDC [00:12:08]
 
@@ -1003,9 +1003,9 @@ I think it's a huge issue. And I think that this is one of those things where, r
 
 Yeah, this is an enormous issue. Enormous issue.
 
-## 05/11/2023
+# 05/11/2023
 
-### From a [hearing](https://energycommerce.house.gov/events/health-subcommittee-hearing-preparing-for-and-responding-to-future-public-health-security-threats) with the House Energy & Commerce Committee
+## From a [hearing](https://energycommerce.house.gov/events/health-subcommittee-hearing-preparing-for-and-responding-to-future-public-health-security-threats) with the House Energy & Commerce Committee
 
 REP MICHAEL BURGESS [01:06:04]
 
@@ -1053,7 +1053,7 @@ REP RICHARD HUDSON [01:40:50]
 
 Well, and I appreciate that. And I think one of the things that this committee's got to kind of resolve and work through with this reauthorization is what's that really going to look like? And I would appreciate your feedback through this process, including any concerns you might have about structural problems or any ideas you have of how we can make the chain of command more clear. 
 
-### From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/may-11-2023-pulmonary-allergy-drugs-advisory-committee-meeting-announcement-05112023#event-materials) by FDA's PADAC on Neffy from ARS Pharmaceuticals
+## From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/may-11-2023-pulmonary-allergy-drugs-advisory-committee-meeting-announcement-05112023#event-materials) by FDA's PADAC on Neffy from ARS Pharmaceuticals
 
 MIYA PATERNITI, FDA [09:15:56]
 
@@ -1257,7 +1257,7 @@ And to answer the clinical question, the clinical data question, I strongly beli
 
 But I really would hate to learn, without some better clinical data, that we recommend approval of a product on the basis of surrogate data that's inconsistent and somewhat confusing and, ultimately because of that, patients are harmed. So I do think we need to have more data, clinical data. I just don't think surrogate data is going to be adequate to allow this indication to to support this indication. 
 
-### From [call](https://youtu.be/2YnypX2tCVY) hosted by NCSD on mpox resurgence
+## From [call](https://youtu.be/2YnypX2tCVY) hosted by NCSD on mpox resurgence
 
 DEMETRE DASKALAKIS, WHITE HOUSE [00:13:56]
 
@@ -1319,9 +1319,9 @@ CHRIS BRADEN, CDC [00:45:12]
 
 We were on a trajectory to where we weren't seeing clusters and only very few cases, and so we had decreased the frequency of reporting. But obviously, in the face of the increase in cases or clusters, we will need to be more forthcoming and frequent with with our surveillance.
 
-## 05/10/2023
+# 05/10/2023
 
-### From a CSTE spokesperson on cronobacter becoming reportable
+## From a CSTE spokesperson on cronobacter becoming reportable
 
 State laws and regulations specify which diseases and conditions must be reported and support the collection of individually identifiable information necessary to conduct a case investigation. Making a disease or condition nationally notifiable does not change the immediate public health action taken in response to an outbreak, case, or cluster of public health importance. However, it codifies the use of established processes for submitting and aggregating data at the national level. Diseases and conditions are added to the nationally notifiable conditions list by CSTE through a collaborative process that involves public health agencies and CDC.
 
@@ -1329,7 +1329,7 @@ In December 2022, CSTE convened a working group of experts on Cronobacter infect
 
 Matthew Cone
 
-### From a WHO spokesperson on WHO TAG CO VAC meeting
+## From a WHO spokesperson on WHO TAG CO VAC meeting
 
 The TAG-CO-VAC will meet in Geneva on 11-12 May to consider the genetic and antigenic evolution of SARS-CoV-2 variants, the performance of vaccine products against circulating SARS-CoV-2 variants and the implications for COVID-19 vaccine antigen composition. Based on this assessment, recommendations to either maintain current vaccine composition or to consider updates will be issued.
 
@@ -1343,7 +1343,7 @@ Media Relations
 
 Daniel Epstein
 
-### From a spokesperson for Texas DSHS on mpox cases
+## From a spokesperson for Texas DSHS on mpox cases
 
 What you are seeing in the CDC’s case counts are older cases that have just been reported after DSHS worked with a jurisdiction to reconcile some of their cases. At least 17 of the newly reported cases are from 2022 and 3 are from January and February of this year.
 
@@ -1351,7 +1351,7 @@ The CDC also had an issue with processing our cases in their system recently so 
 
 Lara M. Anton
 
-### From "2022 U.S. Map & Case Count" posted by CDC through May 10, 2023
+## From "2022 U.S. Map & Case Count" posted by CDC through May 10, 2023
 
 Location | [26-Apr](https://web.archive.org/web/20230510171335/https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) | [10-May](https://web.archive.org/web/20230510204821/https://www.cdc.gov/poxvirus/mpox/response/2022/us-map.html) | Difference
 -- | -- | -- | --
@@ -1366,7 +1366,7 @@ Oregon | 279 | 280 | 1
 Michigan | 401 | 400 | -1
 North Carolina | 737 | 712 | -25
 
-### From an FDA advisory committee meeting on Opill, [day 2 of 2](https://youtube.com/live/LO65CZ_PDeM)
+## From an FDA advisory committee meeting on Opill, [day 2 of 2](https://youtube.com/live/LO65CZ_PDeM)
 
 ERIN MURRY, FDA [09:51:01]
 
@@ -1516,9 +1516,9 @@ PAMELA HORN, FDA [YouTube 4;46;06]
 
 I just want to thank the panel so much for all of your careful consideration of the data and for taking the time to explain your votes carefully to us. We paid very careful attention and we appreciate the time you spent reviewing this application and giving us the expert advice that we wanted from the meeting. So, thank you all. 
 
-## 05/09/2023
+# 05/09/2023
 
-### From a Chicago Department of Public Health [livestream](https://twitter.com/i/broadcasts/1OyKAVpXkRMGb)
+## From a Chicago Department of Public Health [livestream](https://twitter.com/i/broadcasts/1OyKAVpXkRMGb)
 
 ALLISON ARWADY, CHICAGO [00:37:36]
 
@@ -1532,7 +1532,7 @@ And in that context, I just want to-- we've been putting this on social media an
 
 But just a reminder, this one is also not over. It's important that people protect themselves. It's serious. It's preventable. You can easily get your vaccine for mpox. And people who are-- who may be exposed to mpox should receive two vaccine doses. You're not fully vaccinated unless you've gotten two doses of that vaccine. 
 
-### From an FDA advisory committee meeting on Opill, [day 1 of 2](https://youtube.com/live/qsGSDRoLCx0)
+## From an FDA advisory committee meeting on Opill, [day 1 of 2](https://youtube.com/live/qsGSDRoLCx0)
 
 PAMELA HORN, FDA [09:43:27]
 
@@ -1840,7 +1840,7 @@ Therefore, FDA can't really rely on the experience in those other countries to t
 
 And I don't want the advisory committee to be misled into thinking that over 100 countries have nonprescription status equivalent to what would occur in the U.S. In fact, very few countries do.
 
-### From a Perrigo [quarterly earnings call](https://app.webinar.net/6JWj2xVwzyg) with investors
+## From a Perrigo [quarterly earnings call](https://app.webinar.net/6JWj2xVwzyg) with investors
 
 MURRAY KESSLER, PERRIGO [00:10:59]
 
@@ -1864,9 +1864,9 @@ And then by the time the FDA got into a position, I think that next 2 or 3 month
 
 But, like philosophically though, this is a product that has been on the market since the 1960s. There is reams and reams and reams of safety data on this. And when taken in a whole, we believe the FDA should approve this application, period. There's lots of pushback in there, which is their job, and that's what they're supposed to do. And we have many experts, they'll be testifying, and we'll see how it comes out. Ultimately, we believe this will get approved and hopefully it gets approved this time through, but again, it's not in our numbers this year. Next year, it's all upside.
 
-## 05/05/2023
+# 05/05/2023
 
-### From a CDC press briefing on end of COVID-19 health emergency
+## From a CDC press briefing on end of COVID-19 health emergency
 
 NIRAV SHAH, CDC [00:12:02]
 
@@ -2002,7 +2002,7 @@ BRENDAN JACKSON, CDC [00:42:05]
 
 In terms of the timing, I will defer to others on the exact timing of that. I don't believe it'll go ahead tomorrow, but it'll be coming quite soon, within the next week.
 
-### From a WHO [press conference](https://www.youtube.com/watch?v=B0oBevft4bs) on end of COVID-19 emergency
+## From a WHO [press conference](https://www.youtube.com/watch?v=B0oBevft4bs) on end of COVID-19 emergency
 
 TEDROS ADHANOM GHEBREYESUS, WHO 
 
@@ -2040,11 +2040,11 @@ It is better now to look in the IHR toolbox for a better, more adapted instrumen
 
 Such standing recommendations will allow to better integrate risk assessment and risk management concerning COVID 19 in the broader framework of pandemic preparedness and response. It will also allow to reinforce the link between surveillance prevention and treatment of COVID 19 and the strong system established since many years about influenza viruses in animals and humans. 
 
-### Statement from Roche on recalled over-the-counter COVID tests
+## Statement from Roche on recalled over-the-counter COVID tests
 
 SD Biosensor Inc., the manufacturer of the Pilot COVID-19 At-Home Test, informed Roche that this issue was identified during routine quality assurance testing. Potentially harmful bacteria were found in the liquid buffer solution (liquid inside pouch 2 of the kits) of specific lots of Pilot COVID-19 At-Home Tests sold in the U.S. With a direct focus on patient safety, Roche, as the exclusive distributor of these test kits in the U.S. market, immediately informed all distributors and retailers who received the affected lots and asked them to quarantine those lots at the distributor level while the investigation is ongoing. Roche and SD Biosensor have worked closely with the FDA to ensure any further action required is taken as quickly as possible.
 
-### Statement from SD Biosensor on recalled over-the-counter COVID tests
+## Statement from SD Biosensor on recalled over-the-counter COVID tests
 
 As a result of our investigation to analyze the cause of this contamination, it was confirmed that one of the raw materials of specific lots of liquid buffer solution was contaminated.
 
@@ -2060,9 +2060,9 @@ Kind Regards,
 <br>Evie Baik
 <br>PR Manager, SD Biosensor
 
-## 05/04/2023
+# 05/04/2023
 
-### From a [webinar](https://twitter.com/IDSAInfo/status/1654121632234094592) hosted by IDSA on COVID-19 vaccination and avian flu
+## From a [webinar](https://twitter.com/IDSAInfo/status/1654121632234094592) hosted by IDSA on COVID-19 vaccination and avian flu
 
 PETER MARKS, FDA [00:14:12]
 
@@ -2128,7 +2128,7 @@ I will just say that there's no evidence of these mammalian adaptation mutations
 
 If that were to happen, that would really increase the risk of transmission from birds to people and, frankly, from people to people. So we haven't seen that yet. But what it emphasizes is the importance of really sequencing every virus that's identified not just from people, but from birds, wild birds, from poultry, from mammals, and then infected people. 
 
-### From a Senate HELP [hearing](https://www.help.senate.gov/hearings/preparing-for-the-next-public-health-emergency-reauthorizing-the-pandemic-and-all-hazards-preparedness-act) on PAHPA reauthorization
+## From a Senate HELP [hearing](https://www.help.senate.gov/hearings/preparing-for-the-next-public-health-emergency-reauthorizing-the-pandemic-and-all-hazards-preparedness-act) on PAHPA reauthorization
 
 ROCHELLE WALENSKY, CDC [00:18:24]
 
@@ -2192,7 +2192,7 @@ ROBERT CALIFF, FDA [01:08:12]
 
 I threatened to wear a sawed off t shirt as a demonstration project. I still have the Band-Aid, but my staff told me that was not allowed in a Senate hearing.
 
-### From a Senate Appropriations [hearing](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fy-2024-funding-request-and-budget-justification-for-the-national-institutes-of-health) on NIH's budget request
+## From a Senate Appropriations [hearing](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fy-2024-funding-request-and-budget-justification-for-the-national-institutes-of-health) on NIH's budget request
 
 LAWRENCE TABAK, NIH [00:19:54]
 
@@ -2264,15 +2264,15 @@ They act by very different mechanisms. Fentanyl inhibit respiration and breathin
 
 And research is ongoing to develop therapeutics that can actually help in those overdoses.
 
-## 05/03/2023
+# 05/03/2023
 
-### From an FDA spokesperson about genome-edited livestock
+## From an FDA spokesperson about genome-edited livestock
 
 To clarify, the FDA did not approve a New Animal Drug Application (NADA) for the genome-edited pigs you referenced. The FDA’s Center for Veterinary Medicine recently received an Investigational Food-Use Authorization (IFUA) request from a developer at Washington State University – this is a request to put a specific number of investigational animals in the food supply. After thoroughly reviewing the data and information included in the request, the FDA determined that the food from five pigs containing an intentional genomic alteration (IGA) is safe and is authorized for food use. This decision does not authorize commercialization of this line of genome-edited pigs; it covers only the specific pigs involved in ongoing researchthat will enter the food supply. IFUAs are helpful to developers because they allow animals (or their products) fit for food to enter the food supply instead of being wasted. This is the first time FDA has granted an IFUA for human food use of genome-edited livestock. 
  
 An IFUA permits edible tissues from animal species treated with investigational products like new animal drugs, food additives, and investigational genomic alterations in animals to be used for food. The FDA issues letters authorizing the food use of a specific set of animals after evaluating data to identify any potential food safety hazards and ways to avoid them to ensure the safety of the edible products (e.g., meat, milk, eggs, honey) entering the human food chain. IFUA letters are not posted publicly because they typically contain confidential information.
 
-### From a [fireside chat](https://www.eventbrite.com/e/fireside-chat-tickets-608744961567) by the Kitalys Institute
+## From a [fireside chat](https://www.eventbrite.com/e/fireside-chat-tickets-608744961567) by the Kitalys Institute
 
 ROBERT CALIFF, FDA [00:10:17]
 
@@ -2298,9 +2298,9 @@ And as you well know, think the obesity drugs are going to be the other area whi
 
 And as far as I know, the mechanisms there are very complicated. So we could say, we sort of know the systems that are involved. We don't really know how the mechanisms play out, but it seems to be a general effect on a lot of things that are impacting chronic disease. So, it's a fertile time to be talking about this, and I'm glad you're doing it.
 
-## 05/02/2023
+# 05/02/2023
 
-### From the closing session of CDC's [EIS conference](https://www.cdc.gov/eis/conference/index.html) on April 24
+## From the closing session of CDC's [EIS conference](https://www.cdc.gov/eis/conference/index.html) on April 24
 
 PATTIE SIMONE, CDC [01:32:14]
 
@@ -2316,7 +2316,7 @@ We weren't really sure how many of you were going to show up for this conference
 
 And then for the streaming sessions, we had an average of 200 to 400 people participating virtually for those sessions. So good attendance. 
 
-### From a session at the [CMS Quality Conference](https://www.cmsqualcon.com/en/agenda-page) on restoring trust
+## From a session at the [CMS Quality Conference](https://www.cmsqualcon.com/en/agenda-page) on restoring trust
 
 ROBERT CALIFF, FDA [00:23:32]
 
@@ -2412,7 +2412,7 @@ But when you're in the middle of a pandemic and you have trucks parked outside o
 
 People would love it if you had all the data and could make an evidence based decision, but you got to go with what you have. It's a lot like the ICU, Lee, where I know you spent a lot of tough nights with a lot of uncertainty. But if you wait until the next morning, the patient may be dead, and you need to make your best option. 
 
-### From an [earnings call](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2023/Pfizer-Quarterly-Corporate-Performance--First-Quarter-2023-2023-HIzznQfeuk/default.aspx) by Pfizer with investors 
+## From an [earnings call](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2023/Pfizer-Quarterly-Corporate-Performance--First-Quarter-2023-2023-HIzznQfeuk/default.aspx) by Pfizer with investors 
 
 ANGELA HWANG, PFIZER [01:12:26]
 
@@ -2430,7 +2430,7 @@ Obviously, it's too early for me to share the price of Paxlovid, but suffice to 
 
 So think very soon we'll be able to share more.
 
-### From the opening session of CDC's [EIS conference](https://www.cdc.gov/eis/conference/index.html) on April 24
+## From the opening session of CDC's [EIS conference](https://www.cdc.gov/eis/conference/index.html) on April 24
 
 ERIC PEVZNER, CDC [00:07:42]
 
@@ -2448,9 +2448,9 @@ Please know how grateful I am to all of you for all you have done to build a hea
 
 There is no doubt that over the last three years, we have seen the ultimate test in public health for epidemiologists as well as for laboratory scientists, the pandemic and so many other public health events during the same time, placed immense demands on EIS and LLS-- EIS officers and LLS fellows. And yet, truly, every time they have been asked and sometimes even before they were asked, they've stepped up and they have delivered solutions. 
 
-## 05/01/2023
+# 05/01/2023
 
-### From a CMS spokesperson about EMTALA violations
+## From a CMS spokesperson about EMTALA violations
 
 HHS launched an investigation in potential EMTALA violations by the hospitals and then issued the formal notice of deficiencies outlining steps needed to comply with the minimum EMTALA requirements. CMS requires corrections to be made in a timely fashion to participate in Medicare.  These corrections need to be verified onsite by surveyors.
 

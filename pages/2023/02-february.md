@@ -13,9 +13,9 @@ permalink: /2023/02
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 02/28/2023
+# 02/28/2023
 
-### From a [call for clinicians](https://emergency.cdc.gov/coca/ppt/2023/022823_slides.pdf) hosted by CDC on XDR Shigella 
+## From a [call for clinicians](https://emergency.cdc.gov/coca/ppt/2023/022823_slides.pdf) hosted by CDC on XDR Shigella 
 
 NAEEMAH LOGAN, CDC [00:12:11]
 
@@ -89,7 +89,7 @@ CDC surveillance data showing that kids younger than five years old tend not to 
 
 But drug resistant shigella infections are more common among adults within this very vulnerable group. And so we mentioned several of those. Those are MSM, those are people experiencing homelessness, those are people living with HIV, and international travelers.
 
-### From an [earnings call](https://app.webinar.net/5Jbw9RMgrW0) for investors by Novavax
+## From an [earnings call](https://app.webinar.net/5Jbw9RMgrW0) for investors by Novavax
 
 FILIP DUBOVSKY, NOVAVAX [00:25:48]
 
@@ -133,7 +133,7 @@ JOHN TRIZZINO, NOVAVAX [01:03:45]
 
 I think it's worth clarifying that the U.S., in particular the U.S. government's action to suspend the public health emergency, will not affect our ability to sell under the emergency use authorization during the 2023 season. Of course, we'll be filing our BLA in the second half of the year. And of course, we'll have expectations of a BLA approval probably by late this year, or early next year. But there's no, in conversations with FDA, there's no concern at this point relative to operating under an emergency use authorization.
 
-### Votes on [safety](https://youtu.be/ffmIyeXNOfk?t=24402) (7 favor, 4 against, 1 abstain), [effectiveness](https://youtu.be/ffmIyeXNOfk?t=27049) (7 favor, 4 against, 1 abstain) of Pfizer:
+## Votes on [safety](https://youtu.be/ffmIyeXNOfk?t=24402) (7 favor, 4 against, 1 abstain), [effectiveness](https://youtu.be/ffmIyeXNOfk?t=27049) (7 favor, 4 against, 1 abstain) of Pfizer:
 
 (1) Holly Janes = YES safety, YES effectiveness
 <br>
@@ -159,7 +159,7 @@ I think it's worth clarifying that the U.S., in particular the U.S. government's
 <br>(2) Adam Berger = YES safety, ABSTAIN effectiveness
 
 
-### From an FDA VRBPAC [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-28-march-1-2023-meeting) on RSV vaccine by Pfizer
+## From an FDA VRBPAC [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-28-march-1-2023-meeting) on RSV vaccine by Pfizer
 
 DAVID KASLOW, FDA [8:47 AM]
 
@@ -488,9 +488,9 @@ However, I'm going to revisit COVID like some of my colleagues did when we were 
 
 And we followed at the time actually FDA guidance that the trials have to mirror the populations at risk. And it does, for this particular trial, I think everyone here is an agreement that this did not take place and this should be taken into account as the analysis of of our discussion takes place at the level of the agency. 
 
-## 02/27/2023
+# 02/27/2023
 
-### From a CDC laboratory outreach call [webinar](https://www.cdc.gov/locs/index.html)
+## From a CDC laboratory outreach call [webinar](https://www.cdc.gov/locs/index.html)
 
 NATALIE THORNBURG, CDC [00:12:45]
 
@@ -541,7 +541,7 @@ National testing capacity readiness is something that we're working on. We've be
 
 And so we're continuing to look at vaccine effectiveness, safety and immunization systems. 
 
-### From CDC ONC Industry Days [sessions](https://www.fbcinc.com/e/cdcid/agenda.aspx)
+## From CDC ONC Industry Days [sessions](https://www.fbcinc.com/e/cdcid/agenda.aspx)
 
 ROCHELLE WALENSKY, CDC [00:12:18]
 
@@ -611,9 +611,9 @@ So the other thing i would add to that thought was like clearly there's there's 
 
 And so there are opportunities for not only developing those capabilities within each program, but also synergies and interactions between them to meet our mission in a unique way as well.
 
-## 02/24/2023
+# 02/24/2023
 
-### From an ACIP [presentation](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on varicella vaccines 25 years later
+## From an ACIP [presentation](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on varicella vaccines 25 years later
 
 MONA MARIN, CDC [01:45:49]
 
@@ -685,7 +685,7 @@ I would like to give a little recognition, and perhaps even more than that, to a
 
 True, not only for varicella, but many other vaccines also.
 
-### From ACIP [presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on COVID-19 vaccine's future  
+## From ACIP [presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on COVID-19 vaccine's future  
 
 MEGAN WALLACE, CDC [00:13:09]
 
@@ -831,7 +831,7 @@ KATHERINE POEHLING, ACIP [01:35:26]
 
 I would like to add that children, younger children, do not have this robust of immune response. And I would like to have some data before I made that decision. And I think we can obtain exactly that data, and that way we could follow the science. 
 
-### From ACIP [presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on COVID-19 vaccine data and harmonization
+## From ACIP [presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on COVID-19 vaccine data and harmonization
 
 CHRIS TAYLOR, CDC [00:12:03]
 
@@ -959,7 +959,7 @@ UNSPECIFIED, PFIZER [01:28:07]
 
 Of course. Thank you so much. Yes, we are working, as per the currently authorized vaccine, on a three dose primary series. The phase one includes children six months to less than two year olds, and the 2 to 5 year old age group, with 90 participants in both of those groups for a total of 180. And we're dose finding with three, six and ten micrograms currently. 
 
-### From ACIP [presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on COVID-19 vaccines and safety
+## From ACIP [presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on COVID-19 vaccines and safety
 
 SARAH MEYER, CDC [00:11:30]
 
@@ -1051,7 +1051,7 @@ Next slide, please.
 
 In summary, the COVID 19 ACIP work group remains confident in current COVID 19 vaccine recommendations and does not recommend any changes to current recommendations, including those regarding co-administration of vaccines. CDC and partners anticipate the opportunity to review and consider upcoming analyses prior to the 2023 2024 flu season. 
 
-### From WHO press conference, in [two](https://www.youtube.com/watch?v=xw2CImxYacE) [parts](https://www.youtube.com/watch?v=itEdjJSO3eU), on influenza 
+## From WHO press conference, in [two](https://www.youtube.com/watch?v=xw2CImxYacE) [parts](https://www.youtube.com/watch?v=itEdjJSO3eU), on influenza 
 
 RICHARD WEBBY, WHO [00:16:58]
 
@@ -1145,7 +1145,7 @@ So I think there's just a lot of effort in that space right now. There's not a l
 
 It was about 100 days for the 2009 pandemic to have a vaccine. And so I think there is a variety of regulatory components that would have to be achieved for new technologies like mRNA or any other, like if it was DNA or other approaches. But I think everyone's very hopeful that this will be a technology that can be applied to flu and will be able to determine its benefits or not.
 
-### From a WHO [session](https://www.youtube.com/watch?v=-9i6GxRl744) on influenza vaccine composition for northern hemisphere
+## From a WHO [session](https://www.youtube.com/watch?v=-9i6GxRl744) on influenza vaccine composition for northern hemisphere
 
 TODD DAVIS, CDC [01:02:40]
 
@@ -1189,9 +1189,9 @@ And so based on this finding, we've also generated ferret anti sera to circulati
 
 And so based on this data, we've decided to recommend the development of a new CVV antigenically like the American wigeon South Carolina 2021.
 
-## 02/23/2023
+# 02/23/2023
 
-### From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on GSK and Pfizer's RSV vaccines in older adults
+## From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on GSK and Pfizer's RSV vaccines in older adults
 
 KATHERINE POEHLING, ACIP [00:29:04]
 
@@ -1373,7 +1373,7 @@ We actually-- the reason we came down to sort of preferring the age 65 cutoff wa
 
 Again, this was very challenging. I really appreciate all the work that Dr. Melgar and everyone from the CDC and others did, as well as everyone in the work group. It was it was a great amount of work. And I'm-- we're truly appreciative. 
 
-### From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on Pfizer's "Bivalent RSV Prefusion F Vaccine in Vaccinated Mothers and their Infants"
+## From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on Pfizer's "Bivalent RSV Prefusion F Vaccine in Vaccinated Mothers and their Infants"
 
 IONA MUNJAL, PFIZER [00:05:44]
 
@@ -1449,7 +1449,7 @@ MATTHEW DALEY, ACIP [00:28:11]
 
 Well, and related to that, just understanding biologically the implications of of maternal vaccination followed by passive immunization in the infant. I mean, I think there's biologic reasons to suspect that it's not problematic from a safety standpoint, and would probably be additive from an effectiveness standpoint. But I want to make sure I'm not making too many assumptions.
 
-### From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on nirsevimab
+## From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on nirsevimab
 
 DAVID HUTTON, UM [00:18:26]
 
@@ -1675,7 +1675,7 @@ KATHERINE POEHLING, ACIP [02:12:38]
 
 I did like keeping it very similar to what we have been doing for years. And I do see the possibility of improved equity with giving a single dose rather than monthly doses. My concern is insurance. Insurance can take a year before they pay for anything, and we are seeing that, I believe Dr. Loehr pointed out PCV 15 is not paid by several insurances, and this is commonly exceeded, and this continues to be a problem with the birth hospitalization, because I think it would be a year. That would decrease equity. And so my concern is that lag time as well. 
 
-### From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on polio vaccines
+## From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on polio vaccines
 
 SARAH KIDD, CDC [00:07:07]
 
@@ -1787,7 +1787,7 @@ SARAH KIDD, CDC [00:38:38]
 
 I do know that in New York City, when they did-- they did expand, saying that all unvaccinated adults should be vaccinated in New York City, there was not a rush on adult IPV doses, that it was a manageable amount. So there is-- there is an open question of how much public health messaging will create a demand or not.
 
-### From a CDPHE spokesperson on shigella cases
+## From a CDPHE spokesperson on shigella cases
 
 We typically see Shigella cases peak in the summer months and decline in the fall and winter. However, Shigella activity increased in Fall 2022, and we are now seeing some antibiotic-resistant cases, which are confirmed via antibiotic susceptibility testing. CDPHE identified several outbreaks and clusters of cases that were related to each other. Cases have slowed so far in 2023, but we expect to see an increase in the number of cases in coming months, as is typical in summer months. We increased messaging to local public health partners and on social media to raise awareness and provide the public with [general information about Shigella and guidance to help prevent transmission](https://urldefense.com/v3/__https://cdphe.colorado.gov/shigella__;!!CxwJSw!Lm5imhELJjjbtgFhjv5UZR4Jrh9Ch7LqGTff6U80MtWmsV96uZtTmlkwYvOnyhDF-Y18_z_ei7rnqY4Yyy26WA$). 
 
@@ -1809,7 +1809,7 @@ If your partner has been diagnosed with a Shigella infection, avoid having sex (
 
 To date, we are not aware of any Colorado cases related to the Cabo Verde outbreak.
 
-### From an [earnings call](https://investors.modernatx.com/news/news-details/2023/Moderna-Reports-Fourth-Quarter-and-Fiscal-Year-2022-Financial-Results-and-Provides-Business-Updates/default.aspx) for investors hosted by Moderna
+## From an [earnings call](https://investors.modernatx.com/news/news-details/2023/Moderna-Reports-Fourth-Quarter-and-Fiscal-Year-2022-Financial-Results-and-Provides-Business-Updates/default.aspx) for investors hosted by Moderna
 
 STEPHEN HOGE, MODERNA [00:11:57]
 
@@ -1887,9 +1887,9 @@ I would note that it is well precedented. In fact, many of the currently approve
 
 And so influenza B is a well trodden path for many of these vaccines, as well as now for mRNA-1010, where there is differential performance. And ultimately, there is there is precedent for moving forward, where you do not technically meet non-inferiority and immunogenicity or seroconversion endpoints, and still moving forward because of the lower concern about that disease in older adults.
 
-## 02/22/2023
+# 02/22/2023
 
-### From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on flu vaccines
+## From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on flu vaccines
 
 JOSE ROMERO, CDC [00:04:01]
 
@@ -1943,7 +1943,7 @@ We wouldn't be able to discern that from the type of data we get in the system. 
 
 And also flu seasons do vary in severity. It is interesting to point out that H3N2 seasons are generally more severe than H1N1, and that's what we've had the most of so far. But we also appear to have a reasonably good vaccine match this year. So as with flu, all things are variable.
 
-### From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on mpox vaccines
+## From [ACIP presentations](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-02-22-24.html) on mpox vaccines
 
 MELINDA WHARTON, CDC [00:14:40]
 
@@ -2225,7 +2225,7 @@ So we do have a study that we are conducting in the Democratic Republic of Congo
 
 And we hope to have more information from that, as well as other collaborations over the coming years that will inform recommendations about booster doses. 
 
-### From a session at the [4th Annual NIH HEAL Initiative Investigator Meeting](https://heal.nih.gov/news/events/fourth-heal-investigator-meeting)
+## From a session at the [4th Annual NIH HEAL Initiative Investigator Meeting](https://heal.nih.gov/news/events/fourth-heal-investigator-meeting)
 
 ROBERT CALIFF, FDA [00:18:44]
 
@@ -2274,7 +2274,7 @@ So as long as that's happening, it's very hard to say we're not-- we're just goi
 I personally had to defend telehealth in our program in Dayton before I came to FDA, when the state medical board tried to shut down the opportunity to give it. So I'm all for it, but we got to define the parameters better.
 
 
-### From a CDC spokesperson about outbreak of P. aeruginosa eye infections
+## From a CDC spokesperson about outbreak of P. aeruginosa eye infections
 
 · A small number (3) of unopened bottles of EzriCare Artificial Tears were tested by CDC, and we did not recover bacteria from these. Our FDA partners are currently testing additional unopened bottles of EzriCare and Delsam Pharma Artificial Tears. They can provide the best information on timelines.
 
@@ -2292,9 +2292,9 @@ I personally had to defend telehealth in our program in Dayton before I came to 
 
 Martha Sharan
 
-## 02/16/2023
+# 02/16/2023
 
-### From FDA's response to [Florida's health alert](https://content.govdelivery.com/accounts/FLDOH/bulletins/3490efb) about COVID-19 vaccines
+## From FDA's response to [Florida's health alert](https://content.govdelivery.com/accounts/FLDOH/bulletins/3490efb) about COVID-19 vaccines
 
 Reporting adverse events to VAERS increased significantly across many, if not all, health jurisdictions after the availability of COVID-19 vaccines. However, it’s important to note that an increase in VAERS reports does not indicate that the COVID-19 vaccines are unsafe. 
 
@@ -2312,7 +2312,7 @@ Please note, VAERS is CDC’s and FDA’s frontline vaccine monitoring system, a
 
 COVID-19 vaccines have undergone—and continue to undergo—the most intense vaccine safety monitoring in U.S. history. Clinical research has demonstrated the safety and effectiveness of the recommended COVID-19 primary series vaccines, as well as the recommended updated vaccines. CDC continues to encourage people to stay up to date with recommended COVID-19 vaccines, including an updated booster vaccine when eligible. This is particularly important for older adults and those with underlying conditions who are at higher risk.  
 
-### From [transcripts](https://github.com/tinalexander/notes/blob/main/attachments/2023-02-16_foia_cdc_23-00470.pdf) of "Moving Forward" internal town halls obtained through a records request
+## From [transcripts](https://github.com/tinalexander/notes/blob/main/attachments/2023-02-16_foia_cdc_23-00470.pdf) of "Moving Forward" internal town halls obtained through a records request
 
 LOVISA ROMANOFF, CDC
 
@@ -2442,7 +2442,7 @@ How do you think you will change the institutional culture around scientists ove
 
 > > I can start it maybe, Abbigail. So, I mean, I think part of it is, you know, I need to ensure that I'm doing the best possible job that I can in advocating with our leaders across CDC to ensure that we have communications folks at the table early in the process.
 
-### CDC's response to Florida's ["health alert"](https://content.govdelivery.com/accounts/FLDOH/bulletins/3490efb) about VAERS
+## CDC's response to Florida's ["health alert"](https://content.govdelivery.com/accounts/FLDOH/bulletins/3490efb) about VAERS
 
 Thanks for reaching out to CDC. What Florida was seeing in 2021 was seen across the country. Reporting adverse events to VAERS increased significantly across many, if not all, health jurisdictions after the availability of COVID-19 vaccines.
 
@@ -2462,9 +2462,9 @@ COVID-19 vaccines have undergone—and continue to undergo—the most intense va
 
 Nick Spinelli
 
-## 02/15/2023
+# 02/15/2023
 
-### From a USPS FOIA request about COVID-19 test kits
+## From a USPS FOIA request about COVID-19 test kits
 
 Date | Orders
 -- | --
@@ -2504,7 +2504,7 @@ Date | Orders
 1/17/2023 | 71,351
 1/18/2023 | 68,388
 
-### From Emergent BioSolutions on background in a statement about Narcan
+## From Emergent BioSolutions on background in a statement about Narcan
 
 Here is something on background that addresses a number of the issues raised. 
 
@@ -2518,9 +2518,9 @@ When will it be available? The short answer: as soon as possible. However, produ
 
 The last word: An overdose can happen anytime, anywhere and it often occurs outside of a medical setting where access to naloxone may not be readily available. A decision to make NARCAN available over the counter would expand access to more Americans and possibly help save more lives. Emergent is committed to working with the FDA to gain approval and continuing to work with stakeholders to enable accessibility, increase awareness and continue to offer our direct purchase and donations programs.  
 
-## 02/14/2023
+# 02/14/2023
 
-### From a [virtual meeting](https://www.who.int/news-room/events/detail/2023/02/14/default-calendar/who-urgent-marburg-meeting) of the WHO's MARVAC partners on research priorities
+## From a [virtual meeting](https://www.who.int/news-room/events/detail/2023/02/14/default-calendar/who-urgent-marburg-meeting) of the WHO's MARVAC partners on research priorities
 
 GEORGE AMEH, WHO [00:19:25]
 
@@ -2610,9 +2610,9 @@ Clearly, all decisions about what happens in Equatorial Guinea will be made by a
 
 And the final note is that MARVAC is an open platform, so all within interests are invited to contribute and the contact Cesar if they would like to do that. 
 
-## 02/13/2023
+# 02/13/2023
 
-### From a spokesperson for Harris County Public Health about avian influenza
+## From a spokesperson for Harris County Public Health about avian influenza
 
 At this time Harris County Public Health (HCPH) has not received any reports of H5N1, or avian influenza, cases within its jurisdiction. The CDC considers the current risk to the public from the H5N1 bird flu outbreak in wild birds and poultry to be low. For information on the most recent bird flu developments specific to the United States, please visit the Current Situation Summary page. As always, HCPH continues to monitor communicable diseases to protect the health and wellbeing of our residents.
 
@@ -2620,7 +2620,7 @@ At this time Harris County Public Health (HCPH) has not received any reports of 
 <br>Maritza Vela
 <br>Communications Specialist
 
-### From a CDC [media briefing](https://video.ibm.com/channel/dwxer96bR7q) on youth mental health from YRBS
+## From a CDC [media briefing](https://video.ibm.com/channel/dwxer96bR7q) on youth mental health from YRBS
 
 12:05:30 PM     DEBRA HOURY, CDC: Today, we are releasing CDC's Youth Risk Behavior Survey, or YRBS, Data Summary and Trends Report, which provides data on key behaviors and experiences among adolescents related to sexual behavior, substance use, experience of violence, mental health, and suicidality. 
 
@@ -2660,9 +2660,9 @@ We are releasing this first set of data today. We anticipate that the full surve
 
 So a first line is to make sure that teachers have training in managing those mental health issues and behavioral health issues in their classroom, also called classroom management. That really prevents a whole host of problems. And rather than burdening schools with additional things to do, it can really alleviate the burden on teachers to know how to handle those issues.
 
-## 02/10/2023
+# 02/10/2023
 
-### From a virtual event with Robert Califf and the Alliance for a Stronger FDA
+## From a virtual event with Robert Califf and the Alliance for a Stronger FDA
 
 DR ROBERT CALIFF, FDA [00:18:27]
 
@@ -2720,7 +2720,7 @@ I want to point to cannabis as an issue that we're taking on. We've learned a lo
 
 So it's time to create a new regulatory pathway for the 30 something derivatives of a cannabis plant that end up in everything from animal feed to cookies. And we'll deal with that. 
 
-### From a [virtual event](https://healthjournalism.org/calendar-details.php?id=2575&EventType=1&EventSubType=1) hosted by AHCJ about long COVID
+## From a [virtual event](https://healthjournalism.org/calendar-details.php?id=2575&EventType=1&EventSubType=1) hosted by AHCJ about long COVID
 
 DR GARY GIBBONS, NIH [00:12:00]
 
@@ -2773,7 +2773,7 @@ We anticipate that a lot of the participants in the clinical trial interventions
 So we're formulating a registry where we can have individuals interested in participating in these clinical trials sign up as they start to be launched in the next several months. So we look forward to that being a very large pool of individuals who are willing to participate in these studies to help us understand what we can help relieve their suffering.
 
 
-### From a spokesperson for Houston's health department
+## From a spokesperson for Houston's health department
 
 Update: Our department checked with all local hospitals and none report an avian flu case.
 <br>Thanks
@@ -2781,9 +2781,9 @@ Update: Our department checked with all local hospitals and none report an avian
 <br>Public Information Officer & City Council Liaison
 <br>Houston Health Department
 
-## 02/09/2023
+# 02/09/2023
 
-### From a background briefing of reporters by HHS officials on PHE ending
+## From a background briefing of reporters by HHS officials on PHE ending
 
 HHS OFFICIAL 1 [00:01:08]
 
@@ -2843,11 +2843,11 @@ We also have other metrics at CDC. Community transmission is a metric that we us
 
 So we at CDC are doing the work right now to understand where we are using community transmission, what other metrics might be useful for hospitals as they think about infection prevention and control, and how we can make sure we're leveraging the data we do receive to inform communities as to what they need to do to protect themselves from COVID 19.
 
-### From Brian Spencer of the Colorado Department of Public Health and Environment
+## From Brian Spencer of the Colorado Department of Public Health and Environment
 
 There were 28 cases of invasive group A strep in children under the age of 18 years old reported in Colorado during 2022, but official and final case numbers may change as additional information is collected. A majority of the cases in 2022 were reported during November and December. We continued to see some cases reported during January 2023, but far fewer than in previous months, possibly due to the decrease in respiratory illnesses like COVID-19, flu, and RSV that can contribute to group A strep infections. 
 
-### From a CDC spokesperson about rates of iGAS in 2022
+## From a CDC spokesperson about rates of iGAS in 2022
 
 Prior to the COVID-19 pandemic, around 150-160 [invasive group A streptococcal](https://urldefense.com/v3/__https://www.cdc.gov/groupastrep/igas-infections-investigation.html__;!!CxwJSw!IBjqCEOEhgzQUBIlUHImC7nvu9VDE6wYowkY_iFJNGrNAtI8DPVwq6tyTgaUoIwsGpbWmX9SZw$), or iGAS, infections in children were reported each year from the 10 sites participating in CDC’s [Active Bacterial Core Surveillance System (ABCs) | CDC](https://urldefense.com/v3/__https://www.cdc.gov/abcs/index.html__;!!CxwJSw!IBjqCEOEhgzQUBIlUHImC7nvu9VDE6wYowkY_iFJNGrNAtI8DPVwq6tyTgaUoIwsGpYXoUlUWw$). Given that the population covered by ABCs for group A strep surveillance is around 10 percent of the total U.S. population, this corresponds to approximately 1,500-1,600 iGAS infections in children nationwide each year. The majority of these infections pre-pandemic were consistently reported between January and June each year.
 
@@ -2855,11 +2855,11 @@ Starting in April 2020, the number of reported pediatric iGAS infections in ABCs
 
 Data from emergency department visits for less severe group A strep infections from [CDC’s National Syndromic Surveillance Program (NSSP)](https://urldefense.com/v3/__https://www.cdc.gov/nssp/index.html__;!!CxwJSw!IBjqCEOEhgzQUBIlUHImC7nvu9VDE6wYowkY_iFJNGrNAtI8DPVwq6tyTgaUoIwsGpZqOdtA5Q$) show a similar pattern, with cases decreasing dramatically in the first half of 2020 and remaining substantially lower than normal until September 2022, when they increased to levels similar to those seen during seasonal peaks pre-pandemic.
 
-### On background from a spokesperson for ASPR
+## On background from a spokesperson for ASPR
 
 Influenza strains of pandemic potential change over time and multiple new strains circulate in animals every year without leading to sustained human-to-human transmission, making stockpiling of hundreds of millions of doses of vaccine against each circulating strain impractical. Therefore, the U.S. government has a preparedness program that enables a rapid response to influenza strains as the strains evolve. As part of this program, the Biomedical Advanced Research and Development Authority (BARDA) works with private industry partners to make and test small quantities of updated vaccines that match new strains of influenza viruses with pandemic potential as they emerge in case any of them drive sustained human-to-human transmission, while at the same time, supporting manufacturing capacity to allow for large-scale vaccine production when needed.
 
-### From an interview with David Swayne, a consultant on bird flu
+## From an interview with David Swayne, a consultant on bird flu
 
 DAVID SWAYNE, CONSULTANT [00:00:54]
 
@@ -2981,7 +2981,7 @@ DAVID SWAYNE, CONSULTANT [00:27:00]
 
 I think the word is trigger points. What is the trigger point of when you might use vaccination? And that's what they're looking at. Is it so many birds in a poultry farms in an area getting infected? Or is it a certain amount of economic loss? Or is it because a neighboring state has the virus in poultry, and you're concerned? So there's those are really the tough, tough questions, which I cannot answer for sure. But those are the trigger points.
 
-### From an interview with Erin Spackman of the USDA
+## From an interview with Erin Spackman of the USDA
 
 ERIN SPACKMAN, USDA [00:00:52]
 
@@ -3127,13 +3127,13 @@ ERIN SPACKMAN, USDA [00:25:36]
 
 People that people may say there are vaccines available, and the confusion will that be, well we get back to the, the vaccines were made many years ago. So we have them technically either available, technically either licensed, but it gets back to that vaccine match issue. And that's kind of the-- I think so that's the big question. If you kind of hear different things about why we're at different stages and why I'm hemming and hawing, that's why. Because historically there are vaccines available. But there's a question about whether or not they would actually have any positive effects or how much. It's a gradient, it's not black and white. 
 
-## 02/08/2023
+# 02/08/2023
 
-### From Beth Breeding, a spokesperson for Boehringer Ingelheim Animal Health USA
+## From Beth Breeding, a spokesperson for Boehringer Ingelheim Animal Health USA
 
 “Boehringer Ingelheim is monitoring discussions in the United States regarding avian influenza vaccination. As U.S. officials determine the best path forward, our industry experts continue to actively support the poultry industry in its ongoing efforts to enhance biosecurity and prevent additional avian influenza occurrences.”
 
-### From a [hearing](https://twitter.com/HouseCommerce/status/1623334158016602114) by the House Energy and Commerce Committee
+## From a [hearing](https://twitter.com/HouseCommerce/status/1623334158016602114) by the House Energy and Commerce Committee
 
 10:04:33 AM     REP MORGAN GRIFFITH: The NIH has been reluctant to answer our inquiries on issues such as EcoHealth withholding data, potentially double billing the federal government, and missing laboratory notebooks and electronic files that were supposed to be delivered to the NIH by EcoHealth. 
 
@@ -3561,15 +3561,15 @@ REP GARY PALMER: Speaking in your personal capacity? How do you differentiate be
 
 ROCHELLE WALENSKY, CDC: As I said that, which I believe was on February 3rd, I said it from an official CDC capacity, and I believe Jen Psaki-- Jen Psaki, I can't speak to her comments. But I was definitely in my CDC capacity when the comments were made. And in fact, we reopened schools.
 
-### From Nicholas Reich, professor of biostatistics at the University of Massachusetts, Amherst
+## From Nicholas Reich, professor of biostatistics at the University of Massachusetts, Amherst
 
 We do expect to continue running COVID hospitalization and likely death forecasts too for perhaps at least another year. Case forecasts I’m not as sure about. The expiration of the public health emergency declaration is not (at this point) impacting our ongoing modeling/forecasting work. I suppose we might reconsider that if some states started reporting less data, but the hospitalization data at least is mandated by HHS to be reported through April 2024 I think.
 
-### From Brian Spencer, a spokesperson for the Colorado Department of Public Health and Environment
+## From Brian Spencer, a spokesperson for the Colorado Department of Public Health and Environment
 
 There were 28 cases of invasive group A strep in children under the age of 18 years old reported in Colorado during 2022, but official and final case numbers may change as additional information is collected. A majority of the cases in 2022 were reported during November and December. We continued to see some cases reported during January 2023, but far fewer than in previous months, possibly due to the decrease in respiratory illnesses like COVID-19, flu, and RSV that can contribute to group A strep infections. 
 
-### From a statement by a CMS spokesperson about COVID-19 
+## From a statement by a CMS spokesperson about COVID-19 
 
 Here is our response, on background, attributable to the Centers for Medicare & Medicaid Services (CMS) or a CMS spokesperson:
 
@@ -3585,9 +3585,9 @@ For over a year, CMS has been working alongside states, public health department
 
 Additionally, we are offering technical assistance to states and engaging in public education about the necessary steps to prepare for the end of the PHE. For additional information, visit CMS.gov.
 
-## 02/07/2023
+# 02/07/2023
 
-### From a meeting of the CDC's advisory committee to the director
+## From a meeting of the CDC's advisory committee to the director
 
 DR ROCHELLE WALENSKY, CDC (ACD 1) [00:09:37]
 
@@ -3762,17 +3762,17 @@ DEB HOURY, CDC (ACD 3)[01:31:33]
 
 The one piece of housekeeping, I'll just say while I have the floor, as you know, as you review the workgroup report and if approved, then the report will be transmitted to HHS and that takes about 30 days to review and respond from HHS. That will then be published to the website. So for folks that are tuning in or workgroup members that want to revisit or share, it'll be about six weeks before the report will be publicly available on our website. 
 
-## 02/06/2023
+# 02/06/2023
 
-### From a statement by Rebekah Pajak, a Walgreens spokesperson
+## From a statement by Rebekah Pajak, a Walgreens spokesperson
 
 We’re committed to working closely with the federal government, states, manufacturers and private insurers to ensure consistent access and care for all individuals as the federal government adjusts the public health emergency related to the COVID-19 pandemic. As a convenient partner and trusted resource for all health and wellness needs, Walgreens pharmacy teams will continue to provide our patients with the services they rely on to keep them safe and healthy – including COVID-19 vaccinations, tests and treatments.
 
-### From a statement by Matt Blanchette, a CVS Pharmacy spokesperson
+## From a statement by Matt Blanchette, a CVS Pharmacy spokesperson
 
 Yes, we plan to continue offering FDA authorized OTC Covid-19 tests, lab testing performed at the drive-thru and rapid-result testing following the expiration of the PHE.
 
-### From a statement by Merck on bird flu vaccines for animal health
+## From a statement by Merck on bird flu vaccines for animal health
 
 It is important to note that one of the most effective ways to prevent avian flu outbreak at farms is strong biosecurity measures.
 
@@ -3780,7 +3780,7 @@ Our current portfolio consists of vaccines for the H5 and H9 strains. We  test e
 
 At Merck Animal Health we do not disclose our pipeline, but we can share that we have an extensive, ongoing research program that is focused on discovering and developing vaccines that are DIVA (differentiating infected from vaccinated) and address the holistic issues associated with avian influenza, including clinical efficacy and the prevention of viral shedding. 
 
-### From a statement by Mike Stepien of USDA on bird flu vaccines
+## From a statement by Mike Stepien of USDA on bird flu vaccines
 
 Currently, the United States has not authorized the use of highly pathogenic avian influenza (HPAI) vaccination but there are several avian influenza vaccines that are licensed by USDA Animal and Plant Health Inspection Service (APHIS) Center for Veterinary Biologics (CVB).  However, the efficacy of these vaccines against the prevailing HPAI strain is unknown and they are currently not being used in the United States.
 
@@ -3790,9 +3790,9 @@ APHIS believes we must consider as many approaches as possible to protect agains
 
 APHIS also continues to coordinate with CDC on matters related to human health.
 
-## 02/04/2023
+# 02/04/2023
 
-### From an interview with Steven Pearson, president of ICER
+## From an interview with Steven Pearson, president of ICER
 
 [00;52] STEVEN PEARSON, ICER: So we're an independent non-partisan review institute, and we look at the evidence on the clinical effectiveness and the cost effectiveness of treatments, drugs, and other things. And our methods help us kind of identify what would be a fair price, as it aligns with the benefits that are provided to patients. 
 
@@ -3856,7 +3856,7 @@ And so the dynamics that we're witnessing around the power struggle, if you will
 
 But it's obviously a great importance with the pandemic, but it's important to patients every single day. 
 
-### From an interview with Anne Zink, president of ASTHO
+## From an interview with Anne Zink, president of ASTHO
 
 [01;01] ANNE ZINK, ASTHO: I'm Dr. Anne Zink. I am the chief medical officer for the state of Alaska. I've been serving in this role since prior to the pandemic. So I started in July of 2019 and have been in the role throughout the pandemic and then had the honor of taking the job as the president of ASTHO. So I represent all the states and territories to partners, to federal agencies, and others since September of 2022. 
 
@@ -3928,13 +3928,13 @@ But I can't even tell the legislature right now who's meeting what I might need 
 
 And I'm hopeful that we can build that into our normal health care systems so that we don't have to rely so much on all of these changes that happen during the public health emergency, so our next challenge, we've got systems built to be able to respond, rather than having to all these exceptions that we had to do during this last public health emergency.
 
-### From a statement by Steve Danehy, spokesperson for Pfizer
+## From a statement by Steve Danehy, spokesperson for Pfizer
 
 The U.S. Government has purchased PAXLOVID from Pfizer and it is currently making it available under Emergency Use Authorization to patients at no charge.
 
 We’ll share updates when we have them, but to date we have not set a list price for PAXLOVID in the U.S.
 
-### From a statement by Kelly Wroblewski, director of infectious diseases at APHL
+## From a statement by Kelly Wroblewski, director of infectious diseases at APHL
 
 “Fortunately, we understand that the 564 declaration which includes the EUA pathway at FDA is remaining at least for now.
 
@@ -3942,7 +3942,7 @@ We’ll share updates when we have them, but to date we have not set a list pric
 
 “There was also a relaxation in some rules around CLIA certification of laboratories and which labs could perform testing. I am not clear on how many labs took advantage of the relaxation in those rules or if those labs are still being used. If there is an impact, I don’t think it would be very large.”
 
-### From a statement by a spokesperson for CDC's NCHS
+## From a statement by a spokesperson for CDC's NCHS
 
 There are currently no planned changes to how COVID-19 mortality data are collected or reported.
 
@@ -3950,29 +3950,29 @@ Regards,
 
 Bert Kelly
 
-### From a statement by Mark Parkinson, president and CEO of AHCA/NCAL
+## From a statement by Mark Parkinson, president and CEO of AHCA/NCAL
 
 The PHE may be ending, but there is more work to do to address the challenges spurred by the pandemic. Long term care is now facing a historic labor and economic crisis, and we need meaningful, supportive solutions that will help us rebuild. We look forward to working with the Administration and Congress to develop solutions that will invest in our caregivers and protect access to care for vulnerable seniors.
 
-### From a statement by Hannah Walden, a spokesperson for A4A:
+## From a statement by Hannah Walden, a spokesperson for A4A:
 
 The safety and wellbeing of the traveling public and employees is the top priority of U.S. airlines, and we continuously rely on science and data to guide decisions. More than 2 million people each day are choosing to fly. Science has routinely demonstrated that the air on an airplane is as clean as – if not cleaner than – restaurants, grocery stores and even some hospitals.
 
-### From a statement by Stacey Hughes, executive vice president of AHA:
+## From a statement by Stacey Hughes, executive vice president of AHA:
 
 While the country may be entering a new phase of the fight against COVID-19, hospitals and their caregivers continue to navigate a host of weighty challenges including workforce shortages and financial pressures, cost increases for equipment and drugs, disrupted supply chains and sicker patients. These issues will require continued attention and investment from the federal government.
 
 The decision to sunset the PHE is a testament to the progress we have made, but that progress should not end with the PHE. We should preserve many of the best care innovations that served us well during the pandemic, like expanded use of telehealth and the development of hospital at home programs. We will work with the Administration to build on the lessons learned from the COVID-19 pandemic, beginning with our strong urging that many of the COVID-19 PHE flexibilities be made permanent.  
 
-## 02/03/2023
+# 02/03/2023
 
-### From a spokesperson for the Washington State Department of Health
+## From a spokesperson for the Washington State Department of Health
 
 We just got corrected information from our partners - the person who died was a Snohomish County resident, not King County, an adult male. The person tested positive for Pseudomonas aeruginosa, and had used artificial tears, but public health investigators have not confirmed that he used the EzriCare drops. Because of privacy laws, we can’t share more details about the case.
 
 Roberto Bonaccorso
 
-### From a press call with USDA on school meals nutrition proposals
+## From a press call with USDA on school meals nutrition proposals
 
 12:48:00 PM     TOM VILSACK, USDA: As I outlined, the four critical areas: on milk, essentially providing options for consideration in terms of access to no fat, unflavored, and flavored milk, and low fat flavored milk. On sodium, gradual reduction in both breakfast and lunch offerings phased in over a period of time, using small reductions, multiple times, which is consistent with the FDA's guidelines and guidance. 
 
@@ -4022,7 +4022,7 @@ And, you know, frankly, there will be some folks, I suspect, who will say, gosh,
 
 But at the end of the day, it's about 15.3 million kids eating school breakfast that needs to be nutritious and 29.6 million children do have to have a decent lunch. And the fact is that we are faced with some serious issues from health care, national security, economic competitiveness, educational achievement and equity that need to be addressed.
 
-### From a session on measles at a National Vaccine Advisory Committee [meeting](https://www.hhs.gov/vaccines/nvac/meetings/2023/02-02/index.html)
+## From a session on measles at a National Vaccine Advisory Committee [meeting](https://www.hhs.gov/vaccines/nvac/meetings/2023/02-02/index.html)
 
 DR MYSHEIKA ROBERTS, COLUMBUS PUBLIC HEALTH [00:54:05]
 
@@ -4086,9 +4086,9 @@ DR MYSHEIKA ROBERTS, COLUMBUS PUBLIC HEALTH [01:09:16]
 
 I remember and I can't remember what year it was, but a few years ago when Minneapolis had a significant measles outbreak and we were bracing ourselves here and providing education, and the anti-vaxxers were, as the same time we were providing education to the Somali community, the anti-vaxxers were providing their information to the Somali community.
 
-## 02/02/2023
+# 02/02/2023
 
-### From a statement by Novavax
+## From a statement by Novavax
 
 In protecting public health, it is not uncommon for more vaccine doses to be made available than are ultimately used before reaching their expiration date. This is the case during the COVID-19 pandemic, which by its nature, has been unpredictable. Novavax’ COVID-19 vaccine, adjuvanted has a 9-month shelf life at the time of manufacture, which is comparable to other COVID-19 vaccines. 
 
@@ -4096,7 +4096,7 @@ We are in active conversations with the government to ensure continuity of acces
 
 Novavax’ protein-based COVID-19 vaccine is an important part of the public health strategy to provide a diverse vaccine portfolio. We are committed to continuing to deliver our vaccine and collaborating with local, regional and global officials to ensure vaccines are available when and where they’re needed.
 
-### From a grand rounds [webinar](https://medicine.ucsf.edu/events/department-medicine-grand-rounds-21) hosted by UCSF's Department of Medicine
+## From a grand rounds [webinar](https://medicine.ucsf.edu/events/department-medicine-grand-rounds-21) hosted by UCSF's Department of Medicine
 
 ASHISH JHA, WHITE HOUSE [00:12:06]
 
@@ -4190,11 +4190,11 @@ I did end up getting a cold earlier. Yeah, I was kind of miserable for a few day
 
 But I feel like I live my life pretty close to normal to where I was in 2019, with some modest modifications.
 
-### From Venkatesh Global Pharma (venkatesh@global-pharma.com)
+## From Venkatesh Global Pharma (venkatesh@global-pharma.com)
 
 Global Pharma is fully cooperating with US Federal authorities, and is continuing to investigate this matter, but thus far we have not determined whether our manufacturing facility is the source of the contamination. Nevertheless, out of an abundance of caution, we are recalling the products at issue
 
-### From ASPR's weekly tally of Paxlovid courses administered
+## From ASPR's weekly tally of Paxlovid courses administered
 
 Date | Cumulative | Increase | % Change
 -- | -- | -- | --
@@ -4206,13 +4206,13 @@ Date | Cumulative | Increase | % Change
 25-Dec-22 | 6,848,562 | 236,255 |  
 18-Dec-22 | 6,612,307 |   |  
 
-### From a CDC spokesperson about the outbreak linked to EzriCare's product
+## From a CDC spokesperson about the outbreak linked to EzriCare's product
 
 Eye drops were obtained through Amazon and Walmart; some patients received eye drops while inpatient or during outpatient care visits.
 <br>CDC is now aware that at least 5 of the 11 patients with eye infection had vision loss.
 <br>Martha Sharan
 
-### From a monthly [ZOHU call](https://www.cdc.gov/onehealth/zohu/2023/february.html) by the CDC
+## From a monthly [ZOHU call](https://www.cdc.gov/onehealth/zohu/2023/february.html) by the CDC
 
 NICOLE NEMETH, UNIVERSITY OF GEORGIA [00:21:05]
 
@@ -4242,9 +4242,9 @@ On a practical standpoint, I know this kind of goes without saying, but if I was
 
 But in general, I would tell you, the avian influenza experts I have talked to have said, pretty emphatically, that water doesn't as much-- the environmental kind of exposure route doesn't pose as much as a risk to humans as it is more a risk to poultry or wild birds, who may be in contact with water. And that may be a matter of kind of duration and extent of contact. 
 
-## 02/01/2023
+# 02/01/2023
 
-### From a [meeting](https://www.ninds.nih.gov/news-events/events/national-advisory-council-nandsc-meeting-february-2023) of the National Advisory Neurological Disorders and Stroke Council
+## From a [meeting](https://www.ninds.nih.gov/news-events/events/national-advisory-council-nandsc-meeting-february-2023) of the National Advisory Neurological Disorders and Stroke Council
 
 WALTER KOROSHETZ, NINDS [00:31:20] 
 
@@ -4254,7 +4254,7 @@ These are just some of the horrible pictures, the water came pouring down from t
 
 A lot of work going on in terms of remediation of the flood damage and then developing a sense of the equipment and supply damages that NINDS will have to reimburse. 18 of the labs that were damaged were NINDS labs.
 
-### From a Pfizer executive at a FDA VRBPAC meeting [last month](https://youtu.be/ZjULNuSYfd0?t=13875)
+## From a Pfizer executive at a FDA VRBPAC meeting [last month](https://youtu.be/ZjULNuSYfd0?t=13875)
 
 KENA SWANSON, PFIZER [03:51:14]
 

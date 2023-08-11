@@ -13,15 +13,15 @@ permalink: /2023/07
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## July 31, 2023
+# July 31, 2023
 
-### From Meagan Roderique of the Long COVID Alliance
+## From Meagan Roderique of the Long COVID Alliance
 
 Thanks for your patience. The Alliance can provide this official comment:
 
 “The Long COVID Alliance is both encouraged and concerned by the announcement today from NIH about their upcoming launch of clinical trials under the RECOVER initiative. We welcome the NIH’s efforts to finally fund much needed and long overdue trials on Long COVID, which has left tens of millions of Americans severely disabled. Today's announcement unfortunately leaves many important questions unanswered and seems fraught with the same lack of transparency that has become all-to-familiar with RECOVER and its $1.15 billion budget. We continue to voice serious concern about the trial design and process transparency, given the historic and ongoing omission and invalidation of the patient voice and experience, some of which we have seen through released or proposed manuscripts. If the patient community had been made a full and respected partner in this process, we would have seen a very different set of priorities and clinical trials. Additionally, the Alliance is concerned that the NIH has not presented a timeline for results: They have highlighted that enrollment will begin over the next several months, likely meaning that results to benefit many millions with Long COVID are still at least a year away. By then, Long COVID will have been with us for over four years, an unacceptable wait for patients to see meaningful results from this billion dollar investment.”
 
-### From Lauren Stiles, president and CEO of Dysautonomia International
+## From Lauren Stiles, president and CEO of Dysautonomia International
 
 I'm glad NIH is finally funding much needed clinical trials on Long COVID, which has left millions of Americans severely disabled, however I have serious concerns, because patient input on the research priorities and trial designs was largely ignored. 
 
@@ -31,7 +31,7 @@ NIH was late to start the clinical trial planning process, and then once it star
 
 There is a difference between patient engagement for public relations purposes, and meaningful patient engagement. There hasn't been meaningful patient engagement for most of these trials.
 
-### From an NIH [press briefing](https://www.eurekalert.org/news-releases/997131) on long COVID treatment studies
+## From an NIH [press briefing](https://www.eurekalert.org/news-releases/997131) on long COVID treatment studies
 
 Rachel Levine, HHS [00:07:43]
 
@@ -180,9 +180,9 @@ And the thought here is that the postural orthostatic tachycardia syndrome, coul
 
 And the other drug is ivabradine, which is a drug that is used in chronic heart failure. And it can lower the heart rate, which is the one of the problems in postural orthostatic tachycardia syndrome. 
 
-## July 28, 2023
+# July 28, 2023
 
-### From a Spectrum News [interview](https://www.ny1.com/nyc/all-boroughs/news/2023/07/27/full-interview-cdc-director-mandy-cohen) with CDC Director Mandy Cohen
+## From a Spectrum News [interview](https://www.ny1.com/nyc/all-boroughs/news/2023/07/27/full-interview-cdc-director-mandy-cohen) with CDC Director Mandy Cohen
 
 Mandy Cohen, CDC [00:15:41]
 
@@ -190,7 +190,7 @@ We are looking right now at what's happening with flu in the southern hemisphere
 
 Flu happens earlier, for them, season wise. So right now they're having a pretty, I would say, average flu season, which is good news so far, but we're watching it closely to see if anything changes. 
 
-### From a press briefing with senior HHS officials on Medicaid unwinding
+## From a press briefing with senior HHS officials on Medicaid unwinding
 
 Senior HHS Official 1 [00:08:10]
 
@@ -302,7 +302,7 @@ I think it's too early to determine exactly that, because each state has a diffe
 
 And our push with every state is not only to follow the federal minimums, which we're holding people's feet to the fire on, but really as the secretary has continued to call governors to do, states need to do everything and their power above and beyond the federal minimum, to help keep eligibility people in Medicaid, or to help folks successfully transition to other forms of coverage. 
 
-### From an FDA spokesperson about screening for malaria in blood donors
+## From an FDA spokesperson about screening for malaria in blood donors
 
 The FDA is aware that the [CDC](https://urldefense.com/v3/__https://www.cdc.gov/malaria/new_info/2023/malaria_florida.html__;!!CxwJSw!Ncoh9U3nE2eLp-DxGdsuP6FiXonmQ0n29eqQiTvv74p73js9Te_jNuqfOR7RqST3VWQZK4rW_CZXR54NS01qeUnfrw$) is working with the Florida and Texas state health departments on an investigation of locally acquired cases of malaria in their respective states. The FDA is working closely with CDC and blood collectors to monitor reports of locally acquired malaria and to help ensure the continued safety and availability of the nation’s blood supply. 
 
@@ -310,11 +310,11 @@ All blood donors are currently asked about a history of malaria, and routine mea
 
 Information on the Agency’s recommended donor deferrals as it relates to the risk of transfusion-transmitted malaria can be found [here](https://urldefense.com/v3/__https://www.fda.gov/media/163737/download__;!!CxwJSw!Ncoh9U3nE2eLp-DxGdsuP6FiXonmQ0n29eqQiTvv74p73js9Te_jNuqfOR7RqST3VWQZK4rW_CZXR54NS00t8DtkrQ$).
 
-### From a Louisiana health department spokesperson about COVID-19 levels in children
+## From a Louisiana health department spokesperson about COVID-19 levels in children
 
 Recent emergency department (ED) data indicate that COVID-like illness is increasing across all age groups in Louisiana. No COVID-19 healthcare-associated infection clusters have been reported recently among ages 0-11 which may be an indication that this age group is experiencing a greater increase in COVID transmission compared to other age groups. However, it is important to note that ED data can reflect differences in healthcare-seeking behavior across different age groups.
 
-### From a USDA spokesperson about HPAI vaccine candidates in poultry
+## From a USDA spokesperson about HPAI vaccine candidates in poultry
 
 On background:
 
@@ -326,9 +326,9 @@ USDA continues to estimate an 18-24 month timeline, under a best case scenario, 
 
 Currently, biosecurity measures remain the best, most effective tool for mitigating the virus in commercial flocks, and improved biosecurity measures by the commercial industry have vastly reduced the number of detections compared to previous outbreaks. There has been one confirmed case of HPAI in the United States since May 18, 2023. In contrast, there were 64 confirmed cases of HPAI from May 18, 2022 through July 24, 2022. Also, since April 19, 2023, there has been one commercial premise confirmed positive for HPAI. As of July 13, 2023, 31 states are considered HPAI-free according to World Organisation for Animal Health standards compared to three states last year at this time and 17 states three months ago (April 13, 2023). More information about APHIS’ efforts to work with industry as well as state and other federal partners to manage the outbreak can be found [here](https://urldefense.com/v3/__https://www.usda.gov/media/press-releases/2023/04/14/fact-sheet-usda-continues-partner-engagement-mitigate-highly__;!!CxwJSw!L_0quwhSpIXdIDozsO9lxQj1pv7woqZoGTCe1D5JnIO94LXFUAkJea4u6OhV4XGIXst80rU05zJoIcP1o6PvdJR7$).
 
-## July 27, 2023
+# July 27, 2023
 
-### From a CDC media briefing with Sarasota County on malaria
+## From a CDC media briefing with Sarasota County on malaria
 
 Jamie Carson, Sarasota County [00:01:43]
 
@@ -372,7 +372,7 @@ Audrey Lenhart, CDC [00:12:07]
 
 I just want to echo what Jamie was saying that it really is an exceptional operation that Sarasota has for mosquito control and it's a tribute to their fast action and continued action that the mosquito populations were reduced significantly and that this outbreak wasn't worse than what we've seen.
 
-### From a spokesperson for the Michigan Department of Health & Human Services on the swine flu case
+## From a spokesperson for the Michigan Department of Health & Human Services on the swine flu case
 
 From: Wuth, Chelsea (DHHS) 
 <br>Sent: Thursday, July 27, 2023 9:10 AM
@@ -409,15 +409,15 @@ Alex,
 
 The swine flu patient is alive. They were an exhibitor at the Oakland County Fair.
 
-## July 26, 2023
+# July 26, 2023
 
-### From a CDC spokesperson regarding melioidosis in Mississippi
+## From a CDC spokesperson regarding melioidosis in Mississippi
 
 There was one additional case of melioidosis identified in Mississippi in January 2023 through routine clinical testing. This case resides in the same Mississippi county as 2 other cases from 2020 and 2022. There have been no additional reports or alerts from CDC besides the alert released in July 2022 after the bacteria that causes melioidosis, Burkholderia pseudomallei, was identified in the soil samples from [Mississippi : HAN Archive - 00470 | Health Alert Network (HAN) (cdc.gov)](https://urldefense.com/v3/__https:/emergency.cdc.gov/han/2022/han00470.asp__;!!Om87Lau1Cg!JVYx7PjpLllZxmL9ZEJO8LD2XQ_b1OWHX8fP1UNQKL83O3Jq0lNzR4FLoSF1YJXVZ65lNAaCWeUs4w$). A manuscript describing the first two cases and the epidemiologic/environmental investigations is expected to be published this year. CDC continues to work with health officials in Mississippi to monitor for additional cases and learn more about where the bacteria may be found in water and soil in the Gulf Coast state.
 
-## July 25, 2023
+# July 25, 2023
 
-### From a CDC spokesperson regarding COVID-19 increases
+## From a CDC spokesperson regarding COVID-19 increases
 
 U.S. COVID-19 rates are still near historic lows after 7 months of steady declines.  Early indicators of COVID-19 activity ([emergency department visits](https://urldefense.com/v3/__https://covid.cdc.gov/covid-data-tracker/*trends_weeklyhospitaladmissions_7dayeddiagnosed_00__;Iw!!CxwJSw!OQkmAxb9X5CbR4vLv_h9yymK4WNv-kQojWeRoEoLJBh8CUvynOFjc3ZCKclyXamFIgp2t8VomQ$), [test positivity](https://urldefense.com/v3/__https://covid.cdc.gov/covid-data-tracker/*trends_weeklyhospitaladmissions_testpositivity_00__;Iw!!CxwJSw!OQkmAxb9X5CbR4vLv_h9yymK4WNv-kQojWeRoEoLJBh8CUvynOFjc3ZCKclyXamFIgp45evEdA$) and [wastewater levels](https://urldefense.com/v3/__https://covid.cdc.gov/covid-data-tracker/*wastewater-surveillance__;Iw!!CxwJSw!OQkmAxb9X5CbR4vLv_h9yymK4WNv-kQojWeRoEoLJBh8CUvynOFjc3ZCKclyXamFIgpCPlhi8Q$)) preceded an increase in hospitalizations seen this past week. 
 
@@ -425,9 +425,9 @@ The U.S. has experienced increases in COVID-19 during the past three summers, so
 
 CDC’s guidance for individual and community actions around COVID-19 are tied to hospital admission levels, which are currently low for more than 99 percent of the country. To check COVID-19 hospital admission levels in your area and see CDC’s related prevention advice, visit [www.cdc.gov/coronavirus/2019-ncov/your-health/covid-by-county.html](https://urldefense.com/v3/__http://www.cdc.gov/coronavirus/2019-ncov/your-health/covid-by-county.html__;!!CxwJSw!OQkmAxb9X5CbR4vLv_h9yymK4WNv-kQojWeRoEoLJBh8CUvynOFjc3ZCKclyXamFIgq7V-aE5A$).
 
-## July 21, 2023
+# July 21, 2023
 
-### From an FDA spokesperson on damage at Pfizer's plant in North Carolina
+## From an FDA spokesperson on damage at Pfizer's plant in North Carolina
 
 
 From: Tantibanchachai, Chanapa 
@@ -456,7 +456,7 @@ Please see our statement on this: The FDA is aware of this incident and are grat
 Thanks,
 Chanapa Tantibanchachai, M.S. (she/her/hers)
 
-### From a CDC [webinar](https://emergency.cdc.gov/coca/calls/2023/callinfo_072023.asp) on "Review of Malaria Diagnosis and Treatment in the United States"
+## From a CDC [webinar](https://emergency.cdc.gov/coca/calls/2023/callinfo_072023.asp) on "Review of Malaria Diagnosis and Treatment in the United States"
 
 Dr. Alison Ridpath, CDC [00:04:00]
 
@@ -472,9 +472,9 @@ Since the 1970s, the number of imported malaria infections reported in the U.S. 
 
 Importantly, malaria is a potentially serious illness and there were between six and seven malaria attributed deaths in the U.S. each year from 2018 to 2020. Although malaria cases dipped early in the COVID 19 pandemic because of reduced travel, our preliminary data show that the number of malaria infections has rebounded in 2022 to reach pre-pandemic levels. 
 
-## July 20, 2023
+# July 20, 2023
 
-### From an FDA [stakeholder call](https://www.youtube.com/watch?v=TZCCXvixZ4s&feature=youtu.be) on Opill approval
+## From an FDA [stakeholder call](https://www.youtube.com/watch?v=TZCCXvixZ4s&feature=youtu.be) on Opill approval
 
 Patrizia Cavazzoni, FDA [00:08:19]
 
@@ -520,9 +520,9 @@ Karen Murray, FDA [00:18:32]
 
 The drug is approved for use by all people who can-- who have reproductive potential, all people who can become pregnant. So there is, under the approval, no age limitation.
 
-## July 19, 2023
+# July 19, 2023
 
-### From a New York State Department of Health spokesperson on polio wastewater surveillance
+## From a New York State Department of Health spokesperson on polio wastewater surveillance
 
 “The Department’s wastewater surveillance is active and ongoing, and remains a critical component of the State’s COVID-19 and polio response. One year since the first case of polio was reported in New York State, the Department continues to be vigilant in its approach to identifying the virus in communities. In fact, the Department has expanded the program’s capacity and is now performing critical first-stage testing for polio at its own Wadsworth Center, which greatly increases the capacity and timeliness of testing.  At this time, the Department has no plans to discontinue its wastewater surveillance for the poliovirus as it is an important public health tool, providing information on where and when the virus may be found.”
 
@@ -536,7 +536,7 @@ Please see the Department’s press release from January announcing the expansio
 
 In addition to COVID-19 and polio, the Department is exploring the possibility of expanding its wastewater and environmental surveillance to include other potential public health threats under its research portfolios.
 
-### From a CMS press briefing on Medicaid unwinding
+## From a CMS press briefing on Medicaid unwinding
 
 Chiquita Brooks Lasure, CMS [00:16:50]
 
@@ -636,15 +636,15 @@ Dan Tsai, CMS [00:49:28]
 
 First, formally yes, those are the only two states. I would note that we are in collaborative discussions with Montana on whether or not any of those policy waivers would make sense for that state. And so, if so, there would only be one state across the country [Florida] that has not taken up any of the many policy waivers and flexibilities we have put out. 
 
-### From CDC spokesperson Lisa George on seventh Florida malaria case
+## From CDC spokesperson Lisa George on seventh Florida malaria case
 
 I am told the patient in this latest case, like those before, was treated at an area hospital and is recovering.
 
 CDC is not conducting drug resistance testing for the locally acquired malaria cases at this time.
 
-## July 18, 2023
+# July 18, 2023
 
-### From the Massachusetts Department of Public Health on gonorrhea testing
+## From the Massachusetts Department of Public Health on gonorrhea testing
 
 Surveillance testing to identify gonorrhea strains with resistance or reduced susceptibility to antibiotics has increased across Massachusetts since the January 19 Clinical Alert.
 
@@ -652,7 +652,7 @@ In the first 4 months post-release of the announcement, the State Public Health 
 
 For awareness, Massachusetts Department of Public Health epidemiologist, Dr. Heather Elder, is scheduled to give an oral presentation on this finding at the STI & HIV World Congress in Chicago next week (https://stihiv2023.org/wednesday-july-26th/).
 
-### From a press briefing with Sarasota County Mosquito Management Services
+## From a press briefing with Sarasota County Mosquito Management Services
 
 Wade Brennan, Sarasota County [00:01:05]
 
@@ -726,9 +726,9 @@ With Anopheles, since they like the habitat of woodlots, canals, these permanent
 
 It's when we have this intermittent rain or no rain that it's our biggest battle with Anopheles. And so we're also using different types of pesticide because Anopheles aren't our typical, they like to reside at the very top of the water. So sometimes we have to use mosquito surfactants and other types of larvicides as well.
 
-## July 17, 2023
+# July 17, 2023
 
-### From an email by a CSL Seqirus spokesperson
+## From an email by a CSL Seqirus spokesperson
 
 CSL Seqirus is a global leader in influenza vaccines and related pandemic preparedness and response and has been working together with BARDA in a longstanding partnership for more than a decade, which has included numerous R&D and manufacturing activities in support of BARDA’s pandemic preparedness objectives.
 
@@ -738,7 +738,7 @@ As such, BARDA selected CSL Seqirus to deliver an H5N8 A/Astrakhan virus vaccine
 
 For more information, please do take a look through the press release issued by BARDA, here, and our press release, here.
 
-### From an email with Christopher Harrison of UMKC
+## From an email with Christopher Harrison of UMKC
 
 I agree with your comment. The usual peak activity in even years that we had seen for most of the last decade went into hiatus during the 1st year of the pandemic due to social mitigations, masking etc. Then it picked up again in 2022 when things were more "normal" socially. I expect the biennial peak again in 2024. But the seasonality may not be as focused, i.e. the usual late summer and fall peak time may spread out more and start earlier in the year as it did in 2022 .
 
@@ -746,23 +746,23 @@ Of note we are talking only about PeV-A3 subtype. Other PeVs that mostly infect 
 
 It is only cost effective to test hospitalized young infants at present. I agree that many clinicians are still not tuned into this virus. At CM however, automatic testing of CSF in the young infants is the rule during late summer and fall, so the clinician only needs to do the usual work up in that age group (spinal tap for viral testing) for a febrile hospilatized infant and PeV-A3 testing gets done automatically. It's why KC seems a hot bed for PeV-A3 because it is tested routinely. 
 
-### From an email with Mary Anne Jackson of UMKC
+## From an email with Mary Anne Jackson of UMKC
 
 The year 2022 was the year that the CDC alerted physicians to what we had been documenting for a very long time. The disappearance during the pandemic was typical of many viruses (influenza, RSV most notable) during that timeframe, but then picking back up on 2022. NO cases this year yet and we’ll  be very interested to see what 2024 brings. I still believe that most pediatric practitioners do not identify or confirm cases so there is still more to be done in education.
 
-### From an email with Romney Humphries of VUMC
+## From an email with Romney Humphries of VUMC
 
 We have not. Usually, these clusters happen every other year. We are tracking that way again.
 
-### From a GSK spokesperson on availability of Arexvy
+## From a GSK spokesperson on availability of Arexvy
 
 The vaccine will be available for older adults ahead of the 2023/24 RSV season in the US, which typically starts ahead of winter months.
 
-### From a Pfizer spokesperson on availability of Abrysvo
+## From a Pfizer spokesperson on availability of Abrysvo
 
 It will be broadly available in about a month from now.
 
-### From a Sanofi spokesperson in response to my questions about nirsevimab
+## From a Sanofi spokesperson in response to my questions about nirsevimab
 
 > Cost of nirsevimab, how much or when will be ultimately decided
 
@@ -780,15 +780,15 @@ We anticipate ACIP recommendations will be available in time to launch Beyfortus
 
 While we cannot speculate on how the ACIP working group will vote, we have been encouraged by the unanimous vote from the FDA AMDAC advisory committee on June 8 in favor of Beyfortus for all infants in the first RSV season. During their discussion, the panel members expressed appreciation for the robust data presented across the three pivotal clinical studies of Beyfortus. 
 
-## July 12, 2023
+# July 12, 2023
 
-### From a statement by Sarasota County Mosquito Management Services on malaria testing
+## From a statement by Sarasota County Mosquito Management Services on malaria testing
 
 Yes, all the positive pools we have found have came from the same woodlot. They were Anopheles crucians. Only the midgut was positive not the salivary glands.
 
-## July 11, 2023
+# July 11, 2023
 
-### From a statement by Sarasota County Mosquito Management
+## From a statement by Sarasota County Mosquito Management
 
 Sarasota County Mosquito Management Services continue to focus treatments and surveillance efforts in North Sarasota (Desoto Acres and Kensington areas) where there have been confirmed malaria cases and infected mosquitoes and areas that have long-lasting standing water. Multiple truck, aerial, backpack treatments have been conducted to eradicate the Anopheles. Staff are also working in a mile outside those areas. In addition to treatments, there is also continued testing of Anopheles from the area of concern. Sarasota County Mosquito Management Services sends samples to the Centers for Disease Control and Prevention weekly.
 
@@ -806,7 +806,7 @@ For more information on Mosquito Management Services, mosquito-borne illness, sp
 
 You can find [past spray missions here](https://urldefense.com/v3/__https://sarasota.leateamapps.com/PublicMap/__;!!CxwJSw!P8AyJxFfYDySdXTVGRKJ_Op2xZ16omT4tXqtIQ_RoYGCvUE9LgHfthDEdCPCbf2wvu4skj_KNdhOzTQ$) and you can use [this link to b-roll](https://urldefense.com/v3/__https://www.dropbox.com/s/i4x6h7g71hrhp8r/Mosquito*20Management*20Media*20Day_BROLL.mp4?dl=0__;JSUl!!CxwJSw!P8AyJxFfYDySdXTVGRKJ_Op2xZ16omT4tXqtIQ_RoYGCvUE9LgHfthDEdCPCbf2wvu4skj_Kn8F4ZPw$) of Sarasota County Mosquito Management Services. We just [posted this video yesterday](https://urldefense.com/v3/__https://www.facebook.com/SRQCountyGov/videos/1265584650990815/__;!!CxwJSw!P8AyJxFfYDySdXTVGRKJ_Op2xZ16omT4tXqtIQ_RoYGCvUE9LgHfthDEdCPCbf2wvu4skj_K5dGzoI8$) talking more about the pools Sarasota County Mosquito Management Services sends to the CDC. You can also [see this video](https://urldefense.com/v3/__https://www.facebook.com/SRQCountyGov/videos/253885843945024/__;!!CxwJSw!P8AyJxFfYDySdXTVGRKJ_Op2xZ16omT4tXqtIQ_RoYGCvUE9LgHfthDEdCPCbf2wvu4skj_K1D3Fatk$) discussing how Sarasota County Mosquito Management Services responds once the Department of Health is notified of a suspected case of any mosquito-borne illness in the community.
 
-### From an email by an FDA spokesperson on letter by Senator Chuck Schumer on energy drinks
+## From an email by an FDA spokesperson on letter by Senator Chuck Schumer on energy drinks
 
 The FDA has received the letter, is reviewing the concerns outlined in the letter, and will respond to the Senator directly.  
 
@@ -816,7 +816,7 @@ While there’s wide variation in both how sensitive people are to the effects o
 
 In general, the agency monitors the marketplace of FDA-regulated products and takes action as appropriate, including collaborating with the Federal Trade Commission regarding marketing claims. 
 
-### From an email by WHO spokesperson Christian Lindmeier on malaria
+## From an email by WHO spokesperson Christian Lindmeier on malaria
 
 Dear Alexander,
 
@@ -830,15 +830,15 @@ For reference, please kindly see attached the 2nd edition of the Certification m
 
 Countries should immediately report any indigenous cases or outbreaks to WHO so that the Organization can advise on further action to prevent re-establishment. A minimum indication of possible re-establishment of transmission is the occurrence of three or more indigenous malaria cases of the same species per year in the same focus for 3 consecutive years. As certification represents recognition of a considerable operational achievement by a country, a careful investigation and consultation with the TAG-MEC will be conducted before a country’s malaria-free certification status is revoked.
 
-## July 10, 2023
+# July 10, 2023
 
-### From an email by FDA spokesperson Chanapa Tantibanchachai on semaglutide safety signal
+## From an email by FDA spokesperson Chanapa Tantibanchachai on semaglutide safety signal
 
 The FDA routinely evaluates individual adverse event reports and adverse event reports from the published literature for all approved drugs. As a general matter, the FDA does not comment on third-party research or individual reports but may evaluate these as part of the body of evidence to further our understanding about a particular issue and assist in our mission to protect public health.  
 
 Clinical trials of Wegovy did not support an increased risk of suicidal behavior, suicidal ideation, or other psychiatric adverse events with Wegovy; however, suicidal behavior and ideation have been reported in clinical trials of other weight management drugs. For this reason, the US prescribing information for Wegovy contains a Warning and Precaution for suicidal behavior and ideation. The FDA monitors the safety of a drug throughout its life cycle, including post-approval. In addition, the FDA maintains a system of postmarketing surveillance and risk assessment programs and if newly identified safety signals are identified, the FDA will determine what actions are appropriate after a thorough review of the body of evidence. 
 
-### From an email by CDC spokesperson Kathleen Conley on malaria
+## From an email by CDC spokesperson Kathleen Conley on malaria
 
 _1. Is there any potential geographic origin identified for where the malaria outbreak in Florida may have been imported? Curious, for example, if that's something that can be determined through molecular analysis._
 
@@ -850,9 +850,9 @@ Since 1957, when CDC's Malaria Branch started conducting malaria surveillance, 6
 
 Reported cases 1988 and 1989: [Transmission of Plasmodium vivax Malaria -- San Diego County, California, 1988 and 1989 (cdc.gov)](https://urldefense.com/v3/__https://www.cdc.gov/mmwr/preview/mmwrhtml/00001559.htm__;!!CxwJSw!NOAK0hzkqh6hbgTRnE-8LRwUosxA_ntV5ntZQPyZyKCstQLxD24W0O5GQX9rY6QUVqtO-5snzQ$)
 
-## July 5, 2023
+# July 5, 2023
 
-### From a "Media briefing on global health issues 5 July 2023" hosted by the WHO [on YouTube](https://www.youtube.com/watch?v=3U-m9NwFjH4)
+## From a "Media briefing on global health issues 5 July 2023" hosted by the WHO [on YouTube](https://www.youtube.com/watch?v=3U-m9NwFjH4)
 
 Dr. Sylvie Briand, WHO [00:12:59]
 

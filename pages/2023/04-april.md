@@ -13,17 +13,17 @@ permalink: /2023/04
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 04/28/2023
+# 04/28/2023
 
-### From a CDC spokesperson on COVID-19 Community Levels
+## From a CDC spokesperson on COVID-19 Community Levels
 
 Our priority remains providing the information necessary to protect the nation’s public health. With the end of the public health emergency, CDC will no longer get the same data. We are working to update the measure used to convey the risk of COVID-19 in communities based on data that will be available. CDC will provide additional information on the updated measure before the PHE declaration expires.
 
-### From a CDC spokesperson on measles samples from American Samoa
+## From a CDC spokesperson on measles samples from American Samoa
 
 CDC has not yet received any samples from American Samoa, but will support confirmatory testing and additional lab testing as needed.
 
-### From a [presentation](https://www.cdc.gov/eis/downloads/eis-conference-2023-508.pdf#page=100) at CDC's EIS Conference on intracranial abscesses in Nevada
+## From a [presentation](https://www.cdc.gov/eis/downloads/eis-conference-2023-508.pdf#page=100) at CDC's EIS Conference on intracranial abscesses in Nevada
 
 JESSICA PENNEY, CDC [01:03:40]
 
@@ -77,7 +77,7 @@ JESSICA PENNEY, CDC [01:12:26]
 
 So I have not been able to do a deep dive into that. But at least talking with our disease investigation and surveillance staff, we had not seen the similar trend in our population, because I was suspecting that we might be seeing that happening concurrently as well. But it is something we are looking further into. 
 
-### From a [broadcast](https://www.facebook.com/KVZKTV/posts/pfbid0e3xdCp8HsAjossnMvcSRtaHntQpKvqRNGPnCM7Ez3wCNRXeMoyLr27KReNW4H6yyl?__cft__[0]=AZXUu5FJA4vH8uSsbiiGIqE5XNqWCrtQ4rZG7IgukMV62yBV2QEUQVWU9wqoe7uNYQKd69cplDkH3qvg89uk0BhvHbcAJbLJVxRWLJVczEfGbXQl1cZ3QD5y23pSxKkKb9Cv9PFK6sk_swDtht14QFiYJu-an_-V5Ff0UVV-ETEYD5ZyEAh7sZ5-lFciN1jjepA&__tn__=%2CO%2CP-R) on April 28 by KVZK about measles
+## From a [broadcast](https://www.facebook.com/KVZKTV/posts/pfbid0e3xdCp8HsAjossnMvcSRtaHntQpKvqRNGPnCM7Ez3wCNRXeMoyLr27KReNW4H6yyl?__cft__[0]=AZXUu5FJA4vH8uSsbiiGIqE5XNqWCrtQ4rZG7IgukMV62yBV2QEUQVWU9wqoe7uNYQKd69cplDkH3qvg89uk0BhvHbcAJbLJVxRWLJVczEfGbXQl1cZ3QD5y23pSxKkKb9Cv9PFK6sk_swDtht14QFiYJu-an_-V5Ff0UVV-ETEYD5ZyEAh7sZ5-lFciN1jjepA&__tn__=%2CO%2CP-R) on April 28 by KVZK about measles
 
 [00:03:24] To date, there are two confirmed measles cases in the territory. Director of health, clinical director, Dr. Elizabeth Lauvao, told KVZK the latest confirmed case is a four year old male student. 
 
@@ -89,9 +89,9 @@ The confirmation by the department of health came from lab results of samples th
 
 Dr. Lauvao said a total of 39 samples were sent for testing, and 26 came back negative, while one was positive for measles. 
 
-## 04/27/2023
+# 04/27/2023
 
-### From an FDA [workshop](https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/recombinant-protein-based-covid-19-vaccines-workshop-04272023) on recombinant protein-based COVID-19 vaccines
+## From an FDA [workshop](https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/recombinant-protein-based-covid-19-vaccines-workshop-04272023) on recombinant protein-based COVID-19 vaccines
 
 NATALIE THORNBURG, CDC [00:14:06]
 
@@ -241,7 +241,7 @@ And I think Novavax made a good case about how does one define a like strain. An
 
 I think that is an issue that is is probably broader than for protein subunit vaccines, is how one does define what a broadly like vaccine would be. And so, I think, again, that that's something that does need to be addressed.
 
-### From an AstraZeneca spokesperson on AZD3152
+## From an AstraZeneca spokesperson on AZD3152
 
 The SUPERNOVA Phase I/III trial is on track. We have fully enrolled the safety cohort and are actively recruiting for Phase III, with sites in over 20 countries. We anticipate results in Q32023 and are aiming to make AZD3152 available as a new option for COVID-19 in the second half of this year.
 
@@ -249,7 +249,7 @@ The SUPERNOVA Phase I/III trial is on track. We have fully enrolled the safety c
 
 I can confirm that we aim to make AZD3152 available as a new option for COVID in the second half of this year, subject to trial readouts and regulatory reviews under EUA.
 
-### From AstraZeneca executives at [quarterly earnings call](https://www.astrazeneca.com/investor-relations/astrazeneca-q1-2023-results-event.html)
+## From AstraZeneca executives at [quarterly earnings call](https://www.astrazeneca.com/investor-relations/astrazeneca-q1-2023-results-event.html)
 
 PASCAL SORIOT, ASTRAZENECA [00:07:09]
 
@@ -261,7 +261,7 @@ MENE PANGALOS, ASTRAZENECA [00:30:56]
 
 We also provided new data on AZD3152, our COVID 19 long acting antibody. In vitro studies demonstrated that AZD3152 neutralizes all COVID 19 variants, including Arcturus, the latest variant of concern. And we hope to make AZD3152 available as a new prophylactic treatment in the second half of this year. 
 
-### From the closing session at the [2023 Sugar Reduction Summit](https://www.cspinet.org/page/2023-sugar-reduction-summit) 
+## From the closing session at the [2023 Sugar Reduction Summit](https://www.cspinet.org/page/2023-sugar-reduction-summit) 
 
 ROBERT CALIFF, FDA [00:19:45]
 
@@ -305,7 +305,7 @@ And I do want to-- I have to go back to my roots here and say, decisions can be 
 
 So I'll say it's very much top of mind as we look at the overall nutrition issue. This is a hoped-for substitute, but questions have been raised, and we're looking at them.
 
-### From Virginia health department spokesperson Cheryle Rodriguez
+## From Virginia health department spokesperson Cheryle Rodriguez
 
 QUESTION: Does Virginia conduct any wastewater surveillance of its own for mpox? 
 
@@ -325,9 +325,9 @@ We are still learning about the significance of mpox detections in wastewater. P
 
 3.  Was diagnosed outside of the jurisdiction or state and not reported to VDH.  
 
-## 04/26/2023
+# 04/26/2023
 
-### From a WHO [press conference](https://www.youtube.com/watch?v=LLXhIdFu8vk) on Sudan and other global health issues
+## From a WHO [press conference](https://www.youtube.com/watch?v=LLXhIdFu8vk) on Sudan and other global health issues
 
 TEDROS ADHANOM GHEBREYESUS, WHO [00:09:18]
 
@@ -412,7 +412,7 @@ But as we've seen in the past, one unusual event, one unfortunate amplification,
 But while the hemorrhagic fever is spreading or moving in a human population, we need to be extremely cautious and vigilant at all times.
 
 
-### From a panel of FDA officials at the [Stanford Drug Discovery Symposium](https://med.stanford.edu/cvi/events/2023-drug-discovery-conference.html)
+## From a panel of FDA officials at the [Stanford Drug Discovery Symposium](https://med.stanford.edu/cvi/events/2023-drug-discovery-conference.html)
 
 NAMANDJÉ BUMPUS, FDA [00:43:21]
 
@@ -450,7 +450,7 @@ We ultimately, what we would envision, is it's sort of a fully hybrid scenario w
 
 Not only that, but the virtual option is allowing us a greater sort of a flexibility and greater reach when it comes to potential advisory committee members who may have been daunted by, for instance, having to travel from the west coast and so on. So it's actually broadening our-- the pool of potential members of advisory committees. And that's extremely important because ultimately the foundation of of of an advisory committee is having the right experts to address the right questions.
 
-### From a [call](https://twitter.com/BrooksLaSureCMS/status/1650582490518528015) by CMS on the end of the COVID-19 PHE
+## From a [call](https://twitter.com/BrooksLaSureCMS/status/1650582490518528015) by CMS on the end of the COVID-19 PHE
 
 EVAN SHULMAN, CMS [00:27:39]
 
@@ -470,21 +470,21 @@ I would note that the CMS COVID 19 vaccination requirements for health care work
 
 Having completed the primary series, you know, sometime within the past couple of years, still continues to meet this requirement. We note that if someone is currently unvaccinated, they can meet this rule's requirements by receiving one dose of the new bivalent vaccines.
 
-### From a [broadcast](https://www.facebook.com/KVZKTV) by KVZK TV on April 26 at 1:44 AM ET
+## From a [broadcast](https://www.facebook.com/KVZKTV) by KVZK TV on April 26 at 1:44 AM ET
 
 [00:02:16] There are 17 vaccination sites set up by the Department of Health for children requiring the measles, mumps and rubella vaccine. The sites are scattered around the island with the furthest on the west in Amanave and Aunuu to the east. Sites are set up at the department's clinics and church halls. According to the department of health, they want to increase the vaccination rate to 95% from 89.2% 
 
 [00:02:42] As of 2 PM today, in the latest report from the department of health, the number of suspected cases of measles has increased to 37, with 1 confirmed measles case. This is according to the health clinical director, Dr. Elizabeth Lauvao, during a brief interview with KVZK News.
 
-## 04/25/2023
+# 04/25/2023
 
-### From an email by a CDC spokesperson on measles in American Samoa
+## From an email by a CDC spokesperson on measles in American Samoa
 
 CDC is aware of the case in American Samoa; however, neither the [CDC Measles Cases and Outbreaks webpage](https://urldefense.com/v3/__https://www.cdc.gov/measles/cases-outbreaks.html__;!!CxwJSw!M8RrEk24RRPTaqYogop6S4SyvPV0sZUOf_dGaUpfmg8DCpHQMFi5tJZHCoy4cKhJ4aWMEFDZsg$) nor [CDC WONDER](https://urldefense.com/v3/__https://wonder.cdc.gov/__;!!CxwJSw!M8RrEk24RRPTaqYogop6S4SyvPV0sZUOf_dGaUpfmg8DCpHQMFi5tJZHCoy4cKhJ4aWGzwIjSQ$) will include cases from American Samoa because they do not report data to the [National Notifiable Disease Surveillance System.](https://urldefense.com/v3/__https://www.cdc.gov/nndss/index.html__;!!CxwJSw!M8RrEk24RRPTaqYogop6S4SyvPV0sZUOf_dGaUpfmg8DCpHQMFi5tJZHCoy4cKhJ4aUBffUn4g$)
 
 The last outbreak in American Samoa was in late 2019, with over a dozen cases reported to CDC.
 
-### From an email by Scott Anesi of American Samoa's health department
+## From an email by Scott Anesi of American Samoa's health department
 
 How many cases have been hospitalized?
 
@@ -498,7 +498,7 @@ When was the earliest date of rash onset?
 
 March 20, 2023 self-reported onset for rash, March 23, 2023 presentation to healthcare facility.
 
-### From an email by a spokesperson for Hawaii's health department
+## From an email by a spokesperson for Hawaii's health department
 
 We are unable to provide any additional information regarding the patients due to the ongoing investigation and need to protect privacy rights. These two cases are not related to any outbreak in American Samoa. This index case traveled to a foreign country and acquired the disease while in that country. We are unaware of any outbreaks, but the individual brought back the disease to Hawaii. At this point in time, we are unaware of a connection to an outbreak.
 Here’s a link to the press release: https://health.hawaii.gov/news/newsroom/department-of-health-announces-second-oahu-measles-case/
@@ -507,9 +507,9 @@ Here’s a link to the press release: https://health.hawaii.gov/news/newsroom/de
 
 American Samoa reached out to Hawaii to see if our DOH State Laboratory Division can assist with testing their specimens. Samples arrived today. Any results of these samples will need to be requested of American Samoa since it is their results, not Hawaii’s. Hawaii is supporting our fellow neighbor island in this current need. Normally, depending on the test, it should take 1, 2 days at the most. Any information regarding American Samoa would need to come from them.
 
-## 04/25/2023
+# 04/25/2023
 
-### From a [briefing](https://www.facebook.com/KVZKTV/videos/630803645532656) in American Samoa on measles outbreak
+## From a [briefing](https://www.facebook.com/KVZKTV/videos/630803645532656) in American Samoa on measles outbreak
 
 SCOTT ANESI, AMERICAN SAMOA [00:14:19]
 
@@ -581,7 +581,7 @@ One is a two month old and one is a five month old baby. One of them presented w
 
 And both of them, at this time, they are doing very well. One of them was supposed to be discharged home today, but there was some low grade fever and that is why we decided to keep the baby back at the hospital to be observed for the next 24 hours. And both of them are most likely going to be discharged home tomorrow. They're both doing very well. I personally saw them earlier this morning and they are both doing very well. The parents are both looking forward to take them home. 
 
-### From a [press conference](https://www.facebook.com/KVZKTV/videos/603122618547482) in American Samoa on measles outbreak
+## From a [press conference](https://www.facebook.com/KVZKTV/videos/603122618547482) in American Samoa on measles outbreak
 
 SCOTT ANESI, AMERICAN SAMOA [00:02:52]
 
@@ -615,13 +615,13 @@ In the meantime, we've worked out a solution for testing in Hawaii, through Hawa
 
 So if we can create the mechanism and get the samples gone to Hawaii with a 3 to 4 day turnaround, it would still aid in the in the response until such time that we can build up the capacity locally for testing.
 
-## 04/24/2023
+# 04/24/2023
 
-### From a spokesperson for Philadelphia's health department
+## From a spokesperson for Philadelphia's health department
 
 So far we are still doing no testing for polio. I’ve checked on the status of this recently and was told that we don’t anticipate being equipped to do so until much later in the year.
 
-### From a presentation of ["Mpox Case Dynamics in Nonendemic..."](https://www.cdc.gov/eis/downloads/eis-conference-2023-508.pdf#page=45) at the 2023 Annual EIS Conference
+## From a presentation of ["Mpox Case Dynamics in Nonendemic..."](https://www.cdc.gov/eis/downloads/eis-conference-2023-508.pdf#page=45) at the 2023 Annual EIS Conference
 
 ANDREA STEWART, CDC [00:55:43]
 
@@ -655,7 +655,7 @@ ANDREA STEWART, CDC [01:03:05]
 
 So Rt early on, we definitely could look at that. We didn't look at that because we were interested in that post peak period because that's where we were seeing like the biggest differences between the countries. But one of my colleagues is actually conducting a more advanced modeling exercise that does account for the pre-peak Rt values. So you can adjust for that to try to get at that effect. 
 
-### From an interview of the White House COVID-19 response coordinator on the ["Pandemic Proof" podcast](https://www.cgdev.org/blog/pandemic-proof-beginning-new-era)
+## From an interview of the White House COVID-19 response coordinator on the ["Pandemic Proof" podcast](https://www.cgdev.org/blog/pandemic-proof-beginning-new-era)
 
 QUESTION [00:15:37]
 
@@ -679,7 +679,7 @@ ASHISH JHA, WHITE HOUSE [00:17:55]
 
 And in terms of my personal future, I have to be honest with you, I just have not made any decisions. As you know, I'm on leave from Brown University, and as of right now, the plan is to go back to Brown, but I have not thought more about this, largely because I've been focused on trying to make sure that we get to a better place, that we transition this public health emergency in a way that preserves access to vaccines, treatments, testing, all the other stuff that's so important. And as that comes to an end, we'll think more about the future.
 
-### From the White House COVID-19 response coordinator at [AHA Annual Membership Meeting](https://annualmeeting.aha.org/)
+## From the White House COVID-19 response coordinator at [AHA Annual Membership Meeting](https://annualmeeting.aha.org/)
 
 ASHISH JHA, WHITE HOUSE
 
@@ -779,7 +779,7 @@ If you're five or over, you just need to make sure you've gotten at least one bi
 
 So for people under 65, just get a bivalent, one bivalent, you got one in the fall, that's great. You're done. For people 65 and over, if it's been at least four months since you've gotten it, it's worth getting. 
 
-### From the FDA commissioner at the [Stanford Drug Discovery Symposium](https://med.stanford.edu/cvi/events/2023-drug-discovery-conference.html)
+## From the FDA commissioner at the [Stanford Drug Discovery Symposium](https://med.stanford.edu/cvi/events/2023-drug-discovery-conference.html)
 
 ROBERT CALIFF, FDA 
 
@@ -825,9 +825,9 @@ And, we've talked for years about statins and other areas where people are dying
 
 And we've got-- we've lost our way in terms of how we communicate with people about it. I think it's deeply embedded in the disparity issues that we talk about. 
 
-## 04/21/2023
+# 04/21/2023
 
-### From a Pfizer spokesperson regarding patient assistance for COVID-19
+## From a Pfizer spokesperson regarding patient assistance for COVID-19
 
 At this time, the U.S. government will continue to oversee the distribution of PAXLOVID, and eligible U.S. residents will continue to receive the medicine free of charge (other administrative fees may apply). A transition to distribution and reimbursement through a more traditional U.S. commercial model is dependent on a number of factors, including existing U.S. government supply of PAXLOVID, and we are not able to share specific timing on U.S. commercialization at this time.
 
@@ -843,9 +843,9 @@ Eligible U.S. residents without insurance will be able to access the COVID-19 va
 
 Healthcare professionals who wish to vaccinate an uninsured patient with Comirnaty should contact the Pfizer Patient Assistance Program to understand the eligibility requirements.
 
-## 04/20/2023
+# 04/20/2023
 
-### From an [event](https://www.kff.org/other/event/a-conversation-with-dr-walensky-on-meeting-our-public-health-challenges/) with KFF "on meeting our public health challenges"
+## From an [event](https://www.kff.org/other/event/a-conversation-with-dr-walensky-on-meeting-our-public-health-challenges/) with KFF "on meeting our public health challenges"
 
 QUESTION [00:24:24]
 
@@ -897,9 +897,9 @@ I don't think we're moving in a direction that you're talking about. The 20 Janu
 
 So policies are not moving in that direction, unfortunately.
 
-## 04/19/2023
+# 04/19/2023
 
-### From a statement by Detect, Inc. on FDA revocation
+## From a statement by Detect, Inc. on FDA revocation
 
 Detect, Inc. has voluntarily requested the revocation of the FDA’s emergency use authorization of the Detect Covid-19 Test (EUA #210534). The Detect Covid-19 Test is a rapid molecular, over-the-counter Covid-19 test that received emergency use authorization by the U.S. Food and Drug Agency on October 28, 2021 (with updates in January, April, and August 2022). 
 
@@ -909,7 +909,7 @@ Detect, a Connecticut-based health technology company founded by Dr. Jonathan Ro
 
 For updates on Detect’s future products, visit [Detect.com](https://urldefense.com/v3/__http://detect.com__;!!CxwJSw!P9CSLhtesA8p6JV6Kd-JfDkmMnLaFx2iAXs8uwcOLLuy6-ITj50IM46_TsUX0MlyF9amohYqgHEY$).
 
-### From a [hearing](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fiscal-year-2024-budget-request-for-the-food-and-drug-administration) at the Senate Appropriations Committee on FDA budget request
+## From a [hearing](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fiscal-year-2024-budget-request-for-the-food-and-drug-administration) at the Senate Appropriations Committee on FDA budget request
 
 ROBERT CALIFF, FDA [00:27:28]
 
@@ -961,7 +961,7 @@ What was done was to take away a separate form that's different from all the res
 
 But with regard to your question, we're confident the law is on our side. We've appealed. The district court's decision to the Supreme Court and have sought a stay pending that appeal. But FDA, as I've said already, does intend to comply with any court orders.
 
-### From a [hearing](https://www.youtube.com/watch?v=LKPpxEiZe6k) at the House Appropriations Committee on CDC, ASPR, and NIH budget requests
+## From a [hearing](https://www.youtube.com/watch?v=LKPpxEiZe6k) at the House Appropriations Committee on CDC, ASPR, and NIH budget requests
 
 DAWN O'CONNELL, ASPR [01:36:00]
 
@@ -971,7 +971,7 @@ Now that we're winding down the public health emergency, now that we're moving t
 
 And we think creating the next generation of tools to protect Americans from COVID is a reasonable use of these next dollars.
 
-### From a [meeting](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-04-19.html) of the CDC's ACIP on COVID-19 vaccines
+## From a [meeting](https://www.cdc.gov/vaccines/acip/meetings/slides-2023-04-19.html) of the CDC's ACIP on COVID-19 vaccines
 
 PETER MARKS, FDA [11:18:20]
 
@@ -1172,9 +1172,9 @@ So we are, at Novavax, broadening our label. Right now we're submitting data to 
 We do have an ongoing study in younger children to expand into those age groups and we hope to be moving into the very youngest age group, six months to two year olds, in around the May time frame. 
 So we do recognize that there's a benefit to a broader indication, and we are certainly working hard to gather data to expand our label to that end. 
 
-## 04/18/2023
+# 04/18/2023
 
-### From a [press conference](https://www.youtube.com/watch?v=LsNO9vey9VQ) with the WHO on April 18 
+## From a [press conference](https://www.youtube.com/watch?v=LsNO9vey9VQ) with the WHO on April 18 
 
 TEDROS ADHANOM GHEBREYESUS, WHO [00:05:09]
 
@@ -1234,7 +1234,7 @@ So we had some of them, and WHO is very clear. We issued the DON and we said it'
 
 A few countries have started screening, which is some rational, and we received the update on that. But it's not a time for travel restrictions. 
 
-### From a [hearing](https://www.youtube.com/watch?v=ZF_Z-kRNOts) of the House Agriculture Committee on preventing disease
+## From a [hearing](https://www.youtube.com/watch?v=ZF_Z-kRNOts) of the House Agriculture Committee on preventing disease
 
 ALECIA NAUGLE, USDA
 
@@ -1254,7 +1254,7 @@ Right now, our partners at Agricultural Research Service are investigating diffe
 
 However, right now, today, we believe strongly that our response has been effective. Whenever we've identified HPAI in a case in domestic poultry, we've effectively stamped it out, and due to the great trade consequences of vaccine, at this point, we're planning for the future but continuing on the current path.
 
-### From a statement by Novavax on FDA's simplification announcement
+## From a statement by Novavax on FDA's simplification announcement
 
 Novavax on FDA Announcement to Simplify Use of COVID-19 Vaccines – for attribution to Novavax
 
@@ -1264,7 +1264,7 @@ Novavax continues to collaborate with the FDA to develop an updated vaccine for 
 
 Novavax’s protein-based COVID-19 vaccine provides an important vaccine option for people in the U.S. to protect themselves and their families. Novavax recently [announced](https://urldefense.com/v3/__https://ir.novavax.com/2023-02-13-U-S-Government-and-Novavax-Extend-Partnership,-Securing-Up-to-1-5-Million-Additional-Doses-of-Novavax-COVID-19-Vaccine__;!!CxwJSw!M9MQ-rUgvIYp9tdXmEDOlPTybq6Q77DoGn_GKFkXLIgl3gkKNTRITK_0o17icDUJB0WZ81WKy-q2eLU$) an extended partnership with the U.S. government, ensuring continued vaccine supply. Access to a diversified vaccine portfolio is vital for protecting public health and future proofing against variants as part of the global long-term strategy to address COVID-19.
 
-### From a [press briefing](https://www.youtube.com/watch?v=bT5XM9Rti_A) by FDA on updates to COVID vaccines
+## From a [press briefing](https://www.youtube.com/watch?v=bT5XM9Rti_A) by FDA on updates to COVID vaccines
 
 PETER MARKS, FDA
 
@@ -1340,9 +1340,9 @@ So they-- I should be clear that the recommendation currently, we don't have a--
 
 Is it possible that this will be something that will happen on a regular basis? It is, but that's something for discussion at the advisory committee. 
 
-## 04/17/2023
+# 04/17/2023
 
-### From a monthly webinar for testing laboratories hosted by CDC
+## From a monthly webinar for testing laboratories hosted by CDC
 
 JOANNA PRASHER, CDC
 
@@ -1434,7 +1434,7 @@ And we're also working with the ministry of health in Equatorial Guinea. We've p
 
 CDC, also as is our custom, has been reaching out to any non-governmental organizations that are working in either of those two countries that are U.S. based and might have employees or others coming back to the United States, and just working to make sure that those travelers are very aware of the situation on the ground in both countries and the measures they should be taking to protect themselves and others as they return.
 
-### From a statement by CDC's Vivien Dugan on a preliminary analysis of an H5N1 sequence
+## From a statement by CDC's Vivien Dugan on a preliminary analysis of an H5N1 sequence
 
 On the record from Vivien Dugan (PhD), acting director of the Influenza Division in CDC’s National Center for Immunization and Respiratory Diseases (NCIRD):
 
@@ -1442,7 +1442,7 @@ On the record from Vivien Dugan (PhD), acting director of the Influenza Division
 
 “Nevertheless, it’s important to continue to look carefully at every instance of human infection, as well as other mammalian spillover events, and to track viral evolution in birds. We need to remain vigilant for changes that would make these viruses more dangerous to people.”
 
-### From an email by Richard Webby on a preliminary analysis of an H5N1 sequence
+## From an email by Richard Webby on a preliminary analysis of an H5N1 sequence
 
 Here is a nice summary of the categories of changes these H5 viruses are likely going to need to make to switch to the human host. [https://www.science.org/content/article/bad-worse-avian-flu-must-change-trigger-human-pandemic](https://urldefense.com/v3/__https://www.science.org/content/article/bad-worse-avian-flu-must-change-trigger-human-pandemic__;!!CxwJSw!NZt6rPSkPlTFzyP-FRJOjCt3cwkaDgZvHnr429T2kfjXxop9lAC8e0-bZhkdLcVMn5ijFsgCx0CkEusDj4qm7w%24)
 
@@ -1456,9 +1456,9 @@ Changes that alter the ability of the virus to replicate once inside a mammalian
 
 The third category is the change we have seen most often and is the one I referred to as “easiest”. Upon growth in a mammalian host the H5N1 viruses seem able to make this change readily, hence “easiest”. We haven’t seen changes in category 1. There seems to be quite a barrier for viruses to overcome to make these changes. Maybe structural, maybe they need to change more positions. 2) is a bit harder to determine as we have to measure this by phenotypic assays in the lab rather than from seq alone.
 
-## 04/13/2023
+# 04/13/2023
 
-### From a press briefing hosted by Alliance Defending Freedom after Fifth Circuit ruling
+## From a press briefing hosted by Alliance Defending Freedom after Fifth Circuit ruling
 
 QUESTION [00:02:19]
 
@@ -1474,7 +1474,7 @@ The Fifth Circuit has a really good example in which the court says, you know, i
 
 So what the Fifth Circuit said and what our plaintiffs have argued, our doctors have argued, is that the FDA needed to look at the safety of the drug under the conditions in which they prescribed it. Just like that, safe belts-- the safety belt. And yet the FDA has never required ultrasounds, again, ultrasounds are crucial for determining both gestational age as well as ectopic pregnancies and other contraindications.
 
-### From a statement by Danco after Fifth Circuit ruling
+## From a statement by Danco after Fifth Circuit ruling
 
 All changes that have been made to the Mifeprex label are supported by safety and efficacy data. FDA has been empowered by Congress to make decisions about what drugs are safe and effective and how they should be available to patients. Danco remains unchanged in its commitment to do all that we can to support and protect the availability of and access to Mifeprex for healthcare providers and all people in the United States.
 
@@ -1482,9 +1482,9 @@ All changes that have been made to the Mifeprex label are supported by safety an
 
 We are working with our attorneys as write. All options are on the table, including an appeal.
 
-## 04/11/2023
+# 04/11/2023
 
-### From a [meeting](https://www.youtube.com/watch?v=snvpN-S8kjE) of the Presidential Advisory Council on HIV/AIDS
+## From a [meeting](https://www.youtube.com/watch?v=snvpN-S8kjE) of the Presidential Advisory Council on HIV/AIDS
 
 PETER MARKS, FDA [01:19:23]
 
@@ -1504,9 +1504,9 @@ PETER MARKS, FDA [01:22:05]
 
 So we fully expect that this will be able to get finalized in the not too distant future. Obviously that depends on our friends at the White House. It has to go through some review there. But I think we might have friends that can help us there. And I think the goal was to actually have this done in advance of Pride Month in June. 
 
-## 04/07/2023
+# 04/07/2023
 
-### From an episode of ["Let's Talk Micro"](https://rss.com/podcasts/letstalkmicro/) about Candida auris
+## From an episode of ["Let's Talk Micro"](https://rss.com/podcasts/letstalkmicro/) about Candida auris
 
 SHAWN LOCKHART, CDC [00:08:39]
 
@@ -1552,9 +1552,9 @@ So, in rooms where we have Candida Auris patients, you need to have very good in
 
 You need bleach and bleach based disinfectants or combination disinfectants. No one wants to use bleach. Bleach smells bad. It's corrosive. But, you know, that's what it takes. And we've worked closely with the EPA. They have a brand new list. It's called List P. You can go to the EPA website and look up List P, and those are the disinfectants that have been shown to be effective against Candida Auris.
 
-## 04/06/2023
+# 04/06/2023
 
-### From the [Barnes Lecture](https://www.youtube.com/watch?v=ncqwFmR5ofk) at the Brown University School of Public Health 
+## From the [Barnes Lecture](https://www.youtube.com/watch?v=ncqwFmR5ofk) at the Brown University School of Public Health 
 
 DEMETRE DASKALAKIS, CDC [00:51:10]
 
@@ -1564,7 +1564,7 @@ So we're all learning together because, and it's been fascinating. And this is l
 
 Thinking like in a public health mechanism, like we're totally going to get an SOP out of this in terms of what to do in this situation. 
 
-### From a [virtual event](https://twitter.com/UCSFDOM/status/1644052872735125504) with the UCSF School of Medicine 
+## From a [virtual event](https://twitter.com/UCSFDOM/status/1644052872735125504) with the UCSF School of Medicine 
 
 ROBERT CALIFF, FDA [00:05:26]
 
@@ -1664,7 +1664,7 @@ All I can say is that over 20 years ago we evaluated the risks and benefits of m
 
 I can't comment on the court issues because it's under litigation at this point.
 
-### From a [press conference](https://www.youtube.com/watch?v=ZjB9qq7c7yI) by WHO on global health issues for April 6
+## From a [press conference](https://www.youtube.com/watch?v=ZjB9qq7c7yI) by WHO on global health issues for April 6
 
 HELEN BRANSWELL, STAT [00:27:46]
 
@@ -1684,9 +1684,9 @@ But as of now, we don't have a firm date when it will start. But the government 
 
 From WHO side, as we said in last week, and the previous, we are ready and we appreciate all the partners and all the government and all the stakeholders who have been patiently waiting when this trial will begin.
 
-## 04/05/2023
+# 04/05/2023
 
-### From a [session](https://www.youtube.com/watch?v=jWrmkB2kVLU) at the PACCARB meeting on March 24 
+## From a [session](https://www.youtube.com/watch?v=jWrmkB2kVLU) at the PACCARB meeting on March 24 
 
 MAYORA WALTERS, CDC [00:09:39]
 
@@ -1750,9 +1750,9 @@ And then this particular strain, with the carbapenemase VIM-80, the GES-9, that 
 
 We do know that there are reports of carbapenemase producing organisms in the environment in India, and based on that, we hypothesize that the source of this outbreak was probably an environmental source in the manufacturing plant. We don't have more details, though, on how exactly this became contaminated. And it is a question that we would like to know more about.
 
-## 04/04/2023
+# 04/04/2023
 
-### From a [virtual event](https://www.eventbrite.com/e/alliance-webinar-with-cbers-dr-peter-marks-tickets-530905280987) with the Alliance for a Stronger FDA
+## From a [virtual event](https://www.eventbrite.com/e/alliance-webinar-with-cbers-dr-peter-marks-tickets-530905280987) with the Alliance for a Stronger FDA
 
 PETER MARKS, FDA [00:06:38]
 
@@ -1818,7 +1818,7 @@ And then at the same time, we're doing all of that, we're going to have to keep 
 
 And I think that's something for our center that we realize and it may be so, it gets to one of the areas that we may want to think about moving forward, is how do we staff up in our office of vaccines so that we don't adversely impact the day to day vaccines when we have the next outbreak? I mean, it would it just it's just right now the way we were able to to actuate Operation Warp speed was by essentially pulling people from other projects. And we all need, I think, in the future to think about ways to avoid having to do that.
 
-### From a plenary session at the [World Vaccine Congress](https://www.terrapinn.com/conference/world-vaccine-congress-washington/agenda.stm)
+## From a plenary session at the [World Vaccine Congress](https://www.terrapinn.com/conference/world-vaccine-congress-washington/agenda.stm)
 
 PETER MARKS, FDA
 
@@ -1910,9 +1910,9 @@ I think it's a matter-- there are benefits and risks that we've learned and mayb
 
 Because the best vaccine is the one that can get into people's arms. So if people have problems with mRNA for some reason or another, I really don't understand myself, but they do, it's nice to have alternatives and it may turn out that there may be adenoviral vector of other viral vectors that turn out to be excellent at bringing us long term immunity because look what they've done to date.
 
-## 04/03/2023
+# 04/03/2023
 
-### From a statement by Sanofi on Tenivac vaccine supply
+## From a statement by Sanofi on Tenivac vaccine supply
 
 “Sanofi does not have a product shortage issue for TENIVAC.
 
@@ -1920,7 +1920,7 @@ According to CDC, [an interruption in the distribution of TDVAX occurred between
 
 We continue to monitor the situation until the supply of TDVAX returns to normal. In certain cases, this does mean that we put controls in place on the ordering of our TENIVAC in this temporary situation.”
 
-### From a statement by Grifols on TdVax vaccine supply
+## From a statement by Grifols on TdVax vaccine supply
 
 Grifols, committed to ensuring patients receive the treatments they need, is currently making all accessible TdVax available after a temporary interruption in supply from the manufacturer.
 

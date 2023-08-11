@@ -13,9 +13,9 @@ permalink: /2022/12
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 12/30/2022
+# 12/30/2022
 
-### From Barbara Mahon of the CDC's proposed Coronavirus and Other Respiratory Viruses Division
+## From Barbara Mahon of the CDC's proposed Coronavirus and Other Respiratory Viruses Division
 
 01;01 BARBARA MAHON, CDC: So the data that are coming out today are going to-- and this is a projection-- they're going to show that the XBB.1.5 is projected to make up 40.5 percent of variants nationally.
 
@@ -81,25 +81,25 @@ You can see how it's if you kind of add the XBB and XBB.1.5 in your mind, you co
 
 But, I think that it's hard to say with certainty, as we've seen all of these variants go up and go down, what in any one case what specifically is driving it other than that there's a combination of factors that's leading to it kind of outcompeting its fellow variants.
 
-### From a Novavax spokesperson on their [combination COVID-19 and flu vaccine](https://ir.novavax.com/2022-12-30-Novavax-Announces-Initiation-of-Phase-2-Trial-for-COVID-19-Influenza-Combination-and-Stand-Alone-Influenza-Vaccine-Candidates)
+## From a Novavax spokesperson on their [combination COVID-19 and flu vaccine](https://ir.novavax.com/2022-12-30-Novavax-Announces-Initiation-of-Phase-2-Trial-for-COVID-19-Influenza-Combination-and-Stand-Alone-Influenza-Vaccine-Candidates)
 
 Yes, Novavax plans to pursue licensure for its vaccine in the U.S.
 
-### From Peter Halfmann of the University of Wisconsin-Madison, an author on [this paper](https://www.nejm.org/doi/full/10.1056/NEJMc2214302)
+## From Peter Halfmann of the University of Wisconsin-Madison, an author on [this paper](https://www.nejm.org/doi/full/10.1056/NEJMc2214302)
 
 With what we know so far, XBB.1.5 has not acquired any new mutations in the viral protein targeted by Paxlovid. The susceptibility of XBB.1.5 against Paxlovid should not change given the current data. Though we should continue to monitor sequence data.
 
-### From Mehul Suthar of Emory University, an author on [this paper](https://www.nejm.org/doi/full/10.1056/NEJMc2214293)
+## From Mehul Suthar of Emory University, an author on [this paper](https://www.nejm.org/doi/full/10.1056/NEJMc2214293)
 
 Yes the XBB1.5 variant would look similar to the XBB we tested in our study.  The R346T/I mutation within the spike increases the ability of the virus to evade antibodies more efficiently. Both the XBB and XBB1.5 have this mutation.
 
-### From a CDC spokesperson on airplane wastewater testing for variants
+## From a CDC spokesperson on airplane wastewater testing for variants
 
 CDC is exploring all options to help slow the introduction of new variants into the United States from other countries. Previous COVID-19 wastewater surveillance has shown to be a valuable tool and airplane wastewater surveillance could potentially be an option.
 
-## 12/29/2022
+# 12/29/2022
 
-### From a Boston University spokesperson on the NIH's review
+## From a Boston University spokesperson on the NIH's review
 
 Prof. Saeed forwarded me your message below. The NIH found that the research was not subject to the agency’s grants policy since the work was funded by BU.
 
@@ -108,9 +108,9 @@ Best wishes,
 <br>Executive Director of Media Relations
 <br>Boston University
 
-## 12/28/2022
+# 12/28/2022
 
-### From a briefing with federal health officials about testing requirement
+## From a briefing with federal health officials about testing requirement
 
 2:40:38 PM     FEDERAL HEALTH OFFICIAL: Airlines must confirm the negative COVID-19 test result or documentation of recovery from all passengers before they board or do not-- they will deny boarding to the passenger. 
 
@@ -156,15 +156,15 @@ We'll continue to monitor the situation on the ground and adjust as needed.
 
 I will say, while that's happening, in terms of pre-departure testing, we continue to expand our travel-based genomics surveillance, and continuing to receive sequences through that program of travelers from China.
 
-### From U.S. officials about COVID-19 in China
+## From U.S. officials about COVID-19 in China
 
 Attributable to US officials:
 
 There are mounting concerns in the international community on the ongoing COVID-19 surges in China and the lack of transparent data, including viral genomic sequence data, being reported from the PRC. Without this data, it is becoming increasingly difficult for public health officials to ensure that they will be able to identify any potential new variants and take prompt measures to reduce the spread. Public health officials in the U.S. and countries around the world have been discussing their concerns about this and potential steps that can be taken to monitor the case surge effectively and identify any potential variants of concern. Our partners have expressed concern about the situation including WHO, Japan, India and Malaysia. Japan and Malaysia have announced public health steps in the last 24 hours to address the COVID-19 surges in the PRC. Japan will require a negative COVID-19 test upon arrival for travelers from the PRC and Malaysia has announced new tracking and surveillance measures. The U.S. is following the science and advice of public health experts, consulting with partners, and considering taking similar steps we can take to protect the American people. 
 
-## 12/23/2022
+# 12/23/2022
 
-### From a spokesperson for Minnesota Department of Health on iGAS pediatric infections
+## From a spokesperson for Minnesota Department of Health on iGAS pediatric infections
 
 Here’s some information for you. We continue to see an elevated number of pediatric iGAS cases with 6 reported so far in December 2022. From 2017-2021, we identified 0-7 pediatric iGAS cases in November and December compared with 14 so far in November and December of 2022. Below is a breakdown of total cases and pediatric cases by year. The 2022 year started off with cases lower than might be expected and is ending with cases being higher than in prior years.
 
@@ -181,7 +181,7 @@ Let me know if you have other questions.
 
 Andrea
 
-### From a spokesperson for Siemens Healthineers on home testing
+## From a spokesperson for Siemens Healthineers on home testing
 
 Thanks for your inquiry. Please see below:
 
@@ -201,7 +201,7 @@ Kind regards,
 
 Kim
 
-### From the Pennsylvania Department of Health on pediatric iGAS infections
+## From the Pennsylvania Department of Health on pediatric iGAS infections
 
 Here is what we have to share:
 
@@ -218,7 +218,7 @@ Mark
 Mark O’Neill | Press Secretary 
 Department of Health | Office of Communications
 
-### From the Colorado Department of Public Health and Environment
+## From the Colorado Department of Public Health and Environment
 
 In the five years prior to the pandemic (2015-2019) an average of 19.4 pediatric invasive group A strep cases were reported a year. An average of eight pediatric cases were reported a year during 2020-2021.
 
@@ -242,13 +242,13 @@ Warm regards,
 
 Paul Galloway
 
-### From an NIBIB spokesperson on MakeMyTestCount.org submissions
+## From an NIBIB spokesperson on MakeMyTestCount.org submissions
 
 As of today (Dec. 22), we have ~12,500 results submitted through MMTC. This is the total number since the site launched a month ago (Nov 22 launch).
 
-## 12/22/2022
+# 12/22/2022
 
-### From a [press release](https://www.hhs.gov/about/news/2022/12/22/readout-secretary-becerra-and-commissioner-califf-speak-with-pediatric-medicine-manufacturers.html) from the Department of Health and Human Services on pediatric medicine manufacturers
+## From a [press release](https://www.hhs.gov/about/news/2022/12/22/readout-secretary-becerra-and-commissioner-califf-speak-with-pediatric-medicine-manufacturers.html) from the Department of Health and Human Services on pediatric medicine manufacturers
 
 FOR IMMEDIATE RELEASE
 Wednesday, December 21, 2022
@@ -265,9 +265,9 @@ Secretary Becerra’s call with medicine manufacturers is part of a series of on
 
 Today, Secretary Becerra announced that that in addition to giving states the flexibility to tap into their own state stockpiles for Tamiflu, HHS would also give them the flexibility to tap into the national stockpile for Tamiflu if they lack their own state stockpile of the antiviral. This announcement follows Secretary Becerra’s letter to states emphasizing that HHS stands ready to assist them with resources, supplies, and personnel in an effort to reduce the number hospitalizations and deaths due to flu and other respiratory illnesses in the months ahead.  
 
-## 12/21/2022
+# 12/21/2022
 
-### From a [town hall](https://www.facebook.com/COVIDVxProject/videos/906836567356246) hosted by the COVID-19 Vaccine Education and Equity Project on "Bivalent Vaccines for Infants and Toddlers"
+## From a [town hall](https://www.facebook.com/COVIDVxProject/videos/906836567356246) hosted by the COVID-19 Vaccine Education and Equity Project on "Bivalent Vaccines for Infants and Toddlers"
 
 PETER MARKS, FDA [00:19:50]
 
@@ -304,9 +304,9 @@ Because ultimately we'd like things to be as simple as they are with influenza v
 
 So hopefully within a couple of months there'll be some-- some better guidance in that regard.
 
-## 12/15/2022
+# 12/15/2022
 
-### From a [webinar](https://www.naccho.org/blog/articles/webinar-preparing-for-flu-season-2022-2023-early-surveillance-and-vaccine-uptake-data-from-the-cdc) hosted by NACCHO on "Preparing for Flu Season 2022-2023"
+## From a [webinar](https://www.naccho.org/blog/articles/webinar-preparing-for-flu-season-2022-2023-early-surveillance-and-vaccine-uptake-data-from-the-cdc) hosted by NACCHO on "Preparing for Flu Season 2022-2023"
 
 LYNNETTE BRAMMER, CDC [00:08:52]
 
@@ -328,7 +328,7 @@ LYNNETTE BRAMMER, CDC [00:56:07]
 
 I don't believe there are any early estimates in yet. Typically, we will put out the preliminary estimates usually in about February. So I would expect some-- a similar schedule this year.
 
-### From an [event](https://www.youtube.com/watch?v=F8MiQRx_GKA) hosted by The Philadelphia Inquirer on "The Future of COVID & Public Health"
+## From an [event](https://www.youtube.com/watch?v=F8MiQRx_GKA) hosted by The Philadelphia Inquirer on "The Future of COVID & Public Health"
 
 ASHISH JHA, WHITE HOUSE [00:09:26]
 
@@ -350,9 +350,9 @@ Indoor air quality is sort of-- has just not got the level of attention it deser
 
 So this is an area where we're doing a lot and trying to really encourage people to use the resources they have to make those investments and start really improving ventilation filtration.
 
-## 12/15/2022
+# 12/15/2022
 
-### From a CDC spokesperson on adult COVID seroprevalence estimates
+## From a CDC spokesperson on adult COVID seroprevalence estimates
 
 Q1 (Jan-Mar) 2022 estimates are currently available at https://covid.cdc.gov/covid-data-tracker/#nationwide-blood-donor-seroprevalence-2022.
 
@@ -362,7 +362,7 @@ Thanks,
 
 LaKia Bryant, MPA
 
-### From a White House briefing on the ["winter preparedness plan"](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-biden-administration-announces-covid-19-winter-preparedness-plan/)
+## From a White House briefing on the ["winter preparedness plan"](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-biden-administration-announces-covid-19-winter-preparedness-plan/)
 
 5:09:17 PM SENIOR ADMINISTRATION OFFICIAL: First, starting tomorrow, each household can visit COVIDTests.gov and order a total of four at-home tests to be mailed directly to their doorsteps for free. That's four free tests per household, regardless of how many tests they've ordered previously, with tests starting to ship next week, the week of the 19th.
 
@@ -396,19 +396,19 @@ Before Thanksgiving, we talked about the six week push for vaccinations, and we 
 
 Procurements are ongoing and so I can't give you exact numbers on how this is going to land, but we feel confident that we are going to have enough tests to get through this next round, four per household, in the coming weeks.
 
-### From a White House spokesperson on tests for COVIDTests.gov 
+## From a White House spokesperson on tests for COVIDTests.gov 
 
 *Can you clarify something: so new tests are being purchased for this round? Aka these aren't old tests that were stockpiled earlier that might be near expiration?*
 
 The stockpile is being replenished with last procurement, so it’s a mix
 
-## 12/14/2022
+# 12/14/2022
 
-### From a Health and Human Services spokesperson
+## From a Health and Human Services spokesperson
 
 As part of a previously announced purchase, we notified Congress in August that HHS would be procuring 3.7 million treatment courses of Paxlovid – one of the best lifesaving tools we have to treat those who are infected with COVID-19 and are at high risk of severe illness. 
 
-### From a NCHS spokesperson on long COVID guidance
+## From a NCHS spokesperson on long COVID guidance
 
 *Wondering if you'd be able to clarify if/when NCHS is also planning to release updated guidance for completing long COVID death certificates? Apologies if this was already published and I missed it.*
 
@@ -416,7 +416,7 @@ NCHS plans to release this guidance, but we do not have a release date yet.
 
 Brian
 
-### From a NCHS BSC [meeting](https://www.cdc.gov/nchs/about/bsc/bsc_meetings.htm) in October 2022
+## From a NCHS BSC [meeting](https://www.cdc.gov/nchs/about/bsc/bsc_meetings.htm) in October 2022
 
 FARIDA AHMAD, CDC [00:36:42]
 While previous presentations in this panel have looked at measuring the prevalence of long COVID illness, we have limited information about long COVID mortality. There are currently no estimates of the number of long COVID deaths in the U.S., and this is due to a number of challenges. 
@@ -447,9 +447,9 @@ So, our next steps, I know that was a bit of a teaser, so we don't have the resu
 
 And then the last two bullets are for consideration after we have the results. First, we'll look at the need to issue certification guidance to promote consistent and accurate reporting of long COVID on death certificates. And second, would be the potential implementation of the ICD-10 code U09.9 for cause of death coding. 
 
-## 12/13/2022
+# 12/13/2022
 
-### From a CDC clinician outreach [call](https://emergency.cdc.gov/coca/calls/2022/callinfo_121322.asp) on bivalent boosters
+## From a CDC clinician outreach [call](https://emergency.cdc.gov/coca/calls/2022/callinfo_121322.asp) on bivalent boosters
 
 ELISHA HALL, CDC [00:20:06]
 
@@ -467,7 +467,7 @@ Among the subset of facilities submitting person-level data, over 99% of individ
 
 So the take home on this slide is that, as of the week ending 11/27/2022, an estimated 45% of nursing home residents have received a bivalent booster dose. Next slide. 
 
-### From an [American Medical Association event](https://edhub.ama-assn.org/cdc-project-firstline/interactive/18739550)
+## From an [American Medical Association event](https://edhub.ama-assn.org/cdc-project-firstline/interactive/18739550)
 
 MICHAEL BELL, CDC [00:30:37]
 
@@ -487,9 +487,9 @@ That is going to be a document that says, here's how we are describing infection
 
 And going through each one of those is going to be a very challenging but important exercise to start drawing the line between things like seasonal versus pandemic flu, COVID now versus COVID five years from now.
 
-## 12/12/2022
+# 12/12/2022
 
-### From a Health Affairs [event](https://www.healthaffairs.org/do/10.1377/he20221129.985991/full/)
+## From a Health Affairs [event](https://www.healthaffairs.org/do/10.1377/he20221129.985991/full/)
 
 ASHISH JHA, WHITE HOUSE [00:13:50]
 
@@ -564,7 +564,7 @@ So I report to the president, I meet with him, and he's got a pretty full plate.
 
 And the day to day, a lot of it is my meeting with and spending time with Ron Klain, the president's chief of staff. So that's sort of kind of the mechanics of how a lot of this. 
 
-### From a [Pfizer investors event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/Pfizer-Near-Term-Launches--High-Value-Pipeline-Day/default.aspx)
+## From a [Pfizer investors event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/Pfizer-Near-Term-Launches--High-Value-Pipeline-Day/default.aspx)
 
 ANNALIESA ANDERSON, PFIZER [00:44:40]
 
@@ -598,11 +598,11 @@ Something we're spending a ton of time on, because we think there's an opportuni
 
 And then as you highlighted, it's going to be complex, because you are going to have potentially shifting strains both for flu and for COVID. But I think, as we've spent a lot of time meditating on this, I think we at Pfizer, we're going to be uniquely and I think, really well positioned, for sort of working through all of those different sort of moving parts. 
 
-## 12/09/2022
+# 12/09/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-12-09-2022-1495718)
 
-### From a [CDC meeting](https://www.cdc.gov/faca/committees/bscddid.html)
+## From a [CDC meeting](https://www.cdc.gov/faca/committees/bscddid.html)
 
 JOSE ROMERO, CDC [00:48:21]
 
@@ -655,7 +655,7 @@ Attempts to understand host co-factors have been done through hypothesis, genera
 
 So again, these are just hypotheses, but trying to think certainly about the reasons why we did not see AFM, although I think we’re all incredibly grateful for that. 
 
-### From a [White House event](https://youtu.be/vbbg8-PokfI)
+## From a [White House event](https://youtu.be/vbbg8-PokfI)
 
 ASHISH JHA, WHITE HOUSE [00:22:38]
 
@@ -670,11 +670,11 @@ ANTHONY FAUCI, NIAID [00:23:35]
 You might want to add one other thing to get that extra level of protection. You’re vaccinated, you’re family members vaccinated, you might want to test yourself before you go in and visit, just to make doubly sure that you may not have gotten infected and you have no symptoms.
 If you put that together with vaccination, you really have a really good confidence that you’re going to be safe.
 
-## 12/08/2022
+# 12/08/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-12-08-2022-1494290)
 
-### From a [Milken Institute event](https://milkeninstitute.org/video/rochelle-walensky-future-health-summit-2022)
+## From a [Milken Institute event](https://milkeninstitute.org/video/rochelle-walensky-future-health-summit-2022)
 
 ROCHELLE WALENSKY, CDC [00:03:09]
 
@@ -704,7 +704,7 @@ Certainly one of the things that worries me from a public health standpoint, fro
 
 But in two years, will I be able to report on COVID 19 community levels? I can’t tell you that. 
 
-### From a [CDC meeting](https://www.cdc.gov/faca/committees/bscddid.html)
+## From a [CDC meeting](https://www.cdc.gov/faca/committees/bscddid.html)
 
 TREVOR SHOEMAKER, CDC [00:17:59]
 
@@ -871,19 +871,19 @@ Attempts to understand host co-factors have been done through hypothesis, genera
 
 So again, these are just hypotheses, but trying to think certainly about the reasons why we did not see AFM, although I think we’re all incredibly grateful for that. 
 
-### From a [Pfizer spokesperson](https://www.cbsnews.com/news/covid-19-vaccine-booster-kids-fda-bivalent-shots-next-year/)
+## From a [Pfizer spokesperson](https://www.cbsnews.com/news/covid-19-vaccine-booster-kids-fda-bivalent-shots-next-year/)
 
 At this time, we do not have clinical data in this age group for a fourth (booster) dose of the original vaccine following the third primary series dose, and thus we cannot yet extrapolate the effect of a third primary series dose of bivalent compared to a booster (fourth) does of bivalent. We are continuing to study dosing regimens of primary series and boosters in this age group and will share these data as soon as available.
 
 Cohen, Julia Michelle
 
-### From a [CDC spokesperson](https://www.cbsnews.com/news/covid-19-vaccine-booster-kids-fda-bivalent-shots-next-year/)
+## From a [CDC spokesperson](https://www.cbsnews.com/news/covid-19-vaccine-booster-kids-fda-bivalent-shots-next-year/)
 
 Thanks for reaching out. We’re aware of the FDA authorization and the next step is CDC review of the data before the shots can be made available to children.
 
 Kristen Nordlund
 
-### From a [Health Action Alliance event](https://wearemeteorite.zoom.us/webinar/register/WN_aLe_CX86Sj22diXQbxkxbQ)
+## From a [Health Action Alliance event](https://wearemeteorite.zoom.us/webinar/register/WN_aLe_CX86Sj22diXQbxkxbQ)
 
 ASHISH JHA, WHITE HOUSE [00:04:42]
 
@@ -911,11 +911,11 @@ CMS is sending out guidance. Look, we need to make sure that while we sort out t
 
 So you’re going to see more guidance and more clarity from CMS to make sure that private insurances are doing this as well.
 
-## 12/07/2022
+# 12/07/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-12-07-2022-1493791)
 
-### From a [NFID podcast](https://www.nfid.org/about-nfid/infectious-ideas-podcast/)
+## From a [NFID podcast](https://www.nfid.org/about-nfid/infectious-ideas-podcast/)
 
 QUESTION [00:23:12]
 
@@ -925,7 +925,7 @@ ANTHONY FAUCI, NIAID [00:23:34]
 
 Well, Bill, you’re right. I think one of the ways I can hopefully inspire people to get into our fields, the one that you and I have pursued all our professional career, would be to tell the story. And you could tell a story a number of ways. One of the ways is a book. I haven’t made any arrangements to do that, but I certainly would seriously consider it.
 
-### From a [Milken Institute event](https://milkeninstitute.org/video/rob-califf-future-health-summit)
+## From a [Milken Institute event](https://milkeninstitute.org/video/rob-califf-future-health-summit)
 
 ROBERT CALIFF, FDA [00:42:00]
 
@@ -939,7 +939,7 @@ But that’s sort of dealing with the FDA. The thing that’s really exciting an
 
 And so you look at the threat that’s there. If we don’t do something different in food, it’s going to be an even bigger problem coming up, just in terms of making sure people are fed.
 
-### From a [CDC meeting](https://www.cdc.gov/faca/committees/bscddid.html)
+## From a [CDC meeting](https://www.cdc.gov/faca/committees/bscddid.html)
 
 JAY BUTLER, CDC [00:16:43]
 
@@ -1050,11 +1050,11 @@ JIM PIRKLE, CDC [00:12:58] [DDID 2]
 When we look at a CDC role, we are regularly expected to have a diagnostic test ASAP so that one rises really high to us. So a lot of the things that I mentioned were to say, how can we have that test with high assurance it’s going to be a test, How can we be sure it’s high quality and it would be timely? Those are big challenges and so those are the big priorities there. But the other things you’re mentioning, certainly important. 
 
 We’ve got to think about integration. One thing I did not mention was interaction with federal partners, but we have a standing regular meeting with FDA, the head of their in vitro diagnostics. It’s just a standing meeting where we meet every 4 to 6 weeks and just talk over how can we work better together. And that’s been going on for a year and a half now. It’s just a standing meeting just to talk about that one thing. 
-## 12/06/2022
+# 12/06/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-12-06-2022-1490626)
 
-### From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-preparing-for-winter-amid-a-flu-rsv--covid-19-tridemic-plus-update-on-ebola/)
+## From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-preparing-for-winter-amid-a-flu-rsv--covid-19-tridemic-plus-update-on-ebola/)
 
 MARY CHOI, CDC [00:14:42]
 
@@ -1128,17 +1128,17 @@ The final thought I would leave with respect to the availability of the product 
 
 But by way of engaging your blood suppliers, we recognize it may change, and we try and stay on top of that.
 
-### From a BioNTech spokesperson
+## From a BioNTech spokesperson
 
 Thank you for your request. BioNTech is continuously evaluating and preparing for the expansion of their authorizations. As soon as there are any updates, the companies will inform the public in the usual manner.
 
 Alexander Siebert
 
-### From an [American Red Cross spokesperson](https://www.cbsnews.com/news/gay-men-blood-donors-federal-vote-next-year/)
+## From an [American Red Cross spokesperson](https://www.cbsnews.com/news/gay-men-blood-donors-federal-vote-next-year/)
 
 The Red Cross is not experiencing a national blood shortage. We were able to overcome the blood crisis last February thanks to outpouring of support from donors. The Red Cross also do not have any data to show that a policy change would result in more blood donations. However, in general, if more individuals donated on a regular basis it would help eliminate seasonal shortages. Each year, an estimated 6.8 million people in the U.S. donate blood. While the demand for blood is constant, the number of donations can fluctuate based on a number of factors, which can sometimes lead to seasonal shortages. Only about 3 percent of the U.S. population donates.
 
-### From a [CDC telebriefing](https://www.cdc.gov/media/releases/2022/t1208-Respiratory-Disease-Circulation.html)
+## From a [CDC telebriefing](https://www.cdc.gov/media/releases/2022/t1208-Respiratory-Disease-Circulation.html)
 
 ROCHELLE WALENSKY, CDC [12:18:13]
 
@@ -1202,7 +1202,7 @@ We know that 32% of jurisdictions are populations have to areas with medium COVI
 
 And we are exactly looking into the question you asked.
 
-### From an [HHS spokesperson](https://www.cbsnews.com/news/gay-men-blood-donors-federal-vote-next-year/)
+## From an [HHS spokesperson](https://www.cbsnews.com/news/gay-men-blood-donors-federal-vote-next-year/)
 
 The Advisory Committee on Blood and Tissue Safety and Availability (ACBTSA) provides advice to HHS on a range of policy issues related to blood and blood products, as well as tissues and organs. This committee has played, and will continue to play an active role, in deferral policies. At the spring ACBTSA meeting next year, the committee will likely vote on a recommendation, after reviewing the data from the Advance Study.
 
@@ -1214,7 +1214,7 @@ Additional Background:
 
 A steady supply of blood and plasma is essential to the health of our nation. This is why HHS created the Giving = Living campaign because when you give others can live. The campaign encourages Americans to create new, regular donation habits and features personal stories that stress why donation is important. On the campaign website, you can find fact sheets and information about eligibility, answers to common questions, and an overview of the donation process. The website also directs users to a locator to help them find a donation center in their area.
 
-### From an [FDA spokesperson](https://www.cbsnews.com/news/gay-men-blood-donors-federal-vote-next-year/)
+## From an [FDA spokesperson](https://www.cbsnews.com/news/gay-men-blood-donors-federal-vote-next-year/)
 
 *Can FDA clarify what questions were tested in the ADVANCE study?*
 
@@ -1224,7 +1224,7 @@ The ADVANCE study looked at similar risk factors that have been addressed by oth
 
 The U.S. Food and Drug Administration (FDA) regulates the blood supply in the United States and establishes and enforces standards to ensure the safety of blood donations. The FDA remains committed to gathering the scientific data related to alternative donor deferral policies that maintain a high level of blood safety. The FDA will determine next steps including when and how results of the study may be made public, and will consult the Advisory Committee on Blood and Tissue Safety and Availability as appropriate. We do anticipate issuing updated draft guidance in the coming months incorporating key learnings from the ADVANCE study, as well as taking into account international developments in donor deferral policies.
 
-### From a [CDC webinar](https://youtu.be/7HPq_OH6asI)
+## From a [CDC webinar](https://youtu.be/7HPq_OH6asI)
 
 HEIDI MOLINE, CDC [00:32:19]
 
@@ -1257,11 +1257,11 @@ You know, I think that’s a great question. And I work in our RSV surveillance.
 And so right now, we are doing– there is just broadly more testing for RSV than five years ago, not just in kids, but also in adults as well. And so the testing piece, whether you’re at an urgent care or you’re in the hospital, those have shifted a bit to where we are just having a – we’re more likely to be testing for RSV now than we were in the past.
 That being said, we are seeing more virus as well this year.
 
-## 12/02/2022
+# 12/02/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-12-02-2022-1484991)
 
-### From an [FDA town hall](https://www.fda.gov/medical-devices/workshops-conferences-medical-devices/virtual-town-hall-series-test-development-and-validation-during-public-health-emergencies-covid-19)
+## From an [FDA town hall](https://www.fda.gov/medical-devices/workshops-conferences-medical-devices/virtual-town-hall-series-test-development-and-validation-during-public-health-emergencies-covid-19)
 
 TOBY LOWE, FDA [00:07:28]
 
@@ -1271,7 +1271,7 @@ It’s important to note that EUA declarations have historically been open for q
 
 And we at FDA are committed to help ensure that the public has access to appropriate testing options for monkeypox. And we will continue to review EUA requests as needed to address public health needs.
 
-### From a [Piper Sandler event](https://investors.modernatx.com/events-and-presentations/events/event-details/2022/Piper-Sandler-34th-Annual-Healthcare-Conference/default.aspx)
+## From a [Piper Sandler event](https://investors.modernatx.com/events-and-presentations/events/event-details/2022/Piper-Sandler-34th-Annual-Healthcare-Conference/default.aspx)
 
 STEPHANE BANCEL, MODERNA [00:05:54]
 
@@ -1281,7 +1281,7 @@ So, I had a chance to meet with Peter in September, and he’s like, ‘I notice
 
 And I even think from a technology standpoint, we should be able to shrink that time even further. I think us going down to 30, 45 days, in a few years is not crazy. It will require work, but it is doable.
 
-### From an [Evercore ISI event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/5th-Annual-Evercore-ISI-HealthCONx-Conference/default.aspx)
+## From an [Evercore ISI event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/5th-Annual-Evercore-ISI-HealthCONx-Conference/default.aspx)
 
 NAVIN KATYAL, PFIZER [00:21:04]
 

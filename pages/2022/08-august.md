@@ -13,15 +13,15 @@ permalink: /2022/08
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 08/31/2022
+# 08/31/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-31-2022-1336103)
 
-### From an [HHS spokesperson](https://www.cbsnews.com/news/covid-vaccine-boosters-omicron-variant-ba4-ba5-fda-cdc/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [HHS spokesperson](https://www.cbsnews.com/news/covid-vaccine-boosters-omicron-variant-ba4-ba5-fda-cdc/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 The U.S. government made over 20 million doses of the updated COVID-19 booster vaccine available for pre-ordering prior to FDA authorization to enable jurisdictions, pharmacy partners, and federal entities to make sophisticated distribution and administration plans, should the booster be authorized by the FDA and recommended by CDC. All 50 states and the District of Columbia have pre-ordered doses.
 
-### From an [FDA press briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=QNFES1RLf1M)
+## From an [FDA press briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=QNFES1RLf1M)
 
 11:00:39 AM   PETER MARKS, FDA: First of all, we want to make sure that adults and the adolescents covered by this– this authorization are able to get the most up to date version of a booster vaccine.
 And that’s why we are no longer authorizing the monovalent, the original booster, for administration as a booster dose to those– those populations, despite the fact that they will remain, that original vaccine will remain what is given for the primary series, the first two doses of the mRNA vaccines.
@@ -79,11 +79,11 @@ And by doing this, we’ve tried to mitigate against that by making sure that we
 11:25:24 AM   Q: And can you clarify, in children down to six months, it’s administration of the BA.4/5 booster? That’s the data you’re waiting for? Not the BA.1?
 PETER MARKS, FDA: So it’s it’s a variety– there’s a variety of different data, and I can’t go into what might be in pending submissions, but there’s a variety of different data that may be coming in.
 
-## 08/30/2022
+# 08/30/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-30-2022-1334987)
 
-### From a [CDC spokesperson](https://www.cbsnews.com/news/first-us-monkeypox-death-reported/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC spokesperson](https://www.cbsnews.com/news/first-us-monkeypox-death-reported/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 This is the first death in an presumed positive for monkeypox that we are aware of. However, the individual had various severe illnesses and until the investigation is complete, it is premature to assign a specific cause of death. 
 
@@ -93,7 +93,7 @@ CDC is aware of a reported death of an individual who had severe illnesses and p
 To date, more than 17,000 people in the United States have contracted monkeypox. Currently, data suggest that gay, bisexual, and other men who have sex with men make up the majority of cases in the current monkeypox outbreak. However, anyone, regardless of sexual orientation or gender identity, who has been in close, personal contact with someone who has monkeypox is at risk.
 Following the recommended prevention steps and getting vaccinated if you were exposed to monkeypox or are at higher risk of being exposed to monkeypox can help protect you and your community
 
-### From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=RxuKFz46UMo)
+## From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=RxuKFz46UMo)
 
 2:06:33 PM BEL EDWARDS, LA: Several weeks ago, I called you to make sure that this event was on your radar, it already was, and in fact, you had already started communications with folks here in Louisiana. And so, I want to thank Dr. Walensky because she’s personally made calls into Louisiana and talked to some of our healthcare professionals. But also Dr. Daskalakis as well, who is no stranger to New Orleans, and he’s been helping us here for quite some times. And of course, I want to thank Secretary Becerra too.
 This is an example of, I think, a really solid example of what a federal state local partnership and then the community providers as well, because the public health folks in New Orleans have been tremendous, but also the community providers, and it has manifested itself in several, I think, significant ways.
@@ -129,7 +129,7 @@ It’s serious and our hearts certainly go out to this family who have lost a lo
 So our focus and priority remains making sure that we have the tools to end this outbreak as quickly as possible. And if we were to receive additional funding, among the things that funding might go to are additional purchases of vaccine, additional purchases of TPOXX, making sure that we have the antivirals and the vaccine available for those populations that might need it, and we can use these tools to end the outbreak as quickly as possible.
 So we’re continuing to look across what those budget numbers might be and– and plan accordingly,
 
-### From a [podcast interview](https://johnshopkinssph.libsyn.com/website/512-fda-commissioner-dr-robert-califf-on-bivalent-covid-19-vaccines-combating-misinformation-and-building-trust?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [podcast interview](https://johnshopkinssph.libsyn.com/website/512-fda-commissioner-dr-robert-califf-on-bivalent-covid-19-vaccines-combating-misinformation-and-building-trust?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [14;31] ROBERT CALIFF, FDA: There’s a term we use called totality of evidence, which sort of– what we just discussed, all these many people with expertise in different areas, come together, look at all the evidence, including the historical evidence.
 And in this case, we now have multiple versions of the mRNA vaccine, as it’s called, with two different companies doing multiple studies, showing that it’s been reliable, that if you induce an immune response, that is antibodies to the particular virus that you’re trying to take care of, that that translates into a clinical benefit.
@@ -143,18 +143,18 @@ In the midst of a pandemic, if you wait for all that data to come in, you’ve m
 But, I have great comfort in the community of experts that have looked at this and are coming to the conclusions that we’re in a time now where we can adapt the vaccine to the circumstance and take advantage of prior knowledge.
 And then of course, there’s post marketing surveillance and evaluation which will continue.
 
-## 08/29/2022
+# 08/29/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-29-2022-1333048)
 
-### From a [senior administration official](https://www.cbsnews.com/news/no-more-free-covid-tests-by-mail-biden-administration-blames-congress/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [senior administration official](https://www.cbsnews.com/news/no-more-free-covid-tests-by-mail-biden-administration-blames-congress/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 Today, the Biden Administration is announcing that it will suspend taking orders for free at-home tests through COVIDTests.gov as of Friday, September 2, because Congress has not provided the COVID-19 funding we need to replenish the nation’s stockpile of tests. As a result, we are suspending new orders through this program to preserve our limited remaining supply, so that we can ensure we have a limited supply of tests available in the fall, when we might face a new rise in infections and more acute need.  
 The Administration has been clear about our urgent COVID-19 response funding needs. We have warned that Congressional inaction would force unacceptable tradeoffs and harm our overall COVID-19 preparedness and response—and that the consequences would likely worsen over time. We were also clear that failing to provide resources to be prepared would mean that if a surge were to come later, the cost to the American taxpayer would be even higher. Unfortunately, because of the limited funding we have to work with, we have had to make impossible choices about which tools and programs to invest in—and which ones we must downsize, pause, or end all together. The Administration will continue to work within its limited existing resources to secure as many additional tests as we can. 
 We have already distributed over 600 million tests through COVIDTests.gov, and every household has had the opportunity to place three orders for a total of 16 tests. Notwithstanding this suspension of additional free at-home test distribution, Americans will continue to have other options for free testing, including at-home tests reimbursed by private health insurance, Medicare and Medicaid; over 92% of Americans are covered by one of these programs. In addition, the Administration continues to ensure equitable access to tests through a number of programs, including free tests distributed directly to long-term care facilities, schools, child care and early learning centers, community health centers, and food banks. And, there continue to be 15,000 federally-supported community-based free testing sites, including local pharmacies and libraries.
 If Congress provides funding, we will expeditiously resume distribution of free tests through COVIDTests.gov. Until then, we believe reserving the remaining tests for distribution later this year is the best course.
 
-### From [CHC radio](https://chcradio.com/episode/Rochelle-Walensky/638?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From [CHC radio](https://chcradio.com/episode/Rochelle-Walensky/638?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [05;21] ROCHELLE WALENSKY, CDC: As we have updated these booster shots for the fall, the data that we’re looking at is related to very, very small changes in the mRNA sequence, and really shouldn’t impact safety at all. We’re not expecting it will impact safety.
 There’s always a question here of being too slow versus too fast. And I think one of the challenges is, if we wait for those data to emerge in human data, not just mice data, in human data, we will be using what I would consider to be a potentially outdated vaccine.
@@ -170,7 +170,7 @@ Get the one that is available to you now and then we’ll have further recommend
 What I really want to avoid is somebody who was waiting two weeks and happened to get severely ill in that interim period of time, when they could have avoided that by getting the prototype booster now.
 So my party line is never a bad time to get a booster if you’re eligible. If you get one today, and you should if you’re eligible, that doesn’t necessarily mean you won’t– you won’t have a recommendation for another one in the fall.
 
-### From a [UnidosUS webinar](https://twitter.com/Congreso1977/status/1563889602909306880?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [UnidosUS webinar](https://twitter.com/Congreso1977/status/1563889602909306880?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [41;20] BRUCE FURNESS, CDC: So in my clinic, we see PrEP patients, so they are taking HIV prevention medicine. And we also have those that are affected that are on retroviral therapy.
 In my experience, I’ve not seen differences in the clinical manifestation of this particular atypical outbreak between those that are taking medicine to prevent HIV and those that are taking medicine to treat their HIV.
@@ -184,15 +184,15 @@ So no– I– I believe that well, controlled HIV doesn’t lead to additional r
 And so, for this outbreak, we don’t know and we have not heard of any cases of monkeypox among among those that are incarcerated. There was possibly one case, but there is no other transmission after that.
 And so for that reason, because we have not really seen monkeypox in this population. We are not recommending vaccination in general for those that are incarcerated at this time.
 
-## 08/26/2022
+# 08/26/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-26-2022-1329054)
 
-### From a Pfizer spokesperson
+## From a Pfizer spokesperson
 
 Pfizer/BioNTech has not yet fully reviewed the complaint but we are surprised by the litigation given the Pfizer/BioNTech COVID-19 Vaccine was based on BioNTech’s proprietary mRNA technology and developed by both BioNTech and Pfizer. We remain confident in our intellectual property supporting the Pfizer/BioNTech vaccine and will vigorously defend against the allegations of the lawsuit. 
 
-### From a [White House press briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=7dIHimE2e5M)
+## From a [White House press briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=7dIHimE2e5M)
 
 2:25:16 PM BOB FENTON, WHITE HOUSE: I’m also glad that we’ve seen significant progress in intradermal administration of vaccine in just the last two weeks.
 As of today, 75% of jurisdictions are already applying intradermal administration of vaccine and another 20% are working to move in that direction.
@@ -249,15 +249,15 @@ So we’re watching this with cautious optimism and really hopeful that many of 
 We also recognize that in some situations, they may be only able to use a single dose from that vial, either because it’s administered to a child, or just somebody who has a keloid reaction from sub-Q dosing.
 So we have built in a buffer as we’ve been allocating and distributing to rest assured that people who are getting the doses that they need without anticipating that every single one is going to get five doses out of the vial.
 
-### From an [interview of Peter Marks](https://twitter.com/FDASpox/status/1563270104821170176?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [interview of Peter Marks](https://twitter.com/FDASpox/status/1563270104821170176?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [01;42] PETER MARKS, FDA: We heard loud and clear from parents that they did not want us to see kids left behind. And so, we will make sure that, as we get submissions in, and have the data, that we expand the age range down.
 
-## 08/25/2022
+# 08/25/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-25-2022-1327478)
 
-### From a [college health webinar](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=1Rab_pTa598)
+## From a [college health webinar](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=1Rab_pTa598)
 
 [16;49] DEMETRE DASKALAKIS, WHITE HOUSE: So I’ll start with probably the most important thing: just know that the risk level in institutions of higher education is extremely low.
 With that said, we recommend that colleges and college students are really mindful of signs and symptoms and monkeypox and that– that you all are very aware of the populations who are overrepresented in this current outbreak, because those populations are also a part of your– of your campuses and your higher education institutions. 
@@ -302,11 +302,11 @@ I will also note that multiple people who have tested positive can stay together
 The kind of next best option, people live locally, then I think they could go home to isolate, making sure that if there’s virtual options for learning, that those are made available. 
 Another option is the– the sort of like least ideal approach is if people must be around others, or if they have to leave the isolation, make sure that students with monkeypox are wearing a well fitting disposable mask over their nose in their mouth, and that any lesions that are exposed are well covered. 
 
-### From a Florida health department spokesperson
+## From a Florida health department spokesperson
 
 The Florida Department of Health is no longer the middleman for federal vaccine distribution. Local providers order through Florida SHOTS, as they do with most immunizations. This ensures demand meets supply and avoids unnecessary excess. Providers have until Thursday, August 25, 2022, to pre-order. These doses will be delivered directly to providers who order.
 
-### From a [Chamber of Commerce Foundation event](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=w-vhRQVdcTk)
+## From a [Chamber of Commerce Foundation event](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=w-vhRQVdcTk)
 
 [16;54] ASHISH JHA, WHITE HOUSE: So the– the antigen tests continue to work just fine. But then the question is, what are they working fine in? What are they doing? 
 Antigen tests turn positive, when you have a high enough viral load that it’s going to cause you to be able to be contagious and transmit. 
@@ -315,11 +315,11 @@ So people say, “Oh, the antigen test isn’t working,” except it’s not rea
 So once you get into that contagious period, where you have a lot of virus in your nose and your throat, that antigen test turns positive. And then, as that contagiousness goes down over time, you may still have symptoms, you may still be testing positive on PCR, but if you’re no longer contagious, the antigen test will turn negative. 
 And so people often say “whoa, does that mean the test isn’t working?” If your goal is just diagnosis, yeah, sometimes the test will be negative when you actually have the virus. If your goal is contagiousness, the test is quite good. 
 
-## 08/24/2022
+# 08/24/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-24-2022-1326080)
 
-### From a [podcast interview](https://omny.fm/shows/in-the-bubble/ten-questions-for-dr-fauci-from-boosters-and-polio?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [podcast interview](https://omny.fm/shows/in-the-bubble/ten-questions-for-dr-fauci-from-boosters-and-polio?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [6;20] ANTHONY FAUCI, NIH: Well, it’s remarkable transmissibility, Andy, because I have been compulsively careful about wearing masks and not, you know, being exposed in congregate settings. And I know exactly when I got infected. 
 I had to go up to my 60th college reunion where they were honoring me by naming a building the Anthony Fauci Science Center, which was such a wonderful honor. And I went into the reception, and all of my classmates from the Class of 1962 were unmasked. They saw me, they got very enthusiastic, they came to give hugs. 
@@ -338,18 +338,18 @@ If you’re an otherwise healthy person, a young person, or even someone who’s
 And the third part of your question is, when it does become available, should you get it right away? Or should you wait? 
 You know, one of the dangers, Andy, in waiting for an outbreak to occur, is that by the time you know it’s occurred, you may be one of the vulnerable people that got infected. So if I had not been boosted, in, let’s say the last six months or so, and it came out in the middle of September, I would probably get it right away, or try and coincide it with the influenza vaccine, try to get them both at the same time.
 
-### From a [CDC lab advisory](https://www.cdc.gov/locs/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC lab advisory](https://www.cdc.gov/locs/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 Audience: Clinical Laboratory Professionals
 Level: Laboratory Advisory
 To prevent false positive test results, CDC recommends that laboratory professionals perform repeat testing to verify positive diagnostic results for Orthopoxvirus or Monkeypox virus DNA in specimens with high Cycle Threshold (Ct) values from persons who do not meet identified epidemiologic risk criteria for monkeypox.
 Review laboratory test results (including raw data, PCR curves, etc.) carefully before you report results. Because molecular tests (e.g., real-time PCR tests) are very sensitive, cross-contamination is possible. If you obtain a high Ct value (generally ~34 or higher), CDC recommends to immediately re-extract and re-test to ensure there was no cross-contamination. CDC suggests this approach based on high Ct value alone, even in the absence of epidemiologic information. When possible, re-extract and re-test before you report results.
 
-### From a Florida health department spokesperson
+## From a Florida health department spokesperson
 
 The Florida Department of Health is no longer the middleman for federal vaccine distribution. Local providers order through Florida SHOTS, as they do with most immunizations. This ensures demand meets supply and avoids unnecessary excess. Providers have until Thursday, August 25, 2022, to pre-order. These doses will be delivered directly to providers who order.
 
-### From a [Bavarian Nordic investors event](https://www.bavarian-nordic.com/investor/events.aspx?event=6389&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Bavarian Nordic investors event](https://www.bavarian-nordic.com/investor/events.aspx?event=6389&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [39;04] PAUL CHAPLIN, BAVARIAN NORDIC: Yeah, so the dose sparing intradermal approach is a temporary approach. So in Europe, it’s actually written as a temporary measure while vaccine doses are low.
 And in the U.S., it’s governed by the EUA, which is only in place once this is– while there is a declared emergency.
@@ -364,7 +364,7 @@ But as I said, the option to start manufacturing freeze-dried was $119 million. 
 But the exact timing (inaudible) now is a little unsure, because of course, we’ve also pushed out the tech transfer to (inaudible) as we’re manufacturing Jynneos liquid.
 But we do anticipate that any bulk that is utilized in the current manufacturing of liquid will be replaced. And that we will, at some point, revert to the manufacturing of freeze-dried.
 
-### From an [FDA town hall](https://www.fda.gov/medical-devices/workshops-conferences-medical-devices/virtual-town-hall-series-coronavirus-covid-19-test-development-and-validation-08242022?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [FDA town hall](https://www.fda.gov/medical-devices/workshops-conferences-medical-devices/virtual-town-hall-series-coronavirus-covid-19-test-development-and-validation-08242022?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [4;09] KRISTIAN ROTH, FDA: In the coming weeks, we will reach out to all antigen test manufacturers with additional information on this approach. We believe that it is critical for public health that these tests remain on market.
 We’ll work with manufacturers to ensure that tests remain available and any changes which are needed to the labeling are rolled out in a predictable and transparent manner.
@@ -376,7 +376,7 @@ More information will be available soon. And we will provide updates on this cal
 Once we do, we plan to communicate with all antigen test developers at the same time to make sure that everyone who potentially could be impacted kind of knows what the strategy is, kind of, like I said, at the same time.
 So that, that as part of the communication plan. We’re still discussing what the path forward is for everybody. And once we have that finalized, everyone should know.
 
-### From an [NFID webinar](https://twitter.com/NFIDvaccines/status/1562216930710536193?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [NFID webinar](https://twitter.com/NFIDvaccines/status/1562216930710536193?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [16;54] AGAM RAO, CDC: And just an important point that I want to make here is that, if lesions from a person without epidemiologic criteria are tested, or also just a risk group that is not not really at risk too much as part of this outbreak, almost– I mean, more than 98% of cases or so are happening among men who have– and among those for whom we have information about gender identity, they are men who have sex with men.
 So I guess we would just say that ensure that the OPX positive test results are repeated and confirmed before taking action. We have heard of a good number of false positives that have occurred. And– and so it’s really important to ensure that that positive is truly a positive in an individual for whom there would otherwise be low suspicion.
@@ -403,7 +403,7 @@ But I believe just yesterday, we sent an email out about the fact that we are se
 
 [52;49] AGAM RAO, CDC: And so we’re we’re working on developing guidance for individuals who might have been vaccinated, for example, within the last 20 years. Perhaps they only need a booster dose, because their immune system would be boosted by that by that dose. Versus people who were vaccinated, you know, as children, in which case, we don’t know how much protection, if any, and we would recommend just get the two dose series if you are someone who’s going to need vaccination.
 
-### From a [NACCHO webinar](https://twitter.com/PublicHPrepared/status/1562416945760276482?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [NACCHO webinar](https://twitter.com/PublicHPrepared/status/1562416945760276482?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [48;21] ATHALIA CHRISTIE, CDC: Initially labs sent any specimen that tested positive for orthopoxvirus to CDC for characterization, but now labs are guided to send in about 10% of positive samples to CDC for genomic sequencing. This takes the burden off of labs, while still enabling CDC to monitor virus samples and their genomes for mutations that could affect spread or symptoms.
 
@@ -424,11 +424,11 @@ There’s been a process to clean the data and to ensure its accuracy, in discus
 (As a fellow infectious disease person, I feel like cautious optimism is a great phrase for us to use in this field.)
 I think when I worked in Liberia during the West Africa outbreak, we saw the last case about four times so stopped– stopped making any assumptions.
 
-## 08/22/2022
+# 08/22/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-22-2022-1322756)
 
-### From [a CDC webinar](https://www.cdc.gov/locs/2022/08-12-2022-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_Auguat_12_.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From [a CDC webinar](https://www.cdc.gov/locs/2022/08-12-2022-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_Auguat_12_.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 
 [25;27] CHRISTY HUTSON, CDC: Thanks for that question. So this is something that we’re actively thinking about. CDC is able to test those specimens. So we have received some from some suspect pets. But we do want to work with our vet lab partners, and other partners that conduct animal testing.
@@ -446,40 +446,40 @@ I do know that there are other public health law partners that are starting to l
 The templates with recommendations are going to be very similar to what the FDA was recommending early in the COVID emergency and that is that we recommend that 30 positives and 30 negatives be used to validate your tests.
 Because some labs and developers have a hard time accessing monkeypox samples, as they had a difficult time accessing COVID samples for many weeks, if not month, at the beginning of the pandemic, the FDA would allow the use of contrived samples, so plasmid constructs, other control materials, extracted DNA from monkeypox, things like that, can be diluted into negative patient matrix down to about two to three x LOD.
 
-### From [a podcast interview](https://twitter.com/bfrist/status/1561732830211735553?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From [a podcast interview](https://twitter.com/bfrist/status/1561732830211735553?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [6;20] ASHISH JHA, WHITE HOUSE: These vaccines are coming. As I said, early to mid September, all of course, FDA has got to authorize it, they’re going to look at the data. Assuming they do their job, CDC signs off on it, these vaccines will become available in September, and they’re going to be much more targeted to the version of the virus that’s out there.
 And that means my expectation is, based on the data we have, it should be better at providing protection against infection, preventing transmission, and then providing even more robust protection against serious illness and death. Again, we’ll see where the data lands, but I am very hopeful that that’s what these new vaccines are going to have.
 And they should be widely available as we get into September, October.
 
-### From [the CDC director](https://www.cbsnews.com/news/cdc-director-rochelle-walensky-announces-organization-shake-up-aimed-at-speed/?ftag=CNM-00-10aab7e&linkId=177606907&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From [the CDC director](https://www.cbsnews.com/news/cdc-director-rochelle-walensky-announces-organization-shake-up-aimed-at-speed/?ftag=CNM-00-10aab7e&linkId=177606907&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [0;21] ROCHELLE WALENSKY, CDC: As I think we all recognize, prior to this pandemic, our infrastructure within the agency and around the country was too frail to tackle what we confronted with COVID-19.
 To be frank, we are responsible for some pretty dramatic, pretty public mistakes, from testing, to data, to communications. As an agency, even with all the terrific work we do, we still suffer the consequences from these mistakes.
 After over 18 months serving in this position, learning and living the many lessons from our COVID-19 response and receiving feedback from many internal and external interested parties.
 This is the right time to take a step back and strategically position CDC to facilitate and support the future of public health.
 
-## 08/11/2022
+# 08/11/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-11-2022-1306749)
 
-### From a [CDC document](https://viacom-my.sharepoint.com/:b:/g/personal/tina_cbsnews_com/EXNOSc372cdNqonL2s34Mj0Biq6tCpRYf4kZnLWYc8FTqA?e=hhBQmu&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC document](https://viacom-my.sharepoint.com/:b:/g/personal/tina_cbsnews_com/EXNOSc372cdNqonL2s34Mj0Biq6tCpRYf4kZnLWYc8FTqA?e=hhBQmu&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 HHS and CDC, through this Addendum, are requesting the same vaccine administration data elements, including monkeypox vaccine data available in jurisdictional immunization information systems prior to effective date of the Addendum, using the same data submission specifications, relevant systems, and technical architecture for monkeypox vaccine administration data as outlined in the DUA for COVID-19 vaccine administration data. All provisions of the DUA and its Appendices apply to this Addendum, except for as provided below.
 
-### From a CDPH spokesperson
+## From a CDPH spokesperson
 
 There was a suspected monkeypox (MPX) case in a child whose initial testing for orthopox virus was “equivocal” (not able to be interpreted as positive or negative). Per protocol, the sample was sent on to the CDC. CDC testing then ruled out MPX.
 
-### From a [letter by Bavarian Nordic](https://www.documentcloud.org/documents/22130371-220809-bavarian-nordic-letter?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [letter by Bavarian Nordic](https://www.documentcloud.org/documents/22130371-220809-bavarian-nordic-letter?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 While we have certain reservations, we are trying to find the best way to support the EUA by collecting additional data and aligning on the responses to assist state officials in the rollout. We are also investing in expanding the manufacturing capacity at both BN and external facilities, with likely more announcements soon to come. Lastly, we are testing the potency of older JYNNEOS batches stored at the SNS. In our in-house stability program, two-thirds of the batches we tested that were manufactured in 2014 are still within specification and so we are hopeful that many of the eleven 2014 batches (approximately 1 million doses) at the SNS will also still be within specification. We will know in the coming days and weeks and will work with the authorities to expedite the availability of these batches in the fight against monkeypox.
 
-### From a D.C. spokesperson
+## From a D.C. spokesperson
 
 Further testing is necessary to confirm if this child’s result was indeed a false positive, however, we still consider this case positive until proven otherwise. The mother and infant are still in DC completing further tests to finalize the investigation.
 
-### From a CDC press briefing
+## From a CDC press briefing
 
 2:06:02 PM  GRETA MASSETTI, CDC: Other standalone guidance documents, such as the healthcare guidance, travel guidance, and guidance for congregate settings at high risk of transmission, will be updated by CDC in the coming week or so. Importantly, CDC will continue to follow the science and update our public health recommendations based on the data
 
@@ -521,24 +521,24 @@ Both vis a vis how they are predicting the occurrence of serious outbreaks in ar
 At this time, the performance seems to be relatively stable, but we are doing a lot of analytic work to reassess how these metrics are performing in U.S. data specific to the Omicron, period, for example, in the last four to six months.
 And so that’s an ongoing effort. We have not gotten any results that suggest a substantial change is warranted at this time. But we may make some adjustments in the future if we find that the data no longer support the COVID Community Levels in their current form and some adjustment may be needed.
 
-## 08/10/2022
+# 08/10/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-10-2022-1305160)
 
-### From a [Fred Hutch interview](https://twitter.com/fredhutch/status/1557109835212242949?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Fred Hutch interview](https://twitter.com/fredhutch/status/1557109835212242949?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [01;28;06] ANTHONY FAUCI, NIH: First, boosters are going to be extremely important, because we know, very clearly, that immunity, at least against symptomatic infection, maybe not so much against severe disease, wanes at about four months or five months.
 So right now, we’re concerned about there being a surge in the fall. We don’t know exactly when it’s going to occur, because the thing that surprised us is that everybody who saw a BA.4/5 come, we thought it was going to go down by the end of July, and essentially be none. But now we’re having still 400 deaths per day and 150,000 infections. So if we get BA.5 that goes into September, then you wouldn’t be thinking about a fall surge. You’re still in the summer surge before you think about a fall surge.
 But the short answer to your question is that we will very likely be using a BA.4/5 bivalent booster starting in the fall.
 Very likely, Pfizer will have it by first or second week in September and Moderna will likely have it by the end of September, the beginning of October. So everybody’s going to– you’re going to be probably hearing soon about a big push to get people who have not been recently boosted to get a booster shot as we enter into September and October. 
 
-### From the CDC director
+## From the CDC director
 
 [7;37] ROCHELLE WALENSKY, CDC: And even now, we are still at about 400 deaths a day. And that, we’ve become accustomed to saying it, but I don’t feel like that can be a number that we are okay with staying at. I think we really do need to continue to recognize that that is well too many deaths than we should be comfortable with.
 As you’ve been hearing in the news, we have the new BA.5 variant– perhaps not new anymore. This is an Omicron subvariant that accounts for nearly 90% of cases here in the United States.
 We’ve seen a doubling in the number of hospitalizations since April. We are hoping this week that it is first starting to plateau, if not trend down a little bit. And the largest percentage of deaths are really occurring among those over 65.
 
-### From a Big Cities Health Coalition event
+## From a Big Cities Health Coalition event
 
 [01;00;28] ALLISON ARWADY, CHICAGO: What we actually did a press release this morning about this locally and said, you know, we expect in the next two weeks, give or take, one to two weeks, we will probably make an announcement that we’re switching over. But there may be some sites that can move before that. But we won’t just sort of say start.
 We will make sure people will have updated provider agreements, updated training requirements, all of this. And, you know, our first call with the CDC, about this, is on Friday, just to give you a sense of that this is a process. It’s not here’s the EUA, go.
@@ -548,18 +548,18 @@ We’ve been getting a lot of behind the scenes information. But– and already,
 And so if we’re able to get this going by around August 23rd, I don’t actually think anybody would have a delay. And if there are people who have a delay, I think it’ll be on the order of a few weeks. And so this is one of the reasons why certainly I am supportive of this strategy, just making sure that the questions get answered and the operational needs on the ground really get supported.
 But yeah, I don’t think it’ll be a lot of people who have a significantly delayed second dose. But if there are surprises along the way, that is an approach that we plan to continue to use in Chicago because I just– we’ve got to get as many people as protected as possible.
 
-### From a [CDC ACD meeting](https://www.cdc.gov/faca/committees/acd.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC ACD meeting](https://www.cdc.gov/faca/committees/acd.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [6;04] JENNIFER MCQUISTON, CDC: So we’ve seen an interesting shift over time in this outbreak in terms of race and ethnicity data. So if you look at the early days of the outbreak, so that started MMWR week 20, there, you can see that the majority of cases that were being reported to us were occurring in persons who had a white race.
 But as the outbreak has progressed, you can see that we have other races rising in terms of the percentage that are impacted.
 Some of this might be that, in those early cases, they were travel associated. And I think there are certain socioeconomic differences in people who can afford to travel to Europe. And it might– that might be reflective of that.
 But what this really illustrates is that there are some significant health equity concerns that we need to think about with this monkeypox outbreak, making sure that those individuals are having access to treatment and to vaccine, and really thinking more about how we deliver those– those activities to the populations that need it.
 
-## 08/09/2022
+# 08/09/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-from-08-09-2022-1302453)
 
-### From a [CDC advisory committee](https://www.cdc.gov/faca/committees/acd.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC advisory committee](https://www.cdc.gov/faca/committees/acd.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [12;21] IAN WILLIAMS, CDC: As I mentioned, we have high levels of vaccine and infection induced immunity in the country, we have highly effective treatments and prevention tools, we’ve greatly reduced the risk of medically significant illness, hospitalization, and death from SARS-CoV-2 infection for most, not everyone, but for many people. And really, this is about pivoting towards our public health focus on sustainable efforts to minimize the impact of COVID-19 on health and society.
 So as part of this, we are refreshing our guidance, really focusing on the four main core areas you’re seeing up here on the slide, to make it easier for people to know the risk, know how to protect themselves and others, what actions they need to take if you’re exposed to the virus that causes COVID-19, what actions to take if you have symptoms or test positive for the virus.
@@ -601,11 +601,11 @@ And it requires us to really think a lot when we do see a positive case, for exa
 
 [1;14] JENNIFER MCQUISTON, CDC: So we have been in an agency level activation with our emergency operations center since June 28th. But we’ve really been responding to this emergency, as I said, since May 17th. We are still operating under a containment goal. Although I know many states are starting to wonder if we’re shifting to more of a mitigation phase right now, given that our case counts are still rising rapidly.
 
-### From the NIAID
+## From the NIAID
 
 NIAID is planning to gather additional information about intradermal delivery of Jynneos in a trial expected to start in the coming weeks. We will provide more information about the trial once details are finalized.
 
-### From the [White House](https://www.youtube.com/whitehouse?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From the [White House](https://www.youtube.com/whitehouse?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 4:12:32 PM BOB FENTON, WHITE HOUSE: What Dr. Califf just laid out is a game changer when it comes to our response and our ability to get ahead of the virus.
 It’s safe. It’s effective. And it will significantly scale the volume of vaccine doses available for use across the country.
@@ -648,11 +648,11 @@ So this isn’t the first time it’s been done. It’s obviously a little diffe
 4:38:05 PM DEMETRE DASKALAKIS, WHITE HOUSE: I– just sort of commenting on the last question about eligibility, I think that this is potentially also a question for Dr. Walensky.
 The current eligibility remains the same as vaccine supply increases. So, I think there’s not a change there yet.
 
-## 08/08/2022
+# 08/08/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-08-2022-1302446)
 
-### From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-covid-19-clinician-call-confronting-ba.4ba.5-what-clinicians-can-do/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-covid-19-clinician-call-confronting-ba.4ba.5-what-clinicians-can-do/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [50;34] MEG SULLIVAN, ASPR: The U.S. government will continue to send out supply of the product over the next couple of weeks, but we’ll stop at the end of August, with our last full week being the week being August 22nd.
 We will talk about how there will be information about how states and territories and providers can order directly through AmerisourceBergen. And again, are working closely with our CMS partners around reimbursement questions. And again, expect to have a lot more information coming in the next few weeks.
@@ -668,7 +668,7 @@ I would also tend to lean towards providing the booster dose as soon as possible
 
 [30;04] JAY BUTLER, CDC: When will it be available? It will be sometime this fall. I’ve heard September, I’ve heard October. I do not want to over promise and under deliver. But I know that everyone is aware of the importance of getting these vaccines available as soon as possible. 
 
-### From an FDA spokesperson
+## From an FDA spokesperson
 
 The FDA has been working closely with vaccine manufacturers over the past several months to ensure that  modified COVID-19 vaccines are available this fall, following FDA’s review for safety and effectiveness. The agency will work expeditiously to review submissions once received in order to make modified COVID-19 vaccines available for booster vaccination in this time frame. 
 Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September. Given this timeline, at this time the FDA is not considering authorizing a second booster for otherwise healthy individuals 18 through 49 years of age with the original formulation of the COVID-19 mRNA vaccines. Individuals over 18 years of age who have not received their first booster dose with the current COVID-19 mRNA vaccines, especially those who are at high risk, should consider getting one now as cases of COVID-19 are on the rise. After modified boosters containing a BA.4/5 component become available, individuals may consider getting one following an appropriate interval after their prior dose.  
@@ -676,24 +676,24 @@ If you are 50 years of age and older and you have not received a second booster 
 Receiving a booster now will not preclude individuals from receiving an updated booster after the FDA reviews the variant-specific vaccines and authorizes them for use.   
 For any questions on the firms’ timing updates, please refer to the firms.
 
-## 08/05/2022
+# 08/05/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-05-2022-1296459)
 
-### From a [WCIA livestream](https://twitter.com/WCIA3/status/1555647882962673664?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [WCIA livestream](https://twitter.com/WCIA3/status/1555647882962673664?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [0;59] SAMEER VOHRA, ILLINOIS: Governor Pritzker and I are in touch with the White House. And we are happy to report that President Biden’s staff have been incredibly responsive. We are pleased that, at our request, the FDA – the Food and Drug Administration – has authorized use of the vaccine for anyone under 18 without jumping through the normal hoops in the process. That means that anyone, with their guardian’s approval, will be vaccinated today.
 Pediatricians are on site, as we speak, to screen children for cases and there are mobile testing and vaccines for the parents.
 
-### From an HHS spokesperson
+## From an HHS spokesperson
 
 ASPR’s Strategic National Stockpile has quality control procedures in place to ensure proper temperature and storage of Jynneos vaccine both in the warehouse and in transit. The federal government monitors temperature of the product until it is signed over to the jurisdiction. To date, we have not lost any Jynneos vaccine to spoilage or temperature excursions during transit.
 
-## 08/04/2022
+# 08/04/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-04-2022-1296431)
 
-### From a monkeypox press briefing
+## From a monkeypox press briefing
 
 2:31:47 PM   XAVIER BECERRA, HHS: I want to make an announcement today that I will be declaring a public health emergency on monkeypox. 
 We’re prepared to take our response to the next level in addressing this virus. And we urge every American to take monkeypox seriously and to take responsibility to help us tackle this virus.
@@ -793,11 +793,11 @@ So right now, we’re really only testing in about 10% of the capacity we have a
 We’re encouraging at least three samples per patient. Of course, you test the rash for this, you swab the rash. 
 So there is not necessarily consistency in the number, in the percent positivity, because patients have a different number of samples that are tested.
 
-## 08/03/2022
+# 08/03/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-03-2022-1294119)
 
-### From a [Moderna investors call](https://investors.modernatx.com/events-and-presentations/events/event-details/2022/Moderna-2Q-2022-Earnings-Call/default.aspx?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Moderna investors call](https://investors.modernatx.com/events-and-presentations/events/event-details/2022/Moderna-2Q-2022-Earnings-Call/default.aspx?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 ARPA GARAY, MODERNA: Now turning to slide 21, we’re also happy to see that as we continue to scale globally around the world, that Spikevax’s market share in the booster market, defined as a third or fourth booster dose, continues to show substantial market share.
 As Stéphane has already mentioned, we see on slide 22, our new U.S. government contracts for the fall of 2022. Specifically, the agreement initially was for 66 million doses for bivalent COVID boosters to be delivered in 2022.
@@ -812,7 +812,7 @@ We expect to enroll that study really in August, but the data wouldn’t be avai
 We do not at this point expect nor, has the FDA suggested, that that data would be required prior to authorization. In fact, we will be authorizing based on the prior clinical data for 211.214, preclinical data, manufacturing data. But we will have that those samples in hand.
 Now as to the specific timing of when we would be able to share 222 data, other than later in the fall, I don’t think we have any other specific guidance today, except to emphasize again, that it’s really not required for the authorization based on recent FDA guidance. It really is to support future deployment decisions that are in the later part of winter.
 
-### From a [monkeypox listening session](https://twitter.com/AIDS_United/status/1554527530480242688?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [monkeypox listening session](https://twitter.com/AIDS_United/status/1554527530480242688?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 DEMETRE DASKALAKIS, WHITE HOUSE: But I do want to highlight that we are– we have our guidance for sexually active people, our safer sex guidance and, and safer gatherings. It’s going to evolve over time. So keep an eye on it. It is coming up for a revision, like imminently, so expect to see some revisions to safer social gatherings and safer sex very soon. Next slide please.
 
@@ -835,11 +835,11 @@ This is not a forever thing, it is a for now thing, in terms of the advice. We�
 DEMETRE DASKALAKIS, CDC: I mean, we do actually have things already, that we have guidance around congregate settings, which actually ends up being very similar to sort of like to also lots of other guidance.
 So I think that important lessons from COVID, is that we don’t necessarily need to have different guidelines and guidance for different environments, because that tends to be confusing.
 
-## 08/02/2022
+# 08/02/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-02-2022-1293121)
 
-### From a WHO webinar
+## From a WHO webinar
 
 [27;23] JOHN BEIGEL, NIH: Yeah, we’ve had some preliminary discussions with the FDA. We anticipate to get it started within the next four weeks, ideally, sooner, but we’ll see.
 
@@ -857,15 +857,15 @@ I mean, there is going to be a trade off of reactogenicity and immunogenicity an
 
 [1;06;40] ELISSA MEITES, CDC: Additional opportunities to assess monkeypox VE are being actively explored. Opportunities may exist to leverage existing CDC surveillance platforms that are already well established in STD clinics or LGBTQ plus health clinics, meaning lesbian, gay, bisexual, transgender and queer communities. And these are already engaged in gay bisexual and other men who have sex with men and transgender people to provide data and specimens for research and surveillance on sexually transmitted infections. So some examples listed here include existing HIV, STD, gonorrhea, syphilis, and human papillomavirus surveillance platforms.
 
-### From an HHS spokesperson
+## From an HHS spokesperson
 
 The referenced vaccine doses were delivered to the SNS for potential use for a smallpox response and would only be able to be used under a potential Emergency Use Authorization. The last doses of Imvamune (name of product before FDA licensure) arrived at the SNS in 2015 and the last doses expired in 2017. The vaccine was not approved for smallpox and monkeypox until 2019. The SNS continues to store the expired doses in quarantine. While it is highly unlikely that these doses remain viable, we sent sample vials to Bavarian Nordic for stability testing. If testing confirms retained potency, which we believe is unlikely based on experience with similar vaccines, we will work with FDA to see if these doses can be made available for the response; however, HHS’ current response does not rely upon these doses.
 
-## 08/01/2022
+# 08/01/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-08-01-2022-1291600)
 
-### From an Alliance for Health Policy video
+## From an Alliance for Health Policy video
 
 [YouTube 19;06] ROBERT CALIFF, FDA: I’m going to assume that everyone on this call knows that, if the user fees are not enacted, the greatest suffering with be from the American people because our public health mission will be injured if we don’t have the money to pay employees. And I think we’ve been through this sort of situation before.
 Now, I do want to say that we’ve been, and you’ve heard the public statements from all of the elements of the Congress, that there is an intention to pass legislation that will fund the FDA before the money runs out.
@@ -881,7 +881,7 @@ We can’t have a system which is so dependent on just a few plants making most 
 You know that there’s funding at stake right now in some of the legislation. We do need more people.
 But we’re just going to beg, steal, and borrow from parts of the FDA until we get this one right, including the foreign plants, so there are inspections going on right now in some of those plants.
 
-### From a statement from Walgreens
+## From a statement from Walgreens
 
 ... we began pharmacist assessment/prescribing in a limited number of stores this week.
 Beginning this week, a small number of stores in Florida and Kentucky will have trained, state-licensed pharmacists on site available to perform a clinical screening and assessment, prescribe and dispense Paxlovid to eligible patients who have a tested positive for COVID-19. We have prioritized access to patients living in socially vulnerable and medically underserved communities and will continue to do so as we expand the service.

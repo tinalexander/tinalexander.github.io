@@ -13,9 +13,9 @@ permalink: /2023/03
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 03/30/2023
+# 03/30/2023
 
-### From a [podcast interview](https://lemonadamedia.com/show/inthebubble/) on "In the Bubble with Andy Slavitt"
+## From a [podcast interview](https://lemonadamedia.com/show/inthebubble/) on "In the Bubble with Andy Slavitt"
 
 ASHISH JHA, WHITE HOUSE [00:08:08]
 
@@ -51,7 +51,7 @@ Now, more specifically to your question around the White House, that second part
 
 And there's a lot of questions to be sorted out. Where exactly in the EOP does it sit? How is it going to get staffed? Who's going to run it? All of those issues are being worked out right now, but that office will have a very important role in continuing to coordinate around COVID, coordinate around mpox, other diseases, other disease outbreaks that happen. And that is going to be an office dedicated to these issues inside the executive office of the president. And that's going to be really, really important part of the federal government's response.
 
-### From [an event](https://youtu.be/Tzq1_nUkXb8) hosted by Boston University School of Public Health
+## From [an event](https://youtu.be/Tzq1_nUkXb8) hosted by Boston University School of Public Health
 
 ROCHELLE WALENSKY, CDC [00:10:17]
 
@@ -97,7 +97,7 @@ And so I think that we will continue to see infectious disease threats and we ne
 
 All of that having been said, the people who are most impacted by infectious disease threats are those with chronic conditions. And it's the intersection of those chronic conditions. And until we bridge that equity gap between the the people who are dying of chronic conditions and most threatened by infectious disease threats because of those chronic conditions, we will not be ready.
 
-### From [an event](https://www.youtube.com/watch?v=ibo8JyG0Tho) hosted by The Capitol Hill Steering Committee on Pandemic Preparedness & Health Security
+## From [an event](https://www.youtube.com/watch?v=ibo8JyG0Tho) hosted by The Capitol Hill Steering Committee on Pandemic Preparedness & Health Security
 
 DAWN O'CONNELL, ASPR [00:15:34]
 
@@ -123,9 +123,9 @@ The other thing I'll say about BARDA that's been, I think, right ,in addition to
 
 So we're going to continue to look for ways to do that and strengthen that.
 
-## 03/29/2023
+# 03/29/2023
 
-### From a [press briefing](https://www.youtube.com/watch?v=Gi3gAGJbeEE) by the WHO on global health issues for March 29
+## From a [press briefing](https://www.youtube.com/watch?v=Gi3gAGJbeEE) by the WHO on global health issues for March 29
 
 TEDROS ADHANOM GHEBREYESUS, WHO [00:03:42]
 
@@ -199,9 +199,9 @@ So this is not just a legal requirement in some international law. This is a sov
 
 But what we can't have is unnecessary delays in reporting disease to one's own people. The international requirements are clear, but the primary responsibility is to one's own people.
 
-## 03/28/2023
+# 03/28/2023
 
-### From a press briefing by the [WHO's SAGE](https://www.who.int/news/item/29-03-2023-sage-march-2023-meeting-highlights-published)
+## From a press briefing by the [WHO's SAGE](https://www.who.int/news/item/29-03-2023-sage-march-2023-meeting-highlights-published)
 
 HANNA NOHYNEK, SAGE [00:18:04]
 
@@ -245,17 +245,17 @@ So when the question is asked, is a bivalent product better than getting a monov
 
 And it is the TAG CO VAC that advises in an ongoing way about the composition of the vaccines. 
 
-### From an email by GISAID on SARS-CoV-2 sequences
+## From an email by GISAID on SARS-CoV-2 sequences
 
 As you know, GISAID regularly assists data contributors with their efforts to improve their data. This includes researchers from the China CDC who recently completed their updates. Therefore, these data are once again visible to all users.
 
-### From an email by George Gao on SARS-CoV-2 sequences
+## From an email by George Gao on SARS-CoV-2 sequences
 
 Nothing revised. It is GISAID internal issue.
 
-## 03/23/2023
+# 03/23/2023
 
-### From a statement by a CDC spokesperson about polio in wastewater
+## From a statement by a CDC spokesperson about polio in wastewater
 
 The chart presented in the video is from a presentation that was shared during a meeting between CDC and WHO in January of this year. Poliovirus wastewater surveillance is ongoing in New York State and New York City. For the most up to date data, please see the New York State reports, which are updated regularly and linked to from this page: [Polio Wastewater Surveillance (ny.gov)](https://urldefense.com/v3/__https://health.ny.gov/diseases/communicable/polio/wastewater.htm__;!!CxwJSw!I-5Q8Vl1FVS2k4__Cfd0ibv-pSZBRQue3hwlAGlwwM6ymgccGG84GAF7s35F4Lwt6GL_BV3iXA$). There are no additional data for the other jurisdictions that appear in the chart.
 
@@ -263,13 +263,13 @@ Other than the single paralytic polio case identified in NY last summer, there a
 
 Widespread wastewater testing for poliovirus is not routinely recommended at this time. The best way to protect everyone from polio is to maintain high immunity against poliovirus in the population through vaccination.
 
-### From an email by Brice Mitchell of Kentucky Cabinet for Health and Family Services
+## From an email by Brice Mitchell of Kentucky Cabinet for Health and Family Services
 
 At this time, there are no additional confirmed cases of measles connected with the exposure at Asbury University.
 
-## 03/22/2023
+# 03/22/2023
 
-### From a [hearing](https://www.help.senate.gov/hearings/taxpayers-paid-billions-for-it-so-why-would-moderna-consider-quadrupling-the-price-of-the-covid-vaccine) with the Senate Health, Education, Labor & Pensions Committee
+## From a [hearing](https://www.help.senate.gov/hearings/taxpayers-paid-billions-for-it-so-why-would-moderna-consider-quadrupling-the-price-of-the-covid-vaccine) with the Senate Health, Education, Labor & Pensions Committee
 
 STEPHANE BANCEL, MODERNA [10:53:06]
 
@@ -277,7 +277,7 @@ I care deeply about access and protecting people. That's why we say the company 
 
 But as we get closer to the fall, we'll make sure we get the word out. As I mentioned, we want to work with rural hospitals, community hospital, homeless shelters, because I really believe there is a better way to give access to people that are uninsured. We have heard loud and clear that the system set up by big companies is too complicated, too much paperwork, takes too much time.
 
-### From a [hearing](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fy-2024-funding-request-and-budget-justification-for-the-department-of-health-and-human-services-2023) with the Senate Committee on Appropriations
+## From a [hearing](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fy-2024-funding-request-and-budget-justification-for-the-department-of-health-and-human-services-2023) with the Senate Committee on Appropriations
 
 SEN SHELLEY MOORE CAPITO [01:55:14]
 
@@ -299,7 +299,7 @@ I would love to have Administrator Dawn O'Connell speak to you and your staff di
 
 We need to replenish that. We've got no money to address mpox. And so we took that out of the stockpile. To replenish those smallpox vaccines will cost money. But we need to. And so I absolutely want you to have sight, because neither you nor I wants to be caught flat footed if we find that our stockpile is depleted. So we will follow up.
 
-### From a [webinar](https://twitter.com/NFIDVaccines/status/1638556654781308930) hosted by NFID on CDC's ACIP recommendations
+## From a [webinar](https://twitter.com/NFIDVaccines/status/1638556654781308930) hosted by NFID on CDC's ACIP recommendations
 
 WILLIAM SCHAFFNER, NFID [00:18:35]
 
@@ -311,7 +311,7 @@ This is another thing that the workgroup is looking at, particularly for certain
 
 I think for COVID vaccines, we have the added challenge of things have to be approved by FDA before ACIP can consider it. So I think that there is-- I think it's definitely on people's radars and people are thinking about it, but it's not imminent, as far as I know.
 
-### From an [interview](https://www.wbur.org/hereandnow/2023/03/16/covid-pandemic-3-years) by WBUR's "Here and Now" on additional COVID boosters
+## From an [interview](https://www.wbur.org/hereandnow/2023/03/16/covid-pandemic-3-years) by WBUR's "Here and Now" on additional COVID boosters
 
 QUESTION [00:03:15]
 
@@ -323,23 +323,23 @@ So from the beginning of this pandemic, you know, one of the things I've said be
 
 They have not made a determination. And when they do, of course, we'll all know about it and we'll share that widely. But FDA is looking at this actively and is going to make a decision based on what their assessment of the data is.
 
-### From an FDA spokesperson on additional COVID boosters
+## From an FDA spokesperson on additional COVID boosters
 
 We continue to closely monitor the emerging data in the United States and globally, and we will base any decision on additional updated boosters upon those data. Importantly, individuals who have not yet received an updated (bivalent) booster are encouraged to speak with their health care provider and consider receiving one.
 
 As discussed during the January VRBPAC, we hope that simplifying the COVID-19 vaccine regimen in the not too distant future will lead to the vaccination of more individuals in the coming years as we learn to live alongside SARS-CoV-2 – potentially reducing serious outcomes, including hospitalization and death.
 
-### From a Pfizer spokesperson on additional COVID boosters
+## From a Pfizer spokesperson on additional COVID boosters
 
 We are focused on our supplemental biologics licensing application. However, ultimately the cadence will be determined by FDA and ACIP for recommended timing.
 
 We submitted our sBLA, it is only under EUA right now, so the sBLA will be to request for a formal approval. Based on if and when the FDA makes that decision, the ACIP will provide recommendations on timing.
 
-### From a CDC spokesperson regarding deaths in Pseudomonas aeruginosa outbreak
+## From a CDC spokesperson regarding deaths in Pseudomonas aeruginosa outbreak
 
 The 3 deaths are deaths within 30 days of the VIM-P aeruginosa specimen collection.  Two patients had confirmed use of EzriCare and one patient is not known to have used EzriCare, but is epidemiologically linked to patients who did.  Pseudomonas was a contributing case of death for one patient; for other two patients the role of Pseudomonas in the death is unknown.
 
-### From a statement by UNOS on organ transplantation
+## From a statement by UNOS on organ transplantation
 
 UNOS supports initiatives to strengthen the system
 
@@ -349,17 +349,17 @@ We welcome a competitive and open bidding process for the next OPTN contract to 
 
 We are committed to working with HRSA, HHS, Congress and others who care about this system so deeply to assist in carrying out these reforms and to do our part to improve how we serve America’s organ donors, transplant patients and their families.
 
-## 03/21/2023
+# 03/21/2023
 
-### From an email correspondence by "Schooley, Robert" of IPATH
+## From an email correspondence by "Schooley, Robert" of IPATH
 
 We’ve not treated any patients up until now.  We have received three bacterial isolates from the CDC repository that are associated with this outbreak and our laboratory group has identified at least one phage with activity against the isolates. We and other collaborators are continuing to screen for additional active phages. 
 
 The approach we take is that we respond to inquiries from physicians about patients they feel might benefit from phage therapy and, if it appears that phages might be beneficial in a particular patient, we work with the physician to see if we can identify active phage(s) and we then help them with some of the intricacies of obtaining and using them. Up until this point we have not had any patient or physician inquiries.
 
-## 03/20/2023
+# 03/20/2023
 
-### From a [webinar](https://www.cdc.gov/locs/2023/03-16-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_March_20.html) hosted by the CDC on testing laboratories
+## From a [webinar](https://www.cdc.gov/locs/2023/03-16-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_March_20.html) hosted by the CDC on testing laboratories
 
 NATALIE THORNBURG, CDC [00:09:50]
 
@@ -397,9 +397,9 @@ And there will be a conversion period where you can continue to use the EUA kits
 
 So the FDA takes a look at this. We care about that. We care about making life as easy as possible for labs that are using EUA test kits now and want to have access to tests.
 
-## 03/17/2023
+# 03/17/2023
 
-### From a statement by GISAID on SARS-CoV-2 sequences from China CDC researchers
+## From a statement by GISAID on SARS-CoV-2 sequences from China CDC researchers
 
 Thank you for reaching out to us.  For nearly 15 years, the GISAID data science initiative has been an essential contributor to global health security by enabling the rapid sharing of genomic and associated metadata during major public health emergency situations, thus facilitating public health responses and the development of lifesaving countermeasures.
 
@@ -407,7 +407,7 @@ To continuously improve the quality of data records, data contributors frequentl
 
 This scenario also applies to records submitted by the China CDC that are currently being updated with newer and additional data as part of a manuscript currently under review.  
 
-### From a [press conference](https://www.youtube.com/watch?v=QgX8rM3RGS0) by WHO on COVID-19 origins findings
+## From a [press conference](https://www.youtube.com/watch?v=QgX8rM3RGS0) by WHO on COVID-19 origins findings
 
 TEDROS ADHANOM GHEBREYESUS, WHO  [00:05:25]
 
@@ -465,9 +465,9 @@ We have repeatedly asked for studies to be done in other markets in Wuhan and in
 
 So there's a lot of unanswered questions. So this updated information provides an additional clue in terms of looking at a potential intermediate host of how some people became infected. 
 
-## 03/16/2023
+# 03/16/2023
 
-### From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/updated-information-march-16-2023-antimicrobial-drugs-advisory-committee-meeting-announcement) of the FDA's AMDAC on Pfizer's Paxlovid
+## From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/updated-information-march-16-2023-antimicrobial-drugs-advisory-committee-meeting-announcement) of the FDA's AMDAC on Pfizer's Paxlovid
 
 JOHN FARLEY, FDA [00:20:04]
 
@@ -604,9 +604,9 @@ And I'm concerned that there's not a good understanding among the medical commun
 And there's been a very quite dramatic acceptance among the journalists that rebound is a  real thing and it's a bad thing. And as we heard today, we don't have evidence that it's either of those. And that's just an editorial comment. 
 
 
-## 03/08/2023
+# 03/08/2023
 
-### From an [event](https://wsw.com/webcast/cowen132/nvax/2034186) for investors by TD Cowen with Novavax
+## From an [event](https://wsw.com/webcast/cowen132/nvax/2034186) for investors by TD Cowen with Novavax
 
 JOHN TRIZZINO, NOVAVAX
 
@@ -675,9 +675,9 @@ JOHN TRIZZINO, NOVAVAX
 Hard to say. Because you got to come out of that and then you got to go into an efficacy trial. I think at this point, it's not just going to be immunogenicity that's going to win the day. I think you're going to have to show the efficacy of the combination.
 
 
-## 03/07/2023
+# 03/07/2023
 
-### From a [vote](https://www.fda.gov/media/165847/download) at the FDA's VRBPAC on B/Yamagata in quadrivalent influenza vaccines
+## From a [vote](https://www.fda.gov/media/165847/download) at the FDA's VRBPAC on B/Yamagata in quadrivalent influenza vaccines
 
 **Question**
 
@@ -705,7 +705,7 @@ Hard to say. Because you got to come out of that and then you got to go into an 
 3. Holly Janes
 4. Hana El Sahly
 
-### From a meeting of the FDA's VRBPAC on Northern hemisphere flu vaccine strains
+## From a meeting of the FDA's VRBPAC on Northern hemisphere flu vaccine strains
 
 HENRY BERNSTEIN, VRBPAC
 
@@ -1011,7 +1011,7 @@ When and if it does, we'd be ready. From a regulatory standpoint, going from fou
 
 So that's that's why I chose not to vote for B Yamagata this year. 
 
-### From an [event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2023/Cowen-43rd-Annual-Health-Care-Conference-2023-kC-zbQ6UEH/default.aspx) for investors by TD Cowen with Pfizer
+## From an [event](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2023/Cowen-43rd-Annual-Health-Care-Conference-2023-kC-zbQ6UEH/default.aspx) for investors by TD Cowen with Pfizer
 
 QUESTION
 
@@ -1075,9 +1075,9 @@ Then COVID came along and so we switched our work on our RNA with flu and moved 
 
 So, working with, we currently have our efficacy program for the monovalent flu vaccine ongoing. We expect it to read out later this year. But we've also started early work on a flu COVID combination vaccine, which is, as Angela said, not predicted in the box, but something that will be coming forward.
 
-## 03/06/2023
+# 03/06/2023
 
-### From an [event](https://investors.modernatx.com/news/news-details/2023/Moderna-to-Present-at-Cowens-43rd-Annual-Health-Care-Conference/default.aspx) for investors by Cowen with Moderna
+## From an [event](https://investors.modernatx.com/news/news-details/2023/Moderna-to-Present-at-Cowens-43rd-Annual-Health-Care-Conference/default.aspx) for investors by Cowen with Moderna
 
 STEPHEN HOGE, MODERNA [00:05:36]
 
@@ -1151,15 +1151,15 @@ So it is contingent on getting those-- our focus on getting those first generati
 
 And so we're prepared most of that work and I don't have an update on today, but we're we're ready to go as soon as we get them on.
 
-## 03/03/2023
+# 03/03/2023
 
-### From a statement by the Consumer Healthcare Products Association
+## From a statement by the Consumer Healthcare Products Association
 
 “Phenylephrine has been used safely and effectively as a nasal decongestant by American families for generations, and FDA regulations recognize it as safe and effective. CHPA members continue to follow these regulations. We acknowledge FDA can reevaluate the efficacy of active ingredients – as it is here.”
 
-## 03/02/2023
+# 03/02/2023
 
-### From a [press briefing](https://www.youtube.com/watch?v=ojXLReClliw) hosted by Kentucky Governor Andy Beshear
+## From a [press briefing](https://www.youtube.com/watch?v=ojXLReClliw) hosted by Kentucky Governor Andy Beshear
 
 STEVEN STACK, KENTUCKY
 
@@ -1183,7 +1183,7 @@ If you were at the Asbury event between the dates of, say, February 17 through 2
 
 Don't just go show up, unless you are in serious need of emergent medical care. Call them first and say, I think I have measles. Tell them why and they can help you, hopefully, arrange or navigate how to get testing, so you don't show up in a waiting room and infect everybody else in the waiting room. 
 
-### From a [webinar](https://www.strengthenfda.org/events) hosted by the Alliance for a Stronger FDA with Janet Woodcock
+## From a [webinar](https://www.strengthenfda.org/events) hosted by the Alliance for a Stronger FDA with Janet Woodcock
 
 JANET WOODCOCK, FDA 
 
@@ -1195,7 +1195,7 @@ It was also announced this week that we'll be moving the cosmetic and colors pro
 
 So what was announced is those programs were currently be under the auspices of the chief scientist, Dr. Bumpus. And they'll be evaluating what to do, including all the new authorities that have been recently given to us as part of the omnibus. So those were the two major organizational announcements that have been discussed.  
 
-### From a [CDC ZOHU Call](https://www.cdc.gov/onehealth/zohu/2023/march.html) on mpox in animals
+## From a [CDC ZOHU Call](https://www.cdc.gov/onehealth/zohu/2023/march.html) on mpox in animals
 
 JEREMY GOLD, CDC
 
@@ -1252,9 +1252,9 @@ We also conducted a questionnaire assessing with a study to try to assess contac
 
 I would like to say quickly, though, that we have not had any animal seroconvert through this study. We have not seen any animals develop antibodies over time, in other words, and we have not had any animals confirmed to be infected with mpox here in the United States. 
 
-## 03/01/2023
+# 03/01/2023
 
-### From a NFID [webinar](https://twitter.com/NFIDVaccines/status/1630961848819281923) on COVID-19 vaccines
+## From a NFID [webinar](https://twitter.com/NFIDVaccines/status/1630961848819281923) on COVID-19 vaccines
 
 PETER MARKS, FDA
 
@@ -1318,7 +1318,7 @@ PETER MARKS, FDA
 
 Indeed, there are successors to the monoclonals that are in the process of being updated so that they will get the next generation of variants. And I expect, again, we'll see-- we'll hear more about those in the coming few months. Obviously, there is a matter of some urgency there because, for immunocompromised individuals, it would be nice to have something to put in that place because, even though we have the antivirals, they are less than perfect.
 
-### Votes at a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-28-march-1-2023-meeting) of the FDA's VRBPAC on RSV vaccine by GSK
+## Votes at a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-28-march-1-2023-meeting) of the FDA's VRBPAC on RSV vaccine by GSK
 
 1. Marie Griffin = NO safety, YES effectiveness
 2. Hana El Sahly = NO safety, YES effectiveness
@@ -1336,7 +1336,7 @@ Indeed, there are successors to the monoclonals that are in the process of being
 9. James Hildreth = YES safety, YES effectiveness
 10. Adam Berger = YES safety, YES effectiveness
 
-### From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-28-march-1-2023-meeting) of the FDA's VRBPAC on RSV vaccine by GSK
+## From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-28-march-1-2023-meeting) of the FDA's VRBPAC on RSV vaccine by GSK
 
 BISHOY RIZKALLA, GSK
 [09:30:38]
@@ -1468,7 +1468,7 @@ The impact of this vaccine will be -- will only be seen when we achieve high upt
 
 I think we are seeing what happens with adult vaccines which are really really hard to disentangle the risks and benefits in a population that is not all uniformly healthy like we see in most children and infants. So I think this whole meeting has given me pause and hope that people really come together and think about how in the future these vaccine studies can be done so that we can disentangle some of the stuff early and make sure that we do maintain high vaccine confidence in the population. 
 
-### From a statement by CDC's Scott Pauley on measles
+## From a statement by CDC's Scott Pauley on measles
 
 CDC is aware of a [confirmed case of measles](https://urldefense.com/v3/__https:/www.chfs.ky.gov/News/Documents/nr*20New*20Case*20of*20Measles*20Confirmed*20in*20Kentucky.pdf__;JSUlJSUlJQ!!CxwJSw!LTrNasjgxWc8QOVyzjOdPmj657m01ZiQCD7SookOtEF2QOW6NU5xGH-wriIo_J9e-rHkfM0yNg$) in an unvaccinated and contagious individual who attended a large religious gathering in Kentucky on February 17 and 18. Large numbers of people that attended the gathering from across Kentucky and from other states and countries may have been exposed. An estimated 20,000 people attended the gathering on the days that the patient attended. The Kentucky Department for Public Health is actively working with CDC and clinicians to help identify if there are additional cases. 
 
@@ -1478,7 +1478,7 @@ Community transmission of measles in connection with this event is possible, par
 
 CDC recommends that all U.S. residents six months of age and older that are traveling abroad be fully protected from measles and receive the MMR vaccine, if needed, prior to departure. For a list of active measles outbreaks, please visit the [CDC Global Measles Outbreaks webpage](https://urldefense.com/v3/__https:/www.cdc.gov/globalhealth/measles/data/global-measles-outbreaks.html__;!!CxwJSw!LTrNasjgxWc8QOVyzjOdPmj657m01ZiQCD7SookOtEF2QOW6NU5xGH-wriIo_J9e-rFNaAnTwQ$).
 
-### From a statement by the CDC's Naeemah Logan on XDR shigellosis
+## From a statement by the CDC's Naeemah Logan on XDR shigellosis
 
 _Is CDC aware of any hospitalizations or deaths from XDR shigellosis?_
 

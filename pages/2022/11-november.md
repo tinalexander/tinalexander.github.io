@@ -13,34 +13,34 @@ permalink: /2022/11
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 11/30/2022
+# 11/30/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-30-2022-1483995)
 
-### From Eli Lilly and Company
+## From Eli Lilly and Company
 
 Given the combined proportion of COVID-19 cased caused by the Omicron BQ.1 and BQ.1.1 variants, the U.S. Food and Drug Administration (FDA) has announced bebtelovimab is not currently authorized for emergency use treatment of mild-to-moderate COVID-19 in adults and pediatric patients. Lilly and the FDA agree that it is not medically appropriate, at this time, to treat high-risk patients with mild-to-moderate COVID-19 with bebtelovimab in the US.
 Based on pseudovirus data, Lilly can confirm that bebtelovimab does not retain neutralization activity against the BQ.1 and BQ.1.1 variants, most likely due to an amino acid K444T substitution. Lilly will pause all distribution of bebtelovimab. Any unused bebtelovimab may be kept during the pause—please follow storage and handling as specified in the Fact Sheet.
 As we have seen over the last several months, prevalence of COVID variant sublineages vary by state, region and even country, and can change rapidly. Lilly continually monitors the global COVID-19 environment, assessing the neutralization activity of potential antibody therapies against a wide array of existing and emerging mutations and variants. Lilly will continue to search and evaluate monoclonal antibodies to identify potential candidates for clinical development against new variants.
 Allison Howell
 
-### From Vitalant Research Institute
+## From Vitalant Research Institute
 
 The FDA determines blood donor eligibility policies in the U.S. using scientific data. These policies are intended to ensure the safety of the blood supply, for blood donors, and patients who receive blood transfusions. All blood centers are also regulated by the FDA and required to comply with all of the policies. The donor history questionnaire (DHQ) is part of a layered safety approach. Questions on the DHQ also help to determine a possible “window period” for infection, meaning a potential donor may be in the early stages of infection when the virus is present in their blood but the immune system has not yet made antibodies to the virus. During the “window period,” the infection may not be detectable by laboratory testing but may still be transmitted to others by transfusion.
 Regarding the study questions, we can’t share the specifics at this time, but the ADVANCE Study is examining if different questions could be added to the donor history questionnaire that are based on individual risk of HIV infection, and if these questions would be as effective as a time-based deferral in reducing the risk of HIV among gay and bisexual men who present to donate blood.
 Nick Gehrig
 
-### From America’s Blood Centers
+## From America’s Blood Centers
 
 “America’s Blood Centers strongly supports a safe and available blood supply that treats all potential donors with fairness, equality, and respect. ABC supported the FDA change in 2020 that reduced the donor deferral period from 12 to three months for men who have sex with other men. Two of our member centers are now working as part of the ADVANCE study to collect the needed scientific evidence to further evaluate the current policy. ABC strongly supports this effort as a pathway to the establishment of donor-screening based on individual risk behaviors, not sexual or gender identity. The use of rational, science-based deferral periods must be applied fairly and consistently among all blood donors,” said Kate Fry, Chief Executive Officer at America’s Blood Centers.
 
-### From Philadelphia Department of Public Health
+## From Philadelphia Department of Public Health
 
 On Wednesday, November 30, 2022, the U.S. Centers for Disease Control and Prevention (CDC) formally revealed their plan to strategically expand wastewater testing for poliovirus in select jurisdictions across the country. They explained that although preliminary discussions are underway with other state and local health departments, the Michigan Department of Health and Human Services (MDHHS) and Philadelphia Department of Public Health (PDPH) are among the first locations to explore plans to start collecting wastewater samples in specific communities for analysis at CDC’s polio laboratory.
 This plan is at the earliest stages and no specific date has been set for the start of testing. However, once it is underway, the findings from CDC’s strategic wastewater testing effort will help jurisdictions to prioritize vaccination efforts in identified communities of concern. Philadelphia Department of Health Commissioner, Dr. Cheryl Bettigole says, “we decided to move forward with wastewater testing for polio in Philadelphia because, although we have relatively high vaccination rates, there are epidemiologic links between groups in Philadelphia and in New York that could potentially increase the risk of transmission among the small pockets of unvaccinated residents of our city, given the known circulation of polio virus in New York state. While some parents who have not vaccinated their children may be absolutely determined not to do so, others may have opted out based on the very low risk of their child contracting polio in modern-day America. If we were to find a positive in our surveillance sampling, that might convince some of the latter group to agree to vaccinate their children.”
 Dr. Bettigole goes on to explain that “as far as the extent of testing is concerned, a wide net will be cast at the start, then, if we start to receive positive indications of the presence of polio, further investigation will need to be done and may warrant a need to undertake more focused testing to understand the areas of the city being impacted. We hope that the results of such investigations will convince those not yet vaccinated for the poliovirus to be vaccinated.”
 
-### From Food and Drug Administration
+## From Food and Drug Administration
 
 The FDA remains committed to evaluating alternatives to the time-based deferral policy by helping to facilitate the generation of the scientific evidence that might support an individual risk assessment-based blood donor questionnaire. The agency has proactively sought public input to collect insights on how it might transition and implement alternative deferral strategies, such as individual risk assessment.
 The FDA is reviewing results from the Assessing Donor Variability And New Concepts in Eligibility (ADVANCE) pilot study as expeditiously as possible, using a thorough and science-based approach. While the study has concluded, the collective efforts of the FDA and the participating blood establishments continue. This FDA funded study, conducted at community health centers in key locations across the United States, has generated data that will help the FDA determine if a donor questionnaire based on individual risk assessment would be as effective as time-based deferrals in reducing the risk of HIV.
@@ -48,15 +48,15 @@ Although we do not have a specific timeline for when our analysis will be comple
 The FDA remains committed to gathering the scientific data related to alternative donor deferral policies that maintain a high level of blood safety. The FDA will determine next steps including when and how results of the study may be made public. We anticipate issuing updated draft guidance in the coming months incorporating key learnings from the ADVANCE study, as well as taking into account international developments in donor deferral policies.
 Carly Kempler (Pflaum)
 
-### From Michigan Department of Health and Human Services
+## From Michigan Department of Health and Human Services
 
 It could be a few weeks before sampling begins. The wastewater testing for polio is really different for other things like COVID and so we need a different methodology, sampling sites, etc. We continue to work on identifying the right locations and the right partners.
 
-## 11/23/2022
+# 11/23/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-23-2022-1473920)
 
-### From a WHO spokesperson
+## From a WHO spokesperson
 
 Q: Has WHO decided to change the name of monkeypox?
 A new name for the disease has not yet been announced. We will share details once finalized.
@@ -74,7 +74,7 @@ Q: Is the process to find a new name due to pressure from any particular country
 When the outbreak of monkeypox expanded earlier this year, there were instances of racist and stigmatizing language online and in other settings. In several meetings, public and private, a number of individuals and countries raised concerns and asked WHO to propose a way forward.
 (See further details above.)  
 
-### From an [interview with Bruce Tromberg](https://www.cbsnews.com/news/makemytestcount-home-covid-test-reporting/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [interview with Bruce Tromberg](https://www.cbsnews.com/news/makemytestcount-home-covid-test-reporting/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 BRUCE TROMBERG, NIBIB [00:00:56]
 Ever since, even before we really officially launched RADx, I think it was pretty clear what we wanted to do with RADx was help drive a paradigm shift from laboratory testing to point of care and home. And I think this is now happened ,and people have spoken, and we and the community really has been able to really rally around the authorizations and in the production and distribution of tests, with the COVID dot gov website. So home tests are widely available. 
@@ -111,11 +111,11 @@ BRUCE TROMBERG, NIBIB [00:20:55]
 So the CDC is increasingly interested and excited about it. And that’s a key thing. It’s the same– it will go to the same data collection place, what we call HHS Protect that the laboratory tests go to.
 So it’s up to the CDC what they do. But, they’re very interested in releasing that data to the public, and making it all available as they have been making all this other stuff and the other data that they make available.
 
-## 11/22/2022
+# 11/22/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-22-2022-1472121)
 
-### From a [SiriusXM interview](https://www.siriusxm.com/clips/clip/e7adfb79-ca09-4825-b8ca-1aa0c124dea0/3d18d649-53bb-4b89-959c-5bc53dd4e654?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [SiriusXM interview](https://www.siriusxm.com/clips/clip/e7adfb79-ca09-4825-b8ca-1aa0c124dea0/3d18d649-53bb-4b89-959c-5bc53dd4e654?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 PETER MARKS, FDA [00:00:34]
 So there are a variety of different groups looking at vaccines, exactly as you’ve noted, that might be able to provide the kind of mucosal immunity, that is the ability to zap the virus before it gets into the system at the portals of entry. 
@@ -125,24 +125,24 @@ So I think we’re we’re optimistic on that front.
 And then the nice thing, if we could get this to a once yearly vaccine, are that a number of manufacturers are very interested in combining the COVID 19 vaccines with their influenza vaccines to make it simpler to immunize people, because most people would rather get one shot once a year rather than have multiple shots. 
 So I think there’s a lot of work that’s going on in this area. I think we at FDA are trying to encourage additional work go on in this area as well.
 
-### From a [ResearchAmerica webinar](https://www.researchamerica.org/alliance-discussions/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [ResearchAmerica webinar](https://www.researchamerica.org/alliance-discussions/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 SARAH DESPRES, HHS [00:06:31]
 I think flu vaccines are always a challenge because you got to get it every year, and you have to get it within a window. So I think that it’s one of those vaccines where, again, we need and we have a permanent infrastructure to just keep pushing it every year. 
 But, currently, and I’m just sort of looking at the latest I’ve got from CDC, while the vaccine coverage looks similar to last year, there is a significant drop while– a 6% drop in coverage over pre-pandemic years. So I think you’re seeing that as a problem. 
 We have for adults five million fewer doses have been administered compared to this time last year in pharmacies and physician’s offices. So it’s 15% lower compared to last season.
 
-### From a [CDC webinar](https://www.cdc.gov/locs/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC webinar](https://www.cdc.gov/locs/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 JOHN BARNES, CDC [00:31:47]
 We’ve had a lot of circulation of a lot of different zoonotic viruses in avian and swine populations. And in the last two years, we’ve had quite a number of different zoonotic influenza subtypes that have been been detected. And so please look out for any of those influenza A viruses that we cannot actually obtain a subtype, that has a influenza A target below 35, 35 or below, but reactivity for PD H1 or H3 subtypes, that’s a diagnostic specimen to CDC, please send those immediately. 
 As I mentioned, also, we’re looking for these B/Yamagata viruses. We have not seen those in the last couple of years and most of the viruses that we have seen collected are actually LAIV cases, where we have live attenuated influenza vaccine that has persisted a little bit too long in the nose. And we’ve gotten a swab of somebody who has been treated with that. And so be aware that this is also a possibility. And that we may be reaching out to you all if we have a B/Yamagata potential case, if there has been exposure in the– actually a live attenuated vaccine has been given, or there was somebody else in a household in which this has been given as well. 
 
-## 11/21/2022
+# 11/21/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-21-2022-1470957)
 
-### From a [“Government Matters” episode](https://twitter.com/GovMattersTV/status/1594707333652787201?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [“Government Matters” episode](https://twitter.com/GovMattersTV/status/1594707333652787201?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 ROCHELLE WALENSKY, CDC [00:12:10]
 So what we’ve seen with RSV as well as with influenza is both that they are coming earlier. So we usually don’t see RSV until the winter, December and January, similarly for flu.
@@ -150,7 +150,7 @@ And we have started to see in those areas that have been hardest hit by RSV, the
 Similarly with influenza, much earlier than we generally see in the season, we haven’t seen those come down quite yet, but we have seen in the Southern Hemisphere, for example, where they get flu before us, that they had an earlier season but not a more severe season.
 So we are hopeful. It doesn’t always follow that that will be the case. We still very much recommend not only your COVID-19 bivalent vaccine, but also your flu vaccine, to really prevent those hospitals from being overwhelmed and to protect you and your families.
 
-### From a [ResearchAmerica webinar](https://www.researchamerica.org/alliance-discussions/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [ResearchAmerica webinar](https://www.researchamerica.org/alliance-discussions/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 SARAH DESPRES, HHS [00:00:04]
 There are also supply chain issues that have come up over the course of this surge. There are several products that are in– that are in shortage that are used for response to this. And so ASPR and FDA are working to both monitor and mitigate those shortages in order to help health care providers respond.
@@ -159,7 +159,7 @@ Can you be specific about what some of those shortages are?
 SARAH DESPRES, HHS [00:00:31]
 Yes, there are four that I know of. But the problem with shortages is that sometimes they bubble up and can be– there can be a geographic shortage in an area that we don’t even– that doesn’t even rise to FDA’s visibility. But the ones that we– that are on my radar are certain pediatric formulations of amoxicillin, an antibiotic, certain formulations of albuterol, pediatric trach tubes, and then certain formulations of sterile water.
 
-### From a [CDC webinar](https://www.cdc.gov/locs/calls/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC webinar](https://www.cdc.gov/locs/calls/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 JOANNA PRASHER, CDC [00:06:21]
 But to be clear that, as of right now, there are no probable or confirmed cases of Ebola in the current outbreak outside of countries other than Uganda. The risk of Ebola in the United States does remain low.
@@ -189,11 +189,11 @@ Next slide, please. The need to update this antigen testing guidance became clea
 MUKTHA NATRAJAN, CDC [00:27:24]
 So these updates have been cleared by CDC, and we’re just awaiting the actual web page rollout. We expect it any day now. It’s not officially online yet, though.
 
-## 11/17/2022
+# 11/17/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-17-2022-1464515)
 
-### From a [NEJM podcast](https://www.nejm.org/doi/full/10.1056/NEJMe2214911?query=featured_home&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [NEJM podcast](https://www.nejm.org/doi/full/10.1056/NEJMe2214911?query=featured_home&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 PETER MARKS, FDA [00:24:21]
 I think we do need a better generation of vaccines for SARS-CoV-2, much the same way as we need better generation of vaccines for influenza. But in this case, the reason why it’s so urgent, at least for me, to SARS-CoV-2, is we see that this virus continues to surprise us. 
@@ -213,11 +213,11 @@ I mean, part of this is that we try to look at the best available science, and o
 And so I think, ultimately though, when we settle down on a correlate, it’s going to have to be something that we can feel is well validated. So that we’ll feel comfortable using it for approvals, which is a tall order, because it means we have to feel comfortable that it’s going to really correlate with the clinical outcomes.
 And some people find that a little challenging, because it’s not just enough to have a study and 10, 20, or even 100 or 200 people. We need to feel really comfortable that the biomarker is going to really correlate with what we’re going to see in terms of effectiveness in the real world.
 
-## 11/16/2022
+# 11/16/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-16-2022-1463352)
 
-### From a [CDC meeting](https://www.cdc.gov/cpr/bsc/index.htm?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC meeting](https://www.cdc.gov/cpr/bsc/index.htm?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 IAN WILLIAMS, CDC [00:03:58]
 Back when I started in the response as a principal deputy incident manager last spring, we had about 10 task forces with 60 different teams. So very large incident management structure, close to 2,000 people deployed at the response at that time. And over the course of the last 6 months, we’ve now slimmed down to 2 task forces and 10 teams. 
@@ -272,11 +272,11 @@ IAN WILLIAMS, CDC [00:59:54]
 But I want to point out what Jono said. Part of this is thinking about transitioning to sort of a longer term program, that COVID’s going to be around for a period of time. We need to not just be one and done. We need to have community based programs.
 We need to build this into the primary public health care system. We need to educate physicians on when Paxlovid needs to be prescribed. We need to make sure it’s accessed. So it’s building all the stuff that Jono sort of said, thinking about how to bake this sort of in this community writ large. 
 
-## 11/15/2022
+# 11/15/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-15-2022-1461167)
 
-### From a [McClatchy interview](https://www.mcclatchydc.com/news/coronavirus/article268726782.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [McClatchy interview](https://www.mcclatchydc.com/news/coronavirus/article268726782.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 ANTHONY FAUCI, NIAID [00:07:50]
 I’d have to be perfectly honest with you, and with our viewers and listeners, that there is always the possibility that we will get a variant that’s very, very different than the current variants. And let me explain what I mean.
@@ -284,7 +284,7 @@ So right now, we, up to a few weeks to a couple of months ago, had a predominanc
 There is a possibility – I don’t know what the likelihood of it is, it is difficult to predict – that there will be a variant that’s very, very different, that we will have to get everybody vaccinated out of the sync of a yearly type of a vaccine.
 So when you talk about a yearly, seasonal, similar to flu, that’s to get people into a reasonable cadence. That doesn’t mean that there aren’t going to be some people, particularly people who are immune compromised, who are transplant or cancer, chemotherapy, they may need that updated boost more often. But for the broad general population, something like once a year seems reasonable.
 
-### From a [STAT News event](https://www.statnews.com/2022/summit/stat-summit/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [STAT News event](https://www.statnews.com/2022/summit/stat-summit/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 ASHISH JHA, WHITE HOUSE [00:21:23]
 So, first of all, this is a decision that the secretary makes. And what I will tell you, in terms of how long, is right now, I think it’s through January 11th or 12th, I can’t remember the exact date, the secretary has been very explicit and clear that he will give everybody at least a 60 day notice before pulling it down. That is an ironclad commitment. And so you can do the math of where we are, but that 60 day commitment is there. 
@@ -292,7 +292,7 @@ Why is there a 60 day commitment? Because there will come a time when the public
 There are a whole set of things that flow from a public health emergency around data, around how we’re thinking about EUA products, I mean, just there’s a set of things, and we want to make sure that all of that transition happens in a very orderly way, again, with the goal of making sure that, when that public health emergency ends, whenever that ends, that Americans continue to have access to vaccines, treatments and tests. That we are not sort of unable to respond to a surge. 
 Like there’s just a bunch of things that we need to be able to do. And the secretary has determined that that is still necessary right now.
 
-### From a [CDC meeting](https://www.cdc.gov/cpr/bsc/index.htm?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC meeting](https://www.cdc.gov/cpr/bsc/index.htm?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 LOVISA ROMANOFF, CDC [00:37:25]
 And last but not least, as a result of Jim Macrae’s report that was published this summer, the CDC’s scientific and programmatic review, we have developed priority action teams. So as part of Jim’s report, there were 24 priority action areas, and they were divided into 21 groups. And they are individually looking at each of those recommendations and making plans for how we can implement those. 
@@ -328,11 +328,11 @@ CHRIS BROWN, CDC [00:18:42]
 We are working on updating the operational policies that lay out how CDC manages emergency responses. And we’re trying to shift ourselves away from the totally voluntary opt in nature of those policies, so that there is an expectation that we can tap people in the centers, and the centers will plan to support them. And we’re also working on developing emergency response participation performance standards for staff across the agency. We finalized that for executives. 
 So every senior leader in centers across the agency will have an expectation that they have a CDC responder profile, that they participate in responses, that they make staff available for responses, and that they ensure that their staff have CDC responder profiles as well. And I want to mention that we are working through bargaining unit negotiations, and are making sure that we comply with all of those obligations, as we work to roll this out. But we anticipate that that’s coming ideally by the end of the calendar year, if not shortly thereafter. 
 
-## 11/14/2022
+# 11/14/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-11-14-2022-1459787)
 
-### From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/sars-cov-2-subvariants--the-future-of-monoclonal-antibodies-monkeypox-update/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/sars-cov-2-subvariants--the-future-of-monoclonal-antibodies-monkeypox-update/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 CHRISTINA HUTSON, CDC [00:20:10]
 Because of these findings, from the start of the outbreak, we have been monitoring the F13L gene within sequenced isolates. At this time, CDC has analyzed sequence data for more than 4,000 specimens from across the United States, of which 11 were found to have genetic changes in the F13L gene during those sequence surveillance efforts.

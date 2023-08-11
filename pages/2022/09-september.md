@@ -13,11 +13,11 @@ permalink: /2022/09
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 09/30/2022
+# 09/30/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-30-2022-1384494)
 
-### From a CDC spokesperson
+## From a CDC spokesperson
 
 So we have been in contact with NY but they currently don’t meet the criteria for data inclusion, which is:
 A jurisdiction’s data may be included if it has met the following criteria: if age and sex assigned at birth or gender identity was available for ≥70% of all cases reported, AND 1) data on vaccination status was available for ≥50% of cases in males (defined by either sex assigned at birth or gender identity) aged 18– to 49 years OR 2) we have received confirmation that your jurisdictions have included all data in IIS. 
@@ -26,7 +26,7 @@ A jurisdiction’s data may be included if it has met the following criteria: if
  
 At the September 1, 2022 meeting, ACIP had the opportunity to review and discuss data about updated (bivalent) COVID-19 boosters for all age groups for which monovalent COVID-19 boosters had been previously recommended. These groups included people ages 12 years and older, as well as children ages 5 through 11 years. Before ACIP can vote to recommend any specific vaccine product, however, FDA needs to issue an emergency use authorization (EUA) for that product. The day of the ACIP meeting, EUAs were available for updated (bivalent) boosters for people ages 12 years and older, but not for children ages 5 through 11. This was due to ongoing work in manufacturing and production of products for the younger age group. Since ACIP has already reviewed the relevant data—and in order to avert delays in providing updated boosters for children ages 5 through 11 years—once manufacturing and production are complete and EUAs are available, we anticipate CDC will make a recommendation for use of these products, and help make them available to children ages 5 through 11 across the United States.
 
-### From an IDSA briefing
+## From an IDSA briefing
 
 DEMETRE DASKALAKIS, WHITE HOUSE [00:01:20] Nationally, reports of new cases are decelerating week over week. Even so, we are monitoring trends closely in individual states and jurisdictions, since progress is not consistent across the country. 
 Over the past several weeks, we have also seen the racial and ethnic makeup of this outbreak evolve. Although we are seeing equivalent declines in monkeypox across all racial and ethnic groups, the outbreak is concentrating in communities of color, specifically in black and brown communities. 
@@ -81,11 +81,11 @@ Over the past 30 years, we’ve learned a thing or two about CD8 T cells and the
 What we have seen in the past, though, is that when people don’t get the second vaccination, the force field drops to zero, the antibody titer drops. So one of the major reasons to get the second shot is – a booster, is because then you have sustained antibody response. So I want to make the point that it’s really an important piece of news. 
 I don’t want people to get complacent and say, ‘well, I’m good now,’ but to stick with this Star Trek analogy, we do not want people to lose their force field by skipping the second shot.
 
-## 09/28/2022
+# 09/28/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-28-2022-1382890)
 
-### From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=194KdQ5Ns58)
+## From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=194KdQ5Ns58)
 
 11:50:21 AM   ROCHELLE WALENSKY, CDC: There have been limited data on how well the Jynneos vaccine performs against monkeypox in real world conditions. These new data provide us with a level of cautious optimism that the vaccine is working as intended.
 These early findings, and similar results from studies in other countries, suggest that even one dose of the monkeypox vaccine offers at least some initial protection against infection. That said, we know from laboratory studies that immune protection is highest two weeks after the second dose of vaccine.
@@ -135,17 +135,17 @@ So I think that the combination of PrEP, plus the amazing early news of the effe
 We have not yet stratified the data by intradermal versus subcutaneous injection, and that is something that we were going to– we’re going to need a little bit more time and a bit more numbers in order to be able to do. We are going to have more of these data posted online today and more data forthcoming. 
 This is really in an effort to give you all the data as soon as we have it. But we’ll have more data posted on online for you to be able to see some of the details of how we’ve conducted this analysis.
 
-### From a [CDC webinar](https://emergency.cdc.gov/epic/learn/2022/webinar_20220928.asp?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC webinar](https://emergency.cdc.gov/epic/learn/2022/webinar_20220928.asp?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 NEAL CARNES, CDC [00:27:39] This title points to social media and how some are suggesting that the few pediatric cases that have been reported and confirmed are a result of pedophilia and the notion that gay, bisexual, and other men who have sex with men wish to groom young children to become gay, bisexual, or other men who have sex with men. This, too, stigmatizes those disproportionately affected.
 Each pediatric case– and let me be clear, each pediatric case of monkeypox is followed up to understand likely transmission and no case has indicated transmission occurred as a result of sexual contact between an adult and a child.
 Further, these Twitter posts play on an existing stereotype, that has been disproved, that gay and bisexual men are more likely to be pedophiles. That is false.
 
-## 09/27/2022
+# 09/27/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-27-2022-1381342)
 
-### From a [CSIS event](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=QuPTWfWGh20)
+## From a [CSIS event](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=QuPTWfWGh20)
 
 ASHISH JHA, WHITE HOUSE [00:23:25] It’s interesting because I hear lots of chatter about the future of the COVID team and what are you going to do? And I will tell you, those are not conversations that I’m actually having with our chief– the president’s chief of staff or with the president.
 The conversations we are having are like, what do we need to drive deaths down? How do we make sure we’re better prepared for the winter? What you know– what do we need to do to– think about as we transition out of the U.S. government buying all of these products, that it’s not disruptive. That it doesn’t create new financial burden on Americans. 
@@ -157,7 +157,7 @@ ASHISH JHA, WHITE HOUSE [00:07:07] We don’t have– we don’t have a target. 
 I think it is available to everybody over the age of 12. It’s going to actually be available to 5 to 11 year olds soon, if FDA looks at some new data and makes its decision.
 But– but if we get to an annual COVID vaccine, we really do want broad uptake. If we get that, we are going to make a really big difference in terms of how– what kind of fall and winter we end up having.
 
-### From [state and local health departments](https://www.cbsnews.com/news/polio-cases-wastewater-testing-vaccinations-stall-in-new-york/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From [state and local health departments](https://www.cbsnews.com/news/polio-cases-wastewater-testing-vaccinations-stall-in-new-york/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 Our focus for wastewater surveillance in Colorado remains on COVID-19. However, we are working closely with our academic partners and CDC colleagues to build upon everything we have learned and evaluate wastewater tests for other pathogens of public health significance, including possibly polio.
 Paul Galloway
@@ -208,11 +208,11 @@ From Ken Gordon, Ohio Department of Health
 The New Jersey Department of Health is collaborating with the Centers for Disease Control and Prevention on wastewater testing via the National Wastewater Surveillance System. which was initially set up to track the presence of SARS-CoV-2 in wastewater samples. Specimens that were previously collected for COVID-19 testing from May to August were tested for poliovirus, including 32 samples tested that came from 5 sites (Essex, Hudson, Middlesex, Passaic, Union). These samples recently tested by the CDC from New Jersey sites are negative for poliovirus. The Department is working with CDC to enroll additional sites in the National Wastewater Surveillance System to support the response to the current outbreak and test for poliovirus.
 Nancy Kearney, New Jersey Department of Health
 
-## 09/26/2022
+# 09/26/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-26-2022-1379478)
 
-### From a [PACHA meeting](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=1xC8ANFonmY)
+## From a [PACHA meeting](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=1xC8ANFonmY)
 
 DEMETRE DASKALAKIS, WHITE HOUSE [01:07:08] I’ll remind you, though, that it’s not because of consistency throughout the country. So these data are getting a bit long in the tooth. They are from our technical report that CDC put out on September 1st. There will be an update to this technical report in October.
 
@@ -226,7 +226,7 @@ In fact, I should footnote, there will soon be a single landing page on the web 
 DEMETRE DASKALAKIS, WHITE HOUSE [01:25:01] So it’s actually CDC that gauges sort of like who is eligible for vaccine. So I think we’re having really great conversations now about what our stance is going to be like. Do we stay where we are, in this PEP plus plus? Or do we move on to more of a PrEP stance? And so those discussions are happening now.
 And I think that they are really focusing not only on the population that we know is overrepresented, but also some populations that other– that some jurisdictions are seeing activity in. And so I think that all of that is on the table. And I would say watch this space carefully and not too long from now.
 
-### From an [NVAC meeting](https://www.hhs.gov/vaccines/nvac/meetings/2022/09-22/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [NVAC meeting](https://www.hhs.gov/vaccines/nvac/meetings/2022/09-22/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 KRISTEN LYKE, UNIVERSITY OF MARYLAND [00:22:28] And if you have been following some of the newer sublineages, I can tell you that the BA.2.75 is roughly equivalent to somewhere between BA.3 and BA.4, so approximately the BA.2.12. And then there’s a newest sublineage, which is the BA.2.75.2 coming out of India, which essentially has very little neutralizing antibody result.
 
@@ -234,7 +234,7 @@ KRISTEN LYKE, UNIVERSITY OF MARYLAND [00:22:28] And if you have been following s
  
 KRISTEN LYKE, UNIVERSITY OF MARYLAND [00:22:57] And so our conclusions are that the vaccine boost as the first primary boost substantially increases Omicron neutralizing antibody titers, the boosted neutralizing titers to Omicron, but not prototypical D614G, declined rapidly. The Janssen is better as a prime or a boost with mRNA vaccines than as a homologous boost. And the Omicron some lineages exhibit 5 to 12 times reduced considerably neutralization by the Moderna boost sera. So our next steps are to introduce the bivalent D614G and the BA.4/5 Omicron boost, as well as we’re moving into assessing mucosal immunity.
 
-### From an [IDSA call](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-updates--emerging-issues-on-covid-19-and-monkeypox/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [IDSA call](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-updates--emerging-issues-on-covid-19-and-monkeypox/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 AGAM RAO, CDC [00:42:49] Now, despite the decrease in case counts, we are hearing about severe infections and that’s the reason for today’s call. We want to bring attention to the fact that in recent weeks we’ve been hearing about some severe infections.
 Now the demographics of the affected patients are shown here. 100% of them have been male. They’ve been in ages have been 21 to 58 years of age, with a median of 32 years. The majority have been Hispanic or non-Hispanic Black men. And so this goes back to the equity concerns that I raised earlier.
@@ -252,12 +252,12 @@ MEGHAN PENNINI, ASPR [00:25:11] We just want to make sure that everyone has acce
 So how this program works is, essentially if a provider has has purchased a commercial supply, but then gives that dose, treats an underinsured patient or an uninsured patient, so there’s no expectation that they would get cost recovery from that particular dose, they can actually request a free dose as a replacement from HHS. And they do that through through HPOP, which is the Health Partner Ordering Portal.
 So if there are providers out there who are already part of that universe, they can access this initiative right away. They can make that request. They just need to attest that they did some level of verification that that patient really falls into those categories. If a provider is not currently part of HPOP, they can certainly register to have access to those to that, to make those requests, they just need to reach out to their state or territorial health officials.
 
-### From a CDC spokesperson
+## From a CDC spokesperson
 
 The Centers for Disease Control and Prevention (CDC) has updated its Infection Prevention and Control (IPC) guidance for healthcare settings to streamline and consolidate existing guidance. Updates reflect the high levels of vaccine- and infection-induced immunity and the availability of effective treatments and prevention tools in the United States.
 These updates provide additional protection measures for patients and healthcare workers, especially in hospitals and nursing homes, where COVID-19 is more likely to spread quickly or cause severe disease. These facilities should continue to monitor Community Transmission levels in their area for indicators of surges in the community.
 
-### From an [Emory University event](https://twitter.com/EmoryCFAR/status/1573398630052298753?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [Emory University event](https://twitter.com/EmoryCFAR/status/1573398630052298753?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 Q [00:23:02] I have also heard that CDC is considering other intradermal sites of injection, besides the forearm, because people are declining that due to the very large reactogenic lesions that they’re getting. Is that something that you can comment on yet?
 DEMETRE DASKALAKIS, WHITE HOUSE [00:23:15] So I’ll start by saying that the FDA EUA comments that if a forearm is unavailable, then an alternate site can be used. And I would watch this space very carefully in the next week to see sort of what happens in terms of clinical guidance.
@@ -268,11 +268,11 @@ So I think it’s it’s not– it’s out there. It exists. And I think that we
 DEMETRE DASKALAKIS, WHITE HOUSE [00:24:46] So definitely there is some expired vaccine and at one point was that was being looked at more actively.
 But because of the various things that we’ve done, including the switch to intradermal, as well as two really important supply side things, which includes Bavarian Nordic actually producing more vaccine and also our new fill and finish plant that is in Michigan, we’re not looking at that correctly as a needed option based on our projections of need for the vaccine.
 
-## 09/23/2022
+# 09/23/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-23-2022-1375096)
 
-### From a [HHS Meeting](https://www.hhs.gov/live/live-1/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter#8443)
+## From a [HHS Meeting](https://www.hhs.gov/live/live-1/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter#8443)
 
 FARIDA AHMAD, CDC [00:39:42] I can add a little bit regarding data on occupation data in relation to death certificate data. We do, the Division of Vital Statistics, we’re working with some colleagues at NIOSH to standardize the coding of occupation data that we have existing from death certificates.
 I’m not sure when that will become– when the data will be published, but I do know that that work is underway, and it is a priority to get that information out, not just for prior years, but also going forward. So I think it’s really important and it is something that we’re actively working on.
@@ -304,24 +304,24 @@ JONATHAN DUFFY, CDC [00:01:48] So in conclusion, in summary, just say that our v
 JONATHAN DUFFY, CDC [00:21:51] Even prior to the monkeypox outbreak, to the expansion of V-safe to be used for other vaccines had been under consideration. And, I think it was just unfortunate timing that there hadn’t been a chance to put those– that that new sort of infrastructure in place to expand and beyond COVID vaccines. It was sort of bad timing that this outbreak started before that was able to be done.
 But I think that’s certainly still under consideration of expanding V-safe for use for other vaccines in the future. And, hopefully once that’s in place, it will be a lot easier to have a more adaptable system for when these sort of emergency response situations arise.
 
-### From a [CDC spoksperson](https://www.cbsnews.com/news/bf-7-ba-2-75-covid-variants-rise-cdc-tracking/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC spoksperson](https://www.cbsnews.com/news/bf-7-ba-2-75-covid-variants-rise-cdc-tracking/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 Since BF.7 was predicted to be circulating above 1% in the week ending 9/17/2022, it was separated from its parent lineage in the NOWCAST estimates and weighted data on the COVID Data Tracker. Nationally, CDC estimates 1.7% (1.2-2.4%) of cases are BF.7 in the week ending 9/17/2022, and the proportion of cases caused by BF.7 has been increasing in the United States in recent weeks.
 BF.7 has one additional genetic change in the gene coding for the Spike protein in comparison to parental BA.5 lineage viruses. Data indicates that this specific genetic change could reduce the efficacy of Evusheld, a prophylactic monoclonal antibody treatment. At this point, there is no indication that vaccines or diagnostic tests are affected by this genetic change.
 CDC continues to share viral genomic proportion data with the SARS-CoV-2 Interagency Group (SIG), which will evaluate the impact of these genetic changes on the effectiveness of Evusheld and update clinical recommendations, if necessary.
 
-### From a Harris County press briefing
+## From a Harris County press briefing
 
 Q [00:11:48] The first one is a quick one. Are there any updates to the death of the patient who had severe illnesses and monkeypox?
 ERICKA BROWN, HARRIS COUNTY PUBLIC HEALTH [00:11:56] And so the investigation, the autopsy, is in partnership with the CDC around that case is still ongoing. And as we receive additional information that we are able to share, we certainly will do so.
 
-### From the [AHCA/NCAL](https://www.cbsnews.com/news/covid-19-cdc-says-some-nursing-homes-and-hospitals-no-longer-need-to-require-masks/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From the [AHCA/NCAL](https://www.cbsnews.com/news/covid-19-cdc-says-some-nursing-homes-and-hospitals-no-longer-need-to-require-masks/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 The following is attributable to our Senior Vice President of Quality, Regulatory and Clinical Services Holly Harmon:
 “The revised guidance is welcome news for millions of nursing home residents, their families, and staff. While our commitment to infection prevention and control continues, adapting COVID protocols means recognizing the current stage of this pandemic as well as the importance of quality of life for our nation’s seniors. After more than two years, residents will get to see more of their caregivers’ smiling faces, and our dedicated staff will get a moment to breathe.
 “We look forward to ongoing collaboration with the CDC and other public health officials to help ensure long term care facilities receive the necessary support to best serve our nation’s seniors.” 
 
-### From [another CDC spokesperson](https://www.cbsnews.com/news/bf-7-ba-2-75-covid-variants-rise-cdc-tracking/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From [another CDC spokesperson](https://www.cbsnews.com/news/bf-7-ba-2-75-covid-variants-rise-cdc-tracking/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 Both BA.2.75.2 and BF.7 have been detected via CDC’s Traveler-based SARS-CoV-2 Genomic Surveillance program. As of August, we have detected BA 2.75.2 from flights from India and as of July we have detected BF.7 in flights from France
 
@@ -330,16 +330,16 @@ Both BA.2.75.2 and BF.7 have been detected via CDC’s Traveler-based SARS-CoV-2
 CDC monitors emerging sublineages in the United States, but does not add them to the COVID Data Tracker until they reach at least 1%. Sublineages circulating less than 1% are not separated and may be grouped with their parent lineages.
 BA.2.75.2 is currently aggregated with its parent lineage BA.2.75. The proportion of BA.2.75.2 has been gradually increasing over the last few weeks. CDC will continue to monitor the variants for any changes in rates. Please see the COVID Data Tracker to track the lineages of Omicron and new variants as they emerge in the United States. CDC updates these data each week.
 
-## 09/22/2022
+# 09/22/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-22-2022-1373463)
 
-### From a [Catalent spokesperson](https://www.cbsnews.com/news/why-its-easier-to-find-pfizers-updated-covid-boosters-than-modernas/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Catalent spokesperson](https://www.cbsnews.com/news/why-its-easier-to-find-pfizers-updated-covid-boosters-than-modernas/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 During its routine inspection of our Bloomington facility, the FDA found no issues related to the safety or efficacy of the Moderna product. Production at the facility, including of COVID-19 vaccines, has continued without interruption. Nevertheless, Catalent takes all observations very seriously, and we have already begun employing all necessary steps to address each observation as quickly as possible.
 Chris Halling
 
-### From the [STD Prevention Conference](https://www.stdpreventionconference.com/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From the [STD Prevention Conference](https://www.stdpreventionconference.com/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:59:17] JUDITH HEWITT, NIAID: The animal models have been– they’re highly controlled. We like to control the the amount of virus that individual animals get. So we have not really studied that. 
 I would say, though, that now, in hindsight, looking back at some of the data from the animal studies, for example, the pathology results, we do see evidence of virus in tissues like testes. And so, while that we didn’t study that, there is a hint there that that’s something to look at.
@@ -355,7 +355,7 @@ A harm reduction approach which employs non stigmatize and gender neutral and se
 And we we highly recommend, and we are here to provide consultation, if you reach out to us, we highly recommend consultation with us. We can be consulted 24/7 at CDC and we can help with things like providing guidance about whether IV tecovirimat should be considered, whether resistance testing can be done at CDC, whether additional testing can be done, serology to evaluate a patient’s immune response if they’ve had poorly controlled HIV and are now been started on antiretrovirals, for example. 
 And we’re acquiring more information as we’re performing these consultations, and we hope to provide some more guidance in a publication format soon, interim guidance, that might further help clinicians navigate this as as we continue to learn more. 
 
-### From an [HHS meeting](https://www.hhs.gov/live/live-1/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter#8443)
+## From an [HHS meeting](https://www.hhs.gov/live/live-1/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter#8443)
 
 [00:11:44] STEVEN WASSILAK, CDC: So here’s the issue. We have a problem with focus by countries, on making polio a priority for some of these outbreaks. What we are doing is trying to improve local areas with the most difficult problems, with all the partners. And we have to address insecurity and it’s been a chronic problem. 
 Surprisingly, Afghanistan has been doing better, except in the north, with the default government in charge than it was because they were previously preventing campaigns in many areas. But there’s also a funding problem. 
@@ -406,23 +406,23 @@ STEVEN ADAMS, ASPR [00:22:32] There were also a number of, frankly, bureaucratic
  
 STEVEN ADAMS, ASPR [00:24:11] I think it’s an open question as to how we look at vaccine availability if monkeypox becomes endemic. And I know there’s been a lot of discussion around a potential future commercialization of vaccine access, but I believe those are really open questions at this point.
 
-### From an [AHCJ event](https://healthjournalism.org/calendar-details.php?EventSubType=3&EventType=1&Topic=calendar&id=2543&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [AHCJ event](https://healthjournalism.org/calendar-details.php?EventSubType=3&EventType=1&Topic=calendar&id=2543&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:22:02] Q: Since supply constraints have been largely resolved, why isn’t the administration’s vaccine strategy at full PrEP eligibility right now? Why leave it up to jurisdictions?
 [00:22:11] DEMETRE DASKALAKIS, WHITE HOUSE: Yeah, all those discussions are happening now, so watch this space.
 
-## 09/21/2022
+# 09/21/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-21-2022-1371559)
 
-### From an FDA spokesperson
+## From an FDA spokesperson
 
 The safety of the American public is our top priority. The FDA continues to work to ensure that authorized batches of the updated Moderna COVID-19 Vaccine, Bivalent booster meet our expectations for safety, effectiveness and manufacturing quality.
 As part of our regulatory oversight work, the agency recently conducted an inspection at a Catalent manufacturing facility that was contracted by Moderna to produce batches of its updated COVID-19 vaccine booster. Because this inspection was still ongoing when FDA authorized the updated Moderna booster, FDA did not include this facility as an authorized manufacturing facility for the updated COVID-19 vaccine booster at that time.
 On Tuesday, FDA authorized distribution of numerous batches of the updated Moderna COVID-19 Vaccine, Bivalent booster manufactured at Catalent’s facility. This authorization was based on FDA’s determination that the batches met all applicable specifications, following a careful review of information provided by Moderna about the manufacture of these batches. The agency has no concerns with the safety, effectiveness, or quality of these batches. Batches from this facility were not released prior to this review and batches initially available were produced at another facility.
 Michael Felberbaum
 
-### From a Facebook Live event
+## From a Facebook Live event
 
 [00:33:22] PETER MARKS, FDA: I think we just don’t know for sure whether this is going to be an annual vaccine yet. We have a sense that it probably will be, because COVID-19, which is caused by SARS-CoV-2, is not going away. SARS-CoV-2 continues to evolve. It’s become much like influenza in that regard, only it’s evolving even faster than influenza often is thought to. But I think we will only know that answer after this kind of transitional year we’re in, because we we don’t know if the vaccine–
 If the vaccine can be given once a year and protect us for the year, probably we will probably have an annual vaccine. And that composition of that vaccine may be updated annually, much like we do for the flu vaccine. On the other hand, if we find that during this year things change, we have to have an extra booster for some reason, which we’re really hoping we don’t, we may have to reevaluate things.
@@ -433,7 +433,7 @@ The hope, though, the hope, and you’ve probably heard this from other sources,
 [00:49:16] SARAH MEYER, CDC: So actually, this Thursday will be the first kind of reports of our vaccine booster coverage. So you’ll be able to see those online at our website on COVID Data Tracker.
 So currently, we don’t have those uptake numbers available, but those will be available this Thursday. It does take a little bit of time, you know, to get everything reported and all the numbers analyzed and things like that.
 
-### From a Harvard Law School event
+## From a Harvard Law School event
 
 [00:49:47] MARK RAZA, FDA: Again, this morning, somebody sent me a tweet from the commissioner, I think it was legit, and said, ‘hey, they didn’t run this by us,’ but it was– he retweeted a picture of the secretary receiving his booster and the commissioner, I guess trying to be pithy or whatever, he said if I had, you know, if I had guns like that or if I had biceps like that, I’d give up all my bowties or something (laughs).
 
@@ -442,23 +442,23 @@ So currently, we don’t have those uptake numbers available, but those will be 
 [00:33:09] MARK RAZA, FDA: So I’ve been told I’m a, you know, I’m a dinosaur. So I’m admittedly old school. But, you know, we’re currently in litigation in the Southern District of Texas where that– where the allegation is that FDA impermissibly interfered with the practice of medicine. And that’s one of the one of the exhibits that’s cited. And that, FDA doesn’t have the ability to to speak, which we are vehemently opposing any kind of limitation in that in that way. But it is– it is a real issue going forward.
 And what’s– the commissioner was here in 2016, my office and I, we opposed him tweeting. And he’s still kind of bitter about that. He then left, Scott Gottlieb came in, and just tweeted all of– he didn’t even ask us. And I think it was very effective in how he kind of managed that.
 
-### From a Pfizer spokesperson
+## From a Pfizer spokesperson
 
 To date, Pfizer has shipped more than 21 million doses of the BA4/5 adapted vaccine to the US to over 30,000 unique locations across all states and jurisdictions and plans to provide up to 100 million by the end of November.
 Pfizer initiated manufacturing of the bivalent vaccine earlier this year and had hundreds of millions of doses manufactured at risk across the network, prior to the EUA, in-part thanks to the upscaling of our manufacturing capabilities since the start of the pandemic.
 Pfizer’s Kalamazoo, MI site alone is currently manufacturing 10-15 million doses per week with capacity to increase this considerably. Pfizer will continue to use the Pleasant Prairie Wisconsin site for ultra-low temperature storage and as a distribution center for the Pfizer/BioNTech COVID-19 vaccine.
 
-### From an HHS spokesperson
+## From an HHS spokesperson
 
 To date, we have shipped more than 26 million doses of the updated COVID-19 vaccine to tens of thousands of locations nationwide. In fact, over 90% of Americans have at least one site with these new vaccines within 5 miles of where they live.
 Following FDA’s authorization of the distribution of numerous batches manufactured at Catalent’s facility, we are making millions of additional doses of Moderna’s updated COVID-19 vaccine available for ordering to states, jurisdictions, and pharmacies. We anticipate that Moderna supply will continue to increase in the coming days and weeks. Pfizer’s updated COVID-19 vaccine is already widely available across the country.
 Those who have received their primary series vaccination and are eligible to receive an updated vaccine may receive Moderna or Pfizer, regardless of which primary vaccine they received.
 
-### From a Moderna spokesperson
+## From a Moderna spokesperson
 
 We are working closely with U.S. Government to deliver significant amounts of updated, bivalent booster doses as we continue to see high demand in certain areas of the country. We anticipate that these availability constraints will be resolved in the coming days. We continue to be on track to meet our committed delivery of 70 million doses of our updated, bivalent vaccine by the end of this year.
 
-### From a "Rural Health Matters" episode
+## From a "Rural Health Matters" episode
 
 [00:39:26] ANTHONY FAUCI, NIAID: Now, with regard to flu, we are expecting a pretty severe flu season because our counterparts in Australia, which is we usually get what they get when we get to our winter, they’ve had a pretty bad flu season. So I would not delay your flu shot.
 When the flu shot becomes available to you in your community, I would get the high dose flu shot for elderly people. Don’t get offended by the word elderly. I’m going to get the high dose flu shot when it becomes available.
@@ -470,11 +470,11 @@ So get your flu shot first and wait three months from the time you’ve gotten i
 So what I want to do is utilize the benefit of my decades of experience to inspire younger people, young scientists, and would-be scientists to consider a career in public service one, and hopefully in public health in the arena of medicine and science. That’s conceptually what I want to do.
 What I want to do in that first day is probably sleep late for the first time that I have in the last many years.
 
-## 09/19/2022 and 09/20/2022
+# 09/19/2022 and 09/20/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-19-2022-and-09-20-2022-1368577)
 
-### From a [CDC webinar](https://www.cdc.gov/locs/calls/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC webinar](https://www.cdc.gov/locs/calls/index.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:32:23] CARLY ADAMS, CDC: And this here to show you a screenshot of the new DCIPHER data dashboard. And each dot here represents a site that has reported data in the past 15 days. This is where NWSS partners can go to view the data. This dashboard is not public facing, but there’s also a public facing dashboard called the COVID Data Tracker, which includes all of the same metrics except for the variants, the variant specific metrics.
 Partners can look at several different metrics on the dashboard, including percentiles, which are site specific and show their relative levels of virus presence in a community. Percent change, which is shown on the map here, and this is a magnitude and direction of virus levels in a community. Detection proportion, which shows how frequently the virus is detected in a community. For now, this metric isn’t super helpful because almost all the samples are positive. But hopefully this metric will have some more utility in the future.
@@ -492,7 +492,7 @@ So far, there’s no indication that the CDC NVO test is impacted by any mutatio
 But because we, as well, have observed these deletions in the monkeypox that has knocked out some of the monkeypox specific LDTs, we are encouraging developers to use multiple targets. We have been doing that encouragement for COVID for a long time. We think it makes sense.
 But there’s not a recommendation for– that two targets be be used in assay development. It’s just an encouragement, at this point.
 
-### From an [NFID webinar](https://twitter.com/NFIDvaccines/status/1571877029544427520?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [NFID webinar](https://twitter.com/NFIDvaccines/status/1571877029544427520?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:14:36] PETER MARKS, FDA: One question that I’ll answer right now, that may come up is, when are we going to have these vaccines for younger children? And I think we can say that, for the age range of five and up, that’s a couple of weeks away. And for the youngest children, it’s probably later this fall to early winter as the data come in and we can review it.
 
@@ -500,7 +500,7 @@ But there’s not a recommendation for– that two targets be be used in assay d
  
 [00:47:41] PETER MARKS, FDA: Very much so. So I think there is the idea– they were not ready for this year, but I would not be shocked if, by next year, we see vaccines– can’t promise, obviously– but I would not be shocked if we see vaccines that are able to cover both influenza and SARS-CoV-2.
 
-### From a [CSIS webinar](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=6nFNDkNoaOI)
+## From a [CSIS webinar](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=6nFNDkNoaOI)
 
 01:08:25 PM ANTHONY FAUCI, NIAID: Having said that, in one breath, we still must be aware of how unusual this virus is, and continues to be, in its ability to evolve into new variants which defy the standard public health mechanisms of addressing an outbreak, where you would expect if that once a certain number of people get infected, and or get vaccinated, then you could essentially bring an end to the pandemic component of the outbreak. And we’ve experienced at least five, and Steve there will be more, variants. How we respond and how we’re prepared for the evolution of these variants is going to depend on us.
 And that gets to the other conflicting aspect of this, is the lack of a uniform acceptance of the interventions that are available to us in this country, where even now, more than two years, close to three years into the outbreak, we have only 67% of our population vaccinated and only one half of those have received a single boost.
@@ -510,14 +510,14 @@ Now, for sure, the intensity of the outbreak now, even though it is, I believe, 
  
 01:12:24 PM ANTHONY FAUCI, NIAID: We’re heading in that direction, but we must be aware that it is likely, Steve, that with the combination of the evolution of variants, as well as the seasonal aspects, that as we get into this coming late fall and winter, it is likely that we will see another variant emerge, and there’s already on the horizon one that looks suspicious that it might start to evolve as another variant, and that’s the BA.2.75.2.
 
-### From an [NIH event](https://twitter.com/NIHWALS/status/1570442147165249537?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [NIH event](https://twitter.com/NIHWALS/status/1570442147165249537?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:51:40] Q: So the next question here is what do you foresee as the biggest challenge in the next year of COVID?
 [00:51:49] ANTHONY FAUCI, NIAID: I think the biggest challenge is how– and it’s a combination of a societal challenge and a– and a scientific challenge. The question is going to be– and that has a lot to do with I think one of your first questions– is how do we get the protection of the community such that the level of virus in the community is low enough that it does not disrupt the social order?
 Because we really can’t go on for a long time, the way we’ve gone on, we’re almost three full years into an entirely disruptive pandemic. If we had a vaccine that was a highly effective, which we do, good news, bad news. It doesn’t protect for a durable period of time.
 The other challenge is the fact that unlike the viruses that we’ve conquered – polio, smallpox, measles – the ability of this virus to form variants that elude protection of vaccines more so against infection than against severe disease is in many respects unprecedented.
 
-### From a [Boston Globe event](https://globesummit2022.splashthat.com/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Boston Globe event](https://globesummit2022.splashthat.com/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:28:47] Q: Now let’s look way ahead. I’m wondering if you see an end in sight to this pandemic, and what an end might look like?
 [00:28:57] ASHISH JHA, WHITE HOUSE: Yeah, every pandemic comes to an end. This pandemic will come to an end. There is rarely one moment or one date where you mark– you can mark beginnings of pandemics, when WHO declares it. And there’ll be a day when WHO declares the end of the pandemic, but in many ways the pandemic will have faded further into the background before then.
@@ -525,7 +525,7 @@ The way I look at it is over time, the goal, if we continue to do our work right
 One of the things we have not talked about as a long term strategy, which I think is extraordinarily important, is something we’re leaning very heavily into in the administration, is how we make indoor air space– indoor spaces safer. Right? We know outdoor spaces are relatively safe. Indoor spaces can become much safer.
 And so I think as a nation, we need to make significant investments in improving indoor air quality, ventilation, filtration. It will have a great benefit for COVID, for flu, RSV, and better indoor air quality improves cognition. We’ve just got to make sure that, given that most people spend most of their time indoors, (inaudible) technology, that’s another part of that long term strategy for getting out of this pandemic.
 
-### From a [SiriusXM interview](https://mobile.twitter.com/ZerlinaMornings/status/1572228738724823041?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [SiriusXM interview](https://mobile.twitter.com/ZerlinaMornings/status/1572228738724823041?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:02:33] ASHISH JHA, WHITE HOUSE: So the comment that I made about, you know, ‘that’s why God gave us two arms’ was an off the cuff, somewhat lighthearted. The truth is, actually, it doesn’t really matter where you get it. Your immune system can handle it. 
 So I got two shots last week, I got it on Friday, and I got them both in my right arm. And my right arm was a little sore. Played basketball with my son on Saturday. He beat me. I blame it on my sore arm. He’s actually beat me before when I haven’t had the sore arm, so I don’t know that I can use that as an excuse, but– but the point is, your immune system is remarkable in its ability to manage one, two, three shots at the same time in the same arm, different arms. It’s all– it can do it just fine. So it’s not a problem.
@@ -540,7 +540,7 @@ Priority number two is we’ve got to figure out how to get infections lower. An
  
 [00:15:09] ASHISH JHA, WHITE HOUSE: What about preventing infection? We have had a very big program around getting tests out to people, because one of the ways I try to prevent giving other people infections – I have not been, thankfully, have not gotten infected yet – but every time I see my elderly parents, I take a test first. Why? Because I don’t want to bring COVID to them, right? So testing is a really important part. 
 
-### From a [TED Talks event](https://twitter.com/TEDTalks/status/1571863452527861761?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [TED Talks event](https://twitter.com/TEDTalks/status/1571863452527861761?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:02:16] Q: So my first question is very simple. Is the COVID-19 pandemic over?
 [00:02:23] ANTHONY FAUCI, NIAID: You know, David, there’s a lot of misinterpretation about what the meaning of the word ‘over’ is. It means different things to different people. I’m sure you’re referring to the comment made by the president a day or two ago. 
@@ -563,11 +563,11 @@ So, again, you might interpret that– well, if that’s the case, is it over? W
 Let me give you an example for clarity for the audience. I was infected in the end of June of this year, even though I had been vaccinated. Fortunately, because I was vaccinated, I had a relatively mild illness at my age. Had I not been vaccinated, the chances are I could have had a real severe outcome, because elderly are more prone to get severity of disease. 
 So if you take the end of June, take the end of July, the end of August, the end of September, I plan to get my updated BA.4/5 bivalent at the end of September, the first week in October.
 
-## 09/16/2022
+# 09/16/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-16-2022-1363816)
 
-### From an [interview with Siga Technologies](https://www.cbsnews.com/news/fda-monkeypox-could-mutate-if-antiviral-drug-tpoxx-is-overused/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [interview with Siga Technologies](https://www.cbsnews.com/news/fda-monkeypox-could-mutate-if-antiviral-drug-tpoxx-is-overused/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [03;12] DR. DENNIS HRUBY, SIGA: So I I think that the statement that there’s a low barrier to resistance might be overstated.
 Poxviruses are DNA viruses. They have the ability to edit their DNA, as they’re replicating, and correct mistakes.
@@ -579,7 +579,7 @@ There’s also the data. We know you can in fact generate resistance to TPOXX. B
 And likewise, in all of our human experience, we’ve only seen one resistant virus and, again, it was a minority population. That patient was treated with drug for 82 days and ultimately cleared the virus.
 So we think at the– if the drug is used properly and taken for the prescribed length of time, the odds of resistance is relatively low.
 
-### From a Boston Globe event
+## From a Boston Globe event
 
 [00:10:20] ASHISH JHA, WHITE HOUSE: Yeah. So my kids are obviously back in school. They do not mask in school. None of the schools require it, I don’t think. And the kids are not largely masking.
 On for myself, I will say that when I am in a crowded indoor space, I will still often mask because in crowded indoor spaces, you know, it’s just your risk of getting COVID is relatively high and I’m not– and masking is not a big deal. So it’s very relatively easy to do and I do it.
@@ -596,26 +596,26 @@ Which is, for the average person, once a year COVID shot should provide them a h
 So I think about my elderly parents. For instance, they’re in their eighties. My dad just got his COVID vaccine a week and a half ago. You know, is it possible that he may need another shot in the spring? Yeah, absolutely.
 So high risk people, maybe more than once a year. We’ll see what the data shows. But I think for a vast majority of people, this is now an annual shot. And that’s how people should be thinking about it.
 
-### From a [Los Angeles County meeting](https://bos.lacounty.gov/media-archive?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Los Angeles County meeting](https://bos.lacounty.gov/media-archive?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [02:28:05] RITA SINGHAL, LOS ANGELES COUNTY: First, we have identified a healthcare worker with monkeypox who appears to have been exposed to the virus at their work site.
 This is the first case of monkeypox in a health care worker in the United States that has been linked to a worksite exposure.
 We have consulted with the CDC and, given that the risk of monkeypox for health care workers remains very low, we will continue to message on current infection prevention and control recommendations, and in particular, the use of appropriate PPE, pending additional guidance from CDC.
 
-### From an [FDA spokesperson](https://www.cbsnews.com/news/can-you-take-paxlovid-with-other-covid-19-treatments/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [FDA spokesperson](https://www.cbsnews.com/news/can-you-take-paxlovid-with-other-covid-19-treatments/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 Lagevrio is authorized for treatment of mild-to-moderate COVID-19 in adults with positive results of direct SARS-CoV-2 viral testing who are at high risk for progression to severe COVID-19, including hospitalization or death, and for whom alternative COVID-19 treatment options approved or authorized by FDA are not accessible or clinically appropriate. Therefore, if a patient is taking Paxlovid, an alternative COVID-19 treatment option authorized by the FDA, they would not be eligible for Lagevrio. 
 Chanapa Tantibanchachai
 
-### From [Heinz Feldmann](https://www.cbsnews.com/news/can-you-take-paxlovid-with-other-covid-19-treatments/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From [Heinz Feldmann](https://www.cbsnews.com/news/can-you-take-paxlovid-with-other-covid-19-treatments/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 The reason for the short duration is viral kinetics. We see best results for pathology (histopathology) on day 5 or 6 post SARS-CoV-2 infection in rhesus macaques. By that time, however, viral replication is already clearing. We went for peak virus replication (day 3 or 4) to better show the efficacy of the treatment with the downside of not being in the optimal time frame for histopathology. I hope this helps.
 
-## 09/15/2022
+# 09/15/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-15-2022-1359775)
 
-### From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=-0MTAQRfppQ)
+## From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=-0MTAQRfppQ)
 
 10:39:48 AM   BOB FENTON, WHITE HOUSE: Stepping back, we’re seeing the impact of this– of the administration’s comprehensive strategy to fight monkeypox in the latest case trends and other promising data points.
 Overall, new case numbers are down nearly 50% since early August. And in places like Atlanta, where we’ve worked closely with the public health community to surge vaccines, and information around events, like Black Pride, the rate of new cases has steadily declined. And in D.C., the new cases have declined 20% on average per week since a peak of July. 
@@ -649,12 +649,12 @@ The same people we need to test for HIV and sexually transmitted infections, and
 This important change in guidance to recipients of these funds allows our frontline health departments and community-based organizations to use their HIV and STD resources to accelerate us all to the end of the monkeypox outbreak, and will also help us do better HIV and STD prevention for the exact same population.
 This is just the latest example of us being responsive to what’s happening on the ground and pivoting our focus and our resources where they’re most needed.
 
-### From a CDC spokesperson
+## From a CDC spokesperson
 
 In response to the COVID-19 pandemic, CDC launched the National Wastewater Surveillance System (NWSS) in September 2020. CDC’s NWSS is currently monitoring for SARS-CoV-2 in 46 states, five cities, and two territories. NWSS is expanding to begin monitoring for monkeypox in wastewater at multiple sites throughout the United States in the next 4-6 weeks. NWSS is working to support the polio investigation in New York. Several wastewater specimens from jurisdictions located in Connecticut and New Jersey adjacent to New York tested negative for poliovirus.
 However, it’s important to note that poliovirus testing is not a formal part of the NWSS program at this time. Expansion to new diseases, such as poliovirus, can take time and resources to ensure reliable, actionable data. CDC has begun working with jurisdictions to strategically select additional sites in areas at greatest risk for polio to test wastewater for polio. The considerations for selection of areas include local vaccination coverage, the extent of travel to and from countries where poliovirus is still circulating, and NWSS presence. Once the program is established, CDC will continue to evaluate the results and determine any potential need for expanding to additional jurisdictions or other actions. Wastewater data can be an important early warning signal, and should be used alongside other data, such as geographical context and clinical cases. 
 
-### From an [NIH webinar](https://videocast.nih.gov/livew.asp?live=45929&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [NIH webinar](https://videocast.nih.gov/livew.asp?live=45929&utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:40:58] Q: So what are the major challenges anticipated for next generation COVID 19 mucosal vaccines?
 [00:41:05] ANTHONY FAUCI, NIAID: Well, there there are a couple of challenges. The first is, you know, we don’t have very good mucosal vaccines for respiratory viruses. I mean, we do have the FluMist for flu, which seems to be quite good. But what we have not worked out is the– the combination of getting good protection at the source of entry in the upper respiratory mucosa, at the same time as getting good systemic protection at the systemic level.
@@ -667,7 +667,7 @@ So it’s lack of a track record of good new mucosally administered vaccines. Th
 [00:36:29] ANTHONY FAUCI, NIAID: That’s what we refer to when we say a return to normalcy or endemicity, which is a difficult to describe situation. But it would be somewhat similar to other respiratory viruses that don’t disturb the social order. It doesn’t interfere with the economy or our social interactions. And that’s respiratory syncytial virus, the common cold, coronaviruses, influenza.
 What we’re looking for is control at a low enough level, again, that doesn’t disturb our social interactions. And to get there, we believe we have to have the availability of intermittent vaccination, like we referred to just recently, about getting coronavirus vaccine at least on a yearly basis, as well as other things such as respiratory hygiene, attention to ventilation, and indoors masking, where appropriate, and the availability of effective virus antivirals and monoclonal antibodies.
 
-### From a BV-BRC webinar
+## From a BV-BRC webinar
 
 [42;43] CRYSTAL GIGANTE: We also saw increased mutations in the 2022 monkeypox viruses, which were– many of which were GA to AA mutations, which is indicative of APOBEC3 activity, which is shown here in this graphic for the different lineages of monkeypox virus with clade I and clade IIa, which do not include the current outbreak. 
 Most of the mutations shown here, with a horizontal line representing monkeypox genome, and each bar representing a mutation, either APOBEC-like mutations in blue and cyan or non APOBEC in red or gray. 
@@ -688,7 +688,7 @@ Analysis are expected to continue as more sequences are reported.
 [00:02:11] MICHAEL WEIGAND, CDC: So although the CDC response to the current outbreak started sometime in May, it wasn’t until recently in July that we really stood up a unit focused on bioinformatic development specifically. And our our goal can be summarized here, that we’re trying to develop an automated and high throughput pipeline for sequence analysis and, importantly, public database submission.
 I think you can trace this really to just the shift in scale of our genomic surveillance. So our poxvirus and rabies branch previously was probably sequencing on the order of 10 to 20 genomes a year. And now, we’re at a scale of something like 100 genomes a week.
 
-### From a [WSJ webinar](https://www.wsj.com/video/events/moderna-ceo-on-covid-19-boosters-personalized-cancer-vaccines/396CE717-4CA0-4A1F-A18B-A3DB8B970071.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [WSJ webinar](https://www.wsj.com/video/events/moderna-ceo-on-covid-19-boosters-personalized-cancer-vaccines/396CE717-4CA0-4A1F-A18B-A3DB8B970071.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [00:06:24]
 STÉPHANE BANCEL, MODERNA: What happened with Omicron, as you know well, is the protection against transmission went down a lot. Around two months of protection after booster, because we had such a massive genetic drift from Omicron, from one to Omicron. And so we think that as we are teaching your immune system all those new tricks, that part of the Omicron mutation, that we should regain the duration of protection for transmission. But we believe level of protection, hospitalization and death, is going to remain extremely high.
@@ -711,11 +711,11 @@ Q: So it’s a long term prospect, not nothing near term?
 [00:22:46]
 STÉPHANE BANCEL, MODERNA: I mean, we’re talking about this for, but not for these for, but you know with Moderna, things– go pretty fast. If you see what we’ve done with COVID, what we’ve done with flu and RSV, we went in the year from phase one start to phase three start, not only for COVID, that the world knows about, but flu and RSV we did the same. We did one year.
 
-## 09/14/2022
+# 09/14/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-14-2022-1361267)
 
-### From a [Senate hearing](https://www.help.senate.gov/hearings/stopping-the-spread-of-monkeypox-examining-the-federal-response?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Senate hearing](https://www.help.senate.gov/hearings/stopping-the-spread-of-monkeypox-examining-the-federal-response?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 10:49 AM   DAWN O'CONNELL, ASPR: I’ve been pleased to make both of these medical countermeasures available for the current monkeypox outbreak. It is the right thing to do. But I have not lost sight of the fact that both Jynneos and Tpoxx were developed and stockpiled for use in a smallpox outbreak. 
 I have consulted with the PHEMCE, the interagency body responsible for advising HHS on medical countermeasures, development, and procurement, and they have agreed with the approach we have taken. 
@@ -753,11 +753,11 @@ But I think the balance here is the risk of a vaccine, which is not up to par, w
 And also just add, Europe doesn’t have a central inspections team for our vaccine facilities. Each country does its own, and we have had some discordance, historically, between findings in some of those facilities and what we found in our inspections. 
 So we really felt we had to get this right, even if it took a bit more time.
 
-## 09/13/2022
+# 09/13/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-13-2022-1359487)
 
-### From a [Morgan Stanley conference](https://www.accesswire.com/714793/Moderna-to-Present-at-the-Morgan-Stanley-20th-Annual-Global-Healthcare-Conference?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Morgan Stanley conference](https://www.accesswire.com/714793/Moderna-to-Present-at-the-Morgan-Stanley-20th-Annual-Global-Healthcare-Conference?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [23;01] STEPHEN HOGE, MODERNA: So clearly, that’s a demonstration of benefit, and it was able to be launched and rolled out and the approval, as we all know, happened just a couple weeks ago. The authorizations in the U.S., and now it’s rolling out globally.
 So that becomes the model, then the question really becomes, why are you picking your flu strains in January and February? It’s the same fundamental challenge, which is mismatch years, or drift, and you make a different decision, everybody admits at least one year in five.
@@ -765,7 +765,7 @@ In the June timeline, there’s no reason why you have to be picking in February
 And so, you know, from our perspective, there’s the very near term of how do we do the– how do we do the updates seasonally?
 But actually, the flu one is the one that we think should be accelerated. it, you really should happen later in the season for better match. And the COVID one, there’s really no reason to go back to a world where we’re– we’re doing this so early in the season that it is not well matched.
 
-### From an [AMA webinar](https://web.cvent.com/event/958c1f54-fbb9-486d-8a14-badfb2364410/summary?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [AMA webinar](https://web.cvent.com/event/958c1f54-fbb9-486d-8a14-badfb2364410/summary?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [16;15] ADAM SHERWAT, FDA: Data from randomized controlled trials are critically needed to address knowledge gaps related to efficacy, safety pharmacokinetics in humans with monkeypox, and to monitor for development of resistance to tecovirimat. All are essential in guiding clinical and regulatory decision making. 
 Therefore, healthcare providers should encourage their patients with monkeypox infection to be evaluated for enrollment in NIAID’s randomized controlled trial. 
@@ -784,27 +784,27 @@ As previously noted, at present, we have no data from randomized controlled tria
 Data from randomized control trials are critically needed to address knowledge gaps related to efficacy, safety, pharmacokinetics, and to systematically monitor for the development of resistance to tecovirimat. All of which are essential in guiding clinical and regulatory decision making. 
 Therefore, health care providers should encourage their patients with monkeypox infection to be evaluated for enrollment in the randomized controlled trial.
 
-### From a CDC spokesperson
+## From a CDC spokesperson
 
 CDC is aware of a reported death of an individual who had severe illnesses and presumed positive for monkeypox in Los Angeles County, California. Our thoughts are with the family during this heartbreaking time.  
 It is important to remember that infections with the type of monkeypox virus identified in this outbreak—the Clade IIb —are rarely fatal. Most people who get this form of the disease are likely to survive. However, people with weakened immune systems may be more likely to get seriously ill or die. CDC continues to closely monitor the monkeypox outbreak and we are actively working with California officials to investigate this situation.
 To date, more than 21,000 people in the United States have contracted monkeypox. Data suggest that gay, bisexual, and other men who have sex with men make up the majority of cases in the current monkeypox outbreak. However, anyone, regardless of sexual orientation or gender identity, who has been in close, personal contact with someone who has monkeypox is at risk. 
 Following the recommended prevention steps or getting vaccinated if you were exposed to monkeypox or are at higher risk of being exposed to monkeypox can help protect you and your community.  Additionally, it is important to promptly seek medical care.   
 
-### From a Harris COunty spokesperson
+## From a Harris COunty spokesperson
 
 Thank you for your request. To date, we have not received any updates on this case since the results are still pending.
 
-## 09/12/2022
+# 09/12/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-12-2022-1350471)
 
-### From Kimberley Benschop
+## From Kimberley Benschop
 
 Our report on the EV-D68 upsurge in Europe in 2021 was to alert clinicians and neurologists to be vigilant. We have currently gathered additional information on the 2021 EV-D68 outbreak seen in Europe and we have indeed received several reports of EV-D68 associated AFM. However, as seen in previous EV-D68 peak years, where several EV-D68 associated AFM cases have been reported as well, we have not seen a major upsurge of these AFM cases in 2021.
 Following the report of the upsurge of EV-D68 infections and the following upsurge of AFM cases in the USA this year, we have again alerted our clinicians and neurologists to be vigilant. 
 
-### From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-covid-19-clinician-call-bivalent-covid-19-boosters-what-you-need-to-know-plus-update-on-monkeypox/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [IDSA webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-covid-19-clinician-call-bivalent-covid-19-boosters-what-you-need-to-know-plus-update-on-monkeypox/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 SAPNA BAMRAH MORRIS, CDC [00:11:52] So most patients with intact immune systems really need supportive care and pain control, but often do not need to be stepped up to antiviral treatment.
 We do need to kind of think about antimicrobial stewardship, and we do know that there’s a point mutation that could lead to resistance to tecovirimat or TPOXX, which is our primary antiviral being used. So we really do want to consider the need for antiviral therapy.
@@ -823,7 +823,7 @@ PETER MARKS, FDA [01:05:11] So I think I think we’re several weeks off from th
 I do want to at least set expectations that for the youngest children, the six month to four or five year olds, that may be late fall, early winter before we have those data, because remember, that– that all was somewhat later on. And in some cases, we’re dealing with a three dose primary series that is then being followed up with booster.
 So it’s a little bit more complicated there, but we will move as quickly as we can.
 
-### From an ["In the Bubble" podcast](https://omny.fm/shows/in-the-bubble/your-guide-to-the-new-covid-vaccines-with-ashish-j?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an ["In the Bubble" podcast](https://omny.fm/shows/in-the-bubble/your-guide-to-the-new-covid-vaccines-with-ashish-j?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 ASHISH JHA, WHITE HOUSE [00:08:23] So if you’re a super high risk person, you may want to wait a little less time because, you know, during that time period, once you get beyond 60 days from your prior infection, for instance, your risk of reinfection starts climbing. And so the risk benefit changes. So I think if you’re a higher risk person, I’d go a little earlier.
 And then, in general, I think it’s really important for people to get it by Halloween. Why Halloween? Because three weeks after Halloween is Thanksgiving, and there’s a lot of travel, and you’re seeing family, and you’re seeing friends, and a few weeks later, it’s you know, it’s the holidays and you’re– and the idea here is– and one of the reasons we’ve been really thinking about this as a once a year shot for a vast majority of people, is that here we are, brand new vaccine.
@@ -841,21 +841,21 @@ The other part is we need to build the capability to do those things, to build, 
 And our failure to invest in those things, Andy, I think, leaves us vulnerable, not just for COVID, but it leaves us vulnerable for future pandemics.
 So this is a really, really important thing for Congress to do.
 
-### From an [NIAID meeting](https://www.niaid.nih.gov/about/niaid-council-agenda?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [NIAID meeting](https://www.niaid.nih.gov/about/niaid-council-agenda?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 DR. ANTHONY FAUCI, NIAID [20;14] On the ninth of September, there was a clinical trial of TPOXX in the United States as outpatient treatment for people with monkeypox. 
 And what’s pending now, and will soon start this month, is a TPOXX or tecovirimat study in patients with monkeypox in the Democratic Republic of the Congo, a study led by Dr. Cliff Lane.
 
-### From a CDC spokesperson
+## From a CDC spokesperson
 
 Thanks for reaching out. As of Sept. 2, 2022, there have been 13 confirmed cases in 2022 out of 33 reports of patients under investigation (PUIs). CDC has a webpage with information on AFM cases counts: AFM Cases and Outbreaks | CDC, which is typically updated at the beginning of the month. As the number of reports of patients under investigation for AFM (or suspected cases) from health departments increases, we will update the webpage more often, as needed. Starting this Friday, it will be updated on a weekly basis - so we expect to have updated AFM case counts to share on Sept. 16.
 CDC’s process for classifying suspect cases of AFM, according to the Council of State and Territorial Epidemiologist (CSTE) case definition, requires a thorough review of medical and radiologic information by AFM medical experts. Case classifications can take up to a month to complete because of the time it takes to collect and review all information. This is why it might take longer for the number of confirmed cases to change. However, clinical diagnosis, management, and treatment of the patient should not rely on the case classification process, which is done for disease tracking purposes.
 
-## 09/09/2022
+# 09/09/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-09-2022-1350291)
 
-### From a [Moderna event](https://investors.modernatx.com/events-and-presentations/events/event-details/2022/Annual-RD-Day-2022/default.aspx?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Moderna event](https://investors.modernatx.com/events-and-presentations/events/event-details/2022/Annual-RD-Day-2022/default.aspx?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [2;26;29] ARPA GARAY, MODERNA: So I can take the first one.
 In terms of the 70 million doses, in conversations with the U.S. government, they expect to consume them with within about five months. So probably bleeding a little bit into early next year. But they will be primarily just focused at this winter season, at which point they will stop engaging in procurement, and move to the commercial market.
@@ -873,7 +873,7 @@ So what I mean by that is: typically, and this is what we’re hearing from many
 So this is going to turn into more of a seasonal type of pattern, where we’re going to see most of the purchases, the contracts signed early in the year. And all of the actual vaccinations and deliveries and doses shipped later in the year.
 Again, it’s very similar to the flu dynamics.
 
-### From a [CDC webinar](https://emergency.cdc.gov/coca/calls/2022/callinfo_090822.asp?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC webinar](https://emergency.cdc.gov/coca/calls/2022/callinfo_090822.asp?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [50;01] LISA GROHSKOPF, CDC: In general, it’s recommended that giving– when you’re giving to injectable vaccines at the same time, they be given in different sites. That doesn’t necessarily mean they have to be in different arms. They could be basically an inch or more apart, which is often possible to do in one arm. They could be in different arms, if that’s preferred.
 There is also a recommendation to consider, it’s not a necessity– if you’re giving an influenza vaccine, that might be more likely to be associated with a local reaction, for example, arm soreness, you know, whatever might happen at the injection site, with a COVID-19 vaccine, you can consider giving them in separate arms if possible.
@@ -887,7 +887,7 @@ And I’ll add only that our COVID-19 vaccine coadministration recommendations n
 But of course, as she said, patient preference is always important to consider. And there’s there’s no reason that you could not administer two different vaccines in two different arms just because influenza vaccine was not adjuvanted or high dose.
 We completely support physician and patient autonomy.
 
-### From an [FDA webinar](https://www.fda.gov/science-research/fda-grand-rounds/fda-grand-rounds-polio-vaccines-past-present-and-future-09082022?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [FDA webinar](https://www.fda.gov/science-research/fda-grand-rounds/fda-grand-rounds-polio-vaccines-past-present-and-future-09082022?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [05;49] Q: For our next question. Do you see a similar vaccination schedule to the current OPV and IPV schedule? Or will it require a different one?
 KONSTANTIN CHUMAKOV, FDA: OPV? I mean, in this country, as well as in most developed countries, right now, we have only IPV schedule. And I think it probably will remain, until a novel OPV will become available. And at that time, there will be a determination made whether it will be worth adding it to the immunization schedule. It will probably depend on how this whole thing unfolds. 
@@ -913,7 +913,7 @@ So, of course, it would be nice to not to have virus in circulation.
 So, for this, there is a clear solution. I mean, you immunize everybody with IPV and then follow it by OPV. That actually gives you protection all, both on the individual level and on the kind of community level. 
 But that, of course, requires additional efforts. And I’m not sure that this will be accepted as a common practice, but potentially this could be a solution.
 
-### From a [radio show](https://www.chcradio.com/episode/Demetre-Daskalakis/639?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [radio show](https://www.chcradio.com/episode/Demetre-Daskalakis/639?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [03;14] DEMETRE DASKALAKIS, WHITE HOUSE: We continue to evaluate the investigational drug TPOXX or tecovirimat. The exciting news, that is in a few days, the NIH sponsored studies will launch of tecovirimat while we continue to work on the expanded access.
 One of the sort of big news flashes is it used to take several hours to complete the IND paperwork for TPOXX, from the perspective of access. Now it’s down to about 15 to 30 minutes per patient. So really exciting. 
@@ -924,16 +924,16 @@ One of the sort of big news flashes is it used to take several hours to complete
 And so I think that the very first step in the equity interventions is not one that is one of the pilots, but it’s actually making sure we have enough vaccine to be able to really work hard to get it everywhere, in the arms that needs to get.
 So bringing it closer to people, as opposed to having people try to find a vaccine. So that’s all very exciting.
 
-## 09/07/2022 and 09/08/2022
+# 09/07/2022 and 09/08/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-07-2022-and-09-08-2022-1347220)
 
-### From a CVS spokesperson
+## From a CVS spokesperson
 
 The way we bill for COVID-19 vaccinations has not changed with the availability of the bivalent COVID-19 boosters.
 We connected with the pharmacy team to discuss the patient’s experience and have reminded them about our billing practices.
 
-### From a [CDC ACIP meeting](https://www.cdc.gov/vaccines/acip/meetings/slides-2022-09-01-02.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [CDC ACIP meeting](https://www.cdc.gov/vaccines/acip/meetings/slides-2022-09-01-02.html?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [3:23 PM] SARA OLIVER, CDC: It is important, however, to acknowledge what we don’t know.
 Right now we don’t know the rates of myocarditis after bivalent COVID-19. vaccines. It’s unlikely that the inclusion of Omicron would increase myocarditis rates.
@@ -958,7 +958,7 @@ The other comment that I wanted to make is that, while I wholeheartedly embrace 
 I think it is important for people to understand that, while we will– we hope that we can go in that direction, and we’re all ready to change the way we’re dealing with this pandemic, I just think it’s important to recognize and to say that things might change, we don’t know what the future is going to hold, and while we would like to be more routine, it may be that we have to continue in this vein, depending on what happens with the virus and with the pandemic.
 I just don’t want people to totally get their hopes up, when I think we all recognize that we might not get there as quickly as we would like.
 
-### From an [NEJM podcast](https://www.nejm.org/doi/full/10.1056/NEJMe2209406?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From an [NEJM podcast](https://www.nejm.org/doi/full/10.1056/NEJMe2209406?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [19;06] PETER MARKS, FDA: That’s a great question because I get asked a fair amount about how does SARS-CoV-2 and influenza– how do they compare to one another?
 You know, influenza is something we’ve had a long history of. We have tracking systems around the globe. We have a vaccine that, in any given year is not really that perfect anyway, and we tend to get it more or less right by tracking the shift.
@@ -968,7 +968,7 @@ We’ve had enough change that we’re talking about potentially having to vacci
 So although there might be some similarities, there are also a fair number of differences. And I think it remains to be seen how similar they will be or will not be.
 And some of that, I think, will depend on where our vaccine technologies come over the coming year or two or three, in terms of being able to have better depth and breadth of protection that might last for a whole season or longer.
 
-### From a [Pfizer executive](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/Citis-17th-Annual-BioPharma-Conference/default.aspx?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [Pfizer executive](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2022/Citis-17th-Annual-BioPharma-Conference/default.aspx?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 [11:28 AM] MIKAEL DOLSTEN, PFIZER: We are on one hand thrilled for the BA.4/5 EUA approval in the United States. And I think, as we speak, you can start to get slots for vaccination at many vaccination centers in United States.
 And we are making great progress also in Europe, and other places, to get these new updated variant vaccine.
@@ -988,7 +988,7 @@ What do I mean by adjunct? It may be an opportunity to augment, particularly if 
 So this is something we’re intrigued and monitor to see if it could be an adjunct, but not a replacement substitution for the intramuscular. I think it would be just a top-off, in order to maybe remove or attenuate some of the upper airway symptoms, which could benefit from delivery of possibly mRNA based technologies into the nose.
 So something we are looking at, but right now, I think you should see them more as an add on, and I have no reason to believe that they would ever replace an intramuscular.
 
-### From [Los Angeles County](https://www.facebook.com/lapublichealth/videos/3364304073856643?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter) 
+## From [Los Angeles County](https://www.facebook.com/lapublichealth/videos/3364304073856643?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter) 
 
 [23;58] RITA SINGHAL, LOS ANGELES COUNTY: It is variable, we will be doing an autopsy. So it does take time for those results to come back. So it may be as soon as a few days, or it may take a few weeks.
 
@@ -1006,22 +1006,22 @@ This is one of two deaths in the United States that are currently under investig
  
 Public Health is currently investigating a death of a person with monkeypox in Los Angeles County. We are early in the investigation and do not have additional details available at this time. An autopsy is scheduled tomorrow and preliminary and final findings will inform the investigation. Public Health will share updates as appropriate while maintaining the confidentiality and privacy of individuals.
 
-### From a [California Department of Public Health spokesperson](https://www.cbsnews.com/news/monkeypox-second-person-in-the-u-s-dies-after-contracting-disease/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [California Department of Public Health spokesperson](https://www.cbsnews.com/news/monkeypox-second-person-in-the-u-s-dies-after-contracting-disease/?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 The California Department of Public Health is communicating with Los Angeles County Public Health about a potentially MPX-related death in Los Angeles. Additional questions about this case investigation should be directed to the Los Angeles County Public Health Department.
 While fatalities from MPX remain rare across the globe, this case investigation is a somber reminder that more progress is needed to curtail the outbreak of MPX. The risk of MPX to the public is currently low. While MPX can infect anyone, certain communities have been particularly impacted and face higher risks, especially persons self-identifying as men who have sex with men (MSM). Among all populations, people who may be at risk for more severe illness include those with a weakened immune system, children (particularly those younger than 8 years of age), those who are pregnant or breastfeeding, and those with a history of certain skin diseases like eczema. It is important to talk to your health care provider if you have symptoms of MPX and are experiencing pain or irritation due to the rash or sores. Information on appointments and eligibility criteria for MPX vaccination are available through My Turn - California COVID-19 Vaccine Scheduling & Notifications.
 
-## 09/06/2022
+# 09/06/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-06-2022-1345844)
 
-### From a [HRSA newsletter](https://bphc.hrsa.gov/about-us/primary-health-care-digest-past-issues?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
+## From a [HRSA newsletter](https://bphc.hrsa.gov/about-us/primary-health-care-digest-past-issues?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter)
 
 As recently shared by CDC Director Dr. Rochelle Walensky, there is a strategic imperative to modernize CDC so that it consistently delivers public health information and guidance to Americans in real time – a mission recognized by the talented people who work there and by public health experts around the globe. Throughout her tenure as director, and over the last few months in particular, Dr. Walensky has evaluated CDC operations; she listened – to voices from within CDC, to its partners and other interested parties, and to external reviewers. In response, the director recently announced a series of changes that will prioritize public health action to help equitably protect and promote the health of the American people. To move the agency forward, Dr. Walensky is convening an implementation team that will lead these efforts, headed by former HHS Deputy Secretary Dr. Mary Wakefield.
 Dr. Walensky and Dr. Wakefield have asked BPHC Associate Administrator Jim Macrae to join this team for the next few months beginning Thursday, September 1. During Jim’s detail, BPHC Deputy Associate Administrator Tonya Bowers will serve as Acting Associate Administrator.
 We congratulate Jim on this opportunity to share his experience and expertise, and we look forward to welcoming him back upon his return.
 
-### From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=uMEcZbW1GF4%20)
+## From a [White House briefing](https://www.youtube.com/watch?utm_campaign=From%20Alexander%20Tin%20%28%40alexander_tin%29&utm_medium=email&utm_source=Revue%20newsletter&v=uMEcZbW1GF4%20)
 
 11:12:27 AM   ASHISH JHA, WHITE HOUSE: In addition to providing our perspective on the state of the pandemic, we are going to focus today on a major milestone– a major milestone we marked heading into the Labor Day weekend.
 The FDA authorized, and the CDC recommended, new updated COVID-19, vaccines for all Americans 12 and above. This makes us, the United States, the first nation with new vaccines that match the version of the Omicron variant that is currently dominant, dominant both here at the U.S> and around the world. 
@@ -1108,7 +1108,7 @@ So we are constantly making what I think are impossibly difficult decisions.
 But our commitment is to absolutely make sure that vaccines and treatments are widely available, easily accessible, and free. And that’s where we are and that is a set of decisions we’ve made.
 We think it is the the right set of decisions, but it certainly has not been easy ones.
 
-### From a CVS spokesperson
+## From a CVS spokesperson
 
 I’m looking into the specifics of this individual situation, but I can tell you that the updated booster is available at no cost to any eligible patient either through insurance or if uninsured.
 
@@ -1117,11 +1117,11 @@ I’m looking into the specifics of this individual situation, but I can tell yo
 The way we bill for COVID-19 vaccinations has not changed with the availability of the bivalent COVID-19 boosters.
 We connected with the pharmacy team to discuss the patient’s experience and have reminded them about our billing practices.
 
-## 09/01/2022 and 09/02/2022
+# 09/01/2022 and 09/02/2022
 
 Imported from [Revue](https://www.getrevue.co/profile/alexander_tin/issues/notes-for-09-01-2022-and-09-02-2022-1339419)
 
-### From an ACIP meeting
+## From an ACIP meeting
 
 10:23 AM MELINDA WHARTON, CDC: So with FDA’s regulatory action approving the updated bivalent booster yesterday, we have an opportunity to update and simplify our recommendations for vaccine use. 
 We hope this is the start of moving toward a more usual type of vaccine recommendations and process as well as a more normal cadence of ACIP meetings. 
@@ -1291,7 +1291,7 @@ And at the same time, I think that the vaccine will be will have similar safety,
 And, you know, I, personally, am in the age group where I’m at high risk. And I, I’m almost sure that I will receive it. And I will take it. 
 So I just feel that– that we really– that this was a bit premature. And I wish that we had seen that data. Having said that, I am comfortable that the vaccine will likely be safe like the others.
 
-### From spokespeople for pharmacy chains
+## From spokespeople for pharmacy chains
 
 As it has been throughout the pandemic, Walgreens goal is to ensure COVID-19 vaccines and boosters are accessible to the public as new options become available and as eligibility expands to help provide better protection against COVID-19. Following additional guidance from the CDC, Walgreens will offer COVID-19 Pfizer and Moderna updated boosters to eligible individuals at select Walgreens locations, with vaccination appointments highly encouraged. Individuals will be able to schedule appointments following CDC approval by visiting Walgreens.com/ScheduleVaccine, the Walgreens app or calling 1-800-Walgreens.
 
@@ -1304,11 +1304,11 @@ As announced by the FDA yesterday, the emergency use authorization (EUA) of the 
  
 As we have since the beginning of the pandemic, Walmart and Sam’s Club administers and dispenses all authorized vaccines and treatments related to COVID-19. Our pharmacists stand ready to administer bivalent boosters as supply allows. Visit our digital scheduler at http://www.walmart.com/CovidVaccine to make an appointment and find a location near you. Walk-in appointments are available as well. We have not stopped offering the primary vaccine series, which is administered as supply allows. We continue working with the CDC and other governmental agencies to help anyone seeking the primary vaccine series.
 
-### From a Novavax spokesperson
+## From a Novavax spokesperson
 
 Novavax is anticipating US emergency use authorization (EUA) following completion of FDA’s review of data for our prototype COVID-19 vaccine as a booster in adults age 18 and older, and we are working to quickly bring it to market for this use upon authorization. As we continue to explore best practices for managing COVID-19 long term, we are conducting ongoing trials further evaluating our vaccine’s effectiveness and safety as a booster and preclinical data has indicated that our vaccine induces immune response against Omicron variants, including BA.4/5. This will be vital moving forward as we don’t know what variant(s) will be next.
 
-### From a CDC lab alert
+## From a CDC lab alert
 
 Audience: Clinical Laboratories
 Level: Laboratory Alert

@@ -10,7 +10,7 @@ nav_order: 0
 
 Here are some articles I've worked on for 2023. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-## August 2023
+# August 2023
 
 - [New COVID vaccine and booster shots for this fall to be available by end of September](https://www.cbsnews.com/news/covid-vaccine-booster-xbb-variants-september-2023/)
 - [Loss of smell or taste was once a telltale sign of COVID. Not anymore.](https://www.cbsnews.com/news/covid-symptoms-loss-of-smell-taste-less-common-omicron-study/)
@@ -21,7 +21,7 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 - [Babies born in fall and winter should get RSV shots, CDC recommends](https://www.cbsnews.com/news/rsv-shots-for-newborns-cdc-panel-recommends/)
 - [Thousands of Tydemy birth control pills recalled, may be ineffective, FDA warns](https://www.cbsnews.com/news/birth-control-pills-recalled-tydemy-fda/)
 
-## July 2023
+# July 2023
 
 - [U.S. COVID hospitalizations climb for second straight week. Is it a summer surge?](https://www.cbsnews.com/news/covid-hospitalizations-rise-second-week-summer-surge/)
 - [First long COVID treatment clinical trials from NIH getting underway](https://www.cbsnews.com/news/first-long-covid-treatment-clinical-trial-nih/)
@@ -33,7 +33,7 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 - [Billions in NIH grants could be jeopardized by appointments snafu, Republicans say](https://www.cbsnews.com/news/hhs-national-institutes-of-health-appointments-house-republicans/)
 - [How many Americans still haven't caught COVID-19? CDC publishes final 2022 estimates](https://www.cbsnews.com/news/how-many-americans-havent-caught-covid-cdc-estimates/)
 
-## June 2023
+# June 2023
 
 - [Malaria confirmed in Florida mosquitoes after several human cases](https://www.cbsnews.com/news/malaria-florida-mosquitoes-human-cases/)
 - [Overdose deaths from fentanyl combined with xylazine surge in some states, CDC reports](https://www.cbsnews.com/news/fentanyl-xylazine-drug-overdose-deaths-cdc-report/)
@@ -44,7 +44,7 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 - [Last winter saw a "large spike" in very rare pediatric brain infections, CDC reports](https://www.cbsnews.com/news/large-spike-very-rare-pediatric-brain-infections-winter-cdc-reports/)
 - [Fewer babies born in U.S. in 2022, and teen birth rate hit record low, CDC reports](https://www.cbsnews.com/news/fewer-babies-born-2022-teen-birth-rate-cdc-report/)
 
-## May 2023
+# May 2023
 
 - [U.S., Mexico ask WHO for emergency declaration over deadly fungal outbreak](https://www.cbsnews.com/news/us-mexico-fungal-outbreak-meningitis-who-health-emergency-request/)
 - [COVID hospitalizations reach new record low nationwide, CDC says](https://www.cbsnews.com/news/covid-hospitalizations-record-low-nationwide-cdc/)
@@ -64,7 +64,7 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 - [COVID-19 fell to fourth leading cause of death for Americans in 2022, CDC reports](https://www.cbsnews.com/news/covid-19-fell-fourth-leading-cause-of-death-cdc/)
 - [FDA approves first RSV vaccine to protect older adults](https://www.cbsnews.com/news/fda-approves-first-rsv-vaccine-to-protect-older-adults/)
 
-## April 2023
+# April 2023
 
 - [Does the "Arcturus" COVID variant cause pink eye?](https://www.cbsnews.com/news/arcturus-covid-pink-eye-new-variant-symptoms-xbb116/)
 - [Uptick of very rare brain infections in kids prompts CDC investigation](https://www.cbsnews.com/news/cdc-investigates-potential-uptick-of-very-rare-brain-infections-in-kids/)
@@ -77,7 +77,7 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 - [Marburg virus outbreak: CDC issues alert as 2 countries in Africa battle spread of deadly disease](https://www.cbsnews.com/news/marburg-virus-cdc-alert-travelers/)
 - [FDA finds dirty equipment, dozens of other issues at eye drops factory linked to deadly outbreak](https://www.cbsnews.com/news/eye-drops-recall-factory-fda-inspection-global-pharma-healthcare/)
 
-## March 2023
+# March 2023
 
 - [U.S. at risk of mpox surge even worse than last year, CDC modelers warn](https://www.cbsnews.com/news/mpox-risk-us-surge-worse-2022-cdc-warns/)
 - [Biden administration warns of $35 billion shortfall for health emergency stockpile](https://www.cbsnews.com/news/biden-administration-warns-of-35-billion-shortfall-for-health-emergency-stockpile/)
@@ -93,7 +93,7 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 - [CDC says 20,000 people may have been exposed to measles at Asbury University religious revival](https://www.cbsnews.com/news/asbury-university-revival-potential-measles-exposure-20000-people/)
 - [CDC warns about drug-resistant stomach bug deemed "serious public health threat"](https://www.cbsnews.com/news/shigella-bacteria-cdc-warning-drug-resistant-stomach-bug-public-health-threat/)
 
-## February 2023
+# February 2023
 
 - [FDA expands recall of potentially contaminated eye products amid outbreak](https://www.cbsnews.com/news/fda-warning-delsam-pharmas-artificial-eye-ointment-ezricare-recall-bacteria-outbreak/)
 - [Overflowing demand for mental health care stretching hospitals, new data shows](https://www.cbsnews.com/news/mental-health-psychiatric-hospital-beds-shortage/)
@@ -108,7 +108,7 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 - [FDA faults company behind recalled eye drops for multiple violations, bans imports](https://www.cbsnews.com/news/recall-eye-drops-infection-fda-global-pharma-multiple-violations-import-ban-ezricare-delsam/)
 - [COVID-19 vaccines and treatments could go to private market this summer, White House official says](https://www.cbsnews.com/news/covid-vaccine-treatment-private-market-white-house-official-says/)
 
-## January 2023
+# January 2023
 
 - [FDA advisers vote to simplify COVID vaccines, retire original "monovalent" shots](https://www.cbsnews.com/news/covid-vaccine-fda-advisers-vote-to-simplify-retire-monovalent-shots/)
 - [Heart-related deaths rose sharply during first year of COVID-19 pandemic, report shows](https://www.cbsnews.com/news/heart-related-deaths-covid-19/)

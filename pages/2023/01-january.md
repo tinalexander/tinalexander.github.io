@@ -13,9 +13,9 @@ permalink: /2023/01
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-## 01/31/2023
+# 01/31/2023
 
-### From a FDA [press briefing](https://www.youtube.com/watch?v=tpbjQ1NUfRE) on changes to the human foods program
+## From a FDA [press briefing](https://www.youtube.com/watch?v=tpbjQ1NUfRE) on changes to the human foods program
 
 1:14:08 PM     JANET WOODCOCK, FDA: Now we've already started taking the necessary steps to move this proposal forward. I'm spearheading an implementation and change management group that's focused on developing detailed plans to ensure the successful execution of this program. We look forward to sharing further details next month, and in the future, on our progress as we initiate this agency's proposals in close coordination with internal and external stakeholders, while also ensuring we meet our labor obligations. 
 
@@ -48,7 +48,7 @@ But I can already tell you, as you might imagine, I've been talking with a lot o
 And at the same time then, we will change the business rules about how that all works, how the planning for inspection goes, how the compliance function is carried out, but it'll be brought together by IT that join those, all those programs. So that's one example. We're also building a centralized inventory of all establishments, pulling together all the different inventories that reside all over the agency, and making it a single source of truth. Here's a facility, it makes these products owned by this company, which has these other establishments and so on. So we're trying to build a modern system that will bring everyone together. So that's just one example. But yes, it will go across all the different programs. So the ORA is dealing with a unified system of interaction with its customers.
 
 
-### From a Pfizer [earnings call](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2023/Pfizer-Quarterly-Corporate-Performance--Fourth-Quarter-2022-2023-nJDGrlED8j/default.aspx) for investors
+## From a Pfizer [earnings call](https://investors.pfizer.com/Investors/Events--Presentations/event-details/2023/Pfizer-Quarterly-Corporate-Performance--Fourth-Quarter-2022-2023-nJDGrlED8j/default.aspx) for investors
 
 MIKAEL DOLSTEN, PFIZER [00:43:24]
 
@@ -88,9 +88,9 @@ ALBERT BOURLA, PFIZER [01:26:50]
 
 And the first one is, I don't know, on the-- if the the pharmacists will-- it's very unlikely, I think, but I don't know. We don't have it in our assumptions right now. 
 
-## 01/30/2023
+# 01/30/2023
 
-### From the director's remarks at a [meeting](https://www.niaid.nih.gov/about/niaid-council-agenda) of the NIAID council 
+## From the director's remarks at a [meeting](https://www.niaid.nih.gov/about/niaid-council-agenda) of the NIAID council 
 
 DR. HUGH AUCHINCLOSS, NIH [00:00:14]
 
@@ -128,9 +128,9 @@ There are candidate mucosal vaccines that are moving towards clinical trials, so
 
 But we have worked hard to stress to the funding agencies downtown that this is not going to be a repeat of Operation Warp Speed, where we have success in a less than one year time. This is a longer term effort that we are undertaking. 
 
-## 01/27/2023
+# 01/27/2023
 
-### From a [press briefing](https://www.youtube.com/watch?v=_66UJNa-0Lg) hosted by the FDA on new blood donor guidance
+## From a [press briefing](https://www.youtube.com/watch?v=_66UJNa-0Lg) hosted by the FDA on new blood donor guidance
 
 10:58:52 AM     QUESTION: Just have a one quick question, so if you have had vaginal sex with a new partner, in the last three months, you are eligible to donate? But if you have had anal sex with new partner in the last three months, you are not eligible? Is that a correct interpretation of the new guidance?
 
@@ -182,9 +182,9 @@ And so I think this is a really a significant step forward. It puts us in line w
 
 11:14:55 AM     ROBERT CALIFF, FDA: And I'd just add that donating blood is one of several really important symbolic methods of demonstrating one's caring for other people. So we want to make that available to everyone possible, in the context of a safe blood supply, since as we all know, blood is life-saving and essential and almost all of us will need blood products at one time or another as we go through life.
 
-## 01/26/2023
+# 01/26/2023
 
-### From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-january-26-2023-meeting-announcement) of the FDA's Vaccines and Related Biological Products Advisory Committee
+## From a [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-january-26-2023-meeting-announcement) of the FDA's Vaccines and Related Biological Products Advisory Committee
 
 8:54:39 AM     DAVID KASLOW, FDA: It is an honor to join the 178th meeting of VRBPAC for the first time as director of OVRR. And as Dr. Marks noted, this is a consequential meeting to determine if we've reached a point in the pandemic that allows for simplifying the use of current COVID 19 vaccines, and if it is the moment to implement a more routine approach to periodically updating the strain composition of these vaccines. 
 
@@ -490,9 +490,9 @@ I was also something to consider, probably not for the fall of 2023, but maybe--
 
 So I think that that's most of what I would cover. I don't know if anyone wants to add anything to that. So if not.
 
-## 01/25/2023
+# 01/25/2023
 
-### From a CDC [COCA call](https://emergency.cdc.gov/coca/calls/2023/callinfo_012423.asp) on testing and treatment for COVID-19
+## From a CDC [COCA call](https://emergency.cdc.gov/coca/calls/2023/callinfo_012423.asp) on testing and treatment for COVID-19
 
 DR PRAGNA PATEL, CDC [00:08:47]
 
@@ -504,7 +504,7 @@ Prevention measures such as wearing high quality well-fitting masks, maintaining
 
 CDC will be releasing an MMWR on Friday summarizing this information in more detail. 
 
-### From a CDC media call on vaccine effectiveness MMWRs
+## From a CDC media call on vaccine effectiveness MMWRs
 
 12:03:12 PM     BRENDAN JACKSON, CDC: You all know well that the Omicron variant XBB.1.5 has attracted a lot of attention in recent weeks as it grew rapidly in the U.S. and until recently, the U.S. has been the only country with a sizable presence of this variant. Lab studies have shown that neutralizing antibody titers have been lower against this variant, than against other recent variants, especially among those who received only the monovalent and not the updated COVID 19 vaccine, raising questions about how well our vaccines will work against it. 
 
@@ -542,9 +542,9 @@ So I think each of these-- each of the information, the neutralizing antibody da
 
 In this case, I think the symptomatic infection data has so far been relatively reassuring that the vaccines are continuing to work, even with the signal picked up in the neutralizing antibody data. But of course, the vaccines were designed and the vaccination programs goal is really to prevent severe disease and hospitalization. So that's what we'll be looking at in the coming months.
 
-## 01/24/2023
+# 01/24/2023
 
-### From the Los Angeles County Department of Public Health on COVID deaths
+## From the Los Angeles County Department of Public Health on COVID deaths
 
 We are still waiting to see the proposed changes from CDC and the state. 
 We do plan to align with any changes in the federal definition of qualifying COVID deaths.
@@ -552,7 +552,7 @@ We do plan to align with any changes in the federal definition of qualifying COV
 Hayley
 Los Angeles County Department of Public Health
 
-### Details on CDC reorganization from someone who attended the event
+## Details on CDC reorganization from someone who attended the event
 
 * The first major change is a move away from the Community of Practice structure; going forward, the vast majority of our organizations will report into the Immediate Office of the Director (IOD), breaking down barriers across the agency and ensuring our work links together with our shared vision and goals.  
 * We are consolidating the public health infrastructure and workforce activities of Center for Center for Surveillance, Epidemiology, and Laboratory Services (CSELS) and Center for State, Tribal, Local, and Territorial Support (CSTLTS) into one, new National Center for State, Tribal, Local, and Territorial Public Health Infrastructure and Workforce. This new center will enable us to better engage with our jurisdictions and public health partners and to lead the nation in workforce development, and working together, build the public health system necessary for the future. 
@@ -574,7 +574,7 @@ As we realign and organize for improved operations and accountability, we will s
  
 These changes will improve efficiency, speed decision-making, and strengthen the communication of scientific information to the American public, ensuring CDC’s science reaches the public in an understandable, accessible, and implementable manner as quickly as possible.
 
-### From a [webinar](https://www.nationalacademies.org/event/01-24-2023/one-health-approach-for-effective-biodefense-and-global-health-security) on One Health hosted by the National Academies
+## From a [webinar](https://www.nationalacademies.org/event/01-24-2023/one-health-approach-for-effective-biodefense-and-global-health-security) on One Health hosted by the National Academies
 
 CYRIL GAY, USDA [00:24:19]
 
@@ -590,7 +590,7 @@ So as they let out all of this information, I'd like you to think about, you kno
 
 Now, we've been fortunate historically in that this particular virus did not achieve effective human to human transmission. So what about what about if these events occurred? So what's the message that I'm trying to leave you here is that everyone has a concern, in all of the agencies that are working within the National Biodefense Strategy, that USDA at the moment does their job and does their very best to actually control this current outbreak so that we don't have further expansion transmission of this particular virus, and so that we can eradicate it, and so that we can mitigate the effects of this particular disease outbreak. 
 
-### From a [meeting](https://www.hhs.gov/ash/advisory-committees/paccarb/meetings/upcoming-meetings/index.html) of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
+## From a [meeting](https://www.hhs.gov/ash/advisory-committees/paccarb/meetings/upcoming-meetings/index.html) of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
 
 DR ARJUN SRINIVASAN, CDC [02:09:58]
 
@@ -606,15 +606,15 @@ We have a quite a modeling team now in our division that is focused on a variety
 
 CDC does have-- we have an expert group called the MInD collaborative. So we now have a funded external group of modeling experts who are focused on infectious diseases modeling, particularly AMR focused modeling. So I think there's a lot of good work that has come out of that group and that will continue to come that group.
 
-### From a CDC NCHS spokesperson on COVID-19 death tallies
+## From a CDC NCHS spokesperson on COVID-19 death tallies
 
 NCHS is not planning to issue new guidance on counting COVID deaths … at least not with regard to those based on death certificates.  We are not aware of any changes with regard to case reporting either.
 
 Brian
 
-## 01/23/2023
+# 01/23/2023
 
-### From an [interview](https://boxcast.tv/view-embed/maine-calling-with-dr-nirav-d-shah-rsk1kh9yion4m6lrzssz) with Nirav Shah on "Maine Calling"
+## From an [interview](https://boxcast.tv/view-embed/maine-calling-with-dr-nirav-d-shah-rsk1kh9yion4m6lrzssz) with Nirav Shah on "Maine Calling"
 
 DR NIRAV SHAH, CDC [00:03:40]
 
@@ -624,7 +624,7 @@ But that being said, there are certain areas where Dr. Walensky has asked me to 
 
 So there's a lot of work to be done. I'm excited about that next chapter, but I'm equally sad to be departing the Maine CDC.
 
-### From a meeting of the Board of Scientific Counselors for the Center for Preparedness and Response
+## From a meeting of the Board of Scientific Counselors for the Center for Preparedness and Response
 
 DR HENRY WALKE, CDC [00:06:24]
 
@@ -634,7 +634,7 @@ Certainly, pre-departure testing is leaky and won't prevent all new variants com
 
 Right now, all we're seeing really is Omicron variants or subvariants. So we continue-- this is an area that we're very active in. 
 
-### From an IDSA [webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-covid-19-clinician-call-variants-testing--treatment-the-latest/) on COVID-19 variants and testing with CDC officials
+## From an IDSA [webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-covid-19-clinician-call-variants-testing--treatment-the-latest/) on COVID-19 variants and testing with CDC officials
 
 NATALIE THORNBURG, CDC [00:15:57]
 
@@ -737,9 +737,9 @@ Ascertainment bias is also possible, given the fact that persons on treatment ar
 
 And it is possible that viral rebound occurs in persons on treatment because they are at high risk of severe disease, and may have host factors that contribute. Risk factors for rebound seem to be somewhat similar to risk factors for severe disease, but little is known currently, and more studies are needed. 
 
-## 01/20/2023
+# 01/20/2023
 
-### From the CDC's Tim Uyeki at an Emory University [webinar](https://twitter.com/TheNETEC/status/1616086586415792133)
+## From the CDC's Tim Uyeki at an Emory University [webinar](https://twitter.com/TheNETEC/status/1616086586415792133)
 
 TIM UYEKI, CDC [00:18:48]
 
@@ -792,13 +792,13 @@ So more than 6,000 people followed, about 160 people to date who have, during th
 
 So I think the risk-- it appears that this virus that's circulating in birds, it's causing poultry outbreaks, it's killing birds, it's transmitting to some mammals, it appears to transmit really well in birds, but avian to human transmission appears to be very, very uncommon. But it has happened, and I highlighted some cases that have occurred in the last year. 
 
-### From a spokesperson for the Centers for Medicare & Medicaid Services on COVID-19 vaccinations in nursing homes
+## From a spokesperson for the Centers for Medicare & Medicaid Services on COVID-19 vaccinations in nursing homes
 
 Access to safe, high quality health care is a top priority for the Centers for Medicare & Medicaid Services. CMS requires facilities to meet certain health and safety standards to be certified as a Medicare and Medicaid provider. This includes a requirement to offer residents the COVID-19 vaccines, including any boosters, and educate on their benefits. CMS alerted states to monitor the vaccination rates of their nursing homes by accessing the [list of every nursing home with recent resident and staff vaccination rates](https://urldefense.com/v3/__https://download.cms.gov/covid_nhsn/covid-19*20nursing*20home*20resident*20and*20staff*20vaccination*20rates.xlsx__;JSUlJSUlJQ!!CxwJSw!JnZo9jTgo3hWE0QiI-gwPdXq83GtVDDiyzlAfx-kkuvZbGNr5cOACKKeGNGwLVewKrrS8g6bXgQzrmudxe_5zp6u$) on the [CMS COVID-19 Nursing Home Data webpage](https://urldefense.com/v3/__https://data.cms.gov/covid-19/covid-19-nursing-home-data__;!!CxwJSw!JnZo9jTgo3hWE0QiI-gwPdXq83GtVDDiyzlAfx-kkuvZbGNr5cOACKKeGNGwLVewKrrS8g6bXgQzrmudxRZL3Fbk$). 
 
 Enforcement actions, including fines, follow an onsite survey and identification of deficiencies.  Sharing the list with states was to ensure they are aware of the vaccination rates in nursing homes to consider for potential investigation of compliance with the requirement to educate all residents and staff on the benefits of the vaccine, and offer to help them get vaccinated.  Because this is self-reported data, there may be instances where the zero percent vaccinated in a facility is an error. This is one of the reasons CMS has reminded state regulators to review their data. Any citations for noncompliance with this requirement can be researched by accessing the [CMS Quality, Certification & Oversight Reports](https://urldefense.com/v3/__https://qcor.cms.gov/index_new.jsp__;!!CxwJSw!JnZo9jTgo3hWE0QiI-gwPdXq83GtVDDiyzlAfx-kkuvZbGNr5cOACKKeGNGwLVewKrrS8g6bXgQzrmudxeLU2qTn$) webpage, selecting nursing homes, then the citation frequency report and selecting F-tag 0887 (in addition to any other criteria you’d like to view).
 
-### From a spokesperson for the Public Health Agency of Canada on polio in wastewater
+## From a spokesperson for the Public Health Agency of Canada on polio in wastewater
 
 _**Have any additional samples have since tested positive? When will it be possible to determine whether they are linked to detections in other countries?**_
 
@@ -824,9 +824,9 @@ The overall risk to people in Canada remains very low due to good sanitation and
 
 PHAC is assisting public health authorities in determining if public health measures may be needed and may expand wastewater testing, if required. PHAC will continue to work closely with public health authorities to monitor the situation, and with global partners like the WHO.
 
-## 01/19/2023
+# 01/19/2023
 
-### From a CDC spokesperson about Canadian detection of polio in wastewater
+## From a CDC spokesperson about Canadian detection of polio in wastewater
 
 On December 23, 2022, Canada notified the Pan American Health Organization (PAHO) of a detection of vaccine-derived polio virus (VDPV2) in two wastewater samples collected in Canada in August. The polioviruses identified from the sample in Canada are genetically linked to the polioviruses identified from the single paralytic polio case reported in Rockland County, New York, in July 2022. CDC is assisting the investigation to help examine whether these poliovirus sequences have any linkages to other poliovirus detections. CDC will continue to work with Public Health Agency of Canada to investigate the linkages further. 
 
@@ -834,9 +834,9 @@ Other than the single paralytic polio case identified in Rockland County, there 
 
 Widespread wastewater testing for poliovirus is not routinely recommended at this time. The best way to protect everyone from polio is to maintain high immunity against poliovirus in the population through vaccination. Adults who aren’t sure they received polio vaccine should speak with their healthcare providers to get up to date.
 
-## 01/18/2023
+# 01/18/2023
 
-### From my arithmetic on poverty guidelines [published by](https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines) the Office of the Assistant Secretary for Planning and Evaluation
+## From my arithmetic on poverty guidelines [published by](https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines) the Office of the Assistant Secretary for Planning and Evaluation
 
 Year | First Person | Percent Change
 -- | -- | --
@@ -881,16 +881,16 @@ Year | First Person | Percent Change
 2011 | $ 10,890.00 | 0.55%
 2010 | $ 10,830.00 | 0.00%
 
-## 01/17/2023
+# 01/17/2023
 
-### From patient status metadata of two sequences in GISAID 
+## From patient status metadata of two sequences in GISAID 
 
 Accession   ID | Collection date | Additional location information | Additional host information | Lineage
 -- | -- | -- | -- | --
 [EPI_ISL_16533841](https://www.epicov.org/epi3/epi_set/EPI_ISL_16533841?main=true) | 1/5/23 | Other: Seattle-Tacoma International Airport, Pooled AN swab | Traveler from China | CH.1.1.2
 [EPI_ISL_16533844](https://www.epicov.org/epi3/epi_set/EPI_ISL_16533844?main=true) | 1/5/23 | Other: Seattle-Tacoma International Airport, Pooled AN swab | Traveler from China | BQ.1.1.28
 
-### From an interview with David Kessler [on "The Rachel Maddow Show"](https://www.youtube.com/watch?v=gvf0NeA7xOw)
+## From an interview with David Kessler [on "The Rachel Maddow Show"](https://www.youtube.com/watch?v=gvf0NeA7xOw)
 
 QUESTION [00:00:26]
 
@@ -916,7 +916,7 @@ DAVID KESSLER, HHS [00:05:23]
 
 We have a very effective treatment on the market. It's not perfect. And no doubt in my mind we have to do everything we can to get another antiviral as soon as we can, just to have it. There's no guarantees in this business. You and I lived through the antivirals changing the course of HIV. Yes, there's a great antiviral, Paxlovid, but we need to continue to make sure that that remains the case.
 
-### From the NIH RECOVER program on new trials "in the coming months"
+## From the NIH RECOVER program on new trials "in the coming months"
 
 The clinical trials are expected to launch in the coming months. We can certainly alert you, but also know that the announcement will be posted on the RECOVER website. The trials are being designed to treat Long COVID symptoms described by patients as being most burdensome and most important to address. In addition, learnings from studies underway are considered for clinical interventions. The priorities being considered include:
 
@@ -926,9 +926,9 @@ The clinical trials are expected to launch in the coming months. We can certainl
 <br>· Cognitive Dysfunction: Trouble thinking clearly or brain fog. 
 <br>· Exercise intolerance/fatigue: Changes in a person’s activity and/or energy level.
 
-## 01/13/2023
+# 01/13/2023
 
-### From a spokesperson for San Francisco International Airport on wastewater surveillance
+## From a spokesperson for San Francisco International Airport on wastewater surveillance
 
 There’s no way to drill down by flight… wastewater is compiled from the international terminal over a 24-hour period. The goal here is to flag the emergence of new variants… the CDC could then employ other testing programs that focus on the origin.
 
@@ -940,9 +940,9 @@ Hi Alex: yes, we expect to have this in place with the CDC within the next month
 
 Doug Yakel 
 
-## 01/12/2023
+# 01/12/2023
 
-### From CDC telebriefing on childhood routine vaccination rates
+## From CDC telebriefing on childhood routine vaccination rates
 
 GEORGINA PEACOCK, CDC [00:10:32]
 
@@ -998,9 +998,9 @@ And so many of these children are attending school under a policy that's conside
 
 What we're seeing is that there was an increase in those children who are attending school under those policies. So it's really not exemptions that are driving this decrease. I think it's more of a flexibility with the policies that the states may be enacting, because of the pandemic, or for other reasons. But really, I wouldn't say that exemptions are driving this decrease at this time. 
 
-## 01/11/2023
+# 01/11/2023
 
-### From a World Health Organization [press briefing](https://twitter.com/WHO/status/1613182884084318209) that mentioned XBB.1.5
+## From a World Health Organization [press briefing](https://twitter.com/WHO/status/1613182884084318209) that mentioned XBB.1.5
 
 MARIA VAN KERKHOVE, WHO [00:20:23]
 
@@ -1018,9 +1018,9 @@ MIKE RYAN, WHO [00:37:07]
 
 With relation to the United States and XBB.1.5, I think you and the team have been involved in a risk assessment with colleagues on the U.S. side and published it today, the U.S. CDC. So there's been radical transparency on behalf of the United States in terms of engaging with WHO regarding the the the data and the impact of that data.
 
-## 01/10/2023
+# 01/10/2023
 
-### From an [interview](https://edhub.ama-assn.org/jn-learning/audio-player/18748030) with the FDA's Peter Marks and JAMA
+## From an [interview](https://edhub.ama-assn.org/jn-learning/audio-player/18748030) with the FDA's Peter Marks and JAMA
 
 PETER MARKS, FDA [00:04:28]
 
@@ -1028,24 +1028,24 @@ We will probably focus on incremental modifications of these vaccines, at least 
 
 So those are probably what we will see in the meantime, while we wait for a more robust vaccine. The ability to develop a more effective vaccine that actually is really very good at preventing spread of the virus as well as, of course, then symptomatic disease, would be very much equivalent to where we're trying to head with the influenza vaccines. And it's taken-- it's been a decade or more since people have been trying to work on universal influenza vaccines in quite a diligent manner. And yet we still are not right around the corner from having those.
 
-## 01/09/2023
+# 01/09/2023
 
-### From a CDC spokesperson on XBB.1.5's growth projections
+## From a CDC spokesperson on XBB.1.5's growth projections
 
 Right now, the national growth projections for XBB.1.5 look similar to what was observed with BA.5 this past summer.  However, there are major regional differences in the predicted proportions. In the northeast, XBB.1.5 is predicted to already have reached predominance (>70%), whereas in the midwest and west, it is predicted to be less than 10% of circulating viruses. In this context, there is less room for XBB.1.5 to grow in the northeast than other regions.
 <br>Thanks,
 <br>LaKia Bryant, MPA
 
-### From a WHO spokesperson on a risk assessment of XBB.1.5
+## From a WHO spokesperson on a risk assessment of XBB.1.5
 
 From: LINDMEIER, Christian 
 <br>Dear Alexander,
 <br>Thank you for your interest.
 <br>We are expecting the risk assessment coming out from the recent TAG-VE meeting in the next days, but I have nothing more concrete.
 
-## 01/05/2023
+# 01/05/2023
 
-### From [figures](https://aspr.hhs.gov/COVID-19/Therapeutics/orders/Pages/default.aspx) released this week by the Administration for Strategic Preparedness and Response
+## From [figures](https://aspr.hhs.gov/COVID-19/Therapeutics/orders/Pages/default.aspx) released this week by the Administration for Strategic Preparedness and Response
 
 | Date | Cumulative courses administered | Difference from previous week |
 | --- | --- | --- |
@@ -1080,7 +1080,7 @@ From: LINDMEIER, Christian
 | [06/19/2022](https://web.archive.org/web/20220630122503/https:/aspr.hhs.gov/COVID-19/Therapeutics/orders/Pages/default.aspx) | 1,625,131 | 275,877 | 
 | [06/12/2022](https://web.archive.org/web/20220616163711/https:/aspr.hhs.gov/COVID-19/Therapeutics/orders/Pages/default.aspx) | 1,349,254 | ??? | 
 
-### From a spokesperson for Ocugen in an email
+## From a spokesperson for Ocugen in an email
 
 Ocugen intends to work closely with the FDA and other government agencies tasked with pandemic preparedness on the regulatory pathway and the initiation of clinical trials of OCU500, given the immediate need for COVID-19 boosters that can block virus transmission.
  
@@ -1090,7 +1090,7 @@ Bharat Biotech licensed the same technology from Washington University and their
  
 It is worth noting that CanSino Bio’s inhaled vaccine, Convidecia Air™, also leverages an adenovirus vectored platform. I’ve attached three papers on heterologous boosting with the Ad5vectored inhalation vaccine. Ocugen is also exploring an inhalation route for its mucosal vaccine.    
 
-### From Philip Gruppuso of Brown University in an email
+## From Philip Gruppuso of Brown University in an email
 
 I have to confess that I am not particularly impressed by anything that is a candidate for the near future. I think that there are a few important considerations. First, an intranasal vaccine has the potential to stimulate mucosal immunity, which is of benefit with regard to reducing transmission. However, my impression is that none of the intranasal vaccines in development are likely to be close to the mRNA vaccines with regard to effectiveness in preventing severe illness, death or even transmission. It has to do with the intensity of the immune response.
 
@@ -1098,7 +1098,7 @@ Secondly, I would like to reinforce my overall impression that the mRNA vaccine 
 
 I'm sorry to not be providing you with a more direct and specific answer to your question, but I don't see any vaccines on the horizon that are likely to confer immunity across multiple strains of the virus.
 
-### From a spokesperson for Vaxxinity in an email
+## From a spokesperson for Vaxxinity in an email
 
 _Can you clarify if those results have been published anywhere?_
 
@@ -1110,7 +1110,7 @@ _Does Vaxxinity plan to pursue licensure of the vaccine in the U.S. with the FDA
 
 We do not currently have a plan to submit UB-612 for marketing authorization with the FDA.  Our current regulatory plan includes submitting for conditional authorization with the MHRA in the UK, and provisional authorization with the TGA in Australia, in the first half of 2023.
 
-### From Sean Tucker of Vaxart in an interview
+## From Sean Tucker of Vaxart in an interview
 
 [02;25] SEAN TUCKER, VAXART: So we told the world last fall that we were going to work on Omicron specific constructs and evaluate those pre-clinically in Q4 of last year. And our plan was to take some of those things forward, in Q1 of this year. 
 
@@ -1144,7 +1144,7 @@ I don't think it's been fully tested in the U.S. with the FDA. Obviously, they t
 
 I think one of the big challenges then is that the mucosal responses that we have from the stuff that's been reported, that we've been able to find from both China and India, says that those intranasal vaccines aren’t doing a very good job on making antibodies in the nose, which was kind of surprising, but it could be because all these prior kind of virus infections people have had just have made it difficult to get those vaccines to really work as well as they should.
 
-### From J. Robert Coleman of Codagenix in an interview
+## From J. Robert Coleman of Codagenix in an interview
 
 [05;37] J ROBERT COLEMAN, CODAGENIX:  So a lot of times, the risk of reversion question–  and you can see that with polio, comes from how those traditional vaccines were made, that usually rely on only a few changes to make them– to turn them into a vaccine. 
 
@@ -1194,7 +1194,7 @@ And that was one of the things that we had to show to WHO, that they had the pot
 
 I mean the thing to think about Serum is 65 percent of the world last year got a Serum-manufactured dose. Now that's not just COVID. That's also the other vaccines. So their manufacturing process is very large, especially for live attenuated.
 
-### From John Beigel of the National Institutes of Health in an interview
+## From John Beigel of the National Institutes of Health in an interview
 
 [03;06] JOHN BEIGEL, NIH: So I think having a broader protection would be probably a first on the list. And there's a number of groups working on that. 
 
@@ -1268,7 +1268,7 @@ So it's really the coordinated effort to get data to understand which of the pro
 
 And then if there's money to support further development, then it's much easier to say, here, the ones that we think are most useful. Or that's also where the free market comes and the free markets says, ‘small company, but they've got the most useful,’ maybe that it's easier for them to get investments to move those larger studies for it.
 
-### From Stanley Perlman of the University of Iowa in an interview
+## From Stanley Perlman of the University of Iowa in an interview
 
 [01;51] STANLEY PERLMAN, UIOWA: That being said, the two problems that people are running into is we really– we can develop vaccine to do these things, but we really don't have information yet that this is going to actually do what we want, which is to protect us against transmission of new variants or against the future coronaviruses that may come from animals or bats or through intermediate animals to people. So we have a short– we have things we can do, but we don't know if any of them will really work in the real world. They’re certainly worth trying, but we just don't know. 
 
@@ -1302,7 +1302,7 @@ QUESTION: So i guess that's, maybe to put it bluntly, that’s not on the short 
 
 STANLEY PERLMAN, UIOWA: If those others we're not going to be done next year, this will not be done for a few years.
 
-### From William Schaffner of Vanderbilt University Medical Center in an interview
+## From William Schaffner of Vanderbilt University Medical Center in an interview
 
 [01;19] WILLIAM SCHAFFNER, VUMC: If you're looking for right now, here's what i have to offer, namely a combination influenza and COVID vaccine. That still looks very optimistic that that might be available for next season, and I think might do something good to combat the vaccine fatigue that’s out there at the moment, and likely to carry over for quite some time. 
 
@@ -1316,7 +1316,7 @@ However, we all know that no vaccine is perfect. If the virus were to evade the 
 
 I guess the other little piece of information you need is that the current vaccines, which provide antibodies in the bloodstream, those antibodies don't leak out onto the surface of the mucus membranes very well. So, that's why they're not very good at preventing relatively mild illness. But, If that virus then wants to get into the bloodstream and cause more serious disease, that's when the current vaccines work best. They worked best to prevent severe disease. They're not– they’re somewhat good, but not very good, in preventing milder disease or transmission from one person to another.
 
-### From Paul Offit of Children’s Hospital of Philadelphia in an interview
+## From Paul Offit of Children’s Hospital of Philadelphia in an interview
 
 [00;39] PAUL OFFIT, CHOP: The goal of vaccines is to protect against serious illness and that goal continues to be met. Obviously once we hit Omicron and all the Omicron subvariants, which continue to evolve, even though that's it's– we haven't really evolved to anything beyond Omicron, right? I mean, it's been for a year, it's been Omicron or Omicron subvariants are all continue to be susceptible to protection against serious disease, whether you've vaccinated or naturally infected.
 
@@ -1358,9 +1358,9 @@ But people are kind of carried away with the immediacy of this. I mean the fact 
 
 But also, a lot of people in those groups don't make a very good immune response. I mean, my 93 year old mother just got another dose of the vaccine. I don't think that does much for her. I think that what makes more sense for those groups, the people in those groups, is make sure that if you get an infection and you may well, take an antiviral in the first few days, and I don't think we emphasize that enough frankly.
 
-## 01/04/2023
+# 01/04/2023
 
-### From a World Health Organization [press conference](https://www.who.int/news-room) discussing XBB.1.5
+## From a World Health Organization [press conference](https://www.who.int/news-room) discussing XBB.1.5
 
 33;21 MARIA VAN KERKHOVE, WHO: So your second question around the situation in the northeast of the U.S.A. So we don't have data specifically on severity related to XBB.1.5 and we do note, however, we do note that there is increasing hospitalizations have been reported in the northeast part of the U.S. where approximately 70 percent or so, I should check the exact data, of sequences that are available from that part of the country are XBB.1.5.
 

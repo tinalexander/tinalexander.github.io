@@ -10,7 +10,7 @@ nav_order: 0
 
 Here are some articles I've worked on for 2022. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-## December 2022
+# December 2022
 
 - [CDC urges Americans to "reconsider" travel to China over COVID surge, will require tests](https://www.cbsnews.com/news/covid-tests-required-china-travelers-cdc-americans-reconsider-travel-hong-kong-macau/)
 - [Free COVID test orders have topped 10 million this round. Here's how to get yours.](https://www.cbsnews.com/news/free-covid-test-orders-heres-how-to-get-yours/)
@@ -24,7 +24,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [End of blanket restriction on gay blood donors to face key federal vote next year](https://www.cbsnews.com/news/gay-men-blood-donors-federal-vote-next-year/)
 - [Flu shots are a "very good match" to this season's strains, CDC says](https://www.cbsnews.com/news/flu-shots-influenza-very-good-match-this-season-cdc-says/)
 
-## November 2022
+# November 2022
 
 - [FDA likely to end blanket ban on sexually active gay men donating blood](https://www.cbsnews.com/news/fda-likely-to-end-ban-on-sexually-active-gay-men-donating-blood/)
 - [Health agencies renaming "monkeypox" as "mpox" to help fight stigma](https://www.cbsnews.com/news/monkeypox-mpox-new-name-who-cdc/)
@@ -33,7 +33,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [In his final White House COVID briefing, Fauci voices hope for less deadly COVID wave this winter](https://www.cbsnews.com/news/fauci-final-covid-briefing-less-deadly-winter/)
 - [CDC now tracking BN.1, the latest new COVID variant on the rise](https://www.cbsnews.com/news/cdc-now-tracking-bn-1-the-latest-new-covid-variant-on-the-rise/)
   
-## October 2022
+# October 2022
 
 - [White House still expects new COVID boosters will offer better protection, but two new studies cast doubt](https://www.cbsnews.com/news/covid-19-updated-boosters-compared-to-original-vaccine/)
 - [Many U.S. labs cannot test for Ebola strain behind Uganda's swelling outbreak](https://www.cbsnews.com/news/ebola-virus-outbreak-us-labs-test-uganda/)
@@ -48,7 +48,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [U.S. restarts airport screening for Ebola as outbreak in Uganda swells](https://www.cbsnews.com/news/ebola-outbreak-us-airport-screening-uganda-travelers/)
 - [CDC ends daily reporting of COVID case and death data, in shift to weekly updates](https://www.cbsnews.com/news/covid-19-cases-deaths-cdc-ends-daily-reporting-weekly-updates/)
 
-## September 2022
+# September 2022
 
 - [What to know about COVID variants BA.4.6, BF.7 and BA.2.75, now growing nationwide](https://www.cbsnews.com/news/covid-variants-ba46-bf7-ba275-rise-cdc-tracking/)
 - [Monkeypox vaccine appears to be working, but CDC still urges precautions](https://www.cbsnews.com/news/monkeypox-vaccine-effectiveness-cdc-precautions/)
@@ -63,7 +63,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [Biden administration is preparing for the end of free COVID-19 vaccines as funds run dry](https://www.cbsnews.com/news/free-covid-19-vaccines-biden-administration-congress-funding/)
 - [FDA and CDC clear the way for updated COVID-19 vaccine boosters to target Omicron](https://www.cbsnews.com/news/covid-vaccine-boosters-omicron-variant-ba4-ba5-fda-cdc/)
 
-## August 2022
+# August 2022
 
 - [U.S. life expectancy drops again, marking worst 2-year decline in a century](https://www.cbsnews.com/news/u-s-life-expectancy-drops-worst-two-year-decline-in-a-century-covid-pandemic/)
 - [Texas confirms first U.S. death in monkeypox outbreak, says patient was "severely immunocompromised"](https://www.cbsnews.com/news/first-us-monkeypox-death-reported/)
@@ -78,7 +78,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [U.S. declares monkeypox outbreak a public health emergency](https://www.cbsnews.com/news/monkeypox-outbreak-public-health-emergency-declared/)
 - [Monkeypox: What we know about the outbreak, vaccinations and treatments](https://www.cbsnews.com/news/monkeypox-what-to-know-vaccine-symptoms/)
 
-## July 2022
+# July 2022
 
 - [Hospitals report more cases of parechovirus in infants: "This is not normal"](https://www.cbsnews.com/news/parechovirus-infants-hospital-cases-increase/)
 - [CDC warns of deadly bacteria found in Mississippi soil after two residents sickened](https://www.cbsnews.com/news/cdc-warns-of-deadly-bacteria-burkholderia-pseudomallei-found-in-mississippi-soil-after-two-residents-sickened/)
@@ -94,7 +94,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [FDA authorizes Novavax as new alternative to mRNA COVID-19 vaccines](https://www.cbsnews.com/news/novavax-fda-authorizes-mrna-alternative-covid-19-vaccines/)
 - [Newly published study shows cancer drug cuts risk of death for hospitalized high-risk COVID-19 patients](https://www.cbsnews.com/news/cancer-drug-sabizabulin-covid-19/)
 
-## June 2022
+# June 2022
 
 - [CDC now also recommends Moderna's COVID vaccine for adolescents](https://www.cbsnews.com/news/covid-vaccine-moderna-children-adolescents-cdc/)
 - [As New York City rolls out monkeypox vaccinations, CDC works to expand access](https://www.cbsnews.com/news/monkeypox-vaccine-new-york-city-cdc/)
@@ -105,7 +105,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [U.S. monkeypox cases are from at least two separate outbreaks, CDC says](https://www.cbsnews.com/news/monkeypox-cases-two-separate-outbreaks-cdc/)
 - [Why boosted Americans seem to be getting more COVID-19 infections](https://www.cbsnews.com/news/covid-19-vaccine-booster-shot-infection-rate/)
 
-## May 2022
+# May 2022
 
 - [At least 4 states now offering monkeypox vaccine to at-risk contacts](https://www.cbsnews.com/news/monkeypox-vaccine-jynneos-us-states/)
 - [White House touts efforts to expand COVID test-to-treat sites amid latest wave](https://www.cbsnews.com/news/covid-19-test-to-treat-sites-white-house/)
@@ -118,7 +118,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [What to know about "rebound" in COVID symptoms after taking Paxlovid](https://www.cbsnews.com/news/covid-rebound-infection-symptoms-paxlovid/)
 - [Mental health shouldn't be "treated like a stepchild" to physical health, says HHS chief](https://www.cbsnews.com/news/mental-health-biden-administration-xavier-becerra/)
 
-## April 2022
+# April 2022
 
 - [FDA could authorize COVID vaccine for children 5 and under, and Novavax vaccine, this June](https://www.cbsnews.com/news/covid-vaccine-children-5-and-under-june-novavax/)
 - [Moderna asks FDA to authorize its COVID vaccine for children ages 5 and under](https://www.cbsnews.com/news/covid-vaccine-kids-moderna/)
@@ -130,7 +130,7 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [BA.2 now more than 90% of new COVID-19 cases in the Northeast, CDC estimates](https://www.cbsnews.com/news/covid-ba-2-omicron-subvariant-northeast-cdc/)
 - [Watching for new COVID variants in wildlife "now critical," CDC says](https://www.cbsnews.com/news/covid-variants-in-animals-wildlife-cdc/)
 
-## March 2022
+# March 2022
 
 - [FDA and CDC clear second booster of COVID vaccine for ages 50 and over](https://www.cbsnews.com/news/covid-vaccine-second-booster-fda-authorizes-age-50-older/)
 - [Omicron subvariant BA.2 is now dominant in U.S., CDC estimates](https://www.cbsnews.com/news/covid-omicron-ba-2-subvariant-dominant-us-cdc/)
@@ -145,14 +145,14 @@ Here are some articles I've worked on for 2022. You can also find them [by Googl
 - [COVID-19 associated with "significant, deleterious impact" on brain, finds U.K. study](https://www.cbsnews.com/news/covid-19-impact-on-brain-uk-study/)
 - [White House lays out new COVID plan, will begin stockpiling tests and pills](https://www.cbsnews.com/news/covid-19-white-house-plan-tests-pills/)
 
-## February 2022
+# February 2022
 
 - [COVID vaccine for children less effective against Omicron, but booster helps, study finds](https://www.cbsnews.com/news/covid-vaccine-effectiveness-children-omicron-booster/)
 - [CDC revises mask guidelines, says millions of Americans no longer need to wear masks indoors](https://www.cbsnews.com/news/cdc-guidelines-mask-indoors-covid-19/)
 - [Millions of children worldwide have lost a parent or caregiver to COVID-19: "The hidden pandemic"](https://www.cbsnews.com/news/covid-children-lost-parent-pandemic-orphans/)
 - [Biden administration has shipped more than 90% of free at-home COVID test orders](https://www.cbsnews.com/news/covid-tests-free-orders-shipped/)
 
-## January 2022
+# January 2022
 
 - [Novavax could offer unvaccinated Americans a new option, if regulators agree](https://www.cbsnews.com/news/novavax-covid-vaccine-seeking-fda-authorization/)
 - [Millions of Americans can't isolate from COVID in the home. Here's what experts suggest.](https://www.cbsnews.com/news/covid-19-isolation-exposure-home/)
