@@ -22,7 +22,7 @@ callouts:
 
 nav_external_links:
   - title: Attachments
-  url: https://github.com/tinalexander/notes/tree/main/attachments
+  url: https://github.com/tinalexander/notes/tree/9eff8f96c76e623280b1dee63a5e220a5c55af89/attachments
   hide_icon: false
 
 gh_edit_link: true # show or hide edit this page link
