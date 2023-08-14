@@ -32,7 +32,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > So CDC did state that the locations that will be participating in the Bridge Access Program will be indicated on vaccines dot com-- vaccines dot gov, excuse me, but CDPH is also attempting to gather all of the locations and compile them on the list for you. Hopefully we'll get that information from all of these partners. 
 > 
-> So-- so all of theses are still in contract negotiation, so it's really difficult to see what the implementation of this program's going to look like in pharmacy. So the obvious question next is: when do we expect the contract negotiation is to be finalized for pharmacy? Well, CDC has said they are targeting mid-October date. So information does seem to be trickling in weekly. So I'll try to inform you as much as I can as we go. 
+> So-- so all of these are still in contract negotiation, so it's really difficult to see what the implementation of this program's going to look like in pharmacy. So the obvious question next is: when do we expect the contract negotiation is to be finalized for pharmacy? Well, CDC has said they are targeting mid-October date. So information does seem to be trickling in weekly. So I'll try to inform you as much as I can as we go. 
 
 # August 11, 2023
 
