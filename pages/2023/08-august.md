@@ -17,6 +17,77 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 14, 2023
 
+## County and city officials on Universal Meditech facility in Reedley
+
+- **Source:** [recording](https://youtu.be/d-yGWUVYcbU) of "Fresno County Board of Supervisors Meeting - Reedley Facility Update"
+- **Date:** published August 9, 2023
+
+> Joe Prado, County of Fresno [00:10:52]
+> 
+> So now we'll start the timeline with December 19th to December 20th. Our staff is pretty much notified from City of Reedley of this situation out there. And we're really now-- we really think this is the same company from City of Fresno. We're exchanging emails and our team, with City of Reedley, contacted the FBI to really evaluate potential public safety risk. 
+> 
+> You know, we didn't have a lot of information, but what we did know, we needed to make sure that if there was any other jurisdictional authority that needed to be evaluated, the right federal or state agency needed to make that determination, before we really took over any type of response. 
+> 
+> And so that's where the narrative kind of picks up as we start down that pathway there, we're exchanging-- we're exchanging information with FDA as well. FDA is involved on December 20th and regarding the medical testing kits that are actually on site, and FBI conducted-- they brought us all together for a meeting to really start having a conversation. 
+> 
+> And at this time, on December 21st, FBI said, everybody standby. Everybody standby, we need to assess what we have here, and we need to see whether or not it will be a federal investigation or not. So we had to stand by and really assess to see what the outcome of the FBI was at this particular time. 
+> 
+> ...
+> 
+> Joe Prado, County of Fresno [00:13:18]
+> 
+> Moving on into February, we're coordinating with DTSC, is the Department of Toxic Substances Control, a state agency, they indicated to us that the FBI has given the state and local agencies approval to resume civil investigation. This is now where the FBI is giving it back to us. It is not within our jurisdiction. It is somebody else's, but it's not ours. 
+> 
+> So now as we start going into February, February 9th is a very key point here. Universal Meditech issues a nationwide recall of its COVID 19 test kits. FDA was involved back in December 20th. You already saw action from the federal government against this company. 
+> 
+> You saw that action take place with that -- with that recall, that was the FDA because of our collaboration and gaining information from the business owners, being able to move forward with that potential that recall there as well. 
+> 
+> On February 24th, we had a multi-agency meeting to really coordinate the investigation of Prestige Biotech. Now we're learning about Presige Biotech, who are they? What are they? Who owns them? 
+> 
+> To this day, we're still trying to understand it and find that out. And so there's this indication Universal Meditech own the assets, they're in bankruptcy, they send it, they say Prestige Biotech owns this asset. And what we really see that is they were just trying to muddle everything up so we didn't know who had the financial responsibility that we could really go after and really hold them accountable. So that was, I think, a lot of misdirection by this business representative. 
+> 
+> ...
+> 
+> Joe Prado, County of Fresno [00:18:10]
+> 
+> Those CDPH food and drug branch staff, they went through an embargo, the unapproved medical test kits and medical supplies. This is the only part of the response that is being led by an outside agency. The medical devices is being led by CDPH food and drug branch, and they are in coordination with FDA. All other aspects of the response is at a local level.
+> 
+> ...
+> 
+> Joe Prado, County of Fresno [00:24:03]
+> 
+> They were given all this information back in April, the requirements, they were given ample time to respond to it. They even denied, they had infectious agents via email. And that was simply untrue. We had a CDC report that stated otherwise, they had infectious agents on site. That is why we included all that language in those health officer orders. 
+> 
+> ...
+> 
+> Joe Prado, County of Fresno [00:25:18]
+> 
+> All the investigation we had done to date was sufficient enough to go and destroy these biologicals. And that was, I think, just a testament to our county council, City of Reedley, our environmental health staff, collecting all this information and our federal and state agencies, that exchange of information we've had for weeks on a weekly basis. We've been doing that early on, has been just instrumental, beneficial for us. 
+> 
+> And so we go on site, we destroy biologicals, there's 36 refrigerators and freezers that were properly removed, transported for destruction by our licensed contractor. We did this July 5th, 6th, and 7th, all in compliance with the abatement order and the judge's requirements to get it done within 14 days. So as soon as the judge signed that, we had 14 days to get this done, we were able to bring in the right licensed contractor and the right licensure to be able to do this. Not everybody can haul infectious agents and destroy agents. 
+> 
+> So what does it look like for biological agents? We're-- these days everybody's in full personal protective equipment, they take-- we take possession of all that material. It is autoclaved. So that is a high steam process. And then it's taken out for incineration. That was a process that was done with the biologicals. That is a process that when we worked with CDC, we wanted to make sure that was the appropriate protocol to follow. And they confirmed that was the right protocol to follow as well. 
+> 
+> ...
+> 
+> Nicole Zieba, City of Reedley [00:45:51]
+> 
+> We have got to get this fixed at the federal and state level. Board, I know you wanna do something about this locally. My council wants to do something about this locally. We are not going to fix this at the local level. 
+> 
+> This is a problem. These are loopholes with privately funded, fully privately funded labs, even legal labs. Now the one we're talking about in Reedley is bad actors, bad lab. They did not want us to know they were here. That's why they moved in under the cover of night. That's why they never came to the city for a business permit. They did not want us to know they were there. There's bad actors, but even legal labs, if they are privately funded, something like this could be in every city in the nation and we wouldn't be able to regulate it the way we should be able to regulate it. 
+> 
+> I don't know about you, but I don't wanna be buying products where I know there are peed-on pregnancy tests in the desk drawers, right? We have a problem. And instead of pulling people together and stating, hey public, we need to have our federal legislators fix this. Let's get together and demand that they fix this. 
+> 
+> ...
+> 
+> Nicole Zieba, City of Reedley [00:47:46]
+> 
+> Right now is the last day of the abatement for the fridges and the freezers. We still have more process to go. The U.S. EPA will come in in short order. Although they have a tangle of regulations they have to follow before they can step onto private property and destroy private property. They will come in in a matter of weeks and remove lab chemicals. These are chemicals that are commonly found in legal labs, nothing unusual has been found.
+> 
+> After that, we then turn it over to the FDA and FDB, the Food and Drug Branch. Those entities will come in, and what we will have remaining in that warehouse are probably half a million pregnancy tests and COVID test kits. Some of which are unauthorized for sure. We don't know about the other ones. 
+> 
+> So altogether, my estimation is that, my hope is that, by the time we enter heavily into fall, this will be another empty warehouse in Reedley like we thought it was for the last decade. 
+
 ## CDPH official on CDC's Bridge Access Program
 
 - **Source:** [recording](https://youtu.be/xy4KmbZKAyk) of "ProviderWebinar_8.11.23"
