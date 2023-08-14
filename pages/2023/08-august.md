@@ -15,6 +15,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 14, 2023
+
+## CDPH official on CDC's Bridge Access Program
+
+- **Source:** [recording](https://youtu.be/xy4KmbZKAyk) of "ProviderWebinar_8.11.23"
+- **Date:** published August 11, 2023 
+
+> Edward Salaguinto, CDPH [00:07:17]
+> 
+> CDC is going to establish contracts with pharmacies to enable them to continue offering COVID 19 vaccines and therapeutics with no out of pocket cost to uninsured individuals. Dr. deJarnette is also going to talk a little bit about therapeutics later.
+> 
+> But, moving on, Walgreens is still in contract negotiations and there's not much information coming from them so far. CVS is also still in contract negotiations. So more information to come on that. They did tell us they did request that all California locations could be included as well, but that's still subject to CDC approval for locations. 
+> 
+> The other company is eTrueNorth, and they're also still in contract negotiations. And this company is the company outside of Walgreens and CVS who will participate. It's the company that'll enroll independent pharmacies, and they're still working out details with CDC. They've mentioned they are considering all non Walgreens and non CVS community pharmacies that join the program and they can onboard them after CDC has the pharmacy side approval in contracting. Again, every individual location must be approved by CDC. 
+> 
+> So CDC did state that the locations that will be participating in the Bridge Access Program will be indicated on vaccines dot com-- vaccines dot gov, excuse me, but CDPH is also attempting to gather all of the locations and compile them on the list for you. Hopefully we'll get that information from all of these partners. 
+> 
+> So-- so all of theses are still in contract negotiation, so it's really difficult to see what the implementation of this program's going to look like in pharmacy. So the obvious question next is: when do we expect the contract negotiation is to be finalized for pharmacy? Well, CDC has said they are targeting mid-October date. So information does seem to be trickling in weekly. So I'll try to inform you as much as I can as we go. 
+
 # August 11, 2023
 
 ## HHS secretary on marijuana scheduling
