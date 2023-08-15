@@ -15,9 +15,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 15, 2023
+
+## Pfizer on EG.5 variant and updated COVID vaccine
+
+- **Source:** email from Pfizer spokesperson Steve Danehy
+- **Date:** received August 15, 2023
+
+> Pfizer continues to closely monitor emerging variants and conduct tests of the updated, XBB.1.5-specific monovalent vaccine against those variants, including EG.5 and its related sub-lineages, which are closely related to XBB.1.5. Furthermore, our team of experts is prepared to develop variant-modified vaccine templates, should the need arise and as the data and regulatory agencies dictate. We remain prepared to distribute this season’s COVID-19 vaccine to pharmacies and prescribers by the end of August, pending regulatory action.
+
+## Novavax on EG.5 variant and updated COVID vaccine
+
+- **Source:** emailed statement from Novavax
+- **Date:** received August 15, 2023
+
+> We expect our XBB COVID vaccine to work against the EG.5 strain given its similarity to the XBB.1.5 strain in the vaccine, and we’re now conducting testing to demonstrate that.
+
 # August 14, 2023
 
-## County and city officials on Universal Meditech facility in Reedley
+## Local on Universal Meditech facility in Reedley
 
 - **Source:** [recording](https://youtu.be/d-yGWUVYcbU) of "Fresno County Board of Supervisors Meeting - Reedley Facility Update"
 - **Date:** published August 9, 2023
