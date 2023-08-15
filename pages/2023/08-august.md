@@ -33,7 +33,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 14, 2023
 
-## Local on Universal Meditech facility in Reedley
+## Local officials on Universal Meditech facility
 
 - **Source:** [recording](https://youtu.be/d-yGWUVYcbU) of "Fresno County Board of Supervisors Meeting - Reedley Facility Update"
 - **Date:** published August 9, 2023
