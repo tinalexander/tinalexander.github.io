@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 16, 2023
 
+## NIBIB's RADx on EG.5 variant impact on tests
+
+- **Source:** email from Jonathan Griffin of NIBIB
+- **Date:** received August 16, 2023
+
+> RADx is actively monitoring and assessing the prevalence and genetic information of many COVID-19 variants, including EG.5 which it has been tracking for months. RADx has not yet incorporated EG.5 into testing protocols for validating commercially available COVID tests, but is preparing studies in coordination with the FDA, in the event that the variant's prevalence meets established criteria.
+
 ## FDA official on timing of next strain selection
 
 - **Source:** email from FDA official
