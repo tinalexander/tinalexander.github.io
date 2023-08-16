@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 16, 2023
 
+## FDA official on timing of next strain selection
+
+- **Source:** email from FDA official
+- **Date:** received August 16, 2023
+
+> As previously stated, availability of the updated COVID-19 vaccines is expected in mid-to-late September, pending regulatory action by the FDA and recommendation from CDC. If authorized or approved, based upon the available evidence, the FDA believes these vaccines with a monovalent XBB.1.5 composition will provide the best available protection against the most serious consequences of the disease resulting from currently circulating variants.
+> 
+> We will continue to closely monitor the emerging data in the United States and globally and will base any decision to revisit vaccine composition on those data. Barring the emergence of a markedly more virulent viral variant causing COVID-19, the FDA anticipates revisiting the composition of the vaccine during the first half of 2024 to help ensure that updated vaccines are available, if appropriate, during the 2024-2025 season.
+
 ## Novavax executive on age expansion for COVID vaccine
 
 - **Source:** [webcast](https://ir.novavax.com/events/novavax-second-quarter-2023-financial-results) of "Novavax Second Quarter 2023 Financial Results" 
