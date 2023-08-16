@@ -15,6 +15,27 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 16, 2023
+
+## Novavax executive on age expansion for COVID vaccine
+
+- **Source:** [webcast](https://ir.novavax.com/events/novavax-second-quarter-2023-financial-results) of "Novavax Second Quarter 2023 Financial Results" 
+- **Date:** broadcasted August 8, 2023
+
+> Filip Dubovsky, Novavax [00:32:08]
+> 
+> In addition to updating our vaccine for the fall season, we continue to work on expanding our label to include the pediatric population. Please go to slide 13.
+> 
+> Study 503 is our global pediatric age de-escalation study being conducted in children's six months of age to 11 years of age. Enrollment is complete in the six to 11 year old cohort and the two to five year olds, but is ongoing in the youngest children.
+> 
+> ...
+>
+> Filip Dubovsky, Novavax [00:34:21]
+> 
+> This profile, in addition to our classic recombinant protein technology may be reassuring when parents and providers choose vaccines for children.
+> 
+> We expect to submit these preliminary results to the EUA in the fourth quarter. And while the length of regulatory review is not known, we believe that approval of a EUA amendment could occur in early 2024. 
+
 # August 15, 2023
 
 ## Pfizer on EG.5 variant and updated COVID vaccine
