@@ -17,6 +17,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 17, 2023
 
+## Jesse Bloom on BA.2.86 variant and updated COVID vaccines
+
+- **Source:** email from Jesse Bloom of Fred Hutch Cancer Research Center
+- **Date:** received August 17, 2023
+
+> First, so far only four sequences of BA.2.86 have been identified. Because of the large number of spike mutations in this new variant, it is important for scientists to monitor to see if it spreads more. But at this point the new variant is still rare, and so it is too soon to know if it will just fizzle out or spread more.
+> 
+> Second, BA.2.86 does have many mutations relative to XBB.1.5 at sites recognized by antibodies. This is unlike other new variants (like EG.5.1) which are close relatives of XBB.1.5. So while a XBB.1.5 vaccine would still be a decent match to EG.5.1, it would probably be a fairly poor match to BA.2.86. However, right now XBB-related variants like EG.5.1 are vastly more common BA.2.86, so the proposed vaccine currently remains a good match to most circulating viruses. Again, this is something that it is just important for us to keep monitoring and see if BA.2.86 fizzles out or spreads more.
+> 
+> Finally, I would note that while strain specific neutralizing antibodies (which can be escaped by new variants) provide the best protection against infection, there are also broader mechanisms of immunity elicited by vaccination and infection that provide some protection against severe disease even for very heavily mutated variants. So even if a highly mutated new variant like BA.2.86 starts to spread, we will be in a far better place than we were in 2020 and 2021, since most people have some immunity to SARS-CoV-2 now.
+
 ## Danco statement on appeals court ruling
 
 - **Source:** email from Abby Long of Danco Laboratories
