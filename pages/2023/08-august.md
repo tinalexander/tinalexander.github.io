@@ -15,6 +15,23 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 17, 2023
+
+## Danco statement on appeals court ruling
+
+- **Source:** email from Abby Long of Danco Laboratories
+- **Date:** received August 16, 2023
+
+> Danco Statement on 5th Circuit Ruling, August 16, 2023
+> 
+> The Fifth Circuit panel’s decision is inconsistent with established Supreme Court principles governing standing and administrative law challenges.  In its rush to reach a particular outcome on the merits, the panel disregarded the actual factual record before the court and second-guessed FDA at every turn—neither of which is consistent with the rule of law in challenges to agency action.  Danco will continue to pursue reversal of this injunction. 
+> 
+> Danco remains confident in the safety and effectiveness of Mifeprex® and committed to making the drug available as broadly as possible.  Because the Supreme Court’s stay remains in place, Mifeprex® (mifepristone) tablets continue to be available under the current, FDA-approved conditions, which includes for use in pregnancy of up to 10 weeks duration, with prescribing after in-person or telehealth examination and dispensing by healthcare professionals, by mail, and from a pharmacy. 
+> 
+> The panel’s decision seeks to undo FDA actions that are well supported by extensive safety and effectiveness data from clinical trials and real-world experience in millions of patients, and that are decisions Congress entrusted to FDA.  The changes in 2016 and 2021 that the panel would strike down—changes approved by FDA after careful analysis—have expanded the availability and use of Mifeprex®, providing crucial individual and public health benefits.  Danco will continue to be at the forefront of this fight, working closely with the reproductive rights community and pharmaceutical industry, as this case moves forward. 
+> 
+> Mifeprex® is the most commonly used medication for termination of early pregnancy.  Over 5 million women have used Mifeprex® in the United States since its approval for the termination of early pregnancy in 2000.  Mifeprex® is ~97% effective in terminating early pregnancy; approximately 3% of women will require surgical intervention for ongoing pregnancy, heavy bleeding, incomplete expulsion, or other reasons such as patient request.
+
 # August 16, 2023
 
 ## NIBIB's RADx on EG.5 variant impact on tests
