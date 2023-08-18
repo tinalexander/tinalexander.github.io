@@ -23,6 +23,12 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Date:** received August 17, 2023
 
 > Today we are more prepared than ever to detect and respond to changes in the COVID-19 virus. Scientists are working now to understand more about the newly identified lineage in these 4 cases and we will share more information as it becomes available.
+> 
+> Below is some additional details on background.
+> 
+> CDC is closely tracking a new lineage of the virus that causes COVID-19 named BA.2.86, which has many mutations that make it distinct from other currently circulating lineages. So far, four cases have been detected worldwide, including one case in the United States, and the others in Denmark and Israel. Based on the available evidence, we do not yet know what risks, if any, this may pose to the public’s health beyond what has been seen with other currently circulating lineages. We are collaborating with domestic and international partners to gather more information. COVID-19 remains a priority, and CDC is committed to providing the information necessary to protect the nation’s health.   
+> 
+> The BA.2.86 variant will be aggregated with BA.2 on CDC’s COVID Data Tracker. If it increases in proportion and reaches 1% of sequences in the weighted estimate, it would be listed separately on COVID Data Tracker. (As a reminder, weighted estimates are the left portion of the graph and are calculated from sequences. These estimates are not available for the most recent two-week periods because of the time it takes to generate the sequencing data, including sample collection, specimen treatment, shipping, analysis, and upload into public databases.) Nowcast is a model generated from weighted estimates. 
 
 ## Jesse Bloom on BA.2.86 variant and updated COVID vaccines
 
