@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 17, 2023
 
+## CDC spokesperson on BA.2.86
+
+- **Source:** email from Kathleen Conley of CDC
+- **Date:** received August 17, 2023
+
+> Today we are more prepared than ever to detect and respond to changes in the COVID-19 virus. Scientists are working now to understand more about the newly identified lineage in these 4 cases and we will share more information as it becomes available.
+
 ## Jesse Bloom on BA.2.86 variant and updated COVID vaccines
 
 - **Source:** email from Jesse Bloom of Fred Hutch Cancer Research Center
