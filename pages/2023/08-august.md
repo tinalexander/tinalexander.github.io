@@ -15,6 +15,21 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 21, 2023
+
+## CDC spokesperson on EG.5 and XBB.1.5
+
+- **Source:** email from Kathleen Conley of CDC
+- **Date:** received August 18, 2023
+
+> Vaccination continues to be the best way to protect against severe outcomes of COVID-19.  CDC will continue to monitor both the impact of future variants on COVID vaccines, including lab studies evaluating neutralization of the virus and clinical studies to monitor protection against severe disease. Based on the totality of the available evidence and input from the FDA’s advisory committee, it is anticipated that the fall updated vaccines with a monovalent XBB.1.5 composition will best protect public health.
+> 
+> This updated composition is more closely related to variants that may emerge and is expected to prevent the most serious outcomes of COVID-19, which are severe illness, hospitalization, and death. More information on the decision regarding the formula for COVID-19 vaccines for the 2023-2024 fall and winter seasons is available on the FDA’s website.
+> 
+> For background.
+> 
+> There is no evidence indicating vaccines will not protect against EG.5. EG.5 lineages is an XBB-lineage virus. The updated vaccines for 2023-2024 will be a monovalent composition targeting XBB.1.5 strain. The XBB containing vaccine proposed for this fall has demonstrated improvement in neutralization against newer Omicron linages such as XBB.
+
 # August 17, 2023
 
 ## CDC spokesperson on BA.2.86
