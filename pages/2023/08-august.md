@@ -17,6 +17,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 21, 2023
 
+## Michigan health department spokesperson on BA.2.86
+
+- **Source:** email from Chelsea Wuth
+- **Date:** received August 21, 2023
+
+> The CDC is closely tracking a new lineage of the virus that causes COVID-19 named BA.2.86, which has many mutations that make it distinct from other currently circulating lineages. So far, cases have been detected worldwide, including a case in Michigan. The patient from Washtenaw County is an older adult with mild symptoms and has not been hospitalized.
+> 
+> Based on the available evidence, it is not known yet what risks, if any, this may pose to the public’s health beyond what has been seen with other currently circulating lineages. We are working with the CDC, which is collaborating with domestic and international partners to gather more information. CDC has not made any changes to their guidance at this time. 
+> 
+> Public health agencies continue to investigate COVID-19 cases and test available specimens to understand the spread of COVID-19 in the population. The University of Michigan and the State of Michigan both sequence COVID-19 viruses to detect new variants, which is how this variant was identified.
+> 
+> It’s important for people to use the tools at their disposal, like vaccines and boosters, to keep themselves safe and understand their individual risk. We continue to urge Michiganders to get up to date with their COVID-19 vaccination as the vaccine remains our best defense against serious illness and hospitalization.
+
 ## CDC spokesperson on EG.5 and XBB.1.5
 
 - **Source:** email from Kathleen Conley of CDC
