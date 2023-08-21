@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 21, 2023
 
+## Pfizer spokesperson on new COVID vaccine and EG.5.1
+
+- **Source:** email from Steve Danehy of Pfizer
+- **Date:** received on August 21, 2023
+
+> Pfizer continues to closely monitor emerging variants and conduct tests of the Pfizer-BioNTech COVID-19 vaccine with an updated XBB.1.5 monovalent composition against those variants. A recent study in mice showed that our updated monovalent XBB 1.5 vaccine effectively neutralized a number of Omicron XBB variants, including XBB.1.5 and EG.5.1.
+
 ## Michigan health department spokesperson on BA.2.86
 
 - **Source:** email from Chelsea Wuth
