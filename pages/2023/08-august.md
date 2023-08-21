@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 21, 2023
 
+## CDC spokesperson on ACIP for Pfizer's Abrysvo vaccine
+
+- **Source:** email from Kathleen Conley of CDC
+- **Date:** received on August 21, 2023
+
+> CDC and our Advisory Committee for Immunization Practices (ACIP) look forward to future discussion around recommended use for Pfizer’s recently approved maternal RSV vaccine, which will provide another tool to help protect against a virus that is the leading cause of hospitalization among infants in the U.S.  
+> 
+> Earlier this month, CDC recommended nirsevimab, an immunization against RSV that has been shown to reduce the risk of both hospitalizations and healthcare visits in infants by about 80 percent. As we head into another potentially active fall and winter virus season, it’s important to have products available to help prevent severe RSV illness, especially in higher risk populations like infants. CDC takes the data review process for new vaccine recommendations seriously and will continue working to protect the health and well-being of the nation. 
+
 ## Pfizer spokesperson on new COVID vaccine and EG.5.1
 
 - **Source:** email from Steve Danehy of Pfizer
