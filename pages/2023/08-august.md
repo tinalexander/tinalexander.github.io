@@ -15,6 +15,43 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 22, 2023
+
+## White House official on goals of new pandemic office
+
+- **Source:** [recording](https://www.youtube.com/watch?v=ydQFbA8Nz3s) by BU Center for Emerging Infectious Diseases
+- **Date:** published August 18, 2023
+
+> Nikki Romanik, White House [00:52:15]
+> 
+> Currently, um, when a outbreak happens or a pandemic, there's immediate action and there are a number of agencies that want to stand up and get ready and it can be hard to identify a leader, which is why many times there are people like Bob and Demetre, coordinators or czars, or like Dr. Jha over there, they're brought in to kind of help clarify roles and responsibilities, I would say. And I think that that's probably one of the reasons why OPPR is standing up. 
+> 
+> There are many reasons, but one of the reasons is so that we do not have to keep on bringing in a specific coordinator, but instead we can help identify the leads  beforehand, and things can move significantly faster.
+> 
+> I think there needs to be deep interagency coordination from the beginning. It's a vital to a response. And all agencies, no matter the agency, has a role in deep subject matter in the emergency response in a pandemic. 
+> 
+> ...
+> 
+> Nikki Romanik, White House [00:54:59]
+> 
+> Our mission is pretty clear. I'm working with Major General Paul Friedrichs, who is an incredible man, and a surgeon. We have kind of a mission-- we have an aligned mission. We want to walk in and we want to clearly state the roles and responsibilities so that there's not really a question moving forward who is the lead where and how everyone can work together. 
+> 
+> Before an outbreak, we want to have protocols in place. And more importantly, we want interagency to actually have relationships with each other, all of the interagency, not just HHS, we want it across the entire interagency. We want people to actually have deep, trusted relationships when they're not in an emergency.
+> 
+> There were a lot of relationships created during COVID and even more in mpox and Ebola and any outbreak that's ever happened that could potentially have ever come to America, relationships have been built, but it's always been in a response. What if those agencies actually had relationships outside of a response, and those people were friends outside of a response? I know it seems a little idealistic, but it can happen.
+> 
+> I can get anybody in a room and make them like each other. I can, it's a goal of mine, always. It is one of our goals. It's going to take time, but it's one of the things we want to do. 
+> 
+> ...
+> 
+> Nikki Romanik, White House [00:56:34]
+> 
+> We also want to build back America's trust in public health, another lofty goal.
+> 
+> You know, the United States government needs to speak clearly, transparently, and with one voice, when it comes to an outbreak or a pandemic.
+> 
+> People are scared and they need to have very clear communication from as early on as you possibly can. And it needs to be the same communication and it needs to be honest. So, they are a little bit of lofty goals, but that's kind of going to get us started.
+
 # August 21, 2023
 
 ## CDC spokesperson on ACIP for Pfizer's Abrysvo vaccine
