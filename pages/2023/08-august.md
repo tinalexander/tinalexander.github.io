@@ -17,6 +17,37 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 22, 2023
 
+## Maryland official on locally acquired malaria case
+
+- **Source:** recording of briefing shared by Maryland Department of Health
+- **Date:** received on August 21, 2023
+
+> David Blythe, Maryland Department of Health [00:00:04]
+> 
+> This afternoon, the Maryland Department of Health confirmed and reported a locally acquired case of malaria in a Maryland resident of the National Capital Region. The person was hospitalized, but has been discharged and is doing well at home. 
+> 
+> And for patient confidentiality reasons, I'm not gonna provide additional information about that person, but-- so this would be considered a locally acquired malaria infection. And the particular species of is malaria Plasmodium falciparum. 
+> 
+> You might have heard about local acquisition of malaria in Florida and Texas, and that's a different strain of malaria, that's Plasmodium vivax. So this is different. This is Plasmodium falciparum. 
+> 
+> In Maryland, we have cases of malaria, we have approximately 200 cases of malaria per year, but those cases are associated with travel to countries in the world where malaria is common and what's different about this case is this person did not travel internationally or to other areas where malaria has been occurring. 
+> 
+> ...
+> 
+> David Blythe, Maryland Department of Health [00:05:40]
+> 
+> There are differences. There are some differences in how severe they typically are. In this form of malaria, malaria caused by Plasmodium falciparum, can be more severe than the malaria caused by Plasmodium vivax. So that's one difference. 
+> 
+> There are also differences in the treatment. And so the treatment regimens that a doctor would prescribe to treat one could be different from what it would be for the other. So that's why it's important to note that difference.
+> 
+> ...
+> 
+> David Blythe, Maryland Department of Health [00:07:47]
+> 
+> The counties we would include in the National Capital Region of Maryland are Charles County, Prince George's County, Montgomery County and Frederick County. 
+> 
+> And I note that, but I'll also note that we do have malaria cases, mentioned those 200 or so a year. We have malaria cases that occur throughout Maryland and probably throughout the whole National Capital Region as well. So, uh, that's not exclusive to those four counties.
+
 ## White House official on goals of new pandemic office
 
 - **Source:** [recording](https://www.youtube.com/watch?v=ydQFbA8Nz3s) by BU Center for Emerging Infectious Diseases
