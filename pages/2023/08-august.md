@@ -66,7 +66,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 ## Maryland health department official on locally acquired malaria
 
 - **Source:** recording of briefing shared by Maryland Department of Health
-- **Date:** received on August 21, 2023
+- **Date:** received August 21, 2023
 
 > David Blythe, Maryland Department of Health [00:00:04]
 > 
@@ -134,7 +134,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 ## CDC spokesperson on ACIP for Pfizer's Abrysvo vaccine
 
 - **Source:** email from Kathleen Conley of CDC
-- **Date:** received on August 21, 2023
+- **Date:** received August 21, 2023
 
 > CDC and our Advisory Committee for Immunization Practices (ACIP) look forward to future discussion around recommended use for Pfizer’s recently approved maternal RSV vaccine, which will provide another tool to help protect against a virus that is the leading cause of hospitalization among infants in the U.S.  
 > 
@@ -143,7 +143,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 ## Pfizer spokesperson on new COVID vaccine and EG.5.1
 
 - **Source:** email from Steve Danehy of Pfizer
-- **Date:** received on August 21, 2023
+- **Date:** received August 21, 2023
 
 > Pfizer continues to closely monitor emerging variants and conduct tests of the Pfizer-BioNTech COVID-19 vaccine with an updated XBB.1.5 monovalent composition against those variants. A recent study in mice showed that our updated monovalent XBB 1.5 vaccine effectively neutralized a number of Omicron XBB variants, including XBB.1.5 and EG.5.1.
 
