@@ -15,6 +15,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 23, 2023
+
+## Virginia health department on BA.2.86 at Dulles
+
+- **Source:** email from Brookie Crawford of Virginia Department of Health
+- **Date:** received August 22, 2023
+
+> The Virginia Department of Health (VDH) was informed by the Centers for Disease Control and Prevention's (CDC) Traveler Genomic Surveillance (TGS) Program of a preliminary identification of BA.2.86 from a pooled sample voluntarily collected from several travelers arriving at Dulles International Airport (IAD). The identification of BA.2.86 was confirmed by genomic sequencing. The sample is currently at CDC laboratories for further characterization The Traveler Genomic Surveillance Program is anonymous, so it is not possible to identify or conduct additional follow-up with this individual.
+
 # August 22, 2023
 
 ## Maryland official on locally acquired malaria case
