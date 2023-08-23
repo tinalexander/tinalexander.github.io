@@ -17,6 +17,23 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 23, 2023
 
+## FDA spokesperson on tests from Reedley lab 
+
+- **Source:** email from James McKinney of FDA
+- **Date:** received August 22, 2023
+
+> You had asked:
+> 
+> If the FDA has received any complaints related to the tests in the safety communication and
+>  
+> The FDA is not aware of any adverse event-related consumer complaints or reports regarding the affected tests in our safety communication.  In 2017, the FDA received a voluntary consumer report through the agency’s MedWatch database regarding false test results from the HealthyWiser UriTest 10 Parameter Reagent Test Strips (MW-5071580).
+> 
+> If the FDA had inspected any of the firm's facilities in California before they stopped operations.
+> 
+> Prior to the company notifying FDA that it was shutting down operations, the FDA in 2018 inspected the company’s Tulare, Calif. facility and did not pursue any additional actions at that time.  That said, and in general, FDA cannot discuss ongoing matters.
+> 
+> To note, the safety communication regarding this recall is not a result of recent media attention or the reported conditions at any facility. This safety communication is to follow up on a recall initiated by UMI in May after the company told FDA it has previously stopped all operations and was no longer providing support for its tests. While UMI initiated a recall to remove undistributed tests from their distributors, UMI did not initiate a recall for tests that were already distributed to consumers. Given FDA’s concerns about these tests, the FDA is issuing this safety communication to consumers and patients as part of its mandate to protect the public health.
+
 ## Maryland agriculture department on malaria mosquito testing
 
 - **Source:** email from Jessica Hackett of Maryland Department of Agriculture
