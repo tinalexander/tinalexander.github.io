@@ -17,6 +17,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 23, 2023
 
+## Ohio spokesperson on BA.2.86 in wastewater
+
+- **Source:** email from Ken Gordon of Ohio Department of Health
+- **Date:** received August 23, 2023
+
+> The Centers for Disease Control and Prevention (CDC) recently informed the Ohio Department of Health (ODH) that the state had a preliminary detection of the BA.2.86 COVID-19 variant in one wastewater sample.
+> 
+> ODH is working with the CDC on further evaluation of the sample. As this preliminary detection has not been confirmed, ODH at this time cannot provide any further information.
+> 
+> BA.2.86 contains a number of mutations that make it distinct from other currently circulating lineages. According to the CDC, at this point there is no evidence that this variant is causing any more severe illness.
+> 
+> As always, ODH encourages Ohioans to stay up to date on their COVID-19 vaccinations as the best way to prevent serious illness, and to stay home if they are sick.
+
 ## FDA spokesperson on tests from Reedley lab 
 
 - **Source:** email from James McKinney of FDA
