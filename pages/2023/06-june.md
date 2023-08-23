@@ -13,26 +13,45 @@ permalink: /2023/06
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-# 06/29/2023
+<br>
 
-## From CDC spokesperson Kathleen Conley
+# June 29, 2023
 
-CDC can confirm that it has received and tested mosquito specimens from both FL and TX in support of their investigations.
+## CDC spokesperson on malaria testing in Florida and Texas
 
-Information on the result of specimens tested at CDC are shared with the states. For additional information on the number of mosquitos sent by the state, results of testing, and locations where mosquitos were collected please contact the state.
+- **Source:** email from Kathleen Conley of CDC
+- **Date:** received June 29, 2023
 
-## From Texas DSHS spokesperson Chris Van Deusen
+> CDC can confirm that it has received and tested mosquito specimens from both FL and TX in support of their investigations.
+>
+> Information on the result of specimens tested at CDC are shared with the states. For additional information on the number of mosquitos sent by the state, results of testing, and locations where mosquitos were collected please contact the state.
 
-So far, all mosquitoes tested have been negative. We generally discuss cases, not suspected, possible or speculative cases.
+## Texas spokesperson on malaria testing of mosquitoes
 
-## From Sarasota County Mosquito Management Services
+- **Source:** email from Chris Van Deusen of Texas Department of State Health Services
+- **Date:** received June 29, 2023
 
-Sarasota County Mosquito Management Services sends samples to the CDC weekly. We have sent over 100 Anopheles to the CDC for testing. So far three have come back positive. All three were collected from the same woodlot. Mosquito management has already conducted multiple truck, aerial, backpack treatments in that woodlot to eradicate the Anopheles. Efforts continue to test more Anopheles from all areas of concern as well as treatments.
+> So far, all mosquitoes tested have been negative. We generally discuss cases, not suspected, possible or speculative cases.
 
-## From Christopher Lesser of Manatee County Mosquito Control District
+## Sarasota County on mosquito testing for malaria
 
-we are collecting 2x/week since May 23 for a total of 11 shipments.  None have been found to be “positive” or infected with malaria/Plasmodium in Manatee County.  In addition, we have no humans infected in Manatee County (we are immediately to the north of Sarasota. 
-As a point of clarification, within these 11 shipments, there have been approximately 50 individual samples or “pools” submitted.  Again …. None have been been found to be positive for malaria in Manatee County. 
+- **Source:** email from Sara Nealeigh of Sarasota County
+- **Date:** received July 12, 2023
+
+> Please see below from Sarasota County Mosquito Management Services:
+> 
+> Sarasota County Mosquito Management Services sends samples to the CDC weekly. We have sent over 100 Anopheles to the CDC for testing. So far three have come back positive. All three were collected from the same woodlot. Mosquito management has already conducted multiple truck, aerial, backpack treatments in that woodlot to eradicate the Anopheles. Efforts continue to test more Anopheles from all areas of concern as well as treatments.
+
+## Manatee County on mosquito testing for malaria
+
+- **Source:** email from Christopher Lesser of Manatee County Mosquito Control District
+- **Date:** received June 29, 2023
+
+> we are collecting 2x/week since May 23 for a total of 11 shipments.  None have been found to be “positive” or infected with malaria/Plasmodium in Manatee County.  In addition, we have no humans infected in Manatee County (we are immediately to the north of Sarasota.
+>
+> ...
+> 
+> As a point of clarification, within these 11 shipments, there have been approximately 50 individual samples or “pools” submitted.  Again …. None have been been found to be positive for malaria in Manatee County. 
 
 # 06/27/2023
 
