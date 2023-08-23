@@ -17,7 +17,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 23, 2023
 
-## Virginia health department on BA.2.86 at Dulles
+## Virginia health department spokesperson on BA.2.86 
 
 - **Source:** email from Brookie Crawford of Virginia Department of Health
 - **Date:** received August 22, 2023
@@ -26,7 +26,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 22, 2023
 
-## Maryland official on locally acquired malaria case
+## Maryland health department official on locally acquired malaria
 
 - **Source:** recording of briefing shared by Maryland Department of Health
 - **Date:** received on August 21, 2023
