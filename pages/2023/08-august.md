@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 23, 2023
 
+## Maryland agriculture department on malaria mosquito testing
+
+- **Source:** email from Jessica Hackett of Maryland Department of Agriculture
+- **Date:** received August 22, 2023
+
+> The Mosquito Control Program let me know that mosquitoes that have been trapped are sent to the State Lab, who will then send them to the CDC. 
+
 ## Virginia health department spokesperson on BA.2.86 
 
 - **Source:** email from Brookie Crawford of Virginia Department of Health
