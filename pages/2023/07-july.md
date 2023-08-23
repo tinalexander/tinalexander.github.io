@@ -13,6 +13,7 @@ permalink: /2023/07
 {: .important }
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
+<br>
 
 # July 31, 2023
 
