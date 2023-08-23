@@ -53,349 +53,358 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > As a point of clarification, within these 11 shipments, there have been approximately 50 individual samples or “pools” submitted.  Again …. None have been been found to be positive for malaria in Manatee County. 
 
-# 06/27/2023
-
-## From a COVID-19 Vaccine Education and Equity Project [webinar](https://covidvaccineproject.org/news/whats-next-for-the-covid-19-response-a-conversation-with-experts/)
-
-Peter Marks, FDA [00:05:30]
-
-Now, whether this is an annual formulation where we have an annual vaccine, or whether it will be updated more frequently or less frequently, I think is still something up for discussion. But, I think those of us who are guessing, are guessing that we'll see,  annual updates of this vaccine and that's kind of the structure that we put forward. 
-
-And then the spring, what we did most recently, was decided on what will go into the 2023-2024 formulation of the vaccine in terms of the different, SARS-CoV-2 strains, that's the virus that causes COVID 19, the strains that will go in and it was decided that we would recommend one of the Omicron subvariants XBB.1.5 which seems to be a very good immunogen against a variety of other COVID causing SARS-CoV-2. 
-
-So, this is I think something that we will see now in the fall, we will anticipate that sometime in September, we'll see these vaccines become available as part of vaccination campaigns. 
-
-It will be up to CDC to make recommendations on who receives these, but we would anticipate that they will be either approved or authorized from FDA for the overall population from six months up through all adults. 
-
-...
-
-Question [00:41:40]
-
-What pharmacies have been contracted with for the bridge program? And I'm not sure how that actually works. Dr. Cha, are they directly contracting through your work? How does that process work?
-
-Stephen Cha, HHS [00:41:55]
-
-Yeah, that's still a TBD item, that as with all contracting items, until we can say, we can't say. So, I think we're working on that now. We're aware of the need, as Dr. Romero said, about the need for penetration. And so we're trying to figure out how to get as broad as sweep as possible while working under the contracting tools we have available.
-
-Question [00:42:17]
-
-You're a small pharmacy, you're in Bentonville, Arkansas, and you, I just picked Arkansas, Dr.. Romero must be in my mind. And you are interested in the program. Do you contact-- do you go on the website? Do you contact the bridge program? How do they get contracts with you all?
-
-Stephen Cha, HHS [00:42:34]
-
-I think we're trying to put some information out there in the next few weeks.
-
-Question [00:42:38]
-
-Okay. And then once that comes out, we would love to share that with everyone on this webinar. And we'll share it and we'll share it with the vaccination collaborative. So as you know, we'll continue to work with our pharmacy partners to make sure that they're aware. 
-
-Stephen Cha, HHS [00:42:51]
-
-I should also say we're probably planning to do another one of our large scale webinars. We've done a few of these in the past to update on all the information, and that's why I'm saying next few weeks, timed with that, we're hoping to put out some more things in black and white that I know are questions on this. But I'm hoping for that in the next few weeks.
-
-...
-
-Peter Marks, FDA [00:53:31]
-
-But from everything we're hearing from the manufacturers, there will be-- if somebody wants vaccine, it sounds like there will be plenty of all the different vaccine types that are currently licensed or under EUA available.
-
-Stephen Cha, HHS [00:53:52]
-
-I was just gonna add that. I think the only concern I do have, and I think a concern is overly strong. The thing that we're trying to watch is the equity issue, to be sure that we know there's plenty of volume. I want to be sure it's in the right places. I want to be sure it gets to the right locations. And I want to be sure we're building on the, I think one of the success that we didn't talk about this, one of the successes we've had in terms of decreasing, certainly the Black White disparity in vaccine equity, I think is something we worked hard on, and we wanna be sure that carries on as we transition and the commercial, this goes to the commercial market that that equity continues.
-
-...
-
-Peter Marks, FDA [00:55:29]
-
-Right now we're in a place where thankfully COVID levels are not really high. I think it's something to talk to your provider about whether it's a reasonable thing to get a COVID 19 vaccine now, or just wait until the fall. 
-
-As I said, in September, we expect the 2023-2024 formulations to be available, and probably one would want at least two months between getting vaccinations. So we're getting into the window where it may be, again, talk to your provider, but it may be reasonable to wait until the 2023-2024 formulation is available. 
-
-And I do hear, incredibly, thank you for the advice, we do need to keep-- we will try to make sure that there are clear recommendations for providers and clear recommendations to the population about what they should be doing. 
-
-# 06/26/2023
-
-## From a CDC [webinar](https://www.cdc.gov/locs/2023/06-23-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_June_26.html) for testing laboratories 
-
-Natalie Thornburg, CDC [00:09:29]
-
-Since I last talked with you, we've changed the cadence of our reporting, and have dropped back to biweekly. So we're updating it every other week. So we updated last week and then we'll do it a week and a half from now. And we also changed the bins of-- the binning of data. So previously the data had been in weekly bins, and now they're in biweekly bins. 
-
-And the main reason for that is just with continued decreased case counts, we are having decreasing numbers of specimens and in order to remain to maintain power to calculate weighted estimates and to do the Nowcast modeling, which estimates proportions of lineages into the present, it was important to generate those biweekly data bins just for statistical power. 
-
-It's good news though that we've had continuing downward and low case count trends since really January of this year. And thus far we're still maintaining low percent positivity. 
-
-...
-
-Natalie Thornburg, CDC [00:12:12]
-
-Some of them don't look like XBB viruses because they have aliases right now, like FE.1.1 or EU.1.1, but alias or nickname are assigned whenever too many numbers are added onto the lineage. So even those that don't look like XBB viruses, FD.2, EU.1.1, are indeed XBB viruses. 
-
-Many of these viruses, actually, even though they descended from different parental lineages, have either very similar or identical spike sequences. So a couple of new lineages were broken out on the data tracker last week. Those include EU.1.1. EU.1.1 is a lineage-- is a sub lineage of XBB.1.5, which was the major circulating lineage in the winter. FE.1 is a sublimage of XBB. Its full name is XBB.1.18.1.1. And it contains an additional substitution at residue 456 in spike. And XBB.1.5.68 was also broken out on the data tracker. 
-
-And so you can see those three here. They're predicted to be just above 1% of circulating viruses, about 1% of circulating viruses nationally. 
-
-...
-
-John Barnes, CDC [00:20:14]
-
-As one additional measure, CDC has been working with clinicians, clinical labs, and state public health labs to increase surveillance of novel influenza A, including H5N1, among people who have had severe respiratory disease in the summer months when influenza circulation is lower and influenza testing may not be as commonplace. 
-
-CDC is asking that during these late spring and summer months, influenza A positive samples from ICU that are not typed, subtyped, in the clinical lab, please be submitted to state public health laboratories for subtyping analysis. I should also mention that if you have a BioFire or multi-respiratory panel, like the BioFires panels, and those have no subtype, but are are influenza A positive, those are viruses that we desperately want to see in the public health lab for further analysis. 
-
-...
-
-Anastasia Litvintseva, CDC [00:38:30]
-
-Diagnostics was slow and challenging and, only on May 28th, the first laboratory in the United States was able to confirm fusarium solani in CSF by metagenomics, that was done by University of California San Francisco. Next slide please. 
-
-...
-
-Anastasia Litvintseva, CDC [00:40:22]
-
-Unfortunately, there are no cultures as of this moment. All confirmed and most probable cases that were tested with this test had highly elevated beta-D-glucan in the CSF. And there were a couple of confirmations from PCR and metagenomics in the U.S. and Mexico, which all identified fusarium or fusarium solani species DNA in the CSF of these patients. Next slide please. 
-
-...
-
-Anastasia Litvintseva, CDC [00:42:14]
-
-As far as the laboratory diagnostics of mold meningitis, again, I said it's challenging and very little is known. Next slide, please. 
-
-So the best option is obviously culture. It is a gold standard, having an isolate is really helpful for being able to perform whole genome sequencing, for example, to see whether the Durango and Matamoros outbreaks might have been related. Unfortunately, this case there are, there are no isolates from this outbreak, and overall the sensitivity of culture for fungal meningitis is due to molds, filamentous fungi, is very low. Back in 2012, only 14% of patients were positive by culture. 
-
-...
-
-Anastasia Litvintseva, CDC [00:43:03]
-
-The best method that we have in our arsenal right now is beta-D-glucan detection, by Fungitell test produced by Cape Cod Associates. This test detects fungal cell wall polysaccharide beta-D-glucan that is present in most fungal cells. 
-
-It's a reasonably common test. It is FDA approved for testing serum. It is not FDA approved for testing cerebrospinal fluid. However, several commercial laboratories are offering BDG testing on CSF. And it was very helpful during the 2012 outbreak, all confirmed cases back in 2012, and to my knowledge, all confirmed and probable cases in this outbreak, are positive by beta-D-glucan in CSF with very high titers. 
-
-The limitations of this test is that unfortunately it cannot identify species. All it can tell that whether it's fungus or not a fungus. Unfortunately, it doesn't work for all fungi. For example, mucormycosis and a few other fungal groups have different  polysaccharide in the cell walls, and therefore it does not work for those fungi, but it does work well for fusarium aspergillus and other molds. 
-
-And it's known to generate false positives as well. Next slide, please. 
-
-...
-
-Anastasia Litvintseva, CDC [00:44:39]
-
-Our next best option is pan-fungal PCR, which works by amplifying fragments of fungal DNA present in body fluids. And then it's followed by Sanger sequencing. In the absence of culture, this is a method that can actually identify genus, identify the pathogen down to genus, or sometimes even species complex level. It's pathogen agnostic. Therefore it can identify multiple fungi present in the specimen. The laboratory that offers clinical testing, by pan-fungal PCR on body fluids, which is located in the University of Washington, they use multiple gene targets to increase sensitivity. 
-
-And again, it showed decent sensitivity back in 2012. Initially, the sensitivity of conventional PCR in 2021 meningitis was nearly 30 percent. And then it increased to 40 percent when the assay was converted to a real time format. 
-
-It has a few limitations. It's highly dependent upon the DNA extraction. And for fungal meningitis, DNA extraction is really challenging, because unlike some cases of meningitis, more conventional meningitis, caused by cryptococcus o histoplasma or other yeasts that circulate in cerebrospinal fluid, filamentous fungi do not circulate. 
-
-Therefore obtaining this fungal fragments high (inaudible) for extraction is challenging. The best method that works so far is targeting free circulating DNA present in CSF. And that unfortunately requires larger volume of CSF for testing.
-
-Of course, presence of DNA doesn't always indicate infection. And PCR is highly sensitive to contamination, some results, especially with unusual pathogens can be hard to interpret. Next slide, please. 
-
-...
-
-Anastasia Litvintseva, CDC [00:46:53]
-
-The newly developed metagenomics next-gen sequencing is a very promising method that unfortunately is only offered by single center in University of California San Francisco. So this method relies on direct sequencing in analysis of DNA. 
-
-Again, it may be even more sensitive than pan-fungal-- not sensitive. It may be more informative than pan-fungal PCR because it, in many cases, it can identify pathogen down to species level and it's pathogen agnostic, and it interrogates the entire genome. If pan-fungal PCR relies on specific primers and targets, this method can detect any traces of pathogen's DNA, and because there's no amplification, there is lower chance of contamination and higher confidence in the result.
-
-The main drawback of this method, again, high volume of CSF is needed because DNA extraction is really challenging, and it's a very complex method that's only available at a single center, right now. Next slide please. 
-
-...
-
-Anastasia Litvintseva, CDC [00:48:11]
-
-And the final method I wanted to mention is the method that's only available in Mexico. 
-
-Very interestingly, our Mexican colleagues, before this outbreak, already had fusarium specific, real time PCR developed, that specifically can amplify and measure the level of fusarium in body fluids. 
-
-It is a commercially available kit in Mexico. It was the first method to detect fusarium solani in this outbreak, and it appears to be sensitive. 
-
-The limitations are that it's, again, only available in Mexico. There is very little we know about this test, including the performance characteristics, and we were not able obtain PCR primers and probe sequences, which appear to be proprietary. Therefore we don't know how specific this method can be.
-
-...
-
-Question [00:49:43]
-
-Wondering if the actual epidural was contaminated.
-
-Anastasia Litvintseva, CDC [00:49:47]
-
-We don't know this yet. This is a hypothesis, most likely, that the pathogen was injected, it was linked to contaminated medicine, but there is no confirmation yet.
-
-...
-
-Anastasia Litvintseva, CDC [00:50:17]
-
-To the best of my knowledge there have been autopsies, the specimens have been sent for culture, unfortunately, there are no positive cultures yet, but in theory it should be possible to culture this organism from tissues, but unfortunately all negative so far.
-
-# 06/23/2023
-
-## From the third of a three day [meeting](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) of the CDC's ACIP during June 2023
-
-Matthew Daley, ACIP [01:13:07]
-
-Everyone in the room and on the phone, I think, is probably well aware, on June 15th, 2023, FDA's Vaccines and Related Biologic Products Advisory Committee or VRBPAC met to discuss strain selection for updating COVID 19 vaccines and came to the following conclusion that, based on the totality of the available evidence presented, the FDA advised manufacturers to develop an updated COVID 19 vaccine with a monovalent XBB.1.5 composition. And by monovalent, it's just focused on the XBB.1.5, and it would not contain Wuhan strain. 
-
-And then there was an anticipation that these updated vaccine doses would be broadly available in the fall. And that following updated vaccine authorizations by the FDA, then the ACIP would convene to review evidence to inform updated recommendations for the use COVID 19 vaccines in the U.S. population. 
-
-...
-
-Jefferson Jones, CDC [02:07:35]
-
-So this slide shows quantitative antibody data among specimens with detectable antibodies from the pediatric commercial laboratory study on the right, compared with that of previously shown for adults on the left. Both studies used the same quantitative binding antibody assay. 
-
-Although the vaccine history is unknown for the children in this study, children age 6 to 23 months were found to have similar antibody levels to those adults who have been previously infected, but unvaccinated, likely because most of these children had also been infected, but unvaccinated. 
-
-In contrast, adolescents have similar titers to adults who are vaccinated or have hybrid immunity, likely because many of them are vaccinated and many have hybrid immunity. This may indicate that antibody titers depend more on whether a person is vaccinated or has a history of vaccination than age. 
-
-...
-
-Ruth Link Gelles, CDC [02:27:38]
-
-It's become very difficult to measure prior infection in vaccine effectiveness studies. So if you think about the typical person being hospitalized, that's picked up in one of these studies, they may have had half a dozen prior infections that they did a nasal swab at home and were never reported in their medical record. 
-
-And so we've done a lot of work in these platforms to look at prior infection, both in the EHR based platforms and in the platforms that actually have an interview and self-report, and we find very similar numbers of prior infections, which is about 15 to 20% with documented prior infection. 
-
-We know from the seroprevalence data that that is a huge underestimate. And so, I think because of that, we've been very hesitant to try to make conclusions or control for prior infection in our VE studies because it really needs to be treated as a mostly missing variable. 
-
-That being said, I mean, I think right now we're in this context of very high seroprevalence across almost all age groups. And so we really have been interpreting the VE as kind of in the context of the current setting with high seroprevalence. So what can a vaccine do, at the population level, to boost protection beyond existing protection from either prior infection or prior vaccination.
-
-...
-
-Megan Wallace, CDC [02:34:35]
-
-The work group also discussed data driven ways to simplify our current recommendations in the future. As demonstrated on this slide, our current pediatric recommendations for initial vaccination are complex, with those six months to four years receiving two or three doses, those five years receiving one or two doses, and those six and up receiving a single dose. Next? 
-
-To address some of this complexity, the work group discussed if children ages two to four years continue to need a multi-dose initial series, or could they also move to a single possibly annual dose, like the older population. Next? 
-
-This slide shows, with these possible simplified recommendations could look like in the future, with infants and children ages six to 23 months receiving two or three doses of their initial series, while those two years and older would only be recommended for a single dose for their initial vaccination, eliminating much of the current complexity. 
-
-Next, in addition to the simplifying our current recommendations, there are data to suggest that those 6 to 23 months would benefit most from a multidose initial series, with data and 2 to 4 year olds looking more like what we see in the older children, this slide, which was previously shown by Dr. Havers, shows the weekly COVID 19 associated hospitalization rates for children and adolescents ages 6 months through less than 18 years. We see that most of the age groups presented here including 2 to 4 year olds have similar hospitalization rates. However, those 6 months to less than 2 years have a notably higher hospitalization rate than the other pediatric age groups over the past year. 
-
-...
-
-Megan Wallace, CDC [02:37:52]
-
-The work group emphasized COVID 19 vaccines effectively protect children from hospitalization and severe disease from COVID 19, but uptake of COVID 19 vaccines and children remains low. 
-
-While we aren't proposing a vote or policy change now, the work group would be supportive of a move toward a recommendation for a single possibly annual dose in ages two to four years, based on hospitalization rates and rates of seropositivity in this age group in the future. 
-
-However, the work group did highlight differences in the transition to a single dose series from a two dose series, compared to a three dose series. Simple recommendations may lead to increased coverage. We will continue to review data and evaluate the COVID 19 vaccine program in the context of evolving epidemiology. 
-
-...
-
-Megan Wallace, CDC [02:39:03]
-
-Following the meeting, FDA advised manufacturers to develop a vaccine with a monovalent XBB.1.5 composition. We anticipate updated vaccine doses will be broadly available in the fall. Following updated vaccine authorizations, ACIP will review evidence to inform updated recommendations. Next. 
-
-As we plan for the fall, COVID 19 vaccines and treatments will likely transition to the commercial marketplace. CDC continues to partner closely with state, local, and interagency partners toward continued successful distribution of COVID 19 vaccines and treatments. During this time, including clarification of processes for ordering shipping and distribution. 
-
-Guidance for partners will be published this summer, prior to the transition to the commercial marketplace.
-
-...
-
-Evelyn Twentyman, CDC [02:46:56]
-
-This program is actively being set up right now. There are two components and I'll dive into them a little bit more, since you asked the question. 
-
-So I mentioned the first is through existing public health infrastructure. So awardees, in other words, our vaccine awardees, will support and coordinate with their existing adult immunization programs, those include their local health departments and their HRSA supported health centers, to get vaccines to under and uninsured adults. And in this case, underinsured, in case anyone's wondering what that means means, without insurance coverage of cost free access to vaccine. And then HRSA will also be supporting delivery of vaccines and treatments directly to their health centers, their FQHCs, federally qualified health centers, and CDC will use its authority under section 317 of the Public Health Service Act to purchase and distribute COVID 19 vaccines and allocate operational funds to awardees. 
-
-And then there's a second component that I mentioned of the program, which will be implemented through retail pharmacies. So the pharmacy component, in terms of vaccine, will rely on donated vaccines from manufacturers and administration costs will be covered by the federal government. Pharmacies included in the program will be among those that have previously participated in federal partnerships during the public health emergency and have the infrastructure in place already to administer COVID 19 vaccines and that selection and competition process is ongoing. 
-
-Closing gaps in COVID 19 vaccine access is a program priority here. And so I wanted to specifically call out that participating pharmacies will be eligible for additional payments to establish sites in areas with low rates of access or vaccination. I hope that helped as a brief overview of components.
-
-...
-
-Sara Oliver, CDC [02:50:35]
-
-I will note that ACIP and VRBPAC had weighed in previously on the harmonization of kind of primary series, as well and simplifying to a single composition. And so we anticipate, moving forward, that as we update the composition, kind of the entire program would move. We wouldn't kind of do this piecemeal by age. But Dr. Kaslow, if you wanted to say anything else?
-
-David Kaslow, FDA [02:51:00]
-
-That's correct. That's the intent. Is to harmonize for all doses, all ages, same composition. So in the fall, that would be the 2023-2024 formula would be an XBB.1.5.
-
-...
-
-Agam Rao, CDC [09:34:50]
-
-So over the last several months, CDC has received multiple inquiries about whether additional Jynneos doses will be recommended for people who were vaccinated against mpox last year. 
-
-There's limited data to inform decisions about this. And for that reason, we're not presenting it for an ACIP vote. However, we've been thinking through the available data and discussed it with the work group as well. And the purpose of this presentation is to convey our thinking about this important question that we're receiving very frequently.
-
-...
-
-Agam Rao, CDC [09:40:08]
-
-So the work group concluded from this that the significance of waning circulating antibody levels is unknown. An anamnestic response is elicited two years after the Jynneos primary series. So it might not be clinically significant.
-
-ACIP recommendations for persons at occupational risk for orthopoxviruses was for different exposures than those experienced during the current outbreak. It was for people working with research grade viruses. And so we can't assume that the same recommendation would be applied for any patients in the current outbreak and cannot assume that patients during the current outbreak would all patients would need a booster dose. 
-
-...
-
-Agam Rao, CDC [09:40:59]
-
-As Dr. Minhaj has already mentioned, there are three VE studies that we've been evaluating, and the VE has ranged for a first dose between 36 and 75%. And for a second dose, 66 to 89%.
-
-Mpox cases among persons who have received two doses have occurred. And this is expected. Vaccines don't prevent a hundred percent of illnesses usually. And these have been reported as early as August 2022. So they've been occurring for since the start of this outbreak, really, that there have been some cases that have occurred among people who have received two doses of the Jynneos vaccine. 
-
-And the 2023 Chicago cluster is what raised this alarm a little bit more. People were concerned that this cluster, since it was occurring, mostly among people who received two doses of the Jynneos vaccine, that perhaps it implied that the vaccine would benefit from an additional dose, but we're not seeing any other U.S. clusters of a similar size, let alone involving this many vaccinated persons. 
-
-And then just as a reminder, the Chicago cluster, while we're still trying to understand the reason for it, there were no hospitalizations among the people who received two doses of the vaccine. They were not typically prescribed pain control medications. The sequences are typical of the B.1 variant of the MPXV clade IIb, and no mutations that would confer increased pathogenicity were observed. 
-
-Next slide. So the work group's interpretation of this data is that a third dose is currently not indicated for the entire population eligible for vaccination, and they turned their-- the focus to persons who might have severe manifestations from mpox. 
-
-...
-
-Agam Rao, CDC [09:43:19]
-
-So this slide shows first our considerations about the safety of a third dose. So the current knowledge is based on two things.
-
-On this slide, we see the data from the same DRC study that I've been discussing that evaluated effectiveness. It also evaluated safety. So that study involves HCP and, it shows, as you can see in the at the bottom, increased adverse events among recipients of a third dose that was given at five years after the primary series. So these are individuals who had already received the first and the second dose. They received a third dose five years later, and safety and effectiveness were evaluated. 
-
-Now that third dose was, was given to a subset of the patients. It was given to 170 patients while the first and the second doses were given to 706 patients. But you can see from the figure that the percentage of people who experienced some of these adverse events was much higher for those who received a third dose than for those who received a first or a second dose. 
-
-A limitation of the study though, is that it was performed in the DRC. And we do not know if the population, if the findings, can be extrapolated to the U.S. population.
-
-...
-
-Agam Rao, CDC [09:45:36]
-
-The work group then considered the serologic response data that we have about the response among persons with HIV compared to people who do not have HIV. There is data from two studies about this. So, for nearly 600 persons combined between these studies, with a CD4 count greater than 200, serologic response to the two dose series was equivalent to response in persons without HIV. And the figure here on this slide is just from one of these papers, but both of these papers show this data. I'm not sure why it's not showing up here actually next slide, perhaps it's-- yeah, there it is.
-
-So this is from one of those papers, but the both studies are showing the same thing. The limitation, though, is that there's no assessment of serologic response for persons with a CD4 count less than 100. Next slide.
-
-And then, um, we also looked at serologic response to Jynneos among persons with HIV who get that third dose. And for persons with the CD4 count 100 to 500, and a lifetime nadir less than 200, serologic response of three doses is similar to two doses. 
-
-And we also reviewed unpublished data. So there was -- we're not presenting that data here, but we received unpublished data from Bavarian Nordic, the product sponsor, for a few, very few, number of patients. And there was no correlation, by our read, between low CD4 count and antibodies after vaccine. It was a very small number of patients, but that was our conclusion from that data. 
-
-...
-
-Agam Rao, CDC [09:48:25]
-
-And we looked at national reporting and also anecdotal reports. The current knowledge is that, as that, perhaps over 10,000 people have received mpox cases have occurred among persons with HIV, but we have no confirmed reports of severe mpox illness after the two dose vaccine series. 
-
-The CDC reviewed data reported from health departments, for people who received two doses of the vaccine, and confirmed none were hospitalized due to severe manifestations of mpox. We actually did spend some time contacting health departments for those places, for those cases, for which the information indicated that the person had mpox, received two doses of vaccine, and there was a hospitalization indicated. 
-
-And when we contacted those health departments, they confirmed to us that these hospitalizations were not due to mpox. In one case, for example, due to housing instability, some other issues, treatment for a concurrent STI, they confirmed that were not due to the actual mpox infection. 
-
-But I will say that anecdotally we've heard that there was a severe case in a patient who did receive two doses of the vaccine. We'd have no details about that case though. We've only heard that from a provider who mentioned that they cared for such a patient. 
-
-And I can also say that there-- we were also contacted by a provider who is caring for a patient with severe immunocompromise who feels that their illness, while appearing necrotic in appearance, the lesions were not disseminated. They were localized to small areas. The patient was managed in the outpatient setting and the clinical team felt that perhaps the severity of the illness was attenuated by the fact that only two-- that they received two doses of the vaccine. 
-
-...
-
-Agam Rao, CDC [09:50:35]
-
-So the work group concluded that there's no convincing data to indicate patients with moderate to severe immuno compromise would benefit from an additional dose of the Jynneos vaccine. Next slide. 
-
-...
-
-Agam Rao, CDC [09:52:14]
-
-So the work group's conclusions were that they were preferring that there'd be no CDC recommendation for a third Jynneos dose at this time, including for persons with advanced HIV or other severe immunocompromise. And they emphasized several strategies instead: encouraging the two dose vaccinations among persons who do not have immunity, that is persons, for example, who have not had mpox. 
-
-So persons who have not had mpox and also have not received vaccinations. And they also said that we need to remind people that they can prevent or minimize life threatening manifestations through optimizing immune function, example through HIV antiretrovirals, ideally before there is an mpox exposure. 
-
-So if you can find people to give them an extra dose of the vaccine, similarly, you should be able to find people to optimize immune function. And then they also, if someone were to develop severe manifestations of mpox, regardless of whether it's after a vaccination or not, we do have CDC interim treatment considerations that were published in March of this year about how to manage patients with, at risk, of severe manifestations of mpox that describes how to use the medical countermeasures that are stockpiled by the U.S. government and how to consult CDC for 24/7 consultations. And all of these things might help prevent  severe infections and should be considered in combination with vaccines. 
+# June 27, 2023
+
+## FDA and HHS officials on updated COVID vaccines
+
+- **Source:** [webinar](https://covidvaccineproject.org/news/whats-next-for-the-covid-19-response-a-conversation-with-experts/) by COVID-19 Vaccine Education and Equity Project
+- **Date:** hosted June 27, 2023
+
+> Peter Marks, FDA [00:05:30]
+> 
+> Now, whether this is an annual formulation where we have an annual vaccine, or whether it will be updated more frequently or less frequently, I think is still something up for discussion. But, I think those of us who are guessing, are guessing that we'll see,  annual updates of this vaccine and that's kind of the structure that we put forward. 
+> 
+> And then the spring, what we did most recently, was decided on what will go into the 2023-2024 formulation of the vaccine in terms of the different, SARS-CoV-2 strains, that's the virus that causes COVID 19, the strains that will go in and it was decided that we would recommend one of the Omicron subvariants XBB.1.5 which seems to be a very good immunogen against a variety of other COVID causing SARS-CoV-2. 
+> 
+> So, this is I think something that we will see now in the fall, we will anticipate that sometime in September, we'll see these vaccines become available as part of vaccination campaigns. 
+> 
+> It will be up to CDC to make recommendations on who receives these, but we would anticipate that they will be either approved or authorized from FDA for the overall population from six months up through all adults. 
+> 
+> ...
+> 
+> Question [00:41:40]
+> 
+> What pharmacies have been contracted with for the bridge program? And I'm not sure how that actually works. Dr. Cha, are they directly contracting through your work? How does that process work?
+> 
+> Stephen Cha, HHS [00:41:55]
+> 
+> Yeah, that's still a TBD item, that as with all contracting items, until we can say, we can't say. So, I think we're working on that now. We're aware of the need, as Dr. Romero said, about the need for penetration. And so we're trying to figure out how to get as broad as sweep as possible while working under the contracting tools we have available.
+> 
+> Question [00:42:17]
+> 
+> You're a small pharmacy, you're in Bentonville, Arkansas, and you, I just picked Arkansas, Dr.. Romero must be in my mind. And you are interested in the program. Do you contact-- do you go on the website? Do you contact the bridge program? How do they get contracts with you all?
+> 
+> Stephen Cha, HHS [00:42:34]
+> 
+> I think we're trying to put some information out there in the next few weeks.
+> 
+> Question [00:42:38]
+> 
+> Okay. And then once that comes out, we would love to share that with everyone on this webinar. And we'll share it and we'll share it with the vaccination collaborative. So as you know, we'll continue to work with our pharmacy partners to make sure that they're aware. 
+> 
+> Stephen Cha, HHS [00:42:51]
+> 
+> I should also say we're probably planning to do another one of our large scale webinars. We've done a few of these in the past to update on all the information, and that's why I'm saying next few weeks, timed with that, we're hoping to put out some more things in black and white that I know are questions on this. But I'm hoping for that in the next few weeks.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:53:31]
+> 
+> But from everything we're hearing from the manufacturers, there will be-- if somebody wants vaccine, it sounds like there will be plenty of all the different vaccine types that are currently licensed or under EUA available.
+> 
+> Stephen Cha, HHS [00:53:52]
+> 
+> I was just gonna add that. I think the only concern I do have, and I think a concern is overly strong. The thing that we're trying to watch is the equity issue, to be sure that we know there's plenty of volume. I want to be sure it's in the right places. I want to be sure it gets to the right locations. And I want to be sure we're building on the, I think one of the success that we didn't talk about this, one of the successes we've had in terms of decreasing, certainly the Black White disparity in vaccine equity, I think is something we worked hard on, and we wanna be sure that carries on as we transition and the commercial, this goes to the commercial market that that equity continues.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:55:29]
+> 
+> Right now we're in a place where thankfully COVID levels are not really high. I think it's something to talk to your provider about whether it's a reasonable thing to get a COVID 19 vaccine now, or just wait until the fall. 
+> 
+> As I said, in September, we expect the 2023-2024 formulations to be available, and probably one would want at least two months between getting vaccinations. So we're getting into the window where it may be, again, talk to your provider, but it may be reasonable to wait until the 2023-2024 formulation is available. 
+> 
+> And I do hear, incredibly, thank you for the advice, we do need to keep-- we will try to make sure that there are clear recommendations for providers and clear recommendations to the population about what they should be doing. 
+
+# June 26, 2023
+
+## CDC officials on COVID-19 variants, H5N1, fungal meningitis
+
+- **Source:** [webinar](https://www.cdc.gov/locs/2023/06-23-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_June_26.html) by Centers for Disease Control and Prevention
+- **Date:** hosted June 26, 2023
+
+> Natalie Thornburg, CDC [00:09:29]
+> 
+> Since I last talked with you, we've changed the cadence of our reporting, and have dropped back to biweekly. So we're updating it every other week. So we updated last week and then we'll do it a week and a half from now. And we also changed the bins of-- the binning of data. So previously the data had been in weekly bins, and now they're in biweekly bins. 
+> 
+> And the main reason for that is just with continued decreased case counts, we are having decreasing numbers of specimens and in order to remain to maintain power to calculate weighted estimates and to do the Nowcast modeling, which estimates proportions of lineages into the present, it was important to generate those biweekly data bins just for statistical power. 
+> 
+> It's good news though that we've had continuing downward and low case count trends since really January of this year. And thus far we're still maintaining low percent positivity. 
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:12:12]
+> 
+> Some of them don't look like XBB viruses because they have aliases right now, like FE.1.1 or EU.1.1, but alias or nickname are assigned whenever too many numbers are added onto the lineage. So even those that don't look like XBB viruses, FD.2, EU.1.1, are indeed XBB viruses. 
+> 
+> Many of these viruses, actually, even though they descended from different parental lineages, have either very similar or identical spike sequences. So a couple of new lineages were broken out on the data tracker last week. Those include EU.1.1. EU.1.1 is a lineage-- is a sub lineage of XBB.1.5, which was the major circulating lineage in the winter. FE.1 is a sublimage of XBB. Its full name is XBB.1.18.1.1. And it contains an additional substitution at residue 456 in spike. And XBB.1.5.68 was also broken out on the data tracker. 
+> 
+> And so you can see those three here. They're predicted to be just above 1% of circulating viruses, about 1% of circulating viruses nationally. 
+> 
+> ...
+> 
+> John Barnes, CDC [00:20:14]
+> 
+> As one additional measure, CDC has been working with clinicians, clinical labs, and state public health labs to increase surveillance of novel influenza A, including H5N1, among people who have had severe respiratory disease in the summer months when influenza circulation is lower and influenza testing may not be as commonplace. 
+> 
+> CDC is asking that during these late spring and summer months, influenza A positive samples from ICU that are not typed, subtyped, in the clinical lab, please be submitted to state public health laboratories for subtyping analysis. I should also mention that if you have a BioFire or multi-respiratory panel, like the BioFires panels, and those have no subtype, but are are influenza A positive, those are viruses that we desperately want to see in the public health lab for further analysis. 
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:38:30]
+> 
+> Diagnostics was slow and challenging and, only on May 28th, the first laboratory in the United States was able to confirm fusarium solani in CSF by metagenomics, that was done by University of California San Francisco. Next slide please. 
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:40:22]
+> 
+> Unfortunately, there are no cultures as of this moment. All confirmed and most probable cases that were tested with this test had highly elevated beta-D-glucan in the CSF. And there were a couple of confirmations from PCR and metagenomics in the U.S. and Mexico, which all identified fusarium or fusarium solani species DNA in the CSF of these patients. Next slide please. 
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:42:14]
+> 
+> As far as the laboratory diagnostics of mold meningitis, again, I said it's challenging and very little is known. Next slide, please. 
+> 
+> So the best option is obviously culture. It is a gold standard, having an isolate is really helpful for being able to perform whole genome sequencing, for example, to see whether the Durango and Matamoros outbreaks might have been related. Unfortunately, this case there are, there are no isolates from this outbreak, and overall the sensitivity of culture for fungal meningitis is due to molds, filamentous fungi, is very low. Back in 2012, only 14% of patients were positive by culture. 
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:43:03]
+> 
+> The best method that we have in our arsenal right now is beta-D-glucan detection, by Fungitell test produced by Cape Cod Associates. This test detects fungal cell wall polysaccharide beta-D-glucan that is present in most fungal cells. 
+> 
+> It's a reasonably common test. It is FDA approved for testing serum. It is not FDA approved for testing cerebrospinal fluid. However, several commercial laboratories are offering BDG testing on CSF. And it was very helpful during the 2012 outbreak, all confirmed cases back in 2012, and to my knowledge, all confirmed and probable cases in this outbreak, are positive by beta-D-glucan in CSF with very high titers. 
+> 
+> The limitations of this test is that unfortunately it cannot identify species. All it can tell that whether it's fungus or not a fungus. Unfortunately, it doesn't work for all fungi. For example, mucormycosis and a few other fungal groups have different  polysaccharide in the cell walls, and therefore it does not work for those fungi, but it does work well for fusarium aspergillus and other molds. 
+> 
+> And it's known to generate false positives as well. Next slide, please. 
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:44:39]
+> 
+> Our next best option is pan-fungal PCR, which works by amplifying fragments of fungal DNA present in body fluids. And then it's followed by Sanger sequencing. In the absence of culture, this is a method that can actually identify genus, identify the pathogen down to genus, or sometimes even species complex level. It's pathogen agnostic. Therefore it can identify multiple fungi present in the specimen. The laboratory that offers clinical testing, by pan-fungal PCR on body fluids, which is located in the University of Washington, they use multiple gene targets to increase sensitivity. 
+> 
+> And again, it showed decent sensitivity back in 2012. Initially, the sensitivity of conventional PCR in 2021 meningitis was nearly 30 percent. And then it increased to 40 percent when the assay was converted to a real time format. 
+> 
+> It has a few limitations. It's highly dependent upon the DNA extraction. And for fungal meningitis, DNA extraction is really challenging, because unlike some cases of meningitis, more conventional meningitis, caused by cryptococcus o histoplasma or other yeasts that circulate in cerebrospinal fluid, filamentous fungi do not circulate. 
+> 
+> Therefore obtaining this fungal fragments high (inaudible) for extraction is challenging. The best method that works so far is targeting free circulating DNA present in CSF. And that unfortunately requires larger volume of CSF for testing.
+> 
+> Of course, presence of DNA doesn't always indicate infection. And PCR is highly sensitive to contamination, some results, especially with unusual pathogens can be hard to interpret. Next slide, please. 
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:46:53]
+> 
+> The newly developed metagenomics next-gen sequencing is a very promising method that unfortunately is only offered by single center in University of California San Francisco. So this method relies on direct sequencing in analysis of DNA. 
+> 
+> Again, it may be even more sensitive than pan-fungal-- not sensitive. It may be more informative than pan-fungal PCR because it, in many cases, it can identify pathogen down to species level and it's pathogen agnostic, and it interrogates the entire genome. If pan-fungal PCR relies on specific primers and targets, this method can detect any traces of pathogen's DNA, and because there's no amplification, there is lower chance of contamination and higher confidence in the result.
+> 
+> The main drawback of this method, again, high volume of CSF is needed because DNA extraction is really challenging, and it's a very complex method that's only available at a single center, right now. Next slide please. 
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:48:11]
+> 
+> And the final method I wanted to mention is the method that's only available in Mexico. 
+> 
+> Very interestingly, our Mexican colleagues, before this outbreak, already had fusarium specific, real time PCR developed, that specifically can amplify and measure the level of fusarium in body fluids. 
+> 
+> It is a commercially available kit in Mexico. It was the first method to detect fusarium solani in this outbreak, and it appears to be sensitive. 
+> 
+> The limitations are that it's, again, only available in Mexico. There is very little we know about this test, including the performance characteristics, and we were not able obtain PCR primers and probe sequences, which appear to be proprietary. Therefore we don't know how specific this method can be.
+> 
+> ...
+> 
+> Question [00:49:43]
+> 
+> Wondering if the actual epidural was contaminated.
+> 
+> Anastasia Litvintseva, CDC [00:49:47]
+> 
+> We don't know this yet. This is a hypothesis, most likely, that the pathogen was injected, it was linked to contaminated medicine, but there is no confirmation yet.
+> 
+> ...
+> 
+> Anastasia Litvintseva, CDC [00:50:17]
+> 
+> To the best of my knowledge there have been autopsies, the specimens have been sent for culture, unfortunately, there are no positive cultures yet, but in theory it should be possible to culture this organism from tissues, but unfortunately all negative so far.
+
+# June 23, 2023
+
+## Meeting of CDC's ACIP on COVID-19 and mpox vaccines
+
+- **Source:** [webcast](https://www.cdc.gov/vaccines/acip/meetings/downloads/agenda-archive/agenda-2023-06-21-23-508.pdf) by Centers for Disease Control and Prevention
+- **Date:** broadcasted June 23, 2023
+  
+> Matthew Daley, ACIP [01:13:07]
+> 
+> Everyone in the room and on the phone, I think, is probably well aware, on June 15th, 2023, FDA's Vaccines and Related Biologic Products Advisory Committee or VRBPAC met to discuss strain selection for updating COVID 19 vaccines and came to the following conclusion that, based on the totality of the available evidence presented, the FDA advised manufacturers to develop an updated COVID 19 vaccine with a monovalent XBB.1.5 composition. And by monovalent, it's just focused on the XBB.1.5, and it would not contain Wuhan strain. 
+> 
+> And then there was an anticipation that these updated vaccine doses would be broadly available in the fall. And that following updated vaccine authorizations by the FDA, then the ACIP would convene to review evidence to inform updated recommendations for the use COVID 19 vaccines in the U.S. population. 
+> 
+> ...
+> 
+> Jefferson Jones, CDC [02:07:35]
+> 
+> So this slide shows quantitative antibody data among specimens with detectable antibodies from the pediatric commercial laboratory study on the right, compared with that of previously shown for adults on the left. Both studies used the same quantitative binding antibody assay. 
+> 
+> Although the vaccine history is unknown for the children in this study, children age 6 to 23 months were found to have similar antibody levels to those adults who have been previously infected, but unvaccinated, likely because most of these children had also been infected, but unvaccinated. 
+> 
+> In contrast, adolescents have similar titers to adults who are vaccinated or have hybrid immunity, likely because many of them are vaccinated and many have hybrid immunity. This may indicate that antibody titers depend more on whether a person is vaccinated or has a history of vaccination than age. 
+> 
+> ...
+> 
+> Ruth Link Gelles, CDC [02:27:38]
+> 
+> It's become very difficult to measure prior infection in vaccine effectiveness studies. So if you think about the typical person being hospitalized, that's picked up in one of these studies, they may have had half a dozen prior infections that they did a nasal swab at home and were never reported in their medical record. 
+> 
+> And so we've done a lot of work in these platforms to look at prior infection, both in the EHR based platforms and in the platforms that actually have an interview and self-report, and we find very similar numbers of prior infections, which is about 15 to 20% with documented prior infection. 
+> 
+> We know from the seroprevalence data that that is a huge underestimate. And so, I think because of that, we've been very hesitant to try to make conclusions or control for prior infection in our VE studies because it really needs to be treated as a mostly missing variable. 
+> 
+> That being said, I mean, I think right now we're in this context of very high seroprevalence across almost all age groups. And so we really have been interpreting the VE as kind of in the context of the current setting with high seroprevalence. So what can a vaccine do, at the population level, to boost protection beyond existing protection from either prior infection or prior vaccination.
+> 
+> ...
+> 
+> Megan Wallace, CDC [02:34:35]
+> 
+> The work group also discussed data driven ways to simplify our current recommendations in the future. As demonstrated on this slide, our current pediatric recommendations for initial vaccination are complex, with those six months to four years receiving two or three doses, those five years receiving one or two doses, and those six and up receiving a single dose. Next? 
+> 
+> To address some of this complexity, the work group discussed if children ages two to four years continue to need a multi-dose initial series, or could they also move to a single possibly annual dose, like the older population. Next? 
+> 
+> This slide shows, with these possible simplified recommendations could look like in the future, with infants and children ages six to 23 months receiving two or three doses of their initial series, while those two years and older would only be recommended for a single dose for their initial vaccination, eliminating much of the current complexity. 
+> 
+> Next, in addition to the simplifying our current recommendations, there are data to suggest that those 6 to 23 months would benefit most from a multidose initial series, with data and 2 to 4 year olds looking more like what we see in the older children, this slide, which was previously shown by Dr. Havers, shows the weekly COVID 19 associated hospitalization rates for children and adolescents ages 6 months through less than 18 years. We see that most of the age groups presented here including 2 to 4 year olds have similar hospitalization rates. However, those 6 months to less than 2 years have a notably higher hospitalization rate than the other pediatric age groups over the past year. 
+> 
+> ...
+> 
+> Megan Wallace, CDC [02:37:52]
+> 
+> The work group emphasized COVID 19 vaccines effectively protect children from hospitalization and severe disease from COVID 19, but uptake of COVID 19 vaccines and children remains low. 
+> 
+> While we aren't proposing a vote or policy change now, the work group would be supportive of a move toward a recommendation for a single possibly annual dose in ages two to four years, based on hospitalization rates and rates of seropositivity in this age group in the future. 
+> 
+> However, the work group did highlight differences in the transition to a single dose series from a two dose series, compared to a three dose series. Simple recommendations may lead to increased coverage. We will continue to review data and evaluate the COVID 19 vaccine program in the context of evolving epidemiology. 
+> 
+> ...
+> 
+> Megan Wallace, CDC [02:39:03]
+> 
+> Following the meeting, FDA advised manufacturers to develop a vaccine with a monovalent XBB.1.5 composition. We anticipate updated vaccine doses will be broadly available in the fall. Following updated vaccine authorizations, ACIP will review evidence to inform updated recommendations. Next. 
+> 
+> As we plan for the fall, COVID 19 vaccines and treatments will likely transition to the commercial marketplace. CDC continues to partner closely with state, local, and interagency partners toward continued successful distribution of COVID 19 vaccines and treatments. During this time, including clarification of processes for ordering shipping and distribution. 
+> 
+> Guidance for partners will be published this summer, prior to the transition to the commercial marketplace.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [02:46:56]
+> 
+> This program is actively being set up right now. There are two components and I'll dive into them a little bit more, since you asked the question. 
+> 
+> So I mentioned the first is through existing public health infrastructure. So awardees, in other words, our vaccine awardees, will support and coordinate with their existing adult immunization programs, those include their local health departments and their HRSA supported health centers, to get vaccines to under and uninsured adults. And in this case, underinsured, in case anyone's wondering what that means means, without insurance coverage of cost free access to vaccine. And then HRSA will also be supporting delivery of vaccines and treatments directly to their health centers, their FQHCs, federally qualified health centers, and CDC will use its authority under section 317 of the Public Health Service Act to purchase and distribute COVID 19 vaccines and allocate operational funds to awardees. 
+> 
+> And then there's a second component that I mentioned of the program, which will be implemented through retail pharmacies. So the pharmacy component, in terms of vaccine, will rely on donated vaccines from manufacturers and administration costs will be covered by the federal government. Pharmacies included in the program will be among those that have previously participated in federal partnerships during the public health emergency and have the infrastructure in place already to administer COVID 19 vaccines and that selection and competition process is ongoing. 
+> 
+> Closing gaps in COVID 19 vaccine access is a program priority here. And so I wanted to specifically call out that participating pharmacies will be eligible for additional payments to establish sites in areas with low rates of access or vaccination. I hope that helped as a brief overview of components.
+> 
+> ...
+> 
+> Sara Oliver, CDC [02:50:35]
+> 
+> I will note that ACIP and VRBPAC had weighed in previously on the harmonization of kind of primary series, as well and simplifying to a single composition. And so we anticipate, moving forward, that as we update the composition, kind of the entire program would move. We wouldn't kind of do this piecemeal by age. But Dr. Kaslow, if you wanted to say anything else?
+> 
+> David Kaslow, FDA [02:51:00]
+> 
+> That's correct. That's the intent. Is to harmonize for all doses, all ages, same composition. So in the fall, that would be the 2023-2024 formula would be an XBB.1.5.
+> 
+> ...
+> 
+> Agam Rao, CDC [09:34:50]
+> 
+> So over the last several months, CDC has received multiple inquiries about whether additional Jynneos doses will be recommended for people who were vaccinated against mpox last year. 
+> 
+> There's limited data to inform decisions about this. And for that reason, we're not presenting it for an ACIP vote. However, we've been thinking through the available data and discussed it with the work group as well. And the purpose of this presentation is to convey our thinking about this important question that we're receiving very frequently.
+> 
+> ...
+> 
+> Agam Rao, CDC [09:40:08]
+> 
+> So the work group concluded from this that the significance of waning circulating antibody levels is unknown. An anamnestic response is elicited two years after the Jynneos primary series. So it might not be clinically significant.
+> 
+> ACIP recommendations for persons at occupational risk for orthopoxviruses was for different exposures than those experienced during the current outbreak. It was for people working with research grade viruses. And so we can't assume that the same recommendation would be applied for any patients in the current outbreak and cannot assume that patients during the current outbreak would all patients would need a booster dose. 
+> 
+> ...
+> 
+> Agam Rao, CDC [09:40:59]
+> 
+> As Dr. Minhaj has already mentioned, there are three VE studies that we've been evaluating, and the VE has ranged for a first dose between 36 and 75%. And for a second dose, 66 to 89%.
+> 
+> Mpox cases among persons who have received two doses have occurred. And this is expected. Vaccines don't prevent a hundred percent of illnesses usually. And these have been reported as early as August 2022. So they've been occurring for since the start of this outbreak, really, that there have been some cases that have occurred among people who have received two doses of the Jynneos vaccine. 
+> 
+> And the 2023 Chicago cluster is what raised this alarm a little bit more. People were concerned that this cluster, since it was occurring, mostly among people who received two doses of the Jynneos vaccine, that perhaps it implied that the vaccine would benefit from an additional dose, but we're not seeing any other U.S. clusters of a similar size, let alone involving this many vaccinated persons. 
+> 
+> And then just as a reminder, the Chicago cluster, while we're still trying to understand the reason for it, there were no hospitalizations among the people who received two doses of the vaccine. They were not typically prescribed pain control medications. The sequences are typical of the B.1 variant of the MPXV clade IIb, and no mutations that would confer increased pathogenicity were observed. 
+> 
+> Next slide. So the work group's interpretation of this data is that a third dose is currently not indicated for the entire population eligible for vaccination, and they turned their-- the focus to persons who might have severe manifestations from mpox. 
+> 
+> ...
+> 
+> Agam Rao, CDC [09:43:19]
+> 
+> So this slide shows first our considerations about the safety of a third dose. So the current knowledge is based on two things.
+> 
+> On this slide, we see the data from the same DRC study that I've been discussing that evaluated effectiveness. It also evaluated safety. So that study involves HCP and, it shows, as you can see in the at the bottom, increased adverse events among recipients of a third dose that was given at five years after the primary series. So these are individuals who had already received the first and the second dose. They received a third dose five years later, and safety and effectiveness were evaluated. 
+> 
+> Now that third dose was, was given to a subset of the patients. It was given to 170 patients while the first and the second doses were given to 706 patients. But you can see from the figure that the percentage of people who experienced some of these adverse events was much higher for those who received a third dose than for those who received a first or a second dose. 
+> 
+> A limitation of the study though, is that it was performed in the DRC. And we do not know if the population, if the findings, can be extrapolated to the U.S. population.
+> 
+> ...
+> 
+> Agam Rao, CDC [09:45:36]
+> 
+> The work group then considered the serologic response data that we have about the response among persons with HIV compared to people who do not have HIV. There is data from two studies about this. So, for nearly 600 persons combined between these studies, with a CD4 count greater than 200, serologic response to the two dose series was equivalent to response in persons without HIV. And the figure here on this slide is just from one of these papers, but both of these papers show this data. I'm not sure why it's not showing up here actually next slide, perhaps it's-- yeah, there it is.
+> 
+> So this is from one of those papers, but the both studies are showing the same thing. The limitation, though, is that there's no assessment of serologic response for persons with a CD4 count less than 100. Next slide.
+> 
+> And then, um, we also looked at serologic response to Jynneos among persons with HIV who get that third dose. And for persons with the CD4 count 100 to 500, and a lifetime nadir less than 200, serologic response of three doses is similar to two doses. 
+> 
+> And we also reviewed unpublished data. So there was -- we're not presenting that data here, but we received unpublished data from Bavarian Nordic, the product sponsor, for a few, very few, number of patients. And there was no correlation, by our read, between low CD4 count and antibodies after vaccine. It was a very small number of patients, but that was our conclusion from that data. 
+> 
+> ...
+> 
+> Agam Rao, CDC [09:48:25]
+> 
+> And we looked at national reporting and also anecdotal reports. The current knowledge is that, as that, perhaps over 10,000 people have received mpox cases have occurred among persons with HIV, but we have no confirmed reports of severe mpox illness after the two dose vaccine series. 
+> 
+> The CDC reviewed data reported from health departments, for people who received two doses of the vaccine, and confirmed none were hospitalized due to severe manifestations of mpox. We actually did spend some time contacting health departments for those places, for those cases, for which the information indicated that the person had mpox, received two doses of vaccine, and there was a hospitalization indicated. 
+> 
+> And when we contacted those health departments, they confirmed to us that these hospitalizations were not due to mpox. In one case, for example, due to housing instability, some other issues, treatment for a concurrent STI, they confirmed that were not due to the actual mpox infection. 
+> 
+> But I will say that anecdotally we've heard that there was a severe case in a patient who did receive two doses of the vaccine. We'd have no details about that case though. We've only heard that from a provider who mentioned that they cared for such a patient. 
+> 
+> And I can also say that there-- we were also contacted by a provider who is caring for a patient with severe immunocompromise who feels that their illness, while appearing necrotic in appearance, the lesions were not disseminated. They were localized to small areas. The patient was managed in the outpatient setting and the clinical team felt that perhaps the severity of the illness was attenuated by the fact that only two-- that they received two doses of the vaccine. 
+> 
+> ...
+> 
+> Agam Rao, CDC [09:50:35]
+> 
+> So the work group concluded that there's no convincing data to indicate patients with moderate to severe immuno compromise would benefit from an additional dose of the Jynneos vaccine. Next slide. 
+> 
+> ...
+> 
+> Agam Rao, CDC [09:52:14]
+> 
+> So the work group's conclusions were that they were preferring that there'd be no CDC recommendation for a third Jynneos dose at this time, including for persons with advanced HIV or other severe immunocompromise. And they emphasized several strategies instead: encouraging the two dose vaccinations among persons who do not have immunity, that is persons, for example, who have not had mpox. 
+> 
+> So persons who have not had mpox and also have not received vaccinations. And they also said that we need to remind people that they can prevent or minimize life threatening manifestations through optimizing immune function, example through HIV antiretrovirals, ideally before there is an mpox exposure. 
+> 
+> So if you can find people to give them an extra dose of the vaccine, similarly, you should be able to find people to optimize immune function. And then they also, if someone were to develop severe manifestations of mpox, regardless of whether it's after a vaccination or not, we do have CDC interim treatment considerations that were published in March of this year about how to manage patients with, at risk, of severe manifestations of mpox that describes how to use the medical countermeasures that are stockpiled by the U.S. government and how to consult CDC for 24/7 consultations. And all of these things might help prevent  severe infections and should be considered in combination with vaccines. 
 
 # 06/22/2023
 
