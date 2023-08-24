@@ -17,6 +17,29 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 24, 2023
 
+## Sion on BA.2.86 detections in wastewater
+
+> Switzerland:
+> 
+> ![embedded image](https://github.com/tinalexander/notes/blob/main/attachments/2023-08-24_email_sorin-sion_image001.jpg)
+> 
+> Thailand:
+> 
+> ![embedded image](https://github.com/tinalexander/notes/blob/main/attachments/2023-08-24_email_sorin-sion_image002.jpg)
+> 
+> USA:
+> 
+> ![embedded image](https://github.com/tinalexander/notes/blob/main/attachments/2023-08-24_email_sorin-sion_image003.jpg)
+> 
+> Spain:
+> 
+> Regarding BA.2.86, in week 32, we have detected in one WWTP and at a very low proportion mutations N481K and P621S, that although not restricted to this variant, were only present in lineages no longer circulating. However, we must be very careful with these assumptions.
+> 
+> Germany:
+>
+> ![embedded image](https://github.com/tinalexander/notes/blob/main/attachments/2023-08-24_email_sorin-sion_image004.png)
+> ![embedded image](https://github.com/tinalexander/notes/blob/main/attachments/2023-08-24_email_sorin-sion_image005.png)
+
 ## Cao on data for BA.2.86 
 
 - **Source:** email from Yunlong Richard Cao
