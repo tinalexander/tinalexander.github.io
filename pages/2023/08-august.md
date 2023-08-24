@@ -15,7 +15,14 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
-# August 23, 2023
+# August 24, 2023
+
+## Novavax statement on BA.2.86
+
+- **Source:** emailed statement from Novavax 
+- **Date:** received August 24, 2023
+
+> We believe we will learn more about the BA.2.86, variant in the following weeks, specifically, how much it has spread across the population and, if this strain has an evolutionary advantage compared to the other circulating XBB sub lineages.
 
 ## Maine CDC on timing of RSV vaccines 
 
@@ -25,6 +32,8 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > On August 21, 2023, the FDA approved Abrysvo for use in pregnant individuals between 32 and 36 weeks of pregnancy. This is the first and only U.S. approval of a maternal vaccine to help protect infants at birth through six months of life from lower respiratory tract disease (LRTD) and severe LRTD due to RSV.
 > 
 > The CDC's Advisory Committee for Immunization Practices (ACIP) is scheduled to meet from October 25-27 when they will decide on the recommended use of Beyfortus for infants and Abrysvo for pregnant women.
+
+## August 23, 2023
 
 ## Ohio spokesperson on BA.2.86 in wastewater
 
