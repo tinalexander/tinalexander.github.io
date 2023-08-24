@@ -19,6 +19,9 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 ## Sion on BA.2.86 detections in wastewater
 
+- **Source:** email from Sion Sorin
+- **Date:** received August 24, 2023
+
 > Switzerland:
 > 
 > ![embedded image](https://github.com/tinalexander/notes/blob/main/attachments/2023-08-24_email_sorin-sion_image001.jpg)
