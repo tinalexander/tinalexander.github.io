@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 23, 2023
 
+## Maine CDC on timing of RSV vaccines 
+
+- **Source:** email from Maine CDC
+- **Date:** received August 24, 2023
+
+> On August 21, 2023, the FDA approved Abrysvo for use in pregnant individuals between 32 and 36 weeks of pregnancy. This is the first and only U.S. approval of a maternal vaccine to help protect infants at birth through six months of life from lower respiratory tract disease (LRTD) and severe LRTD due to RSV.
+> 
+> The CDC's Advisory Committee for Immunization Practices (ACIP) is scheduled to meet from October 25-27 when they will decide on the recommended use of Beyfortus for infants and Abrysvo for pregnant women.
+
 ## Ohio spokesperson on BA.2.86 in wastewater
 
 - **Source:** email from Ken Gordon of Ohio Department of Health
