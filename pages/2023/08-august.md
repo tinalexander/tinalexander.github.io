@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 24, 2023
 
+## Cao on data for BA.2.86 
+
+- **Source:** email from Yunlong Richard Cao
+- **Date:** received August 24, 2023
+
+> Should be able to have some data early next week.
+
 ## Novavax statement on BA.2.86
 
 - **Source:** emailed statement from Novavax 
