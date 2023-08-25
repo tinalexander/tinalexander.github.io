@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 25, 2023
 
+## CDC spokesperson on timing interval between COVID shots
+
+- **Source:** email by Jason McDonald of Centers for Disease Control and Prevention
+- **Date:** received August 25, 2023
+
+> Getting a COVID shot now could delay getting the updated one if the data demonstrates to CDC and ACIP that an interval between shots is warranted.
+> 
+> Until then, best for people to consult with their health care professional about what is best based on their individual situations.
+
 ## Mississippi official on increases in COVID-19 emergency room visits
 
 - **Source:** statement emailed from Mississippi Department of Health
