@@ -17,6 +17,41 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 25, 2023
 
+## Federal health officials on fall vaccine campaign
+
+- **Source:** on background from CDC and FDA officials
+- **Date:** discussed August 24, 2023
+
+> CDC Official [00:05:40]
+> 
+> We anticipate that the updated COVID 19 vaccine will be available in mid-September. We're going to be encouraging Americans to get their COVID 19 vaccine in addition to their annual flu shot, as well as the immunizations for RSV, for people who are over the age of 60, as well as for infants. 
+> 
+> ...
+> 
+> FDA Official [00:08:26]
+> 
+> We're currently thoroughly evaluating the data submitted by manufacturers to ensure the updated vaccines meet the agency's rigorous standards for safety, effectiveness, and quality. And we anticipate that the updated vaccines will be available in the mid-September timeframe as already noted. 
+> 
+> ...
+> 
+> CDC Official [00:14:20]
+> 
+> Our intention, certainly, as we look into mid-September, is to have the ACIP meeting in as close as possible succession to FDA action as possible. So to the extent that there is more data that would be coming and that clinicians are looking to CDC for what the ultimate recommendations are for clinical practice, there's a short of a delay as possible. 
+> 
+> So again, our intention, because [FDA Official] and I, and our agencies are joint the hip on this, we are hoping-- we will be planning, rather, for the ACIP meeting to happen as close in time as possible to FDA action.
+> 
+> HHS Official [00:15:04]
+> 
+> Can I just jump on that and just say, I think many of you on the call know, but the ACIP and specifically the director's recommendation does tie to multiple forms of payments and assurances of coverage.
+> 
+> And so critical from, from multiple perspectives aside from of course, the stamp of CDC and ACIP stands on its own as an important step in ensuring that these are of good faith to American people.
+> 
+> ...
+> 
+> CDC Official [00:20:36]
+> 
+> Likewise, as to the Pfizer maternal vaccine, which our colleagues at FDA recently took action on, we are working to get an ACIP meeting stood up. We haven't noticed the date date yet, but it will be in September.
+
 ## CDC director on waiting to get updated COVID shots
 
 - **Source:** [video](https://www.youtube.com/watch?v=Tf-vG_eTN1k) by Centers for Disease Control and Prevention
