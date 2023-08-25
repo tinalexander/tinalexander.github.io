@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 25, 2023
 
+## NIH's RADx on BA.2.86 and existing COVID tests
+
+- **Source:** email by Jonathan Griffin of National Institute of Biomedical Imaging and Bioengineering
+- **Date:** received August 25, 2023
+
+> The RADx program has protocols in place, in coordination with the FDA and CDC, to screen new variants when deemed necessary. The information we have to-date on BA.2.86 does not portend issues with existing tests.
+> 
+> This information comes from Todd Merchak, who you spoke to for your recent story on EG.5. 
+
 ## CDC spokesperson on timing interval between COVID shots
 
 - **Source:** email by Jason McDonald of Centers for Disease Control and Prevention
