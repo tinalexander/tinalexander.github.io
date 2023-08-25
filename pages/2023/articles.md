@@ -12,6 +12,15 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 
 # August 2023
 
+- [Should I get a COVID shot? CDC warns most should wait for September](https://www.cbsnews.com/news/should-i-get-a-covid-shot-cdc-warns-most-should-wait-for-september/)
+- [As schools resume, CDC reports new rise in COVID emergency room visits from adolescents](https://www.cbsnews.com/news/cdc-reports-new-rise-covid-er-visits-adolescents-as-schools-resume/)
+- [New COVID variant BA.2.86 spreading in the U.S. in August 2023. Here are key facts experts want you to know.](https://www.cbsnews.com/news/new-covid-variant-ba286-2023-what-to-know-experts/)
+- [COVID hospitalizations climb 22% this week — and the CDC predicts further increases as new variants spread](https://www.cbsnews.com/news/covid-hospitalizations-spike-22-percent-cdc-predicts-increase-new-variants-2023/)
+- [New COVID variants EG.5, FL.1.5.1 and BA.2.86 are spreading. Here's what to know.](https://www.cbsnews.com/news/new-covid-2023-variant-eg5-strain-what-to-know/)
+- [FDA approves first RSV vaccine for pregnancy to protect newborns](https://www.cbsnews.com/news/fda-approves-rsv-vaccine-pregnant-women-protect-newborns-pfizer-abrysvo/)
+- [CDC tracking new COVID variant BA.2.86 after highly mutated strain reported in Michigan](https://www.cbsnews.com/news/new-covid-variant-ba286-who-monitoring/)
+- [COVID hospitalizations accelerate for fourth straight week](https://www.cbsnews.com/news/covid-hospitalizations-rise-fourth-week-eg-5-variant/)
+- [Air pollution may be to blame for thousands of dementia cases each year, researchers say](https://www.cbsnews.com/news/air-pollution-dementia-cases-study/)
 - [New COVID vaccine and booster shots for this fall to be available by end of September](https://www.cbsnews.com/news/covid-vaccine-booster-xbb-variants-september-2023/)
 - [Loss of smell or taste was once a telltale sign of COVID. Not anymore.](https://www.cbsnews.com/news/covid-symptoms-loss-of-smell-taste-less-common-omicron-study/)
 - [First long COVID treatment clinical trials from NIH getting underway](https://www.cbsnews.com/news/first-long-covid-treatment-clinical-trial-nih/)
