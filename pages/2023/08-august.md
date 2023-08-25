@@ -17,9 +17,54 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 25, 2023
 
+## WHO official on BA.2.86 so far
+
+- **Source:** [briefing](https://www.youtube.com/watch?v=YkqAmg63ZSs&t=3s) by World Health Organization
+- **Date:** broadcasted August 25, 2023
+
+> Maria Van Kerkhove, WHO [00:33:27]
+>
+> It depends, if we will change this classification to a variant of interest or a variant of concern, it depends in terms of its circulation. So right now we've only seen a few detections. We are not able to estimate its growth rate because we have so little data. We don't have data yet on severity, or any indication of a change in severity. We don't see any epidemiologic link between the cases that have been reported, which signals to us that there may be more circulation, but we can't predict with certainty what will happen with this variant or with any variant.
+>
+> So we have to make sure that surveillance remains strong. We have to make sure that reporting remains strong so that these assessments can be made.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:34:21]
+>
+> Our Greek letters are reserved for those that are classified as variants of concern. And we feel that's really important. There are a lot of nicknames that are being used for the variants. We understand that, that are being used in the media, but for our communication purposes, we will use a Greek letter when we have a variant of concern and we won't hesitate to use those Greek letters should they be needed.
+>
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:35:31]
+> 
+> Yes. So BA.2.86 is still considered part of Omicron, although the number of mutations makes it highly divergent from BA.2 and the circulating XBB variants. We have classified it as a variant under monitoring. 
+> 
+> It is part of Omicron, and we will give it a Greek letter, should we classify that as-- a different Greek letter, should we classify that as a variant of concern.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:35:54]
+> 
+> In terms of the profile of disease among the individuals who have had BA.2.86, it's still quite early days. We do know that none of the individuals were immunocompromised, which is quite interesting, we find. 
+> 
+> But I think what we would need to make sure we understand is the full spectrum of disease that is caused by BA.2.86. My reservation in giving a lot of detail around this is I don't want to draw any conclusions coming from eight or nine patients. 
+> 
+> We know that these variants that are in circulation, and I think what is important for the general public, is that SARS-CoV-2, any of these variants, any of the Omicron variants that are in circulation, can cause the full spectrum of disease, everything from asymptomatic infection, all the way to severe disease and death. 
+> 
+> Your likelihood of developing severe disease and dying is reduced with vaccines, the many safe and effective vaccines that are in circulation, that are in use right now. Early access to clinical care, antivirals, reduces the risk of developing severe disease. So that's what is important for a general-- for the general public in our view.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:37:04]
+> 
+> We will give a full profile and do a risk assessment of BA.2.86, as soon as we have more information. We expect the number of cases to be increased because we classified it as variant under monitoring. 
+> 
+> And there could be more detections in countries from wastewater surveillance, which is something that countries have been utilizing for a year or two, during the COVID 19 pandemic, which is really helpful to understand what is circulating among populations as individual case detection and individual case reporting is reported to WHO.
+
 ## Federal health officials on fall vaccine campaign
 
-- **Source:** on background from CDC and FDA officials
+- **Source:** briefing on background from CDC and FDA officials
 - **Date:** discussed August 24, 2023
 
 > CDC Official [00:05:40]
