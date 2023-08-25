@@ -17,6 +17,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 25, 2023
 
+## Mississippi official on increases in COVID-19 emergency room visits
+
+- **Source:** statement emailed from Mississippi Department of Health
+- **Date:** received August 25, 2023
+
+> You may attribute to Dr. Kathryn Taylor, Interim State Epidemiologist at the Mississippi State Department of Health.
+> 
+> Mississippi is continuing to see increases in the number of COVID-like illness presentations in Emergency Departments and urgent care facilities in the state. The increase in cases is likely due to a variety of factors such as schools and colleges starting, high temperatures sending people indoors for activities where they may be in closer proximity to each other, and new variants circulating.
+> 
+> As COVID-19 cases increase, so does the overall COVID-19 exposure risk. Mississippians should continue to be aware that COVID-19 is a concern, stay home when ill, seek care or testing when indicated, and if not already up to date on vaccination, get vaccinated.
+
 ## WHO official on BA.2.86 so far
 
 - **Source:** [briefing](https://www.youtube.com/watch?v=YkqAmg63ZSs&t=3s) by World Health Organization
