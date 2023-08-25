@@ -15,6 +15,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 25, 2023
+
+## CDC director on waiting to get updated COVID shots
+
+- **Source:** [video](https://www.youtube.com/watch?v=Tf-vG_eTN1k) by Centers for Disease Control and Prevention
+- **Date:** published August 25, 2023
+
+> Mandy Cohen, CDC [00:02:47]
+> 
+> So until the fall updated vaccine is available, and like I said, that will be coming in middle of September, those who have never been vaccinated and then some people who are older and higher risk at for COVID infection might be best to get the existing COVID shot now and not wait. The most important thing is talk to your doctor or your nurse practitioner about what's right for you. 
+> 
+> It's important to note that if you do get the current COVID 19 vaccine now, or in early September, it could delay your ability to get this updated vaccine that's coming out in the middle of September. So again, talk to your doctor or nurse practitioner. 
+
 # August 24, 2023
 
 ## Sion on BA.2.86 detections in wastewater
