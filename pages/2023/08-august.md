@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 28, 2023
 
+## Cleveland Clinic spokesperson on COVID testing after BA.2.86 detection
+
+- **Source:** email from Halle Bishop of Cleveland Clinic
+- **Date:** received August 28, 2023
+
+> We select a random subset of our COVID-positives which includes both inpatients and outpatients. Cleveland Clinic works in collaboration with the Ohio Department of Health to survey the contemporary SARS-CoV-2 variants in circulation in Northeast Ohio.
+
 ## CVS spokesperson on CDC uninsured COVID-19 vaccinations
 
 - **Source:** email by Matt Blanchette of CVS Pharmacy
