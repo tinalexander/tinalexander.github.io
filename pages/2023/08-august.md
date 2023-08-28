@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 28, 2023
 
+## FDA spokesperson on COVID tests and BA.2.86
+
+- **Source:** email from James McKinney
+- **Date:** received August 28, 2023
+
+> Based upon available information at this time, the FDA believes that most existing tests used to detect COVID-19 appear to be effective with this variant. The FDA maintains our relationship with NIH’s RADx program and utilizes their abilities and expertise when appropriate. Not exclusive to our partnership with NIH, the FDA continues to conduct analyses to identify tests for which performance may be impacted for known SARS-CoV-2 variants. The agency will update this page when significant new information becomes available, including when the FDA's analyses identify tests for which performance may be impacted for known SARS-CoV-2 variants.
+
 ## Cleveland Clinic spokesperson on COVID testing after BA.2.86 detection
 
 - **Source:** email from Halle Bishop of Cleveland Clinic
