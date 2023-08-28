@@ -15,6 +15,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 28, 2023
+
+## CVS spokesperson on CDC uninsured COVID-19 vaccinations
+
+- **Source:** email by Matt Blanchette of CVS Pharmacy
+- **Date:** received August 28, 2023
+
+> We’re currently talking with the CDC about ways that CVS Pharmacy can support COVID-19 vaccinations for the uninsured and underinsured this fall.
+
 # August 25, 2023
 
 ## NIH's RADx on BA.2.86 and existing COVID tests
