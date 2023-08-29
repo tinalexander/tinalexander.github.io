@@ -15,6 +15,99 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 29, 2023
+
+## Senior administration officials on Medicare Drug Price Negotiation program
+
+- **Source:** press briefing with "senior administration officials"
+- **Date:** hosted August 29, 2023
+
+> Senior Administration Official 1 [08:05:35]
+> 
+> This is a critical provision of the Inflation Reduction Act that will finally allow Medicare to negotiate lower prescription drug costs for seniors and for other beneficiaries. 
+> 
+> For decades, leaders have been trying to pass laws that allow Medicare the ability to negotiate lower drug prices, but big pharma blocked that from happening. While pharmaceutical companies made record profits and spent hundreds of millions of dollars on lobbying year after year, millions of Americans were forced to choose between paying for the medications they needed to live or paying for other basic necessities.
+> 
+> Under President Biden and Vice President Harris, those days are ending. 
+> 
+> ...
+> 
+> Senior Administration Official 1 [08:06:15]
+> 
+> Starting in 2026, millions of beneficiaries will be able to benefit from the new negotiated drug prices. 
+> 
+> In 2022 alone, 9 million seniors and people with disabilities in Medicare spent 3.4 billion dollars in out of pocket costs on the 10 drugs that have been selected for negotiation. These drugs are used to treat common diseases like diabetes, heart disease, arthritis, blood clots, and certain cancers. 
+> 
+> ...
+> 
+> Senior Administration Official 1 [08:06:43]
+> 
+> In 2022, the most expensive drugs cost seniors about $6,500 in out of pocket costs per year for just one of these drugs, but big drug companies want to block us from lowering drug prices.
+> 
+> Big pharma and their allies have already filed eight lawsuits against the administration. We are not backing down. There is no reason why Americans should be forced to pay more than any developed nation for life saving prescriptions, just to pad big pharma's pockets.
+> 
+> ...
+> 
+> Senior Administration Official 2 [08:10:48]
+> 
+> Our priority in negotiating with participating drug companies is to come to an agreement on a fair price for Medicare. 
+> 
+> In total, the selected drugs account for roughly 50 billion dollars in total Part D gross covered prescription drug costs, or about 20% of total Part D gross covered prescription drug costs between June 1, 2022 and May 31, 2023 and 8.2 million people with Medicare Part D coverage use these 10 drugs to treat a variety of conditions such as cardiovascular disease, diabetes, autoimmune disease, and cancer during the time for which we examined the data.
+> 
+> We will negotiate on behalf of these people and the millions of others with Medicare coverage.
+> 
+> ...
+> 
+> Senior Administration Official 2 [08:11:52]
+> 
+> At the end of the day, CMS, drug companies, patients, providers, advocates, and others, we all have the same goals. We want to ensure access to the innovative treatments and therapies people need when they need them. 
+> 
+> We are hopeful that drug companies will come to the table and negotiate with us to make this a reality for the American people. But also let me remind you, the law is more the negotiation.
+> 
+> ...
+> 
+> Senior Administration Official 1 [08:17:58]
+> 
+> CMS guidance specify the process that CMS used to select the drugs, and CMS selected the 10 highest spending drugs that qualify under the process that was described in the statute and the CMS program instruction. 
+> 
+> And so, you know, some drugs that one might have expected to be on the list based on prior year spending data may now have have fallen lower on the list. And because they're-- because utilization may have dropped off in the last year or other drugs may have become more common. And so they rose above it, in terms of total spending. 
+> 
+> But any of the drugs that you might have expected to see on the list that aren't aren't selected here could be selected in future years under the exact same process.
+> 
+> ...
+> 
+> Senior Administration Official 2 [08:19:07]
+> 
+> So CMS followed the steps that are specified in the Inflation Reduction Act, and that were outlined in the guidance that we had put out when we selected the 10 drugs covered under Part D. 
+> 
+> So first we determined the qualifying single source drugs under Medicare Part D. This means certain drugs without competition that have been on the market for at least seven years for drug products and at least 11 years for biological products. 
+> 
+> Then from there, we excluded certain drugs, such as certain orphan drugs, low spend Medicare drugs, plasma derived products. And again, this is all specified in the law. We then reviewed manufacturer submitted requests to determine whether any drugs were eligible for an exception, because they were a small biotech drug. 
+> 
+> From there we identified and ranked the top 50 qualifying single source drugs with the highest gross costs to Medicare Part D to determine the list of negotiation eligible drugs. We also reviewed manufacturer submitted requests to determine whether any drugs were eligible for a delay in selection due to a high likelihood of biosimilar market entry. And then finally, from that, CMS selected the 10 highest ranked negotiation eligible drugs. 
+> 
+> So that was basically the process as laid out in the Inflation Reduction Act and in our guidance.
+> 
+> ...
+> 
+> Senior Administration Official 1 [08:22:15]
+> 
+> With respect to the lawsuits, as you know, eight pharmaceutical companies and their allies have have filed lawsuits against the administration. The drug companies are running to court to try to accomplish through the courts what they couldn't get done in Congress, which is block negotiation from happening. 
+> 
+> I want to be clear that nothing in the Constitution prevents Medicare from negotiating drug prices. We are moving forward and eager to deliver the benefits of this law to the American people and are not going to let the big drug companies stop us from doing that.
+> 
+> ...
+> 
+> Question [08:30:21]
+> 
+> Does this mean that the $35 cap, the prices might actually fall a little bit more from the $35 cap with negotiation? Is that a possibility? I assume the prices would be no higher than $35 per patient.
+> 
+> Senior Administration Official 2 [08:30:37]
+> 
+> Thanks for your question, Tom. This is [Senior Administration Official 2]. You are correct that there is a $35 co-pay cap that will hold. There could be further changes in the out of pocket costs. Even now, today, there are some plans that have lower than a $35 co pay cap. 
+> 
+> And overall the purpose of negotiation is to be able to get the fairest price for Medicare, for the taxpayer and for the people who rely on these life saving medications.
+
 # August 28, 2023
 
 ## FDA spokesperson on COVID tests and BA.2.86
