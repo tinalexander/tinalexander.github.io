@@ -17,6 +17,46 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 29, 2023
 
+## Senior administration official on COVID-19 
+
+- **Source:** press briefing with a "senior administration official"
+- **Date:** hosted August 298, 2023
+
+> Senior Administration Official [00:14:46]
+> 
+> The advisory committee on immunizations are gonna be meeting on the 12th of September. We intend to likely take CDC recommendation action the day or shortly thereafter. 
+> 
+> And then, as you know, this is for the first time that these vaccines are going be available through a commercialized process, meaning that the federal government is not going to be the primary purchaser of the vaccines anymore. It is going to be purchased, sort of the same way the flu shot gets purchased every year, this COVID shot is going to get purchased, which means people like doctor's offices, hospitals, pharmacies are ordering those vaccines, and then they're getting them shipped directly to them. 
+> 
+> I just say that as background. So you understand that once we take our regulatory action, when they will become available, sort of for the general public, it will likely take a couple of days after that regulatory action for the shipping and delivery to happen, though I know folks are trying to preposition as much as they can, so that folks have access to it. 
+> 
+> ...
+> 
+> Senior Administration Official [00:15:56]
+> 
+> Those vaccines will be available in public health departments and in federally qualified health centers on that same timeframe. But again, they have-- those entities also have to order, and the things have to ship to the public health entities and to the FQHCs.
+> 
+> For the pharmacies, we're working with them right now, so that pharmacies like CVS and Walgreens and others will also be able to offer vaccines to the uninsured. 
+> 
+> We're hoping that will start as soon as these others, but we are still working on that, so within the-- within a few weeks of the regulatory action being available, we think that it'll be available for the uninsured, but again, the uninsured have an option on day one through federally qualified health centers, through our public health departments, all across the country. And then within a couple of weeks, we'll have that same opportunity within our pharmacies as well.
+> 
+> ...
+> 
+> Senior Administration Official [00:17:14]
+> 
+> So what we are seeing now is a, you know, end of summer increase in hospitalizations. 
+> 
+> Just looking back to last year, we saw that a same increase in hospitalizations, we did see it go down before then went back up again through the fall and winter. We do expect fall and winter virus season to do what it does, which is when we go indoors, and when it's cold, when folks are-- we expect to see more viral transmission across flu, COVID, and RSV. 
+> 
+> Right now we are tracking similar to what we saw last summer, but I would say half the intensity. So if last year at this time, I was saying there are about 38,000 people in the hospital this week, at this year, this week, we're at 15,000. So we are still seeing an increase, but it is less intense than what we saw a year ago. 
+> 
+> ...
+> 
+> Senior Administration Official [00:28:51]
+> 
+> Confidently we can say that the updated vaccine that is due out in a few weeks is tailored to the current circulating dominant variants. So it has very good effectiveness, again for severe disease, to the current circulating dominant variants. 
+
+
 ## Senior administration officials on Medicare Drug Price Negotiation program
 
 - **Source:** press briefing with "senior administration officials"
