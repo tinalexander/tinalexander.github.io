@@ -17,6 +17,24 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 29, 2023
 
+## Counties at "medium" or "high" COVID-19 levels
+
+- **Source:** dataset by Centers for Disease Control and Prevention
+- **Date:** published August 29, 2023
+
+| state   | county              | county_population | report_date | week_end_date | mmwr_report_week | total_adm_all_covid_confirmed_past_7days_per_100k_level |
+|---------|---------------------|-------------------|-------------|---------------|------------------|---------------------------------------------------------|
+| Florida | Palm Beach County   | 1,496,770         | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Florida | Hillsborough County | 1,471,968         | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Florida | Pinellas County     | 974,996           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Hawaii  | Honolulu County     | 974,563           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Florida | Pasco County        | 553,947           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Florida | Sarasota County     | 433,742           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Florida | Osceola County      | 375,751           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Florida | St. Lucie County    | 328,297           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Florida | Alachua County      | 269,043           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+| Texas   | Brazos County       | 229,211           | 8/28/23     | 8/19/23       | 33               | Medium (10.0 to 19.9)                                   |
+
 ## Senior administration official on COVID-19 
 
 - **Source:** press briefing with a "senior administration official"
