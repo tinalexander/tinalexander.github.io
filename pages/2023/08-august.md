@@ -20,7 +20,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 ## Senior administration official on COVID-19 
 
 - **Source:** press briefing with a "senior administration official"
-- **Date:** hosted August 298, 2023
+- **Date:** hosted August 29, 2023
 
 > Senior Administration Official [00:14:46]
 > 
