@@ -17,6 +17,29 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 30, 2023
 
+## CMS spokesperson on "Medicaid eligibility systems issue"
+
+- **Source:** email from CMS spokesperson
+- **Date:** received August 30, 2023
+
+> On background attributable to the Centers for Medicare & Medicaid Services (CMS) or a “CMS spokesperson,” in follow up to CMS’ swift alert and call for action, the agency estimates that already more than a dozen states believe they are impacted by an eligibility systems issue that is preventing them from automatically renewing coverage for eligible children and families, and which was raised in a letter CMS sent to all states on August 30, 2023. Many other states are still in the midst of evaluating their systems, per the CMS’ direction. States have until September 13, 2023, to confirm that the issue does not impact their system, or that they have a plan and timeline for reinstating coverage for impacted individuals and implementing mitigation strategies.
+> 
+> CMS will not hesitate to hold states accountable if the agency determines states are not adhering to federal renewal requirements.
+> 
+> CMS continues to reinforce that it’s unacceptable for any eligible person – especially a child – to be disenrolled from Medicaid or the Children’s Health Insurance Program (CHIP) due to red tape. States should do everything they can to stop this from happening, including taking up the a range of strategies to help keep people covered. For a list of available strategies and their uptake, click here.
+> 
+> Additional Background:
+> 
+> CMS’ letter notes that eligibility systems in a number of states may be programmed incorrectly to conduct automatic renewals at the family-level and not the individual-level. This is an important distinction because individuals in a family—particularly children—may have different eligibility requirements for Medicaid and CHIP.
+> If a state’s eligibility system has the issue CMS has identified, the letter specifies that states must immediately take the following steps to avoid CMS taking action to bring states into compliance:
+> Pause procedural disenrollments for those individuals impacted,
+> Reinstate coverage for all affected individuals,
+> Implement one or more CMS-approved mitigation strategies to prevent continued inappropriate disenrollments, and
+> Fix state systems and processes to ensure renewals are conducted appropriately and in accordance with federal Medicaid requirements.
+> States that fail to take these steps will face compliance action, and may be disqualified from the temporary increase in federal Medicaid funding provided under the Families First Coronavirus Response Act.
+>  
+> For additional information, we also suggest reviewing today’s statement: https://www.cms.gov/newsroom/press-releases/cms-takes-action-protect-health-care-coverage-children-and-families
+
 ## HHS spokesperson on Bloomberg report about marijuana scheduling
 
 - **Source:** email from Department of Health and Human Services spokesperson
