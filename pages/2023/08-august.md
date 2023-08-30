@@ -15,6 +15,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 30, 2023
+
+## CDC spokesperson on wastewater detections of BA.2.86
+
+- **Source:** email from Scott Pauley of Centers for Disease Control and Prevention
+- **Date:** received August 30, 2023
+
+> No updates on the Ohio sample confirmation yet.
+> 
+> The only new detection is the New York one you wrote on already, and we don’t have any additional information on it yet.
+
 # August 29, 2023
 
 ## Counties at "medium" or "high" COVID-19 levels
