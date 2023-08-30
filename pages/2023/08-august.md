@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 30, 2023
 
+## HHS spokesperson on Bloomberg report about marijuana scheduling
+
+- **Source:** email from Department of Health and Human Services spokesperson
+- **Date:** received August 30, 2023
+
+> Statement from an HHS spokesperson:
+> 
+> Following the data and science, HHS has expeditiously responded to President Biden’s directive to HHS Secretary Becerra and provided its scheduling recommendation for marijuana to the DEA on August 29, 2023.  This administrative process was completed in less than 11 months, reflecting this department’s collaboration and leadership to ensure that a comprehensive scientific evaluation be completed and shared expeditiously.
+
 ## CDC spokesperson on wastewater detections of BA.2.86
 
 - **Source:** email from Scott Pauley of Centers for Disease Control and Prevention
