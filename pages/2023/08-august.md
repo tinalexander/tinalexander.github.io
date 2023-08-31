@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 30, 2023
 
+## Aetna spokesperson on RSV vaccinations
+
+- **Source:** email from Alex Kepnes of Aetna
+- **Date**: received August 30, 2023
+
+> In accordance with the Affordable Care Act and the Inflation Reduction Act, Aetna covers preventive services such as the respiratory syncytial virus (RSV) vaccine for our Commercial, Medicaid and Medicare health plan members at no cost to the member.
+
 ## CMS spokesperson on "Medicaid eligibility systems issue"
 
 - **Source:** email from CMS spokesperson
