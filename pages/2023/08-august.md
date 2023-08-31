@@ -15,6 +15,23 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# August 31, 2023
+
+## CMS spokesperson on Medicare coverage for COVID and RSV vaccinations
+
+- **Source:** email from CMS spokesperson
+- **Date:** received August 31, 2023
+
+> The following is provided on background, attributed to the Centers for Medicare & Medicaid Services or a CMS spokesperson:
+> 
+> Thanks to the Inflation Reduction Act, people enrolled in a Medicare prescription drug plan can receive recommended adult vaccines free of charge. Part D plans are required to provide the new RSV vaccines with no enrollee cost sharing when used consistent with ACIP recommendations.
+> 
+> As of June 27, 2023, the list of “recommended” vaccines expanded following the announcement that the Director of the Centers for Disease Control and Prevention endorsed the Advisory Committee on Immunization Practices recommendations for use of new Respiratory Syncytial Virus (RSV) vaccines. This means that RSV vaccines (Arexvy and Abresvo) that became commercially available this summer are covered under Medicare Part D with no cost-sharing for enrollees, if used consistent with ACIP recommendations. If a Part D enrollee is having trouble obtaining RSV vaccine coverage at the pharmacy or doctor’s office, or is charged any amount, they should contact their plan or 1-800-MEDICARE for assistance.
+> 
+> People with Medicare coverage continue to have access to COVID-19 vaccinations without out-of-pocket costs after the end of the public health emergency.
+> 
+> Once the federal government is no longer purchasing or distributing COVID-19 vaccines, people with Traditional Medicare pay nothing for a COVID-19 vaccination if their doctor or other qualified health care provider accepts assignment for giving the shot. People with Medicare Advantage (MA) plans should contact their plan for details about payment for COVID-19 vaccines, but MA beneficiaries will pay nothing for a COVID-19 vaccination if they receive their vaccinations from an in-network provider.
+
 # August 30, 2023
 
 ## Kaiser Permanente spokesperson on RSV vaccinations
