@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # August 30, 2023
 
+## Kaiser Permanente spokesperson on RSV vaccinations
+
+- **Source:** email from Wayne Davis of Kaiser Permanente
+- **Date:** received August 30, 2023
+
+> The FDA has approved a vaccine for protection against severe illness from respiratory syncytial virus (RSV) that may be administered to people 60 years and older under shared decision-making with their health care provider. The clinical guidance from the CDC states that people with chronic medical conditions are most likely to benefit from this RSV vaccine. Kaiser Permanente expects to begin administering this vaccine in late September/early October and will administer the vaccine according to the CDC’s clinical guidance.
+> 
+> In addition, the FDA has approved an RSV vaccine for pregnant people that would provide protection to infants up to 6 months of age and a monoclonal antibody product that will help protect all infants under 8 months and some older babies at increased risk of severe illness caused by RSV.  Kaiser Permanente will administer these immunizations according to CDC clinical guidance after we update our clinical processes to reflect that guidance and when supply becomes available later this fall.
+
 ## Aetna spokesperson on RSV vaccinations
 
 - **Source:** email from Alex Kepnes of Aetna
