@@ -23,140 +23,148 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Date:** broadcasted September 11-12, 2023
 
 > Theresa Michele, FDA [00:46:19]
+> 
 > The main objective of today's meeting is to discuss the efficacy of oral phenylephrine as a nasal decongestant. We will be including data that have become available since the committee last discussed this back in 2007. We're also asking you to consider the potential safety and efficacy of higher than monograph doses of oral phenylephrine.
+> 
 > ...
+> 
 > Theresa Michele, FDA [00:46:45]
-> Now, as you all know, phenylephrine is a very old drug. It's been marketed for more than 75 years for a variety of uses and via a variety of different roots of administration. Anytime a product's been on the market for that long it's human nature to make assumptions about what we think we know about the product for the purposes of today's meeting. 
+> 
+> Now, as you all know, phenylephrine is a very old drug. It's been marketed for more than 75 years for a variety of uses and via a variety of different roots of administration. Anytime a product's been on the market for that long it's human nature to make assumptions about what we think we know about the product for the purposes of today's meeting.
+> 
 > We're asking you to put aside those assumptions and help us think critically about the data at hand, and in particular, what the data may or may not show.
+> 
 > ...
+> 
 > Theresa Michele, FDA [00:50:44]
+> 
 > It's not uncommon that we learn additional information about drugs that have been on the market for some time. And phenylephrine is no exception.
-> Some of the additional data was brought forward in two citizens petitions, one in 2007 and one in 2015. The 2007 citizens petition requested that the agency amend the dosages of both oral phenylephrine salts by increasing the maximum allowed dosage for patients 12 years of age and older. It also requested that FDA withdraw approval, or rather make it not GRASE, for use in children less than 12 years of age.
-> The 2015 citizens petition requested that FDA reclassify the oral phenylephrine salts as not GRASE due to lack of efficacy.
-> ...
-> Theresa Michele, FDA [00:51:48]
-> Because of the additional data that had become available since FDA's GRASE finding back in 1994, we convened an advisory committee in 2007 to discuss the safety and effectiveness of oral phenylephrine as a nasal decongestant.
-> At the meeting in 2007, the committee also considered the original studies supporting the effectiveness of oral phenylephrine. The committee noted that the results are not consistent across studies for nasal airway resistance and recommended that symptoms should be the essential primary endpoint. They also noted that evidence of efficacy consisted primarily of studies conducted 40 years ago, which is now 55 years ago. And it included fewer than 200 subjects who received oral phenylephrine 10 milligrams.
-> Due to the small size of the studies, they felt that near nasal airway resistance results may not be generalizable to a wider population. Based on this, the committee recommended that additional data be conducted, specifically, multicenter parallel, randomized, double blind placebo controlled trials, preferably with an active control, such as pseudoephedrine, to evaluate nasal congestion scores and symptom relief. They also recommended characterization of the phenylephrine dose response and dosing interval, comparison of the PK of single ingredient products versus multiple ingredient products, and a safety evaluation of the effects of phenylephrine on blood pressure.
-> I'm pleased to say that we now have much of the data that was requested by the 2007 advisory committee. And we are now bringing this back to this committee for consideration.
-> ...
-> Theresa Michele, FDA [00:55:54]
-> An advisory committee is utilized to conduct public hearings on matters of importance that come before FDA to review the issues involved and to provide advice and recommendations to the commissioner. The commissioner has sole discretion concerning action to be taken and policy to be expressed on any matter considered by an advisory committee.
-> Now, as such, we are not asking you to make a GRASE determination today on phenylephrine as an oral decongestant. Rather, we are asking you to advise us on what you believe the data show in terms of effectiveness.
-> ...
-> Ben Bishop, FDA [00:57:43]
-> Although the agency first took regulatory action in 1976, this action was based on the conclusions and recommendations of an advisory review panel, which was convened in November of 1972.
-> Not to be confused with other types of panels or advisory committees, that panel and others like it are known as DESI review panels. DESI stands for drug efficacy study implementation, and the DESI panels represented one of the agency's pivotal first steps in a long process of rulemaking.
-> Almost 20 years later, the final monograph for nasal decongestants, part of the larger cold cough allergy bronchodilator and anti asthmatic monograph, was published in 1994.
-> ...
-> Ben Bishop, FDA [00:59:00]
-> In 1962, a retrospective evaluation of drug efficacy was authorized by the Kefauver-Harris amendment. Notably, the law mandated that FDA evaluate effectiveness, whereas previous approvals had required only a determination of safety.
-> For non-prescription drugs, the drug efficacy study implementation or DESI review, began 10 years later when FDA assembled a list of over 400 active ingredients being marketed without a prescription and categorized them into 26 therapeutic categories. One of these became known as the cold cough allergy bronchodilator and anti asthma monograph, or CCABA monograph, and this included nasal decongestants.
-> ...
-> Tracy Pham, FDA [02:46:38]
-> Phenylephrine had higher proportions of manufacturer and retail sales than pseudoephedrine. Since 2018, phenylephrine accounted for the majority of retail sales in both bottle and packages, and in sale dollars.
-> Retail sales of phenylephrine and pseudoephedrine decreased from 2018 to 2021, before increasing in 2022.
-> In 2022, phenylephrine retail sales represented 1.8 billion dollars, compared to half a billion dollars of pseudoephedrine retail sales.
-> ...
-> Marcia Howard, CHPA [04:32:58]
-> Phenylephrine has played an important role in consumer's temporary self-treatment of nasal congestion. It is the only available oral non-prescription medicine for nasal congestion that is sold without having to show an ID or to complete a log book.
-> Oral phenylephrine comes in both brand name and store brand versions. Nasal congestion is one of the most bothersome symptoms associated with colds and upper respiratory allergies and is linked to decreased work productivity and quality of life and to sleep disturbances.
-> Consumer satisfaction with oral phenylephrine is high. According to household panel data, half of American households rely on phenylephrine and over two thirds of these households chose to repurchase the medicines on average four times over the year, which is a strong indication of satisfaction.
-> ...
-> Marcia Howard, CHPA [04:32:58]
-> Phenylephrine has played an important role in consumer's temporary self-treatment of nasal congestion. It is the only available oral non-prescription medicine for nasal congestion that is sold without having to show an ID or to complete a log book.
-> Oral phenylephrine comes in both brand name and store brand versions. Nasal congestion is one of the most bothersome symptoms associated with colds and upper respiratory allergies and is linked to decreased work productivity and quality of life and to sleep disturbances.
-> Consumer satisfaction with oral phenylephrine is high. According to household panel data, half of American households rely on phenylephrine and over two thirds of these households chose to repurchase the medicines on average four times over the year, which is a strong indication of satisfaction.
-> ...
-> Marcia Howard, CHPA [04:40:34]
-> Our position is that this is a safe and effective medicine and its removal will result in increased demand for pseudoephedrine and a shortage of FDA approved on shelf medications. It would have supply chain implications and would cause an increased burden on the consumers we serve and on the healthcare system.
-> ...
-> David Spangler, CHPA [06:12:32]
-> If you do want to change to pseudoephedrine, one, you would need to be already licensed with DEA. If not, you'd have to be applying, have to institute certain security controls, compliance with state law requirements. 
-> Then you would have to request your quota, request sgo in in the spring, manufacturing in May, procurement in April, you then get your quota, then some months later, and then as a practical matter of the retail level, typically they're doing their planograms, what the store is going to look like, those get adjusted in the spring, and then implemented typically in the fall in most major retailers.
-> So you get a significant lag. Plus, as Dr. Howard mentioned, there's a limit on the number of products that a retailer would be willing to carry behind the counter because of limited space.
-> ...
-> Theresa Michele, FDA [07:44:34]
-> The thing that matters when you are dosing, a drug is how much of the drug gets to where it needs to be, and whether it is a high enough concentration to affect the receptor that it's trying to affect to make the change.
-> So in this case, we need the drug to get to the alpha receptors in the nose so that they can constrict the blood vessels and reduce the amount of congestion. So the actual amount that's absorbed is somewhat irrelevant. What we really care about is the fact that the concentration that affects the receptors is higher than the concentration that you can get into your body, because it's extensively metabolized by the intestine.
-> ...
-> Yunzhao Ren, FDA [07:45:48]
-> As a pharmacologist, we believe if a drug works, that means it should work at the site where it's working for nasal congestion. You should, we believe that how the drug work at the nasal congestion is at the nasal mucosa, the amount or the concentration of the drug, let's say following oral administration, should reach certain level to be efficacious or at least as potent as those animal studies, cellular studies, molecular studies indicating that concentration should work.
-> And the results show that, following the oral administration route, the amount of the phenylephrine, or the concentration of phenylephrine, failed to reach that threshold concentration, from the in vitro or cellular level.
-> There's a concern raised in the morning by saying, 'hey, phenylephrine has a very wide distribution, tissue distribution, which means when phenylephrine entered the human body, there could be some other organs which can absorb this phenylephrine, so that it can be enriched in certain organs— I shouldn't use enrich, but distribute to those organs and bind to something.
-> But there's no evidence to showing that the nasal mucosa, this tissue, can enrich, the phenylephrine amount of concentration at that local site.
-> And in addition as a pharmacologist, we believe that how this phenylephrine works is through adrenergic receptor, which is located in the blood vessels. And therefore in this scenario, the tissue distribution— I mean, let's— the organ concentration, or irrelevant tissue distribution concentration, doesn't matter here. What matters here is the blood concentration, the plasma concentration.
-> So we do measure, everyone here in this field measured plasma concentration, and it's lower than EC 50 value.
-> So that's why, from a pharmacology perspective, we can provide these evidence to support or explain the lack of efficacy from the clinical trials.
-> 
-> ...
-> 
-> Martha Lenhart, FDA [00:44:23]
-> For clarification, three voting questions were posed at the 2007 NDAC.
-> For the first voting question, the advisory committee disagreed with the statement that phenylephrine in a 10 milligram immediate release formulation has been shown to be effective when dosed every four hours for the symptomatic treatment of nasal congestion and that no additional studies are needed to support its effectiveness. In other words, did it meet GRASE standards? Two voted yes. 10 voted no.
-> The second question was worded. Given the available data that exists, the evidence is supportive that the 10 milligram immediate release formulation may be effective. 11 voted yes, one voted no.
-> And the third question asked, whether additional studies are needed to assess the efficacy and safety of higher doses. Nine voted yes, three voted no.
-> In conclusion, the committee recommended that additional trials be conducted, specifically multi-center parallel randomized blinded placebo controlled trials, preferably with an active control to evaluate nasal congestion scores and symptom relief.
-> ...
-> Martha Lenhart, FDA [00:45:49]
-> Since the 2007 NDAC, more data had become available. Next slide, please.
-> Certain clinical pharmacology information presented yesterday by Dr. Ren was not available to the 1970s DESI panel. This includes that only parent phenylephrine, not its metabolites, is active.
-> We note discussion yesterday about the bioavailability of phenylephrine.
-> Due to the extensive first pass mechanism, only a fraction of the orally administered dose is present as parent phenylephrine in the systemic circulation, the Cmax value of parent phenylephrine following an oral dose of 10 milligrams is low. About one nanogram per mL.
-> One nanogram per mL is approximately one third of the in vitro alpha one adrenergic EC 50 value because the blood vessel is the target organ and the site of action for parent phenylephrine. The plasma concentration of parent phenylephrine is clinically relevant.
-> This peak plasma concentration is unlikely to achieve a pharmacologic effect in the nasal mucosa needed for nasal decongestant. Both the PK and PD data suggests that a much higher dose of oral phenylephrine may be needed to achieve a nasal decongestant effect.
-> ...
-> Martha Lenhart, FDA [00:47:51]
-> The original efficacy studies conducted prior to the 2007 NDAC do not meet today's trial design standards. For example, clinical and statistical methodology issues of these studies included small study sizes that limit generalizability and inconsistent results across early studies suggesting possible data integrity issues, and of primary importance, the use of unvalidated nasal airway resistance or NAR for efficacy assessments.
-> In contrast to NAR, nasal symptom scores are the gold standard as an endpoint because they directly measure the symptom of interest. Every drug approved over the past 30 years in the cough cold allergy space have demonstrated to be effective based on nasal symptom scores.
-> ...
-> Martha Lenhart, FDA [00:49:22]
-> More recent studies consisting of multicenter parallel, randomized blinded placebo controlled trials also showed that a 10 milligram dose of phenylephrine was not significantly different from placebo.
-> In summary, the new data appear compelling that the monograph dose of oral phenylephrine results in no meaningful systemic exposure and no evidence of efficacy.
-> ...
-> William Figg, NIH [00:55:52]
-> Second, there was a lot of trying to confuse things yesterday, in my opinion, for CHPA's discussion about metabolites.
-> First pass metabolism does not result in the parent drug being in the systemic circulation and bioavailability is really only the parent drug in the circulation, so that 1% is accurate or close to it.
-> So, both of those points suggest the concentration of phenylephrine being achieved in the circulation is substantially low.
-> ...
-> Maria Coyle, NDAC [01:28:12]
-> If I were to do a short summary of what we have discussed to this point, I think several panel members have mentioned that they do believe that the concentration of drug, of parent drug, that is actually reaching the tissue in the nasal passages is low.
-> That overall the later studies do seem to provide some strong evidence that the phenylephrine at 10 milligrams may not be effective, is likely not to effective in relieving nasal congestion, at least in the population studied.
-> That there seems to be some agreement that the populations of patients with seasonal allergic rhinitis and those patients with cold symptoms may may overlap. And so not an unreasonable study population for those later trials, as well as some clinical context around what might be, most of what might be considered an effective treatment and how that effectiveness might be assessed.
-> ...
-> Mark Dykewicz, NDAC [01:32:55]
-> In practice, the major potential complication of uncontrolled nasal obstruction might be the development of bacterial sinus infections. That doesn't happen very often, but if you are looking at trying to maintain the patency or the openness between the inside of the nose and the sinus cavities to avoid mucus accumulation and possible development of a bacterial sinus infection, you certainly would want to achieve that or try to achieve that with an effective treatment. And oral phenylephrine is not going to do it.
-> So, there would be alternatives, such as intranasal decongestant sprays that for short term might work better. It would be off label. One might consider a nasal corticosteroid to help reduce congestion swelling within the nose.
-> But I think, um, are there clear cut studies that would prove that some of these alternative treatments are reducing the risk of developing bacterial sinusitis with the need for antibiotics and potential other complications? We don't have studies that clearly demonstrate that.
-> ...
-> Maria Coyle, NDAC [02:16:26]
-> So question two for our vote, do the current scientific data that were presented support that the monograph dosage of orally administered phenylephrine is effective as a nasal decongestant?
-> If yes, discuss what data you consider supportive, if no discuss what additional data, if any, are needed to assess phenylephrine pharmacokinetics or efficacy.
-> ...
-> Jessica Seo, FDA
-> [02:24:28]
-> There were 0 yes's, 16 no's, and 0 abstentions.
-> ...
-> Maria Coyle, NDAC [02:36:48]
-> I also voted no, for all the reasons stated.
-> I think we, we clearly have better options in the over the counter space to help our patients. And the studies do not support that this is an effective drug and delaying care or other negatives associated with care far outweigh you know, any potential, even in the future, if this drug were at different doses.
-> So I would not be in favor of additional studies at this time, along with my fellow panel panelists, who stated the same.
-> ...
-> Karim Calis, NDAC [02:40:26]
-> We already know how this drug works. We already know its mechanism action. We already know what this class of drugs does. We just know that in its current form, in the dosage form that is currently provided at the current dosage, that you don't. You have very low systemic exposure.
-> So, if we push the dose, it's possible that you might get additional systemic exposure. But with that, we already know that we will probably very likely encounter additional cardiovascular effects, just as we would do from the entire class of those drugs.
-> So I think that would be the, the wrong thing. And I don't think that the data would support that.
-> Could there be some efficacy at much higher dosage, possibly? But with the corresponding increase in potential cardiovascular effects and safety issues.
-> ...
-> Maria Coyle, NDAC [02:48:36]
-> I'm hearing a broad consensus that the advisory committee members do not necessarily support a higher dosage be explored for OTC use.
-> ...
-> Maria Coyle, NDAC [03:04:27]
-> I just want to summarize what we've heard thus far.
-> I think concern that any change in status for OTC phenylephrine be communicated clearly that, the public be reassured as to a lack of effectiveness or a lack of efficacy as the driver for this change, rather than safety concerns.
-> I think recognizing that some patients may be very in tune to the ingredients of their OTC products and may be very concerned that this product is not going to potentially be available. And maybe on the flip side, patients who are less in tune with the individual ingredients and may in fact not even be able to discern a difference.
-> I think also recognizing that we've been discussing sort of maybe an assumption that phenylephrine would be withdrawn from the monograph, while I want to acknowledge that that's not really what we have voted on, per se. And so the FDA will have to make that determination.
-> But regardless, I do think information about this meeting and this deliberation of the advisory committee is out in the media, and maybe, uh, reaching the level of awareness of many of our patients. And so regardless of the outcome of these deliberations, perhaps some careful communication needs to happen, and that should probably happen at multiple levels, reaching providers, patients, consumer groups, and maybe in a variety of formats.
+>  <br><br>Some of the additional data was brought forward in two citizens petitions, one in 2007 and one in 2015. The 2007 citizens petition requested that the agency amend the dosages of both oral phenylephrine salts by increasing the maximum allowed dosage for patients 12 years of age and older. It also requested that FDA withdraw approval, or rather make it not GRASE, for use in children less than 12 years of age.
+>  <br><br>The 2015 citizens petition requested that FDA reclassify the oral phenylephrine salts as not GRASE due to lack of efficacy.
+>  <br><br>...
+>  <br><br>Theresa Michele, FDA [00:51:48]
+>  <br><br>Because of the additional data that had become available since FDA's GRASE finding back in 1994, we convened an advisory committee in 2007 to discuss the safety and effectiveness of oral phenylephrine as a nasal decongestant.
+>  <br><br>At the meeting in 2007, the committee also considered the original studies supporting the effectiveness of oral phenylephrine. The committee noted that the results are not consistent across studies for nasal airway resistance and recommended that symptoms should be the essential primary endpoint. They also noted that evidence of efficacy consisted primarily of studies conducted 40 years ago, which is now 55 years ago. And it included fewer than 200 subjects who received oral phenylephrine 10 milligrams.
+>  <br><br>Due to the small size of the studies, they felt that near nasal airway resistance results may not be generalizable to a wider population. Based on this, the committee recommended that additional data be conducted, specifically, multicenter parallel, randomized, double blind placebo controlled trials, preferably with an active control, such as pseudoephedrine, to evaluate nasal congestion scores and symptom relief. They also recommended characterization of the phenylephrine dose response and dosing interval, comparison of the PK of single ingredient products versus multiple ingredient products, and a safety evaluation of the effects of phenylephrine on blood pressure.
+>  <br><br>I'm pleased to say that we now have much of the data that was requested by the 2007 advisory committee. And we are now bringing this back to this committee for consideration.
+>  <br><br>...
+>  <br><br>Theresa Michele, FDA [00:55:54]
+>  <br><br>An advisory committee is utilized to conduct public hearings on matters of importance that come before FDA to review the issues involved and to provide advice and recommendations to the commissioner. The commissioner has sole discretion concerning action to be taken and policy to be expressed on any matter considered by an advisory committee.
+>  <br><br>Now, as such, we are not asking you to make a GRASE determination today on phenylephrine as an oral decongestant. Rather, we are asking you to advise us on what you believe the data show in terms of effectiveness.
+>  <br><br>...
+>  <br><br>Ben Bishop, FDA [00:57:43]
+>  <br><br>Although the agency first took regulatory action in 1976, this action was based on the conclusions and recommendations of an advisory review panel, which was convened in November of 1972.
+>  <br><br>Not to be confused with other types of panels or advisory committees, that panel and others like it are known as DESI review panels. DESI stands for drug efficacy study implementation, and the DESI panels represented one of the agency's pivotal first steps in a long process of rulemaking.
+>  <br><br>Almost 20 years later, the final monograph for nasal decongestants, part of the larger cold cough allergy bronchodilator and anti asthmatic monograph, was published in 1994.
+>  <br><br>...
+>  <br><br>Ben Bishop, FDA [00:59:00]
+>  <br><br>In 1962, a retrospective evaluation of drug efficacy was authorized by the Kefauver-Harris amendment. Notably, the law mandated that FDA evaluate effectiveness, whereas previous approvals had required only a determination of safety.
+>  <br><br>For non-prescription drugs, the drug efficacy study implementation or DESI review, began 10 years later when FDA assembled a list of over 400 active ingredients being marketed without a prescription and categorized them into 26 therapeutic categories. One of these became known as the cold cough allergy bronchodilator and anti asthma monograph, or CCABA monograph, and this included nasal decongestants.
+>  <br><br>...
+>  <br><br>Tracy Pham, FDA [02:46:38]
+>  <br><br>Phenylephrine had higher proportions of manufacturer and retail sales than pseudoephedrine. Since 2018, phenylephrine accounted for the majority of retail sales in both bottle and packages, and in sale dollars.
+>  <br><br>Retail sales of phenylephrine and pseudoephedrine decreased from 2018 to 2021, before increasing in 2022.
+>  <br><br>In 2022, phenylephrine retail sales represented 1.8 billion dollars, compared to half a billion dollars of pseudoephedrine retail sales.
+>  <br><br>...
+>  <br><br>Marcia Howard, CHPA [04:32:58]
+>  <br><br>Phenylephrine has played an important role in consumer's temporary self-treatment of nasal congestion. It is the only available oral non-prescription medicine for nasal congestion that is sold without having to show an ID or to complete a log book.
+>  <br><br>Oral phenylephrine comes in both brand name and store brand versions. Nasal congestion is one of the most bothersome symptoms associated with colds and upper respiratory allergies and is linked to decreased work productivity and quality of life and to sleep disturbances.
+>  <br><br>Consumer satisfaction with oral phenylephrine is high. According to household panel data, half of American households rely on phenylephrine and over two thirds of these households chose to repurchase the medicines on average four times over the year, which is a strong indication of satisfaction.
+>  <br><br>...
+>  <br><br>Marcia Howard, CHPA [04:32:58]
+>  <br><br>Phenylephrine has played an important role in consumer's temporary self-treatment of nasal congestion. It is the only available oral non-prescription medicine for nasal congestion that is sold without having to show an ID or to complete a log book.
+>  <br><br>Oral phenylephrine comes in both brand name and store brand versions. Nasal congestion is one of the most bothersome symptoms associated with colds and upper respiratory allergies and is linked to decreased work productivity and quality of life and to sleep disturbances.
+>  <br><br>Consumer satisfaction with oral phenylephrine is high. According to household panel data, half of American households rely on phenylephrine and over two thirds of these households chose to repurchase the medicines on average four times over the year, which is a strong indication of satisfaction.
+>  <br><br>...
+>  <br><br>Marcia Howard, CHPA [04:40:34]
+>  <br><br>Our position is that this is a safe and effective medicine and its removal will result in increased demand for pseudoephedrine and a shortage of FDA approved on shelf medications. It would have supply chain implications and would cause an increased burden on the consumers we serve and on the healthcare system.
+>  <br><br>...
+>  <br><br>David Spangler, CHPA [06:12:32]
+>  <br><br>If you do want to change to pseudoephedrine, one, you would need to be already licensed with DEA. If not, you'd have to be applying, have to institute certain security controls, compliance with state law requirements. 
+>  <br><br>Then you would have to request your quota, request sgo in in the spring, manufacturing in May, procurement in April, you then get your quota, then some months later, and then as a practical matter of the retail level, typically they're doing their planograms, what the store is going to look like, those get adjusted in the spring, and then implemented typically in the fall in most major retailers.
+>  <br><br>So you get a significant lag. Plus, as Dr. Howard mentioned, there's a limit on the number of products that a retailer would be willing to carry behind the counter because of limited space.
+>  <br><br>...
+>  <br><br>Theresa Michele, FDA [07:44:34]
+>  <br><br>The thing that matters when you are dosing, a drug is how much of the drug gets to where it needs to be, and whether it is a high enough concentration to affect the receptor that it's trying to affect to make the change.
+>  <br><br>So in this case, we need the drug to get to the alpha receptors in the nose so that they can constrict the blood vessels and reduce the amount of congestion. So the actual amount that's absorbed is somewhat irrelevant. What we really care about is the fact that the concentration that affects the receptors is higher than the concentration that you can get into your body, because it's extensively metabolized by the intestine.
+>  <br><br>...
+>  <br><br>Yunzhao Ren, FDA [07:45:48]
+>  <br><br>As a pharmacologist, we believe if a drug works, that means it should work at the site where it's working for nasal congestion. You should, we believe that how the drug work at the nasal congestion is at the nasal mucosa, the amount or the concentration of the drug, let's say following oral administration, should reach certain level to be efficacious or at least as potent as those animal studies, cellular studies, molecular studies indicating that concentration should work.
+>  <br><br>And the results show that, following the oral administration route, the amount of the phenylephrine, or the concentration of phenylephrine, failed to reach that threshold concentration, from the in vitro or cellular level.
+>  <br><br>There's a concern raised in the morning by saying, 'hey, phenylephrine has a very wide distribution, tissue distribution, which means when phenylephrine entered the human body, there could be some other organs which can absorb this phenylephrine, so that it can be enriched in certain organs— I shouldn't use enrich, but distribute to those organs and bind to something.
+>  <br><br>But there's no evidence to showing that the nasal mucosa, this tissue, can enrich, the phenylephrine amount of concentration at that local site.
+>  <br><br>And in addition as a pharmacologist, we believe that how this phenylephrine works is through adrenergic receptor, which is located in the blood vessels. And therefore in this scenario, the tissue distribution— I mean, let's— the organ concentration, or irrelevant tissue distribution concentration, doesn't matter here. What matters here is the blood concentration, the plasma concentration.
+>  <br><br>So we do measure, everyone here in this field measured plasma concentration, and it's lower than EC 50 value.
+>  <br><br>So that's why, from a pharmacology perspective, we can provide these evidence to support or explain the lack of efficacy from the clinical trials.
+>  <br><br>
+>  <br><br>...
+>  <br><br>
+>  <br><br>Martha Lenhart, FDA [00:44:23]
+>  <br><br>For clarification, three voting questions were posed at the 2007 NDAC.
+>  <br><br>For the first voting question, the advisory committee disagreed with the statement that phenylephrine in a 10 milligram immediate release formulation has been shown to be effective when dosed every four hours for the symptomatic treatment of nasal congestion and that no additional studies are needed to support its effectiveness. In other words, did it meet GRASE standards? Two voted yes. 10 voted no.
+>  <br><br>The second question was worded. Given the available data that exists, the evidence is supportive that the 10 milligram immediate release formulation may be effective. 11 voted yes, one voted no.
+>  <br><br>And the third question asked, whether additional studies are needed to assess the efficacy and safety of higher doses. Nine voted yes, three voted no.
+>  <br><br>In conclusion, the committee recommended that additional trials be conducted, specifically multi-center parallel randomized blinded placebo controlled trials, preferably with an active control to evaluate nasal congestion scores and symptom relief.
+>  <br><br>...
+>  <br><br>Martha Lenhart, FDA [00:45:49]
+>  <br><br>Since the 2007 NDAC, more data had become available. Next slide, please.
+>  <br><br>Certain clinical pharmacology information presented yesterday by Dr. Ren was not available to the 1970s DESI panel. This includes that only parent phenylephrine, not its metabolites, is active.
+>  <br><br>We note discussion yesterday about the bioavailability of phenylephrine.
+>  <br><br>Due to the extensive first pass mechanism, only a fraction of the orally administered dose is present as parent phenylephrine in the systemic circulation, the Cmax value of parent phenylephrine following an oral dose of 10 milligrams is low. About one nanogram per mL.
+>  <br><br>One nanogram per mL is approximately one third of the in vitro alpha one adrenergic EC 50 value because the blood vessel is the target organ and the site of action for parent phenylephrine. The plasma concentration of parent phenylephrine is clinically relevant.
+>  <br><br>This peak plasma concentration is unlikely to achieve a pharmacologic effect in the nasal mucosa needed for nasal decongestant. Both the PK and PD data suggests that a much higher dose of oral phenylephrine may be needed to achieve a nasal decongestant effect.
+>  <br><br>...
+>  <br><br>Martha Lenhart, FDA [00:47:51]
+>  <br><br>The original efficacy studies conducted prior to the 2007 NDAC do not meet today's trial design standards. For example, clinical and statistical methodology issues of these studies included small study sizes that limit generalizability and inconsistent results across early studies suggesting possible data integrity issues, and of primary importance, the use of unvalidated nasal airway resistance or NAR for efficacy assessments.
+>  <br><br>In contrast to NAR, nasal symptom scores are the gold standard as an endpoint because they directly measure the symptom of interest. Every drug approved over the past 30 years in the cough cold allergy space have demonstrated to be effective based on nasal symptom scores.
+>  <br><br>...
+>  <br><br>Martha Lenhart, FDA [00:49:22]
+>  <br><br>More recent studies consisting of multicenter parallel, randomized blinded placebo controlled trials also showed that a 10 milligram dose of phenylephrine was not significantly different from placebo.
+>  <br><br>In summary, the new data appear compelling that the monograph dose of oral phenylephrine results in no meaningful systemic exposure and no evidence of efficacy.
+>  <br><br>...
+>  <br><br>William Figg, NIH [00:55:52]
+>  <br><br>Second, there was a lot of trying to confuse things yesterday, in my opinion, for CHPA's discussion about metabolites.
+>  <br><br>First pass metabolism does not result in the parent drug being in the systemic circulation and bioavailability is really only the parent drug in the circulation, so that 1% is accurate or close to it.
+>  <br><br>So, both of those points suggest the concentration of phenylephrine being achieved in the circulation is substantially low.
+>  <br><br>...
+>  <br><br>Maria Coyle, NDAC [01:28:12]
+>  <br><br>If I were to do a short summary of what we have discussed to this point, I think several panel members have mentioned that they do believe that the concentration of drug, of parent drug, that is actually reaching the tissue in the nasal passages is low.
+>  <br><br>That overall the later studies do seem to provide some strong evidence that the phenylephrine at 10 milligrams may not be effective, is likely not to effective in relieving nasal congestion, at least in the population studied.
+>  <br><br>That there seems to be some agreement that the populations of patients with seasonal allergic rhinitis and those patients with cold symptoms may may overlap. And so not an unreasonable study population for those later trials, as well as some clinical context around what might be, most of what might be considered an effective treatment and how that effectiveness might be assessed.
+>  <br><br>...
+>  <br><br>Mark Dykewicz, NDAC [01:32:55]
+>  <br><br>In practice, the major potential complication of uncontrolled nasal obstruction might be the development of bacterial sinus infections. That doesn't happen very often, but if you are looking at trying to maintain the patency or the openness between the inside of the nose and the sinus cavities to avoid mucus accumulation and possible development of a bacterial sinus infection, you certainly would want to achieve that or try to achieve that with an effective treatment. And oral phenylephrine is not going to do it.
+>  <br><br>So, there would be alternatives, such as intranasal decongestant sprays that for short term might work better. It would be off label. One might consider a nasal corticosteroid to help reduce congestion swelling within the nose.
+>  <br><br>But I think, um, are there clear cut studies that would prove that some of these alternative treatments are reducing the risk of developing bacterial sinusitis with the need for antibiotics and potential other complications? We don't have studies that clearly demonstrate that.
+>  <br><br>...
+>  <br><br>Maria Coyle, NDAC [02:16:26]
+>  <br><br>So question two for our vote, do the current scientific data that were presented support that the monograph dosage of orally administered phenylephrine is effective as a nasal decongestant?
+>  <br><br>If yes, discuss what data you consider supportive, if no discuss what additional data, if any, are needed to assess phenylephrine pharmacokinetics or efficacy.
+>  <br><br>...
+>  <br><br>Jessica Seo, FDA
+>  <br><br>[02:24:28]
+>  <br><br>There were 0 yes's, 16 no's, and 0 abstentions.
+>  <br><br>...
+>  <br><br>Maria Coyle, NDAC [02:36:48]
+>  <br><br>I also voted no, for all the reasons stated.
+>  <br><br>I think we, we clearly have better options in the over the counter space to help our patients. And the studies do not support that this is an effective drug and delaying care or other negatives associated with care far outweigh you know, any potential, even in the future, if this drug were at different doses.
+>  <br><br>So I would not be in favor of additional studies at this time, along with my fellow panel panelists, who stated the same.
+>  <br><br>...
+>  <br><br>Karim Calis, NDAC [02:40:26]
+>  <br><br>We already know how this drug works. We already know its mechanism action. We already know what this class of drugs does. We just know that in its current form, in the dosage form that is currently provided at the current dosage, that you don't. You have very low systemic exposure.
+>  <br><br>So, if we push the dose, it's possible that you might get additional systemic exposure. But with that, we already know that we will probably very likely encounter additional cardiovascular effects, just as we would do from the entire class of those drugs.
+>  <br><br>So I think that would be the, the wrong thing. And I don't think that the data would support that.
+>  <br><br>Could there be some efficacy at much higher dosage, possibly? But with the corresponding increase in potential cardiovascular effects and safety issues.
+>  <br><br>...
+>  <br><br>Maria Coyle, NDAC [02:48:36]
+>  <br><br>I'm hearing a broad consensus that the advisory committee members do not necessarily support a higher dosage be explored for OTC use.
+>  <br><br>...
+>  <br><br>Maria Coyle, NDAC [03:04:27]
+>  <br><br>I just want to summarize what we've heard thus far.
+>  <br><br>I think concern that any change in status for OTC phenylephrine be communicated clearly that, the public be reassured as to a lack of effectiveness or a lack of efficacy as the driver for this change, rather than safety concerns.
+>  <br><br>I think recognizing that some patients may be very in tune to the ingredients of their OTC products and may be very concerned that this product is not going to potentially be available. And maybe on the flip side, patients who are less in tune with the individual ingredients and may in fact not even be able to discern a difference.
+>  <br><br>I think also recognizing that we've been discussing sort of maybe an assumption that phenylephrine would be withdrawn from the monograph, while I want to acknowledge that that's not really what we have voted on, per se. And so the FDA will have to make that determination.
+>  <br><br>But regardless, I do think information about this meeting and this deliberation of the advisory committee is out in the media, and maybe, uh, reaching the level of awareness of many of our patients. And so regardless of the outcome of these deliberations, perhaps some careful communication needs to happen, and that should probably happen at multiple levels, reaching providers, patients, consumer groups, and maybe in a variety of formats.
 
 # September 12, 2023
 
@@ -165,8 +173,8 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** [webcast](https://video.ibm.com/channel/VWBXKBR8af4) of Advisory Committee on Immunization Practices meeting
 - **Date:** broadcasted September 12, 2023
 
-> Demetre Daskalakis, CDC [10:26:24]
-> 
+>  Demetre Daskalakis, CDC [10:26:24]
+>  
 > I'll echo that we're also aware that there's a lot of interest in having non mRNA vaccine options available. And we also look forward to the potential authorization of the updated vaccine.
 > 
 > It's important to note that the voting language that is going to be presented later today is inclusive of FDA licensed or authorized updated monovalent XBB containing COVID 19 vaccines, including those that may be licensed or authorized in coming months.
