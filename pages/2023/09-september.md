@@ -228,6 +228,28 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > ...
 > 
+> Megan Wallace, CDC [02:35:30]
+> 
+> In summary, COVID 19 vaccination is a cost effective intervention, particularly in persons ages 65 years and older in which the vaccine is cost saving.
+> 
+> Cost effectiveness estimates in those ages 50 years and older were robust to input changes across plausible ranges.
+> 
+> Cost effectiveness estimates in those 18 to 49 years were sensitive to changes in inputs. 
+> 
+> If vaccine effectiveness or hospitalization rates are higher than anticipated, the cost effectiveness estimates would be more favorable.
+> 
+> Cost effectiveness estimates are not yet available for the pediatric population. 
+> 
+> Next, for equity we considered, if the intervention is a reasonable and efficient allocation of resources across all populations. Next. 
+> 
+> COVID 19 vaccination is most cost effective in older adults in which disease burden is highest compared to younger adults. COVID 19 vaccination is likely more cost effective in populations with risk factors, such as underlying conditions, which increase their probability of hospitalization due to COVID 19.
+> 
+> Additional work is ongoing to evaluate cost effectiveness in the pediatric populations. Next.
+> 
+> When asked if the 2023-2024 COVID 19 vaccine is a reasonable and efficient allocation of resources, the majority opinion was yes, with a minority opinion of probably yes, next. 
+> 
+> ...
+> 
 > Megan Wallace, CDC [02:43:43]
 > 
 > Finally, we have an optional— we had an optional second bivalent dose for those ages 65 years and older. We do not have an additional dose recommendation for the 2023-2024 vaccine at this time.
