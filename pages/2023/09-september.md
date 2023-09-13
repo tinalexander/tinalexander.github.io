@@ -246,7 +246,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > Additional work is ongoing to evaluate cost effectiveness in the pediatric populations. Next.
 > 
-> When asked if the 2023-2024 COVID 19 vaccine is a reasonable and efficient allocation of resources, the majority opinion was yes, with a minority opinion of probably yes, next. 
+> When asked if the 2023-2024 COVID 19 vaccine is a reasonable and efficient allocation of resources, the majority opinion was yes, with a minority opinion of probably yes. Next. 
 > 
 > ...
 > 
