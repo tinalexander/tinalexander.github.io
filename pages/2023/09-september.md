@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 13, 2023
 
+## FDA spokesperson on status of oral phenylephrine after meeting
+
+- **Source:** email from Cherie Duvall-Jones of the Food and Drug Administration
+- **Date:** received September 13, 2023
+
+> If the FDA determines that oral phenylephrine is no longer considered generally recognized as safe and effective (GRASE) under the conditions of use in OTC Monograph M012: Cold, Cough, Allergy, Bronchodilator, and Antiasthmatic Drug Products for OTC Human Use (OTC Monograph M012), the FDA would issue a proposed order to amend OTC Monograph M012by removing oral phenylephrine as a GRASE active ingredient from that monograph. Stakeholders would have the opportunity to comment on the proposed order, including by providing additional data. During this time period, the marketing status of oral phenylephrine would not change. After considering all of the comments on the proposed order, the FDA would issue a final order on the GRASE status of oral phenylephrine for use as a nasal decongestant under the conditions of use in OTC Monograph M012.
+> 
+> The FDA has no further information to provide at this time regarding the timing of any decision the agency may make following the advisory committee meeting.
+
 ## FDA officials and NDAC meeting participants on oral phenylephrine
 
 - **Source:** [webcast](https://www.fda.gov/advisory-committees/advisory-committee-calendar/updated-september-11-12-2023-meeting-nonprescription-drugs-advisory-committee-meeting-announcement) of Nonprescription Drugs Advisory Committee meeting
