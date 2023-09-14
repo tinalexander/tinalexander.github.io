@@ -15,6 +15,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 14, 2023
+
+## FDA spokesperson on whether new COVID shots are "boosters"
+
+- **Source:** email from an FDA spokesperson
+- **Date:** received September 14, 2023
+
+> On background: To clarify, these vaccines would not be considered “boosters” per se. These vaccines, as previously announced, would be updated with a new formulation for the 2023-2024 fall and winter seasons.
+
 # September 13, 2023
 
 ## FDA spokesperson on status of oral phenylephrine after meeting
