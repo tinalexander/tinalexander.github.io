@@ -22,22 +22,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** [webcast](https://www.dietaryguidelines.gov/get-involved/meeting-3) hosted by the Department of Agriculture and Department of Health and Human Services
 - **Date:** broadcasted on September 13, 2023
 
-Janet de Jesus, HHS [09:02:44]
-
-There has been recent interest in the status of the guidelines for alcohol. And we wanted to note that the development of recommendations for the next edition of the dietary guidelines has not yet begun including guidance on alcohol consumption. 
-
-The topic of alcohol is not being examined by this current committee. Evidence will be reviewed in separate processes and more information is available on our website on our related projects page.
-
-...
-
-Janet de Jesus, HHS [09:03:18]
-
-The committee has six public meetings. The final meeting meeting six will include the committee's presentation on their draft report. And we've asked that the committee submit the report by October 2024.
-
-Following the release of their scientific report, HHS and USDA will begin the process to update the dietary guidelines to be published in 2025. 
-
-...
-
+> Janet de Jesus, HHS [09:02:44]
+> 
+> There has been recent interest in the status of the guidelines for alcohol. And we wanted to note that the development of recommendations for the next edition of the dietary guidelines has not yet begun including guidance on alcohol consumption. 
+> 
+> The topic of alcohol is not being examined by this current committee. Evidence will be reviewed in separate processes and more information is available on our website on our related projects page.
+> 
+> ...
+> 
+> Janet de Jesus, HHS [09:03:18]
+> 
+> The committee has six public meetings. The final meeting meeting six will include the committee's presentation on their draft report. And we've asked that the committee submit the report by October 2024.
+> 
+> Following the release of their scientific report, HHS and USDA will begin the process to update the dietary guidelines to be published in 2025. 
 
 
 ## CDC officials and ACIP member at IDSA webinar
