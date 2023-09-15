@@ -15,6 +15,65 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 15, 2023
+
+## CDC officials and ACIP member at IDSA webinar
+
+- **Source:** [webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-covid-19-new-booster-vaccine--variants-update-plus-updates-on-rsv-influenza--pneumococcal-immunizations/) hosted by the Infectious Diseases Society of America
+- **Date:** broadcasted September 14, 2023
+
+> Hanna Kirking, CDC [00:13:51]
+> 
+> Right now, in the U.S., we started to see a rise in COVID 19 cases and then hospitalizations in late June and throughout mid-July, and where we're at today in terms of the trends with where we're going, is right now nationwide kind of test positivity seems like it maybe has now plateaued at kind of a potential early peak. ED visits are plateaued and hospital admissions are going up. And again, this pattern should be interpreted, realizing that we expect a slight time shift with these. 
+> 
+> Here you can see there's slight different patterns in different regions, but overall that's the, the nationwide trend. 
+> 
+> So next slide? This slide just shows the overall epi curve of hospitalizations throughout much of the pandemic. The hospitalization numbers are shown in the blue bars and these are weekly counts. The superimposed orange line is actually proportion test positive, and that one is using the Y axis on the right. And so you can kind of see the yellowish orange line relative to hospitalizations is back shifted a little bit to the left. And that reflects that difference that I was talking about. 
+> 
+> Also in this slide, you can see kind of hospitalizations is still kind of on the upswing it seems like, realizing that there's a reporting delay. But we're starting to be hopeful that we may be peaking in terms of proportion positive. That's a guarded hope, but it's there nonetheless, just based on kind of curve and overall patterns. 
+> 
+> Next slide, one more please? 
+> 
+> All right. This curve shows percentage of emergency department visits where COVID 19 is diagnosed and it's separated out by age. So the Y axis is the percent of the emergency department visits. The X axis is date or week. You can see here, I think the big takeaway here, also is that in a couple age groups, we're starting to see the peak kind of leveling off. 
+> 
+> And again, that's kind of integrating various data with hopes that we might be reaching the peak of this increase we've seen the last couple months. 
+> 
+> ...
+> 
+> Keipp Talbot, ACIP [00:41:20]
+> 
+> Bye bye booster. We are no longer giving boosters and it's going to be very difficult to stop using that word because that word has become pervasive. 
+> 
+> We are currently giving the updated 2023-2024 vaccine. 
+> 
+> We are beginning to think of COVID like influenza. Influenza changes each year, and we give a new vaccine for each year. We don't boost each year. So it's going to be difficult to start changing that terminology, but it is no longer a booster. It is now the current vaccine for the year. 
+> 
+> ...
+> 
+> Amadea Britton, CDC [01:26:35]
+> 
+> I can speak to the adults. And this is a critical concern. And I saw a lot of questions about it, where some of this is a little bit beyond the scope of CDC, unfortunately, a little bit hemmed in by what's happening across the board. 
+> 
+> But what I can say is that these vaccines are covered under Medicare Part D, which means they, because of the changes with the Inflation Reduction Act in January of 2023, they should have zero cost sharing under Medicare Part D. 
+> 
+> That doesn't address the issue of people that don't have the Part D coverage. But, if you do have Part D they, regardless of the fact that they are prescribed under shared clinical decision making, they are covered with zero cost sharing. 
+> 
+> In terms of private insurers under the ACA, they also are required to cover this, despite it being shared clinical decision making, because it will be on the adult immunization schedule. I know there have been some hiccups with that because that requires separate approval by ACIP. But we have tried to address that. And, we are definitely working with our other federal partners. 
+> 
+> We have a banner up now on the website that basically says, this is part of the adult immunization schedule, even if it's not on the actual chart yet. 
+> 
+> But the one other thing there for providers to know is that even though it will be covered eventually without cost sharing by private insurers, they have up to a year from the recommendation to add it to their plan. So that's part of what we're seeing too. 
+> 
+> So I think the good news is in the long term, we expect coverage for the adults to be very good. But, the-- right now, as we're kind of in this introductory period, it definitely is challenging. And we understand it's a huge equity issue, and we're definitely trying to work on it, and I will turn it over perhaps to Jefferson to talk about VFC.
+> 
+> Jefferson Jones, CDC [01:28:32]
+> 
+> So VFC, nirsevimab was voted to be included through resolution at ACIP in VFC. And we are expecting by the end or next month for those contract negotiations-- I mean, it's a goal, for those to be completed for VFC.
+> 
+> On the private insurance side, there is a lot more uncertainty we've heard about. Most inpatient hospitals are not VFC enrolled. And, we know tha bundled payments are an issue for nirsevimab. And then on the outpatient side, same as through ACA, it is required to be covered, but there is a potential lag for private insurance, as they have up to a year. And we have heard different timing based on different healthcare systems. 
+> 
+> So unfortunately there's not a easy answer to those questions, but we are working closely with AAP and with our liaisons from the insurance industry to ACIP to try and do, frankly, it's just as, as best we can for a brand new product monoclonal antibody, this is a brand new class to be used this way, which is leading to a lot of implementation challenges, which are unfortunate, but at least we're excited that we do have this product included in ACIP recommendations.
+
 # September 14, 2023
 
 ## FDA spokesperson on whether new COVID shots are "boosters"
