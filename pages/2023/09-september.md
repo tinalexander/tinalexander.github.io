@@ -17,6 +17,27 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 15, 2023
 
+## CDC officials and NCHS BSC members at meeting
+
+- **Source:** [webcast](https://www.cdc.gov/nchs/about/bsc/bsc_meetings.htm) of a Board of Scientific Counselors, National Center for Health Statistics meeting
+- **Date:** broadcasted September 14, 2023
+
+> Brian Moyer, CDC [00:15:58]
+> 
+> Based on my personal conversations with Dr. Cohen, she is a big supporter of data and a big supporter of NCHS. And, while she's bringing her own priorities to CDC, she's also carefully building on the many efforts that are already underway across the across the agency. And she's referring to this as no sharp turns. 
+> 
+> Next slide, please. 
+> 
+> As we discussed at our last meeting, there is a new initiative underway at CDC and it's called the CDC Moving Forward initiative. And, as we discussed, the idea is to improve CDC by building on what's working well and addressing opportunities for improvement, where they exist and, sort of in that spirit, in Mandy's spirit of no sharp turns, we and all the other centers across CDC remain committed to this CDC Moving Forward initiative. 
+> 
+> ...
+> 
+> Brian Moyer, CDC [00:38:39]
+> 
+> Looking forward just a bit, the 2023 America's Children report will be available on September 27. And as you know, this report is coordinated by NCHS, but reflects collaboration across 23 federal agencies. So it's quite the collaborative effort. 
+> 
+> This slide highlights some of the key findings from this year's report. So, please feel free to check that out when it becomes available on the 27th. 
+
 ## HHS officials and DGA members at third meeting
 
 - **Source:** [webcast](https://www.dietaryguidelines.gov/get-involved/meeting-3) hosted by the Department of Agriculture and Department of Health and Human Services
