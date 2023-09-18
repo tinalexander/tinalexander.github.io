@@ -40,7 +40,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > There's a request for information published last week on changes to the policies for the oversight of Dual Use Research of Concern known as DURC, and also Potential Pandemic Pathogen Care and Oversight, the P3CO policy framework. 
 > 
-> This is, um, the effort to revise these these policies was primarily under the-- it was the responsibility assigned to the Office of Science and Technology, the OSTP, in out of the White House and also the National Security Council.
+> This is the effort to revise these these policies was primarily under the-- it was the responsibility assigned to the Office of Science and Technology, the OSTP, in out of the White House and also the National Security Council.
 > 
 > The proposed policy will actually expand pretty significantly the amount of the number of pathogens that have to be on the DURC watch list. This is my read of the draft policy. 
 > 
