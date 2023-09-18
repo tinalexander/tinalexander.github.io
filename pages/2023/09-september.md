@@ -22,21 +22,154 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** [webcast](https://www.cdc.gov/nchs/about/bsc/bsc_meetings.htm) of a Board of Scientific Counselors, National Center for Health Statistics meeting
 - **Date:** broadcasted September 14, 2023
 
-> Brian Moyer, CDC [00:15:58]
+> Brian Moyer, CDC [11:15:58]
 > 
 > Based on my personal conversations with Dr. Cohen, she is a big supporter of data and a big supporter of NCHS. And, while she's bringing her own priorities to CDC, she's also carefully building on the many efforts that are already underway across the across the agency. And she's referring to this as no sharp turns. 
 > 
 > Next slide, please. 
 > 
-> As we discussed at our last meeting, there is a new initiative underway at CDC and it's called the CDC Moving Forward initiative. And, as we discussed, the idea is to improve CDC by building on what's working well and addressing opportunities for improvement, where they exist and, sort of in that spirit, in Mandy's spirit of no sharp turns, we and all the other centers across CDC remain committed to this CDC Moving Forward initiative. 
+> As we discussed at our last meeting, there is a new initiative underway at CDC and it's called the CDC Moving Forward initiative. And, as we discussed, the idea is to improve CDC by building on what's working well and addressing opportunities for improvement, where they exist and, sort of in that spirit, in Mandy's spirit of no sharp turns, we and all the other centers across CDC remain committed to this CDC Moving Forward initiative.
+>
+> ...
+>
+> 
+> Jennifer Layden, CDC [11:33:22]
+> 
+> Around Dr. Cohen's priorities, we're very excited that data technology is of high priority to her. There are three kind of core focus areas that she's identified. One of them is the readiness and execution for the fall and winter respiratory illnesses, the second around mental health and combating opioid crisis, and then the third supporting young families. 
+> 
+> We are working really across all three of these. Just to speak to a couple of them. 
+> 
+> One is in the space of the fall readiness. So ensuring we're doing what we can, in the anticipation of COVID, flu, RSV, and other respiratory pathogens, our office is leading the effort to find and visualize and disseminate the data out to the public for the fall surge. 
+> 
+> So really emphasizing importance of a coordinated, integrated approach, across the agency, to meet our mission. 
 > 
 > ...
 > 
-> Brian Moyer, CDC [00:38:39]
+> Brian Moyer, CDC [11:38:39]
 > 
 > Looking forward just a bit, the 2023 America's Children report will be available on September 27. And as you know, this report is coordinated by NCHS, but reflects collaboration across 23 federal agencies. So it's quite the collaborative effort. 
 > 
 > This slide highlights some of the key findings from this year's report. So, please feel free to check that out when it becomes available on the 27th. 
+> 
+> ...
+> 
+> Amy Brown, CDC [02:48:16]
+> 
+> So we're going to be able to collect two rounds of the survey for this year, from July to September, and then from October to December. It's taking us a little bit of time to set up the approvals in the processes. But we expect we're going to be in a full quarterly data collection schedule, next year in 2024. So each round is going to have at least 4,000 total respondents, which represent completed surveys, drawn from nationally representative samples.
+> 
+> A minimum of 2,000 is going to come from each of two commercial online panels that will collect data simultaneously, versus the KnowledgePanel, from Ipsos Public Affairs and AmeriSpeak from NORC at the University of Chicago. These are two of the largest panels in the industry. 
+> 
+> Our goal is to achieve a faster turnaround time for the release of data compared to our NCHS core surveys. So once all the operational processes are in place, it should take about six months from the time we receive sponsored content to release data on national estimates.
+> 
+> ...
+> 
+> Amy Brown, CDC [02:49:44]
+> 
+> Sponsored content must address at least three, these three priority areas, as shown here. The first being time sensitive data needs, areas where existing statistical resources are unavailable, not timely or of insufficient or unknown quality. 
+> 
+> The second measuring public health attitudes and behaviors, cases where things are changing very quickly.
+> 
+> And the last being development work, which provides agencies an ability to do some developmental work, areas where their concepts are less clear or evolving, or they want to do some measurement that can inform future question design. 
+> 
+> The guidance also describes the type of estimates that the rapid surveys are not well suited for. And these are things like estimates that are already produced by our cross sectional surveys, our core surveys, because this is not meant to be a replacement for those, low prevalence estimates, or estimates for hard to reach or low prevalence subpopulations. So we're very clear, upfront, before we receive proposals from provider potential sponsors.
+> 
+> ...
+> 
+> Amy Brown, CDC [02:50:53]
+> 
+> This slide shows a few examples of the wide range of sponsor topics and it really is a wide range that we've received, that we've included on our first round. They were submitted from a variety of different CDC centers, institutes and offices. These include chronic illness from long COVID, household use of two air quality products, HEPA filters in air purifiers, several different types of cancer risk topics, including genetic tests, sunscreen use and carcinogens and hair products,  and exposure to intimate partner violence. 
+> 
+> Next slide.
+> 
+> We've also partnered on this first round with OMB's interagency technical working group on race and ethnicity standards. We're helping them to test some alternative wording for proposed standard race and ethnicity questions. So in addition to our CDC partners, we also have one external partner, OMB as well. 
+> 
+> ...
+> 
+> Amy Brown, CDC [02:51:48]
+> 
+> And I'll just conclude by saying that the initial data release from this first round is expected sometime this coming winter.
+> 
+> Data's is going to be released on a variety of formats, including an online interactive dashboard set of web tables and restricted and public use data files. 
+> 
+> ...
+> 
+> Amy Brown, CDC [02:53:16]
+> 
+> I think that when-- there has been a great of great level of interest. We put out a-- we have a form to send an announcement out to all of the CDC centers and institutes. And we received very good attendance at a webinar to get some basic information. And then that was followed pretty quickly with a number of proposals. 
+> 
+> And they really were a range of topics kind of all over the place. Because it's a good a good opportunity to be able to-- particularly if there's some topics where they wanted do some development work, question design, this is a unique opportunity to be able to field that and get data back in a relatively for us timely manner.
+> 
+> ...
+> 
+> Adena Galinsky, CDC [03:01:00]
+> 
+> This challenge has only gotten harder as you know, and has been particularly hard for NHIS FR's as anti-government and anti CDC hostility has increased. 
+> 
+> Second, they asked for more help overcoming overcoming access barriers to sampled addresses such as gated communities, locked buildings, video doorbells. In other words, a way to get a message over the castle wall, and convince the residents to lower the draw bridge down over the moat. 
+> 
+> Third, there was a clear need for morale boosts, given the increased emotional labor demands of the FR job and the post COVID pandemic exhaustion and disconnection that so many of us have been facing, FR morale is pretty low. So this likely translates to higher FR attrition and training costs and lower response rates. So the FR's asked for more encouragement, gratitude, and celebration of successes and more paid opportunities to connect with and get help from other FR's and FS's to power their work and lift their spirits. 
+> 
+> ...
+> 
+> Adena Galinsky, CDC [03:05:47]
+> 
+> The third initiative is a project to encourage and help more FR's use the handwritten note technique that some FR's developed and described to us. So when used correctly, the FR's who pioneered it report, it can help FR's contact respondents behind access barriers and convert reluctant respondents. 
+> 
+> So we've created a new piece of stationary, the blank NHIS note card, whose front and back are shown here, that the FR's can use for these notes and a motivational training module. And, we're working on a printed job aid with sample note text adapted from real notes provided by the FR's, to make the process of writing these notes easier. 
+> 
+> ...
+> 
+> Andy Peytchev, NCHS BSC [03:12:41]
+> 
+> On your more direct question about any negative sentiment against CDC, it can go both ways. It just depends on the person. And so varying, that seems like an intriguing idea. To what degree do you emphasize CDC versus Census Bureau and vice versa? I expect that all the FR's are carrying census bureau badges, and that should be working to your advantage if that's the concern.
+> 
+> Adena Galinsky, CDC [03:13:06]
+> 
+> Yes. And that is, that is something that certainly the more experienced FR's did talk about that, about getting a sense for what to highlight, what to bring up, what to downplay, and it's right. It's something that right, you can't know in advance. Exactly. But sometimes that it certainly is helpful to focus on the Census Bureau affiliation.
+> 
+> ...
+> 
+> Alan Simon, CDC [03:17:30]
+> 
+> What's gonna be in the survey? It's all the usual suspects, but some things, some new things and things were bringing back after some time. 
+> 
+> So anthropometry or body measures, dental exams, labs, blood urine, we're bringing genetics back for the first time in a long time, which is exciting. 
+> 
+> Blood pressure, we'd hope to have three to seven year olds in there, which would be new and great work, but we found in our pilot testing that it didn't go quite as smoothly as we'd hoped, so we really need some more pilot testing before we hit the field in a big way with blood pressure for that young age group.
+> 
+> Vision, hearing, DEX exams, spirometry is coming back after a while being out, nasal microbiome is new and exciting, dietary recall of course, one of the major reasons that we do NHANES, of course. 
+> 
+> And I, I realized after I made the slides that, I forgot to add that medications are coming back too. Which is a sort of widely used part of NHANES. 
+> 
+> ...
+> 
+> Alan Simon, CDC [03:15:21]
+> 
+> It's fundamentally the same in that it's still a population based survey with in-home interviews and then bringing people out to mobile examination centers. That part isn't gonna change. Next slide? 
+> 
+> But of course we are updating some things and making, hopefully, making some improvements. Next slide?
+> 
+> So one of the major changes is that we'll be sunsetting the trailers that you see on the right. Not only because they're getting old and worn out, but also we're moving to trucks. That's not actually the truck on the left, but it's a very old truck, so I thought it was kind of representative. 
+> 
+> The idea is that a mobile examination center will now be a set of three trucks. And why are we doing this? The trucks are more nimble. They can set up and be torn down much quicker. That's going to allow us to be in more than one location within a primary sampling unit. I think that's going to allow us to move around a little bit and get closer to our respondents, hopefully increase our response rate. They also have a smaller footprint allowing us to maybe set up in places that we couldn't previously.
+> 
+> Other improvements are we're going to more primary sampling units in the U.S. each year. We're increasing from 15 to 20. We had hoped it was gonna be 30, but it looks like that's not going to be feasible. So we are increasing to 20 that still provides some improvement over where we were. It's still 5,000 participants a year. We're just spreading them out over more areas. 
+> 
+> We're changing from our primary sampling unit of counties to public use micro data areas or PUMAs that Census creates. These are more standard across geography, in terms of population size. And this actually provides more statistical power. We're also going to decrease the number of participants in each household that we go to. Again, the idea is you spread out the sample more, and that provides you with better power than we than we have now, hopefully allowing us to create estimates for slightly smaller groups than before.
+> 
+> ...
+> 
+> Alan Simon, CDC [03:17:30]
+> 
+> What's gonna be in the survey? It's all the usual suspects, but some things, some new things and things were bringing back after some time. 
+> 
+> So anthropometry or body measures, dental exams, labs, blood urine, we're bringing genetics back for the first time in a long time, which is exciting. 
+> 
+> Blood pressure, we'd hope to have three to seven year olds in there, which would be new and great work, but we found in our pilot testing that it didn't go quite as smoothly as we'd hoped, so we really need some more pilot testing before we hit the field in a big way with blood pressure for that young age group.
+> 
+> Vision, hearing, DEX exams, spirometry is coming back after a while being out, nasal microbiome is new and exciting, dietary recall of course, one of the major reasons that we do NHANES, of course. 
+> 
+> And I, I realized after I made the slides that, I forgot to add that medications are coming back too. Which is a sort of widely used part of NHANES. 
 
 ## HHS officials and DGA members at third meeting
 
