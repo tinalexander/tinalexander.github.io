@@ -164,7 +164,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > Alan Simon, CDC [03:17:30]
 > 
-> What's gonna be in the survey? It's all the usual suspects, but some things, some new things and things were bringing back after some time. 
+> What's going to be in the survey? It's all the usual suspects, but some things, some new things and things were bringing back after some time. 
 > 
 > So anthropometry or body measures, dental exams, labs, blood urine, we're bringing genetics back for the first time in a long time, which is exciting. 
 > 
@@ -189,20 +189,6 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > Other improvements are we're going to more primary sampling units in the U.S. each year. We're increasing from 15 to 20. We had hoped it was gonna be 30, but it looks like that's not going to be feasible. So we are increasing to 20 that still provides some improvement over where we were. It's still 5,000 participants a year. We're just spreading them out over more areas. 
 > 
 > We're changing from our primary sampling unit of counties to public use micro data areas or PUMAs that Census creates. These are more standard across geography, in terms of population size. And this actually provides more statistical power. We're also going to decrease the number of participants in each household that we go to. Again, the idea is you spread out the sample more, and that provides you with better power than we than we have now, hopefully allowing us to create estimates for slightly smaller groups than before.
-> 
-> ...
-> 
-> Alan Simon, CDC [03:17:30]
-> 
-> What's gonna be in the survey? It's all the usual suspects, but some things, some new things and things were bringing back after some time. 
-> 
-> So anthropometry or body measures, dental exams, labs, blood urine, we're bringing genetics back for the first time in a long time, which is exciting. 
-> 
-> Blood pressure, we'd hope to have three to seven year olds in there, which would be new and great work, but we found in our pilot testing that it didn't go quite as smoothly as we'd hoped, so we really need some more pilot testing before we hit the field in a big way with blood pressure for that young age group.
-> 
-> Vision, hearing, DEX exams, spirometry is coming back after a while being out, nasal microbiome is new and exciting, dietary recall of course, one of the major reasons that we do NHANES, of course. 
-> 
-> And I, I realized after I made the slides that, I forgot to add that medications are coming back too. Which is a sort of widely used part of NHANES. 
 
 ## HHS officials and DGA members at third meeting
 
