@@ -15,6 +15,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 18, 2023
+
+## NIAID official on draft DURC and P3CO policy changes
+
+- **Source:** [webcast](https://videocast.nih.gov/watch=52347) of a National Advisory Allergy and Infectious Diseases Council subcommittee 
+- **Date:** broadcasted September 11, 2023
+
+> Emily Erbelding, NIAID [00:13:05]
+> 
+> There's a request for information published last week on changes to the policies for the oversight of Dual Use Research of Concern known as DURC, and also Potential Pandemic Pathogen Care and Oversight, the P3CO policy framework. 
+> 
+> This is, um, the effort to revise these these policies was primarily under the-- it was the responsibility assigned to the Office of Science and Technology, the OSTP, in out of the White House and also the National Security Council.
+> 
+> The proposed policy will actually expand pretty significantly the amount of the number of pathogens that have to be on the DURC watch list. This is my read of the draft policy. 
+> 
+> Now, the draft policy isn't published in this federal guidance, or in the federal registry, but a lot of questions on areas of that might be unclear or might be difficult to implement, are targeted questions are asked. And so by October 16th, OSTP and the National Security Council would like to get input from the scientific community, people that are involved in biosafety, at the institutional level, and also investigators who work with some of these pathogens to get input on how this policy, the draft policy, maybe could be improved to make it workable in the future. 
+> 
+> So that's out there, it's important. If you don't think that you're a stakeholder, your institutional biosafety committee might want to be, you might want to point them to this RFI. So that the policy that comes out on the other side to be implemented next year might is the best in terms of biosecurity, bio safety, and supports the best science. 
+
 # September 15, 2023
 
 ## CDC officials and NCHS BSC members at meeting
