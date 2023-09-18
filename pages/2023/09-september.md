@@ -22,7 +22,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** [webcasts](https://www.niaid.nih.gov/about/niaid-council-agenda) of a National Advisory Allergy and Infectious Diseases Council 
 - **Date:** broadcasted September 11, 2023
 
-> Hugh Auchinclos, NIAID [00:16:16]
+> Hugh Auchincloss, NIAID [00:16:16]
 > 
 > There is also an RFI out to comment about some questions that are posed about the revision of our DURC and P3CO oversight policies. 
 > 
