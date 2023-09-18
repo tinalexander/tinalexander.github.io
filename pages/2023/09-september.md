@@ -17,11 +17,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 18, 2023
 
-## NIAID official on draft DURC and P3CO policy changes
+## NIAID officials on draft DURC and P3CO policy changes
 
-- **Source:** [webcast](https://videocast.nih.gov/watch=52347) of a National Advisory Allergy and Infectious Diseases Council subcommittee 
+- **Source:** [webcasts](https://www.niaid.nih.gov/about/niaid-council-agenda) of a National Advisory Allergy and Infectious Diseases Council 
 - **Date:** broadcasted September 11, 2023
 
+> Hugh Auchinclos, NIAID [00:16:16]
+> 
+> There is also an RFI out to comment about some questions that are posed about the revision of our DURC and P3CO oversight policies. 
+> 
+> The actual RFI put several questions out there to you. It does not include the draft of the proposed revisions, but I can tell you a summary of those, DURC, that's Dual Use Research of Concern, used to up until now involve 15 pathogens and 7 deadly sins, as we called them. P3CO, that's pathogens of pandemic potential, that's the three P's, care and oversight, C O, okay? That has been modified in the draft form where it used to be. 
+> 
+> We would worry about enhanced pathogens of potential pandemic potential, if there was a high likelihood of increased transmissibility and high likelihood of increased virulence.
+> 
+> The new draft guidelines says moderate likelihood of enhanced transmissibility or moderate likelihood of enhanced virulence.
+> 
+> I think these are worth commenting on. They are going to have, I think, a very significant impact on how we oversight, how we do oversight for this kind of research. 
+> 
+> ...
+> 
 > Emily Erbelding, NIAID [00:13:05]
 > 
 > There's a request for information published last week on changes to the policies for the oversight of Dual Use Research of Concern known as DURC, and also Potential Pandemic Pathogen Care and Oversight, the P3CO policy framework. 
