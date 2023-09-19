@@ -17,6 +17,59 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 19, 2023
 
+## CDC webinar on "Preparing for the Upcoming Respiratory Virus Season"
+
+- **Source:** Clinician Outreach and Communication Activity [webcast](https://emergency.cdc.gov/coca/calls/2023/callinfo_091923.asp) by the Centers for Disease Control and Prevention
+- **Date:** broadcasted on September 19, 2023
+
+> Question [00:53:58]
+> 
+> Is there any reason not to administer or coadminister vaccines together, such as decreased immune response or an increase in side effects?
+> 
+> Amadea Britton, CDC [00:54:23]
+> 
+> This is Dr. Britton. I can start to answer that question and happy to have Dr. Grohskopf or Dr. Wallace jump in as well. 
+> 
+> So, coadministration is obviously incredibly important. As I mentioned in my presentation, there is good data that RSV vaccines and influenza of vaccines can be co-administered safely, and that they generate non-inferior immune responses when they're given together. 
+> 
+> Just as you know, with administration of any two vaccines that may have some reactogenicity, that there can be additional side effects, if you give two vaccines together. And so if you have a patient for whatever reason, you're very concerned about having side effects, that could be something to discuss with them about whether they would want to space, but there's no requirement to space and it is acceptable to administer both RSV and influenza and COVID vaccines at the same visit, especially in patients that you think might have a difficult time coming back for additional visits or at very high risk of vaccine preventable disease. 
+> 
+> So I will let Dr. Grohskopf and Dr. Wallace add, if they have anything to add.
+> 
+> Lisa Grohskopf, CDC [00:55:40]
+> 
+> This is Lisa Grohskopf. I don't have much to add to that. 
+> 
+> There are also, for example, there's guidance concerning if you're giving, for example, two vaccines that might be more likely to cause a local reaction. Some vaccines, for example, the flu vaccines, the high dose and the adjuvanted, might be more likely to cause a local reaction at the site, to administer in general, give injectable vaccines at separate sites if they're given at the same time, but sometimes people will choose to say, if they have two vaccines, they're concerned about local reactions with giving them in two separate limbs.
+> 
+> Megan Wallace, CDC [00:56:16]
+> 
+> And this is Dr. Wallace. Nothing to add for me, as I said, in the presentation, you know, co-administration of vaccines sort of remains best practice. And so that's what we're recommending for COVID 19 vaccines.
+> 
+> But if you're planning to administer with an orthopoxvirus vaccine, we have some additional considerations that are in our clinical considerations guide.
+> 
+> ...
+> 
+> Question [00:56:43]
+> 
+> Can you please discuss recommendations about vaccination administration following an active case of influenza, COVID 19, or RSV, and specifically wait times between being diagnosed with one of those diseases and then receiving the vaccination?
+> 
+> Lisa Grohskopf, CDC [00:57:04]
+> 
+> This is Lisa Grohskopf, I can take that with regard to flu. 
+> 
+> There isn't a specific wait time that's recommended. In general, for somebody who has a moderate to severe acute illness with or without fever, it's generally recommended that they've recovered from that illness and that that's something that's common across most vaccines and is in the general best practices guidelines for recommendation. 
+> 
+> There isn't a specific wait period beyond that. But in general, you'd want to wait, particularly if it was a moderate to severe acute illness, until recovery.
+> 
+> Megan Wallace, CDC [00:57:39]
+> 
+> And this is Dr. Wallace. I will add to that. 
+> 
+> So COVID is the same. We recommend that everyone wait until they're feeling better and sort of they meet the criteria for discontinuing isolation. 
+> 
+> But in addition, if they've recently had a SARS-CoV-2 infection, they can consider delaying their COVID vaccine by three months from its symptom onset. And that's just, we think that there's probably some protection still from the infection up to that point. So you can do that if you'd like.
+
 ## CDC webinar with testing laboratories on respiratory viruses
 
 - **Source**: Laboratory Outreach Communication System [webcast](https://www.cdc.gov/locs/2023/09-15-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_September_18.html) by the Centers for Disease Control and Prevention
