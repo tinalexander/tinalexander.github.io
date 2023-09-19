@@ -26,7 +26,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > Our early indicators, which are ED visits, test positivity and wastewater for COVID 19 are actually declining. So this is sort of the first week or two that we're seeing that, since this uptick that we were seeing before.
 > 
-> Our later indicators, hospital admissions, they do continue to increase, but at a lower rate than we were seeing in previous weeks. So that's good news, but again, none of us know for sure if that's gonna be sustained. So we are continuing to closely monitor. 
+> Our later indicators, hospital admissions, they do continue to increase, but at a lower rate than we were seeing in previous weeks. So that's good news, but again, none of us know for sure if that's going to be sustained. So we are continuing to closely monitor. 
 > 
 > And then for RSV, we're starting to see that increase in the Southeast. I'll show you some data from Florida, but still it's low nationally. 
 > 
