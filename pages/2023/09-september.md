@@ -88,7 +88,16 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > We're looking to make the detection itself faster by introducing point of source testing, as well as improving high throughput multiplex detection to be lower cost and faster. 
 > 
-> We're also working with a different type of air sampler to recover live virus so that we can also study infectivity as well as the presence of viral RNA. 
+> We're also working with a different type of air sampler to recover live virus so that we can also study infectivity as well as the presence of viral RNA.
+>
+> ...
+>
+> 
+> David O'Connor, University of Wisconsin-Madison [00:36:18]
+> 
+> So going back a couple of years ago, my understanding is that the cue branch has worked with Ginkgo Concentric and what was formerly known as XpresSpa to do pooled PCR testing of arriving international travelers at a variety of international airports. So that's been ongoing for a while. So when people arrive, they can opt into contributing a a nasal swab at a kiosk. They then get pooled and brought back into the lab for PCR testing and sequencing. 
+> 
+> We're looking to put the air samplers at those same kiosk locations, so that while people are registering for participation in pooled PCR testing, we will also be sampling the air at the same time, to see if we're able to detect SARS-CoV-2 in the air and determine what genotypes of SARS-Cov-2 are in those samples.
 
 # September 18, 2023
 
