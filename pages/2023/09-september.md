@@ -15,11 +15,86 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 19, 2023
+
+## CDC webinar with testing laboratories on respiratory viruses
+
+- **Source**: Laboratory Outreach Communication System [webcast](https://www.cdc.gov/locs/2023/09-15-2023-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_September_18.html) by the Centers for Disease Control and Prevention
+- **Date**: broadcasted September 18, 2023
+
+> Manisha Patel, CDC [00:05:45]
+> 
+> Our early indicators, which are ED visits, test positivity and wastewater for COVID 19 are actually declining. So this is sort of the first week or two that we're seeing that, since this uptick that we were seeing before.
+> 
+> Our later indicators, hospital admissions, they do continue to increase, but at a lower rate than we were seeing in previous weeks. So that's good news, but again, none of us know for sure if that's gonna be sustained. So we are continuing to closely monitor. 
+> 
+> And then for RSV, we're starting to see that increase in the Southeast. I'll show you some data from Florida, but still it's low nationally. 
+> 
+> And then the third point is influenza activity still remains low.
+> 
+> ...
+> 
+> Manisha Patel, CDC [00:11:13]
+> 
+> Here's some RSV data, again, nationally, not too much activity, but, if you look at the Southeast, you squint, you can start to see a little bit of an uptick in our RSV activity. This is NREVSS data, and then Florida, really pulls it out into suggest that they are starting to see RSV activity. 
+> 
+> And this is a normal geographic pattern, as many of you know, RSV starts in the Southeast and then spreads north and west. 
+> 
+> ...
+> 
+> Manisha Patel, CDC [00:12:47]
+> 
+> It's an interesting question about skewing, because I do think that you're right, that we don't fully know the burden of COVID 19 in the U.S., because not everyone has access to tests. And there's certainly a lot of changes that are happening behaviorally. People aren't necessarily always testing when they have COVID like symptoms, like maybe they used to do in the beginning of the pandemic. So there's a number of reasons that could be shifting. 
+> 
+> But I do think for this year, in the past couple of months, it's pretty consistent, because our data is coming for the lab testing data is coming from NREVSS, which are clinical laboratories that are submitting, so that data's not picking up home point of care tests and never actually did.
+> 
+> So appreciate the question. It's an important one, but I think we have enough information that the trends are interpretable and have been regular and interpretable in terms of the way the data is being submitted to CDC.
+> 
+> ...
+> 
+> Lydia Atherton, CDC [00:19:40]
+> 
+> Most of these, EG.5, FL.1.5.1, and the XBB's, those are all part of the F456L mutation grouping. 
+> 
+> So predictions for the next two weeks would be that there are going to be very few changes numerically from the last report. XBB.1.5 is projected to decrease in proportion nationally, about by 2% of cases. Many viruses still contain the identical or closely related spike protein sequence for that variant. 
+> 
+> And then for those lineages that encompass F456L, those are together, are comprising almost over 64% of viruses nationally. Within that group of variants, EG.5, which you can see here in yellow, that is the major component at around 25% and then HV.1, which you can see here in green, that's the fastest growing variant nationally and is predicted to comprise about 8% of cases. 
+> 
+> And then in terms of where we're looking geographically in the Nowcast, XBB.1.5 has dropped below 3% of cases in all regions. And as I mentioned, HV.1 currently has the highest growth rate in each region, with doubling times from 18 to 22 days. Just to give you a range, proportions in each region are predicted between 3% in-- and then up to 11% in the different regions. 
+> 
+> ...
+> 
+> David O'Connor, University of Wisconsin-Madison [00:23:11]
+> 
+> We're going to talk today about indoor air sampling for respiratory viruses. And this has several advantages, some of which are obvious and others, a bit less. So, it's very cost effective to sample an indoor space, such as a school cafeteria, an unhoused shelter, an emergency room, for respiratory viruses in the air. It's also anonymous to the individuals who are contributing viruses that are detected in the air. And of course, as was alluded to earlier, it's resilient to individual testing behavior. 
+> 
+> The type of air sampling we're talking about today uses a Thermo Fisher aerosol sense air detection instrument. This is a versatile and portable instrument that can be deployed immediately to new settings and has very simple ease of operations, such that in some of our schools, we have like fifth and sixth graders who are responsible for changing the air cartridges a couple of times a week. 
+> 
+> So we have explored a variety of different types of use cases for indoor air sampling for viruses. Our-- we got started using it as a way of monitoring virus transmission within and between communities. One example of this is doing K through 12 school monitoring for pathogens, including SARS-CoV-2, influenza and RSV as a way of understanding community risk. 
+> 
+> We can also use the same technology as an early warning system for looking at settings that are at high risk for consequential outbreaks. So for example, we have a couple of air samplers running in a complex care long-term care facility.
+> 
+> And finally it could be used to identify novel virus threats. An example of this would be using this technology in international airports to look at the introduction of viruses of concern. 
+> 
+> ...
+> 
+> David O'Connor, University of Wisconsin-Madison [00:33:13]
+> 
+> We're working with Gingko Concentric to incorporate air sampling into the CDCs traveler genomic surveillance program. 
+> 
+> I'm sure some of you on the call are familiar with this and, might be aware of this as something that's coming soon.
+> 
+> We're working to increase the sensitivity, cost, and throughput of viral metogenomics so that we can make this a more reliable first readout of what's present in an air sample. 
+> 
+> We're looking to make the detection itself faster by introducing point of source testing, as well as improving high throughput multiplex detection to be lower cost and faster. 
+> 
+> We're also working with a different type of air sampler to recover live virus so that we can also study infectivity as well as the presence of viral RNA. 
+
 # September 18, 2023
 
 ## NIAID officials on draft DURC and P3CO policy changes
 
-- **Source:** [webcasts](https://www.niaid.nih.gov/about/niaid-council-agenda) of a National Advisory Allergy and Infectious Diseases Council 
+- **Source:** [webcasts](https://www.niaid.nih.gov/about/niaid-council-agenda) of a National Advisory Allergy and Infectious Diseases Council meeting
 - **Date:** broadcasted September 11, 2023
 
 > Hugh Auchincloss, NIAID [00:16:16]
