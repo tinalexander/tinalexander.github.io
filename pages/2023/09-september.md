@@ -20,7 +20,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 ## FDA advisory meeting on artificial womb development
 
 - **Source:** [webcast](https://www.fda.gov/advisory-committees/pediatric-advisory-committee/2023-meeting-materials-pediatric-advisory-committee) by Food and Drug Administration of the Pediatric Advisory Committee
-- **Date:** broadcasted September 20, 2023
+- **Date:** broadcasted September 19, 2023
 
 > Kalkidan Molla, FDA [09:36:01]
 > 
