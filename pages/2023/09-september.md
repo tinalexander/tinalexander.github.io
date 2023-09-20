@@ -17,6 +17,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 20, 2023
 
+## FDA advisory meeting on artificial womb development
+
+- **Source:** [webcast](https://www.fda.gov/advisory-committees/pediatric-advisory-committee/2023-meeting-materials-pediatric-advisory-committee) by Food and Drug Administration of the Pediatric Advisory Committee
+- **Date:** broadcasted September 20, 2023
+
+> Kalkidan Molla, FDA [09:36:01]
+> 
+> Preterm birth is a significant public health issue in the U.S.
+> 
+> Infants born premature, defined as less than 37 weeks gestational age, represented 10% of all live births in 2020, but accounted for 65% of deaths in infants less than 12 months of age. 
+> 
+> The disproportionate contribution to infant mortality is more striking in the most premature infants, where 40% of all infant deaths occurred in extremely preterm infants born less than 28 weeks gestational age, although these infants represented only 0.6% of all live persons.
+> 
+> Among survivors of extreme prematurity, morbidity rates are high in infants treated with the current standard of care. Artificial womb technology devices are intended to treat extremely premature infants, or EPIs, after 22 weeks gestational age, by providing a bridge from extreme preterm birth to later gestation within a physiologic environment that mimics the womb.
+
+...
+
+
+
 ## FDA commissioner at National Health Research Forum session
 
 - **Source:** [webcast](https://www.researchamerica.org/national-health-research-forum/) by Research America
