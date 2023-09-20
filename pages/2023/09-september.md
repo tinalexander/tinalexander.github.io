@@ -31,130 +31,156 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > The disproportionate contribution to infant mortality is more striking in the most premature infants, where 40% of all infant deaths occurred in extremely preterm infants born less than 28 weeks gestational age, although these infants represented only 0.6% of all live persons.
 > 
 > Among survivors of extreme prematurity, morbidity rates are high in infants treated with the current standard of care. Artificial womb technology devices are intended to treat extremely premature infants, or EPIs, after 22 weeks gestational age, by providing a bridge from extreme preterm birth to later gestation within a physiologic environment that mimics the womb.
-
-...
-
-Elizabeth Durmowicz, FDA [09:46:43]
-
-We need data from clinical trials and children to understand if medical products are safe and effective in children for their intended use. We need these data to protect children from exposure to medical products that may be unsafe or ineffective in children or in a subpopulation of children. 
-
-However, we recognize that children are a vulnerable population who cannot consent for themselves, and therefore are afforded additional safeguards when participating in clinical investigations. Safeguards for children are considered essential requirements for the enrollment of children in clinical trials to support medical product development. 
-
-With the understanding that we need to conduct research in children, but we must do so in a way that protects this vulnerable population, FDA promulgated regulations governing the enrollment of children in clinical trials that embrace fundamental ethical principles. 
-
-An important principle is related to necessity. This principle holds that children should only be enrolled in a clinical trial if the scientific or public health objectives are important to the health and welfare of children and cannot be met through enrolling subjects who can consent personally. 
-
-Another principle is about limitations of risks. Specifically, if a trial does not offer the prospect or direct benefit to the individually enrolled child in the trial, the risk to which the child may be exposed must be low for children. There is a limit to the risk that knowledge alone can justify and risks in a trial should be minimized. 
-
-Also, children should not be placed at a disadvantage by being enrolled in a clinical trial, either through exposure to excessive risks or by failing to get necessary healthcare or interventions. In addition, children should have a suitable proxy to provide permission or informed consent for them to enroll in a clinical trial. 
-
-...
-
-An Massaro, FDA [10:03:10]
-
-It is important to distinguish between the benefit risk assessment that occurs later in the device development life cycle, where approval of a pre-marketing application would require support that the benefits of the device outweigh any associated risk to patients. 
-
-This assessment is supported by data that is generated during clinical development of the device. 
-
-In contrast, when we are thinking about benefit versus risk to determine whether it's ethically permissible to proceed with a first in human trial of AWT device, we need to make an assessment of the prospect of clinical benefits and potential device related risks. And we need to make sure that this assessment is judged to be as favorable as known outcomes with standard of care in the neonatal intensive care unit.
-
-In order to make this assessment, we need to review the outcomes we are achieving currently in the proposed patient population, which in the case of the extremely pre-term infant is variable by each completed week of gestation, as well as by the institution where care is received.
-
- We will hear more about this from Dr. Hans later today. 
-
-We also need to understand the available data to support prospect of benefit and safety of the investigational device. While data from animal models and relevant clinical experience may help inform this assessment, we recognize that there will always be some unknowns that will need to be accepted as part of the transition to initial clinical use. 
-
-The most challenging question is to answer how much unknown is acceptable. 
-
-...
-
-An Massaro, FDA [10:10:42]
-
-Returning to the concept of conducting a benefit risk assessment. 
-
-We need to consider both whether there is support for prospect of direct benefit and adequate safety and mitigation of residual risk. 
-
-With regards to benefit, we will look to animal models to provide data, to support that the intended effect of the device can be achieved. That is organ growth and maturation are supported while potentially reducing at least some of the atrogenic insults that may contribute to adverse outcomes.
-
-With regards to risk. We will again rely on animal models to help inform risk, but note that as we will soon hear from Dr. Zan, differences between species may limit translation of safety. And we will also need to look where possible at relevant clinical experience to help fill gaps. 
-
-As I mentioned previously, even with the most comprehensive non-clinical program to develop an investigational AWT device, we expect that there will be unknowns at the time of initiating a first in human trial of such a highly innovative therapy. 
-
-We will need to weigh the totality of the evidence to support that any proposed device has the data to support the potential to achieve the intended benefit of improving mortality and morbidity in the extremely pre-term infant. 
-
-And that device related risks can be adequately mitigated to ensure that the benefit risk determination is at least as favorable as current standard of care in the NICU. 
-
-...
-
-Alan Flake, Children's Hospital of Philadelphia [10:34:10]
-
-We set out to design the technology to maintain normal fetal physiology and to mimic as closely as possible the environment of the maternal womb. 
-
-By maintaining fetal physiology and extending gestation, this technology is expected to improve the survival and wellbeing of extreme premature neonates. An important safety feature of the technology is that it allows the neonates to be quickly transferred to the standard of care, if the technology fails for any reason.
-
-The essential components of the artificial womb are first a sterile fluid environment maintained by continuous fluid exchange, that is fresh fluid in and waste fluid out. Second, a pump-less, low resistance, low surface area, arterial venous oxygenator circuit, powered by the fetal heart rather than a pump. 
-
-And third is the use of the umbilical vessels as a vascular conduit. Very simple in concept.
-
-...
-
-Alan Flake, Children's Hospital of Philadelphia [10:37:21]
-
-So why the lamb model? Most of what we know about fetal physiology has been defined in the lamb model and for the most part has been validated in our understanding of human fetal physiology and development.
-
-The fetal lamb is the only model that I am aware of that is large enough at developmentally relevant time points to fulfill the surgical and mechanical requirements for development of the artificial womb. 
-
-The primary models are simply too small, 100 to 200 grams at developmentally relevant time points, with umbilical blood flow too limited to utilize current oxygenator technology. 
-
-...
-
-George Mychaliska, University of Michigan Health [10:58:19]
-
-We are currently in the midst of a prospective study, including other variables, including markers of morbidity. Clinical application would utilize existing NICU and ECMO platforms, with modifications such as perfluorocarbon filled lungs, which we have used in a previous clinical trial of congenital diaphragmic hernia patients on ECMO.
-
-Early application of the artificial placenta on the first day of life, after risk startification, would be expected to reinitiate fetal circulation with minimal barotrauma.
-
-For premature infants not captured on the first day of life and subsequently fail maximum medical therapy, the artificial placenta would be applied as a rescue therapy. 
-
-We recognize there are many ethical and regulatory considerations prior to clinical translation. 
-
-...
-
-Mike Seed, The Hospital for Sick Children Toronto [00:07:04]
-
-In conclusion, we have yet to achieve consistent physiologic, fetal circulatory parameters in our model.
-
-We believe this is due to our circuit imposing abnormal cardiac loading conditions on the fetal heart, which is perhaps not surprising considering our use of devices that were not designed for this purpose. 
-
-However, we remain extremely enthusiastic about the potential of artificial womb technology and are about to embark on a new set of experiments using a third iteration of our circuit. 
-
-...
-
-Alan Flake, Children's Hospital of Philadelphia [00:18:32]
-
-That's one of the limitations of the animal model is that sheep are quite difficult to survive after any intervention in which they are not normally delivered and placed on ventilation, etcetera. 
-
-And that relates to their multiple stomachs, swallowing air when they're on the ventilator, competing with their respirations, etcetera. 
-
-So we have survived four lambs after being in the system. One of them was followed up for over six months and we saw no obvious morbidity in the lab. Now that's a limited assessment obviously. 
-
-We did do neurocognitive assessment in the lab and some other testing, but we could see no evidence of abnormality, but this isn't, obviously, relevant to long term human morbidity after the use of the artificial womb. 
-
-And I think that's going to rely on long term follow up of any subjects that are placed on the artificial womb for many years, actually to see what its long term effects may be.
-
-...
-
-Alan Flake, Children's Hospital of Philadelphia [00:58:17]
-
-I would respectably disagree with Mike. I don't think that it's size related, if you think about normal fetal physiology, the normal fetus at whatever size tolerates a pump less AV system. So it's a matter of circuit specifications, circuit resistance, circuit volume, et cetera. 
-
-We've been able to maintain animals that are equivalent in size to the human infant, meaning in the 6 to 700 gram range, meaning lambs, for long durations on our system. And the Perth group was able to maintain them for approximately two weeks, although they did have some issues with maintaining physiologic flows for that period of time.
-
-We've been able to maintain, as I said, a 700 gram animal for 29 days in fairly normal physiologic conditions. 
-
-So I don't think it's a matter of size. I think it's a matter of the circuit specifications with respect to the pig model. I'll have more to say about that tomorrow, but we've been able to rapidly convert pig fetuses that are human in size from placental support to circuit support with physiologic blood flows. 
-
-And, I'll discuss more about that tomorrow, but it has not been a limitation in our system to run pigs for short duration physiologically.
+> 
+> ...
+> 
+> Elizabeth Durmowicz, FDA [09:46:43]
+> 
+> We need data from clinical trials and children to understand if medical products are safe and effective in children for their intended use. We need these data to protect children from exposure to medical products that may be unsafe or ineffective in children or in a subpopulation of children. 
+> 
+> However, we recognize that children are a vulnerable population who cannot consent for themselves, and therefore are afforded additional safeguards when participating in clinical investigations. Safeguards for children are considered essential requirements for the enrollment of children in clinical trials to support medical product development. 
+> 
+> With the understanding that we need to conduct research in children, but we must do so in a way that protects this vulnerable population, FDA promulgated regulations governing the enrollment of children in clinical trials that embrace fundamental ethical principles. 
+> 
+> An important principle is related to necessity. This principle holds that children should only be enrolled in a clinical trial if the scientific or public health objectives are important to the health and welfare of children and cannot be met through enrolling subjects who can consent personally. 
+> 
+> Another principle is about limitations of risks. Specifically, if a trial does not offer the prospect or direct benefit to the individually enrolled child in the trial, the risk to which the child may be exposed must be low for children. There is a limit to the risk that knowledge alone can justify and risks in a trial should be minimized. 
+> 
+> Also, children should not be placed at a disadvantage by being enrolled in a clinical trial, either through exposure to excessive risks or by failing to get necessary healthcare or interventions. In addition, children should have a suitable proxy to provide permission or informed consent for them to enroll in a clinical trial. 
+> 
+> ...
+> 
+> An Massaro, FDA [10:03:10]
+> 
+> It is important to distinguish between the benefit risk assessment that occurs later in the device development life cycle, where approval of a pre-marketing application would require support that the benefits of the device outweigh any associated risk to patients. 
+> 
+> This assessment is supported by data that is generated during clinical development of the device. 
+> 
+> In contrast, when we are thinking about benefit versus risk to determine whether it's ethically permissible to proceed with a first in human trial of AWT device, we need to make an assessment of the prospect of clinical benefits and potential device related risks. And we need to make sure that this assessment is judged to be as favorable as known outcomes with standard of care in the neonatal intensive care unit.
+> 
+> In order to make this assessment, we need to review the outcomes we are achieving currently in the proposed patient population, which in the case of the extremely pre-term infant is variable by each completed week of gestation, as well as by the institution where care is received.
+> 
+>  We will hear more about this from Dr. Hans later today. 
+> 
+> We also need to understand the available data to support prospect of benefit and safety of the investigational device. While data from animal models and relevant clinical experience may help inform this assessment, we recognize that there will always be some unknowns that will need to be accepted as part of the transition to initial clinical use. 
+> 
+> The most challenging question is to answer how much unknown is acceptable. 
+> 
+> ...
+> 
+> An Massaro, FDA [10:10:42]
+> 
+> Returning to the concept of conducting a benefit risk assessment. 
+> 
+> We need to consider both whether there is support for prospect of direct benefit and adequate safety and mitigation of residual risk. 
+> 
+> With regards to benefit, we will look to animal models to provide data, to support that the intended effect of the device can be achieved. That is organ growth and maturation are supported while potentially reducing at least some of the atrogenic insults that may contribute to adverse outcomes.
+> 
+> With regards to risk. We will again rely on animal models to help inform risk, but note that as we will soon hear from Dr. Zan, differences between species may limit translation of safety. And we will also need to look where possible at relevant clinical experience to help fill gaps. 
+> 
+> As I mentioned previously, even with the most comprehensive non-clinical program to develop an investigational AWT device, we expect that there will be unknowns at the time of initiating a first in human trial of such a highly innovative therapy. 
+> 
+> We will need to weigh the totality of the evidence to support that any proposed device has the data to support the potential to achieve the intended benefit of improving mortality and morbidity in the extremely pre-term infant. 
+> 
+> And that device related risks can be adequately mitigated to ensure that the benefit risk determination is at least as favorable as current standard of care in the NICU. 
+> 
+> ...
+> 
+> Alan Flake, Children's Hospital of Philadelphia [10:34:10]
+> 
+> We set out to design the technology to maintain normal fetal physiology and to mimic as closely as possible the environment of the maternal womb. 
+> 
+> By maintaining fetal physiology and extending gestation, this technology is expected to improve the survival and wellbeing of extreme premature neonates. An important safety feature of the technology is that it allows the neonates to be quickly transferred to the standard of care, if the technology fails for any reason.
+> 
+> The essential components of the artificial womb are first a sterile fluid environment maintained by continuous fluid exchange, that is fresh fluid in and waste fluid out. Second, a pump-less, low resistance, low surface area, arterial venous oxygenator circuit, powered by the fetal heart rather than a pump. 
+> 
+> And third is the use of the umbilical vessels as a vascular conduit. Very simple in concept.
+> 
+> ...
+> 
+> Alan Flake, Children's Hospital of Philadelphia [10:37:21]
+> 
+> So why the lamb model? Most of what we know about fetal physiology has been defined in the lamb model and for the most part has been validated in our understanding of human fetal physiology and development.
+> 
+> The fetal lamb is the only model that I am aware of that is large enough at developmentally relevant time points to fulfill the surgical and mechanical requirements for development of the artificial womb. 
+> 
+> The primary models are simply too small, 100 to 200 grams at developmentally relevant time points, with umbilical blood flow too limited to utilize current oxygenator technology. 
+> 
+> ...
+> 
+> George Mychaliska, University of Michigan Health [10:58:19]
+> 
+> We are currently in the midst of a prospective study, including other variables, including markers of morbidity. Clinical application would utilize existing NICU and ECMO platforms, with modifications such as perfluorocarbon filled lungs, which we have used in a previous clinical trial of congenital diaphragmic hernia patients on ECMO.
+> 
+> Early application of the artificial placenta on the first day of life, after risk startification, would be expected to reinitiate fetal circulation with minimal barotrauma.
+> 
+> For premature infants not captured on the first day of life and subsequently fail maximum medical therapy, the artificial placenta would be applied as a rescue therapy. 
+> 
+> We recognize there are many ethical and regulatory considerations prior to clinical translation. 
+> 
+> ...
+> 
+> Mike Seed, The Hospital for Sick Children Toronto [11:07:04]
+> 
+> In conclusion, we have yet to achieve consistent physiologic, fetal circulatory parameters in our model.
+> 
+> We believe this is due to our circuit imposing abnormal cardiac loading conditions on the fetal heart, which is perhaps not surprising considering our use of devices that were not designed for this purpose. 
+> 
+> However, we remain extremely enthusiastic about the potential of artificial womb technology and are about to embark on a new set of experiments using a third iteration of our circuit. 
+> 
+> ...
+> 
+> Alan Flake, Children's Hospital of Philadelphia [11:18:32]
+> 
+> That's one of the limitations of the animal model is that sheep are quite difficult to survive after any intervention in which they are not normally delivered and placed on ventilation, etcetera. 
+> 
+> And that relates to their multiple stomachs, swallowing air when they're on the ventilator, competing with their respirations, etcetera. 
+> 
+> So we have survived four lambs after being in the system. One of them was followed up for over six months and we saw no obvious morbidity in the lab. Now that's a limited assessment obviously. 
+> 
+> We did do neurocognitive assessment in the lab and some other testing, but we could see no evidence of abnormality, but this isn't, obviously, relevant to long term human morbidity after the use of the artificial womb. 
+> 
+> And I think that's going to rely on long term follow up of any subjects that are placed on the artificial womb for many years, actually to see what its long term effects may be.
+> 
+> ...
+> 
+> Alan Flake, Children's Hospital of Philadelphia [11:58:17]
+> 
+> I would respectably disagree with Mike. I don't think that it's size related, if you think about normal fetal physiology, the normal fetus at whatever size tolerates a pump less AV system. So it's a matter of circuit specifications, circuit resistance, circuit volume, et cetera. 
+> 
+> We've been able to maintain animals that are equivalent in size to the human infant, meaning in the 6 to 700 gram range, meaning lambs, for long durations on our system. And the Perth group was able to maintain them for approximately two weeks, although they did have some issues with maintaining physiologic flows for that period of time.
+> 
+> We've been able to maintain, as I said, a 700 gram animal for 29 days in fairly normal physiologic conditions. 
+> 
+> So I don't think it's a matter of size. I think it's a matter of the circuit specifications with respect to the pig model. I'll have more to say about that tomorrow, but we've been able to rapidly convert pig fetuses that are human in size from placental support to circuit support with physiologic blood flows. 
+> 
+> And, I'll discuss more about that tomorrow, but it has not been a limitation in our system to run pigs for short duration physiologically.
+> 
+> ...
+> 
+> George Mychaliska, University of Michigan Health [12:08:03]
+> 
+> It's a great question. So I will say that we do need to-- we don't paralyze the animals, but we do give them benzos and some narcotics to keep them comfortable. And in those video clips, the animals don't move very much. 
+> 
+> And I didn't capture in that video, we have early in our experience, we would cap the endotracheal tube. So it was more akin to sort of a tracheal occlusion model, but we've started leaving the perfluorocarbon to a meniscus, and we usually see that meniscus moving with simulated fetal breathing movements. 
+> 
+> Now, obviously they have an endo tracheal tube in their trachea. So it's not exactly the way it happens in nature, but they are moving that fluid. And, we've noted, and this is well known that lungs and a fetus need to be filled with fluid to stimulate normal growth and development.
+> 
+> ...
+> 
+> George Mychaliska, University of Michigan Healt [12:12:07]
+> 
+> The way we're envisioning clinical translation is twofold. 
+> 
+> One way would be on the first day of life. And that would be with a clinical risk stratification system where we would preemptively put infants at a high predicted mortality on the device. In that application, based on our animal work, we believe that fetal circulation would be reinitiated and there would be minimal barotrauma from the initial resuscitation.
+> 
+> The rescue mode, I think we can all acknowledge, we may not capture all of the patients on the first day of life. And clearly extremely premature infants die at various time points.
+> 
+> On the first day, maybe the most premature from respiratory failure. But then later in their course, they may exceed maximal medical management. So those patients could be placed on the artificial placenta, their lungs filled with perfluorocarbon to protect their lungs, and continue the maturation process. 
+> 
+> And I would acknowledge that fetal circulation likely would not be reinitiated, and there would be a greater degree of barotrauma. So this would be in my mind sort of extending what we think of conventional ECMO, to a more premature group of infants that definitely need it. 
+> 
+> And so that's why we also focused a lot of our work on developing non thrombogenic surfaces, because as we're all aware here, we typically don't provide ECMO for premature infants, even at 27, 28, 29 weeks. 
 
 ## FDA commissioner at National Health Research Forum session
 
