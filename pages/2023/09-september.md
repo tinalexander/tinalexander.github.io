@@ -128,6 +128,34 @@ We believe this is due to our circuit imposing abnormal cardiac loading conditio
 
 However, we remain extremely enthusiastic about the potential of artificial womb technology and are about to embark on a new set of experiments using a third iteration of our circuit. 
 
+...
+
+Alan Flake, Children's Hospital of Philadelphia [00:18:32]
+
+That's one of the limitations of the animal model is that sheep are quite difficult to survive after any intervention in which they are not normally delivered and placed on ventilation, etcetera. 
+
+And that relates to their multiple stomachs, swallowing air when they're on the ventilator, competing with their respirations, etcetera. 
+
+So we have survived four lambs after being in the system. One of them was followed up for over six months and we saw no obvious morbidity in the lab. Now that's a limited assessment obviously. 
+
+We did do neurocognitive assessment in the lab and some other testing, but we could see no evidence of abnormality, but this isn't, obviously, relevant to long term human morbidity after the use of the artificial womb. 
+
+And I think that's going to rely on long term follow up of any subjects that are placed on the artificial womb for many years, actually to see what its long term effects may be.
+
+...
+
+Alan Flake, Children's Hospital of Philadelphia [00:58:17]
+
+I would respectably disagree with Mike. I don't think that it's size related, if you think about normal fetal physiology, the normal fetus at whatever size tolerates a pump less AV system. So it's a matter of circuit specifications, circuit resistance, circuit volume, et cetera. 
+
+We've been able to maintain animals that are equivalent in size to the human infant, meaning in the 6 to 700 gram range, meaning lambs, for long durations on our system. And the Perth group was able to maintain them for approximately two weeks, although they did have some issues with maintaining physiologic flows for that period of time.
+
+We've been able to maintain, as I said, a 700 gram animal for 29 days in fairly normal physiologic conditions. 
+
+So I don't think it's a matter of size. I think it's a matter of the circuit specifications with respect to the pig model. I'll have more to say about that tomorrow, but we've been able to rapidly convert pig fetuses that are human in size from placental support to circuit support with physiologic blood flows. 
+
+And, I'll discuss more about that tomorrow, but it has not been a limitation in our system to run pigs for short duration physiologically.
+
 ## FDA commissioner at National Health Research Forum session
 
 - **Source:** [webcast](https://www.researchamerica.org/national-health-research-forum/) by Research America
