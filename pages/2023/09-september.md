@@ -17,10 +17,95 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 20, 2023
 
+## ASPR interview about COVID-19 tests announcement
+
+- **Source:** Zoom interview with Dawn O'Connell
+- **Date:** interviewed on September 20, 2023
+
+> Dawn O'Connell, ASPR [00:01:11]
+> 
+> These are tests that we have stockpiled and we started stockpiling tests after the Omicron surge, when we were seeing how hard it was initially for people to find over the counter tests. 
+> 
+> So we've been building the stockpile and we want to make them available. We know, as we're heading into the fall and winter, we're likely, if past is prologue, to see an increase in cases as people move indoors and begin interacting in smaller groups. So we want to folks to continue to protect themselves and to have access to these free COVID tests as they head into the holidays. 
+> 
+> We know a lot of folks are gonna see their grandmas and potentially vulnerable populations, elderly, young kids. And this is just one of the tools we continue to want to make available to folks as we head into the fall and winter.
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:02:11]
+> 
+> We really think the holidays are one of the driving factors. It's important that folks, as they begin to gather and start to gather with their family and friends, as they plan their trips, have access to tests. So that's really been the driving factor.
+> 
+> We have been looking at what we've seen before in the increase in cases. We think being able to make tests available is just an important tool that we have and can make available. 
+> 
+> We've had these stockpiled. We'd rather folks have these tests in their medicine cabinets that they can use now, than sitting in a stockpile somewhere. So we really think it's just been an important tool, and we made an active decision to make it available now as we head into the fall and winter respiratory season.
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:03:23]
+> 
+> We landed on four as a reasonable number. We want to check demand to see how many folks take us up on these and make sure that we have enough and can calibrate that appropriately across the many weeks between now and the holidays, between now and the end of the year. 
+> 
+> So we'll start with four, of course. We reserve the right to up that if we need to, if we were to see a surge different than what we've been seeing before, or if a new variant came along and we needed access to tests quicker. The wonderful thing about having a stockpile is we can use it for such cases.
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:04:15]
+> 
+> So this captures two really important lessons that we learned in the COVID pandemic.
+> 
+> The first one, which we all saw in March 2020, when everyone needed the same PPE and medical supplies, and no one could find them, and they were all being manufactured somewhere else, we saw what it felt like to have that supply chain pinched when our frontline health responders were wearing trash bags for gowns because they couldn't get their hands on PPE. We learned that lesson early, and we've been working against it since then to make sure that we have the domestically manufactured access to the critical supplies that we need. 
+> 
+> Diagnostics of course are one of the most important, critical supplies at the beginning or throughout any outbreak, you need to know who has it, who doesn't have it, who's safe, who needs to be treated, tests are important. So having the manufactured here in the United States, really an important lesson that we've learned.
+> 
+> The other has the added advantage of course of good jobs and being able to keep high skilled workers here in the United States.
+> 
+> Beyond that, we also learned the lesson when we experienced the Omicron surge, as we were coming out of Delta, heading into Omicron, over the counter tests were just become coming online people and everybody wanted them.
+> 
+> You know, you couldn't get people to go for those PCR tests anymore at the drug stores. They wanted to know and rightfully so, you want to know standing in your kitchen, whether you have it or not. The convenience of that, the instant ability to read, to know where, whether you're infected is really important. So we saw this huge demand for over the counter tests. 
+> 
+> And then Omicron hit, and we couldn't keep up with the demand. So we were unable to meet the demand. You remember, people were waiting in line long lines for tests, whatever they could find.
+> 
+> And as we rounded the corner and were able to ramp, it takes about six to eight weeks for manufacturers to ramp up, and they had all ramped down from the early days, they were ramping down because vaccines had come online. People at that point prior to Delta thought vaccines would prevent infection. And that tests wouldn't be as necessary. We didn't need as many tests. That turned out to be wrong and we needed to ramp back up, but it took six to eight weeks to really ramp up. 
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:06:58]
+> 
+> So with these contracts, we're really excited of the 600 million, they're going to 12 domestic manufacturers. We talked about why that's important, but they also are requiring a sort of warm base manufacturing, for the duration of the contract. 
+> 
+> And the way we've done this is we've ordered 200 million tests and we will put those 200 million tests in our stockpile to be deployed, how we need them, against whatever surge or increase in cases we see next. 
+> 
+> But most importantly, the lines will keep running. They will not throttle down. They will continue to run tests as we pull them off the line, and should the demand, should we hit a surge and demand for retail pharmacies exceed what the manufacturers are able to provide, we want the tests that we are currently manufacturing to go to them first. 
+> 
+> We are giving manufacturers permission to sell their tests to the retailers so they can get on pharmacy shelves in neighborhoods and be available as quickly as possible. 
+> 
+> We will then take the tests when demand diminishes. We want them to continue to manufacture tests. We will take those tests and pull them into the stockpile. And this is a way to keep things warm, so we will always be able to ramp up and have enough when needed and then have a stockpile to bridge the gap. 
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:09:08]
+> 
+> So we opened this to all the domestic manufacturers. We sent out the RFI and encouraged anyone who was interested to apply. 
+> 
+> And then, we negotiated the terms based on their capacity, based on what we thought they'd be able to maintain, based on their willingness to maintain. And so all of those factors went into thow these contracts were negotiated. We're super proud of the 12 that have emerged.
+> 
+> Have really appreciated working with all the manufacturers and all of them had the opportunity to apply for this funding.
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:10:00]
+> 
+> We're going to continue to watch the epidemiology and see what's out there. 
+> 
+> We're getting to a point where the vaccines are now seasonal. We're starting to see some repetition. I mean, COVID's been anything but predictable, but we're starting to see some patterns that we're observing and taking into account as we think about the tools the American people need. 
+> 
+> So we'll continue to do that. But again, one of the really important things about the investments we're making now is that we can pivot, if we have the capacity to produce these tests, we'll be able to pivot to something, in a place where it may be needed, if it looks like COVID is leveling off. I'm not saying it is, so I want to be clear, but we'll continue to watch the epi, continue to see what we need in the COVID space, and then, if we needed to pivot, this provides a little bit of flexibility to do that.
+
 ## FDA advisory meeting on artificial womb development
 
 - **Source:** [webcast](https://www.fda.gov/advisory-committees/pediatric-advisory-committee/2023-meeting-materials-pediatric-advisory-committee) by Food and Drug Administration of the Pediatric Advisory Committee
-- **Date:** broadcasted September 19, 2023
+- **Date:** broadcasted on September 19, 2023
 
 > Kalkidan Molla, FDA [09:36:01]
 > 
@@ -38,7 +123,8 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > We need data from clinical trials and children to understand if medical products are safe and effective in children for their intended use. We need these data to protect children from exposure to medical products that may be unsafe or ineffective in children or in a subpopulation of children. 
 > 
-> However, we recognize that children are a vulnerable population who cannot consent for themselves, and therefore are afforded additional safeguards when participating in clinical investigations. Safeguards for children are considered essential requirements for the enrollment of children in clinical trials to support medical product development. 
+> However, we recognize that children are a vulnerable population who cannot consent for themselves, and therefore are afforded additional safeguards when participating in clinical investigations. Safeguards for
+> children are considered essential requirements for the enrollment of children in clinical trials to support medical product development. 
 > 
 > With the understanding that we need to conduct research in children, but we must do so in a way that protects this vulnerable population, FDA promulgated regulations governing the enrollment of children in clinical trials that embrace fundamental ethical principles. 
 > 
