@@ -15,6 +15,63 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 20, 2023
+
+## FDA commissioner at National Health Research Forum session
+
+- **Source:** [webcast](https://www.researchamerica.org/national-health-research-forum/) by Research America
+- **Date:** broadcasted Tuesday, September 19
+
+> Robert Califf, FDA [00:00:54]
+> 
+> We have Brian King now as a new leader and a much invigorated effort in the enforcement side and some major federal rules that should get finished this year, that are in the hopper, one prohibiting menthol in cigarettes and another prohibiting flavored cigars. And then a really big one that would be a draft, which is limiting the amount of nicotine in cigarettes, which could have a major impact on the almost 500,000 Americans that die every year from tobacco related illness. 
+> 
+> I feel like always have to say that more than once. Because I think most people like me, when I first came to FDA in 2015, it just seemed like we had taken care of this problem. And, we all, I don't think there's anyone who believes that tobacco is not dangerous, or would argue about it causing illness. But, the fact is we still have millions of people using combustible tobacco, and now we have the threat of vaping affecting our teenagers in a major way. So a lot of work being done there in many ways.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:04:48]
+> 
+> We've taken a good, hard look at the clinical trials system. There's a Reagan Udall Foundation report about to come out. And I can't talk about exactly what's in the report, but what I will say is at least from my perspective, if we look at, medical product development, phase one, phase two, phase three, the sort of development phase, I think that goes really well. 
+> 
+> What, where we really have a gap, is after what happens at the end of phase three, these days, over half of our approvals are accelerated. And so we're putting things on the market with a lot of uncertainty about exactly and whom is this product most effective and how does it compare to other products? And what's the value in a health system spending $4.3 trillion a year, with the shortest life expectancy of any high income country now, and seeing a decline in life expectancy in this country. 
+> 
+> And so we need participation that's representative of the population at risk. And of course that means the traditional issues that we talk about with, race, ethnicity, sex, gender, but it also means age. And it means, where you live, one of the biggest factors evolving in the U.S. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:08:25]
+> 
+> We are the U.S. Food and Drug Administration. U.S. is 4% of the world's population. It's a global industry and we don't control what happens in other countries. 
+> 
+> And so when we look at our aggregate data, people have done a lot of talking about this, it doesn't look very representative of the United States, but we've just done a pretty major effort to segregate U.S. enrollment from non U.S. enrollment. 
+> 
+> And guess what? At least the initial look, even FDA regulated trials done by industry, U.S. enrollment looks pretty representative. It's getting there like the NIH has already done. I think that's a major achievement. 
+> 
+> Now it raises another question. What do we expect for a diversity in a global population? There are eight billion people in the world, and we're not the only country. So we're going to need to have discussions about what our expectations are for clinical trials, but at least we're straightening out, I think some misperceptions and always feel like we're slow on giving credit when people have done hard work and made progress.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:14:33]
+> 
+> We are learning more and more about misinformation. I hope your panel came up with some great ideas. I mean, the things we know we all need to do is every individual needs to spend time every day being aware that many of our friends and neighbors are living in information ecosystem which is dominated by views of science and medicine that are incorrect. And we also need to have humility that it's not like we have all the answers and that's not what science is about. 
+> 
+> So transmitting that we are dealing with uncertainty, we're making our best judgements, but there are areas where we've done the right studies. And we know for example, that vaccination prevents death from and hospitalization from COVID, that's just a fact. And, we need to be able to say that in a way that-- and embrace it after we've spent the time to be professionally adept at it. 
+> 
+> But what we also know is that individuals out there, the best way to correct misinformation is an interpersonal interaction. So it really will take a network of people.
+> 
+> At the government level, we are working hard to get better at saying things in plain language. 
+> 
+> Back in the good old days, when I used to interact with the FDA as a clinician, FDA made a lot of decisions. It wasn't necessarily a matter of public discussion. Now, every decision the FDA makes is a subject to 24 by 7 internet chatter from people who may have spent 10 seconds thinking about all the data and analysis that went into that decision.
+> 
+> So we got to explain what we do in plain language. And we have to be preemptive where possible, where we think something that's important for public health is gonna be attacked. 
+> 
+> I do want to emphasize, because it's a matter of recent court proceedings, in no way are we suppressing the right of other people to speak. The First Amendment is the First Amendment for a reason in the United States. And, where the line is about the old adage of you can't yell fire in the movie theater, where that line is related to public health has not been defined at this point. And so we have to be careful that we're not suppressing people's right to speak.
+> 
+> But I also think it's incumbent upon experts and knowledgeable people to counter information that's incorrect. That's out there. With the other point of view. 
+> 
+> But I would say, I've talked to all the experts I can find. I haven't found one yet that believes that we have the formula for moving this in the right direction. So we really gotta keep working on it.
+
 # September 19, 2023
 
 ## CDC webinar on "Preparing for the Upcoming Respiratory Virus Season"
