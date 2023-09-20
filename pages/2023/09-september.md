@@ -19,7 +19,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 ## ASPR interview about COVID-19 tests announcement
 
-- **Source:** Zoom interview with Dawn O'Connell
+- **Source:** Zoom interview with Dawn O'Connell of the Administration for Strategic Preparedness and Response
 - **Date:** interviewed on September 20, 2023
 
 > Dawn O'Connell, ASPR [00:01:11]
