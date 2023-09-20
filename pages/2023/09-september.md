@@ -181,6 +181,120 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > And I would acknowledge that fetal circulation likely would not be reinitiated, and there would be a greater degree of barotrauma. So this would be in my mind sort of extending what we think of conventional ECMO, to a more premature group of infants that definitely need it. 
 > 
 > And so that's why we also focused a lot of our work on developing non thrombogenic surfaces, because as we're all aware here, we typically don't provide ECMO for premature infants, even at 27, 28, 29 weeks. 
+> 
+> ...
+> 
+> Steven Krug, PAC [03:33:17]
+> 
+> I'm not an neonatologist, however, I care for a lot of a lot of children who've survived prematurity and I offer one observation. 
+> 
+> First of all, the, the presentations today have been outstanding. But the scope of complications that we need to consider is actually, I think, broader than what was actually presented. And again, I think the presenters were focusing on the things that are the most common and or the most potentially severe. 
+> 
+> It's incredibly clear to me that survival is not the endpoint. And that survival isn't necessarily what's most important to families. 
+> 
+> And one of the difficult issues we're going to have here, which is certainly going to, I think, add a fair amount of time to trial, to then expansion to practice, is that there's going to need to be some fairly extensive follow up on these infants for quite some time. 
+> 
+> Certainly for me to be then able to say, you know what, this is the same, or maybe it's better. 
+> 
+> ...
+> 
+> Robert Dracker, PAC [03:56:47]
+> 
+> So what I've heard from all the members is that number one, there is a concern with following the long term consequences of using this technology, and number two, from what I've heard, making sure that we are using the appropriate animal model, and assessing it fully before we undertake human studies.
+> 
+> ...
+> 
+> Michael White, PAC [04:02:43]
+> 
+> We need to decide what is considered a reasonable expectation for improvement and where we want that outcome to be. 
+> 
+> I don't want to get into the information and the discussion that we're gonna have tomorrow, but I think we need to have adequate data in an animal model that we can reliably get to whatever goal that's going to be. I think four weeks is a reasonable expectation, but that's me. No one has to agree with that. 
+> 
+> So I think, I think I'm in agreement with what Dr. Nelson has to say.
+> 
+> I also wanted to make just one quick comment about the Berlin Heart and how that was approved. In the Berlin Heart, the choice was death versus ECMO or death versus the Berlin Heart, which is a very different circumstance than what we're discussing here. 
+> 
+> So it would be hard to use that same decision tree, uh, in what we're discussing today. 
+> 
+> ...
+> 
+> Jeffrey Feinstein, Stanford University Medical Center [00:16:50]
+> 
+> I think we've talked about a number of different issues here in a number of different challenges, both for the families and for the providers and for their researchers. And we talked about the concept of effective informed consent. 
+> 
+> One of the things that came up in one of the earlier presentations is we don't actually even have a standardized nomenclature for what the babies are gonna be termed. So if you think about sort of all of the logistical pieces in this, and trying to make sure that all of the different families in all of the different centers get some version of similar information, similar approaches, similar promises, if you will, the concept of a centralized IRB, maybe quite effective here, the concept of potentially convening some version of an expert panel to determine what some of the nomenclature may be. 
+> 
+> And for this particular space, which is brand new, the fact that somebody is gonna be first in with their clinical trial again, do we let them set the rules, set the nomenclature, set the endpoint, or should this be sort of a more global discussion? 
+> 
+> So that first in and everyone subsequent is all using similar approaches such that people who are hearing about this, again, whether as a clinician or as a researcher, or as patient and least have some semblance of similar experiences.
+> 
+> ...
+> 
+> Robert Dracker, PAC [00:23:14]
+> 
+> I think the important aspects of the informed consent process is that they be inclusive and have optimal clarity and explaining to the prospective parents what the risks and benefits are. And that the first in event occurs at a clinically competent center who is familiar with the technology. 
+> 
+> ...
+> 
+> Robert Nelson, Industry Representative [00:27:23]
+> 
+> Neonatology, I mean, we all know that if you really want to know the outcome, it's going to take years, but that's not possible here. 
+> 
+> And so if you're enrolling one at a time, you just need to identify some short term safety endpoints that need to be looked at, to then make a decision about continuing. And the difficulty is that this is a population who's going to in fact suffer some of those same morbidities, independent of AWT technology. 
+> 
+> So, if the first patient has, let's say a grade two bleed, what do you do? 
+> 
+> Now, you know, it's going to be a very tough decision. And you're not gonna know about chronic lung disease until you get out into the, a little bit further down the line, but I mean, this is maybe where some of the clinical data really needs to be developed what that baseline is, but, one case you wouldn't want that to kill the technology. And so this is, this is going to be a very tough decision.
+> 
+> ...
+> 
+> Sarah Hoehn, PAC [00:29:45]
+> 
+> Obviously the big things you wanna look at are mortality, bleeding, there are going to be risks of bleeding or risks of clots, infection, and growth. 
+> 
+> You know, you saw a lot of the data in the animal data about how they continued to grow, but I think there would also be things looking at the side effects such as bleeding, but also looking at whether or not in real humans do the babies actually grow, because if they're not growing, obviously then they're not gonna continue to mature. 
+> 
+> So that would be some of the more immediate safety endpoint you could look at. 
+> 
+> And I think it's really hard cuz it almost needs to be set up as a non-inferiority trial that it's not worse than the standard of care, but the only way to approve it is under this prospect of direct benefit, which is really hard because we're really trying to, what people are trying to do is prove that it's not worse than the standard of care, but it's hard to reconcile the noninferiority with this prospect of direct benefit in the absence of no human data. 
+> 
+> And I do think it would have to be really important that there's a very robust DSMB that's looking at all the data in real time, probably on a weekly basis, just so everyone's aware of any of the potential initial short term complications.
+> 
+> ...
+> 
+> Andrew Farb, FDA [04:41:06]
+> 
+> I think the last three comment comments really get to the heart of this question and really address exactly what we're looking for from the panel. And that is, early feasibility studies cast a wide net for information gathering, starting with proof of principle. 
+> 
+> And then when getting to the adverse events, we're looking for all of those, all the important ones that affect the outcome and get to the safety of an effectiveness of this device. 
+> 
+> And then, but what we've heard in the last two comments in particular, is the interpretation of those events and attribution of those events to what might be directly related to the device functionality and what could go wrong and how they, the sponsors in developing the device, have been able to develop their device to address potential failure modes, and whether that's successful in the actual first application of the device. 
+> 
+> And then what may be events that may or may not be attributable to the treatment related to the device, but may reflect the natural history treating these very premature infants. 
+> 
+> So, I wanted to thank the panel for those those comments.
+> 
+> ...
+> 
+> Robert Dracker, PAC [04:50:28]
+> 
+> I wanted to mention that, uh, when a child is undergoing this therapy, the assessment of the child is probably going to be different than what the typical assessment would be of, of a child born at 22, 23 weeks gestation, as far as you know, on a ventilator, receiving hypera, watching the bowels, watching the lungs, things like that. 
+> 
+> But under in this device, I think it it's gonna have different safety issues and different points that we'll have to be cognizant of to assess if the trial is experiencing an adverse event.
+> 
+> And then, I think as mentioned by Dr. Takima, is that the issue of a parent seeing their child within a bag for two to four weeks and hooked up in multiple ways could be emotionally very traumatic to the parents, obviously different than seeing a child in a sled being supported. 
+> 
+> So I think these are all issues that first in human is going to be a very significant event, for everyone, both the physicians and providers involved and also for the parents obviously, and the child.
+> 
+> ...
+> 
+> Robert Dracker, PAC [04:55:27]
+> 
+> Number one, the people developing these technologies are familiar with what adverse events might occur, not only based upon the animal model, but also with their experience in human beings and in neonates. 
+> 
+> And then once we have that first in data, then we know what we can watch for, what safety endpoints have to be developed as we go forward and utilize other infants in these studies. 
+> 
+> But the first thing is going to be critically assessed both short term and long term. And that the point that you are satisfied with the tolerance of the technology and the outcome of the technology will determine when you start enrolling additional subjects. 
 
 ## FDA commissioner at National Health Research Forum session
 
