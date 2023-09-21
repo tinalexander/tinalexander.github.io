@@ -24,9 +24,9 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 > The Alaska State Virology Laboratory has not reported out any novel influenza variant strains. All detected influenza viruses have been commonly circulating strains of influenza.
 
-## HHS secretary on paying out of pocket for COVID vaccines
+## HHS secretary at press conference on COVID vaccines
 
-- **Source:** recording of press conference provided by a spokesperson for the Department of Health and Human Services
+- **Source:** recording provided by a spokesperson for the Department of Health and Human Services
 - **Date:** received September 20, 2023
 
 > > Xavier Becerra, HHS [00:17:52]
