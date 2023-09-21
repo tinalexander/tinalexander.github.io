@@ -17,6 +17,57 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 21, 2023
 
+## HHS vaccines advisory committee meeting updates from liaisons
+
+- **Source:** [webcast](https://www.hhs.gov/live/live-1/index.html#9660) of National Vaccines Advisory Committee by the Department of Health and Human Services
+- **Date:** broadcasted September 21, 2023
+
+> Manisha Patel, CDC [01:13:51]
+> 
+> I serve as the chief medical officer for the National Center for Immunization and Respiratory Diseases at CDC, and we have a couple of updates for the committee. 
+> 
+> First is that we did welcome a new leadership team last month. Dr. Demetre Daskalakis is serving as the acting center director for NCIRD. And Dr. Amanda Cohn is serving as the acting principal deputy director, and Dr. David Wentworth is now serving as the permanent director for our newly stood up Coronavirus and Other Respiratory Diseases division. 
+> 
+> And then the second update, as many of you are aware, CDC is preparing for the fall and winter respiratory season. And this is a priority for our agency. And we have transitioned our center-led COVID-19 activation to a center-led respiratory virus response activation, to include flu and RSV in our activities. 
+> 
+> And three of our major goals, within that response, is number one to conduct rapid and robust surveillance, including detection of emerging variants. Second is timely communication with partners, such as yourselves, providers and the public. And third is adoption of our new and updated vaccine recommendations, and specifically, COVID 19 and flu vaccines, which are now recommended for everyone six months and older. 
+> 
+> And we have new immunization products for RSV. The first is nirsevimab, which is a long acting monoclonal antibody recommended for all infants less than 8 months. And then a smaller group of infants 8 to 19 months who are at higher risk for RSV are recommended to get nirsevimab in their second RSV season. 
+> 
+> And then the second product is RSV vaccines for adult 60 and older, under shared clinical decision making. And then tomorrow there will be an ACIP vote for RSV, use of RSV vaccines, in pregnant people. And, look forward to talking more about this tomorrow afternoon. 
+> 
+> ...
+> 
+> Rebecca Coyle, AIRA [01:29:44]
+> 
+> We are also very excited to have RSV products in the arsenal. 
+> 
+> One of the things I just wanted to note, I think from the system side, there's always, clearly there's the vaccines that are usually entered very quickly and easily, and that seems to be the case as well, as of now, we know that a majority of IIS can accept RSV vaccines into the IIS. So that's very exciting. 
+> 
+> There is one exception to that, that I just want to note, and that's related to nirsevimab, because this is not a traditional vaccine product and doesn't follow the traditional vaccine product codes, it's not sitting in a system vaccine code set. That means that, for the 80% plus of data, it originates outside of the IIS, meaning it's coming from some other data source like VA or a pharmacy system or EHR. It's not being directly keyed into the IIS.
+> 
+> That means that those systems also have to make updates to their systems to trigger that message to go from that system to the IIS. So there is a difference there in that most systems that for a new vaccine, it just automatically triggers and get sent to the IIS So there's a difference there. 
+> 
+> I think the great thing to note is that again, with much like RSV vaccines, the monoclonal antibody product is also able to be accepted by IIS at this point. So we're really thrilled to see that happening, but it is important to note like, if it never makes it to the IIS, we won't ever know, because it relies on our partners out there. 
+> 
+> Continuing along that path, I just wanted to note that we are continuing to support the Bridge Access Program, the codes are out there, we're super excited to see that roll out. 
+> 
+> ...
+> 
+> Michel Rothholz, APhA [01:33:08]
+> 
+> What I want to spend my time really talking about this point is that, as pharmacies are entering the heavy fall vaccination season, implementation is challenging right now. And I think something that NVAC should look at in a future discussion is the process of implementation. So while we're getting the recommendations for vaccines coming out, and you heard even Rebecca talk about some things with IIS, I think we should need to take a look at the process for implementation and how do we help get the systems in place? 
+> 
+> Because now with social media, the public is aware of these things, as soon as ACIP and the director make their recommendation, they're coming into the practices, and asking about and asking for those vaccines, but the systems aren't ready to go yet. 
+> 
+> And so we're seeing that now with the new COVID vaccine, where we've got payers who are still in the old system, so when a provider who does happen to have vaccine, that's another issue that we've got right now, is a lot of providers don't have the vaccine yet, but are getting asked questions about it, but there, when they go to bill for that, it's still under the old system of where the government provided the vaccine, and not the commercial system, where now the insurance plans have to pay for it. 
+> 
+> So that creates a barrier when patients are ready to get vaccinated, the system's not able to handle it because providers can't risk losing that amount of money from the system. 
+> 
+> So I think we need to look at what's the timeline for when recommendations are issued to the time when it's ready for implementation in the market, and may need to look at looking at some recommendations there for giving a little buffer zone for that to occur. 
+> 
+> But pharmacies are ready when they've got the vaccine, they are handling and talking about co-administration, and we've given them resources and encouragement about the co-administration. And so we're looking forward to a good vaccination season and being productive, working with our partners in the immunization neighborhood. 
+
 ## Alaska's state health spokesperson on novel influenza variant strains
 
 - **Source:** email from Alex Huseman of Alaska Department of Health
