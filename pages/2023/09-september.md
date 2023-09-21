@@ -29,8 +29,8 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** recording provided by a spokesperson for the Department of Health and Human Services
 - **Date:** received September 20, 2023
 
-> > Xavier Becerra, HHS [00:17:52]
-> > 
+> Xavier Becerra, HHS [00:17:52]
+> 
 > There have been some reports, we've heard them as well, from people saying, 'Hey, I've got insurance, but I went to go get my vaccine, and I was told I had to pay.' 
 > 
 > No, that's not correct. If you are told that you must pay and you are insured, then please make sure you're talking to your insurance company, because you should be covered by law, if you are insured, you are covered for COVID. If you are on Medicare, you are covered. If you are on Medicaid, you are covered. And if you don't have insurance, through this Bridge Access Program, you are covered. 
