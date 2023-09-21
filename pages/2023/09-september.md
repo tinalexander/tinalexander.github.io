@@ -50,6 +50,20 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > My sense is that these are glitches that will be addressed pretty quickly, but if not, please know, first and foremost, you should not have to put money out of pocket to get the COVID vaccine. Two, if you are told that, then make sure you're getting some names because we'll try to, we're all going to be trying to follow up. 
 > 
 > I'm sure CVS will do everything it can to make sure that it's following up to make sure its pharmacists know how it works. And I'm sure that all those insurers, that are making sure that their own members are safe, are going to do what they can to make sure it's clear.
+>
+> ...
+> 
+> Jay McMichael, CNN [00:22:20]
+> 
+> We're also hearing that shots for children are taking longer to be available. Do you know why that is? And when can families expect to get their kids vaccinated?
+> 
+> Xavier Becerra, HHS [00:22:28]
+> 
+> So, shots for children-- the COVID vaccine is available to anyone six months of age or older. 
+> 
+> And so if it's available, it's available for your children as well. You may be talking about flu, RSV, or perhaps the flu, but the flu is also very much available. So we'd have to follow up with you. 
+> 
+> There is no reason why a child should not be able to get the COVID vaccine if adults are getting it. And we could check to follow up, to see if there's some issues with the RSV vaccine, but the flu vaccine I'm pretty sure is available to kids as well.
 
 # September 20, 2023
 
