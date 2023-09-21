@@ -24,6 +24,33 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 > The Alaska State Virology Laboratory has not reported out any novel influenza variant strains. All detected influenza viruses have been commonly circulating strains of influenza.
 
+## HHS secretary on paying out of pocket for COVID vaccines
+
+- **Source:** recording of press conference provided by a spokesperson for the Department of Health and Human Services
+- **Date:** received September 20, 2023
+
+> > Xavier Becerra, HHS [00:17:52]
+> > 
+> There have been some reports, we've heard them as well, from people saying, 'Hey, I've got insurance, but I went to go get my vaccine, and I was told I had to pay.' 
+> 
+> No, that's not correct. If you are told that you must pay and you are insured, then please make sure you're talking to your insurance company, because you should be covered by law, if you are insured, you are covered for COVID. If you are on Medicare, you are covered. If you are on Medicaid, you are covered. And if you don't have insurance, through this Bridge Access Program, you are covered. 
+> 
+> And so make sure that you know the facts, talk to your insurance plan, if they're looking to charge you, talk to your pharmacist, because sometimes they can clear up what's going on. 
+> 
+> We've heard these stories and we're working with. We've contacted the insurers, we've contacted the pharmacists, and we're working with them to make sure everyone understands how this works. 
+> 
+> You should not have to pay out of pocket if you are insured. So please, make sure you're working with your insurance provider or perhaps the pharmacist, or if you need to call us at Health and Human Services, and we'll try to make sure we get it all straightened out. 
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:23:16]
+> 
+> We've been working with the insurers for months, with the pharmacists for months, we had to reach contracts with the various stakeholders. So everyone's known, but sometimes whether it's a computer glitch or maybe something else, something could get in the way.
+> 
+> My sense is that these are glitches that will be addressed pretty quickly, but if not, please know, first and foremost, you should not have to put money out of pocket to get the COVID vaccine. Two, if you are told that, then make sure you're getting some names because we'll try to, we're all going to be trying to follow up. 
+> 
+> I'm sure CVS will do everything it can to make sure that it's following up to make sure its pharmacists know how it works. And I'm sure that all those insurers, that are making sure that their own members are safe, are going to do what they can to make sure it's clear.
+
 # September 20, 2023
 
 ## ASPR interview about COVID-19 tests announcement
