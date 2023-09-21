@@ -15,6 +15,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 21, 2023
+
+## Alaska's state health spokesperson on novel influenza variant strains
+
+- **Source:** email from Alex Huseman of Alaska Department of Health
+- **Date:** received September 20, 2023
+
+> The Alaska State Virology Laboratory has not reported out any novel influenza variant strains. All detected influenza viruses have been commonly circulating strains of influenza.
+
 # September 20, 2023
 
 ## ASPR interview about COVID-19 tests announcement
