@@ -15,6 +15,113 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 22, 2023
+
+## FDA official on updated COVID vaccines
+
+- **Source:** [video](https://www.youtube.com/watch?v=xcUmwP87gko) posted by Food and Drug Administration
+- **Date:** published September 21, 2023
+
+> Question [00:06:11]
+> 
+> Can you also talk to whether or not it's recommended to coadminister this vaccine with other vaccines, such as the flu vaccine?
+> 
+> Peter Marks, FDA [00:06:19]
+> 
+> Right. So this is a matter of preference, but as was discussed at the ACIP yesterday, perfectly fine to give this vaccine with other vaccines and many people will get it with the influenza vaccine. There's no reason why they can't be administered together. 
+> 
+> I have to be an honest person and say that some people are saying, 'well, could I get RSV, COVID, and the flu vaccine on the same day?'
+> 
+> Yes, indeed, you could. But honestly, I might not, just because each of them can potentially make one a little a little fatigued or have a little bit of a fever, and I might just want to space them out a little bit, but if you had to drive a lot of miles to get the vaccines, and that it might not be unreasonable to get all three of them at once.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:10:03]
+> 
+> I think the the issue that may come up as a discussion later on this year, but not right now, is whether older people would potentially need a second vaccine. That's not at this time, that's not under consideration right now. 
+> 
+> The recommendation is older people, those with disabilities, including people without disabilities, such as pregnant people, also, that they go ahead and get vaccinated.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:12:48]
+> 
+> If you want to get them separately, you know, in general, this is just guidance that-- general guidance. It's not a-- this is not a must.
+> 
+> But oftentimes we suggest, if you want to minimize the chance of interactions, and minimize confusing side effects from one with another, you wait about two weeks between the vaccines.
+> 
+> To be perfectly honest, I'll tell you if it, what I'm thinking of, I'm probably gonna go out this Friday, Saturday, get my COVID vaccine. I usually get my influenza vaccine around October 1st. The flu vaccine doesn't last tremendously-- it has a little bit of a shorter life than we might like, in some ways it's a little like the COVID vaccines.
+> 
+> And so that's how I would go about it, but with about a two week separation, but it's not-- just know, that's just general guidance, not anything that's a must or so, so this is a discretionary thing.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:14:52]
+> 
+> So we're very lucky. 
+> 
+> One of the things I've learned from getting towards the end of the third full year of pandemic response, it feels like 20 years because each year feels like a dog year, seven years per year, but one of the things we've learned is that some of what we have to deal with is just luck. And we actually were lucky.
+> 
+> It turned out that XBB.1.5, which is a BA.2 descendant, and the other variants that have emerged are also BA.2 descendants. And so, when we look at the ability of the current vaccine to actually neutralize the circulating EG.5 variant, which is, I believe right now, the most common variant, as well as even the BA.2.86 variant, which is present in small amounts, but people were concerned about because of all of the mutations, it actually does a really good job on both of them, in fact, almost as well or better than the XBB.1.5. 
+> 
+> So, I think we're very lucky that we have a vaccine that's a good match. And that's one of the reasons why I wouldn't-- when you have a good-- it's like having a bird in the hand. I have a bird in the hand, good match, a lot of COVID around, great time to go get vaccinated, because I think the idea here is that risk reduction at this point is a good thing, especially because all of us, myself included, have been less probably less fastidious in our COVID precautions.
+> 
+> ...
+> 
+> Question [00:18:31]
+> 
+> There's another question in here about the anticipated timeframe for the vaccines that were authorized under EUA. So the updated COVID vaccine for those 12 years of age and younger to be fully approved.
+> 
+> Peter Marks, FDA [00:18:47]
+> 
+> So people have been interested in when that will happen. What were really just-- what happened was those studies started later. And so in order to get to a full approval, we like to see either 6 or 12 months of safety follow up. So these submissions for the licenses came in later. 
+> 
+> We would expect that sometime, I, again, can't give you an exact date, but sometime by early 2024, we'll see those full approvals across all the age ranges, because by that time we're hoping to roll up and no longer have EUAs and have licensed vaccines all around.
+> 
+> Question [00:19:24]
+> 
+> And can you talk a little bit about whether or not, if there's any sort of, you've explained before the difference between an EUA and a fully authorized vaccine, can you describe sort of that difference in months and how you get the data for an authorized vaccine?
+> 
+> Peter Marks, FDA [00:19:43]
+> 
+> So the authorized-- in this particular case, the difference between the emergency authorized vaccines for the children under 12 and the licensed vaccines for those over 12, the effectiveness data in these cases is very similar. They met the effectiveness standard that we would use for licensing of vaccine. 
+> 
+> It's just a matter of the quantity of time for safety follow up, which we required at least a median of two months for kids. Now, we actually have significantly more than that, that we've reviewed, but it's a matter of having the manufacturers actually submit that in an application, doing the inspections of the facilities that are making these different formulations, and issuing a license. And those will just take a couple more months to get there. 
+> 
+> But I feel confident in telling people that those EUA vaccines are every bit as safe, effective, and trusted in terms of their quality as the licensed vaccines.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:23:52]
+> 
+> I kind of alluded to this before.
+> 
+> Right now, there's only one dose expected for people 65 and up, but I think as we see, we are constantly evaluating the circulation of COVID 19, the number of cases, and how things are going. And I think if we saw that it appeared that people might benefit in a few months from an additional dose, we would probably work with our CDC colleagues to issue a recommendation at that time. 
+> 
+> But right now we are just talking about a single recommendation, a single dose recommendation.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:25:14]
+> 
+> Thank you so much because I'd love to explain that.
+> 
+> We've decided not to use it. You noticed that I've been trained not to use that word, and I'm not going to say it. Dale will say it for me. 
+> 
+> But instead we're calling it an annual update for the vaccine. We want people to understand that this is an annual update. There's no reason-- it's the annual vaccine, and I think, honestly, we-- I feel like we want a very big tent. People who have decided they didn't want an a COVID vaccine before, because they were nervous about the new mRNA technology or this and that, they don't have to feel like they're gonna have to be singled out or anything. Everyone just needs one dose of the annual update to be up to date if you're an adult, or if you're anyone five years of age or so, so I think this should hopefully make it a little easier. 
+> 
+> Again, we want to remove as many barriers as we can to help people get vaccinated.
+> 
+> ...
+> 
+> Question [00:26:32]
+> 
+> Are there any updates on the approval of Novavax?
+> 
+> Peter Marks, FDA [00:26:36]
+> 
+> Happy to tell you that it-- we hope to see that in the next few weeks. We are working diligently.
+
 # September 21, 2023
 
 ## HHS vaccines advisory committee meeting updates from liaisons
