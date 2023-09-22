@@ -354,7 +354,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > <br>Luis Jodar, Pfizer [01:14:43]
 > <br>
 > <br>We want to assure the committee that a robust supply of vaccine is already available to providers and ready to be implemented through existing vaccine programs.
-> <br>The RSV system is already starting, and for the first time, we could have importantly two routinely recommended options for RSV prevention for infants. Pregnant persons will now be able to have an informed discussion with their OB's and other maternal health providers as they do for all routinely recommended maternal vaccines and make an informed decision on which option is best for them and their baby.
+> <br>The RSV season is already starting, and for the first time, we could have importantly two routinely recommended options for RSV prevention for infants. Pregnant persons will now be able to have an informed discussion with their OB's and other maternal health providers as they do for all routinely recommended maternal vaccines and make an informed decision on which option is best for them and their baby.
 > <br>Finally, I would like to emphasize that the RSV vaccine will be a lower cost option, and overall could result in lower budget impact for the U.S. healthcare system.
 > <br>...
 > <br>
