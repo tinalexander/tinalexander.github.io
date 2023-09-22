@@ -17,6 +17,527 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 22, 2023
 
+## CDC committee meeting on Abrysvo in pregnancy, new vaccine schedules
+
+- **Source:** [webcast](https://video.ibm.com/channel/VWBXKBR8af4) of Advisory Committee on Immunization Practices meeting by the Centers for Disease Control and Prevention
+- **Date:** broadcasted on September 22, 2023
+
+> Malini DeSilva, HealthPartners Institute [10:29:23]
+> 
+> The goal is to evaluate the safety of the RSVpreF vaccine administered during pregnancy in the VSD's large real world population.
+> <br>Challenges of the surveillance work include unknown vaccine uptake, which makes it difficult to provide any power estimates.
+> <br>Additionally, we may see a healthy bias, where healthier individuals or those with lower risk pregnancies may be the first to be vaccinated.
+> <br>This will be considered in our analyses and when interpreting results.
+> <br>There is uncertainty regarding recommendations for use in administration of this vaccine, which may impact who receives the vaccine.
+> <br>If persons at high risk for preterm delivery are recommended to receive RSVpreF early in the vaccination window, we may identify more preterm birth in our vaccinated group. Alternatively, these individuals may be counseled to not receive the vaccine and wait to have their infant received nirsevimab.
+> <br>The timing of administration during pregnancy overlaps with Tdap recommendations and vaccinating administrations are also likely to overlap with influenza and COVID 19 vaccines.
+> <br>Coadministration of RSVpreF with other vaccines will be taken into account in our analyses.
+> <br>...
+> <br>
+> <br>Malini DeSilva, HealthPartners Institute [10:30:55]
+> <br>
+> <br>Our primary approach for prenatal RSVpreF surveillance will be through bimonthly surveillance.
+> <br>We'll use validated algorithms applied to electronic health data in the VSD population to identify pregnant persons 16 through 49 years of age, at 20 weeks gestation or later.
+> <br>We'll exclude pregnancies ending in therapeutic abortion, multiple gestation pregnancies, and those with insufficient information to determine the start date of the pregnancy.
+> <br>The exposure we are evaluating is RSVpreF vaccination at or after 28 weeks gestation. This is to account for any inaccuracies in gestational age estimation.
+> <br>We plan to match pregnant persons vaccinated with RSVpreF to pregnant persons unvaccinated one to one, based on VSD site and gestational age at vaccination.
+> <br>We will create propensity scores to account for confounding using readily available variables, such as pregnant person's age, pregnancy start date, race, ethnicity, and medical comorbidities.
+> <br>...
+> <br>
+> <br>Malini DeSilva, HealthPartners Institute [10:35:36]
+> <br>
+> <br>This slide shows an example timeline for our planned bimonthly surveillance.
+> <br>If vaccinations start in October, we would plan to capture two months of vaccinations followed by a 42 day follow-up period and two month data lag before pulling any data.
+> <br>Our first data pull would be in March of 2024.
+> <br>We will continue bimonthly surveillance every two months.
+> <br>...
+> <br>
+> <br>Pedro Moro, CDC [10:37:59]
+> <br>
+> <br>For more than a decade, VAERS has been used as part of vaccine safety surveillance for vaccines used in pregnancies, such as influenza Tdap, and COVID 19.
+> <br>So one type of analysis is a descriptive analysis, which includes clinical review of individual reports, aggregate descriptions of automated data, which involves counts of reported adverse events, and also calculation of reporting rates for pregnancy outcomes. And this can be done if there are doses of RSV vaccine administered in pregnancy, or if there's data on vaccination coverage.
+> <br>Now statistical analyses may be done. Historically the approach has been to use data mining to assess for disproportionate reporting. And this is under discussion right now for RSV vaccines.
+> <br>...
+> <br>
+> <br>Pedro Moro, CDC [10:42:39]
+> <br>
+> <br>Now with regards to be V-safe, there is a new version of V-safe, developed starting the summer of 2023. And this system leverages existing CDC IT infrastructure. It includes email and text messaging options and is the first use for RSV vaccines received by persons age 60 and older. And use of maternal RSV vaccine is planned to be monitored later this fall.
+> <br>V-safe objectives include characterization of local and systemic reactogenicity during days 0 to 7 after vaccination, characterizing health impacts during a six week post vaccination follow up period, and also identify participants who report medically attended events after vaccination and encourage completion of adverse report.
+> <br>...
+> <br>
+> <br>Katherine Poehling, ACIP [10:44:13]
+> <br>
+> <br>In the Vaccine Safety Datalink is how are you planning to handle pregnancies with multiple gestations? The twins, the triplets, etcetera, as they are at risk for additional preterm births? Thank you.
+> <br>
+> <br>Malini DeSilva, HealthPartners Institute [10:44:35]
+> <br>
+> <br>Thank you. We, for this initial planned evaluation, we have excluded them. As you mentioned, they are at higher risk for preterm birth. We are planning a more comprehensive in-season evaluation, and we'll consider how to account for multiple gestation births in that as well.
+> <br>...
+> <br>
+> <br>Anne Hause, CDC [10:45:51]
+> <br>
+> <br>So the new version of V-safe is still in the final stages of development.
+> <br>We do plan on launching this fall and evaluating the RSV vaccine for older adults first. And then later this fall, we hope to launch for the maternal RSV vaccines. So no data yet.
+> <br>...
+> <br>
+> <br>Grace Lee, ACIP [10:46:25]
+> <br>
+> <br>Nothing of note from VAERS regarding the older adult population? I'm guessing we haven't had enough doses in, but Dr. Shimabukuro, if you could just let us know? That'd be great.
+> <br>
+> <br>Tom Shimabukuro, CDC [10:46:37]
+> <br>
+> <br>We're monitoring and we are receiving reports, a small number of reports, but we haven't seen any unusual or unexpected patterns at this point.
+> <br>...
+> <br>
+> <br>Beth Bell, ACIP [10:47:06]
+> <br>
+> <br>So I'm wondering if anybody's done any back of the envelope calculations using different assumptions for uptake, understanding what you would expect in terms of accrual of pregnancies in your database and, various estimates of power and such, to give us some sense of how long you think it might take, depending on what happens with uptake to, have some useful results from the VSD? Thank you.
+> <br>
+> <br>Malini DeSilva, HealthPartners Institute [10:47:35]
+> <br>
+> <br>At this time with the uncertainty about the vaccine uptake, and while we're awaiting recommendations for use, we anticipate we'll be well powered to detect significant differences in pre-term birth within six months of vaccine eligibility.
+> <br>Additionally, we are planning to perform some preterm and still birth surveillance that will be separate from this planned bimonthly surveillance. 
+> <br>This would only be descriptive, and while it's descriptive, it would be limited to the vaccinated population, it can be formed— we perform slightly more quickly, but that, it would be needed to be noted that these results will lack a control population, still require a data like similar to similar to other VSD work, and would not include any statistical comparisons.
+> <br>So, it's still going to be a little bit of time, but we do think we'll be well powered within six months.
+> <br>...
+> <br>
+> <br>Ruth Link-Gelles, CDC [10:54:32]
+> <br>
+> <br>So we have a number of plans in place to study post licensure effectiveness of maternal RSV vaccine. And we work closely with the group here at CDC.
+> <br>I will say generally, getting one vaccine is predictive of getting another vaccine. So it becomes very difficult to find people who got only pertussis, for example, or only RSV.
+> <br>So looking at co-administration, with real world data can be difficult, but we do have a number of plans in place to attempt to do that.
+> <br>...
+> <br>
+> <br>David Hutton, University of Michigan [11:00:13]
+> <br>
+> <br>The other big update here is that we're using a $295 per dose cost. That is an increase from the $200 a dose estimate we had in June.
+> <br>So it's a significant increase in the price per dose.
+> <br>...
+> <br>
+> <br>David Hutton, University of Michigan [11:07:23]
+> <br>
+> <br>So this is just assuming that none of them will be receiving nirsevimab.
+> <br>So in the next slide here, I just want to recap the summary, RSVpreF may improve RSV outcomes, but also will increase costs. RSVpreF has the potential to be cost effective, and results are sensitive to a wide variety of assumptions.
+> <br>...
+> <br>
+> <br>David Hutton, University of Michigan [11:16:54]
+> <br>
+> <br>If you know the babies are gonna receive nirsevimab, there's very marginal additional benefit beyond that nirsevimab protection that's conferred by RSVpreF protection, and these incremental cost effectiveness ratios are extremely high.
+> <br>So just, in the next slide here, I just want to recap some summary here.
+> <br>Limitation, I want to highlight again, there's no efficacy of data on these combined products, so these are all based on assumptions about what the efficacy might be.
+> <br>Nirsevimab may add additional protection on top of RSVpreF, particularly for high risk infants, and then adding RSVpreF on top of nirsevimab does only really add marginal effectiveness at a very high cost to the population.
+> <br>...
+> <br>
+> <br>Donna Altenpohl, Pfizer [11:43:43]
+> <br>
+> <br>The Abrysvo WAC price is $295 a dose for both the maternal and older adult indications.
+> <br>Because the Pfizer RSV vaccine is the same product and the same formulation for both indications, it has one NDC code and one CPT code for reimbursement, requiring one price for both indications.
+> <br>We took this into consideration, as Pfizer's pricing strategy is guided by the value that our innovation brings to patients in society with the goal of achieving the broadest possible access for patients.
+> <br>Based on the results of our cost effectiveness analysis, we priced our vaccine to be both cost effective and reflect the value it'll bring in helping to prevent RSV for older adults and infants.
+> <br>As we shared the ACIP working group, the RSV maternal vaccine will be a lower cost option and could result in a lower budget impact to the U.S. healthcare system.
+> <br>...
+> <br>
+> <br>Katherine Fleming-Dutra, CDC [11:47:35]
+> <br>
+> <br>Just to add to that and to your point as well, we do have data from other vaccines, such as Tdap, flu, and, influenza vaccines and COVID vaccines, which does indicate that effectiveness, post maternal vaccination of other vaccines, has usually has waned by six months as well.
+> <br>...
+> <br>
+> <br>Pablo Sanchez, ACIP [11:48:46]
+> <br>
+> <br>My comment is related to the vaccine price. And I'm really very disappointed about the expense of this vaccine when a recommendation may be made to provide it to all pregnant women.
+> <br>And I would like to know what is the cost of this vaccine countries outside the United States, and is it being priced— are we being overpriced?
+> <br>And for instance, in Europe, do they know what is the price there? It has to have been a standardized price throughout the world? Thank you.
+> <br>...
+> <br>
+> <br>Jessica Atwell, Pfizer [11:49:55]
+> <br>
+> <br>So we wanted to provide a little bit more context into the data that inform the waning assumption, or antibody persistence in infants beyond six months.
+> <br>So in addition to the data from our phase 3 clinical trial, we also have data from our phase 2B study that measured antibody persistence in infants out to six months. And compared those levels between infants born to vaccinated individuals and unvaccinated individuals.
+> <br>They were significantly higher compared to among infants born to vaccinated individuals, compared to infants who was born to women who received placebo in the phase 2B.
+> <br>We used the half life of antibody decay from those data to then extend the potential antibody persistence beyond the six month time point. And that modeling, which was shared with the work group showed persistence even beyond nine months out to 12 months.
+> <br>Of course, there is no correlate of protection for RSV, and so it is difficult to make direct assumptions about what those antibody levels may translate to, but we certainly have data to support persistence in infants beyond six months.
+> <br>And that was really critical for informing this assumption about persistence of antibodies and potential benefit.
+> <br>...
+> <br>
+> <br>David Hutton, University of Michigan [11:53:21]
+> <br>
+> <br>And there are a lot of different things kind of going on here. I think a big thing is in our simulation modeling of nirsevimab, the efficacy is slightly better at the beginning, and so slightly higher efficacy. So that's one difference.
+> <br>And then the other difference too, I think is, that nirsevimab can be given to kind of time right at the peak of the RSV season. And that's kind of the idea there is, so if a child is born in April, May, June, July, for example, they would be given nirsevimab to have that kind of peak efficacy during the season.
+> <br>And so I think those are a couple of things that affect the differences in cost effectiveness of nirsevimab versus the RSVpreF, what you're seeing here today on RSVpreF.
+> <br>
+> <br>David Kimberlin, AAP [11:54:14]
+> <br>
+> <br>And so remind me then of, when in your presentation where you did kind of group together the months, so you had different seasons, are we toward 100,000 per QALY for timing maternal vaccination when it's just a bit before or during RSV season?
+> <br>
+> <br>David Hutton, University of Michigan [11:54:35]
+> <br>
+> <br>Yeah, exactly. So the cost effectiveness of RSVpreF looks much, much better when it's given kind of right before the peak of the RSV season, because then it will confer the highest levels of efficacy during that peak of the seasonality.
+> <br>And so that's a big factor there as well.
+> <br>...
+> <br>
+> <br>Donna Altenpohl, Pfizer [11:57:02]
+> <br>
+> <br>We have a tiered pricing strategy outside the U.S., which allows the price to be contingent upon the affordability of each individual country, as we're beginning to launch the RSV maternal vaccine. The pricing will be decided at that point.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:11:08]
+> <br>
+> <br>And I have highlighted the dosing window of 32 through 36 weeks gestation here, because this is a change from the policy question that we discussed at the June ACIP meeting. And throughout the presentation, the highlighted text denotes, key points and information, which have been updated since June.
+> <br>As Dr. Long has already discussed, the reason for this change is because FDA approved the Pfizer RSV vaccine for use in pregnant people as a single dose to be given at 32 through 36 weeks gestation to avoid the risk of extremely preterm births, where there is substantive, morbidity and mortality, and very preterm birth.
+> <br>FDA considered the benefit of vaccine efficacy when the Pfizer RSV vaccine is administered between 32 and 36 weeks outweighed the risk of vaccination, including the potential risk of preterm birth and hypertensive disorders of pregnancy.
+> <br>As a reminder in the phase two B and three trials, vaccination was given during 24 through 36 weeks gestation. So throughout the presentation, I will refer to the approved dosing interval of 32 through 36 weeks gestation. And the trial dosing interval of 24 through 36 weeks gestation.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:12:54]
+> <br>
+> <br>RSV infection is the leading cause of hospitalization in U.S. infants. Most infants are infected in the first year of life and nearly all by age two and 2 to 3% of young infants will be hospitalized for RSV.
+> <br>It is a common cause of lower respiratory tract infection in infants, and the highest RSV hospitalization rates occur in the first months of life.
+> <br>And all young infants are at risk of severe disease with RSV. 79% of children hospitalized with RSV aged less than two years had no underlying medical conditions.
+> <br>When asked is RSV among infants of public health importance, the work group unanimously responded. Yes.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:14:51]
+> <br>
+> <br>As a reminder, vaccine efficacy against medically attended RSV associated lower respiratory tract infection in infants was 51% and efficacy against hospitalization for RSV associated lower respiratory tract infection in infants was 56.8%.
+> <br>Additional data received since June are highlighted. These include the important outcomes of ICU admission for RSV hospitalization and infants, which had an efficacy of 42.9%, and mechanical ventilation, with an efficacy of 100%. But both estimates had very wide confidence intervals, and thus the certainty assessments were downgraded with very serious concerns for imprecision.
+> <br>Additionally, we now have data for all cause hospitalization for lower respiratory tract infection with an efficacy of 28.9% with a confidence interval that crosses the null and thus a certainty assessment was downgraded for serious concern for imprecision.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:15:54]
+> <br>
+> <br>Specifically, we have now downgraded three outcomes, serious adverse events in pregnant people, serious adverse events in infants, and pre-term birth for serious concerns for indirectness due to the difference in the trial dosing interval, compared to the approved dosing interval.
+> <br>We did this because 55% of the phase 3 trial population and 62% of the phase 2B trial populations did not receive vaccine doses during the approved dosing interval.
+> <br>There is likely less opportunity for serious adverse events during pregnancy, including preterm birth to occur, when dosing starts at 32 weeks gestation as compared to 24 weeks gestation. And in particular, the risk of preterm birth would likely be lower with dosing starting at 32 weeks than with a dosing window that starts at 24 weeks gestation.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:33:05]
+> <br>
+> <br>In a value survey of pregnant and recently pregnant people conducted from December 2022 and January 2023, 68% of respondents had knowledge of RSV prior to taking the survey, 61% of respondents said they definitely or probably would get an RSV vaccine while pregnant.
+> <br>And among those who did not respond, that they definitely would get an RSV vaccine while pregnant, safety concerns, lack of RSV knowledge, and concerns about vaccination causing or intensifying RSV infection were the top reasons for not wanting an RSV vaccine during pregnancy.
+> <br>It's also important to look at the uptake of other vaccines in pregnancy. We know that in the U.S. coverage for recommended vaccines among pregnant people has decreased during the pandemic and varies by race and ethnicity. Tdap vaccination coverage was 53.5% in the 2020 to 21 season and 45.8% in the 21 to 22 season. Rates of Tdap coverage were higher in white non-Hispanic women than among black non-Hispanic women during the 2020 to 21 and 21 to 22 seasons.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:35:43]
+> <br>
+> <br>Another important consideration for feasibility is simultaneous administration of RSV vaccine with other vaccines in pregnant people. Pregnant people may potentially be eligible to receive RSV, Tdap, COVID 19, and influenza vaccines at the same visit.
+> <br>There are limited data regarding simultaneous administration, but there was a Pfizer study in healthy non-pregnant women ages, 18 through 49 years, on simultaneous administration of Tdap and Pfizer RSV vaccine that found decreased immune response to pertussis components, meaning that non-inferiority criteria were not met.
+> <br>However, given the lack of correlates of protection for pertussis, it is unclear how this might impact protection against pertussis from maternal Tdap, when simultaneously administered with RSV vaccine.
+> <br>Tdap is recommended every pregnancy preferably during the early part of gestational weeks, 27 through 36, which means that Tdap would preferably be given before 32 weeks, an RSV vaccine would be given on at or after 32 weeks. However, in market scan data from 2018 through 2021, about half of captured Tdap doses were given before 32 weeks gestation.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:36:57]
+> <br>
+> <br>Another important consideration is that RSV vaccine is one of two available preventive products for RSV in infants, either RSV vaccination during pregnancy or nirsevimab administration for the infant, after birth, can be used to prevent RSV disease in infants, but the work group felt strongly that both products are not needed for most infants.
+> <br>The pregnant person and their prenatal care provider will need to make the decision during pregnancy regarding which RSV prevention product to use. Many prenatal care providers may not have time to discuss options for RSV prevention with their patients and prenatal care providers may not feel equipped to discuss nirsevimab as this product will be given to the infant after birth.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:37:39]
+> <br>
+> <br>Regarding the timing of RSV vaccine dosing during the calendar year RSV vaccine dosing could be implemented for pregnant people as a seasonal campaign or year round.
+> <br>The work group unanimously supported use of a seasonal dosing strategy for maternal RSV vaccine, because this would maximize cost effectiveness and maximize benefits for infants. And it targets RSV vaccine dosing to infants who will be in the first months of life during the RSV season.
+> <br>And importantly, another product, nirsevimab, is available for infants who were born out of season for whom maternal vaccine protection would have waned by RSV season.
+> <br>The work group supported seasonal dosing beginning in September and going through January in most of the continental United States based on typical or pre pandemic RSV seasonality. This aligns with implementation of influenza vaccine and thus would simplify implementation for prenatal care providers.
+> <br>The work group felt that jurisdictions in which RSV seasonality differs from most of the continental United States should have flexibility regarding start and stop of administration of RSV vaccine in pregnant people. And these jurisdictions include Alaska and jurisdictions with tropical climate such as those listed here.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:39:24]
+> <br>
+> <br>The base case is shown in the first bar at about $400,000 per QALY. And if the months of dosing are limited to target dosing to pregnant people whose infants will be in the first months of life during the RSV season, the incremental cost effectiveness ratio or ICER decreases, meaning that the cost effectiveness improves.
+> <br>And importantly, you can see the ICER for providing doses during September through January, the work group's preferred dosing timing is $167,000 per QALY.
+> <br>RSV vaccine may improve RSV outcomes, but it will also increase costs. The base case model showed an ICER of about $400,000 per QALY. And the base case assumed year round dosing of this vaccine and typical RSV seasonality in most of the continental United States.
+> <br>The work group felt that this vaccine would not be cost effective under the base case conditions. However, cost effectiveness would be improved by using a seasonal dosing strategy, during September through January in most of a continental U.S., thus, as we have discussed already, the work group unanimously supported the use of a seasonal dosing strategy.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:41:49]
+> <br>
+> <br>Regarding insurance coverage of pregnant people by Medicaid and of coverage of vaccines during pregnancy, by federal law, all states provide Medicaid coverage for pregnancy related services, to pregnant women with income levels up to 138% of the federal poverty level.
+> <br>In 2021, 41% of mothers had Medicaid at the time of birth, making Medicaid the largest payer for maternity care in the United States.
+> <br>If recommended, ACIP will vote on a Vaccines for Children resolution for this vaccine for pregnant people age less than 19 years, and beginning on October 1, when the Inflation Reduction Act provisions become effective, state Medicaid agencies will be required to recover vaccines and their administration without cost sharing for nearly all full benefit adult beneficiaries covered under traditional Medicaid, if the CDC ACIP recommendations apply.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:42:40]
+> <br>
+> <br>Regarding other insurance coverage, meaning commercial insurance for vaccines during pregnancy, under the Affordable Care Act and its implementing regulations, ACIP recommendations that have been adopted by CDC and are listed on CDC's immunization schedules generally are required to be covered by group health plans and health insurance issuers without any cost sharing requirements.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [12:46:37]
+> <br>
+> <br>The work group had extensive discussions regarding a full recommendation versus a shared clinical decision making recommendation.
+> <br>Most work group members support a full recommendation. They felt the approved dosing interval reduces the potential risk and complication potential risk of and complications from preterm birth. They stressed the importance of clear vaccine recommendations. They noted that providers who will help pregnant people decide which product to receive generally have less familiarity with the data than ACIP does. They expressed that shared clinical decision making recommendations can be confusing, hard to implement for providers, can lead to lower vaccine confidence and uptake, and could potentially influence support for the vaccine in lower and middle income countries where nirsevimab may not be available.
+> <br>A minority supported a recommendation was shared clinical decision making. They noted that without shared clinical decision making, a full recommendation could result in some providers recommending RSV vaccine during pregnancy, without discussing with pregnant patients that nirsevimab is an option. They cited the potential risk for pre-term birth and neuroinflammatory events and cited that the same vaccine is recommended under shared clinical decision making for adults ages 60 years and older.
+> <br>It is important to note that ACIP generally makes shared clinical decision making recommendations when individuals may benefit from vaccination, but broad vaccination of people in that group is unlikely to have population level impacts.
+> <br>And lastly, as we discussed in June, the work group noted that currently there are no data available on the efficacy of the first lifetime dose during subsequent pregnancies, nor the safety of additional doses given in subsequent pregnancies. The work group felt that it was too early to decide whether additional doses should be given in subsequent pregnancies given the lack of data, and additional data are needed to inform whether additional doses and subsequent pregnancies would be indicated and recommendations can be updated in the future.
+> <br>...
+> <br>
+> <br>Jefferson Jones, CDC [12:53:29]
+> <br>
+> <br>The work group felt that for most infants administering both products is not needed. And based on the cost effectiveness analyses presented earlier today, this would not be a reasonable and efficient allocation of resources.
+> <br>Of note, the documentation of maternal vaccination status may not be available to the infant's healthcare provider.
+> <br>Most work group members felt that pregnant people should be aware that both maternal vaccination and nirsevimab are options when deciding whether to be vaccinated. However, healthcare providers of pregnant people may not have the time or feel equipped to discuss nirsevimab when counseling.
+> <br>The work group felt that in rare situations, flexibility is needed for providers to be able to administer nirsevimab when it is clinically warranted to infants, born to vaccinated mothers.
+> <br>Examples include conditions in pregnant people resulting in an inadequate immune response to vaccine or decrease in trans placental antibody transfer. Also infants who have undergone cardiopulmonary bypass leading to a loss of maternal antibodies and infants with sufficiently increased risk for severe disease to warrant nirsevimab because of the potential increased benefit.
+> <br>...
+> <br>
+> <br>Jefferson Jones, CDC [12:54:51]
+> <br>
+> <br>So the following are the proposed clinical considerations for the use of the maternal RSV vaccine and nirsevimab.
+> <br>Either maternal vaccination or use of nirsevimab in the infant is recommended to prevent RSV lower respiratory tract infection. But administration of both products is not needed for most infants.
+> <br>Healthcare providers of pregnant people should provide information on both products and consider patient preferences when determining whether to vaccinate the pregnant patient or to not vaccinate and rely on administration of nirsevimab to the infant after birth.
+> <br>...
+> <br>
+> <br>Jefferson Jones, CDC [12:55:32]
+> <br>
+> <br>So this slide displays potential information that could be shared with patients on the relative risks and benefits of a maternal RSV vaccine and nirsevimab.
+> <br>It is important to note that both products are safe and effective in preventing RSV lower respiratory tract infection in infants.
+> <br>Relative benefits of maternal vaccination includ: a maternal vaccine provides protection immediately after birth when infants are at the highest risk for severe RSV disease, a maternal vaccine may be more resistant to virus mutation compared with monoclonal antibodies, although RSV does not mutate rapidly.
+> <br>While both products require an injection, use of a maternal vaccine avoids injection of the infant.
+> <br>Relative risks of maternal RSV vaccination include: maternal vaccine induced protection is reduced if fewer vaccine induced antibodies are produced, for example, if mother's immunocompromised or could be reduced in transferring from mother to baby. For example, if the infant is born soon after vaccination.
+> <br>There is a potential risk of pre-term birth, but administration at 32 to 36 weeks reduces this risk.
+> <br>Relative benefits of nirsevimab include studies of antibody levels suggest that protection from nirsevimab mightt wane more slowly. Administration of nirsevimab can provide antibodies directly, if an infant receives less antibodies from the mother. And since nirsevimab is provided after birth, there are no risk of adverse pregnancy outcomes.
+> <br>Relative risks of nirsevimab include there is potential limited availability of nirsevimab during the 2023 to 24 RSV season.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:02:41]
+> <br>
+> <br>There has been a lot of conversation already about cost of the vaccine.
+> <br>So the cost of the Pfizer RSV vaccine is $295 a dose, compared to for Tdap approximately $46 to $52.
+> <br>This cost is lower than the infant nirsevimab cost of $495 for the private sector cost.
+> <br>Reimbursement and cost recovery challenges have already been identified by providers and practices as an implementation barrier for maternal immunization. And you'll see that on this slide here, that when looking at the different provider concerns, financial concerns really are the leading barrier to maternal immunization.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:04:46]
+> <br>
+> <br>What we've heard anecdotally is that plans are starting to let people know that they will start covering nirsevimab when it comes out in the coming weeks.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:05:14]
+> <br>
+> <br>As far as supply and availability of maternal RSV vaccine and nirsevimab in this 23-24 RSV season, we don't anticipate any supply demand mismatches, because the Pfizer maternal RSV vaccine is the same product in use for adults aged over 60 years of age, availability is expected shortly after ACIP recommendations.
+> <br>Nirsevimab is likely going to be available very soon. And we anticipate this being available as soon as next week, or in early October.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:06:01]
+> <br>
+> <br>There are efforts underway to increase the number of birthing hospitals who will be able to administer nirsevimab, particularly under the VFC program.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:06:14]
+> <br>
+> <br>One thing to point out is that the increase in complexity of the maternal immunization schedule. And so you'll see here, um, the different potential recommended vaccines during pregnancy.
+> <br>So influenza COVID 19 and Tdap P and then, this RSV vaccine and seeing that there are different timings of the vaccines based on season or, and, or gestational age a limited window for RSV administration. And it's really unclear about the willingness of pregnant people to accept multiple vaccines in pregnancy.
+> <br>This gives us a little bit more information. And so in a survey of pregnant people 12%, they would accept no vaccines. And if you look at those that would accept either one or two vaccines together, that's about 49%. This is another piece of information to look at uptake of vaccines among pregnant people. And this has declined as well as we see that disparities persist.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:08:12]
+> <br>
+> <br>When we think about pediatric provider roles in immunization decisions, the pediatrician or the pediatric provider recommendation for RSV is really, or sorry, for nirsevimab, is contingent upon knowledge of maternal vaccination status. And we know that this could be challenging if the pediatric provider doesn't receive the maternal record.
+> <br>Verbal report of vaccines received during pregnancy may not be reliable. And therefore pediatric providers may need to make decisions on nirsevimab administration without having complete information on what happened during pregnancy.
+> <br>We also think about the capture of the immunization data. State IIS's vary in what they capture related to adult immunization. So pregnancy status is not identified in IIS, though there is a potential way to look at the immunization information system data, because you could use adult women less than 60 years of age as a proxy for this RSV vaccine administration.
+> <br>There is not a way currently to link maternal and infant immunization records in immunization information systems. So it would be— it's not possible through these systems at this point in time to be able to use that, to forecast whether or not an infant nirsevimab immunization is needed.
+> <br>There are also in some state policies, there's not an ability for pediatric providers to review adult records, or records of individuals who are not their patients.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:10:13]
+> <br>
+> <br>There are, as there always are in immunization implementation, some communication challenges.
+> <br>The terms like vaccine for the maternal product versus immunization for the infant product, understanding what the potential risks and benefits are, and helping a pregnant person make an informed decision.
+> <br>This is something that is going to take time for providers to have those conversations and then discussing financial implications to a patient in a setting of uncertainty related to coverage in this first year of implementation.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:10:55]
+> <br>
+> <br>There is a lot of work being done here at CDC. There have been formative research and message testing. So a lot of focus groups and in depth interviews to help inform the ultimate communication activities that will be done for the public.
+> <br>There have been surveys of parents, of young children, also pregnant and recently pregnant people with that information patient and provider education materials are being developed.
+> <br>There's also some partnerships with healthcare provider organizations, as well as those organizations that serve pregnant people and an intention to do social media across all of CDCs platforms.
+> <br>...
+> <br>
+> <br>Luis Jodar, Pfizer [01:14:43]
+> <br>
+> <br>We want to assure the committee that a robust supply of vaccine is already available to providers and ready to be implemented through existing vaccine programs.
+> <br>The RSV system is already starting, and for the first time, we could have importantly two routinely recommended options for RSV prevention for infants. Pregnant persons will now be able to have an informed discussion with their OB's and other maternal health providers as they do for all routinely recommended maternal vaccines and make an informed decision on which option is best for them and their baby.
+> <br>Finally, I would like to emphasize that the RSV vaccine will be a lower cost option, and overall could result in lower budget impact for the U.S. healthcare system.
+> <br>...
+> <br>
+> <br>Sarah Long, ACIP [01:24:05]
+> <br>
+> <br>And as far as you consider our very restricted suggestions for the use of nirsevimab after the receipt of appropriately timed vaccine, in that you consider that these are both antibody paint, and that the antibody paint will wear off. And it doesn't change the epidemiology of RSV disease. And its goal is not to prevent RSV infections in every individual.
+> <br>It can only reduce by a certain degree, the morbid consequences of RSV disease. So people have already— pediatricians and others have already been concerned about our cut points for nirsevimab and our cut points for this. And they are based on data.
+> <br>And because this is not a vaccine that will change the epidemiology, prevent herd, prevent long term protection, we have to have those to make them both cost acceptable because these are extraordinarily, probably unreasonably priced products.
+> <br>And we would say, bring on competition to bring these down.
+> <br>...
+> <br>
+> <br>Keipp Talbot, ACIP [01:26:01]
+> <br>
+> <br>I think this might be the most complicated vaccine recommendation for young adults that we've had in a long time. And I worry about the complication of the time period.
+> <br>I know we give flu and COVID during that season, but we give it to everybody regardless of where they are in their pregnancy. So there's a lot less of a needle with those two vaccines.
+> <br>I also am a little bit worried, in the adult world, if you get the same vaccine twice, you pay for the second vaccine. So if a mother has not gotten her— she's gotten her RSV vaccine, but is confused because she's gotten four vaccines or two vaccines or three vaccines, and the pediatrician's kind of left in this position to give the child the antibody, someone's going to have to pay, because that's double dipping since we're only recommending one or the other.
+> <br>I think it's really interesting that mothers don't want four shots. They want less than that?
+> <br>So I guess I'm asking what's the benefit of this vaccine, if we're gonna give every child antibody, why do we need to recommend it at all? So I'm hoping the work group can help me work through that struggle.
+> <br>...
+> <br>
+> <br>Katherine Poehling, ACIP [01:28:18]
+> <br>
+> <br>I would like to respond to Dr. Talbot. And in speaking to parents who have recently given birth, there are some that would prefer to take a vaccine rather than have their child get a shot.
+> <br>And then there's also all kinds of cases that I've had recently, including one where the father of the child had a significant bleeding disorder. And so they didn't want the child to have any sticks for any reasons, because we didn't know if that child was going to have a bleeding disorder.
+> <br>So there's going to be multiple cases like that.
+> <br>But you are absolutely correct. There is a lot of complexity, and a lot of clearly documenting the information. So everybody knows what has and hasn't been received is going to be extraordinarily important. And it builds on what you've said in last meetings, that having an immunization registry for all is desperately needed.
+> <br>...
+> <br>
+> <br>Georgina Peacock, CDC [01:31:49]
+> <br>
+> <br>There's very limited availability of funds through the 317 program.
+> <br>Those funds haven't decreased in amount. However, there are more vaccines that are potentially could be paid for, for uninsured adults, through our 317 funds. And so really there's very limited availability, in the big scheme of things, to be able to pay for additional vaccines through this limited pot of 317.
+> <br>And I guess just for context, the 317, basically, we give a portion of funds to all of our immunization awardees so that they can purchase some vaccine. Typically this is used for uninsured adults. Sometimes it fills in some gaps related to children, and then it's also used for outbreak funds.
+> <br>So it sort of— and so it's a fairly limited amount of money.
+> <br>...
+> <br>
+> <br>Pablo Sanchez, ACIP [01:36:47]
+> <br>
+> <br>I actually was one of the ones in favor of the shared decision making, because I think there are two options that need to be discussed with the pregnant woman and with— because it's not just the vaccine at 32 to 36 weeks, but she needs to be told also that the other option is nirsevimab.
+> <br>And that, I can imagine as a pediatrician taking care of a baby who I then tell the mother that this baby cannot get nirsevimab because she had chosen to receive the RSVpreF RSV vaccine. And so I think that that discussion, irrespective of what is easy or not easy, and what the obstetrician and healthcare provider for the pregnant woman decides, I think that discussion must be had, and it it's been stated already, but I think that that is important.
+> <br>And so when I think that there's a variety of options to be discussed, I think shared decision making is the way that I would prefer.
+> <br>...
+> <br>
+> <br>Grace Lee, ACIP [01:38:19]
+> <br>
+> <br>In my opinion, every recommendation should really be a shared decision, similar to all medical care that we provide. I think, the distinction about the recommendation is not whether or not the process occurs. It's really more about sort of more of a universal recommendation versus more of a selective recommendation.
+> <br>So I don't think that a full recommendation means that this discussion shouldn't happen. In fact, it should with every pregnant person, to make sure that they're aware of the options. That's my opinion about it. And I don't think shared clinical decision making changes that. I think it just restricts the access for certain patients.
+> <br>...
+> <br>
+> <br>Lynn Bahta, ACIP [01:39:48]
+> <br>
+> <br>The feasibility of this I think is really challenging.
+> <br>As I know from the colleagues in my own health department, are struggling with how to implement the nirsevimab and how to reconcile that if the preF is also recommended. How to coordinate that.
+> <br>And I also want to emphasize something that Dr Peacock mentioned, and that's related to the 317 funds. They are incredibly restricted, but not only that, programs are implementing the seniors RSV, which is also a very costly vaccine, and will be in very limited supply.
+> <br>So there will be a lot of competition, and probably very little supply or availability of that vaccine for either audience. And, so I think that's an ongoing issue that we need to keep thinking about.
+> <br>...
+> <br>
+> <br>Katherine Poehling, ACIP [01:46:36]
+> <br>
+> <br>We in North Carolina have one insurance company that has agreed to pay for nirsevimab in the outpatient setting. We're still waiting on the inpatient setting. So that is just where people are.
+> <br>And I do— I am worried about the cost and who's going to cover it. So I do think this is a very important option. And so, I would like to make a motion to accept the voting language as it is written.
+> <br>...
+> <br>
+> <br>Pablo Sanchez, ACIP [01:47:25]
+> <br>
+> <br>Just thinking about what Dr. Loehr had commented, which is— which I agree it is what we have discussed for the clinical considerations.
+> <br>But as I think about it, actually, if we diagnosed severe congenital heart disease, for instance, or some other malformation that may be beneficial to really provide more substantial protection, actually, that infant is likely to stay in the NICU or the cardiovascular, the CT ICU, for a prolonged period of time, and actually thinking about it, nirsevimab would not be given until discharge.
+> <br>And although we try to prevent RSV infection in these units, it does occur. So I'm just thinking that actually some of those babies, may actually benefit if they have maternal antibody, at least through the time of discharge.
+> <br>So, and in those infants, we have recommended, or that nirsevimab be given, and that even irrespective of whether the mother got the vaccine, so I'm just throwing a different angle to that.
+> <br>So I think that it would be best kept in the clinical consideration.
+> <br>...
+> <br>
+> <br>Brenna Hughes, ACOG [01:50:59]
+> <br>
+> <br>Related to the shared clinical decision making comments, that in fact obstetricians are quite experienced and routinely perform counseling for all patients who receive vaccines, and this would be no different.
+> <br>And would agree with Dr. Long's assertion that for that reason, this does not rise to the level of a shared decision making policy discussion and would support the full recommendation on behalf of ACOG.
+> <br>...
+> <br>
+> <br>Jamie Loehr, ACIP [02:04:49]
+> <br>
+> <br>I actually want sort of go on record that I still believe that if a child is going to get nirsevimab, that is better. I think it's better because we seem to have evidence that it's better efficacy. It's definitely more cost effective.
+> <br>And so I don't really want it to be an equal representation. I recognize we're not gonna make a preference. And I recognize that we need a lot more data over the next couple of years to see in the long run, which is better. I doubt we will ever get head to head information, but I don't want it to sort of be that, you can get this one or you the kid can get the vaccine, the nirsevimab.
+> <br>I sort of, if I'm presenting it to a pregnant woman, I'm going to say, if you want to give your kid nirsevimab, that's what I recommend. And if you don't, then this is another option. That's just a small nuance on what Dr. Long said.
+> <br>With regard to Dr. Sanchez, I would go back to what the work group said. I see shared clinical decision making when you have a good product that has some drawbacks that the person should really know about.
+> <br>And so I could see where you might say nirsevimab is better. And so that's a drawback, but really the classic one for me is where we have RSV for adults. And I'm spending a lot of time telling people about this potential neuro complication from the vaccine.
+> <br>So I recommend the vaccine, but there's this problem, possible problem with it. That's where I would use shared clinical decision making.
+> <br>So that's why I don't think it quite rises to that level.
+> <br>...
+> <br>
+> <br>Pablo Sanchez, ACIP [02:16:27]
+> <br>
+> <br>We all have personal preferences. And we look at the data, and we look at the efficacy of the trial of the— one of the trial, of the two trials of the preF vaccine and also of niresvimab, and unfortunately the end points were different. So we can't even compare the actual, head to head in many instances, in terms of primary outcome.
+> <br>But I think we all have preferences for one or the other. And I think— and I have to come back to the point that what we're doing is voting on this vaccine, not on how it's gonna compare to nirsevimab, because ultimately we need that to be studied.
+> <br>...
+> <br>
+> <br>Brenna Hughes, ACOG [02:17:19]
+> <br>
+> <br>One is that it is absolutely routine for us to, as obstetricians, and to collaborate with our pediatric colleagues to review maternal charts. It is done every day regarding testing like hepatitis B testing, those are results are always communicated. And so while we recognize that there is some complexity to ensuring that the charts are complete, related to receipt of vaccine, it's quite doable also acknowledging the fact that this is fairly complex.
+> <br>And we at ACOG along with our CDC colleagues, the Society for Maternal Fetal Medicine, plan to partner with other entities like Mother to Baby, American Academy of Pediatrics, AAFP, and ACNM to ensure that there is a solid implementation strategy to assure that these challenges are met.
+> <br>...
+> <br>
+> <br>Katherine Fleming Dutra, CDC [02:20:18]
+> <br>
+> <br>We wanna make it very clear that again it's important for pregnant people, when they are making the decision during pregnancy, should this vaccine be recommended, whether they would receive the RSV vaccine or nirsevimab, that that conversation happens.
+> <br>And it would not be, I just want to clarify that. So if a pregnant person presents, there are 32 to 36 weeks during September through January, that conversation should happen, whether they would prefer to receive the RSV vaccine, should it be recommended or nirsevimab.
+> <br>It's not that one would be preferred at a certain timing.
+> <br>...
+> <br>
+> <br>Grace Lee, ACIP [02:48:27]
+> <br>
+> <br>If I counted correctly, I think it's 11 yes's and 1 no.
+> <br>
+> <br>Melinda Wharton, CDC [02:48:31]
+> <br>
+> <br>I counted the same way you did Dr. Lee. So the motion passes.
+> <br>...
+> <br>
+> <br>Grace Lee, ACIP [02:50:22]
+> <br>
+> <br>So Dr. Wharton, I have 11 yes's and 1 no. And the VFC vote passes.
+> <br>...
+> <br>
+> <br>Beth Bell, ACIP [02:51:58]
+> <br>
+> <br>I just wanted to take advantage of my gray-haired status here and reflect for a moment on this issue of complicated recommendations where implementation is unclear, difficult, not that the implementation is going to be difficult, there are a lot of challenges.
+> <br>And I will say to your point earlier, Dr. Lee, that in looking back over decades, hepatitis B vaccination, being an obvious one that comes to mind, I think these sorts of recommendations that provide an opportunity for innovation that provide availability of different options.
+> <br>Oftentimes, while at the beginning might be extremely bumpy, oftentimes do drive improvements over the longer term. And I think that this is another example of that.
+> <br>It allows perhaps for improvements in physician education, patient decision making, communication between the obstetrical world and the pediatric world, addressing disparities.
+> <br>So even though we as ACIP members at this moment in time may feel like, 'whoa, this is really complicated, and it's gonna be very difficult to implement.'
+> <br>I think in the longer term, as I say, it provides an opportunity and some new options that I think will improve children's health in the longer term.
+> <br>...
+> <br>
+> <br>Jeanne Santoli, CDC [03:05:34]
+> <br>
+> <br>Traditionally, the schedules are published in February, but the publication process starts in October with the ACIP vote.
+> <br>In November and December, professional organizations approve the schedule. And in December and January, we draft and enter into CDC clearance, MMWR reports and an Annals of Internal Medicine report.
+> <br>And then in February, the schedules are published along with the accompanying MMWR notice to readers and Annals of Internal Medicine report.
+> <br>...
+> <br>
+> <br>Jeanne Santoli, CDC [03:06:13]
+> <br>
+> <br>The timeliness of schedule publication has several important implications.
+> <br>First, some insurers link vaccine reimbursement to the vaccine being listed on the immunization schedule.
+> <br>Second, the ability of certain healthcare providers to administer immunizations is also related to the schedule. For example, some states link pharmacist immunization authority to the schedule.
+> <br>And lastly, healthcare provider knowledge and practices are related to the immunization schedule. For example, if a healthcare provider is referring to a schedule that several months old, they may not be aware of the most recent ACIP recommendations.
+> <br>...
+> <br>
+> <br>Jeanne Santoli, CDC [00:07:04]
+> <br>
+> <br>The Affordable Care Act addresses immunization coverage, and it's interpreted by CMS.
+> <br>According to the Affordable Care Act, insurers must provide coverage for, and must not impose cost sharing restrictions for immunizations that have a routine recommendation, and that are listed on the immunization schedule of the Centers for Disease Control and Prevention.
+> <br>Of note, the Affordable Care Act does not specify the layout of the immunization schedule. So legally, CDC has discretion regarding the design of the immunization schedules, and it's the entire document that constitutes the schedule, not just the graphic bars or the tables of the schedule.
+> <br>...
+> <br>
+> <br>Jeanne Santoli, CDC [03:07:57]
+> <br>
+> <br>We are looking at a three-pronged approach to address schedule timeliness.
+> <br>Our immediate strategy consists of the addition of addenda, to help bring the schedule up to date.
+> <br>Our short term strategy involves publication of the entirety of the schedule shortly after the October ACIP vote.
+> <br>And our longer term strategy is to consider sustainable approaches to ensure the schedule remains dynamic and responsive, and we will engage our partners in the planning process.
+> <br>...
+> <br>
+> <br>Jeanne Santoli, CDC [03:08:36]
+> <br>
+> <br>So regarding the addition of the addenda to, to the 2023 immunization schedules.
+> <br>The addenda will contain ACIP recommendations that occurred after the 2023 schedule was published. We plan to release the 2023 immunization schedules with the addenda next week.
+> <br>And with this addition, all ACIP recommendations will formally be part of the CDC immunization schedules.
+> <br>...
+> <br>
+> <br>Jason Goldman, ACP [03:12:23]
+> <br>
+> <br>It is imperative that the schedule will be updated, approved, and published as quickly as possible to avoid unnecessary delays in implementation.
+> <br>The college greatly appreciates the willingness of the CDC to expedite this process. The lack of insurance coverage creates unnecessary barriers to access to care, and further exacerbates healthcare disparities as uninsured and underinsured patients will not have access to these vaccines.
+> <br>...
+> <br>
+> <br>Sean O'Leary, AAP [03:14:15]
+> <br>
+> <br>The publication of official CDC recommendations is an essential step in this process.
+> <br>As an example, considered the PCV20 vaccine, the pneumococcal conjugate vaccine, which was recommended by the ACIP at its June meeting.
+> <br>AAP members have recently reported that some VFC programs are providing only PCV20 and that some vaccine buying groups are directing people to use this vaccine over other pneumococcal vaccines.
+> <br>However, this is problematic because a lack of formal recommendations in an updated immunization schedule or publication in MMWR is leading to payment denials for PCV20, as well as delays in Tricare coverage for children and military families.
+> <br>Timely updates to the immunization schedule would provide pediatricians with an authoritative source for the latest immunization recommendations, which is invaluable at the point of care to maximize every opportunity to vaccinate.
+
 ## Merck statement on commercialization of Lagevrio
 
 - **Source:** statement emailed by a Merck spokesperson
