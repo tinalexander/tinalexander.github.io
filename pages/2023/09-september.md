@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 22, 2023
 
+## Merck statement on commercialization of Lagevrio
+
+- **Source:** statement emailed by a Merck spokesperson
+- **Date:** received September 22, 2023
+
+> We continue to have ongoing discussions with the FDA about the data package needed to support the initial NDA for LAGEVRIO (molnupiravir). In the meantime, we are working closely with the U.S. government to ensure patients have continuing access to LAGEVRIO.
+> 
+> We are working towards transition to commercial market supply later this year. Because this is based on multiple factors, this timing may be subject to change.
+
 ## FDA official on updated COVID vaccines
 
 - **Source:** [video](https://www.youtube.com/watch?v=xcUmwP87gko) posted by Food and Drug Administration
