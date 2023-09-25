@@ -32,7 +32,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > Most participants preferred "flu" or "cold and flu" season or "fall and winter." Many participants thought flu season was a catchall phrase that included a range of illnesses, not just flu. 
 > 
-> A portion of participants reported COVID 19 fatigue and more hesitancy to being concerned about other disease. And the knowledge of RSV was low overall, but there was more concern among parents, though a few older adults also expressed concern. Most participants were open to talking RSV, even if they didn't wanna talk about flu or COVID.
+> A portion of participants reported COVID 19 fatigue and more hesitancy to being concerned about other disease. And the knowledge of RSV was low overall, but there was more concern among parents, though a few older adults also expressed concern. Most participants were open to talking RSV, even if they didn't want to talk about flu or COVID.
 > 
 > ...
 > 
