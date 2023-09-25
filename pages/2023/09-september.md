@@ -28,7 +28,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > In anticipation of the upcoming 2023-2024 cold and flu season, CDC conducted focus groups to better understand how people think about viral respiratory diseases and baseline knowledge, attitudes, and beliefs in order to inform our communications. There were a total of 12 virtual focus groups, which included general population and parents between June 27th and July 13th of this year. Participants were screened for a mix of health insurance type, gender, race, ethnicity, and educational attainment. 
 > 
-> Some of the fine things included a lack of knowledge and general uncertainty as to what a viral respiratory disease was. Specifically, which diseases were viral rather than bacterial. And what that meant most assumed that a viral respiratory disease was anything related to the lungs, including pneumonia, COPD, asthma, and even strep throat. The term viral respiratory disease season seemed long unnecessary and an escalation that felt scary to many.
+> Some of the findings included a lack of knowledge and general uncertainty as to what a viral respiratory disease was. Specifically, which diseases were viral rather than bacterial. And what that meant most assumed that a viral respiratory disease was anything related to the lungs, including pneumonia, COPD, asthma, and even strep throat. The term viral respiratory disease season seemed long unnecessary and an escalation that felt scary to many.
 > 
 > Most participants preferred "flu" or "cold and flu" season or "fall and winter." Many participants thought flu season was a catchall phrase that included a range of illnesses, not just flu. 
 > 
