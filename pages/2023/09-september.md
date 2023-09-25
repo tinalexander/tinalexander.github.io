@@ -15,6 +15,139 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 25, 2023
+
+## CDC officials and NVAC members on fall respiratory virus season
+
+- **Source:** [webcast](https://www.hhs.gov/vaccines/nvac/meetings/2023/09-21/index.html) of National Vaccines Advisory Committee meeting
+- **Date:** broadcasted September 22, 2023
+
+> Sara Dodge Ramey, CDC [00:21:59]
+> 
+> We are conducting research using multiple mechanisms, working with the division, center, and agency. Our goal is to gain insight on knowledge about specific topics, learn which terms best resonate with various audiences, inform our messaging and develop best practices. Next slide please. 
+> 
+> In anticipation of the upcoming 2023-2024 cold and flu season, CDC conducted focus groups to better understand how people think about viral respiratory diseases and baseline knowledge, attitudes, and beliefs in order to inform our communications. There were a total of 12 virtual focus groups, which included general population and parents between June 27th and July 13th of this year. Participants were screened for a mix of health insurance type, gender, race, ethnicity, and educational attainment. 
+> 
+> Some of the fine things included a lack of knowledge and general uncertainty as to what a viral respiratory disease was. Specifically, which diseases were viral rather than bacterial. And what that meant most assumed that a viral respiratory disease was anything related to the lungs, including pneumonia, COPD, asthma, and even strep throat. The term viral respiratory disease season seemed long unnecessary and an escalation that felt scary to many.
+> 
+> Most participants preferred "flu" or "cold and flu" season or "fall and winter." Many participants thought flu season was a catchall phrase that included a range of illnesses, not just flu. 
+> 
+> A portion of participants reported COVID 19 fatigue and more hesitancy to being concerned about other disease. And the knowledge of RSV was low overall, but there was more concern among parents, though a few older adults also expressed concern. Most participants were open to talking RSV, even if they didn't wanna talk about flu or COVID.
+> 
+> ...
+> 
+> Sara Dodge Ramey, CDC [00:23:51]
+> 
+> Participants approached prevention to viral respiratory disease as taking a blanket defense rather than anything else specific. There was little distinction between preventative actions for viral respiratory diseases versus non respiratory infectious diseases. 
+> 
+> The most common prevention methods were related to a holistic approach to health, like eating well, taking vitamins, and exercising. 
+> 
+> When sick, participants reported taking precautions to avoid spreading their illness, including staying home when sick, keeping their children home, using masks in public, and using hand sanitizing.
+> 
+> Some participants felt that the list of preventive actions where things they already knew, but stated there are people that didn't know them and should learn them. Other participants liked the list of prevention actions because it reaffirmed what they were doing was right. 
+> 
+> ...
+> 
+> Sara Dodge Ramey, CDC [00:24:40]
+> 
+> Vaccines were not a top of mind preventive action for most. Many considered them to be a lower priority than everyday common sense measures. 
+> 
+> There were mixed feelings about vaccines. Some were adamant about getting all recommended vaccines. Some believed they were ineffective or unnecessary, with most landing in the middle of the two extremes. 
+> 
+> Most participants thought an effective vaccine prevented illness entirely. Some understood a vaccine could lessen the severity. 
+> 
+> When vaccines were included in a list of prevention activities, some people pointed out that listing it first could detract from the value of the list, although they would be okay with seeing vaccines somewhere on the list, just not first.
+> 
+> ...
+> 
+> Sara Dodge Ramey, CDC [00:25:29]
+> 
+> In general, people prefer softer language around vaccination recommendations when coming from CDC.
+> 
+> We know that a strong recommendation is effective when it comes from a healthcare provider. As such, we often play around with different calls to actions, like talk to your doctor, find out about where to get vaccinated, or talk to your doctor about X vaccine. 
+> 
+> Educational messaging is a door opener. We have found that people preferred simplified, brief information, but enough that they feel that they have enough to take action. 
+> 
+> Generally, we want to try and incorporate brief messages about risk, why the vaccine is needed, what the beliefs are or the benefits are, and where they can go to learn more. 
+> 
+> Again, they like to feel empowered, to learn more and do their own research versus being told what to do
+> 
+> ...
+> 
+> Sara Dodge Ramey, CDC [00:26:11]
+> 
+> Avoid messages that could be seen as a scare tactic, set realistic expectations. 
+> 
+> People are more likely to perceive messages as credible and trustworthy if they set realistic expectations about what vaccines can and cannot do. 
+> 
+> This is one reason why our flu campaign's "Wild to Mild" concept performed so well in testing.
+> 
+> It clarifies that people can get flu if they're vaccinated, while emphasizing that the vaccine still offers benefits even if you get sick.
+> 
+> ...
+> 
+> Sara Dodge Ramey, CDC [00:27:23]
+> 
+> The back to school childhood vaccination campaign kicked off the week of July 10th with campaign materials deployed in partner engagement, toolkits disseminated.
+> 
+> The flu campaign had a soft launch of their digital assets in market in mid-August, with a media event on September 6th with the CDC director, and the kickoff being September 28th.
+> 
+> The campaign runs mid-August through February of 24, where the focus being on parents of children, 0 to 17, and pregnant people.
+> 
+> ...
+> 
+> Sara Dodge Ramey, CDC [00:28:24]
+> 
+> NCIRD is also working on activities around a general pan-respiratory season, which includes flu, COVID 19, and RSV. 
+> 
+> The plan is to kick off in October to the general adult public, including families and older adults and healthcare providers. We currently have materials in testing and development, including healthcare providers, specific outreach, social media, digital video spots, and the development of a partner toolkit. 
+> 
+> ...
+> 
+> Mitchel Rothholz, APhA [00:31:44]
+> 
+> Just reiterating what was just said in terms of payers who aren't updating their systems. For example, with COVID, they're still treating it in their system as if the government was providing the vaccine and haven't changed over the commercial. And it's causing a frustration by patients and the providers, patients ready to get vaccinated and providers concerned about being stuck with the money like they have in other programs. 
+> 
+> And Bob, I just want to reiterate the point you made on RSV, because we're seeing that a lot and not only from a payer perspective, but from authority at the state level, at least for pharmacy, in some states they require it to be published on the schedule for pharmacists to be able to do it. 
+> 
+> So there's a delay there and that's why I called the other day for a look at the implementation process. Once something comes out of CDC for recommendations and, again, reiterate the need for a buffer so that we have time for implementation.
+> 
+> Manisha Patel, CDC [00:32:38]
+> 
+> And I'll just add the specific question about the barrier for the schedule is being addressed this afternoon at ACIP as well. And so we do expect at least that barrier to be removed, but I anticipate there's gonna be ongoing barriers from the actual frontline.
+> 
+> Mitchel Rothholz, APhA [00:32:56]
+> 
+> Yeah, I thank you for that. And I think the other part is, looking at, from CMS and the administration of what other, I wouldn't call it enforcement, what other encouragement can the government give to the plans who are-- they'll say they're covered under ACA, but if you're not an in network provider, if you're not in their list, then they don't cover it. So that becomes a barrier as well. 
+> 
+> So I think not only that the guidance that CDC and CMS put out earlier about being able to start implementing, a lot of-- a good number of plans did not even follow that. So there needs to be some stronger enforcement to put that in place, unless we're going to continue to face these obstructions. 
+> 
+> ...
+> 
+> Robert Schechter, California DPH [00:36:38]
+> 
+> I did have just one comment on the Bridge Access Program is that while doses have gotten out there, they aren't out as widely as an expectation that, from some of the messaging, that that vaccine is available broadly. 
+> 
+> And I realize that that's a hiccup that we'll get solved in time, but I think it reflects a challenge of trying to capture early interest when supplies may not be able to meet all that interest or result in the frustration of having to call around to a number of places or locate that available supply. 
+> 
+> I did want to ask you for clarification of which aspect, which barrier of RSV vaccine, or nirsevimab, you expect to be addressed today at the ACIP meeting. I didn't quite catch which aspect of that, and also a plea for what can be done to incentivize or, payers to cover cover nirsevimab as quickly as possible. 
+> 
+> Hearing now from both our birth hospitals in the state of California, some of which are-- many of which are reluctant to bear that that cost before reimbursement, similar concerns on the outpatient side. And I can imagine the same for prenatal providers for the RSV vaccine. 
+> 
+> And so, shared reluctance and wondering what the other partners in the mix are going to be doing, and seeing RSV season coming upon us shortly, if not here already, and wondering how to protect as many infants this season as possible. 
+> 
+> ...
+> 
+> Manisha Patel, CDC [00:38:48]
+> 
+> One challenge though, is that most hospitals and Dr. Schechter, you might actually know this already, is that they're not VFC providers. 
+> 
+> And so how you onboard birthing hospitals is a challenge. The product availability, we don't have it on the shelves yet. It's supposed to be available in the next couple of months, but we're already entering RSV season as you know, Florida and the Southeast is already seeing increased an uptick in RSV disease activity. And so some of the other sort of barriers I also think is just the communication around nirsevimab versus maternal or RSV vaccine for pregnant people. 
+> 
+> And if there's going to be insurance coverage issues, if a mom got RSV maternal vaccine, but we don't have records. And the pediatrician's not sure now what to do about nirsevimab.
+> 
+> So there's a list of different things that many folks are working through. And, I think the earlier question you had about what's being discussed today, I'm trying to remember what I said that made you think that, but the one thing is just that all of this stuff that's going to be on the actual immunization schedule, all of these different new recommendations, updated sooner than the typical updates in the spring, I believe. 
+
 # September 22, 2023
 
 ## CDC committee meeting on Abrysvo in pregnancy, new vaccine schedules
