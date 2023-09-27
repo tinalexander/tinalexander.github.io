@@ -17,6 +17,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 27, 2023
 
+## FDA spokesperson in response to question about Ozempic
+
+- **Source:** email from Chanapa Tantibanchachai of the Food and Drug Administration
+- **Date:** received September 27, 2023
+
+> Although there is some overlap in the terms, ileus and gastroparesis, they are not synonymous. Ileus is a non-mechanical decrease or stoppage of the flow of intestinal contents. Gastroparesis is a chronic gastrointestinal syndrome defined by symptomatic delayed gastric emptying of contents into the intestine in the absence of mechanical obstruction. In addition to ileus, delay of gastric emptying is also mentioned in the United States Prescribing Information for Ozempic and other glucagon-like peptide-1 receptor agonists (GLP-1 RA).
+> 
+> The FDA monitors reports of gastroparesis and other related terms with GLP-1 RAs as part of our safety monitoring of a drug throughout its life cycle, including post-approval. In addition, the FDA maintains a system of postmarketing surveillance and risk assessment programs to identify and evaluate adverse events that did not appear during the drug development process. If newly identified safety signals are identified, the FDA will determine what, if any, actions are appropriate after a thorough review of available data. For additional information, please refer to the following:
+> 
+> https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-public-dashboard
+
 ## CDC official at webinar on RSV immunizations available
 
 - **Source:** [webinar](https://www2.cdc.gov/vaccines/ed/ciinc/archives/23/09/ciiw_9_27.asp) by Centers for Disease Control and Prevention
