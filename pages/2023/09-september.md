@@ -17,6 +17,59 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 27, 2023
 
+## CDC official at webinar on RSV immunizations available
+
+- **Source:** [webinar](https://www2.cdc.gov/vaccines/ed/ciinc/archives/23/09/ciiw_9_27.asp) by Centers for Disease Control and Prevention
+- **Date:** broadcasted September 27, 2023
+
+> Jefferson Jones, CDC [00:42:18]
+> 
+> So regarding supply of these products, there is no anticipated supply demand mismatch. 
+> 
+> However, because the Pfizer maternal RSV vaccine, in addition, the Pfizer maternal RSV vaccine is the exact same product that has been approved for use in adults aged 60 years or older. And so availability is expected now that we're at after ACIP recommendations. However it may, for those that are asked in obstetricians or other clinics, that may not store the vaccine previously, some time may be required. 
+> 
+> Now nirsevimab, shipping has begun and availability is expected either in by late September or early October, but it may not be available in all pediatric settings this season and efforts are underway to increase the number of birthing hospitals who will administer nirsevimab.
+> 
+> ...
+> 
+> Jefferson Jones, CDC [00:44:47]
+> 
+> So there's no official announcement that comes out each year by CDC.
+> 
+> This year, a health alert network was released encouraging uptake of RSV vaccines, and nirsevimab as soon as it becomes available, as we are seeing RSV transmission this season, similar to pre pandemic transmission, which means we've seen it begin in Florida and it appears to be spreading in the south and we expect it to spread to the United States.
+> 
+> If it follows pre pandemic seasonality, it peaks in December through February, but one dose of nirsevimab gives at least five months protection. And so really the target is shortly before the start of the RSV season, which generally starts in, in mid to late October in the majority of the United States, are slightly later in the Western regions. 
+> 
+> So recommendations are to, on a yearly basis, to begin administration the beginning of October, if there are for certain territories and states, there may be more regional specific recommendations from local health authorities, and if those are available, those should be followed.
+> 
+> ...
+> 
+> Jefferson Jones, CDC [00:50:32]
+> 
+> So there is no preferential recommendation. 
+> 
+> Caution should be urged when comparing the efficacy estimates of the maternal vaccine studies and the nirsevimab studies, as they were not head to head, they were different populations, different times of year, and most really importantly, is different outcomes.
+> 
+> While they both had medically attended RSV LRTI and RSV associated hospitalization, there were some differences. And then the trials for nirsevimab didn't have an equivalent severe RSV, which was the definition in the maternal vaccine. 
+> 
+> There is reason to believe that protection from nirsevimab may last longer, as the monoclonal antibody has been engineered to, in the constant portion of that antibody, to have a much prolonged halflife compared to standard antibodies that are passed through the placenta. So that is something that could be considered. Clinical judgment is always warranted. Clinician judgments should be shared with their patients when discussing.
+> 
+> But CDC and ACIP did not have-- make a preferential recommendation. 
+> 
+> I think most importantly is to say there are two options. All infants should be protected through one of these options. And both options should be considered at the time of pregnancy. 
+> 
+> And one thing I would add for those that are, I do know of people that look at the data and feel pretty confident that they, prefer under nirsevimab based on the levels of efficacy and the studies, and just there are issues with potential availability this season.
+> 
+> And so one thing just to consider is if declining the maternal vaccine in order to use nirsevimab for that infant, trying to confirm that nirsevimab will be available for that infant would be ideal.
+> 
+> ...
+> 
+> Jefferson Jones, CDC [00:53:24]
+> 
+> So both RhoGAM and other antibodies-- I mean, same thing has been asked, could nirsevimab interfere, could actually make it worse by giving nirsevimab after maternal RSV vaccine?
+> 
+> And because antibodies are targeting a specific antigen, RhoGAM would not be expected to interfere with the maternal, with any maternal vaccine, whether it's flu, COVID, Tdap, or RSV, as it's targeting a very different antigen than, and not targeting other antibodies. And the same would be for giving nirsevimab after maternal RSV vaccine that, it wouldn't be expected to interfere, because the antibodies target the virus specifically the, in the case of nirsevimab, the F protein and not other antibodies.
+
 ## California health department officials on COVID-19 vaccines
 
 - **Source:** [webinar](https://youtu.be/uoc_4fdO0vI) by California Department of Public Health
