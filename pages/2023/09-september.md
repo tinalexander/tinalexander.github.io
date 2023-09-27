@@ -17,6 +17,47 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 27, 2023
 
+## CDC director on health data issues
+
+- **Source:** [webcast](https://www.fbcinc.com/e/cdcga/) of CDC Health Data Innovation Summit
+- **Date:** broadcasted September 27, 2023
+
+> Mandy Cohen, CDC [00:01:22]
+> 
+> I'm a data gal at heart.
+> 
+> Data is the oxygen that powers our ability to detect and respond to threats. It's the entire mission of why the CDC exists, and it's such a critical asset for our country. 
+> 
+> And I'm super grateful to see so many friends out here and data leaders. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:03:55]
+> 
+> One of the first things I focused on here at CDC was honestly to change our mindset around data.
+> 
+> Unfortunately, and I've shared this at our all staff meeting, and so this is stuff I share with our team, I can't tell you how disappointed, how many times I've unfortunately heard the phrase, 'Well, that data is mine. Well, that's our center's data. That's our team's data.'
+> 
+> And they're very good data stewards, right. They work hard to collect that data. They know it inside and out better than anyone else.
+> 
+> But just because you are the collector or the steward of that data, it does not make it yours. Public health data is that critical national security asset that needs to be available, appropriately available, with context, it needs to be available as widely as possible to help us navigate the known and unknown future health challenges we face. 
+> 
+> And so I know our teams want that data to be explained in the highest degree and everyone to understand it, but we have to make it accessible to folks who don't have a background in data science, who don't have a background in public health that want to understand what's happening in their community so that they can make good, common sense decisions about how to protect themselves. 
+> 
+> That's what we need to do. And it's the challenge we face ahead. And so that starts here at CDC, but it's not, that is not the end of the story. This has to be a two way street. Just as CDC needs to move away from this data is mine mentality, so do all of our partners, whether it's our state partners, local governments, tribal authorities, you all have critical data. And I include our healthcare system in that.
+> 
+> That our nation needs to protect health beyond the borders of your health system, beyond the county, beyond the state, beyond the locality, we need to work together to figure out how to get that data to flow. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:07:39]
+> 
+> We need to get aligned in what we are doing in our approaches to this work. 
+> 
+> We cannot build one offs anymore. We are an integrated matrix, complex, messy, but importantly strong together asset. And we need to make sure that we are aligned in the overarching strategy, the priorities and the standards. 
+> 
+> So no more one offs, we're on one team, but it means we're gonna have to partner in different and better ways and that communication and that collaboration is starts here. 
+
 ## HHS official on impact of shutdown on Medicare drug price talks
 
 - **Source:** email from HHS official
