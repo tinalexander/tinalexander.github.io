@@ -17,6 +17,85 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 27, 2023
 
+## CDC officials discussing COVID-19 vaccines access
+
+- **Source:** partial recording of conference call by Centers for Disease Control and Prevention officials
+- **Date:** recorded September 27, 2023
+
+> CDC official [00:09:38]
+> 
+> Pharmacies are provided vaccine in a different way than public health clinics and infrastructure are.
+> 
+> Because pharmacies are receiving these donations through the reimbursement model, they have already ordered vaccines on the commercial marketplace, and are just being reimbursed for those that they use through the Bridge Access Program. 
+> 
+> It does mean there's not like a strict allotment number on any of these. And so, amount of vaccine that's donated in any particular pharmacy will will vary by demand in that particular pharmacy, and will not vary by some sort of formal assignment, because again of this reimbursement model approach.
+> 
+> It is possible if manufacturers, as at least one has already indicated they will do, if manufacturers continue to provide donated vaccine as long as there is demand for it, it's possible that we could see numbers continue to rise of donated vaccine on the pharmacy side. 
+> 
+> However, just to reinforce again, this is not an a limitless program. This is a finite program with finite resources and at some point CDC will no longer be able to reimburse the cost of administration. 
+> 
+> And so I don't think anyone should think of either of these sides as being unlimited, either the public health infrastructure or the pharmacy side of the Bridge Access Program. 
+> 
+> And I hope that the message that we can somehow take to our constituents from all this is don't wait to get your no cost COVID 19 vaccine. If you are an uninsured adult, go ahead and get that now at a location that is convenient for you.
+> 
+> ...
+> 
+> CDC official [00:13:42]
+> 
+> We've had an instance where, for example, people with Kaiser Permanente coverage go to a non Kaiser site and are told that either they need to go to a Kaiser pharmacy or just pay out of pocket for the vaccine. Those patients are not Bridge Access Program eligible. They do need to go to where they have coverage for their COVID 19 vaccine.
+> 
+> ...
+> 
+> CDC official [00:15:16]
+> 
+> Once we recognized that Novavax wasn't authorized, the new formulation wasn't authorized, on the 11th of September, I think what our planning assumption has really shifted toward end of September, beginning of October. 
+> 
+> So I don't actually have updates about when it will actually occur, but I'll just say that our planning assumptions are sort of looking toward end of this week, sometime next week, is when we think it might be likely that there'll be an authorization.
+> 
+> But I mean, I know you know, this is an, an FDA decision and we don't necessarily know the timing, but I just thought I would share what our planning assumptions are right now.
+> 
+> ...
+> 
+> CDC official [00:20:07]
+> 
+> There is no residency requirement. There is no citizenship requirement. There is no documentation requirement. This program is meant to serve adults who are uninsured or underinsured, regardless of their residency. 
+> 
+> ...
+> 
+> CDC official [00:22:58]
+> 
+> There is this very specific group of adults ages 18 exactly who could be eligible either for VFC or for Bridge. And so just wanna acknowledge that overlap. And we're kind of hoping, because of how limited the Bridge Access Program supply is, that providers with the option to use the VFC might consider using that. 
+> 
+> But again, we don't want to be directive. And we'll just note that there are these 18 year olds who could be eligible for both.
+> 
+> ...
+> 
+> CDC official [00:26:15]
+> 
+> In the retail pharmacy component of this program, our contracts stipulate that patients who walk in for example are just asked whether they have insurance or not.
+> 
+> It's not a, a prove that you do not sort of situation, there's no extensive documentation, it's intentionally designed to be a very simple, low energy, low time consuming process because we want to reduce those barriers. 
+> 
+> Now we also don't want to fall prey to fraud in the background. In other words, putting the burden on pharmacy systems, they will first try to do insurance discovery, but this is all after service provision. So we want there to be no barriers for the patient. And we want all of the burden to fall on the systems that we have constructed to sort this all out. 
+> 
+> And I think through this balance, we're going to achieve low burden to patient, while achieving a lot of security in our own system. 
+> 
+> So, and thus far it's working very well.
+> 
+> ...
+> 
+> CDC official [00:37:03]
+> 
+> That is currently the official end date of the program is December of 2024, or-- would you add anything else to that?
+> 
+> CDC official [00:37:13]
+> 
+> The only exception would be if uptake was better than expected and we ran through all available doses and funding prior to that point, it would effectively end prior to that point.
+> 
+> In no case will it be-- well not currently is it for foresee to exceed that point. 
+> 
+> So it's going to end by December 2024, regardless of what is used by that time. 
+
 ## FDA spokesperson in response to question about Ozempic
 
 - **Source:** email from Chanapa Tantibanchachai of the Food and Drug Administration
