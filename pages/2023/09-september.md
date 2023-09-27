@@ -17,7 +17,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 27, 2023
 
-## CDC director on health data issues
+## CDC officials at summit on public health data issues
 
 - **Source:** [webcast](https://www.fbcinc.com/e/cdcga/) of CDC Health Data Innovation Summit
 - **Date:** broadcasted September 27, 2023
