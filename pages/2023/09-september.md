@@ -17,6 +17,67 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 27, 2023
 
+## California health department officials on COVID-19 vaccines
+
+- **Source:** [webinar](https://youtu.be/uoc_4fdO0vI) by California Department of Public Health
+- **Date:** published September 22, 2023
+
+> Alan Hendrickson, California DPH [00:13:37]
+> 
+> Novavax, the old vaccine or non updated vaccine, continue to administer that.
+> 
+> What's up with Novavax? 
+> 
+> Just got an email this morning from our rep there. And, she said, there's still playing question and answer with the FDA. So hopefully there's a-- we will have updates for you early next week on where they are on that vaccine. 
+> 
+> Also on the Novavax, there was an error in the product guide, which we updated, thank you to April.
+> 
+> The BUD for those punctured vials is six, not 12 hours, I guess that was wishful thinking on my part. 
+> 
+> ...
+> 
+> Edward Salaguinto, California DPH [00:45:20]
+> 
+> To fill in the other gaps, eTrueNorth has enrolled other community pharmacies intended to reach lower access areas without other coverage. 
+> 
+> eTrueNorth is still actively trying to enroll more pharmacies. They did tell us that currently there's some legal reasons why they can't include some of the other larger chains. And that includes Rite Aid, the Kroger group, Albertson, Safeways, among others, even Walmart. So they couldn't tell us why, but smaller chains weren't excluded. So smaller chains are still trying to be outreached.
+> 
+> ...
+> 
+> Edward Salaguinto, California DPH [00:47:16]
+> 
+> Some of you may have noticed that that claims have been rejecting for Medi-Cal.
+> 
+> Medi-Cal is aware of this and all COVID 19 formulations are already added to the contract drug list, behind the scenes. 
+> 
+> But, back in January of last year, Medi-Cal contracted with a third party adjudicator, Magellan. Magellan is currently uploading those files and also Medi-Cal working on some of their-- just some of what they need to do behind the scenes. 
+> 
+> So hopefully this will start adjudicating properly sometime next week. But we've seen this like previously when other vaccines were introduced. 
+> 
+> There is a communication that DHCS issued late yesterday, and I just received this and it does explain all this.
+> 
+> ...
+> 
+> Maria Volk, California DPH [01:12:56]
+> 
+> I just wanted to talk about ordering for the BAP program for just a second, and our allocations. 
+> 
+> So I know we've shared that, in our communications, that we have received very limited allocations, especially for Pfizer. So we're doing our best to approve orders, but know that we have not been able, across all of the local health departments, to approve all of the orders that have come in. 
+> 
+> Just to give you a sense of the numbers, we got 4,500 doses of Pfizer and 35,000 doses of Moderna. So that Pfizer number is very, very small. 
+> 
+> We do know that CDC was meeting with Pfizer this week to try-- actually both the manufacturers to try and understand how doses are rolling out, what to expect for allocations, and the timelines. So we hope to have more information to share with you next week.
+> 
+> But just want to acknowledge that, especially on the Pfizer side, it's rolling out a little slow. I mean, we think that those doses should be available soon and we'll be able to replenish allocations and this will get easier. 
+> 
+> But I think as we all probably expected, a little bumpy coming out of the gate, with the doses that are available.
+> 
+> ...
+> 
+> Claudia Aguiluz, California DPH [01:14:43]
+> 
+> So we actually did open up ordering for VFC program providers early this week. So vaccines are now in your order form, you will see that orange segment in your order order form, and you would also see that Moderna for pediatric patients six months through five years, it is also available for ordering, we did receive supplies of that vaccine at McKesson. So just wanted to encourage providers to go ahead and place orders.
+
 ## CDC officials at summit on public health data issues
 
 - **Source:** [webcast](https://www.fbcinc.com/e/cdcga/) of CDC Health Data Innovation Summit
