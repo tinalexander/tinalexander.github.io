@@ -57,6 +57,82 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > We cannot build one offs anymore. We are an integrated matrix, complex, messy, but importantly strong together asset. And we need to make sure that we are aligned in the overarching strategy, the priorities and the standards. 
 > 
 > So no more one offs, we're on one team, but it means we're gonna have to partner in different and better ways and that communication and that collaboration is starts here. 
+> 
+> ...
+> 
+> Jennifer Layden, CDC [00:08:56]
+> 
+> As you look at this org structure, you'll see a couple things, that there are five divisions. Those are the five listed on the bottom. 
+> 
+> Those five divisions are focused around the core missions of public health. So we spoke to it and Dr. Cohen mentioned that as well, as we really wanted to emphasize the importance of what we're doing, what the data is serving. 
+> 
+> So the importance of public health to be able to monitor and detect threats, whether they're new threats, they're evolving threats, they're aberrations, and known chronic public health threats. We are not per se the office that is doing that monitoring detecting. We are enabling it to be done better across public health, whether it's at CDC or with our state, local, tribal, territorial partners.
+> 
+> Similarly, a core role of public health, investigating and responding. So how do we investigate and respond? How do we develop technology solutions to support the ability of our state and local partners to investigate and respond to public health threats?
+> 
+> And then our responsibility to inform and disseminate, get data and information out there to different audiences in using different and evolving and emerging ways to get that data and information out there. 
+> 
+> So our structure was really aligned to the mission. What is the mission that we within public health need to do, and then structure our org structure to enable us and to really emphasize the importance of not just the data, but the technology that we are prioritizing and building. 
+> 
+> You'll see, importantly, that there is a division on platforms and we'll have our platform lead to talk about that, as well as on data policy and standards. 
+> 
+> ...
+> 
+> Matthew Ritche, CDC [00:29:58]
+> 
+> Our actionable data branch is really focused on how do we leverage data, get it positioned and analyzed in a way that helps inform action. 
+> 
+> Our sister branch is our dissemination technology and services branch. This then takes it that last mile. It then says, 'okay, we have actionable data, actionable data products that have been developed, whether within our own specific division or by other divisions within our office, or even across the agency. And how do we position that for different audiences so that it actually is meaningful that we actually meet the mark? We communicate what we think needs to be communicated to inform people's behaviors, or at least hopefully informs their behaviors?'
+> 
+> So a big part of that right now is our support of the respiratory viruses response. 
+> 
+> So it's a center-led response center at our agency looking at a pan respiratory model, as far as not looking just at COVID, not just at flu, not just at RSV or other respiratory diseases, but how do we look at them collectively, but then also be able to bridge into information that's specific to each one of those condition types. 
+> 
+> So our division has been very invested in helping support this overall response, and we're supporting the response to get kind of to achieve that mission, but we also have a bigger agency mission in mind as well. So that bigger mission for the agency is not just like, 'Hey, we have one specific response that we need to be able to share information out about,' but how do we create enduring capabilities that the agency that allows us to lift and apply to future responses, future other programmatic efforts, especially when those programmatic efforts require a lot of coordination across different groups at our agency.
+> 
+> ...
+> 
+> Matthew Ritche, CDC [00:31:40]
+> 
+> So one of the big efforts that we're doing right now in the dissemination side is a project that we're calling Sapphire. And what Sapphire stands for is Sharing Ationable Public Health Information in a Responsive Environment. 
+> 
+> So a big idea about this is how do we package information, put it out for public display, whether on our website or other mediums or other platforms, and again, making it responsive to the end user. So a big part of that, and Michael mentioned it earlier, is this idea of human center design. And that's a big component of what we're working into specifically this branche's activities.
+> 
+> How do we involve the intended end user, the audience, into the design process? It could be a program. It could be somebody in the general public. It could be some of our other partners.
+> 
+> How do we from the get go bring them into that design process so that when we get to that final product, they've been a part of that from the get go and it meets the need for them. 
+> 
+> So that's been a big part of what we're doing for the respiratory virus response and ultimately what we're trying to build again, as an enduring capability, for the agency. 
+> 
+> ...
+> 
+> Michael Radwin, CDC [00:43:03]
+> 
+> I'm new to government and I will confess that I am a little frustrated with in fact just how waterfall things are. 
+> 
+> We have teams that are Agile teams using either Scrum or Kanban, two of the really popular Agile methodologies, but instead of shipping software every two weeks or actually multiple times a day, which is sort of what I'm used to, we're a little slower on the shipping and part of the problem has to do with what I would call central central and cloud hosting versus distributing software through sort of older mechanisms. 
+> 
+> So part one is how do we move away from packaging up software used to be that we would put things on CDs or DVDs, like burned software on and then sell it at Costco or Walmart other places, and then you'd go and install it, and we're actually still doing that quite a bit with public health software. 
+> 
+> When you think about case surveillance systems, whether it's MBS, which we develop, or it's it's Epi-Tracks or it's Maven or Clinisys or some of the other systems that are there, they're packaged software. And actually really the model we need to move to is hosted software.
+> 
+> And we've done some of these, there's some good examples of this. I think things like the AIMS platform and ReportStream, these intermediaries that do routing, really, really excellent example of cloud based centralized software. And it's--  that's how modern software at companies like Jorge and I worked at before. That's how we developed software. 
+> 
+> You have the same team that is engineering the software is actually hosting it, and there's just a lot more cost efficiency there. A lot more agility as data volumes surge, it's very easy to scale up, because of these sort of elastic computing environments and just the overall operations cost, instead of having 15 or 20 or 64 copies of the software running, you really have one copy of the software running and that gives you some economy of scale. 
+> 
+> The second thing I'll say, and then I'll let others chime in, is around what an approach we use called Strangler Fig, which is a funny name. 
+> 
+> There's a tree that occurs in nature where there's a living tree. And then there's this like a fig tree that kind of grows around the original tree. And that's the-- that's a metaphor for what we do with modernizing systems in a way that delivers incremental value. 
+> 
+> So what, if you go heads down and spend a year or three in a very waterfall way, trying to build a new version of whatever it is that you're trying to do, then you aren't delivering any value to the end user incrementally. 
+> 
+> The Strangler Fig approach says we're going to use, we're going to build an entirely new version of software, sort of on the side. And we're gonna put a router, a proxy, a widget in front that at first sends a hundred percent of the traffic or the request to the old thing. But over time as we build up new functionality, week by week, day by day, then a greater percentage of the product gets served out of the new modernized system. 
+> 
+> And eventually over time, much like the strangler fig itself actually sort of becomes the new tree, the new modernized application becomes the primary thing. And then you can eventually shut down the old app. 
+> 
+> It actually takes longer, I think, to develop software in this way and that using this Strangler Fig approach, because you have to keep the old version and the new version running simultaneously, however, it's, I believe the best way to deliver incremental value to the users without breaking anything. 
+> 
+> And so you can-- we can ship these incremental updates along the way. 
 
 ## HHS official on impact of shutdown on Medicare drug price talks
 
