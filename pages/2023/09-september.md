@@ -15,6 +15,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 27, 2023
+
+## HHS official on impact of shutdown on Medicare drug price talks
+
+- **Source:** email from HHS official
+- **Date:** received September 26, 2023
+
+> Please see below on background:
+>  
+> The Secretary was noting that while core staff will still be working towards meeting the milestones laid out in the Inflation Reduction Act on the negotiations over the top ten Medicare drug prices, support and many career staff across CMS will be furloughed. Shutdowns are disruptive and distracting, making it difficult for agencies to deliver for the American people at the same pace—even for programs with available funding—given how much time and attention must go to managing the impacts of a shutdown.
+
 # September 25, 2023
 
 ## CDC officials and NVAC members on fall respiratory virus season
