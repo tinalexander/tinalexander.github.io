@@ -17,6 +17,75 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # September 28, 2023
 
+## CDC director on vaccines for fall respiratory season
+
+- **Source:** [webcast](https://www.nfid.org/news-updates/media-resources/news-conferences/2023-nfid-annual-news-conference-preventing-disease-this-fall-and-winter/) of National Foundation for Infectious Diseases press conference
+- **Date:** broadcasted September 28, 2023
+
+> Mandy Cohen, CDC [00:28:35]
+> 
+> The good news here is that we have effective ways to protect ourselves from the worst outcomes of all of these respiratory illnesses. 
+> 
+> Everyone six months and up should be getting their annual flu shot and the updated COVID vaccine, pregnant women, adults over 60, should be getting the RSV vaccine. Babies should be getting the updated-- the new immunization for RSV. That should become available in the October timeframe. 
+> 
+> So look, we have lots of tools, but I'll just close again as a-- not just the CDC director, but as a mom, as a wife, as a daughter, I wouldn't recommend something for the American people that I wouldn't recommend to my own family. 
+> 
+> That's why my 9 and 11 year old daughters are going to be getting their flu shot. They're getting their updated COVID vaccine. My husband's getting vaccinated. I already got my flu vaccine. I plan to get my updated COVID vaccine. My parents, again, getting vaccinated. 
+> 
+> So I want to encourage everyone to join me in taking the time out of their schedule to protect themselves. It's exciting we have these tools, we need to use them. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:47:25]
+> 
+> The first question on when is right now. I think that's why we're having the event. 
+> 
+> We usually see the start of flu season, and as I already said, we're already seeing an uptick in RSV cases, starting now.
+> 
+> We know on the COVID side that we have been having an increase in hospitalizations and cases. We had a late summer wave that we do actually see some declines in our hospitalizations in COVID, but we fully expect, based on what we've seen in previous years, that we're going to see an increase in COVID as well. 
+> 
+> So right now is the right time to be getting folks vaccinated, September and October, is that right time. So make a plan to do it. 
+> 
+> And I would say, yes, get your vaccine at the same time, one appointment one and done, COVID and flu at the same time. 
+> 
+> Again, those two vaccines are for anyone over the age of six months. For RSV, those are for particular populations. If you're over 60, RSV vaccine for you. 
+> 
+> The maternal vaccine, for RSV, was just recommended at the end of last week. So that is still starting to ship up out and be available. The immunization for babies is going to be available from the manufacturer in October. 
+> 
+> So those are still ones that are rolling out, but for older adults, the RSV vaccine is available. You can get it now you can get them all on the same day. 
+> 
+> Again is really your preference in terms of convenience.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:49:25]
+> 
+> On the shared decision making, the way that CDC made the recommendation was to have folks have a conversation with their doctor, their nurse practitioner, their pharmacist about the vaccine. And so, we frankly know that happens with most vaccines anyway, so I think this is, in certain places, we are seeing that there are certain requirements that are being put on. 
+> 
+> So for example, here in the state of Georgia, the way they've interpreted that is for you to have a prescription for the vaccine. But that's only in a few places. 
+> 
+> Most of this is just a conversation so that folks can understand the vaccine again, because it is newer, that folks wanted I think the opportunity for folks to understand that vaccine and talk about it with someone. But frankly we know that that's what happens across all vaccines. 
+> 
+> So we encourage folks again, that's why we're here sharing this information, so you can go in with the best information to protect yourself.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:58:07]
+> 
+> We're about two weeks into having the new updated COVID vaccine, and it is a different process this year. 
+> 
+> So previous years this was-- the vaccine was purchased by the federal government and then distributed by one entity. Now we're sort of going back to what I'd call the normal course of business, the same way that flu vaccines are distributed, is the way these new updated COVID vaccines. 
+> 
+> So it means that individual providers need to order them, the manufacturers and distributors need to ship them, and in ordering them, they purchase those vaccines. So again, it's just a different process than we've done the last couple of years.
+> 
+> We do know that our manufacturers and distributors were getting out the adult vaccines first. So that was what was shipping, in the first number of days. And now they are shipping pediatric vaccine. We know pediatric vaccine has shipped. 
+> 
+> We are seeing that shipped particularly to our Vaccine for Children program sites. Those are the sites where children and their families can get free COVID vaccines through that program. 
+> 
+> So we know that it's shipping. We know that they were shipping adult vaccine first and now pediatric vaccine. 
+> 
+> So what I would say is that the supply is filling out, and make sure that you're calling ahead to your pediatrician or your local pharmacy to see if the vaccine is available. And if not, check back again.
+
 ## Novo Nordisk statement on Ozempic and ileus
 
 - **Source:** email from a Novo Nordisk spokesperson
