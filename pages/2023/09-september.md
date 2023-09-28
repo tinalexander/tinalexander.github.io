@@ -15,6 +15,21 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 28, 2023
+
+## Novo Nordisk statement on Ozempic and ileus
+
+- **Source:** email from a Novo Nordisk spokesperson
+- **Date:** received September 28, 2023
+
+> Please see our statement below. Appreciate you updating your story.
+> 
+> “At Novo Nordisk, patient safety is a top priority. We work closely with the U.S. Food and Drug Administration ("FDA") to continuously monitor the safety profile of our medicines. On September 22, 2023, FDA approved a label update for Ozempic® that added the term ‘ileus’ to the Postmarketing Experience section of the product labeling. Ileus is a gastrointestinal reaction that was reported in the post-marketing setting with Ozempic® and with other glucagon-like peptide 1 (GLP-1) receptor agonists.
+> 
+> Novo Nordisk stands behind the safety and efficacy of Ozempic® and all of our medicines when used consistent with the product labeling and the approved indications. For Ozempic®, the most commonly reported side effects include: nausea, vomiting, diarrhea, stomach (abdominal) pain, and constipation.  
+> 
+> Full prescribing information for Ozempic® is available here.”
+
 # September 27, 2023
 
 ## CDC officials discussing COVID-19 vaccines access
