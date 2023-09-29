@@ -15,6 +15,132 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# September 29, 2023
+
+## CDC officials on changes to pan-respiratory data website
+
+- **Source:** [webcast](https://cdcga.fbcevent.com/agenda?dates=1695859200000) of Health Data Innovation Summit by CDC Foundation
+- **Date:** broadcasted September 28, 2023
+
+> Matthew Ritchey, CDC [00:26:10]
+> 
+> So what we're working is, right now, leveraging our DCIPHER and our PROTECT platforms as our main common operating platform. 
+> 
+> And what this does is helps us integrate the data from multiple programs, knowing that we have things coming in, like in the hospital side, things that are naturally coming in from our NCIRD programs and various other places, all bring it together and synchronizing it in one place so that we can make it available for consistent use. So that's a big effort that's underway right now, and being leveraged specifically for the RVR work.
+> 
+> In that too, we also have a system called CDC Ready, which retrieves the data from DCIPHER and the PROTECT platforms and provides, again, that last mile delivery to our web content management system, to data.cdc.gov, to really help advance our efforts in being fully data transparent and then provides other outputs needed for reporting visualization and dissemination. 
+> 
+> So again, it's leveraging that common operating platform to help inform the overall common operating picture on the data visualization tools, kind of place in products. Again, it's this idea about what does that common operating picture look like for this response.
+> 
+> That we're really trying to take it and scale it and make sure it's available in an enduring way for other future responses, as well as future respiratory seasons, knowing that this is not going to be the only respiratory season, it is an annual thing. 
+> 
+> ...
+> 
+> Matthew Ritchey, CDC [00:32:11]
+> 
+> We're capitalizing on a model that was kind of started to really kind of gain a lot of steam during the COVID response was this idea. 
+> 
+> We had a COVID update, so a product that we would use from our common operating picture and populate, and then send it out to our USG partners, kind of what is the current situational awareness around COVID, we're repurposing that model, expanding it now for multiple respiratory diseases, as far as in this pan respiratory model and having this weekly respiratory virus update again, leveraging all the data, the same systems, that modular data products that we're using for other purposes, but then specifically packaged for our USG partners. 
+> 
+> And then finally, as this idea, that's integrated offering at the bottom, and this is our website and what we're working towards launching, we've already made some gains here early in September. We're working to make further enhancements to this web offering. 
+> 
+> So again, trying to create that kind of vertical stack, but also the horizontal wrapper, to bring a lot of the important information specifically for respiratory viruses together in one place. 
+> 
+> 
+> ...
+> 
+> Matthew Ritchey, CDC [00:33:08]
+> 
+> So walking through that strategy, just to kind of give you an idea of where we're trying to move here is this kind of three level approach or three level strategy, level one, two and three. 
+> 
+> So for level one, for respiratory viruses in particular, this is its initial landing page. We did a soft launch of this early in September on the sixth. And the idea that this is more of a communications tool. Again, if you think of that, that vertical stack, it's that top part, that entry level for someone to come into our website or whatnot and say, 'I want a little bit of data tell me like the most important thing, but then link it to some other guidance, tools, prevention, things of that nature. 
+> 
+> So that's what was launched on the sixth, the first iteration of that, we're going to be continuing to iterate on that to make it more and more meaningful to the public as they kind of had that initial interface with our website around respiratory viruses.
+> 
+> ...
+> 
+> Matthew Ritchey, CDC [00:33:51]
+> 
+> Next is what I really want to focus on today is that level two. And what level two is that wrapper. Knowing that we have a lot of really important things at our agency around pan-respiratory, but we also know there's an opportunity there to sync up some of that information, put the three different conditions in context of each other, so the end user can say, 'okay, overall, what does respiratory virus activity look like in the country? What does severity look like? Who is most impacted overall?' 
+> 
+> And then if they wanna continue to go on create that wrapper into the level three, and the level three are all those other products that are already on our website, the COVID data trackers, a lot of the great flu products, some of the RSV products, how do we then create those linkages into those to makes again for a coherent journey for the end user? 
+> 
+> ...
+> 
+> Matthew Ritchey, CDC [00:34:36]
+> 
+> So for level one, again, this is what was launched the beginning of this month on September 9th. Again, it's a little bit of a data snapshot right now. We're leveraging our emergency department data, looking at trends for the three different conditions individually combined, so it kind of gives you a quick snapshot on, 'Hey, are we-- which direction are we going? What's the overall burden?'
+> 
+> Again, we're looking to continue to improve how this interface looks, but then again, also in that level, one space is this idea of linking the data then to action. And these are some of the, you know, understanding, okay, who is, what is my risk factor profile, or do I have people around me, my loved ones, that have coexisting medical conditions and things like that. And then how do we tie guidance to those collectively for respiratory disease at large, knowing that there's some specific guidance that are tied to the specific conditions for COVID, influenza, RSV. So that's level one.
+> 
+> For level two, is this idea about again, pulling it all together? Okay. What does respiratory disease look like overall from a data perspective? 
+> 
+> So in that way that we're trying to do this are more data stories, right? It's not dashboards, but data stories. So you'd have a story, you have to kind of have like, what's the hook, right? And the hook in these data stories are the surveillance questions, the key surveillance questions, some of the ones that we're working on answering right now are, how bad is it? Where is it bad? Is it getting worse? And why? Are we seeing more severe disease? And if so, what's driving that? Who's at most at risk and how much burden is pleading placed on hospitals?
+> 
+> So those are some of the surveillance questions that we're addressing right now. 
+> 
+> ...
+> 
+> Matthew Ritchey, CDC [00:36:04]
+> 
+> So again, in that kind of the layout of what the website's going to be looking like as we go to launch here hopefully soon, is that we have a kind of a key visualization. This is one that you already saw, but up in the upper left hand side where people can kind of quickly discern kind of what's the main take home. We have then that interpretation layer in the upper right hand side to say, 'okay, what should you know about these data or other data that are pertinent to this overall story?' 
+> 
+> And then finally we have these idea of data journeys in the bottom right hand corner, the number three here. And I'm gonna walk through a couple of those right now. 
+> 
+> So in this first phase of our release, around the RVR data, in the data journey space, kind of in the center part of this, we want to focus on kind of what are the respiratory activity levels, what does severity look like, who are the groups most impacted and then hospital occupancy. 
+> 
+> We're also exploring other journeys as we kind of roll this out, knowing that we know this is gonna be iterative in nature. So things like vaccine data, things of that nature. 
+> 
+> And then what we've done is mapped a lot of those primary data assets that Adi kind of mentioned in that first slide to these different data journeys, to these surveillance questions so that we can effectively package them and tell that story to the American public. 
+> 
+> ...
+> 
+> Ian Williams, CDC [00:52:53]
+> 
+> So the system that Dr Ritchey described to you here is really building on lessons that we learned, hard lessons that we learned both in COVID and then in subsequent responses like mpox.
+> 
+> I'm really trying to build the next generation of what a common operational picture, focusing on situational awareness data will look like. 
+> 
+> And to really take a couple of steps back here, thinking about this common operational picture during public health emergencies at large, is to really bring together sort of in near real time from across the entire public health information, the data you need to make decisions. 
+> 
+> This is information on tests, cases, testing, emergency room visits, healthcare system capacity, things like hospital admissions, ICU admissions, bed availability, mortality, other essential information like vaccine availability, administration of vaccines, or other therapeutics and diagnostic testing, having that essentially in one place in real time, so that we can do it.
+> 
+> ...
+> 
+> Ian Williams, CDC [00:53:48]
+> 
+> Really the important underlying piece here, and the thing that really became clear to me during COVID, is really this idea of a source of truth around this data. 
+> 
+> So how many cases are there today? And really sort of building pipelines and systems so that we can all agree on. 
+> 
+> This is the number of cases and how we derived and got to that number of cases for this day. And really the idea here is this information needs to be able to be shared sort of across the entire public health enterprise so that we are transparent about where our data come from, how it becomes shared. 
+> 
+> So really the idea is to develop and formalize and institutionalize sort of these base systems that that Matt Ritchey described here, and really like make sure that we're clear on our data and data pipelines and that these pipelines are in place all the time, and we're not developing them for each individual response, which has been sort of the tradition here at CDC, is every new response is a new day for us and we're rebuilding these over and over again. 
+> 
+> So it's really important to make sure we have these and that this system that we're building has flexibility to bring in new data and to integrate new data sources when we need it to sort of add and enrich the data that we have in front of us.
+> 
+> ...
+> 
+> Matthew Ritchey, CDC [01:21:16]
+> 
+> I think it's the more, the, not the better, but is it good enough? 
+> 
+> Because I think when you get to better, it also is a slippery slope. And I think that gets us into bespoke systems and things like that, because you're like, 'oh, we could do this a little bit better to answer this one question.' And it leads us down that pipeline, that path. And we know at the end of the day that doesn't work for public health, right? It leads us in all the problems that were talked about through our colleague with the American Hospital Association, things like that. 
+> 
+> So it's about the multipurpose nature of it. And then in that, what's good enough. And then how does it meet the timeliness needs and things that really help address the so what questions right. And how do we map that out ahead of time? Not in the moment. 
+> 
+> Because when you're in the moment, then MacGyver comes in and then you're like just trying to piece it all together, right? So how do we try to get out ahead of it more and more, and actually that's what we're using this respiratory virus response for really in a lot of ways.
+> 
+> It's a response that's not a response. 
+> 
+> Because I mean, right now we know that levels are not very high right now. We know they could be high, we could have another tripledemic, but it's a really good moment to, while we're like really in a concerted effort, bring these things together and be a little bit more thoughtful, instead of being in the moment of, 'oh my gosh, we're in a tripledemic right now, now what do we do?'
+> 
+> So we're trying to balance it a little bit there.
+
+![screenshot of PowerPoint presentation about CDC's respiratory diseases website](https://tinalexander.github.io/notes/attachments/2023-09-29_cdc_pan-respiratory-presentation-matthew-ritchey-1.png)
+
+![screenshot of PowerPoint presentation about CDC's respiratory diseases website](https://tinalexander.github.io/notes/attachments/2023-09-29_cdc_pan-respiratory-presentation-matthew-ritchey-2.png)
+
 # September 28, 2023
 
 ## CDC director on vaccines for fall respiratory season
