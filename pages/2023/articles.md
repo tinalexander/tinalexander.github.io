@@ -10,11 +10,31 @@ nav_order: 0
 
 Here are some articles I've worked on for 2023. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
+# October 2023
+
+- [FDA investigating baby's death linked to probiotic given by hospital](https://www.cbsnews.com/news/fda-warning-probiotics-preterm-infant-death-linked-evivo/)
+- [In a first, CDC to recommend antibiotic pill after sex for some](https://www.cbsnews.com/news/cdc-antibiotic-pill-after-sex-prevent-stds/)
+
+# September 2023
+
+- [FDA updates Ozempic label with potential blocked intestines side effect](https://www.cbsnews.com/news/ozempic-wegovy-possible-side-effect-blocked-intestines-fda-label/)
+- [COVID vaccine during pregnancy still helps protect newborns, CDC finds](https://www.cbsnews.com/news/covid-vaccine-pregnancy-protects-newborn-babies-cdc-study/)
+- [How to get the new COVID vaccine for free, with or without insurance](https://www.cbsnews.com/news/new-covid-vaccine-free-with-without-insurance/)
+- [CDC to avoid "scare tactic" in new effort to reset flu shot expectations](https://www.cbsnews.com/news/cdc-to-avoid-scare-tactic-flu-shot-expectations/)
+- [Free COVID test kits are back. Here's how to get them.](https://www.cbsnews.com/news/free-covid-tests-how-to-order-online/)
+- [How FDA's top vaccines official is timing his COVID booster and flu shot for fall 2023](https://www.cbsnews.com/news/covid-vacccine-booster-flu-shot-for-fall-2023-fda/)
+- [FDA declines to approve Neffy epinephrine nasal spray for severe allergic reactions](https://www.cbsnews.com/news/fda-rejects-neffy-epinephrine-nasal-spray-needle-free-epipen-allergic-reactions/)
+- [New COVID variant BA.2.86 spotted in 10 states, though highly mutated strain remains rare](https://www.cbsnews.com/news/new-covid-variant-ba-2-86-more-states/)
+- [Why officials aren't calling this year's new COVID shots "boosters"](https://www.cbsnews.com/news/new-covid-vaccine-shots-booster-2023/)
+- [New COVID vaccine and booster shots for this fall to be available by mid-September](https://www.cbsnews.com/news/covid-vaccine-booster-xbb-variants-september-2023/)
+- [Why the CDC recommends everyone get the new COVID vaccine booster for fall 2023](https://www.cbsnews.com/news/new-covid-vaccine-fall-2023-cdc-recommendations/)
+- [FDA and CDC sign off on new COVID vaccines. Here's what to know](https://www.cbsnews.com/news/new-covid-vaccine-boosters-fda-price-variants/) 
+
 # August 2023
 
 - [Should I get a COVID shot? CDC warns most should wait for September](https://www.cbsnews.com/news/should-i-get-a-covid-shot-cdc-warns-most-should-wait-for-september/)
 - [As schools resume, CDC reports new rise in COVID emergency room visits from adolescents](https://www.cbsnews.com/news/cdc-reports-new-rise-covid-er-visits-adolescents-as-schools-resume/)
-- [New COVID variant BA.2.86 spreading in the U.S. in August 2023. Here are key facts experts want you to know.](https://www.cbsnews.com/news/new-covid-variant-ba286-2023-what-to-know-experts/)
+- [New COVID variant BA.2.86 in at least 4 states — what to know about the highly mutated strain](https://www.cbsnews.com/news/new-covid-variant-ba286-2023-what-to-know-experts/)
 - [COVID hospitalizations climb 22% this week — and the CDC predicts further increases](https://www.cbsnews.com/news/covid-hospitalizations-spike-22-percent-cdc-predicts-increase-new-variants-2023/)
 - [New COVID variants EG.5, FL.1.5.1 and BA.2.86 are spreading. Here's what to know.](https://www.cbsnews.com/news/new-covid-2023-variant-eg5-strain-what-to-know/)
 - [FDA approves first RSV vaccine for pregnancy to protect newborns](https://www.cbsnews.com/news/fda-approves-rsv-vaccine-pregnant-women-protect-newborns-pfizer-abrysvo/)
