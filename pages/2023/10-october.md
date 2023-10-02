@@ -22,6 +22,10 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** email from spokesperson at Leidar on behalf of Infinant Health
 - **Date:** received October 2, 2023
 
+> I’m reaching out on behalf of Infinant Health regarding your recently published article. Please see below for an official statement from the company, which can be attributed to “An official spokesperson for Infinant Health.” If you could please confirm receipt of this email, it would be greatly appreciated.
+> 
+> Official Statement from Infinant Health
+> 
 > “At Infinant Health consumer and patient safety is our top priority. Our products are manufactured to high standards of safety and quality to deliver important nutritional benefits for full term infants.
 > 
 > Through ongoing discussions with the US Food and Drug Administration, we have agreed to stop shipping and voluntarily recall our probiotic Evivo with MCT Oil. That product was used by healthcare professionals in hospital settings, including neonatal care for preterm infants. FDA recently issued a warning letter objecting to the use of Evivo with MCT Oil and all other probiotics in preterm infants. We have notified medical practitioners and hospitals of our recall and the FDA warning letter.
