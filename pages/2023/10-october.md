@@ -15,6 +15,35 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 3, 2023
+
+## From a Novavax spokesperson regarding updated COVID-19 vaccine
+
+- **Source:** emails from a Novavax spokesperson
+- **Date:** received October 3, 2023
+
+> For attribution to Novavax:
+> 
+> Today, the U.S. FDA authorized the first and only protein-based non-mRNA updated COVID-19 vaccine for use in people aged 12 years and older, developed by Novavax, using traditional vaccine technology. This adds a second technology option to the country’s public health arsenal to help protect individuals and their families against the XBB variant this fall. Novavax expects doses will be available in thousands of locations in the U.S., across pharmacies, physician offices and public health clinics, as well as through government entities including the Bridge Access Program and Vaccines for Children, in the coming days.
+> 
+> Now that EUA has been received, Novavax anticipates the U.S. Centers for Disease Control and Prevention (CDC) will issue updated recommendations for use of Novavax’s vaccine imminently. 
+> 
+> John Jacobs, President and Chief Executive Officer, Novavax, said: “COVID-19 is once again on the rise with infections and hospitalizations increasing, so it’s important that individuals get vaccinated to protect themselves and their loved ones. Novavax’s authorization today means people will now have the choice of a protein-based non-MRNA option to help protect themselves against COVID-19, which is now the fourth leading cause of death in the U.S. In the coming days, individuals in the U.S. can go to major pharmacies, physicians’ offices, clinics and various government entities to receive an updated Novavax vaccine.” 
+> 
+> More information on availability can be found at us.novavaxcovidvaccine.com or vaccines.gov. Press release to follow.
+> 
+> ...
+> 
+> Please find below our responses and for attribution to Novavax.
+> 
+> When will the first Novavax vaccines be available for vaccinators? How many doses is Novavax planning to distribute this week?
+>
+> Millions of doses of Novavax’s vaccine have been in U.S. warehouses since September 11. Now that we have EUA, we await CBER batch release which is anticipated in the coming days. Once batches are released, we will immediately ship and are working to have product on shelves and ready for administration immediately, pending the timing of the dose release.
+> 
+> Since mid-September, when the other updated COVID vaccines were greenlighted, what were the additional issues Novavax needed to address with FDA for its EUA?
+>
+> Novavax worked closely with the FDA on this EUA to ensure that a protein-based option is part of the fall vaccine offering. Doses of Novavax’s COVID-19 Vaccine, Adjuvanted (2023-2024 Formula) arrived in U.S. warehouses September 11 as planned and are ready to ship to customers following CBER batch release.
+ 
 # October 2, 2023
 
 ## Official statement from Infinant Health
