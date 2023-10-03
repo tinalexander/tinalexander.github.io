@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 3, 2023
 
+## From an FDA spokesperson regarding Novavax's updated COVID-19 vaccine
+
+- **Source:** email from Cherie Duvall-Jones of the Food and Drug Administration
+- **Date:** received October 3, 2023
+
+> This action was based on the submission made to the agency by the vaccine manufacturer. Questions about the application may be directed to the company.
+
 ## From a Novavax spokesperson regarding updated COVID-19 vaccine
 
 - **Source:** emails from a Novavax spokesperson
