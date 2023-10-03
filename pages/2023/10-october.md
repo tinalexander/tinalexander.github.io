@@ -17,13 +17,6 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 3, 2023
 
-## From an FDA spokesperson regarding Novavax's updated COVID-19 vaccine
-
-- **Source:** email from Cherie Duvall-Jones of the Food and Drug Administration
-- **Date:** received October 3, 2023
-
-> This action was based on the submission made to the agency by the vaccine manufacturer. Questions about the application may be directed to the company.
-
 ## From a Novavax spokesperson regarding updated COVID-19 vaccine
 
 - **Source:** emails from a Novavax spokesperson
@@ -50,6 +43,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > Since mid-September, when the other updated COVID vaccines were greenlighted, what were the additional issues Novavax needed to address with FDA for its EUA?
 >
 > Novavax worked closely with the FDA on this EUA to ensure that a protein-based option is part of the fall vaccine offering. Doses of Novavax’s COVID-19 Vaccine, Adjuvanted (2023-2024 Formula) arrived in U.S. warehouses September 11 as planned and are ready to ship to customers following CBER batch release.
+
+## From an FDA spokesperson regarding Novavax's updated COVID-19 vaccine
+
+- **Source:** email from Cherie Duvall-Jones of the Food and Drug Administration
+- **Date:** received October 3, 2023
+
+> This action was based on the submission made to the agency by the vaccine manufacturer. Questions about the application may be directed to the company.
  
 # October 2, 2023
 
