@@ -58,7 +58,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > So one of-- a couple questions that we've been getting a lot, so I wanted to just go through this here.
 > 
-> First is, can I borrow between VFC and private immunization stock? And the short answer is yes, we don't want to miss an opportunity to offer a vaccine to someone. So bidirectional borrowing is okay. We, you know, we want make sure if you borrow, that means you're going to pay back, right? But it is allowed, but it should try you try to not be the rule, but you can do it. 
+> First is, can I borrow between VFC and private immunization stock? And the short answer is yes, we don't want to miss an opportunity to offer a vaccine to someone. So bidirectional borrowing is okay. We, you know, we want make sure if you borrow, that means you're going to pay back, right? But it is allowed, but it should try to not be the rule, but you can do it. 
 > 
 > ...
 > 
