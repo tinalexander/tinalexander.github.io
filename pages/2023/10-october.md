@@ -311,7 +311,10 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > Demetre Daskalakis, CDC [01:13:57]
 > 
 > So, at this time we don't foresee that there's going to be a change in the isolation recommendations. 
-
+> 
+> ...
+>
+> ![Sample Social Media Post](https://tinalexander.github.io/notes/attachments/2023-10-04_cdc_sample-social-media-post.png)
 
 ## CDC director's remarks at briefing on fall respiratory virus season
 
