@@ -17,7 +17,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 4, 2023
 
-## From a briefing with CDC officials on the fall respiratory virus season
+## CDC director's opening remarks at briefing on fall respiratory virus season
 
 - **Source:** briefing hosted by the Centers for Disease Control and Prevention
 - **Date:** broadcasted October 4, 2023
