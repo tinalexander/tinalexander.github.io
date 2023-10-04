@@ -15,6 +15,41 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 4, 2023
+
+## From a briefing with CDC officials on the fall respiratory virus season
+
+- **Source:** briefing hosted by the Centers for Disease Control and Prevention
+- **Date:** broadcasted October 4, 2023
+
+> Mandy Cohen, CDC [00:05:12]
+> 
+> We're just a few weeks into having the updated COVID vaccine, but already 4 million Americans have rolled up their sleeves in September and are better protected from COVID. That's pretty much on par with last fall's vaccination campaign. 
+> 
+> We know that more than 10 million vaccines have shipped to pharmacies and other locations. And we know that Americans, now, 90% of them at least are within five miles of a vaccine site. So that's all really good news. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:05:40]
+> 
+> We also have other tools to protect ourselves like tests. And we know that 42 million people have already ordered their free tests from COVID Tests dot gov, and they're already shipping to households around the country. So that's great news.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:07:02]
+> 
+> Too often, we are sacrificing understanding for precision. So we really need to continue to strive to simplify our guidance. And that is work we need to do both at the CDC, but we need your help in that to provide clear actions that people can take. 
+> 
+> So the top line message you're gonna hear over and over today and beyond is this.
+> 
+> The most effective way to protect yourself from the worst outcomes of this season's viruses is to get your fall vaccines. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:09:34]
+> 
+> Equitable access to free COVID 19 vaccines going to be more challenging this season, now that the federal government doesn't manage the whole process. Those are our realities and we have to be transparent about it, but we also have to work to address those challenges, using data and best practices and opportunities like this to build relationships with you, those who are working with our communities across the country. 
+
 # October 3, 2023
 
 ## From a Novavax spokesperson regarding updated COVID-19 vaccine
