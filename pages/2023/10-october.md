@@ -19,7 +19,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 ## CDC officials at AAP webinar on fall respiratory virus season
 
-- **Source:** webinar hosted by the American Academy of Pediatrics
+- **Source:** [webinar](https://aap.webex.com/webappng/sites/aap/meeting/info/d4c1a3ad4cb54afe9fc82cea8b4f8124?siteurl=aap&MTID=m074ba07331b98817fcb921d9601a4ee9&meetingAuthToken=QUhTSwAAAAYAp4KEezhu1D7z%2FDRh5nseKIZntsJ9WpoTNCK723oWqvzSA20LAJT1OtGQaFLeENqqDlpxD98yFna5KenmEcSi5j3MSBDhWMS4%2B%2FA6b%2FydLPexkSFzuihzj9jyMAS8R3WLacyCpMpwzDBHeeu2RYYJ0psoscl%2BYmhPU0IQwWMsRST3Zgf8APHsbLxbXcxJfBA1njz0syDol6mRwavonwDbtv026YyPemxX4iI1fxajzg%3D%3D) hosted by the American Academy of Pediatrics
 - **Date:** broadcasted October 4, 2023
 
 > Mandy Cohen, CDC [00:14:07]
