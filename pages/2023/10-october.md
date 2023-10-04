@@ -17,6 +17,153 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 4, 2023
 
+## CDC officials at AAP webinar on fall respiratory virus season
+
+- **Source:** webinar hosted by the American Academy of Pediatrics
+- **Date:** broadcasted October 4, 2023
+
+> Mandy Cohen, CDC [00:14:07]
+> 
+> So we've passed the peak of where we think that wave at the end of the summer was, but looking at the last number of years, we expect this to go up again.
+> 
+> So for now we are decreasing, but again, as we get into the winter months and particularly see more travel around Thanksgiving and Christmas, we definitely do expect COVID to be up again.
+> 
+> We're starting to see RSV in the Southeast, flu activity still low. So that's where we are state of play.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:21:13]
+> 
+> On the ordering side, um, there's a couple of differences with COVID 19 that that manufacturers have opened up. 
+> 
+> You can still order in the traditional way. You've always ordered your vaccines in a commercial space, but at least two of the manufacturers have also opened up direct ordering, right from the manufacturer. I know Pfizer and Moderna. The Novavax vaccine just came out this week. So we're trying to understand their ordering practices a bit more, but Pfizer and Moderna both have direct ordering opportunities. So if you are having any challenges with supply on the commercial side, through one of your distributors, so if you use one of your distributors and you'd like to order directly, you can.
+> 
+> There are also new changes in the return policies. So on, and different products have sort of different preparations.
+> 
+> On the Pfizer side, there are three doses in a vial. I know we heard concerns for example, about wastage or unused vaccine. Pfizer did change their policy just last week to say you can return any unused for a full refund. So that is also good news in terms of easing some of the ordering concerns.
+> 
+> On the Moderna side, they are single dose syringes. So it's not-- there's not a waste to issue there, but again, make sure you're talking to your distributor or the manufacturer about the rules of the road here, because they are a little bit different. Again, a bit of the feature of how we're doing this with now that we're working through the private sector. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:23:07]
+> 
+> VFC vaccines is the same way you'd order COVID as well as nirsevimab. So, nirsevimab is also able to order through the VFC program. We know that COVID 19 vaccines are shipped through CDCs central vaccine distributor or directly from the manufacturer, but say the process for ordering is still through your state or local immunization program. 
+> 
+> And then you'll get some email notifications again, this should seem, this should seem familiar hopefully to folks on the VFC side, but the commercial side is different, and we're trying
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:24:04]
+> 
+> So one of-- a couple questions that we've been getting a lot, so I wanted to just go through this here.
+> 
+> First is, can I borrow between VFC and private immunization stock? And the short answer is yes, we don't want to miss an opportunity to offer a vaccine to someone. So bidirectional borrowing is okay. We, you know, we want make sure if you borrow, that means you're going to pay back, right? But it is allowed, but it should try you try to not be the rule, but you can do it. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:24:34]
+> 
+> The next question was can I order smaller minimums through VFC because it- and the short answer also there is yes.
+> 
+> We've decreased the minimum quantities, again, so that you can order and we're in a pretty good-- we're getting into a better, I shouldn't say good yet, better rhythm with ordering and then getting the supply delivered so that you can manage through how much you need in terms of understanding how many appointments you might have at a flu, COVID, vaccine clinic. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:28:09]
+> 
+> We certainly wouldn't want a child to not get a vaccine because they don't have the same-- your practice doesn't have the same type of vaccine that their initial series was in. 
+> 
+> We have also had questions about if you do that, if pediatricians need to make reports, for example, into VAERS, and you do not need to.
+> 
+> So again, ideal, if it can be the same Moderna or Pfizer, but if you need to switch because of what you have available, top priority is to get these children vaccinated.
+> 
+> Question [00:28:37]
+> 
+> So that's also true for the youngest age group, the four year olds, the six year olds?
+> 
+> Mandy Cohen, CDC [00:28:42]
+> 
+> That's right. That's right. So again, when you do the primary series, ideally to stick with the same manufacturer through that primary series, but if you get-- then you're into updates after that, not as much of a concern.
+> 
+> ...
+> 
+> Charlene Wong, CDC [00:34:58]
+> 
+> This is covered in Medicaid and CHIP and VFC. Also we've been working with you all at the AAP and as well as with our colleagues at CMS, because we know that commercial coverage is also really important. 
+> 
+> So, we've been working for example, to make sure that commercial payers have the information that they need and understand the importance of why now, coverage now, is very important in this respiratory season. So we really appreciate the partnership working with the AAP and with pediatricians across the country, so that we can all help the payers make those choices and make them quickly.
+> 
+> ...
+> 
+> Georgina Peacock, CDC [00:36:31]
+> 
+> If you think a child is likely to have insurance, but is not yet verified, we encourage you to use your private stock. And if the child is not covered, then you can exchange it with a VFC dose. So that's part of what we have been talking about about this bidirectional borrowing that has been given as guidance to our immunization programs. 
+> 
+> If you expect that this child will be on Medicaid, then obviously using VFC stock makes sense. And they would be eligible for a VFC dose. 
+> 
+> And we really understand that this is changing-- it's a difficult judgment to make in some cases. And so some of that is gonna be judgment, but hopefully that borrowing policy allows for some flexibility, so that children get the needed immunization.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:38:15]
+> 
+> We're going to be communicating with our hospitals and already have about this. And, one of the questions that we were answering earlier was about, can they be VFC providers and only stock part of the VFC recommended vaccines? And the answer is yes, we want to encourage folks if they are a specialty provider, like a birthing center to be able to offer the nirsevimab and hep B at the time of birth.
+> 
+> And so I think this is also an education for folks and we'll see that increase, but we're going to try to continue like we're doing today, to get that word out.
+> 
+> ...
+> 
+> Georgina Peacock, CDC [00:38:59]
+> 
+> We have given guidance to our immunization program awardees that they should-- that we're encouraging them to do this, to enroll more birthing hospitals. And one of the ways to help with this is to allow virtual visits for that initial visit to set up being a VFC provider, with likely, with a follow up later that would be in person. 
+> 
+> And so those are some flexibilities that we've put in the guidance and we meet regularly with our immunization awardees so that they can understand some of these flexibilities that have been put into place for niresfvimab, given that is really a very different type of product than we've dealt with before.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:44:00]
+> 
+> We are just-- we are calling it an RSV immunization. It is not a vaccine in the same way in which your body creates antibodies. This immunization gives you your baby antibodies, right, they are long acting antibodies and they provide protection for about six months. So that's the language we're using, is that in a vaccine, it allows your body to build its own antibodies. 
+> 
+> This RSV immunization gives the antibodies directly to your baby and they last about six months. So that's generally the language I have been using and you will see in our materials, but Dr. Wong, anything else you'd add there?
+> 
+> Charlene Wong, CDC [00:44:42]
+> 
+> The other thing is we actually also tested with moms to see how they understood this product and you know, what, how we named it. And we actually did this in collaboration with AAP and CMS as well. 
+> 
+> And immunization was the term that was really resonating with the moms and caregivers to these babies. So that's a one thing to mention. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:46:26]
+> 
+> There are a lot of insurance companies that are covering it, but it is not, I would not say, it is all at this point. And so I would want to make sure that you are talking with your insurance companies about that coverage on the private side.
+> 
+> Again, for VFC, for Medicaid, that is covered. But make sure, and again, we're continuing to work with insurance companies, and I think that we expect for them to move in that direction of coverage, but we want to make sure you're having that conversation. 
+> 
+> Additionally, we have not seen yet that they have changed the bundle payments for hospitals when you're in the hospital around birth yet.
+> 
+> That is work that still needs to happen over the next number of months. And we expect that to happen over time, but we, that is not something for this season that we expect to see in terms of bundle, the nirsevimab being included in the bundle.
+> 
+> ...
+> 
+> Charlene Wong, CDC [00:47:23]
+> 
+> We actually just heard, while we were talking today that, from the manufacturer, they're letting us know that they estimate that it's well over half of the commercial insurers that are covering nirsevimab for the outpatient setting. And, again, as we mentioned, we're really working hard with AAP and CMS to continue to get them the information they need so that we can get that number up even higher.
+> 
+> ...
+> 
+> Charlene Wong, CDC [00:51:07]
+> 
+> There are two administrative codes that were accepted. One is for administration of nirsevimab with counseling, by physician or other qualified health professional. And the second is that same, and that doesn't include the counseling. 
+> 
+> And this was really in recognition that the work that we all do at our clinics for the time to administer and the counseling is different for nirsevimab. So we're again grateful because we worked very closely with the AAP in making sure that the codes and such really met all of the various needs. 
+> 
+> We actually were just on a call with CMS right before this, and we're all very excited that these codes are now available. They're taking some of their next steps and making sure the payers will need to take some steps as, Dr. Cohen was saying both, on the particularly the commercial side. And so they're taking some next steps right away because we did just get this very hot off the press news from the AMA just the other day. And so CMS is taking that next step, and are looking forward to having these codes available for use.
+> 
+> They did expedite these codes so that sometimes when these new codes become available, there's even a longer lag before we, as providers are able to use them with the payers. They expedited this so that they become available as soon as the payers take the steps they need to take.
+
 ## CDC officials at briefing on fall respiratory virus season
 
 - **Source:** briefing hosted by the Centers for Disease Control and Prevention
