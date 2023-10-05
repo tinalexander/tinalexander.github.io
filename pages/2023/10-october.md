@@ -17,6 +17,23 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 5, 2023
 
+## CDC spokesperson on locally acquired malaria in Arkansas
+
+- **Source:** email from Thomas Skinner of the Centers for Disease Control and Prevention
+- **Date:** received October 5, 2023
+
+> How many total, locally acquired malaria cases have been reported so far this year, following the report in Arkansas?
+> 
+> > In 2023, the number of locally acquired malaria cases have included seven (7) cases have been reported in Florida, one (1) case in Texas, one (1) case in Maryland, and one (1) case in Arkansas.
+> 
+> Has CDC identified any links between the Arkansas malaria case and other cases?
+> 
+> > There is no evidence to suggest the case of locally acquired malaria in Arkansas is related to the other locally acquired cases reported in the U.S. this year.
+> 
+> Has CDC been able to complete genomic analyses of any malaria cases so far into where the malaria cases may have originated from?
+> 
+> > CDC is working to conduct genetic characterization of the parasites associated with these cases, including genomic sequencing, to help understand parasite relatedness and likely geographical origin. Results of sequencing are shared with the states. Please refer to the local or state health department for specific information on testing results.
+
 ## Arkansas health department on locally acquired malaria infection
 
 - **Source:** email from Danyelle McNeill of Arkansas Department of Health
