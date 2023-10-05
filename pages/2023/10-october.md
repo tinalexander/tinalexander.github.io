@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 5, 2023
 
+## Novo Nordisk statement on FDA investigation of counterfeit Ozempic
+
+- **Source:** email from a Novo Nordisk spokesperson
+- **Date:** received October 5, 2023
+
+> Patient safety is a top priority for Novo Nordisk and in close collaboration with FDA, we have taken measures to create awareness of the potential for counterfeit products. We have developed a company press statement that is posted on our U.S. corporate website and includes a guide for identifying counterfeits. We have provided communications to a number of stakeholders, including wholesalers and pharmacists to ensure they are aware of the situation and also able to identify a potential counterfeit semaglutide injectable product. We are also making semaglutide.com available as a resource hub for US consumers, healthcare providers and retailers to provide information about responsible use of semaglutide, including how to recognize a counterfeit product.   
+
 ## CDC spokesperson on locally acquired malaria in Arkansas
 
 - **Source:** email from Thomas Skinner of the Centers for Disease Control and Prevention
