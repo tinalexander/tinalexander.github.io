@@ -15,6 +15,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 5, 2023
+
+## Arkansas health department on locally acquired malaria infection
+
+- **Source:** email from Danyelle McNeill of Arkansas Department of Health
+- **Date:** received October 5, 2023
+
+> When was the case diagnosed? 7-10 days ago
+> What species caused the infection? Vivax
+> Was the patient hospitalized or deceased? Hospitalized, has been discharged
+
 # October 4, 2023
 
 ## CDC officials at AAP webinar on fall respiratory virus season
