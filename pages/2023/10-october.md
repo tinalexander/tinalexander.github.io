@@ -17,7 +17,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
-# Texas health department on genetic testing of malaria case
+## Texas health department on genetic testing of malaria case
 
 - **Source:** email from Lara Anton of Texas Department of State Health Services
 - **Date:** received October 6, 2023
