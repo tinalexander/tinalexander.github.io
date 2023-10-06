@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
+# Texas health department on genetic testing of malaria case
+
+- **Source:** email from Lara Anton of Texas Department of State Health Services
+- **Date:** received October 6, 2023
+
+> The genetic testing did not suggest a specific geographic origin for the parasite in the Texas case. It also showed that the Texas case was not a genetic match to the cluster of cases in Florida.
+
 ## CDC officials at ACL event on COVID-19 vaccines
 
 - **Source:** [webinar](https://view.connect.hhs.gov/?qs=164a944f4257da2961145e64d2c17b0438231c0b2c2253a051ecec286b7a0ea6f308ea0ebd2b2f6d62e6e98cfb246bab1e2448237ae50220dea3c53837e9e96b0b4497015304f34fcd98147ba55a364c) by Administration for Community Living
