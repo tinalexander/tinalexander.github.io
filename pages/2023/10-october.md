@@ -17,6 +17,103 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
+## CDC officials at HRSA webinar on COVID-19 vaccines
+
+- **Source:** [webinar](https://bphc.hrsa.gov/funding/coronavirus-related-funding/covid-19-bridge-funding) by Health Resources and Services Administration
+- **Date:** broadcasted October 5, 2023
+
+> Evelyn Twentyman, CDC [00:17:54]
+> 
+> Prior to September of this year, COVID 19 vaccines were not yet on the commercial marketplace. They were bought and sold and allocated and distributed by the U.S. federal government program for COVID 19 vaccine distribution. And we are not in that era anymore. 
+> 
+> The Bridge Access Program does not replace that program. The Bridge Access Program is a critical, but temporary and limited measure that exists to strengthen and protect the coverage of adults without insurance or whose insurance will not fully cover the cost of COVID-19 vaccination in this period, as we are transitioning into COVID-19 vaccine commercialization. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:18:47]
+> 
+> Now, how did figure out how many vaccines? That means, apart from purchasing as many as we could with the funding we were able to secure, what did that look like? 
+> 
+> So we looked at the estimated adults who are uninsured in the U.S., and this was based on the number of adults who would be eligible in the fiscal year 24 season, which was also modified by the increase that we knew to expect in rates of uninsurance, due to Medicaid unwinding. So that's where we got our estimation of 30 million adults who are uninsured. 
+> 
+> And then we estimated optimistically 20% vaccine uptake per season in this population. And why am I crossing my fingers and making it look like 20% is an optimistic goal?
+> 
+> During the 2022-2023 season, the estimated uptake among uninsured adults, and this is pre-commercialization, in other words, this is in the era when vaccines were free to everyone, was just under 11%. So 20%, if we got 20% uptake, it would be just under twice the uptake that we saw in our preceding season. 
+> 
+> And so if you multiply these together, you find that you need 6 million Bridge Access Program doses for the fiscal year, 2024 season, in order to provide an estimated 20% coverage of an estimated 30 million adults who are uninsured. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:20:45]
+> 
+> We did some geographic analyses, which I'm not gonna get into in super depth here, but we observed that we needed to make about a 50 50 split between public health infrastructure and retail pharmacies, or sorry, contracted pharmacies, to really maximize proximity to free COVID 19 vaccination through the Bridge Access Program.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:21:07]
+> 
+> And so there are approximately 3 million doses moving through the public health infrastructure side and approximately 3 million doses moving through the contracted pharmacy side.
+> 
+> 3 million doses can sound like a big number until you consider the many jurisdictions this needs to cover, including the many health centers that this needs to cover. So this is a long way of saying two things. 
+> 
+> One, these numbers are smaller than all of us are used to from the era of the U.S. federal program for COVID 19 vaccine distribution. Two, this is another way of saying this is not a permanent or comprehensive solution. It is not. 
+> 
+> It is a critical temporary solution. It supports continued access. It is not enough. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:23:32]
+> 
+> Our current data through survey of our jurisdictions shows that allocation and distribution to these health centers is currently exceeding 25%. 
+> 
+> So I'm going to show you two different total slides here, with one break in the middle of this data, this one is an average, and it's over the week of September 25th through September 29th, finding that among jurisdictions who were able to respond and had data to report, 35.2% of the Bridge Access Program doses had been allocated to HRSA-supported health centers and 27.5% of Bridge Access Program doses had actually been delivered to health centers. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:34:21]
+> 
+> The important point on this question, how are we determining uninsured status, is that we designed this program to provide minimal barriers to patients seeking COVID 19 vaccination and yet maximal protection from any concerns of fraud or misuse. 
+> 
+> And that is because all the patient needs to do is state that they are uninsured. So I'm going to go ahead and address a question right here. Do they need documentation? Do they need to somehow prove that they don't have insurance? 
+> 
+> No, they do not. And please do encourage your populations and your constituencies to go get this vaccine. They do not have to prove anything.
+> 
+> Which means they don't need to be citizens. They don't need to be residents. They don't need to have these documents with them or at all.
+> 
+> The burden is on our health systems. So we have articulated very clearly in contracts with all of our participating providers, how they will be checking insurance status, how they will be completing the insurance discovery processes on the backend. 
+> 
+> But this is not something that we want our community members to face.
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:36:29]
+> 
+> There is a, there's a packing list that actually show the fund type of the vaccine.
+> 
+> So 317 is gonna be the Bridge funded doses and VFC will be the VFC doses. So that standard packing list that you get will indicate, if shipments are combined.
+> 
+> Pfizer doesn't combine shipments, so they will all be separate. You won't have to wonder which is which because they won't combine multiple order lines in one shipment. 
+> 
+> And I mentioned Pfizer specifically since their vaccines are actually directly shipped from the manufacturer versus the Moderna and Novavax, which are actually distributed by CDC's centralized distributor McKesson.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:37:44]
+> 
+> It is designed to cover anyone without insurance. Now it's not-- it's not designed necessarily for medical tourism, but in order to reduce those barriers, we're not demanding documentation. 
+> 
+> I know that border populations often have a lot of questions of particular interest. The important point is that barriers to vaccination are minimal and that we're leaning on our systems, not on our patients, to document insurance.
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:41:43]
+> 
+> So, the orders go through the state health department because the state health departments have sort of information about the amount of vaccine that's available. They have a certain amount of supply that's available that they make available to providers. 
+> 
+> They don't do the distribution. They don't have the doses physically on hand, but when orders come in, they manage those orders, they review those orders, and then based on that, they're sent forward to the distributor or the manufacturer and that's who actually sends the doses to the provider location to the health center location. 
+> 
+> So the states have an important role, but they're not actually doing the distribution. And that is just as it is in the VFC program.
+
 ## Texas health department on genetic testing of malaria case
 
 - **Source:** email from Lara Anton of Texas Department of State Health Services
@@ -24,7 +121,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 > The genetic testing did not suggest a specific geographic origin for the parasite in the Texas case. It also showed that the Texas case was not a genetic match to the cluster of cases in Florida.
 
-## CDC officials at ACL event on COVID-19 vaccines
+## CDC officials at ACL webinar on COVID-19 vaccines
 
 - **Source:** [webinar](https://view.connect.hhs.gov/?qs=164a944f4257da2961145e64d2c17b0438231c0b2c2253a051ecec286b7a0ea6f308ea0ebd2b2f6d62e6e98cfb246bab1e2448237ae50220dea3c53837e9e96b0b4497015304f34fcd98147ba55a364c) by Administration for Community Living
 - **Date:** broadcasted October 5, 2023
