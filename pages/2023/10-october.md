@@ -17,6 +17,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
+## Sanofi spokesperson on availability of Beyfortus
+
+- **Source:** email from Sanofi spokesperson
+- **Date:** received October 6, 2023
+
+> Sanofi has started shipping the first of its Beyfortus™ (nirsevimab-alip) doses in the U.S. to help protect infants ahead of the upcoming respiratory syncytial virus season.
+> 
+> ...
+> 
+> As of October 1, coverage is in place for more than 90 percent of infant lives.
+
 ## CDC officials at HRSA webinar on COVID-19 vaccines
 
 - **Source:** [webinar](https://bphc.hrsa.gov/funding/coronavirus-related-funding/covid-19-bridge-funding) by Health Resources and Services Administration
