@@ -17,6 +17,71 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
+## CDC director at a Yale School of Public Health event
+
+- **Source:** [recording](https://youtu.be/LNXisftWb68) from Yale School of Public Health
+- **Date:** published October 6, 2023
+
+> Mandy Cohen, CDC [00:17:02]
+> 
+> I think the critical linchpin of public health is to bring visibility, data and evidence to trying to solve how we protect health, whether it's identifying and responding to a respiratory virus, or our first cases of domestically acquired malaria, which we had this year, first in 20 years, or it's understanding overdoses from different types of  fentanyl or xylazine, right. 
+> 
+> Having that data, that transparency, is critical to building trust. So transparency for us was absolutely fundamental. And what what's hard as, about transparency, is science is constantly evolving. As we know, we are learning more things. So it's really critical to be able to say, this is what I know. This is what I don't know. And importantly, this is what I'm working on to know, and I'll come back to you, and you can trust that this public health is not a black box. 
+> 
+> And I can't tell you still, I was just with a round table of reporters yesterday who said that public health's a black box to us, help us understand it better. We want to be your champions, but we don't understand it. Let us in. 
+> 
+> All right. So transparency, I think, builds trust. And in North Carolina, leading through the COVID crisis, we did a press conference every day at two o'clock for six months. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:44:47]
+> 
+> I'm so proud of CDC and only being there three months, I take no credit for this, but it is honestly the most equity focused organization that I had have been part of. And I'm very proud of the North Carolina work, but it was a lot of like new work.
+> 
+> When I come to CDC and I see it, the equity work is embedded everywhere in a great way. And they think about populations and they are thinking about migrants and their health at all times. And thinking about how do we make sure we're understanding what they need and, and think about it.
+> 
+> So, for example, I was just on the phone with folks in New York who are seeing a lot of new immigrants and migrants that are there and how can we help them with, from an infectious disease place, but also from housing and things like that. 
+> 
+> So CDC, like that's, I give them a ton of credit for doing incredible work. The resources are what is missing there. It's not the passion, it's not the strategy, it's resources in order to make sure that we can help all those communities.
+> 
+> ...
+> 
+> Question [00:47:37]
+> 
+> I had a question on behalf of a person I know who's on dialysis and they were wondering why it's not required for healthcare workers to wear N95 respirators in healthcare settings, especially when decades of research showed that respirators are more effective than surgical masks at preventing airborne diseases. And, with like 60% of COVID infections, asymptomatic, and hospital acquired infections four times higher risk of mortality?
+> 
+> Mandy Cohen, CDC [00:48:11]
+> 
+> So, great question. So we have different teams who are looking at some of these issues right now, and I think updating some of the guidance, right? So I think you want to look at-- we look at a couple of factors when thinking about it.
+> 
+> Sure, is an N95 gonna certainly filter out more things than a surgical mask? Yes. We know how those work, right. If you have something that's fit tested, and the different material. 
+> 
+> So, but the question is what are the things that you need to wear in an N95 for? And what are the things where surgical barrier masks make sense? And you want to look both at the way the infection is spread, but also what is the risk, right? 
+> 
+> So we spread a lot of things that are are aerosolized, but there they're different levels of risk. 
+> 
+> It is good news in 2023, where we are related to COVID, 97% of us have either had it or have been vaccinated by it. So we aren't in the same place we were in 2020 when we had an entire population that's never been exposed. 
+> 
+> Now I wouldn't, I have to be on brand for CDC director, I'm glad we got to this, our immunity is going down. The virus is changing. Please all get your updated COVID vaccine. Even those of us who are-- I'm almost was saying, I'm as young as you, I'm not, I'm getting my vaccine, but please everyone at every age should get it as well as your flu shot. 
+> 
+> But my point is, is that we have to think about levels of risk for all of those different kinds of diseases, versus in terms of what is the protection level that we need. And so those are the kinds of research that the team goes through. 
+> 
+> We actually have an independent advisory committee that is going through some of that work right now, to understand the data, and what, how do you map to the right protection? Because it's both, how is it transmitted, but also like, what is the risk to all of the patients, and we sort of need to balance all of those things.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:58:24]
+> 
+> What I'm trying to do at CDC is make us the best collaborator we absolutely possibly could be. 
+> 
+> Now I think data is the power behind that because, like that visualization, but it's building a muscle of collaboration is different, right. How-- like--
+> 
+> Candidly, CDC does not have, right now, someone who owns engagement, stakeholder engagement.
+> 
+> We want to call it something else, but doesn't have that function, right? But if we're gonna be the best collaborator and if this is a team sport, we absolutely have to build that muscle differently. 
+> 
+> So those are the kinds of things I'm working on at CDC, but we have a lot to offer in and of itself, right? With the, the data, evidence, and best practices so that we can go to someone like CMS and be like, 'you know what you should be paying for is X not Y.' Or we can go to SAMHSA and say, you know what, we we've studied this best practice in suicide prevention, this is where you should put your money.
+
 ## CMS spokesperson on nursing home COVID-19 vaccinations data
 
 - **Source:** email from a CMS spokesperson
