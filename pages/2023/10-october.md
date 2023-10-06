@@ -15,6 +15,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 6, 2023
+
+## American Immunization Registry Association on COVID-19 vaccine reporting
+
+- **Source:** email from Rebecca Coyle of American Immunization Registry Association
+- **Date:** received October 5, 2023
+
+> Thank you for reaching out with questions. To my knowledge I am not aware of any additional jurisdictions requiring reporting since May, but we haven’t specifically surveyed since May either.
+> 
+> As the federal supply of COVID-19 vaccines ends, the federal requirement to report to the IIS ends and shifts to the reporting policy of the jurisdiction. These policies vary widely from state to state.
+
 # October 5, 2023
 
 ## Novo Nordisk statement on FDA investigation of counterfeit Ozempic
