@@ -17,6 +17,67 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
+## CDC officials at ACL event on COVID-19 vaccines
+
+- **Source:** [webinar](https://view.connect.hhs.gov/?qs=164a944f4257da2961145e64d2c17b0438231c0b2c2253a051ecec286b7a0ea6f308ea0ebd2b2f6d62e6e98cfb246bab1e2448237ae50220dea3c53837e9e96b0b4497015304f34fcd98147ba55a364c) by Administration for Community Living
+- **Date:** broadcasted October 5, 2023
+
+> Nirav Shah, CDC [00:09:47]
+> 
+> I wanted to say that to acknowledge though that it's been a challenge, but also to ask you, if you have signed up for a vaccine only to have your appointment canceled, or if you've been calling your doctor's office waiting to know when the vaccine was going to be available, please don't give up. There's not a supply -- there's not a crunch on the supply side. There is indeed quite a bit of vaccine that's being manufactured. Now it is working its way through the system. 
+> 
+> So please don't give up on vaccines. There is a vaccine out there with your name on it.
+> 
+> ...
+> 
+> Amanda Cohn, CDC [00:31:48]
+> 
+> So if you've had a recent COVID vaccine or have had COVID, the infection itself, we recommend you wait about eight weeks or two months before you get that updated vaccine.
+> 
+> You can get it earlier, but in order to make sure you have the best immune response, we think about eight weeks is the right amount of time to wait.
+> 
+> ...
+> 
+> Amanda Cohn, CDC [00:33:25]
+> 
+> So at this time, we're recommending that everyone who has previously been vaccinated get one dose of this updated COVID vaccine. 
+> 
+> We know that there may be a need for people who are severely immunocompromised to get additional doses. We are waiting to provide exact guidance on when those additional doses should happen. And you know, it would not surprise me if people who have-- who are severely or moderately immunocompromised get additional dose in about six months, but right now everyone just needs one single dose.
+> 
+> ...
+> 
+> Amanda Cohn, CDC [00:38:31]
+> 
+> Ensuring access in rural communities is especially important to us. And we totally understand that there are often people have to travel further to find vaccine, and we want to reduce that gap. 
+> 
+> There are more Bridge Access Program providers being onboarded every day, including pharmacies health department clinics and federally qualified health centers. So I encourage you if, if you haven't found one close enough yet, to reach back out or to reach to your health department and say, we need a location in near us, can you help us, can you help enroll? 
+> 
+> It is our local and state health departments that are enrolling the 317 healthcare providers in this program. We are strongly encouraging the pharmacies who are involved to have a vaccine available in all locations. 
+> 
+> But, really I think, we are relying on our local health departments to fill in some of those gaps through their healthcare providers. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:40:02]
+> 
+> If you're in a community that does not have a close by HRSA supported health center, a CVS, a Walgreens or other 317 enrolled provider, and you do have an independent or smaller pharmacy, we do encourage you to direct them to eTrueNorth to explore participation in the Bridge Access Program.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:40:57]
+> 
+> We have two Bridge Access Program participating pharmacies who are specifically working towards setting up these community events. Those include Walgreens and eTrueNorth, and I've put an email for eTrueNorth in the chat and a website that contains a form to express your interest in a community event to Walgreens. 
+> 
+> These partners of ours are very eager to work with community based organizations to get vaccine out there. 
+> 
+> ...
+> 
+> Amanda Cohn, CDC [00:41:27]
+> 
+> And I'll just add that these-- the nice thing about these pharmacies is that they can vaccinate people who have insurance as well as people who don't, if they, as these, they put together these outreach vaccination clinics. 
+> 
+> So in many ways, that is a really good way to make sure everyone who you serve can get vaccinated and not having to split it out into two different approaches.
+
 ## American Immunization Registry Association on COVID-19 vaccine reporting
 
 - **Source:** email from Rebecca Coyle of American Immunization Registry Association
