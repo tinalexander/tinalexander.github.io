@@ -17,6 +17,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
+## CMS spokesperson on nursing home COVID-19 vaccinations data
+
+- **Source:** email from a CMS spokesperson
+- **Date:** received October 6, 2023
+
+> CMS COVID-19 nursing home vaccination figures are based on information reported by nursing homes to the Centers for Disease Control and Prevention’s (CDC) National Healthcare Safety Network (NHSN) COVID-19 Long Term Care Facility Module.
+> 
+> On September 15, 2023, the CDC updated its recommendation regarding what is required for individuals to be up to date with their COVID-19 vaccine. The vaccination rates currently reported on data.cms.gov, as of September 24, 2023, are based on the previous recommendations. CMS is working with the CDC and plan to post vaccination rates based on the new recommendations to stay up to date with the COVID-19 vaccine soon.
+> 
+> For additional questions about nursing home vaccination information that reflects the current up to date recommendations, we suggest you contact the Centers for Disease Control and Prevention’s media relations staff at https://www.cdc.gov/media/subtopic/contact.htm.
+
 ## Sanofi spokesperson on availability of Beyfortus
 
 - **Source:** email from Sanofi spokesperson
