@@ -17,6 +17,622 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 6, 2023
 
+## FDA meeting on Southern Hemisphere influenza vaccine strain selection
+
+- **Source:** [livestream](https://www.youtube.com/watch?v=3MRqhXOB3lQ&t=1s) from Food and Drug Administration
+- **Date:** broadcasted October 5, 2023
+
+> Jerry Weir, FDA [00:23:31]
+> 
+> But in addition, today, we're going to discuss the challenges and opportunities for vaccine strain composition with the reduced public health threat from influenza B Yamagata lineage viruses. 
+> 
+> The reason for this is kind of, sort of, twofold. 
+> 
+> One is that, as you'll hear probably later in the day, several times, there have been no B Yamagata lineage viruses detected for over three years now, and our VRBPAC, as in previous meetings of this committee, as well as WHO experts at the most recent strain composition meetings, have advocated for vaccine composition changes that include removal of the B Yamagata component, as well as some consideration for other composition possibilities. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [00:29:32]
+> 
+> As most of you on the committee know, Dr. Wentworth has been serving as the director of the WHO collaborating center in Atlanta for several years. And he's been making these presentations about flu vaccine composition, at least since 2019.
+> 
+> This will probably, I think, will be his last VRBPAC presentation in that capacity, because of his appointment recently as the director of Coronavirus and Other Respiratory Viruses Division at CDC. 
+> 
+> So on behalf of the FDA, and for me personally, I want to thank David for all of his contributions. David has done a remarkable job of taking enormous amount of data,that the WHO sifts through for over a week and condensing it into a form that is easily explainable to all of us in about an hour. And that's no small feat. And I think he's done a great job over the years of doing that routinely in making all of this understandable for us. 
+> 
+> So anyway, I would like to thank him personally, and as well as from the FDA for all he is done for us. I know the committee will thank him as well when he gets his talk, but on behalf of the FDA, I just like to say, thank you, David.
+> 
+> ...
+> 
+> Jay Portnoy, VRBPAC [00:31:19]
+> 
+> If the committee votes no, will will there just simply not be a quadravalent vaccine, or will the B Yamagata be put in there as a placeholder anyway, given that there's probably not enough time to come up with a different virus? What happens if we vote no?
+> 
+> Jerry Weir, FDA [00:31:35]
+> 
+> Actually I probably can't give you a final answer today. 
+> 
+> Obviously it's complex, and as you will hear from the manufacturers, we're pretty far, they will be-- they will probably tell you they're pretty far along into preparing for a Southern hemisphere vaccine, but regardless we will listen to what the committee says, and we will take that under advisement and try to formulate a plan that is both practical and useful for the Southern hemisphere. 
+> 
+> But I do think it is important, once again, to get a sense of the committee of how they feel about this, and especially what they think about timing. So I can't give you a final answer today.
+> 
+> ...
+> 
+> David Wentworth, CDC [01:34:12]
+> 
+> As Dr. Weir mentioned at the outset, there have been no confirmed detections of B Yamagata circulating since after March of 2020, and this coincides with the COVID 19 pandemic.
+> 
+> Of the over 15,000 influenza B viruses collected between this February 1st and August 31st, this timeframe that we're interested in, and lineage tested, no B Yamagata lineage viruses were confirmed. 
+> 
+> ...
+> 
+> David Wentworth, CDC [01:34:12]
+> 
+> As Dr. Weir mentioned at the outset, there have been no confirmed detections of B Yamagata circulating since after March of 2020, and this coincides with the COVID 19 pandemic.
+> 
+> Of the over 15,000 influenza B viruses collected between this February 1st and August 31st, this timeframe that we're interested in, and lineage tested, no B Yamagata lineage viruses were confirmed. 
+> 
+> ...
+> 
+> David Wentworth, CDC [01:35:38]
+> 
+> It was the-- our opinion as the WHO vaccine composition advisory committee that while both trivalent and quadravalent vaccines remain safe and effective, the inclusion of the B Yamgata lineage antigen in quadravalent influenza vaccines is no longer warranted, and every effort should be made to exclude this component as soon as, I put it here, practically possible. 
+> 
+> And we can discuss that, but basically the as soon as possible was meant to be, we know there's different cadences for different manufacturing processes. And, the fact that the committee recognizes national and regional authorities are responsible for approving the composition of formulation of vaccines used in each country and should consider the use and relative benefits of trivalent and quadravalent vaccines. 
+> 
+> So we understand that at number one, we are supposed to make recommendations for what's licensed. And so we make a recommendation for tri- and quadravalent vaccines, but we also wanted to make this point that we don't think, at this point in time, it's warranted. 
+> 
+> It's very difficult to determine if B Yamagata lineage viruses are really extinct. And so the, as soon as possible is meant to say, with both what needs to happen for manufacturing and quality control and for approval in the regulatory authorities, this isn't something you do in one day. 
+> 
+> ...
+> 
+> David Wentworth, CDC [01:40:27]
+> 
+> The issue is with influenza is its speed. So as a negative strand virus, it's poised to replicate almost as soon as uncodes inside the cell. 
+> 
+> And I don't want to get into the deep virology of it, but it carries all its replication machinery into the cell with it. So within six hours of infecting a cell it's already producing progeny virion. And within overnight, an individual is now basically having millions of viruses in their respiratory tract. And they're obviously expanding logarithmically. And then you're transmitting influenza often before you even feel sick. 
+> 
+> And so where the T cells become most important, particularly CD T cells, killing T-cell, is clearing the infection. So they are very important clearing the infection. But if you think about the evolution of the virus, it's a lot-- and they do impact the evolution of the virus. I don't mean to say that they don't, but influenza has really gone in, done its damage, and transmitted before T cells can really have a huge impact. 
+> 
+> Remember, they're gonna take out virally infected cells and they may be resident in your, in your respiratory airway at some level, but not at the level needed to really protect you. And so the primary driver of influenza evolution is the ability to escape those neutralizing antibodies, likely antibodies that are really IgA antibodies in the mucosal surface. Right? But, then it's come in, done its damage, and often transmitted to many other people. 
+> 
+> Now, the sooner T cells come in, they can actually reduce that transmission to other people in the later stages of infection. And so there is evolution at T cell epitopes that we see, but if I were to show you that on the same tree, as I show you a hemagglutinin evolution against neutralizing antibodies, the time scale is so different. Like it's like a 10 year period, and you can start to see key epitopes in nuclear protein, as you've mentioned, start to be have evolution impacting them. 
+> 
+> So I, from my perspective, I think that is saying that they do matter. They clearly matter for clearance, because folks that have immunodeficiencies with T-cells have trouble clearing influenza virus.
+> 
+> And that the sooner you can clear the virus, the less like you are to transmit it in the later stages of infection. And that's how it impacts the evolution of the virus. But when we focus on the thing that has the fastest impact on the virus is the neutralizing antibodies, HA than to the NA.
+> 
+> So when we focus the vaccine selection more on the HA we're really picking the tip of the spear of influenza evolution. And so by moving with that tip, you're often updating T cell epitopes, you know, unbeknownst to you really.
+> 
+> ...
+> 
+> David Wentworth, CDC [01:46:28]
+> 
+> This really gets outside of my area expertise on the modeling piece, what you would need to do. 
+> 
+> What I will tell you is part of our thought process and discussions are, yeah, you could try to do this, and so, for example, I think Rinderpest would be a good, like if you really looked at how we determined Rinderpest was extinct, really good template for that, but it gets to a certain point of, it's very hard to prove something's extinct. Right? And what we do know is that where we've seen B virus, epidemics, we have not seen B Yamagata. 
+> 
+> So it hasn't bubbled up to cause an epidemic. We would anticipate there would be outbreaks somewhere that really across the entire global influenza surveillance system, the GISRIS, that we might pick up an outbreak, particularly in say, for example, a school where like an elementary school, where people may not have had any exposure to be B Yamagata in the past, these children, and so where it could potentially bubble up. 
+> 
+> And so the-- what we started to settle in on is what's the real risk of being infected, not is it extinct. We don't, we can't, know that right now. What's the real risk of being infected?
+> 
+> And the real risk from a-- from our perspective is very low compared, and that's the fact.
+> 
+> Now if it were to reemerge, then we can react to that, right? But standing around and really trying to do detailed studies to really prove something's extinct takes time. And that's the conundrum we have, I think.
+> 
+> We have the likely potential that it is extinct, and acting now and doing more proactive things to further improve flu vaccine, open up antigen space for other viruses, for example, in flu vaccine. And we have the potential that it is extinct. 
+> 
+> And so why should we be growing up large quantities of virus, manufacturing, and using a vaccine that could potentially reintroduce something that's likely extinct. And so that's the-- I think that's what you have to weigh.
+> 
+> ...
+> 
+> Andrea Shane, VRBPAC [01:49:04]
+> 
+> There was a percentage of B viruses that were not being able to be identified. Is there any concern that those might be Yamagata ifluenza B or not? Thank you.
+> 
+> David Wentworth, CDC [01:49:18]
+> 
+> I think we're always going to have that issue and our concern was quite minimal on there not being.
+> 
+> So just to better answer Dr. Rubin's question, one thing I do understand a little bit is trying to figure out what the level of predominance would be. And we actually have something called the rare event detection calculator on the website. It's part of our CDC calculations for how many viruses we want to survey, how much sequencing we want to do and all that. 
+> 
+> It's called, calculator B, and it's on the American Public Health Laboratories website. 
+> 
+> But if you think about it, if we had done those extra viruses, so that would only push us from 15,000 to 20,000, and so that's still not extensive enough to be super confident, right, that it's gone.
+> 
+> So it's reducing your ability. So for example, with that number, we know it's likely less than 0.05% of the viruses out there in that time window with 15,000 tested. Whereas, you know, if we do another five, that's not gonna really move that dial. We need to do an order of magnitude more to get it, to move one decimal place more basically. 
+> 
+> And so it becomes a very costly thing and a very time consuming thing to try to do that. And you would still just be, well, it's less than this probability.
+> 
+> ...
+> 
+> David Wentworth, CDC [01:51:14]
+> 
+> We select these, these antigens for serologic analysis long before we have the sera. So we're looking across the phylogeny, Dr. Kondor is very involved in this, and we're looking to the ones that really look like they have mutations in what we know are key antigenic epitopes, and selecting those for analysis later. 
+> 
+> And we have to grow them up, make sure they're highly pure and sequence is good and all that. So when the human sera comes, we can do the analysis. 
+> 
+> So what I-- and they were these two A3 viruses represented by the Georgia 19. You've got a very good eye. They have changes in the hemagglutinin that are very significant, okay? So it's T135K, so that removes a glycosylation site at position 133 and we know that can impact antigenicity, I140K and the S145N. So that also that 145 position is really important in antigenicity. 
+> 
+> And so it was clear that we actually were starting to make potential candidate vaccine viruses out of that group as well, and still continue to do that, but they were somewhat deprioritized as the evolution of the virus happened, because for some reason, although it's antigenically advanced in both ferret antisera and human antisera, it's not winning in the world of evolution of competition of influenza viruses, the way the 3A 2A ones are. 
+> 
+> And so we haven't seen-- it likely has some advantages of those changes, but there's likely some fitness loss say, for example, in a non-immune host where it's not binding receptor as well, it's not as stable, you can think of a million things, and we don't ever know why, but for whatever reason, it's not increasing.
+> 
+> Nevertheless, it could be one that you're discussing six months from now, when it gets an additional change, either in the hemagglutinin or a change in the neuraminidase that compensates a little bit for that fitness loss. So it likely evolved in a highly immune population, and it's just not competing well in with all the other viruses in the population as a whole at this moment in time.
+> 
+> ...
+> 
+> David Wentworth, CDC [01:55:21]
+> 
+> I really consider this update for the Southern hemisphere, not a major update, because really we're staying right in that same clade of viruses. These are the most successful group. We have an antigen in Darwin six that we know is really a good antigen. 
+> 
+> It really creates good titer, we've known it's got good vaccine effectiveness for H3 viruses. And really what we're doing is keeping the same base number of amino acid substitutions that Darwin six has, and adding that 140K, which we've seen in just one epitope that we've seen in multiple clades. 
+> 
+> So even though it it's a different clade of virus, say for example, the 2B with the one 140K, one would anticipate that priming the human immune system with that 140K will do better against all those viruses with the one 140K for example. And then there's the other mutation that likely matters is at the 192. 
+> 
+> So really it's, it's in some ways it's similar to the H1. It's not a huge antigenic difference between those two vaccines, but it's moving a little bit closer to the influenza evolution, if you remember Darwin six was a really a really great selection in a way, because it was right during when the COVID pandemic was happening, we had very few viruses that were circulating to choose from. And that one really represented an antigenic group that looked to be expanding and created a breadth of immunity. And that's what it turned out to be. 
+> 
+> So it's a little bit hard to move away from something you know is working good, but it's what I think you have to do with influenza, because it gets you closer, it brings you closer to the virus in its evolutionary activity. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:14:25]
+> 
+> I'll start by saying that we want to maintain and build public confidence and trust in influenza vaccines. We value our partnership with public health authorities, regulators, and the scientific community, and other dedicated stakeholders to provide timely access to influenza vaccines, and reduce the burden of disease worldwide. 
+> 
+> We hear and acknowledge the ongoing concerns regarding B Yamagata. 
+> 
+> Through this presentation, we are looking for cross-sector partnership in an organized approach that preserves public health and confidence in influenza vaccines.
+> 
+> While it would be helpful to have scientific regulatory and implementation frameworks to help guide the proposed removal of B Yamagata, we recognize we need to be agile and efficient in the transition. We are committed to work diligently with the FDA and other regulatory agencies worldwide. 
+> 
+> Please also understand that our interest in documenting the rationale and framework stem from our discussions with vaccine experts in the U.S. and elsewhere, whereby they have challenged us to justify the rapid change. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:17:46]
+> 
+> While we're aligned in executing the removal of B Yamagata, we recognize that transition timelines will vary based on vaccine platform, manufacturer, and various global rules, regulatory rules.
+> 
+> Following the WHO and MHRA meeting on July 13th, the manufacturers responded to a questionnaire to determine realistic steps for a successful global transition to TIV. And so some of those data are shown here on the slide. 
+> 
+> There are 355 TIV licenses worldwide that need to be reactivated or submitted or resubmitted. 1,490 TIV variations needed to be updated with regulatory agencies globally. And health authorities in 174 countries will require new submissions to update manufacturing, CMC, and quality data to align with current quality standards. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:18:47]
+> 
+> Now, the timeframe shown here are estimates in the WHO regions based on historical standard regulatory practice. Up to 36 months in the Americas, Europe, Africa, and Western Pacific. Up to 48 months in Southeast Asia and Eastern Mediterranean. 
+> 
+> So given our commitment to a successful transition, we look forward to receiving clear regulatory guidance and support from the FDA and agencies worldwide. We ask that the FDA provide leadership to this discussion globally and help reduce these timelines in the international markets, international regulatory agencies. 
+> 
+> So with this global view in mind, we now want to offer specific timelines for both Southern hemisphere and Northern hemisphere transitions. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:19:54]
+> 
+> Given the regulatory submissions noted in the previous slide, we ask VRBPAC to make a strain recommendation for both TIV and QIV during today's meeting, which will sustain global supply and avoid shortages.
+> 
+> Timelines to obtain approval for the transition from QIV to TIV will vary among national regulatory agencies throughout the world. 
+> 
+> While TIV licenses are only inactivated in the U.S., in many countries, TIV licenses were either completely withdrawn or were never granted, thereby requiring manufacturers to submit new marketing applications that will need to be reviewed and approved. 
+> 
+> There are Southern hemisphere countries that rely solely on CBER as the reference authority for to release vaccine. That is, we cannot ship vaccine to some Southern hemispheric countries without VRBPAC strain recommendation and FDA release.
+> 
+> For Southern hemisphere countries where QIV is licensed, but not TIV, we can only ship QIV. If VRBPAC does not recommend four strains, then manufacturers may not be able to supply those countries. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:21:34]
+> 
+> In March, while we are committed to a successful transition, it's important to recognize that it will take some time. There is significant amount of regulatory work that was, that will be required, to transition to TIV.
+> 
+> Since we're unsure of the regulatory timelines, that is manufacturers have not yet met with CBER to discuss what is needed for their specific regulatory filings, there is a substantial risk to U.S. supply if we're faced with distributing TIV alone, just 9 to 12 months from now, that is the summer and fall of 2024. 
+> 
+> There are important manufacturing changes that have occurred since TIV was last distributed in the U.S. and these changes require dialogue between individual manufacturers and CBER. 
+> 
+> As of today, there's no clear regulatory framework for reactivation for each one of the manufacturers. Those discussions are yet to come. 
+> 
+> Based on our analysis and timeframe that I'll show you in the next slide, in a few minutes, we propose that CBER maintained QIV licenses through this VRBPAC meeting, and when you meet again in March, we will pursue activating TIV licenses in parallel, but allowing both vaccines to coexist through these two VRBPAC sessions would be prudent and avoid supply disruptions. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:22:56]
+> 
+> Since the time that products were discontinued in the U.S. and internationally, many changes have occurred in the influenza vaccine manufacturing, infrastructure, quality testing, container closure, packaging, or presentation of influenza vaccines. And these changes have not been implemented with TIV.
+> 
+> For some products and presentations, a TIV formulation was never licensed in the U.S. Manufacturing facilities across multiple companies and external partners were built and brought online for QIV, but TIV has never been manufactured in those facilities.
+> 
+> End to end manufacturing, including quality and validation in many sites are QIV specific, and will need to be reevaluated and dossier submitted to regulators for TIV.
+> 
+> Traditionally it can take up to 18 months to generate new validation data and submit them to the agency to support licensure. So clearly we look forward to working with CBER to find a more rapid pathway for approval of TIV licenses, wherever necessary. 
+> 
+> We should also note that when VRBPAC meets again, just five months from now to discuss the Northern hemisphere, 24-25 strain selection, most QIV orders will have already been placed by customers and manufacturing will be well underway. Therefore we ask VRBPAC to select and recommend for strains today and in March to give the industry time to obtain regulatory approvals for TIV. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:24:40]
+> As a reminder, industry manufactures and distributes between 150 and 200 million doses of influenza vaccine for private and public sector use in the U.S. each season.
+> 
+> As shown, the reality is that the process for the next Northern hemisphere season is already underway. If industry manufactures only three strains and then fills and packs TIV only, but full FDA approval for the new TIV formulation is not accomplished for each manufacturer by July 2024, then U.S. supply may be compromised. 
+> 
+> We note that customers will submit their pre-orders for QIV in the next few months. So the transition involves more than just manufacturing and regulatory approval. There's also substantial work to manage customers, which is a complex network of healthcare providers and healthcare systems. 
+> 
+> I've shared this diagram with you today to illustrate that the entire Northern hemisphere supply, or a significant portion of the supply to be shipped next summer and fall, could be lost if manufacturers produce TIV exclusively, and some unpredictable circumstance were to prohibit obtaining final regulatory approval for TIV in time.
+> 
+> I would like to underscore the complexity related to multiple different manufacturers and products, platforms, presentations that are necessary to fully supply the U.S. healthcare provider and system.
+> 
+> The significant number of unknowns that are across this complex environment requires us to keep QIV as an option for the next Northern hemisphere campaign in order for all of us to achieve our shared goal of providing an ample supply in a timely manner, allowing patients to be protected from the risk of influenza. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:30:31]
+> 
+> Beginning in 1978, trivalent influenza vaccines incorporated, one influenza B and two influenza A, H1 and H3 components. Influenza B, though, diverged into two antigenically distinct lineages in the early 80s. And you can see a little diagram that I swiped from a Nature Communications paper that shows the timelines for these subtypes of influenza A as well as the divergence of influenza B. 
+> 
+> Influenza B was estimated, this was after the divergence into two sub lineages, was estimated to be responsible for about 26% of influenza infections in the years 1999 to 2012. During that time, though, the mismatch frequency between the recommended strain and the most commonly circulating influenza B strain was estimated to be about 50%. 
+> 
+> In other words, the recommendations sort of missed about half the time. I've thrown a couple of references for anyone that's interested. 
+> 
+> And so discussions began at both the WHO, VRBPAC, other places around the world in the early 2000s to discuss the feasibility and the benefit of adding a second B strain to the seasonal vaccine. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:36:13]
+> 
+> Approval of the quadravalent vaccine was based on manufacturing and clinical data generated by each manufacturer that demonstrated safety, of course, but also the immunogenicity of the second B strain component that was added as well as that. 
+> 
+> The addition of that second B strain did not adversely affect the immune response to other vaccine components. So that was the data package, in summary, that we used for the approval.
+> 
+> All currently distributed in seasonal influenza vaccines in the U.S. are quadrivalent. Basically one H1, one H3, a B Vic and a B Yam component. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:36:13]
+> 
+> Approval of the quadravalent vaccine was based on manufacturing and clinical data generated by each manufacturer that demonstrated safety, of course, but also the immunogenicity of the second B strain component that was added as well as that. 
+> 
+> The addition of that second B strain did not adversely affect the immune response to other vaccine components. So that was the data package, in summary, that we used for the approval.
+> 
+> All currently distributed in seasonal influenza vaccines in the U.S. are quadrivalent. Basically one H1, one H3, a B Vic and a B Yam component. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:40:56]
+> 
+> In the U.S., all manufacturers of quadrivalent vaccines were originally licensed to produce trivalent vaccines, and these vaccines are still licensed, even though they're currently discontinued. 
+> 
+> We do have processes in the U.S., procedures for removal of vaccines from the discontinued product list. You've also heard that there are manufacturing changes. Some manufacturing changes have been implemented for quadravalent vaccines since the prior licensure of trivalent vaccines. We acknowledge that these changes that have been implemented for quadravalent vaccines are specific for each manufacturer. 
+> 
+> So, other words, some may have introduced new filling lines, new presentations, others may have done other made other changes. I will point out though that in the U.S., most of these manufacturing changes that are relevant to a trivalent formulation have already been reviewed as part of the quad license. Not all, but most.
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:40:56]
+> 
+> In the U.S., all manufacturers of quadrivalent vaccines were originally licensed to produce trivalent vaccines, and these vaccines are still licensed, even though they're currently discontinued. 
+> 
+> We do have processes in the U.S., procedures for removal of vaccines from the discontinued product list. You've also heard that there are manufacturing changes. Some manufacturing changes have been implemented for quadravalent vaccines since the prior licensure of trivalent vaccines. We acknowledge that these changes that have been implemented for quadravalent vaccines are specific for each manufacturer. 
+> 
+> So, other words, some may have introduced new filling lines, new presentations, others may have done other made other changes. I will point out though that in the U.S., most of these manufacturing changes that are relevant to a trivalent formulation have already been reviewed as part of the quad license. Not all, but most.
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:43:22]
+> 
+> First of all, there is a, a challenge in developing a consensus regarding an alternative composition. We've had-- we have seen and heard that there are several alternative composition possibilities, and these have been proposed. I'm going to mention some of these on the next slide, but the process for making an alternative composition recommendation has not been defined. 
+> 
+> There is also the challenge of generating the clinical data needed to support a particular alternative composition. This data would be required from each manufacturer and the data would need would be needed for each alternative composition that was proposed. 
+> 
+> There are also technical challenges to a different composition, some of the ones that are obvious I've listed here, determining potency, determining identity, and then also determined to evaluating clinical outcomes. In other words, immunogenicity. 
+> 
+> All of these are challenges because of the close relatedness of some, two different H3s, two different H1s, and some of these other combinations. 
+> 
+> One of the other challenges that we have to keep in mind is determining the effect of an alternative composition recommendation on vaccine timelines.
+> 
+> With our current H1, H3, B Vic and B Yam vaccines, manufacturers have a defined process, a timeframe that they use, but they almost always prepare at least one of these antigens at risk before strain selection decisions. 
+> 
+> So I think before anyone makes changes to the composition, we would all have to ask ourselves whether there is any effect on the timelines that result from that. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:45:58]
+> 
+> There's clearly still room for improvement. And that I still think presents us as an opportunity to ask ourselves whether this is a chance to actually make a vaccine that is somewhat better. Next slide. 
+> 
+> Okay. So this is some of the other opportunities, as I said earlier, several different alternative compositions have been proposed. I listed one reference here that was a fairly recent publication that listed some of these. We had presentations at the WHO meeting in July. But you've also heard these over the years, all sorts of proposals.
+> 
+> Some of the ones that are most commonly proposed, I've listed in the second bullet. 
+> 
+> For example, having two H3 antigens, sometimes you hear proposals for two H1 antigens, but here the idea would be to better cover circulating virus diversity. 
+> 
+> There have been proposals for higher doses of H3 antigen. This would be to hopefully improve the effectiveness against the virus with the greatest public health impact. 
+> 
+> And then there have been the proposals for higher doses of all vaccine antigens to improve the overall vaccine effectiveness. 
+> 
+> And here, I just want to remind people that are experienced with high dose Fluzone, here with 60 micrograms of antigen, as opposed to just 15 micrograms in the standard dose, this results in the elderly with greatly improved antibody titers and improved effectiveness. 
+> 
+> So there's reasons to support any of these compositions. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:48:10]
+> 
+> Every composition under consideration would need the supporting data from each manufacturer to update their license and our data needed for development for quadrivalent vaccines provides a general guide. 
+> 
+> In other words, immunogenicity of the new component, lack of interference with other vaccine components, and safety. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [02:51:47]
+> 
+> For some Southern hemisphere countries, they rely on release by the U.S. FDA of lot by lot, batch by batch, the vaccine that can be shipped to those countries. 
+> 
+> So although they may or may not have their own national regulatory agency, they rely on the U.S. FDA for release. So we need to continue to work with FDA in the U.S. to be able to release, let's say, a quadrivalent to a country that does not accept trivalent yet.
+> 
+> ...
+> 
+> Hana El Sahly, VRBPAC [02:53:07]
+> 
+> Seqirus and Sanofi are the two companies for which we meet in the fall for the Southern hemisphere in terms of FDA licensure. What is their share of the market in the Southern hemisphere?
+> 
+> David Greenberg, Sanofi [02:53:30]
+> 
+> I can begin to address that.
+> 
+> Our understanding that, for the two manufacturers that you just named, that there's a approximately up to about 10 countries in Southern hemisphere where our companies ship and require the U.S. FDA release of those batches. And we're in the range of 10 million, maybe up to 20 million, doses distributed to those countries. 
+> 
+> And I'd say most likely the majority of them are in Latin America.
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:57:25]
+> 
+> I tried to stress that in my presentation is that there are lots of possibilities out here, but there does need to be a little focus on some of them, so that we don't have 5 or 50 different possibilities and something that's unmanageable. 
+> 
+> I think there does need to be some prioritization of what we think the biggest opportunity is, and then start generating the data to make that happen. 
+> 
+> That's just my opinion. I don't know if others have other comments about that over.
+> 
+> ...
+> 
+> David Wentworth, CDC [02:58:37]
+> 
+> I'll give you an opinion now, and it's my opinion, not the CDC's opinion, not WHO opinion.
+> 
+> It would be very challenging. I think if you went there, my thought would be, we would have to come, have a delay for a little bit and come back with what would be the alternative, like if you wanted to do an alternative strain, what would, what it would be?
+> 
+> At this moment in time, it's a little tricky because it may be something like one of the two B viruses. So you'd pick a very antigenically distinct group, so the more antigenically distinct group is the two B from the two A three A1s that was nominated.
+> 
+> They're actually not that far apart. And so whether or not that would be that much of an improvement, I think is the real question and why people, why the studies are needed to compare just increasing the antigen altogether versus picking two kind of divergent viruses. 
+> 
+> If it were up to me to make the recommendation, I definitely wouldn't pick something old and something new for the-- if it was just one vaccine for every age group. And that's because of the immune boosting that you would get to the old thing would actually probably distract from the priming that you would get from the new antigen. 
+> 
+> And so those are the kinds of considerations that I think would have to be made now in a young population that's maybe never seen influenza H3, that could be very valuable, right? So it's kind of giving them an older person's immune repertoire early in life. And, but this is really very theoretical. 
+> 
+> And so what we work with is more like what exactly would be in this vaccine. If the committee really pushes to do something different, I think the the solution from my perspective would be to say come back with a recommendation and then we could look at that with that in mind.
+> 
+> ...
+> 
+> David Wentworth, CDC [03:04:02]
+> 
+> Part of the B Yamagata demise is quite similar to how we have, when we have a pandemic with human influenza, it will often displace the previously circulating virus. So for example, H2N2 influenza displaced H1N1 influenza in 1957, we no longer saw H1N1 that had been circulating since 1918, very fit virus in humans. 
+> 
+> But that even though it was very antigenically distinct, H2N2 coming in early and sweeping lots of people had a huge immune response that could be both kind of nonspecific, lots of innate immunity, et cetera. When the old virus is trying to replicate as well as recall memory response to maybe non neutralizing parts of the virus and a lot of T-cell responses to those viruses. 
+> 
+> So I-- my hypothesis really is that these two waves of distinct B Victoria lineage, even prior to the pandemic, was heavily impacting Yamagata and we really didn't see any Yamagata, then the pandemic happened and we, again, we didn't see very many flu viruses and what came out of the bottleneck of the pandemic, we didn't see Yamagata again.
+> 
+> ...
+> 
+> David Wentworth, CDC [03:04:02]
+> 
+> Part of the B Yamagata demise is quite similar to how we have, when we have a pandemic with human influenza, it will often displace the previously circulating virus. So for example, H2N2 influenza displaced H1N1 influenza in 1957, we no longer saw H1N1 that had been circulating since 1918, very fit virus in humans. 
+> 
+> But that even though it was very antigenically distinct, H2N2 coming in early and sweeping lots of people had a huge immune response that could be both kind of nonspecific, lots of innate immunity, et cetera. When the old virus is trying to replicate as well as recall memory response to maybe non neutralizing parts of the virus and a lot of T-cell responses to those viruses. 
+> 
+> So I-- my hypothesis really is that these two waves of distinct B Victoria lineage, even prior to the pandemic, was heavily impacting Yamagata and we really didn't see any Yamagata, then the pandemic happened and we, again, we didn't see very many flu viruses and what came out of the bottleneck of the pandemic, we didn't see Yamagata again.
+> 
+> ...
+> 
+> David Wentworth, CDC [03:05:48]
+> 
+> That's a bit of a conjecture, a lot of conjecture about potential demise of B Yamagata, because it really started before the pandemic even happened.
+> 
+> ...
+> 
+> David Wentworth, CDC [03:08:07]
+> 
+> The WHO global influenza program, within the pandemic preparedness and response kind of division, I've forgotten how they define it, which is headed by Wenqing Zhang, really does a lot of work in this space looking at gap analysis. 
+> 
+> So where do we have gaps? How can we help? And so part of it is building an infrastructure to where, turn the lights on where it's dark in a country that is maybe in an important area. 
+> 
+> The one thing I would say that gives me a little bit of confidence within the regions, like if you go a little bit higher than countries and get into WHO regions, these are sometimes called transmission zones, they're more regionally, geographically oriented, but we do have good coverage within a region. 
+> 
+> ...
+> 
+> David Wentworth, CDC [03:08:55]
+> 
+> Now you've pointed out Russia. And this is one of the-- to Dr. Perlman's questions, usually we have a lot more sequence data from Russia and actually have more viruses from Russia at the collaborating center at the CDC and the collaborating center at the Crick Institute in London, the worldwide influenza collaborating center there.
+> 
+> It's really not-- so there's two national influenza centers in Russia, and they're both working and collecting viruses and we are getting some sequence data out of those centers, but it's the shipping difficulties that have led to that in this period, the last couple of years, it's shipping difficulties that have led to some problems there. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:16:41]
+> 
+> I don't have an answer for you today, but I know that there is interest among generally the manufacturing community to move in that direction. And yeah, there's definitely work to be done, not only in understanding which would be the right,  strains, say in a 3A formulation, but then also the potency testing, the immunogenicity testing, the HAIs, and so forth that all have to be worked out. So it's also not a quick step. 
+> 
+> And then we would in industry would conduct the clinical trials, just as we did a dozen years ago when we conducted studies of quadrivalent at the time that only trivalent was available. 
+> 
+> So, don't have an answer today, but we're, I think as an industry sincerely interested and want to work with those who are here today, as well as, as others in the stakeholder community around vaccines.
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:17:59]
+> 
+> I'm reaching back to when industry moved from trivalent to quadrivalent the probably phase one two trials may or may not be needed, but if they are, they're probably going to be relatively small and quick. And then phase three studies are probably going to be probably in the range of hundreds of subjects, individuals who participate. 
+> 
+> It's not to look at efficacy, which as you know, is a much larger question, but at least, you know, confirming the non-inferior safety, or safety parameters and non-inferior immunogenicity data. 
+> 
+> So you're looking at a season or two to be able to conduct those studies, but perhaps that could be done efficiently in both the Southern hemisphere and the Northern hemisphere countries, so that you get to the answers needed pretty rapidly.
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:19:53]
+> 
+> Although I don't, again, don't have all the answers, there could be an impact on capacity. 
+> 
+> Having manufacturing facilities across all the different companies, running full speed for many months to produce four, working with four strains, when that reduces to three, you can see how that could, I would think reduce capacity overall then to ramp back up to quadrivalent is not difficult, but takes some planning. 
+> 
+> So I would just remind you all that part of the rationale justification beyond the obvious of coverage of two B lineages at the time that the decisions were made, was that it increased capacity and that in the event of an influenza pandemic, it would generally be increased capacity to meet the challenges, the demand of a pandemic, with a reduction of to trivalent, you lose a little bit of that, I think we have to admit that.
+> 
+> ...
+> 
+> Hana El Sahly, VRBPAC [03:22:38]
+> 
+> Two meetings ago, and the voting was unanimous to keep the Yamagata, but the absence of Yamagata circulation was brought up, was discussed, and pretty much everyone who voted said, this, we will keep this vote going just in case Yamagata rears its head, and to allow regulatory agencies and manufacturers time to adjust. 
+> 
+> Last meeting, the voting was seven-six, with seven keeping the Yamagata, but even the individuals who did vote to keep the Yamagata, it was precisely to allow time for manufacturers and regulatory agencies to adjust because there's no-- the risk benefit is no longer there to keep the Yamagata. 
+> 
+> But what I'm concerned about is that it seems like we are going to begin the discussion about it now with manufacturers and regulatory agencies. Why this not has not taken place so far and which would've allowed that proposed timeline to either have shifted dramatically into a smaller interval or not even be there?
+> 
+> ...
+> 
+> Jerry Weir, FDA [03:25:06]
+> 
+> I sense and feel your frustration, Dr. El Sahly, but I'd like to remind you that the VRBPAC discussions are having an effect on moving this process, whether you believe it or not. 
+> 
+> I actually think that this meeting that the WHO held this summer was a direct result of the voting in March. In fact, I'm pretty sure it had a lot to do with it. 
+> 
+> So while I understand that you may be frustrated that it's taking a while, I do think it's having an effect. I do think it's moving the conversation forward. And I do think that you're going to see some tangible results for this at some point, and I hope the near future.
+> 
+> So again, I understand it, but I, again, I think all of you in the VRBPAC are having an effect, and you're doing an important service by stating these concerns and stating what you think about this. I'll just leave it at that. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [03:28:19]
+> 
+> The flu community has a very unique track record of working together, unlike almost every other vaccine. We and I say we globally, and this includes manufacturers, includes this worldwide network of influenza centers, collaborating centers, ERLs, and lots of academic researchers meet periodically. 
+> 
+> They do discuss, we all discuss these things and including we have these discussions at our advisory committee that we're all part of. 
+> 
+> I think this is what I meant about trying to stress the need for a consensus. 
+> 
+> So my personal opinion is that we have these scheduled meetings at least twice a year, and this is sponsored usually by the MHRA and the WHO and we have them in July and January usually. I think that's an ideal forum to try to get some sort of consensus of what, how one would prioritize an alternative composition, because I do think that you could list so many possibilities that you'll never get every the data needed for everything. 
+> 
+> So I do think that is one forum where we can do it. I think the input from the VRBPAC that we take to those meetings is important. That's what I was trying to tell Dr. El Sahly a minute ago.
+> 
+> I think your voice does get heard. So I, I think this is a combined responsibility of all of us to try to work together, to see if we can make some improvement to the vaccine. I don't know if that's a great answer for you, but I really do believe it. 
+> 
+> So I think we express those opinions here. We express them in these meetings where we all get together, and we hope that we drive something toward a prioritization of what should be investigated first and start generating this data. Anyway, that's my personal view.
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:50:25]
+> 
+> On the Northern hemisphere, for the next season, is that manufacturing has already started at risk. 
+> 
+> Even now in October, we're in October. So it's, the process has started. There is a tremendous amount of coordination that occurs when we're speaking collectively of manufacturing of more or less around 170 million doses of vaccine and decisions are made in manufacturing facilities at an early stage made right now, as to whether the final vial filling syringe filling is going to be a trivalent or a quadravalent formulation. 
+> 
+> It's not something that you can decide at the last minute. 
+> 
+> So my point on behalf of manufacturing is that for the Northern hemisphere season, through the next six months, we can move as rapidly as we can to that, getting the trivalent approvals, making sure all of the validation data are with the agency and they're reviewing them and approving them, we're making decisions now and in the coming weeks to months on what ends up in the filling line to then ship out, starting in July.
+> 
+> It's a process in parallel. We can work with the agency collectively as manufacturers to move towards trivalent. But when it, at the end of the day, when it comes to packaging filling and packaging, the product to ship, starting in July in the U.S., those decisions are made really in the next few months. So do we, as manufacturers, can we guarantee that we're gonna have all the approvals that are necessary for reactivating the TIV and updating the quality data, and validation data to know for sure that all we need to do is package trivalent and then ship it in July, August, September? I don't see how that's possible across the manufacturers. 
+> 
+> And so if we were to take that risk, then I'm really worried that we would have a major shortfall in vaccine distribution next summer and fall. So we're going to move with the agency to get the TIV. I just don't see, and again, speaking for all the manufacturers, just don't see how we can guarantee that what we package in vials and syringes can only be TIV, and that we're absolutely guarantee that we'll be able to ship them because we haven't had the one-on-one discussions with the agency to get us to that final point.
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [03:53:44]
+> 
+> I was present at the July 13th meeting in London, and actually, uh, wrote the first draft of the summary of the meeting that is circulated, and Dr. El Sahly there was clearly an effect of the VRBPAC discussions and recommendations. 
+> 
+> However, at the same time, I was rather surprised that while the global influenza regulatory and recommending community had heard the concern about the continued inclusion of the B Yamagata, the manufacturers really hadn't heard it, and there was surprise and somewhat, I may say dismay at the possibility of moving very fast. 
+> 
+> And that's where we first heard some of the especially regulatory concerns. 
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [03:56:49]
+> 
+> What we're talking about here is removing a component of the vaccine, which hasn't been detected in greater than three years. Not only that, the component that we have in the vaccine is a 2013 virus. And if we do have B Yamagata reemerged from some hiding place, the likelihood of a B 2013 virus protecting against that virus of that strain is gonna be pretty low. 
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [03:58:06]
+> 
+> There's been work on other things like the mRNA vaccine, but very little work on some of the simple issues about, for example, increasing the AH3N2 component of the vaccine. And I had hoped that for a smooth transition, something like that would have been looked at, but very little work has been done, or at least work that we can hear about because of other considerations.
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [03:58:44]
+> 
+> I think it's pretty clear that we can't really do that right now. 
+> 
+> The vaccine is ready to go, the manufacturing has gone on, and it would be quite disruptive to move ahead with removal right now in the Southern hemisphere formulation.
+> 
+> I feel uncomfortable at promising that B Yamagata lineage would be included in the Northern hemisphere formulation. I think that's something we can take up at that time. 
+> 
+> We may, I think it, it may be clear from our discussion in our votes that if possible, we would like to see it removed from the Northern hemisphere formulation, at least for the United States, because I think we're in a better position in terms of the regulatory situation to do that in the United States, than many countries, which have a different system and in which the licenses for the old trivalent vaccine are not in the state that they are in the United States. 
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [04:00:19]
+> 
+> What I hadn't thought about before the meeting in London was the fact that B Yamagata is in the live attenuated vaccine. We don't use a whole lot of live attenuated vaccine in the United States, but there are at least theoretical disadvantages about giving a live attenuated B Yamagata containing vaccine. 
+> 
+> And, beside that, in addition to the  issue of giving something that you don't need.
+> 
+> ...
+> 
+> Hana El Sahly, VRBPAC [04:29:19]
+> 
+> Does the committee recommend inclusion of a B/Phuket/3073/2013 (B/Yamagata lineage)-like virus as the lineage virus as the second influenza B strain in the vaccine, please vote, yes, no, or abstain. 
+> 
+> ...
+> 
+> Sussan Paydar, FDA [04:36:25]
+> 
+> We have a total of 13 votes for question number three. Here are the responses of each of the 13 voting members for voting question number three. I'll read themaloud for the public record. We have a unanimous vote, yes, 13 out of 13 have voted, yes. 
+> 
+> ...
+> 
+> Archana Chatterjee, VRBPAC [04:39:51]
+> 
+> I'd like to make two points, the first one being, the word, the phrase, as soon as possible. 
+> 
+> I worked with a very experienced infection controlled practitioner, Ms. Sharon Plummer for many years at the Children's Hospital in Omaha. And she would often say soon is not a time. 
+> 
+> So I would say that, I would encourage all of the people that are involved to really try to identify timelines by which we should expect to see some movement on this front. So that's the first point I'd like to make. 
+> 
+> The second I'd like to make is that sometimes members of this committee at these meetings for the selecting the flu strains have felt that we are nearly rubber stamping what has been put forth by the WHO. So it was very reassuring to me to learn that our time is not wasted here, that in fact, our deliberations and discussions have meaning and importance and actually move the needle. 
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [04:41:16]
+> 
+> I do like the flexibility of as soon as possible, but there are timelines that have been discussed and I think we need to try to see whether it's possible to do it in the United States, at least, by the time we meet next March, because it's going to, it's very clear that the whole world may not be moving in synchrony to trivalent vaccine. 
+> 
+> ...
+> 
+> Hana El Sahly, VRBPAC [04:52:19]
+> 
+> So hopefully when we reconvene in six months, the issue of the Yamagata would be behind us. That's hopefully enough time to move on. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [04:52:55]
+> 
+> My take from the discussion was that there was while everyone agreed with the ASAP as soon as possible phrase, I think everyone also realized that that was not practical for right now, the Southern hemisphere, but I did get the impression from several comments that the committee wasn't quite ready to give up on 24-25 Northern hemisphere yet. And that we have a few months to keep working on this. 
+> 
+> And I was pleased to hear the manufacturers say that they wanted to work with us all to see what they could do, even without any guarantees. So I think the burden is on us to do that work, to see what we can do. 
+> 
+> I also heard that everyone was enthusiastic about trying to come up with ways to improve the vaccine with other formulations. And again, though, I got the message that what the committee would like to see is some results. Some the next time to try to hear something that's being done to actually try to make this happen. So I think that's another take home message that all of us heard. 
+> 
+> And once again, I would like to thank David Wentworth for all he's done for the last four, five years, and welcome Rebecca Kondor for future meetings like this. 
+
 ## CDC director at a Yale School of Public Health event
 
 - **Source:** [recording](https://youtu.be/LNXisftWb68) from Yale School of Public Health
