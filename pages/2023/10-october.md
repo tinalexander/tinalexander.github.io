@@ -417,16 +417,6 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > ...
 > 
-> David Wentworth, CDC [03:04:02]
-> 
-> Part of the B Yamagata demise is quite similar to how we have, when we have a pandemic with human influenza, it will often displace the previously circulating virus. So for example, H2N2 influenza displaced H1N1 influenza in 1957, we no longer saw H1N1 that had been circulating since 1918, very fit virus in humans. 
-> 
-> But that even though it was very antigenically distinct, H2N2 coming in early and sweeping lots of people had a huge immune response that could be both kind of nonspecific, lots of innate immunity, et cetera. When the old virus is trying to replicate as well as recall memory response to maybe non neutralizing parts of the virus and a lot of T-cell responses to those viruses. 
-> 
-> So I-- my hypothesis really is that these two waves of distinct B Victoria lineage, even prior to the pandemic, was heavily impacting Yamagata and we really didn't see any Yamagata, then the pandemic happened and we, again, we didn't see very many flu viruses and what came out of the bottleneck of the pandemic, we didn't see Yamagata again.
-> 
-> ...
-> 
 > David Wentworth, CDC [03:05:48]
 > 
 > That's a bit of a conjecture, a lot of conjecture about potential demise of B Yamagata, because it really started before the pandemic even happened.
