@@ -66,14 +66,6 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > ...
 > 
-> David Wentworth, CDC [01:34:12]
-> 
-> As Dr. Weir mentioned at the outset, there have been no confirmed detections of B Yamagata circulating since after March of 2020, and this coincides with the COVID 19 pandemic.
-> 
-> Of the over 15,000 influenza B viruses collected between this February 1st and August 31st, this timeframe that we're interested in, and lineage tested, no B Yamagata lineage viruses were confirmed. 
-> 
-> ...
-> 
 > David Wentworth, CDC [01:35:38]
 > 
 > It was the-- our opinion as the WHO vaccine composition advisory committee that while both trivalent and quadravalent vaccines remain safe and effective, the inclusion of the B Yamgata lineage antigen in quadravalent influenza vaccines is no longer warranted, and every effort should be made to exclude this component as soon as, I put it here, practically possible. 
