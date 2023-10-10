@@ -15,6 +15,21 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 10, 2023
+
+## Ohio health department on BA.2.86 detections
+
+- **Source:** email from Ken Gordon of Ohio Department of Health
+- **Date:** received October 10, 2023
+
+> The Ohio Department of Health’s surveillance systems have found low levels of the BA.2.86 variant present in Ohio, and there remains no evidence that this variant is causing any more severe illness than other recent variants.
+> 
+> Our wastewater surveillance system provides early indications of changes in virus burden by geographic areas, including the presence of specific variants. At this time, we are not seeing anything of concern in any particular region as it relates to BA.2.86.
+> 
+> You can view our wastewater dashboard by visiting our COVID-19 data page, clicking on the “visualize” tab and then scrolling down and clicking on the “wastewater” button.
+> 
+> ODH continues to encourage Ohioans to stay up to date with their vaccines and to stay home if they are sick, to protect themselves and others from the virus.
+
 # October 6, 2023
 
 ## FDA meeting on Southern Hemisphere influenza vaccine strain selection
