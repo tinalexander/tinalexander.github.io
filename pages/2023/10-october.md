@@ -1,6 +1,6 @@
 ---
 title: October
-layout: default
+layout: minimal
 parent: 2023
 has_children: false
 has_toc: false
