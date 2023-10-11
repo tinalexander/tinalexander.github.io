@@ -15,6 +15,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 11, 2023
+
+## FDA spokesperson on counterfeit semaglutide
+
+- **Source:** email from Audra Harrison of Food and Drug Administration
+- **Date:** received October 11, 2023
+
+> The FDA will continue to investigate each report of suspect counterfeit drugs to determine the public health risks and the appropriate regulatory response. Additionally, our Office of Criminal Investigations will continue to pursue criminal investigations targeting criminal enterprises involved in drug counterfeiting activities and other investigations with a nexus to the secure supply chain. The FDA remains vigilant in protecting the U.S. drug supply from these threats.
+> 
+> While we understand these drugs are in short supply and patients are having difficulty obtaining their medication, the FDA urges patients to obtain prescription drugs only from state-licensed U.S. pharmacies or physicians that are located in the United States, where the FDA and state authorities can assure the quality of drug manufacturing, packaging, distribution and labeling. FDA’s BeSafeRx campaign helps consumers understand the potential dangers of buying prescription medicines online and make informed purchasing choices. FDA urges patients to talk to their doctor if they have questions about their medications. 
+> 
+> We also continue to raise awareness among consumers and healthcare professionals about  the dangers of counterfeit drugs: Counterfeit Medicine | FDA. 
+
 # October 10, 2023
 
 ## Ohio health department on BA.2.86 detections
