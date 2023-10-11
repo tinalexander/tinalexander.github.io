@@ -1,6 +1,6 @@
 ---
-title: Articles
-layout: default
+title: Articles in 2023
+layout: minimal
 parent: 2022
 has_children: false
 has_toc: false

@@ -1,6 +1,6 @@
 ---
-title: September
-layout: default
+title: September 2023
+layout: minimal
 parent: 2023
 has_children: false
 has_toc: false
