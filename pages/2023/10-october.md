@@ -15,6 +15,27 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 12, 2023
+
+## HHS spokesperson on new COVID-19 vaccination figures
+
+- **Source:** email from spokesperson for the Department of Health and Human Services
+- **Date:** received October 12, 2023
+
+> “COVID-19 vaccine distribution, which has shifted to the private market, is a lot different than it was last year when the government was distributing them. The Biden-Harris Administration, through HHS, has been working directly with manufacturers and distributors to ensure that the vaccines are getting to pharmacies, hospitals, clinics, pediatricians, and other vaccination sites, including long-term care facilities. As a result, more than 7 million Americans have received their updated COVID vaccine in September, and 91% of Americans 12 years and older can access the vaccine within 5 miles of where they live. Just as we did last vaccine season, we will be working to reach Americans where they are and inform them of the updated vaccines and where they can get them.”
+>  
+> It is a priority for this Administration to ensure that Americans – regardless of their income or health insurance status – can access vaccines free of charge, including the uninsured through the Bridge Access Program.
+> 
+> Since the updated COVID-19 vaccines rollout through the commercial market, we have made the following progress to keep Americans protected this respiratory virus season:
+> 
+> More than 7 million Americans have received the updated COVID-19 vaccine.
+> 
+> Almost 14 million vaccines have shipped to pharmacies and other locations, with 91% of Americans 12 years and older living within 5-miles of a vaccination site.
+> 
+> And over 710,000 vaccines have been ordered through CDC’s Vaccines for Children (VFC) program, which provides vaccines to half of American children. Thirty thousand VFC sites across the country have ordered updated vaccines.
+> 
+> As we head into the fall and winter season, we will be encouraging Americans, particularly older adults, to get their COVID-19 vaccine in addition to their annual flu shot, the RSV vaccine for people over 60 and pregnant people during 32 and 36 weeks of pregnancy, as well as an RSV immunization for infants younger than 8 months.
+
 # October 11, 2023
 
 ## FDA spokesperson on counterfeit semaglutide
