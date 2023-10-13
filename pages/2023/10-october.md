@@ -17,6 +17,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 13, 2023
 
+## Novavax spokesperson on availability of their COVID-19 vaccine
+
+- **Source:** email from Giovanna Chandler of Novavax
+- **Date:** received October 13, 2023
+
+> Novavax’s protein-based non-mRNA updated COVID-19 vaccine is now widely available across the U.S., including in pharmacies such as Costco, CVS Pharmacy, Giant, Publix, Rite Aid, Stop & Shop and Topco, physician offices and public health clinics, as well as through government entities including the Bridge Access Program and Vaccines for Children. Store vaccine locators are in the process of being updated and for any questions on availability people are encouraged to call their local pharmacy. Below is the full release from Novavax.
+> 
+> This follows the recent FDA authorization of Novavax’s COVID-19 vaccine in patients aged 12 years and older, developed using traditional vaccine technology. The availability of the updated Novavax vaccine provides a protein-based vaccine option offering protection against the XBB variant this fall.
+> 
+> Advocacy groups and pharmacists offer perspective on the availability of an additional vaccine option, noting:
+> 
+> “COVID continues to disproportionately impact certain communities, underscoring the persistent health disparities facing our country. The addition of another authorized COVID-19 vaccine strengthens the public vaccine supply nationwide and is another step forward in ensuring everyone has more equitable access to protecting themselves.” Sia Anagnostou, Co-Founder and Board Member, “Why We Vax”
+> 
+> “As a pharmacist, it’s critical that we offer patients a diverse set of COVID-19 vaccine options to help them make the right choice for themselves and their families. The option to safely mix-and-match mRNA and protein-based technologies means we can offer those in our care more choices to keep everyone safe this fall and winter.” John Beckner, R. Ph., National Community Pharmacist Association, Senior Director, Strategic Initiatives
+> 
+> “Timely vaccination is critical as we head into immunization season, which is why I am thrilled that families across Georgia now have an additional COVID vaccine to help protect themselves and their loved ones against COVID. We are now offering a non-mRNA, protein-based vaccine option at our pharmacy, Premier Drugstore, which uses a well-established technology used to develop other common vaccines that protect people against diseases such as influenza, hepatitis B and whooping cough. Talk with your healthcare provider or pharmacist about the option that’s right for you.” Bryan Green, Pharm.D., Owner, Premier Drugstore
+>  
+> If you are planning to cover this story, please let me know if I can help provide any additional information or connect you with a pharmacist, advocacy partner or company spokesperson.  
+
 ## CDC and AIM officials at webinar on vaccines for children
 
 - **Source:** [recording](https://covidvaccineproject.org/news/examining-the-vfc-program-and-its-role-in-providing-kids-with-covid-19-vaccine-coverage/) published by COVID-19 Vaccine Education and Equity Project
