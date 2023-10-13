@@ -17,9 +17,9 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 13, 2023
 
-## Novavax spokesperson on availability of their COVID-19 vaccine
+## Novavax media team on availability of their COVID-19 vaccine
 
-- **Source:** email from Giovanna Chandler of Novavax
+- **Source:** email from media team at Novavax
 - **Date:** received October 13, 2023
 
 > Novavax’s protein-based non-mRNA updated COVID-19 vaccine is now widely available across the U.S., including in pharmacies such as Costco, CVS Pharmacy, Giant, Publix, Rite Aid, Stop & Shop and Topco, physician offices and public health clinics, as well as through government entities including the Bridge Access Program and Vaccines for Children. Store vaccine locators are in the process of being updated and for any questions on availability people are encouraged to call their local pharmacy. Below is the full release from Novavax.
