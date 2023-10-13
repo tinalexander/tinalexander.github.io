@@ -15,6 +15,53 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 13, 2023
+
+## CDC and AIM officials at webinar on vaccines for children
+
+- **Source:** [recording](https://covidvaccineproject.org/news/examining-the-vfc-program-and-its-role-in-providing-kids-with-covid-19-vaccine-coverage/) published by COVID-19 Vaccine Education and Equity Project
+- **Date:** published October 11, 2023
+
+> Demetre Daskalakis, CDC [00:35:35]
+> 
+> We're working really closely with all components of the supply chain, from manufacturer, distributor, etcetera, to make sure the vaccine is moving. We've been meeting with them actually every day, every weekday, to make sure that we are aware of how vaccine is moving, given that this is a primarily commercial vaccine. 
+> 
+> I think from the VFC perspective, I can tell you that we're-- we have orders and shipments of over 800,000 vaccines that have already been done. So we're actually doing gangbusters business from the perspective of VFC. 
+> 
+> And I suspect, that early on, in the first week or two, that most of the pediatric vaccine that was in the world was actually VFC vaccine. 
+> 
+> So, I think the other part of this is that the commercial reality of this vaccine is that providers are, I think, are starting to order more and they're trying to sort of see how it fits into their business model as well. 
+> 
+> And so I think that they're seeing if this, what coverage is like, making sure that the vaccine is covered, investing what they can invest in the orders that they have coming in. So I think that really where we are able to pull the lever, which is VFC, I think that we're doing sort of great-- we're seeing great movement of vaccine out to VFC providers and where we don't have as much control anymore, we're working really closely with the supply chain and with various sort of organizations that represent pediatric providers to make sure that we signal that this vaccine is covered, and in fact, that it is really a critical piece of a preventative care for their population. 
+> 
+> ...
+> 
+> Michelle Fiscus, AIM [00:37:24]
+> 
+> It's complicated from the ground floor of all of this, because there's so many things that have to be taken into consideration. And as Dr. Daskalakis mentioned, those pediatricians and others who vaccinate children who are doing it on the commercial side. So with, for children who are insured, it is-- we have a long history of insurance companies lagging in approving payment for vaccines and other services. 
+> 
+> And so what they're concerned about is providing a vaccine to a child and then waiting 30, 60, 90, or forever days, for an insurance company to come back and pay them for it. And it's quite possible that an insurance company could pay them less than they actually spent to purchase the vaccine in the first place. And that's not a model that's sustainable. 
+> 
+> Pediatricians, I often refer to as the public school teachers of medicine. They're there because they love kids. They're not-- they're usually the lowest paid of any medical specialty. But they're there to make sure that little kids get to grow up to be healthy adults. And that is really undervalued by insurance companies that are looking to show things on the books right now that that improve outcomes. 
+> 
+> And sometimes when you do things for kids, those improved outcomes take 20, 30 years to show up.
+> 
+> So that's going to take some time on the commercial side for pediatricians and others to feel comfortable that they're going to get a vaccine, they're going to give it to a child, and they're not going to be be paying out of pocket to administer that vaccine.
+> 
+> ...
+> 
+> Michelle Fiscus, AIM [00:39:08]
+> 
+> On the Vaccines for Children side, things are much better. And as Dr. Daskalakis is mentioned, CDC has been knocking on all the doors, and banging all the heads, trying to make sure that those VFC doses are coming in and going out. 
+> 
+> It depends a little bit on where you live. If you're in a very large state, that's got tons and tons of VFC providers, there still may not be enough vaccine that are available from the manufacturers or the distributors to make sure that every single VFC office in that state has a supply of vaccines yet.
+> 
+> That will get better over the next few weeks as they continue to put out more vaccine. So if you can't find it now, then just hang on and check again in a week or two, don't give up, because it will be there. 
+> 
+> And this is kind of an unusual situation where you're actually going to see better access for children who are on Medicaid or uninsured than you're going to see for children who have commercial insurance. 
+> 
+> That's not usually the way things work, but for a little while, we're probably going to see that with respect to this vaccine.
+
 # October 12, 2023
 
 ## HHS spokesperson on new COVID-19 vaccination figures
