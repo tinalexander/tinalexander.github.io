@@ -15,6 +15,155 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 16, 2023
+
+- **Source:** webinar with immunization programs by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 11, 2023
+
+> Evelyn Twentyman, CDC [00:05:18]
+> 
+> Specifically I wanted to share the number of doses that are going across public health infrastructure Bridge Access program sites. And that number is 3 million doses. 
+> 
+> So this, I share this to say, this is a much smaller program than the U.S. federal government program for the distribution of COVID 19 vaccines, which ended with the onset of COVID 19 vaccine commercialization. That program was not replaced by the Bridge Access program for COVID 19 vaccines. 
+> 
+> That program was replaced by the commercial marketplace, but it is really critical to CDC, and I think to many of you to do everything that we can to support vaccine equity, as we make the transition into the commercial marketplace. And that is why CDC worked to stand up the Bridge Access program. 
+> 
+> Now, if all Bridge Access program vaccine doses are used, we know that we'll achieve approximately twice the COVID 19 vaccine coverage that we did for uninsured adults in the 2022 to 2023 season. So we do hope that all of these Bridge Access program doses get used, but we did want to provide that context to help contextualize the smaller number of doses that many of the folks on this call are seeing as compared to the orders that they received in the era prior to commercialization. 
+> 
+> This is also to say that the Bridge Access program is limited. It is temporary. It is not comprehensive in that it provides only COVID 19 vaccines. It does not provide the other vaccines, which adults are recommended to receive. 
+> 
+> And it does not provide sufficient vaccine doses to cover the entire uninsured population, should all uninsured folks actually seek COVID 19 vaccination, the longer term and more sustainable solution to the problem of vaccine access for Americans who are uninsured, specifically American adults who are uninsured would come in the form of a Vaccines for Adults program. 
+> 
+> I think I speak for many of us when I say that we hope that this Bridge Access program is indeed a bridge to such a more comprehensive and sustainable program. Until that point we will do everything that we can to support vaccine equity, including through the Bridge Access program. 
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:10:25]
+> 
+> We had talked several weeks ago about Novavax's working on a potential returns program for the public sector to sort of offset the concerns about vaccine wastage that are go along with a multi-dose vial. 
+> 
+> And while they did come up with a returns program for the commercial customers, it ended up that they were not able to come up with a kind of efficient returns mechanism that would work for the purchase of the vaccines purchased on the CDC contracts. 
+> 
+> So instead, what they did was to lower their price. So the vaccine that was originally, I think $72.50, was the original price that we had told you all about when we did the CNAT, actually was reduced to $58 per dose. 
+> 
+> So it's a significant reduction in price because that seemed the more straightforward way I think to mitigate the risk of waste. And the returns program would not have been able to sort of quickly process all of the returns. 
+> 
+> ...
+> 
+> Nathan Crawford, CDC [00:19:09]
+> 
+> Can you explain the reason that eTrueNorth cannot enroll some chains into the Bridge Access program? 
+> 
+> I can start and then Evelyn, if you want to offer any other thoughts, this is a question we've received. 
+> 
+> There are some specific requirements or expectations that provider organizations have to meet, if they're working with eTrueNorth, and eTrueNorth can explain that to those organizations. And so that's what we're really recommending is that those organizations just point you point them back to eTrueNorth and they can help get them connected to make sure they can work with them. 
+> 
+> But Evelyn, what else would you offer about that?
+> 
+> Evelyn Twentyman, CDC [00:19:47]
+> 
+> I'll just offer that for some pharmacies, they may find themselves in some conflict with federal acquisition requirements or otherwise known as FAR requirements, if participating under one of these umbrellas.
+> 
+> And not being a lawyer, I'm not sure I can explain that in depth, but again, I'll just reiterate what you so wisely said, Nathan, eTrueNorth is a great source for clarifying whether a pharmacy is able to participate in their umbrella aspect of this program or not.
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:27:21]
+> 
+> I am not aware of any ongoing current McKesson shipping delays. So I think if you are experiencing shipping delays that we would want you to reach out to Cameron Noblet or his team, Ashley Foss, and Kayla Artison, because we are actually not right now tracking specific shipping delays. 
+> 
+> So I think we would want to hear from you if you have some orders that you're concerned about. And so please reach out with specifics. That would be helpful.
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:28:34]
+> 
+> So we have twice now increased the amounts of Pfizer vaccine, on the 27th, I think it was sorry-- on the 27th, we increased everyone by 33% and then last night we actually increased by 20%. So I think we are able to make some increases there, but what we really need people to do is place orders, get those orders out, and then we will refill them with the next cadence. 
+> 
+> So I think there's been some increases, but as much as you order, we will replace. So I think that's our recommendation.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:30:07]
+> 
+> I would say that both eTrueNorth and Walgreens are able to offer popup vaccine clinics in other words, mobile clinics. And so if you wanted to get in touch with them, you could also try to work out a specific event that way, but agree with Nathan, do encourage that kind of enrollment. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:31:03]
+> 
+> While many residents of long-term care facilities do have insurance, in fact, almost all, that is not the case for long-term care facilities staff. And so to this end, actually CDC held, a convening of long-term care organizations, with ISD staff, with Dr. Mandy Cohen, with NCIRD leadership to talk about these needs and how they could be served. 
+> 
+> Additionally, we have connected long term care facilities, with both eTrueNorth and Walgreens, to explore popups to this end. 
+> 
+> And then on a more general note, I would say we have been relieved to see that some of the supply constraints that long term care facilities seems to have very initially, have been resolved. So the issues for residents have been resolved and resolution for staff is ongoing through CDCs Bridge Access program. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:35:08]
+> 
+> So, the way that Vaccines.gov is working has evolved with the end of the public health emergency and with the end of the way previous reporting occurred as the questioner rightly points out and clearly knows.
+> 
+> The issue is that we are-- we have not yet built up the capacity of Vaccines.gov to onboard new providers. That is to say that providers that were not previously enrolled in Vaccines.gov are not actually currently able to enroll directly with Vaccines.gov, which does make a difference across our public health infrastructure sites. 
+> 
+> Additionally, we are hard at work enrolling eTrueNorth en masse to allow all of these smaller and independent pharmacies to display at the same time. But that work too is ongoing. 
+> 
+> So thanks for your patience while we sort this out.
+> 
+> Vaccines.gov is a collaborative effort across multiple institutions. It is not owned by CDC, but it is very important to CDC as a critical resource to others for finding these sites. So please stay tuned. We will get back to you when we know how you can enroll once again. 
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:40:47]
+> 
+> We have allocations in place for COVID 19 vaccines. We're actually not planning in the near term to change that because that's the way we can try to ensure that people have equitable access to vaccines. 
+> 
+> We've been able to increase several of those allocations from the initial allocations. That includes the Pfizer products and there have been two increases there. And for the Moderna pediatric, we had a significant increase there from the initial allocation. 
+> 
+> So we've been able to raise the allocation levels, but we're not in a position right now to remove allocations. So I think folks will need to be prepared for continued ordering under allocations for COVID vaccines.
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:44:43]
+> 
+> I think for right now, what you experienced to last night when we did the allocations across all products, is what we're expecting will be what you will be refilled to moving forward every two weeks.
+> 
+> If there are increases, we'll let you know, but we've had some increases to get to this point. So I think right now we-- we think we might be close to where we're gonna level off for our cadence.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:49:56]
+> 
+> We understand that there are multiple challenges with Vaccines.gov and are working through those. In fact, some of these challenges pertain to inventory and inventory, just moving really quickly within pharmacies, and pharmacies not necessarily being able to update their inventory in time to be accurately reflected on Vaccines.gov.
+> 
+> So this is kind of a multifactorial problem.
+> 
+> To be completely honest, I don't know that we're-- that we have developed messaging to this end, but I do recommend to my patients that they simply call the pharmacy before they go. I've found that to be most reliable, but rest assured we are continuing to work on Vaccines.gov in the background and continuing to enable pharmacies to both have that inventory and more accurately and quickly report that inventory. 
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:56:45]
+> 
+> I will explain the situation, Pfizer's vaccine for children, six months to four years, does require a diluent and the diluent can't be shipped along with the vaccine because the cold chain is different. 
+> 
+> The vaccine coming at ultra cold and the diluent cannot be transported at ultra cold. 
+> 
+> So the way that's working is that the diluent ships first to ensure that you don't get vaccine, the provider doesn't get vaccine, without having diluent arrive either at the same time or in advance. And so because of that, they will be staggered. 
+> 
+> They are staggered shipments and they will actually continue to be staggered shipments so that we can make sure that the diluent is there when the vaccine arrives. So I guess-- I guess that might seem like a partial shipment. I was thinking of kind of only part of the vaccines arriving, but that makes sense. And so, that is actually intentional because the shipments can't be-- the products can't be together in the same shipper. 
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:58:20]
+> 
+> Novavax vaccines can be ordered as part of the Bridge program as well, that we have an adult contract for Novavax. So all three of those manufacturers brands would be available for the Bridge program and also for VFC because we have a pediatric contract with each of them as well.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:58:49]
+> 
+> I just wanted to add on the pharmacy component side of the Bridge Access program, only CVS will be carrying Novavax vaccine. CVS, Walgreens, and the independent pharmacies under eTrueNorth will be carrying Pfizer and Moderna.
+
 # October 13, 2023
 
 ## Novavax media team on availability of their COVID-19 vaccine
