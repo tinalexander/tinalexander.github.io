@@ -24,7 +24,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 > Tim Uyeki, CDC [00:07:04]
 > 
-> Right now in the us, there's pretty low influenza activity. That doesn't mean there's zero. 
+> Right now in the U.S., there's pretty low influenza activity. That doesn't mean there's zero. 
 > 
 > We have had influenza hospitalizations in the U.S., so again, it's not low, and we do clearly expect influenza activity to increase in the coming weeks to months. 
 > 
