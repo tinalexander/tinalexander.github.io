@@ -17,6 +17,63 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 17, 2023
 
+## CDC official at congenital syphilis presentation
+
+- **Source:** [session](https://cdmcd.co/zEgqBY) at IDWeek 2023 conference
+- **Date:** broadcasted October 12, 2023
+
+> Lindley Barbee, CDC [00:35:57]
+> 
+> So these are preliminary data for 2022. They're not finalized yet. But just like we've seen in the past years and through the 2021 data, we have an increase in syphilis in all persons, but primarily here, we're looking at primary and secondary syphilis among women of reproductive age 15 to 44. And this really parallels the increase in the number of cases of congenital syphilis that you're seeing on the right hand side in the green graph there.
+> 
+> Between 2013 and 2022, there was an increase from 362 cases of congenital syphilis to almost 3,500 cases for an increase of nearly 900% in the past 10 years. That also puts us at a rate of about 95 per 100 thousand live births per year. 
+> 
+> We're likely when we finalize this data, since this is preliminary, to reach 100 per hundred thousand live births, and this really parallels the increase in the primary and secondary syphilis rate among women of age 15 to 44, which went from 2.1 per hundred thousand persons to 17.8 in 2022.
+> 
+> ...
+> 
+> Lindley Barbee, CDC [00:37:14]
+> 
+> In 2022, among those 3,500 cases, there were 261 deaths, including 213 stillbirths and 48 infant deaths, or about 7.5% of all reported congenital syphilis cases. And I want to remind you that this doesn't include miscarriages because those are not reported to us.
+> 
+> There are over 1,200 infants who were born with signs and symptoms of congenital syphilis, and a little over 2,000 who were born with no signs or symptoms.
+> 
+> ...
+> 
+> Lindley Barbee, CDC [00:37:59]
+> 
+> Demographics of congenital syphilis illustrates marked racial and ethnic disparities in our nation. 
+> 
+> While the greatest number of syphilis, congenital syphilis, cases are found among Hispanic, Latino, and Black and African American populations, the highest rate of CS cases are found in American Indian and Native Alaskan natives, with the rate of almost 600 per hundred thousand live births.
+> 
+> The increased rate is followed by Native Hawaiians and other Pacific Islanders who have a rate of 333 per hundred thousand live births. 
+> 
+> Our national rate, as I said on the last slide, is probably around 95 to 100 per hundred thousand live births. 
+> 
+> I want to acknowledge that the World Health Organization has set a goal of having less than 50 per hundred thousand live births congenital syphilis cases in any given nation. We are way exceeding that right now, and some populations by nearly 10, more than tenfold. 
+> 
+> ...
+> 
+> Lindley Barbee, CDC [00:48:20]
+> 
+> Syphilis treatment is another area where we need innovation.
+> 
+> Recommended treatment for syphilis is penicillin, penicillin, penicillin. And while doxycycline is an acceptable alternative, it is not an acceptable alternative in pregnancy. 
+> 
+> So there are fewer options for pregnant people and even fewer still with the current Bicillin shortage. 
+> 
+> This is not a new phenomenon. A few years ago, we had a Bicillin shortage and we're under another Bicillin shortage now. 
+> 
+> We really need alternative therapies for syphilis, particularly for pregnant people. 
+> 
+> ...
+> 
+> Lindley Barbee, CDC [01:06:49]
+> 
+> CDC and FDA, you know, regularly talk to Pfizer and they are working very hard to increase production. And they have made some improvements on where they are in meeting their monthly demand. 
+> 
+> We're getting there, but we do need to offset a little bit of the demand for a little time period. And we are working on it, believe me, every day, all day long.
+
 ## CDC official on influenza prevention, testing and treatment
 
 - **Source:** [session](https://cdmcd.co/5nwYW7) at IDWeek 2023 conference
