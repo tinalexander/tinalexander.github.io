@@ -15,7 +15,90 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 17, 2023
+
+## CDC official on influenza prevention, testing and treatment
+
+- **Source:** [session](https://cdmcd.co/5nwYW7) at IDWeek 2023 conference
+- **Date:** broadcasted October 12, 2023
+
+> Tim Uyeki, CDC [00:07:04]
+> 
+> Right now in the us, there's pretty low influenza activity. That doesn't mean there's zero. 
+> 
+> We have had influenza hospitalizations in the U.S., so again, it's not low, and we do clearly expect influenza activity to increase in the coming weeks to months. 
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:07:46]
+> 
+> So we look for some clues about what might be happening in the U.S. for this season, we typically look towards the Southern hemisphere. It's not necessarily always a predictor, but it it's something we wanna look at. 
+> 
+> And interestingly enough, whereas last season in the U.S. was predominated by H3N2 viruses, what we've seen in the Southern hemisphere is mostly, not exclusively, but generally predominated by influenza A H1N1 pdm09 viruses. 
+> 
+> And the reason why I mention this is it has some implications for the epidemiology. 
+> 
+> So for H3N2 virus infections, when we see seasons predominant by that, you know, although it hits all ages, it particularly is a big impact on the elderly. A little bit less so with H1N1 pdm09 viruses.
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:16:21]
+> 
+> Just want to say a few words about influenza home diagnostics and test to treat sites. 
+> 
+> So there is one to date, one multiplex molecular assay that's FDA authorized, that detects influenza A/B and SARS-CoV-2, not to advertise, but because it's-- there's only one, it's Lucira by Pfizer COVID 19 and flu home test. 
+> 
+> It allows the EUA allows for collection of an anterior nasal swab for people 14 years or older, that self collection and those for two years and older, to have an adult collecting that swab. 
+> 
+> This is for patients with signs and symptoms of respiratory tract infection. 
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:17:07]
+> 
+> There are other home influenza diagnostics in development, just to say that the availability of home influenza diagnostic tests certainly has the potential to benefit persons at increased risk of influenza complications, if it's combined with early initiation of antiviral treatment. 
+> 
+> So antiviral therapy has to be available. The patient has to get it, and the patient has to start taking it right away. So that could be prescribed by telemedicine or an inpatient evaluation. 
+> 
+> And this, this actually just raises potential inequities. And so, cost, who's going to cover the cost of the test? What's your willingness to pay for the test? Not just the one test that's authorized, but others to come. 
+> 
+> I just want to raise that point. 
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:17:55]
+> 
+> And then there are a number of these test to treat sites where you can come in, particularly at pharmacies, you can get an influenza point of care test. You can get a result, and if you're positive, you can get an antiviral drug for influenza prescribed. You can pick it up right there. 
+> 
+> There are other test to treat projects available, not just at pharmacies, but I think this all has the potential to increase the early diagnosis and early initiation of antiviral treatment for influenza, if the patient presents early.
+> 
+> If the patient doesn't present early, you have no opportunity to initiate early antiviral treatment.
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:21:58]
+> 
+> I want to highlight a recently published study at the bottom here. This was published in June and JAMA Internal Medicine. This was a pooled meta-analysis of 15 outpatient RCTs of oseltamivir treatment in adolescents and adults. The outcome of interest was not mild disease, it was in hospitalization. 
+> 
+> I want to make a few points because this study has gotten a lot of attention and will get some more, I think.
+> 
+> None of the included RCTs were actually powered for a severe outcome. They were powered for mild disease outcomes. The authors reported no association between oseltamivir and risk of hospitalization for any of the patients. And particularly for those 65 and older, or for those who were at increased risk of hospitalization. 
+> 
+> So this my personal perspective is that this analysis was greatly underpowered. It would require an enormous sample size. The event rate for hospitalization in the untreated control group was only 0.6%. 
+> 
+> So it's to me inconclusive and what you really need, I don't think anyone's going to fund this trial, but I think what's clearly going to solve this controversy is an enormous tens of thousands of patients would need to be recruited and enrolled to really assess this issue as question of whether oseltamivir averts the risk of severe disease requiring hospitalization. 
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:26:03]
+> 
+> One week ago, the FDA Vaccines and Related Biological Products Advisory Committee meeting voted unanimously to remove the B Yamagata antigen from the influenza vaccine, as soon as possible. 
+> 
+> That's probably not going to happen in the next year. It might, but just to say that globally, there's going to be a movement from quadrivalent vaccines to trivalent vaccines by removing one of the B antigens, the B Yamagata antigen. 
+
 # October 16, 2023
+
+## CDC officials at webinar with immunization programs
 
 - **Source:** webinar with immunization programs by Centers for Disease Control and Prevention
 - **Date:** broadcasted October 11, 2023
