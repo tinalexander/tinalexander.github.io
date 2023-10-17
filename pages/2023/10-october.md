@@ -17,6 +17,97 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 17, 2023
 
+## CDC official at presentation on wastewater disease surveillance
+
+- **Source:** [session](https://cdmcd.co/d6Z7jz) at IDWeek 2023 conference
+- **Date:** broadcasted October 12, 2023
+
+> Amy Kirby, CDC [00:26:43]
+> 
+> So last month was our three year birthday. So the system was established in September of 2020, and we've grown really rapidly. So there are 48 states, 5 cities and 2 territories that are using CDC funds to support wastewater surveillance. 
+> 
+> We have been extremely lucky to be able to establish 4 centers of excellence that are helping us to drive forward the practice of wastewater surveillance and build, continue to build, this boat as we are sailing it. And those centers of excellence are based at a health department, and have both academic and utility partners, so that we're really harnessing all of the disciplines that are necessary to do wastewater surveillance well.
+> 
+> That state led system is then supplemented by a large national testing contract that adds an additional about 400 sites, in addition to data submission from Wastewater Scan as well. 
+> 
+> Collectively all of those sites, there's over 1,600 sites that submit data routinely to CDC, they're in all 50 states, 3 territories, 7 tribal communities, and collectively represent over 144 million Americans. 
+> 
+> So we're already collecting data every week that represents over 40% of the U.S. population.
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:28:11]
+> 
+> One of the keys to keep in mind here is that we use a distributed laboratory approach as opposed to a central lab. 
+> 
+> So communities of course are the source of our wastewater. That goes to wastewater treatment plants. The operators there are collecting the sample and then shipping it to a laboratory, most often in their state, but sometimes in other states. And these are a collection of health department labs, academic labs, commercial testing labs, and there are a few utilities that can do this testing themselves. 
+> 
+> That data is then sent to the health department or directly to CDC and into the DCIPHER system, which I'll show you in just a minute, is our data repository and analysis engine. And then we analyze that data and provide it back to health departments for action and also make it available to the public. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:30:25]
+> 
+> What our public health departments are using this for now is primarily to make decisions around resource allocation. So when they see increases in a community, they can reach out to hospitals in that community and make sure that they are prepared for the cases that will be reporting to their emergency departments in the next week or two. 
+> 
+> They can do that either through the sort of at a glance dashboard that I was-- that's shown here, actually in the upper left. They can dive in detail. They can also compare it to other COVID measures. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:31:48]
+> 
+> Variant tracking has been working quite well. So you can sequence SARS-CoV-2 using the same tiled amplicon approaches that you use in clinical testing. 
+> 
+> You can do that in wastewater, but you have to use a different bioinformatics approach to analyze the data because you can't assume that there's only a single variant there. We know it's probably mixed. We also know that they're degrading in wastewater. So you have to acknowledge that there's a bunch of puzzles that have been all split up and you're getting little pieces of the individual puzzles, not necessarily intact genomes.
+> 
+> However, there are bioinformatics approaches that work well for that. So deconvolution can help you to identify variants by looking at abundance measures, as well as the sequence. And from that, we can look at what's the dominant variant in a community. We can look at how variants have changed over time, either in that community, which is what you're seeing there in the middle, or you can compare how it's changed over time in that community compared to all of the other communities in that jurisdiction. 
+> 
+> And so you can see, you know, for instance, a new variant of concern sort of moving through the communities in a way and displacing all of the prior variants. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:33:58]
+> 
+> The most recent variant of note, BA.2.86 has really given us a new opportunity to further analyze how variant tracking can work with wastewater data. 
+> 
+> So in addition to the deconvolution approach using Freyja that we've been using, you can also look specifically at a mutation based approach. So if there are unique mutations in a variant, you can look just for those, and that is a much more sensitive approach. It allows you to detect these variants even when they're at very low concentrations. 
+> 
+> So we've been doing that on a preliminary basis now, and we're looking at how to integrate that into our pipeline for the future so that we can get the earliest detection possible of these rare variants. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:40:15]
+> 
+> Another reason that I really think-- or really am excited about pursuing these three together from NWSS is we also have anecdotal data from many of our health department partners that public health messaging that includes wastewater data gets higher engagement than messaging that just says, cases are going up in your community. 
+> 
+> And so now that we have these tools available, the hardest thing we're going to have to do is the behavior change to get people to actually use them. If wastewater data can help even a little bit with that by encouraging people that in your community, this is exactly what's happening right now, that's a win for us. 
+> 
+> So we're hoping to put some more formal data around that messaging story. But I think it's worth pursuing,  certainly in the meantime. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:41:07]
+> 
+> Where are we going from here? We are continuing to build out our core surveillance. So we have pulled out the respiratory pathogens, so SARS-CoV-2, influenza A and B, and RSV, into an accelerated validation process. 
+> 
+> So we're going to start collecting data this fall, as soon as we can. And then, starting early next year, we'll start validating the rest of our core panel. 
+> 
+> So it has normalization and process controls that Allie talked about. So pepper mild mottle virus and crAssphage, which are human associated markers, bovine coronavirus, which is a process recovery control, and then we're adding a panel of public health relevant AR threats. 
+> 
+> So these are some of the top AR threats identified by CDC. And so we're going to look for those. 
+> 
+> I'm not going to talk a lot about those, because Ashley is going to talk about AR next, but we're also going to add a small panel of foodborne infections. Those that have very low technical barriers to implementation and interpretation. 
+> 
+> And then our emerging pathogens panel will continue to include mpox, for as long as we need to have that testing available, and we are also adding Canada Auris. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:42:27]
+> 
+> The timeline here is quite short. So we're looking to start piloting this with our centers of excellence at the beginning of next year. Hopefully we will have a short and problem free pilot phase, for the next six months, and then roll it out to the full system in the summer of next year. 
+> 
+> Along with that, of course we'll be building out DCIPHER so that we'll have analysis and visualization and reporting tools available to our health departments, as well as building a public dashboard so that the public can use this because we do hear that people are using this to make decisions about how to keep themselves and their family safe. 
+
 ## CDC official at congenital syphilis presentation
 
 - **Source:** [session](https://cdmcd.co/zEgqBY) at IDWeek 2023 conference
