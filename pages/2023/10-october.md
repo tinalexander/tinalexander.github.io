@@ -17,6 +17,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 19, 2023
 
+## CDC director on modeling for upcoming flu season
+
+- **Source:** [episode](https://www.youtube.com/watch?v=UEn9gfUCljg) of "Conversations on Health Care"
+- **Date:** published October 19, 2023
+
+> Mandy Cohen, CDC [00:20:37]
+> 
+> We are able to already do a bit of modeling of what we think may happen this fall and winter.
+> 
+> Not surprising if all three of these viruses peak, and we have bad seasons of all. That's not good, but we probably didn't need a model to tell us that. 
+> 
+> So, what we're trying to do is with each and every passing week, we are able to sort of understand the model a bit differently and plan for the future. 
+> 
+> So, for example, we're sitting here in the middle of October, we already know it's likely not to be an early flu season, which we didn't know, because looking at the Southern hemisphere, they actually had an early flu season. We're not seeing that here. 
+> 
+> So that helps us again, refine the model to understand what's going to happen over the course of the next three to four months to make sure we have the hospital beds. 
+> 
+> So it does continue to inform our work and stay ahead to be able to plan, so we can predict and then plan.
+
 ## CDC official at conference presentation on multidemic data
 
 - **Source:** [session](https://cdmcd.co/mRmkP5) at ID Week 2023 conference
