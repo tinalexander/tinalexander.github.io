@@ -17,6 +17,39 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 19, 2023
 
+## CDC officials at webinar on respiratory virus immunizations
+
+- **Source:** [webinar](https://www2.cdc.gov/vaccines/ed/ciinc/archives/23/10/ciiw_10_18.asp) hosted by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 18, 2023
+
+> Question [00:47:51]
+> 
+> Our first chat question is an RSV question, related to nirsevimab. If a provider is unable to obtain 100 milligram dose prefilled syringes, is it acceptable to use two 50 milligram dose prefilled syringes for an infant who is five kilograms or heavier who is younger than eight months of age?
+> 
+> Katherine Fleming-Dutra, CDC [00:48:17]
+> 
+> Thank you for that question. The short answer to that is no. And the reason for that is really that we want to-- the youngest infants are at highest risk for severe RSV disease. And so we want to really save those 50 milligram prefilled syringe doses for infants weighing less than five kilos. 
+> 
+> The other concern with using two 50 milligram prefilled syringe doses for a big infant who needs a 100 milligram dose is that the prefilled syringes are the same price, 50 milligrams and 100 milligrams, and it's not clear that insurance would reimburse a provider for using two 50 milligram prefilled syringe doses for a single infant. 
+> 
+> So both for the reasons of making sure that we're having enough doses to protect those youngest infants who need the 50 milligram dose, and also because of reimbursement concerns, using two 50 milligrams for a big infant is not recommended.
+> 
+> ...
+> 
+> Katherine Fleming-Dutra, CDC [00:49:45]
+> 
+> So ideally this conversation needs to be happening with a pregnant person, with their prenatal care provider, and really it, for the vast majority of people, this will be an either or choice. So they get to choose whether or not they'd rather get the RSV vaccine during 32 through 36 weeks gestation, if it's between September through January, most of the U.S., or have the infant receive nirsevimab after birth. 
+> 
+> And really hopefully that prenatal provider, what we want to be happening in that setting, is that they're having a conversation with a pregnant person talking about the risk and benefits or the relative advantages and disadvantages really of both product and making a joint decision on which is preferred for that particular individual and their family. 
+> 
+> And so we do, I think part of that discussion can talk about, for the maternal vaccine, we know that it provides protection immediately after birth. It's a vaccine, so there's a broader immune response that's being generated in mom, and those antibodies are being transferred to the baby. And so that it may be more resistant to kind of mutations in the RSV virus. It avoids injection in the infant.
+> 
+> But then, kind of the relative disadvantages of maternal vaccine are going to be that there are-- there is this potential risk of preterm birth and hypertensive disorders of pregnancy, although FDA and ACIP feel that the benefits-- judge that the benefits of vaccination outweigh the risk when used in the approved dosing interval, 32 to 36 weeks.
+> 
+> And then on the nirsevimab side, it provides those antibodies directly to the infant. There's no risk of adverse pregnancy outcomes, but we do know that there's potential limited availability, particularly this season. 
+> 
+> So it's really a conversation for advantages and disadvantages.
+
 ## CDC director on modeling for upcoming flu season
 
 - **Source:** [episode](https://www.youtube.com/watch?v=UEn9gfUCljg) of "Conversations on Health Care"
