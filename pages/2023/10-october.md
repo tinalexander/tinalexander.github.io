@@ -15,6 +15,65 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 19, 2023
+
+## CDC officials at Bridge Access program stakeholder briefing
+
+- **Source:** [recording](https://www.youtube.com/watch?v=gTKs6v5Hk8k) published by Centers for Disease Control and Prevention
+- **Date:** published October 17, 2023
+
+> Demetre Daskalakis, CDC [00:02:35]
+> 
+> To ensure that COVID 19 vaccines were made accessible to everyone, that's why we had the Bridge Access program at CDC. 
+> 
+> It was established to provide free COVID-19 vaccines to adults aged 18 years and older, who are underinsured or uninsured 
+> 
+> Since the program began over 309,000 doses have been administered via the Bridge Access program alone and millions more through non-Bridge channels. 
+> 
+> We want the program to be even more successful than it already has been. 
+> 
+> ...
+> 
+> Georgina Peacock, CDC [00:05:50]
+> 
+> It is important that patients with insurance understand where they are in network for vaccination and seek vaccination at those locations.
+> 
+> This may involve seeking vaccination within a specific system, state, or set of retail pharmacies or type of provider.
+> 
+> Patients do risk receiving bills for vaccination if they accidentally misrepresent their insurance coverage, when seeking vaccination through the Bridge Access program. 
+> 
+> ...
+> 
+> Georgina Peacock, CDC [00:07:17]
+> 
+> CDC is committed to ensuring everyone has access to an updated COVID 19 vaccine.
+> 
+> Nationally, 81% of people without insurance are estimated to be within five mile drive distance to a Bridge Access program provider. 
+> 
+> As of October 6, there are 3,507 public health safety net providers that have placed 4,447 orders for about 205,000 doses of COVID 19 vaccine using 317 funds. 
+> 
+> Additionally, there are currently over 23,000 contracted pharmacy locations and over 309,000 doses have been administered by contracted pharmacies to individuals without insurance. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:14:20]
+> 
+> Before you even leave to go to the pharmacy, know before you go. 
+> 
+> So if you're privately insured, it's a good idea to touch base with the pharmacy or with your insurance product or plan to make sure that where you intend to get your vaccine is covered. 
+> 
+> So the Bridge program does not cover out of network costs for individuals getting vaccinated. So if you go to a pharmacy and you're out of network, you may incur a fee or be told that you need to go to a network pharmacy, or other site, if it's a public health network or other type of provider. 
+> 
+> So the best plan is that when you decide to go out to get your COVID 19 vaccine, your updated vaccine, know before you go, check with your insurance, make sure you're going to a place that's in network. 
+> 
+> ...
+> 
+> Georgina Peacock, CDC [00:18:31]
+> 
+> There's always going to be some providers that are not on Vaccines.gov. Those tend to be private offices because they're not open to the public.
+> 
+> But as far as Bridge Access providers, they are open and therefore need to register on Vaccines.gov so that people can find those available doses.
+
 # October 17, 2023
 
 ## CDC official at presentation on wastewater disease surveillance
