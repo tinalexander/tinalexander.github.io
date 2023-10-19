@@ -17,6 +17,43 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 19, 2023
 
+## CDC official at conference presentation on multidemic data
+
+- **Source:** [session](https://cdmcd.co/mRmkP5) at ID Week 2023 conference
+- **Date:** broadcasted October 12, 2023
+
+> Claire Midgley, CDC [00:31:11]
+> 
+> CASCADIA and CoVE are just two examples of ongoing CDC funded prospective community cohorts. 
+> 
+> CASCADIA is set out of Oregon and Washington, CoVE in Michigan, and they both started in summer of last year, roughly following individuals for kind of one to two years. 
+> 
+> And participants have regular surveys. They have weekly swabs, regardless of symptoms, additional illness swabs, if folks do get symptomatic, and as well biennial blood draws.
+> 
+> The illness swabs are tested for multiple pathogens. The weekly swabs are tested for SARS-CoV-2, RSV, and flu. 
+> 
+> And so with this kind of robust testing, they're really able to establish and address a lot of valuable questions from COVID 19 vaccine effectiveness, to community incidence, days of school lost, other burden measures and antibody levels in the community, immunologic correlates of protection, and as well long term outcomes of infection. 
+> 
+> ...
+> 
+> Claire Midgley, CDC [00:42:21]
+> 
+> We are just about seeing RSV showing an uptick likely driven by increased circulation in the southeast United States. And if you look at the graph on the right, I'm not sure we can see the gray area, but essentially the RSV, which is the red line of this year, seems to be trending pretty closely to the gray area, which reflects the pre pandemic seasons. 
+> 
+> And so it's potential that RSV is moving back or close to pre pandemic circulation at this stage. 
+> 
+> Of course, we'll continue to monitor. 
+> 
+> ...
+> 
+> Claire Midgley, CDC [01:13:58]
+> 
+> So there's definitely some that are already up there. RESP-NET for example, which is the hospitalization network, has a dashboard that is already kind of-- Google CDC RESP-NET, there's some-- you can kind of play with ages and seasons. 
+> 
+> And then as I mentioned, there's also gonna be more of an influx of data this coming online this fall, in terms of being able to see different trends and some of  our platforms are better positioned to really be able to look at it at the local level, like the big national platforms, like the national syndromic platform, for example, is big enough to get down to the local level. 
+> 
+> Some of them less so. And then, in terms of actual data access, I think that's also a part of some of the movement in trying to get more data available. Like NREVSS is one, for example, where I think where you think you can access data already.
+
 ## CDC officials at Bridge Access program stakeholder briefing
 
 - **Source:** [recording](https://www.youtube.com/watch?v=gTKs6v5Hk8k) published by Centers for Disease Control and Prevention
