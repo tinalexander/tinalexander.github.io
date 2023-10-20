@@ -1,4 +1,4 @@
----
+![image](https://github.com/tinalexander/notes/assets/102688653/e510500e-d547-409b-8822-a893bba4dbb9)---
 title: October 2023
 layout: minimal
 parent: 2023
@@ -14,6 +14,24 @@ permalink: /2023/10
 Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 <br>
+
+# October 20, 2023
+
+## Metadata from GISAID on JN.1 cases in the U.S.
+
+- **Source:** query from GISAID's [epiCoV](https://www.epicov.org/epi3/frontend#166c7e)
+- **Date:** searched October 20, 2023
+
+| Virus name                            | Accession ID     | Collection date | Additional host information        | Sampling strategy     |
+|---------------------------------------|------------------|-----------------|------------------------------------|-----------------------|
+| hCoV-19/USA/NJ-GBW-H20-346-2416/2023  | EPI_ISL_18327656 | 9/20/23         | Traveler from Israel               |                       |
+| hCoV-19/USA/CA-CDC-LC1064285/2023     | EPI_ISL_18399956 | 9/27/23         |                                    | Baseline surveillance |
+| hCoV-19/USA/CA-Stanford-165_S10/2023  | EPI_ISL_18403077 | 9/27/23         |                                    |                       |
+| hCoV-19/USA/NC-CDC-LC1063242/2023     | EPI_ISL_18369238 | 9/29/23         |                                    | Baseline surveillance |
+| hCoV-19/USA/NJ-CDC-QDX85876866/2023   | EPI_ISL_18394359 | 10/2/23         |                                    | Baseline surveillance |
+| hCoV-19/USA/CA-HLX-STM-SFYSWD8NM/2023 | EPI_ISL_18407973 | 10/3/23         |                                    |                       |
+| hCoV-19/USA/NJ-GBW-H10-016-3356/2023  | EPI_ISL_18400009 | 10/6/23         |                                    | Airport Screening     |
+| hCoV-19/USA/NJ-GBW-H20-333-0158/2023  | EPI_ISL_18400052 | 10/6/23         | Traveler from United Arab Emirates |                       |
 
 # October 19, 2023
 
