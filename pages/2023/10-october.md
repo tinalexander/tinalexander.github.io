@@ -1,4 +1,4 @@
-![image](https://github.com/tinalexander/notes/assets/102688653/e510500e-d547-409b-8822-a893bba4dbb9)---
+---
 title: October 2023
 layout: minimal
 parent: 2023
