@@ -20,7 +20,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 ## Metadata from GISAID on JN.1 cases in the U.S.
 
 - **Source:** query from GISAID's [epiCoV](https://www.epicov.org/epi3/frontend#166c7e)
-- **Date:** searched October 20, 2023
+- **Date:** searched October 20, 2023, from [EPI_SET_231020hy](https://doi.org/10.55876/gis8.231020hy)
 
 | Virus name                            | Accession ID     | Collection date | Additional host information        | Sampling strategy     |
 |---------------------------------------|------------------|-----------------|------------------------------------|-----------------------|
