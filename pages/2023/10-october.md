@@ -15,6 +15,65 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 24, 2023
+
+## CDC director at White House stakeholder briefing
+
+- **Source:** webinar by White House
+- **Date:** broadcasted October 24, 2023
+
+> Mandy Cohen, CDC [00:08:10]
+> 
+> This is the time when you want to get yourself vaccinated ahead of what we anticipate in the later fall and into the winter. 
+> 
+> Right now, we're seeing pretty low levels of COVID, flu, and RSV. We went through a COVID wave in the late summer. We had some increases in COVID in the late summer. 
+> 
+> We had up to 30, 35,000 people in the hospital week over week at the end of August, beginning of September.
+> 
+> The good news is that's coming down now, but we do expect that to go up as we get, as I said, later into the fall and into the winter.
+> 
+> We know when we gather inside, and we get into those colder months, we're going to see more virus circulating.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:08:54]
+> 
+> As far as flu. It's what we see every year. We're getting into flu season now.
+> 
+> Flu is very low right now, but again, we expect to see that more into late November, December, January. 
+> 
+> That is why October is the best time to get your vaccine. It allows your body to time to build up those good antibodies that protect you, so by the time you're at Thanksgiving in just a few weeks from now, I can't believe it here, we're almost at the end of October, just a few weeks from now, when you're at Thanksgiving, you'll be fully protected with these vaccines. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:12:22]
+> 
+> I know we're all wanting to move on, but I need your help to break past that fatigue, where folks want to move on with it. 
+> 
+> It's really important that we get folks vaccinated.
+> 
+> This year, we don't have the same focus and media attention on these issues. So it's more important than ever that we get your help. 
+> 
+> I wish we had more, the kinds of dollars we had in the past, to spend on advertising campaigns. You're likely not going to see that this year. 
+> 
+> We have some of it out there and they're focused on folks who are over 65, folks in our African American and Hispanic-Latino communities. 
+> 
+> But you're likely going to see less of that, which is exactly why we're doing this today. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:14:41]
+> 
+> We are in close touch with folks who run long term care facilities across the country. 
+> 
+> We were just meeting with all of those leaders here at the White House just last week. My team and myself personally am in touch with them, because we know that this is-- there is a new process this year. 
+> 
+> So in the past you likely know the federal government purchased and distributed all the COVID vaccines. This year, the private sector is in charge of that process. So it's different this year. 
+> 
+> So it is more challenging to get vaccines across this country and into long term care. So we've been working through various operational barriers and some challenges related to billing, and we continue to work closely with them to try to solve problems as we go. 
+> 
+> But I think importantly is to get the word out.
+
 # October 20, 2023
 
 ## Metadata from GISAID on JN.1 cases in the U.S.
