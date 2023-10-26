@@ -15,6 +15,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 26, 2023
+
+## Abbott spokesperson on FDA warning letter about Similac Probiotic Tri-Blend
+
+- **Source:** email from Abbott spokesperson
+- **Date:** received October 26, 2023
+
+> This issue pertains to a single probiotic additive for formula called Similac Probiotic Tri-Blend, which is used by fewer than 200 hospitals. Importantly, this does not apply to any of Abbott’s infant formula products available at retail, and parents and caregivers can continue to find and use Similac infant formulas nationwide.  This Warning Letter is not related to any manufacturing quality issue. This product has been used for the past several years and has had a strong safety profile.
+> 
+> This product has about $1 million in sales.
+
 # October 24, 2023
 
 ## CDC director at White House stakeholder briefing
