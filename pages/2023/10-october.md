@@ -26,6 +26,257 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > This product has about $1 million in sales.
 
+# October 25, 2023
+
+## ACIP meeting discussions on mpox vaccines
+
+- **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4) by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 25, 2023
+
+> Pablo Sanchez, ACIP [00:11:31]
+> 
+> So the potential implications of the interim routine recommendation that we plan, that will be for vote today, will increase vaccine coverage and prevent or minimize future outbreaks and control the current outbreak. 
+> 
+> It would remove some stigma and facilitate one-to-one consultation with clinicians during their appointments for vaccination, next slide. 
+> 
+> And also, it heralds the potential commercialization of the Jynneos vaccine.
+> 
+> The product sponsor Bavarian Nordic has indicated that they will attempt to commercialize the vaccine if it is on a routine schedule. And so this will transition the vaccine from U.S. government's stockpiles, which are intended for smallpox preparedness, to the commercial sector. 
+> 
+> ...
+> 
+> Pablo Sanchez, ACIP [00:12:28]
+> 
+> So this is the tentative timeline for ACIP discussions and votes. 
+> 
+> So today would be interim routine recommendations and clinical guidance. Then in early of 2024, publication of two MMWRs are planned. The use of the Jynneos vaccine during mpox outbreaks and the use of the Jynneos vaccine among persons at risk during the ongoing outbreak.
+> 
+> And possibly in 2024, we would consider the results from an ongoing NIH trial on the use of the Jynneos vaccine in adolescents aged 12 to 17 years of age. 
+> 
+> And then to be determined would be the review of epidemiology, cost effectiveness analysis, and other data to determine if routine recommendation should be continued beyond the next two to three years. 
+> 
+> Next slide. 
+> 
+> So, again, the proposed recommendation would be the ACIP recommends vaccination with the two dose Jynneos vaccine series for persons aged 18 years and older at risk for mpox.
+> 
+> ...
+> 
+> Faisal Minhaj, CDC [00:18:12]
+> 
+> We still see cases at an average of one to four cases per day, and have not been consistently below this level, highlighting that mpox has not been eliminated from the United States. Next slide.
+> 
+> When looking at the cases in 2023 geographically, we see that cases are occurring across the U.S. in different jurisdictions. This map highlights cases detected from January to October, from each jurisdiction.
+> 
+> Looking at the image, we can see that cases are spread out. Many of these are not linked to other known cases, suggestive of  continued community transmission or potential underdiagnosis. 
+> 
+> ...
+> 
+> Faisal Minhaj, CDC [00:19:17]
+> 
+> We've also seen cases in patients following vaccination. 
+> 
+> This has been reported since the outbreak started, including some clusters, but is relatively rare in comparison to the total case counts. 
+> 
+> Importantly, most patients with infection following vaccination have mild illness.
+> 
+> On the right hand side of the screen, we highlight data from a recently published manuscript on infections following vaccination.
+> 
+> You can see that the median number of lesions in these patients was two with an inter-quartile range of one to five. 
+> 
+> Additionally, only 2 out of 30 patients received tecovirimat, and few were hospitalized, suggestive that illness was mild following vaccination. 
+> 
+> ...
+> 
+> Faisal Minhaj, CDC [00:19:58]
+> 
+> Reinfection of mpox is rare and was not well reported until the current outbreak.
+> 
+> Potential reinfection cases have been published in the literature, but only a few with convincing evidence of true reinfection.
+> 
+> On the right is an image from a recently published case series where the authors found a total of eight probable cases of reinfection.
+> 
+> Reinfection appears to be mild with a lower lesion count and duration of rash. 
+> 
+> CDC is aware of less than 10 cases of probable reinfection, which makes up less than 0.001% of cases. 
+> 
+> ...
+> 
+> Faisal Minhaj, CDC [00:28:27]
+> 
+> Models not only estimate that vaccination is key to ending the mpox outbreak, but also that vaccination is key to preventing mpox resurgence.
+> 
+> Later in the outbreak in D.C., the model estimated that nearly the entire high risk population of MSM who engage in one time sexual partnerships had gained full or partial immunity through vaccination or through acquiring and recovering from mpox, making resurgence in D.C. unlikely. 
+> 
+> However, over time, population level immunity will decrease due to population turnover. Further, most U.S. jurisdictions had a lower vaccine coverage than D.C., potentially leaving them vulnerable to resurgence. 
+> 
+> This plot shows the probability that five infectious individuals in a population of MSM would cause a resurgent mpox outbreak on the Y axis over various levels of immunity among individuals at increased risk for mpox on the X axis.
+> 
+> For the purposes of this model, either one or two dose vaccination is used. However, we know that from VE data, two doses is greater here. 
+> 
+> We define that resurgent outbreak as continuous community transmission for at least three months.
+> 
+> We see that the risk of recurrence decreases linearly as population level immunity increases. Next slide. 
+> 
+> While the probability of recurrence decreases linearly with population level immunity, the size of potential outbreaks has a more complex relationship with population level immunity.
+> 
+> Here the Y axis now shows the predictive cumulative cases if an mpox resurgence were to occur compared to the number of cumulative cases in 2022, over the population level immunity on the X axis. Next slide. 
+> 
+> This model estimates that resurgent outbreaks will be very small, if the population level immunity is greater than 50%. Currently, only seven jurisdictions are above 50% of at least one dose Jynneos coverage among the high risk population. Next slide. 
+> 
+> ...
+> 
+> Faisal Minhaj, CDC [00:31:34]
+> 
+> Next we wanted to present updated VE estimates from the multi-jurisdictional case control study that was performed in 12 U.S. jurisdictions and initially presented in February.
+> 
+> Here cases were identified from a jurisdiction's list of mpox cases while controls were identified from healthcare settings, providing HIV PrEP or STI clinics. VE here was adjusted for age, race, and ethnicity and immunocompromised immunocompromising conditions. It was stratified by route of administration and immunocompromised status. Next slide. 
+> 
+> Overall VE from partial or one dose vaccination is updated here to 73% with a confidence interval of 59 to 82 with similar results for those with either administration route. This estimate is similar to the previously reported 75%, but does have a smaller confidence interval. Next slide. 
+> 
+> Overall VE from two dose vaccination is updated to 83% with the confidence interval of 71 to 90, again, with similar results with either administration route. These updated data suggest that the VE estimates are stable. Next slide. 
+> 
+> ...
+> 
+> Faisal Minhaj, CDC [00:37:34]
+> 
+> There are cases following reinfection that CDC is currently investigating, some of whom have been vaccinated between their first and second infection. However, the number here are really small, and interpretation of this data is-- can be challenging.
+> 
+> ...
+> 
+> Agam Rao, CDC [00:39:00]
+> 
+> We have looked to see if there was any pattern, for example, with the Chicago cluster, where there was a cluster of cases that occurred in May that was affecting a lot of people who were fully vaccinated. And there does not seem to be an association with those breakthrough infections and the route of administration. 
+> 
+> So we saw breakthrough infections that occurred among people who received two doses, intradermal, two doses subcutaneous, and also one dose subcutaneous and one dose intradermal. And, actually there were fewer that received two doses intradermal that were breakthrough cases from that cluster. 
+> 
+> And I think the national data also mirrors that same thing.
+> 
+> ...
+> 
+> Agam Rao, CDC [00:53:49]
+> 
+> The CDC multi-jurisdictional study is continuing to collect data. And, to our knowledge, is perhaps the only source of data that will be continued worldwide. 
+> 
+> We're attempting to estimate the VE preventing infections among immunocompetent versus immunocompromised persons, as Dr. McCollum has already mentioned, so hopefully we'll have more information, but we certainly recognize that this is a major gap in our understanding. 
+> 
+> ...
+> 
+> Agam Rao, CDC [01:00:23]
+> 
+> When we went back and actually interviewed the patients who were impacted by that outbreak, 18 of those patients agreed to an interview and they were -- they were people who were fully vaccinated, partially vaccinated and unvaccinated, and they actually indicated support for the vaccination. 
+> 
+> So although chatter, I guess, online chatter indicated that there was some skepticism, the actual patients affected by that outbreak were supportive of the vaccine. Most stated that they would recommend vaccine to others. Some assumed that-- some assumed that any mpox infection would've been prevented by the vaccine, but they still felt that the vaccine was effective in reducing the severity. 
+> 
+> And unvaccinated persons said that they had not been vaccinated because they'd attempted to early on in the response, and then the supply was limited at the time, and then once they were able to, once it was available, they thought that since case counts had decreased, that the risk was very low and they didn't end up seeking it. 
+> 
+> ...
+> 
+> Agam Rao, CDC [01:01:36]
+> 
+> Recently in June, so just a few months ago, CDC performed an online focus group from 52 people to help develop CDC communication material and participants were included if they identified as men were unvaccinated for mpox, never diagnosed with mpox, were 18 to 45 years of age, and had sex with two or more men within the past six months. So essentially people who were eligible for the mpox vaccine.
+> 
+> And participants were intentionally of diverse racial and ethnic backgrounds and were shown various communication materials and development by why CDC. Exposure to the information about mpox vaccine, safety, effectiveness, and hearing that there is a current threat of mpox affected their interests. 
+> 
+> So although some of the individuals came to this focus group not interested in the vaccine or ambivalent about the vaccine, that changed, and many people disinterested in the vaccine became interested. They actually said that the current risk of mpox and protecting their community was motivating. 
+> 
+> ...
+> 
+> Agam Rao, CDC [01:08:41]
+> 
+> So Jynneos has actually been stockpiled for smallpox preparedness, but it was provided during this response, since it is not commercially available.
+> 
+> The doses would need to be replenished and it has been, and it will continue to be, a significant use of resources, for example, shipments and transportation personnel monitoring all of this during the peak of this outbreak. 
+> 
+> And that would have to continue, and be a further drain on the SNS, the Strategic National Stockpile should this vote be passed, but in the future it's possible that the vaccine will be commercialized. And if so, there are unknown costs that will be associated with that. 
+> 
+> ...
+> 
+> Agam Rao, CDC [01:12:56]
+> 
+> We're uncertain if or when it would be commercialized. We have colleagues from Bavarian Nordic who will speak during the Q and A session and give a short statement, but if it is commercialized, it would be via Medicare or Medicaid and commercial plans without a copay, uninsured would be given it via Vaccines for Children program and then some uninsured and underinsured adults could have difficulty, but that would be similar to the difficulty that people have with other vaccines. 
+> 
+> And it would be premature at this time to, without knowing if it'll be commercialized to say that much more in the ETR presentation. 
+> 
+> ...
+> 
+> John Beigel, NIH [01:23:51]
+> 
+> That adolescent stage was fully enrolled in September of this year, which means the peak immunogenicity visits actually just happened a few days ago, a day 42 visit. 
+> 
+> So that-- it is designed to be a year follow up. So that puts us to October of 2024 for the full data set. 
+> 
+> You know, we can discuss with ACIP and with the Bavarian Nordic about early looks, but to actually see the full dataset, it is that the-- the visits will be October 2024, which means the data will be sometime after that.
+> 
+> ...
+> 
+> Laura Quilter, CDC [01:28:47]
+> 
+> I think we were trying to strike a balance. I appreciate the comments on wanting to avoid stigma and wanting to simplify things for providers, but also wanting to really ensure that the vaccination is going to folks that are at the most risk for mpox exposure. 
+> 
+> And so this was even tweaked from, I think, an even more complicated version first time around. And so I think it's challenging to strike that balance. 
+> 
+> ...
+> 
+> Agam Rao, CDC [01:29:19]
+> 
+> As a modeling expert in the division of STD prevention at CDC, do you have any thoughts about just how much bigger the population would be if it was referring to all MSM or all people with HIV versus what it's described as on this slide? But in case you do, do you have anything to add?
+> 
+> Ian Spicknall, CDC [01:29:39]
+> 
+> Yeah. In terms of a larger population, we would be going from roughly 2 million to 4 to 6 million people. 
+> 
+> So we would be enlarging the scope greatly, and like what was, what has been said, to folks who may not benefit from this sort of vaccine for reasons you described a bit ago.
+> 
+> ...
+> 
+> David Boucher, ASPR [01:38:49]
+> 
+> ASPR is supportive of the transition of Jynneos to commercial distribution, as the next correct step in ensuring continued access for those who wish to get vaccinated for mpox. 
+> 
+> I want to say also we're also very committed to ensuring a seamless transition, if this does go to commercial distribution.
+> 
+> We are not going to have gaps in availability of Jynneos, as we pass the baton onto our partners at Bavarian Nordic.
+> 
+> ...
+> 
+> David Boucher, ASPR [01:39:25]
+> 
+> At that time we put 400,000 vials into the combined thresholds across 64 jurisdictions. 
+> 
+> To date, 57,000, about 57,000 of those have been ordered. And that means we still have well over 300,000 vials available immediately to jurisdictions anytime they need to restock existing vaccination sites or supply new ones.
+> 
+> We're going to keep this supply reserved for the jurisdictions, as we work with Bavarian Nordic, and HHS partners at CDC CMS, and several others over the coming months, if we do need to plan and execute a smooth handoff.
+> 
+> ...
+> 
+> Lee Ann Kimak, Bavarian Nordic [01:41:40]
+> 
+> We believe that the routine preventative recommendation for at-risk populations under consideration by the committee is a critical step forward in addressing these inequity and access challenges. 
+> 
+> This recommendation would allow providers and retail pharmacies to administer the vaccine where people are most comfortable seeking one, whether it's at the pharmacy at their doctor's office or at their neighborhood health clinic.
+> 
+> If the committee votes for a routine recommendation for the at-risk population, putting mpox vaccine on the immunization schedule, we very much look forward to commercializing Jynneos here in the U.S. 
+> 
+> We have a robust manufacturing process, and we have ample supply to meet the need. We also have an unwavering commitment to public health, and we look forward to working with the agency, healthcare providers in the community to make this vaccine accessible to individuals at risk. 
+> 
+> ...
+> 
+> Lee Ann Kimak, Bavarian Nordic [01:43:26]
+> 
+> So the intended list price will be in the range of 200 to 270 dollars per dose. As you know, the list price is a price that is then negotiated down in the contracting phase, depending on the particular reimbursement mechanism. And, it comes down by 25 to 30% or more. 
+> 
+> So this is the range for the wholesale acquisition cost.
+> 
+> ...
+> 
+> Lee Ann Kimak, Bavarian Nordic [01:56:43]
+> 
+> We actually began taking steps towards commercializing the product as soon as we learned that the ACIP would be considering a recommendation. So if Jynneos is routinely recommended for those at risk of mpox, this would allow us to move forward with some of the steps towards commercial insurance coverage. 
+> 
+> So we do anticipate that it will take a number of months to negotiate these contracts and of course be prepared to work through all the necessary steps with a variety of payers, setting up the distribution channels to store and administer the vaccine. 
+> 
+> And as we've seen, with the commercial transition of the COVID vaccines, this process can take some time. But I wouldn't foresee it being outside of the six to nine month range.
+
 # October 24, 2023
 
 ## CDC director at White House stakeholder briefing
