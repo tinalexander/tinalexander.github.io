@@ -277,6 +277,20 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > And as we've seen, with the commercial transition of the COVID vaccines, this process can take some time. But I wouldn't foresee it being outside of the six to nine month range.
 
+> Agam Rao, CDC [00:01:23]
+> 
+> So ACIP recommends vaccination with the two dose Jynneos vaccine series for persons aged 18 years and older at risk for mpox.
+> 
+> And the footnotes read that this is an interim recommendation that ACIP will revisit in two to three years. That dose two has administered 28 days after dose one. 
+> 
+> And that persons at risk include gay, bisexual, and other men who have sex with men, transgender or non-binary people, who in the past six months have had one of the following, a new diagnosis of greater than or equal to one sexually transmitted disease, more than one sex partner, sex at a commercial sex venue, or sex in association with a large public event in a geographic area where mpox transmission is occurring, or sexual partners of people with any of-- with the risks described above, or persons who anticipate experiencing any of the above.
+> 
+> ...
+> 
+> Grace Lee, ACIP [00:05:21]
+> 
+> So this vote passes a 14 yes's, zero no's.
+
 # October 24, 2023
 
 ## CDC director at White House stakeholder briefing
