@@ -15,6 +15,89 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 27, 2023
+
+## CDC officials at clinicial outreach call about respiratory viruses
+
+- **Source:** webinar by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 26, 2023
+
+> Sarah Meyer, CDC [00:25:18]
+> 
+> Ordering of RSV immunizations is very similar to how other immunizations are ordered. So essentially through routine mechanisms, for example, directly from the manufacturer or wholesaler or distributor.
+> 
+> For Vaccines for Children providers, these immunizations are ordered through the state or local immunization program. Again, very similar to how this occurs with other routine immunizations. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:26:58]
+> 
+> For nirsevimab, this is priced at about $495 per dose, using the private sector costs. 
+> 
+> There are some payment flexibility this season. So the manufacturer has stated that there is 150 days for payment when ordering directly from the manufacturer. 
+> 
+> And in terms of insurance coverage, this immunization is covered under the Vaccines for Children or VFC program.
+> 
+> And similar to the maternal RSV vaccine, most insurance plans are required to cover this product, but do have one year to do so.
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:43:44]
+> 
+> We did recently publish an addendum to our operations guide, which is now also published online, that provides some additional flexibilities or considerations for nirsevimab, particularly for this season. 
+> 
+> We do have a ramp up period for private inventory requirements. 
+> 
+> And although VFC eligible patients remain the priority for VFC doses, we do have some flexibility around bidirectional borrowing between private and public stock allowed in certain situations and where allowed by the jurisdictional policies. 
+> 
+> One point I will just make though, in the setting of supply constraints, it could be difficult to implement borrowing. So this was-- this is really a flexibility meant for those, uh, practices that do have sufficient private and public stock to be able to to do borrowing.
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:46:02]
+> 
+> What I really wanted to highlight is that there is some increased flexibility for interchangeability of COVID 19 vaccines. 
+> 
+> We have heard the feedback that strict homologous dosing for these vaccine products is a barrier for pediatric practices, especially for those who carry-- who are only able to carry one of the vaccine products and not all of them. 
+> 
+> So we do have some increased flexibility around mix and match, for those pediatric doses that require more than one dose in the series. 
+> 
+> So the previous language around this was that in the following exceptional situations, a different age appropriate COVID 19 vaccine may be administered under, the following conditions, which are listed there. So a very pretty strict language around when it's permissible to give a different vaccine. 
+> 
+> So for example, if somebody got Moderna for their first dose, very strict language about them meeting Moderna for the next dose, except for exceptional situations.
+> 
+> The language now is more flexible. And we say in the following circumstances, an age appropriate COVID 19 vaccine from a different manufacturer may be administered when the same vaccine is not available at the vaccination site at the time of the clinic visit, the previous dose is unknown, the person would otherwise not receive a recommended vaccine, or the person starts, but is unable to complete, a vaccination series with the same COVID 19 vaccine due to a contraindication. 
+> 
+> So we hope that this increased makes it a little bit easier for our pediatric providers to give COVID 19 vaccines to this youngest age group.
+> 
+> ...
+> 
+> Jefferson Jones, CDC [00:51:40]
+> 
+> So if there's no nirsevimab available, if they're palivizumab eligible, as in they're high risk infant per AAP's recommendations to receive palivizumab, palivizumab is eligible. 
+> 
+> If they're not eligible for that, unfortunately, there's nirsevimab particularly, there may be-- we're suggesting using available doses for those at the highest risk. 
+> 
+> For others, there's every day preventive measures that can limit such as trying to have household contacts wash your hands and avoid touching face, avoiding close contact with sick people, covering cough and sneeze, etcetera. Those everyday preventive measures are something that that can be tried, but there's no other specific immunizations available.
+> 
+> ...
+> 
+> Jefferson Jones, CDC [00:55:14]
+> 
+> For this season, in particular, I think that there may be a lack of nirsevimab availability, and to forego maternal vaccination and then not have nirsevimab available after birth would be quite unfortunate. 
+> 
+> So if, unless you know that nirsevimab is available, that is something to strongly consider.
+> 
+> Efficacy trials comparing the two products head to head have not been conducted. And, although the point estimates differ, the trials have different definitions of endpoints and are difficult to compare. 
+> 
+> The antibody data suggests that nirsevimab efficacy may last longer with a longer half life than the maternal vaccine. 
+> 
+> But for the many people, for these infants being born during the season, we expect that protection will last through the season for either of the products or for at least the majority of the season. 
+> 
+> So, it can be patient preferences avoiding an injection in the infant. It might be any concerns of-- some people are more concerned about being vaccinated during pregnancy than others. 
+> 
+> So I think there'll be a lot of individual patient preferences to consider.
+
 # October 26, 2023
 
 ## Abbott spokesperson on FDA warning letter about Similac Probiotic Tri-Blend
