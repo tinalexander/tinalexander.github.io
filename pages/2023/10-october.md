@@ -17,6 +17,29 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 27, 2023
 
+## CDC's figures on nursing home residents up to date on COVID-19 vaccines
+
+- **Source:** [dashboard](https://www.cdc.gov/nhsn/covid19/ltc-vaccination-dashboard.html) by Centers for Disease Control and Prevention
+- **Date:** accessed October 27, 2023
+
+> 1.  DC 25.8%
+> 2.  SD 23.5%
+> 3.  ND 16.0%
+> 4.  NM 15.6%
+> 5.  RI 15.1%
+> 6.  NH 14.7%
+> 7.  AK 14.0%
+> 8.  MT 13.3%
+> 9.  VT 12.7%
+> 10.  OR 12.1%
+> 11.  FL 11.9%
+> 12.  WI 11.7%
+> 13.  NJ 10.9%
+> 14.  PA 10.3%
+> 15.  NV 10.2%
+> 16.  CO 10.1%
+> 17.  MN 10.1%
+
 ## CDC officials at clinicial outreach call about respiratory viruses
 
 - **Source:** webinar by Centers for Disease Control and Prevention
