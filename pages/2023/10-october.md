@@ -50,7 +50,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > And although VFC eligible patients remain the priority for VFC doses, we do have some flexibility around bidirectional borrowing between private and public stock allowed in certain situations and where allowed by the jurisdictional policies. 
 > 
-> One point I will just make though, in the setting of supply constraints, it could be difficult to implement borrowing. So this was-- this is really a flexibility meant for those, uh, practices that do have sufficient private and public stock to be able to to do borrowing.
+> One point I will just make though, in the setting of supply constraints, it could be difficult to implement borrowing. So this was-- this is really a flexibility meant for those practices that do have sufficient private and public stock to be able to to do borrowing.
 > 
 > ...
 > 
