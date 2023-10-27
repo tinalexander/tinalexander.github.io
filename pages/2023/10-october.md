@@ -17,6 +17,155 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 27, 2023
 
+## HHS officials on commercialization of COVID-19 treatments
+
+- **Source**: briefing with HHS officials
+- **Date**: hosted October 27, 2023
+  
+> HHS Official (1) [00:04:58]
+> 
+> But as I said, we will continue to have free federal product while this process is working itself and all those kinks get worked out. 
+> 
+> HHS will continue the work of encouraging insurers and providers to update their system and encourage coverage for these drugs ahead of that transition, and will continue to work with providers, manufacturers, distributors, payers, and stakeholders on that orderly transition in the weeks and months ahead. 
+> 
+> We've already convened calls, as we did the vaccine transition, we've already convened calls with the plans, the PBMs and the pharmacies to check in, and we'll be doing that periodically as this transition goes. 
+> 
+> ...
+> 
+> HHS Official (1) [00:07:09]
+> 
+> We don't always have that precise estimate because that's sort of literally by definition out of our view in terms of what doses in there are in the field. 
+> 
+> We do think that there are millions of doses in the field right now. We anticipate probably at least somewhere around two and a half million of Paxlovid and at least 1 million of Lagevrio. 
+> 
+> But those ranges are not certain. And we're not sure of what the top range of that estimate may be. 
+> 
+> ...
+> 
+> HHS Official (1) [00:07:42]
+> 
+> I want to be clear, we are encouraging all the payers to be working with those manufacturers to establish agreements and established contracts. 
+> 
+> We do anticipate, and this is not USG anticipates, but our feedback in terms of conversations and what we've been told so far is that a lot of those agreements will get settled, for Pfizer. And some of those agreements will be settled for Lagevrio. 
+> 
+> We're keeping a close eye on those conversations and negotiations, although again, that's not ours to work out and would direct you back to the companies and the manufacturers to get a better sense of that. 
+> 
+> But the bottom line here for us and what we're sort of this plan right now we're talking about is because there is still that government product in the field, we are allowing time for some of those kinks to get work through. We are allowing time for those agreements to get settled and all those transactions to figure out and clarity most importantly, for providers and patients, in terms of how they can access that treatment through those commercial channels. 
+> 
+> And in the meantime, we are leaning forward to use what product we have to ensure that there is a safety net to be sure that process can go smoothly and has the time it needs that we understood and learned and we are able to do that in this case in a way that we were not able to do in the vaccines to provide this overlap period and ensure that there was adequate time for that the assistance to stand up and be effective. 
+> 
+> ...
+> 
+> HHS Official (1) [00:11:12]
+> 
+> All of our courses in currently, and in the field, and in federal supply, were due to expire starting as early as February of next year and every dose in the field or under USG possession would have expired by summer of next year. 
+> 
+> So what we have worked out in terms of, with this deal, in terms of protecting Medicare, Medicaid, uninsured, all the way through 2024, and ensured a stockpile beyond that 2024, for specific uses like emergencies or uninsured, that is all benefits that we did not have under current deal. 
+> 
+> So I want to be clear about sort of where our current world was in terms of why we had this deal with Pfizer, and we were so interested in making this deal, that expiry was looming. 
+> 
+> ...
+> 
+> HHS Official (1) [00:15:38]
+> 
+> That's partly a lesson from the vaccines. It's also an option we didn't have for vaccines, because that was a product switchover, right? We had one product EUA-authorized and the commercial product was authorized. 
+> There was no ability to have any overlap, because of, it was simply two different products. 
+> 
+> These are essentially the same product, although they may be labeled EUA versus commercial product, it's the same drug entity.
+> 
+> Why does that matter? What that means is that we were able, in a way that we weren't with vaccines, to create this overlap period that's going to begin on November 1.
+> 
+> ...
+> 
+> HHS Official (1) [00:16:12]
+> 
+> So November 1, commercial channels begin on November 1, but I don't think many people are going to notice because we have all that federal product in the field. 
+> 
+> So I wouldn't say it is one of the lessons, but it was a lesson we weren't able to do in vaccines. It wasn't like we didn't want to do that then. 
+> 
+> But what we are able to do because of that overlap is building that ensure that there's ample supply out there.
+> 
+> ...
+> 
+> HHS Official (1) [00:17:24]
+> 
+> November 1 is not gonna be a landmark day, but something that you know is mostly worked out between the plans, providers, in terms of systems, getting those systems worked out, and giving them a chance to work on all those kinks before anyone has to rely on it. 
+> 
+> And once those systems are up and running, once a pharmacy says, 'okay, our systems are working, we tested them, we're ready to go,' then at that point, they can say, 'okay, we're ready to make that switch. Let's return our EUA product back to USG, let them get the credit forward.' 
+> 
+> They can make that choice when they're ready to make that transition. 
+> 
+> ...
+> 
+> Question [00:18:17]
+> 
+> Does that mean that at some point during this transition, there's going to be a point where like, if I'm a patient, I'm looking for Paxlovid, my insurer doesn't yet cover it, that I'm going to have trouble finding a location that's still offering federal supply? 
+> 
+> And then I have a follow up to that.
+> 
+> HHS Official (1) [00:18:36]
+> 
+> I think we're encouraging the flexibility for the providers to have that ability to make that decision, as we said, we're going to have plenty of product out there. 
+> 
+> We would generally hope that the commercial insurance has straightened out by the time any pharmacy says we're ready to make that flip. 
+> 
+> And again, once they make that flip, as I was saying before, because of the deals we've negotiated, particularly with Pfizer, a lot of those products will be available even after that commercial transition, at no cost for people on Medicare and Medicaid and without insurance. 
+> 
+> And again, for commercial because of if the coverage is there, and we hope that they can work out those deals before that transition, in addition to the coverage, there'll be that co-pay program that Pfizer has committed to. 
+> 
+> ...
+> 
+> HHS Official (1) [00:19:19]
+> 
+> So I guess my point is that, while each individual may have a different route to get low or no cost access, our real strong hope, and we're going to see how this goes and we're gonna be keeping close tabs and conversations with everybody is that, you have free final product for now. 
+> 
+> Once you make that flip, you can use the access program. You're ready to go with insurance coverage, you're ready to go with all the various other programs to ensure that the access remains post swap.
+> 
+> ...
+> 
+> Question [00:19:48]
+> 
+> You had talked earlier about kind of the expiry of these EUA labeled courses. Is that what decided the timing of this transition? 
+> 
+> I guess I'm just trying to understand why it couldn't wait until after the winter COVID wave, and then after you're sure that all the insurers are covering the EUA label-- or the NDA labeled courses?
+> Talk about the timing of this transition. Thanks.
+> 
+> HHS Official (1) [00:20:09]
+> 
+> As I said, we have product that's going to expire as early as February. We know that, and so that was driving some of the conversation. 
+> 
+> This is also part of the negotiated deal with Pfizer in particular, to ensure that they could enter the market smoothly. 
+> 
+> In the meantime, we were able to, as I said before, preserve the USG value and no expired doses, preserve the access for Medicare and Medicaid, and get a stockpile outta that deal as well. 
+> 
+> So this was part of the negotiated deal with Pfizer in terms of the timing, but yeah, we were gonna have doses starting to lose as soon as-- we weren't going to be able to get through this winter surge without doses expiring, if we didn't come to some other arrangement.
+> 
+> ...
+> 
+> Question [00:23:46]
+> 
+> Pfizer said that they will book revenue as they send updated Paxlovid to the government. Is the government paying anything more than what it is already paid? And I have a follow up after that.
+> 
+> HHS Official (1) [00:23:58]
+> 
+> [HHS Official] check me, but I believe the answer's no?
+> 
+> HHS Official (2) [00:24:02]
+> 
+> That's correct.
+> 
+> ...
+> 
+> HHS Official (1) [00:24:56]
+> 
+> Where we were sitting when we entered that table with Pfizer, all of our courses were due to expire, right? 
+> So we were going to walk away going into next winter surge with nothing, no Medicare, no Medicaid, no uninsured, no dose in federal supply, nothing for emergencies. 
+> 
+> So with this deal, we have don't lose no dose to expiry. We protect Medicare and Medicaid insured through all of 2024. 
+> 
+> And we get a stockpile beyond that through 2028 for specific uses of uninsured or emergencies. 
+> So we will continue to look for places wherever we can to make the fight and fight the fight for pricing. And I think we're trying to prioritize and understand where we can get in any particular deal.
+
 ## CDC's figures on nursing home residents up to date on COVID-19 vaccines
 
 - **Source:** [dashboard](https://www.cdc.gov/nhsn/covid19/ltc-vaccination-dashboard.html) by Centers for Disease Control and Prevention
