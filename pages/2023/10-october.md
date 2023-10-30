@@ -19,6 +19,9 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 ## ACIP discussion on pentavalent meningococcal vaccine wording
 
+- **Source:** webcast by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 26, 2023
+
 > Katherine Poehling, ACIP [01:14:58]
 > 
 > The second one is on slide 51, about the pentavalent meningococcal vaccine, and it's about the wording.
