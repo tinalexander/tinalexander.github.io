@@ -136,7 +136,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > This is also part of the negotiated deal with Pfizer in particular, to ensure that they could enter the market smoothly. 
 > 
-> In the meantime, we were able to, as I said before, preserve the USG value and no expired doses, preserve the access for Medicare and Medicaid, and get a stockpile outta that deal as well. 
+> In the meantime, we were able to, as I said before, preserve the USG value and no expired doses, preserve the access for Medicare and Medicaid, and get a stockpile out of that deal as well. 
 > 
 > So this was part of the negotiated deal with Pfizer in terms of the timing, but yeah, we were gonna have doses starting to lose as soon as-- we weren't going to be able to get through this winter surge without doses expiring, if we didn't come to some other arrangement.
 > 
