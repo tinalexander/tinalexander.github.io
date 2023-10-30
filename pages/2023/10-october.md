@@ -17,6 +17,98 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 30, 2023
 
+## ACIP discussion on pentavalent meningococcal vaccine wording
+
+> Katherine Poehling, ACIP [01:14:58]
+> 
+> The second one is on slide 51, about the pentavalent meningococcal vaccine, and it's about the wording.
+> 
+> Patricia Wodi, CDC [01:15:08]
+> 
+> Oh, sorry.
+> 
+> Katherine Poehling, ACIP [01:15:09]
+> 
+> Okay. No problem. Oh, maybe I've got the wrong number. I apologize.
+> 
+> Patricia Wodi, CDC [01:15:13]
+> 
+> This one?
+> 
+> Katherine Poehling, ACIP [01:15:25]
+> 
+> If you go back to the previous one-- wait-- uh, yes. This one.
+> 
+> I got-- I was-- I'm wondering about the wording because at the end, we talk about how you can have, when both of them are going to be administered on the same day in a single injection with Pen-actra is preferred. 
+> 
+> It kind of sounds like we prefer that and we did not make a preferential recommendation. And so I want-- I worry that this would be misinterpreted.
+> 
+> Patricia Wodi, CDC [01:15:57]
+> 
+> Yeah, we went back and forth with if indicated, what we wanted to-- we wanted to communicate that if the patient or the provider had a preference, but we weren't sure how to word that.
+> 
+> Katherine Poehling, ACIP [01:16:16]
+> 
+> I think that it's okay, because you said that they may receive a single dose as an alternative to separate administrations, when both would be given in the same day. 
+> 
+> And I would add a period, because I think that clearly communicates that both are equally reasonable options.
+> 
+> Patricia Wodi, CDC [01:16:36]
+> 
+> Okay, we can do that.
+> 
+> Katherine Poehling, ACIP [01:16:36]
+> 
+> Okay, and yay. 
+> 
+> All right, and then, PCV 15 and 20.
+> 
+> Okay. No, this is going to be okay. Alright. Stop. 
+> 
+> Patricia Wodi, CDC [01:16:57]
+> 
+> Okay. 
+> 
+> Katherine Poehling, ACIP [01:16:57]
+> 
+> Back up. 
+> 
+> Patricia Wodi, CDC [01:16:58]
+> 
+> Back up.
+> 
+> Katherine Poehling, ACIP [01:16:59]
+> 
+> The routine. All right, so what I'm worried-- I do appreciate the routine and special, but what I'm worried about is that people will look at the routine and not realize because we've changed the recommendations for the special. 
+> 
+> And so, I like this sentence or, but it kind of says that if you've received the complete four dose series you're done, unless you have a condition listed in special situations, and I'm thinking you want to add that so people look at the next page and that is the end of my suggestions, and only three is really good.
+> 
+> Grace Lee, ACIP [01:17:50]
+> 
+> Excellent. Thank you, Dr. Poehling. Ms. Bahta?
+> 
+> Lynn Bahta, ACIP [01:17:54]
+> 
+> Dr. Poehling, you always beat me to the hand raising.
+> 
+> I also had similar, um, concerns about the language of preferred and actually went to the thesaurus and looked at desired or chosen, but even, I don't even think it's a important part of the sentence. 
+> 
+> It doesn't need to be said. 
+> 
+> And then I know that we do not make policy with this schedule, but I wanted to raise an issue that seems to be kind of bubbling up related to HPV and giving HPV in a more routine recommendation starting at nine, rather than-- well, it can be given as early as nine. 
+> 
+> So, that's just a-- put it on the parking lot for an HPV work group. Okay. 
+> 
+> The question is-- there's data that growing data that shows better completion of HPV when you start the series at age nine, it kind of removes some of the sexual implications, and there's-- it's easier to talk about cancer prevention. 
+> 
+> But I know that the data is conflicting to some degree, but I just am hoping that the work group could look at that more closely.
+> 
+> Melinda Wharton, CDC [01:19:26]
+> 
+> So, I know that there is interest in reconvening the HPV work group to address-- I believe this issue is as well as probably some others. 
+> 
+> Given the large amount of-- the large number of work groups the committee has currently had to support, we've been delayed on getting that started, but hopefully we'll be able to do that soon.
+
 ## ACIP discussion on RSV immunizations for pregnancy and babies
 
 - **Source:** webcast by Centers for Disease Control and Prevention
