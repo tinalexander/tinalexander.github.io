@@ -17,6 +17,67 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 30, 2023
 
+## ACIP discussion on RSV immunizations for pregnancy and babies
+
+- **Source:** webcast by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 26, 2023
+
+> Julian Ritchey, Sanofi [00:37:05]
+> 
+> On behalf of Sanofi vaccines and our alliance partner, AstraZeneca, appreciate the opportunity that NCIRD is providing for us to comment on the current market situation for Beyfortus or nirsevimab.
+> 
+> As Dr. Daskalakis has shared, we're experiencing unprecedented demand for Beyfortus in response to the unmet need that has existed in RSV prevention. 
+> 
+> Despite an aggressive supply plan built with the goal of outperforming past pediatric immunization launches and built to anticipate the demand of the season, the demand that has materialized has been much higher than forecasted across both the 50 milligram and 100 milligram presentations.
+> 
+> Both product dose presentations do continue to ship to fulfill existing orders. However, for the 100 milligram presentation, we have stopped accepting new orders as demand has consumed the supply currently available for this season.
+> 
+> We will continue shipping doses of the 100 milligram to fulfill orders already on hand, over the coming weeks.
+> 
+> Orders are still being accepted for the 50 milligram presentation. 
+> 
+> We're working closely in collaboration with the Centers for Disease Control and Prevention to ensure equitable distribution of available doses through the VFC program. 
+> 
+> Our approach for fulfilling existing orders and in taking new orders for the 50 milligram product across the private marketplace will also be done in a similar manner with equity in mind.
+> 
+> We appreciate the clinical guidance provided by CDC earlier this week via the HAN that was mentioned before. Additionally, we're working with the FDA together with AstraZeneca, our partner in charge of the manufacturing and supply, to deliver all of the doses planned for this season. 
+> 
+> We appreciate the challenge that these supply constraints present for providers and parents, as well as for CDC, the FDA and AAP and others. 
+> 
+> As we introduce Beyfortus, we are thankful for your patients and your collaboration. 
+> 
+> We're already working to ensure there will be sufficient supply available for next season as we continue to focus on making this season's doses available as rapidly as possible.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:40:19]
+> 
+> We will have sort of a better view of what's happening in terms of coverage as we go further in the season, but in general, I'll say that because this is a commercially distributed vaccine, we've been really in close contact with manufacturers and distributors to have a sense of sort of what's happening on the ground as well as really close discussions with our [stakeholders] around the country, including professional organizations, etcetera. 
+> 
+> So I'll start by saying it does-- there does not appear to be a bottleneck in production of the vaccine. So, from the perspective of what we've heard from manufacturers, as well as from distributors, vaccine is flowing. 
+> 
+> What we are hearing is that there are some barriers related to concerns around coverage. So CDC is actively engaging across [stakeholders] that deal with coverage, both governmental, CMS, and also others to make sure that the message is clear the importance of this vaccine product for pregnant people and for their newborns. 
+> 
+> Additionally, many engagements have happened and more are planned to be able to sort of tout the importance of the vaccine and also to do some myth busting around sort of what is available as well as what we sort of forecast will be the coverage scenarios. 
+> 
+> There will be some coverage issues because there are some limits to the speed at which a private insurer needs to cover this, but we are engaging with them as well to, again, highlight the importance of a public health view into strategies that tend to be more on the commercial side of the fence. 
+> 
+> ...
+> 
+> Sarah Long, ACIP [00:42:05]
+> 
+> We should be winding down on need for the 100 milligram vials as we catch people who are a little older at the beginning of the season in the next month, but the 50s we'll need through March and they are the most vulnerable. 
+> 
+> Do you-- at what level of uptake did you plan for and what do you anticipate as far as potential shortages of the 50s?
+> 
+> Julian Ritchey, Sanofi [00:42:37]
+> 
+> Thank you, Dr. Long, and as far as the 50s, I don't have specific numbers to share in terms of volume, but it's something we're watching very closely.
+> 
+> At this point, seeing the level of ordering that happened early on, we're still trying to understand how much of that ordering is early in stocking ordering, and the utilization that will go forward. 
+> 
+> So, the CDC can speak to more of the specifics of the VFC program details, but for non VFC and private sector doses, we're monitoring that 50 milligram order very closely and will work to adjust any order quantities going forward if we detect that.
+
 ## CDC officials at ACIP meeting on COVID-19 vaccines
 
 - **Source:** webcast by Centers for Disease Control and Prevention
