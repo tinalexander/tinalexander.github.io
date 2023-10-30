@@ -15,6 +15,83 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 30, 2023
+
+## CDC officials at ACIP meeting on COVID-19 vaccines
+
+- **Source:** webcast by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 26, 2023
+
+> Shannon Stokley, CDC [00:11:36]
+> 
+> We monitor vaccine doses for the program both through our pharmacy partners and our immunization program partners. 
+> 
+> The contracted pharmacies are required to provide to us on a daily basis the number of sites that are operating and how many doses have been administered. And then for our public health partners who receive COVID vaccine doses through CDC, we're able to track the orders, including where they go, the number of providers ordering vaccine and the number of doses that were ordered. 
+> 
+> So currently there are over 24,000 contracted pharmacy locations and over 380,000 doses have been administered by these sites. And there are now over 4,400 public health safety net providers that have placed more than 6,100 orders for over 287,000 doses of COVID 19 vaccine, using their 317 funds.
+> 
+> And nationally 81% of people without insurance are estimated to live within a five mile drive distance to a Bridge Access program provider. 
+> 
+> ...
+> 
+> Shannon Stokley, CDC [00:13:25]
+> 
+> Today I'm just gonna provide some preliminary data about vaccination coverage. This is from our National Immunization Survey. We have an adult COVID module and a child COVID module that's administered every week. 
+> 
+> For those not familiar with the NIS, this is a random digital telephone survey of cell phone numbers. And vaccination status is self-reported by the respondent. And, just to caution that sometimes there may be the potential for over estimation since it's self reported. 
+> 
+> But looking at our data for the week of October 8th through the 14th, and for adults 18 and over, we see that an estimated 7% are reported to have received a COVID 19 vaccine. And this is the 2023-2024 vaccine. 
+> 
+> We also assess vaccine intentions among individuals who have not received a vaccine. And we're seen about 25% of adults say they will definitely get vaccinated, and about 38% saying they probably or definitely will not get vaccinated. 
+> 
+> ...
+> 
+> Shannon Stokley, CDC [00:14:51]
+> 
+> COVID 19 vaccine was more frequently reported among adults who were older, had health insurance and had higher incomes. 
+> 
+> ...
+> 
+> Shannon Stokley, CDC [00:15:07]
+> 
+> This is children through age 17 years. Again, the time period is October 8th through 14th, and this is parents reporting the vaccination status of their children. 
+> 
+> And we see that about 2% of children were reported to have received a COVID vaccine. Next slide.
+> 
+> ...
+> 
+> Shannon Stokley, CDC [00:16:13]
+> 
+> We show that a little over a quarter of children have a parent that said they definitely will get their child vaccinated, excuse me-- and about 38% have a parent that said they definitely will not get vaccinated.
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:21:08]
+> 
+> From what we're hearing, it's not necessarily a supply issue. It's not necessarily a distribution issue. Although, of course, as alluded to there have been some things that have had to be worked out through commercialization.
+> 
+> I think early on in the rollout, there was a little bit of a delay in getting the Moderna supply, but that has improved.
+> 
+> I think what-- what we're hearing about more and more is just how difficult it is for pediatricians to be able to carry these products, to store them, to stock them, just the kind of implementation issues around providing this vaccine. 
+> 
+> And I think we do have some good updates, which I know, Dr. Wallace will be talking about in terms of some of the new guidance that we hope makes it more implementable in the pediatric office. 
+> 
+> But we are hearing about some of those issues from the VFC side. We have been continuing to increase the allocations so that states can order more VFC doses. And we have recently published an addendum to our VFC operations guide that gives some additional flexibility around borrowing and things like that to help further smooth some of the implementation challenges that pediatric providers are facing.
+> 
+> ...
+> 
+> Megan Wallace, CDC [00:38:15]
+> 
+> I want to end with providing a preview of upcoming policy discussions. 
+> 
+> First on the horizon is the consideration of additional COVID 19 vaccine doses in older adults. We anticipate this discussion during the February 2024 ACIP meeting. 
+> 
+> And if we aim to bring that before ACIP at that meeting, the policy discussion will occur prior to individuals reaching six months since their last dose. 
+> 
+> Then we will pivot to preparations for future COVID 19 vaccine formula updates with those discussions beginning at the June 2024 ACIP meeting.
+> 
+> As always, we will be continuously monitoring vaccine effectiveness, vaccine safety, and COVID 19 epidemiology, and COVID 19 vaccine recommendations can be updated if needed.
+
 # October 27, 2023
 
 ## HHS officials on commercialization of COVID-19 treatments
