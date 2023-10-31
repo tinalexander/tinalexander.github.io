@@ -82,6 +82,23 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > Exa-cel demonstrated transformative efficacy, a strong safety profile, and a highly positive benefit risk for patients with severe sickle cell disease. 
 > 
+> 
+> David Altshuler, Vertex [10:59:30]
+> 
+> The DNA sequence must match both the guide RNA and a short adjacent sequence known as the protospacer adjacent motif or PAM. 
+> 
+> If the on target site is unique in the genome, as depicted on the left with a yellow dot, and if the guide is highly specific, then editing will occur only at the on target site. 
+> 
+> However, if one were to choose an on target DNA sequence that is present at multiple genomic locations as depicted on the right in red, and one designed a guide that binds promiscuously at many places in the genome, then off target editing can occur.
+> 
+> Based on this understanding, three strategies to minimize the risk of off target editing are first to limit exposure to CRISPR. 
+> 
+> Second, to select an on target site that is unique in the genome. 
+> 
+> And third to optimize the guide RNA, not only for efficacy, but also for specificity.
+> 
+> From the start of the exa-cel program eight years ago, we were focused on minimizing and assessing the risk of off target editing. 
+> 
 > ...
 > 
 > Bill Hobbs, Vertex [11:45:56]
@@ -176,6 +193,16 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > If an unintended genome editing occurs at the region of the genome known to have regulatory elements, then a double strand break in such locations can disrupt regulatory function. Similarly, off target editing at gene coding region can lead to gene inactivation. 
 > 
 > If the gene happens to play an essential role in cell function, then such unintended edits can be deleterious. These edits can also increase the risk of cancer. 
+> 
+> ...
+> 
+> Komudi Singh, FDA [02:31:51]
+> 
+> The applicant performed off target safety assessment accounting for heterogeneity using the Thousand Genomes Project database. 
+> 
+> However, the small number of sequencing data present in the database, and lack of confirmatory testing of all off target loci in samples harboring the variants is concerning. 
+> 
+> We are also concerned about the adequacy of small sample size in cellular off target analysis with exa-cel and if the use of small number of healthy donor and sickle cell donor cells would adequately inform us of potential off target editing risk of exa-cel. 
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
