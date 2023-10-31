@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 31, 2023
 
+## FDA meeting on Vertex's exa-cel for sickle cell disease
+
+- **Source:** [webcast](https://www.fda.gov/advisory-committees/advisory-committee-calendar/cellular-tissue-and-gene-therapies-advisory-committee-october-31-2023-meeting-announcement-10312023) by Food and Drug Administration
+- **Date:** broadcasted October 31, 2023
+
+
+
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
 - **Source:** webcast by Centers for Disease Control and Prevention
