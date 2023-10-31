@@ -97,7 +97,23 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > And third to optimize the guide RNA, not only for efficacy, but also for specificity.
 > 
-> From the start of the exa-cel program eight years ago, we were focused on minimizing and assessing the risk of off target editing. 
+> From the start of the exa-cel program eight years ago, we were focused on minimizing and assessing the risk of off target editing.
+> 
+> ...
+> 
+> David Altshuler, Vertex [11:00:35]
+> 
+> The design of exa-cel was shaped by three strategies to minimize off target risk. 
+> 
+> First, we use an ex-vivo approach and transiently express CRISPR only in cells of the hematopoietic lineage. 
+> 
+> Second, we selected the on target site in an intron of BCL11A that has a unique sequence with no other match in the human genome. 
+> 
+> Third, we screened hundreds of candidate guide RNAs to select an optimal guide RNA that is no other match elsewhere in the human genome. 
+> 
+> Now having designed exa-cel to minimize potential for off target editing, we then systematically evaluated the risk of off target editing using multiple orthogonal methods to detect potential off target edits, including sites nominated based on human genetic diversity and performing risk assessments as appropriate. 
+> 
+> And the conclusion is that the design of exa-cel minimized potential for off target risk and multiple systematic evaluations did not identify evidence of off target editing by exa-cel. 
 > 
 > ...
 > 
