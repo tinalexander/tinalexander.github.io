@@ -158,18 +158,24 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > Following editing, the cells are incubated in a culture medium, washed and cryopreserved. 
 > 
 > After completion of lot release testing and manufacture of the appropriate dose, Exa-cel lots are shipped to qualified clinical centers for infusion. 
-
-...
-
-Karl Kasamon, FDA [02:00:25]
-
-Exa-cel administration to patients with severe sickle cell disease led to achievement of primary and secondary efficacy endpoint by large majority of patients.
-
-The long term outcome following CRISPR based gene therapy in humans remains unknown, and questions still remain regarding off target unintended genome editing. 
-
-...
-
-
+> 
+> ...
+> 
+> Karl Kasamon, FDA [02:00:25]
+> 
+> Exa-cel administration to patients with severe sickle cell disease led to achievement of primary and secondary efficacy endpoint by large majority of patients.
+> 
+> The long term outcome following CRISPR based gene therapy in humans remains unknown, and questions still remain regarding off target unintended genome editing. 
+> 
+> ...
+> 
+> Komudi Singh, FDA [02:03:09]
+> 
+> A growing body of evidence has shown that Cas9 mediated edits can also occur when there is an imperfect base pairing between the guide RNA and the genomic DNA in other locations, giving rise to unintended off target editing, as shown in the figure on the lower right portion of the slide. Next slide, please. 
+> 
+> If an unintended genome editing occurs at the region of the genome known to have regulatory elements, then a double strand break in such locations can disrupt regulatory function. Similarly, off target editing at gene coding region can lead to gene inactivation. 
+> 
+> If the gene happens to play an essential role in cell function, then such unintended edits can be deleterious. These edits can also increase the risk of cancer. 
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
