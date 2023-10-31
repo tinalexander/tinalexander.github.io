@@ -22,7 +22,67 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** [webcast](https://www.fda.gov/advisory-committees/advisory-committee-calendar/cellular-tissue-and-gene-therapies-advisory-committee-october-31-2023-meeting-announcement-10312023) by Food and Drug Administration
 - **Date:** broadcasted October 31, 2023
 
+Nicole Verdun, FDA [09:18:45]
 
+As many of you know, sickle cell disease is a debilitating hemoglobinopathy with significant unmet medical need and can carry a reduction in overall survival for those affected. 
+
+In addition, curative options are significantly limited. 
+
+I've had the pleasure of taking care of several sickle cell patients and admire the courageous and resilient patient community. 
+
+I'm also reminded of the sickle cell disease patient focused drug development program at FDA in which we heard directly from patients and their caregivers, which highlighted the significant unmet need in this disease. 
+
+It is an exciting time in cell and gene therapy that we are beginning to address some of this unmet need in a variety of diseases. 
+
+Exa-cel has been studied for treatment of sickle cell disease with severe vaso-occlusive crises and has shown efficacy and safety in this population.
+
+In today's discussion, we would like to focus the discussion specifically on the off target analyses for genome editing for exa-cel. 
+
+...
+
+Daniel Bauer, Boston Children's Hospital [10:05:14]
+
+I would emphasize to patients that there's often an uncertainty about the functional significance of off target edits that, you know, only a small part of the human genome actually codes for genes. Most of the human genome is noncoding. Its functional importance could be regulatory, but it's likely that many places in the human genome can tolerate an off target edit and not have a functional consequence. 
+
+The challenge is we just don't know for sure. And the only way to know that is careful follow up, I would say.
+
+What I would emphasize to patients is what's obvious to them, the known risks of the disease, that this is a terrible disease and that has to play in and then the risks of the therapy, which are known, which include things like the busulfan conditioning  that's used or whatnot. 
+
+So I would say this: my guess is it's a relatively small risk in the scheme of this risk benefit, but it's new, it's unknown, but it's easily measurable. And that's one of the goals I would say of doing this under very careful circumstances is to try to learn what that risk is, so that we can continually improve those therapies.
+
+Lisa Lee, CTGTAC [10:06:47]
+
+I mean, theoretically, is it catastrophic?
+
+Daniel Bauer, Boston Children's Hospital [10:06:51]
+
+In theory, as Dr Urnov said, there-- these cell products have lots of cells in them, hundreds of millions of cells, and any one cell that goes awry could cause leukemia. 
+
+Now, has that ever been shown, that an off target effect of gene editing cause leukemia? No. 
+
+So theoretically, could it? Yes. Is there any evidence to suggest that it does? I would say no.
+
+But we-- this hasn't really been done very much. We need to be humble and open to learning from these brave patients who are participating.
+
+...
+
+Taby Ahsan, CTGTAC [10:25:48]
+
+I think for the rest of the day, it sets the stage to think about two things, which is: when is enough theoretical data sufficient to support a patient specific risk assessment? 
+
+And also, to your point, Dr. Urnov, which is: where are we in that curve of risk mitigation? And have we actually started getting to that asymptote, or is there more work to be done? 
+
+Those are two very important questions. And while we will start the discussion today, I think that this will continue to evolve over time. 
+
+...
+
+Stephanie Krogmeier, Vertex [10:39:46]
+
+The results from the exa-cel program in severe sickle cell disease are unprecedented. 
+
+Exa-cel demonstrated transformative efficacy, a strong safety profile, and a highly positive benefit risk for patients with severe sickle cell disease. 
+
+...
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
