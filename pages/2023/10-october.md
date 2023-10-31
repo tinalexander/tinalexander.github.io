@@ -17,7 +17,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # October 31, 2023
 
-## ACIP discussion on COVID-19 vaccines, influenza vaccines, and ischemic stroke
+## ACIP discussion on influenza vaccines and ischemic stroke
 
 - **Source:** webcast by Centers for Disease Control and Prevention
 - **Date:** broadcasted October 25, 2023
