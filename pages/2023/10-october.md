@@ -84,6 +84,40 @@ Exa-cel demonstrated transformative efficacy, a strong safety profile, and a hig
 
 ...
 
+Bill Hobbs, Vertex [11:45:56]
+
+Our approach to this, if you boil it down is really that to do close clinical monitoring and follow up, which we recommend and do for all patients in the clinical study, irrespective of the variant or not. 
+
+And the rationale for the approach is that we know we have established a strongly positive benefit risk for this in a patient population with severe unmet need, who not only have a disease that is impacts quality of life, but also shortens their life as the disease relentlessly progresses. 
+
+The approach for that Dr. Altshuler described for the non-clinical package, which didn't identify any specific off target risks, and did a risk assessment of any additional variant that could potentially occur in a patient, concluded that there was a low risk of a functional consequence to a patient. And therefore we had neither an off target to follow nor a specific variant of concern for a clinical outcome. 
+
+And we concluded from that, that the appropriate approach for all patients in the clinical study was close and careful clinical monitoring, which is independent of whether they have the variant or not, and assumes that any particular patient could have an off target effect, which we could then pick up in that process. 
+
+We also collected laboratory samples from both before and after treatment that would allow us to go and then subsequently investigate, should there be the need arise.
+
+And so this is also reflected in our pharmacovigilance plan that Dr Simard described. 
+
+And so our approach has been to do careful close clinical monitoring, which was also referred to in the session this morning as the appropriate approach for all patients who receive a genetic therapy like exa-cel.
+
+Gil Wolfe, CTGTAC [11:47:35]
+
+So there's no plan for molecular follow up, to look at editing at this off target site? It seems like there is quite a bit that could be learned with regards to off target editing rates in your treated patient population by looking retrospectively at editing at this site, now that you've treated more than 45 patients.
+
+Stephanie Krogmeier, Vertex [11:47:58]
+
+I will ask Dr. Altshuler to address your question.
+
+David Altshuler, Vertex [11:48:06]
+
+It's an important question, and we've thought deeply about it. And the way we think about it is first taking into consideration, not only the off target assessment we've done, but all the other assessments and the package of data, and as Dr. Hobbs described, we don't believe from the totality of data that we've collected, that additional nonclinical studies are gonna be informative. 
+
+And then we believe for clinical studies, the important thing is to follow all the patients, see if any events occur and then we'll have the samples and the data to try and understand those events. And that's our approach.
+
+...
+
+
+
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
 - **Source:** webcast by Centers for Disease Control and Prevention
