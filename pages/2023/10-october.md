@@ -15,6 +15,115 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# October 31, 2023
+
+## ACIP discussion on COVID-19 vaccines, influenza vaccines, and ischemic stroke
+
+- **Source:** webcast by Centers for Disease Control and Prevention
+- **Date:** broadcasted October 25, 2023
+
+> Tom Shimabukuro, CDC [01:10:28]
+> 
+> There were no unusual or unexpected reporting patterns observed and no evidence of a safety concern detected for ischemic stroke with either of the bivalent mRNA COVID 19 vaccines in VAERS monitoring. 
+> 
+> FDA monitoring in the CMS data and VA monitoring in the VA system did not detect any safety signals for ischemic stroke following bivalent mRNA COVID 19 vaccination using historical comparator designs.
+> 
+> A separate ad hoc CDC analysis during the bivalent Pfizer ischemic stroke signal assessment did not detect an elevated risk for ischemic stroke after influenza vaccination alone.
+> 
+> Surveillance conducted by international regulatory and public health partners did not detect a safety concern for ischemic stroke following bivalent mRNA COVID 19 vaccination. 
+> 
+> There was no evidence of a safety signal for ischemic stroke detected in the manufacturer's global monitoring of bivalent mRNA COVID 19 vaccination.
+> 
+> And no safety signals were detected for ischemic stroke for primary series or monovalent boosters for Pfizer or Moderna vaccines in U.S. and global monitoring.
+> 
+> And data suggests COVID 19 and influenza disease are associated with an increased risk of stroke. And this was previously presented at an ACIP meeting. Next slide. 
+> 
+> So I want to show some data on disease because I think it's-- I think it's important, in the context of these findings. 
+> 
+> So this is a graph that's actually taken from the FDA study, that I summarized previously. 
+> 
+> This is monthly incidence rates of non hemorrhagic stroke in Medicare claims data, which suggests seasonality. And there are other data that actually show this pattern of seasonality. But this is fairly recent data. 
+> 
+> And as you can see, incidence tends to be higher in the winter months, then dips down in the summer months, and then starts creeping back up in the fall. 
+> 
+> And like I said, this pattern been observed in other analyses, and this is some indirect evidence of a possible correlation with circulating viral respiratory pathogens. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [01:14:22]
+> 
+> Just to provide some context for why I'm showing this. 
+> 
+> There is some evidence that infection is associated with stroke, particularly with COVID 19 and flu. 
+> 
+> So I think-- we think it's important to also consider respiratory illness and viral illness when looking at these vaccine safety data, next slide. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [01:14:53]
+> 
+> Our interpretation of these, of the data that I just presented from these post signal analyses after the initial RCA finding was there's variable and inconsistent results that were obtained in some analyses of the risk of ischemic stroke, following bivalent COVID 19 vaccination, simultaneous bivalent COVID 19 and influenza vaccination, and influenza vaccination alone. 
+> 
+> There is a lack of consistency in findings from different data systems when using different methods across age groups and across subgroup AEs.
+> 
+> The most common findings across the studies are finding of no association. 
+> 
+> Multiple comparisons were conducted in studies while adjusting for multiplicity. And few of these reached statistical significance. 
+> 
+> The studies were not designed to account for the potential protective effect of vaccination on stroke and later post vaccination periods.
+> 
+> Adjusting for seasonality and restricting analyses to chart verified cases frequently resulted in attenuated findings or findings that were no longer statistically significant. 
+> 
+> The remaining statistically significant findings tended to be relatively small in magnitude and ischemic stroke cases in the analyses are predominantly occurring in older people and in people in the upper ranges of the age group studied, meaning there are relatively few cases in younger people. Next slide. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [01:16:21]
+> 
+> So the available data do not provide clear and consistent evidence of a safety problem for ischemic stroke with bivalent mRNA COVID 19 vaccines when given alone or given simultaneously with influenza vaccines or when influenza vaccine is given alone.
+> 
+> Most study results have not shown an association between vaccination and ischemic stroke and no clear pattern demonstrating increased risk has emerged.
+> 
+> Seasonality of stroke risks and an unusual respiratory illness pattern in 2022 and 2023 could be impacting the results of some of these analyses and unrecognized SARS-CoV-2 infection could also play a role in occurrence of stroke after vaccination. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [01:17:45]
+> 
+> So our next steps will conduct additional analyses on the possible relationship between ischemic stroke and bivalent mRNA COVID-19 vaccination, simultaneous administration of bivalent mRNA COVID 19 and influenza vaccines and influenza vaccine alone.
+> 
+> We will continue vigilant safety monitoring of the 2023-2024 COVID 19 and influenza vaccines, including for ischemic stroke. 
+> 
+> And we will be happy to come back to the committee and brief you when we have additional safety data. 
+> 
+> ...
+> 
+> Jamie Loehr, ACIP [01:18:29]
+> 
+> I'd also like to say thank you very much for that presentation. Could we go to slide seven? 
+> 
+> A little bit of context, the flu work group heard about the FDA study, which is on slide seven here, and there were some concerning findings. And so that was about two weeks ago last Monday. 
+> 
+> So two days ago, the presenter gave us a little bit more detail about this, and the work group asked for a context and a presentation today. 
+> 
+> So this all came together from Dr. Shimabukuro in 48 hours. And I really appreciate that detail and perspective of all the studies, not just the one study that came out two weeks ago. 
+> 
+> So I feel like I have a much better context of the vast number of studies, which are suggesting that there is not a consistent pattern of concern. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [01:22:01]
+> 
+> We have multiple complimentary systems that work in different ways and use different methods, both within CDC and across the federal government, with our partners, such as FDA, VA, and Department of Defense. 
+> 
+> And our systems are, as you said, designed to be sensitive, to be able to rapidly detect and assess potential safety problems. And we strive to be timely and transparent in our communication of safety information. 
+> 
+> And I agree with you that consistency of findings across different systems using different methods is important and tells us something about a potential adverse event.
+> 
+> And the myocarditis signal is a great example of where all the evidence from multiple systems in the United States and outside were all pointing to a common finding. 
+> 
+> And I think this-- this is a much different situation than myocarditis.
+
 # October 30, 2023
 
 ## ACIP discussion on pentavalent meningococcal vaccine wording
