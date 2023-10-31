@@ -22,132 +22,131 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 - **Source:** [webcast](https://www.fda.gov/advisory-committees/advisory-committee-calendar/cellular-tissue-and-gene-therapies-advisory-committee-october-31-2023-meeting-announcement-10312023) by Food and Drug Administration
 - **Date:** broadcasted October 31, 2023
 
-Nicole Verdun, FDA [09:18:45]
-
-As many of you know, sickle cell disease is a debilitating hemoglobinopathy with significant unmet medical need and can carry a reduction in overall survival for those affected. 
-
-In addition, curative options are significantly limited. 
-
-I've had the pleasure of taking care of several sickle cell patients and admire the courageous and resilient patient community. 
-
-I'm also reminded of the sickle cell disease patient focused drug development program at FDA in which we heard directly from patients and their caregivers, which highlighted the significant unmet need in this disease. 
-
-It is an exciting time in cell and gene therapy that we are beginning to address some of this unmet need in a variety of diseases. 
-
-Exa-cel has been studied for treatment of sickle cell disease with severe vaso-occlusive crises and has shown efficacy and safety in this population.
-
-In today's discussion, we would like to focus the discussion specifically on the off target analyses for genome editing for exa-cel. 
-
-...
-
-Daniel Bauer, Boston Children's Hospital [10:05:14]
-
-I would emphasize to patients that there's often an uncertainty about the functional significance of off target edits that, you know, only a small part of the human genome actually codes for genes. Most of the human genome is noncoding. Its functional importance could be regulatory, but it's likely that many places in the human genome can tolerate an off target edit and not have a functional consequence. 
-
-The challenge is we just don't know for sure. And the only way to know that is careful follow up, I would say.
-
-What I would emphasize to patients is what's obvious to them, the known risks of the disease, that this is a terrible disease and that has to play in and then the risks of the therapy, which are known, which include things like the busulfan conditioning  that's used or whatnot. 
-
-So I would say this: my guess is it's a relatively small risk in the scheme of this risk benefit, but it's new, it's unknown, but it's easily measurable. And that's one of the goals I would say of doing this under very careful circumstances is to try to learn what that risk is, so that we can continually improve those therapies.
-
-Lisa Lee, CTGTAC [10:06:47]
-
-I mean, theoretically, is it catastrophic?
-
-Daniel Bauer, Boston Children's Hospital [10:06:51]
-
-In theory, as Dr Urnov said, there-- these cell products have lots of cells in them, hundreds of millions of cells, and any one cell that goes awry could cause leukemia. 
-
-Now, has that ever been shown, that an off target effect of gene editing cause leukemia? No. 
-
-So theoretically, could it? Yes. Is there any evidence to suggest that it does? I would say no.
-
-But we-- this hasn't really been done very much. We need to be humble and open to learning from these brave patients who are participating.
-
-...
-
-Taby Ahsan, CTGTAC [10:25:48]
-
-I think for the rest of the day, it sets the stage to think about two things, which is: when is enough theoretical data sufficient to support a patient specific risk assessment? 
-
-And also, to your point, Dr. Urnov, which is: where are we in that curve of risk mitigation? And have we actually started getting to that asymptote, or is there more work to be done? 
-
-Those are two very important questions. And while we will start the discussion today, I think that this will continue to evolve over time. 
-
-...
-
-Stephanie Krogmeier, Vertex [10:39:46]
-
-The results from the exa-cel program in severe sickle cell disease are unprecedented. 
-
-Exa-cel demonstrated transformative efficacy, a strong safety profile, and a highly positive benefit risk for patients with severe sickle cell disease. 
-
-...
-
-Bill Hobbs, Vertex [11:45:56]
-
-Our approach to this, if you boil it down is really that to do close clinical monitoring and follow up, which we recommend and do for all patients in the clinical study, irrespective of the variant or not. 
-
-And the rationale for the approach is that we know we have established a strongly positive benefit risk for this in a patient population with severe unmet need, who not only have a disease that is impacts quality of life, but also shortens their life as the disease relentlessly progresses. 
-
-The approach for that Dr. Altshuler described for the non-clinical package, which didn't identify any specific off target risks, and did a risk assessment of any additional variant that could potentially occur in a patient, concluded that there was a low risk of a functional consequence to a patient. And therefore we had neither an off target to follow nor a specific variant of concern for a clinical outcome. 
-
-And we concluded from that, that the appropriate approach for all patients in the clinical study was close and careful clinical monitoring, which is independent of whether they have the variant or not, and assumes that any particular patient could have an off target effect, which we could then pick up in that process. 
-
-We also collected laboratory samples from both before and after treatment that would allow us to go and then subsequently investigate, should there be the need arise.
-
-And so this is also reflected in our pharmacovigilance plan that Dr Simard described. 
-
-And so our approach has been to do careful close clinical monitoring, which was also referred to in the session this morning as the appropriate approach for all patients who receive a genetic therapy like exa-cel.
-
-Gil Wolfe, CTGTAC [11:47:35]
-
-So there's no plan for molecular follow up, to look at editing at this off target site? It seems like there is quite a bit that could be learned with regards to off target editing rates in your treated patient population by looking retrospectively at editing at this site, now that you've treated more than 45 patients.
-
-Stephanie Krogmeier, Vertex [11:47:58]
-
-I will ask Dr. Altshuler to address your question.
-
-David Altshuler, Vertex [11:48:06]
-
-It's an important question, and we've thought deeply about it. And the way we think about it is first taking into consideration, not only the off target assessment we've done, but all the other assessments and the package of data, and as Dr. Hobbs described, we don't believe from the totality of data that we've collected, that additional nonclinical studies are gonna be informative. 
-
-And then we believe for clinical studies, the important thing is to follow all the patients, see if any events occur and then we'll have the samples and the data to try and understand those events. And that's our approach.
-
-...
-
-David Altshuler, Vertex [11:54:19]
-
-I'd like to just go back in answering your question to the transient nature of CRISPR editing with exa-cel. 
-
-So the cells obviously are harvested, and then in the manufacturing process, they are briefly exposed to the CRISPR-Cas9 enzyme using a ribonucleoprotein particle, RNA protein complex, and then that is a short duration of editing, and then it's gone. 
-
-So I guess if your question again, as Dr. Hobbs said, we do not imagine the need for nor intend there to be another treatment.
-
-But just as your hypothetical, if it were-- the exposure to CRISPR-Cas9 is extremely brief and not in the body of the person who has the cells, because it all takes place in the manufacturing process, and is then gone and does none of it residually is there and makes it into the patient.
-
-...
-
-Christopher Breuer, CTGTAC [11:55:30]
-
-My question pertains to the labeling. Was any consideration given to adding off target-- possible off target effects to the label?
-
-While I recognize that your preclinical studies did not show evidence of that, I think given the nature of this meeting and the emerging field and the difficulty of potentially trying to identify these things ahead of time, might that be something to consider?
-
-Stephanie Krogmeier, Vertex [11:55:55]
-
-Yeah, we are still in discussions with the agency on the label. We-- those discussions will certainly include the safety of exa-cel.
-
-...
-
-Bill Hobbs, Vertex [12:04:46]
-
-The first part of your question is about the number of cells infused in patients, and the protocol specified a minimum of 3 times 10 to the 6 per kilogram and a maximum of 20 times 10 to the 6 per kilogram. 
-
-And in the clinical study, that range was infused into patients.
-
-...
-
+> Nicole Verdun, FDA [09:18:45]
+> 
+> As many of you know, sickle cell disease is a debilitating hemoglobinopathy with significant unmet medical need and can carry a reduction in overall survival for those affected. 
+> 
+> In addition, curative options are significantly limited. 
+> 
+> I've had the pleasure of taking care of several sickle cell patients and admire the courageous and resilient patient community. 
+> 
+> I'm also reminded of the sickle cell disease patient focused drug development program at FDA in which we heard directly from patients and their caregivers, which highlighted the significant unmet need in this disease. 
+> 
+> It is an exciting time in cell and gene therapy that we are beginning to address some of this unmet need in a variety of diseases. 
+> 
+> Exa-cel has been studied for treatment of sickle cell disease with severe vaso-occlusive crises and has shown efficacy and safety in this population.
+> 
+> In today's discussion, we would like to focus the discussion specifically on the off target analyses for genome editing for exa-cel. 
+> 
+> ...
+> 
+> Daniel Bauer, Boston Children's Hospital [10:05:14]
+> 
+> I would emphasize to patients that there's often an uncertainty about the functional significance of off target edits that, you know, only a small part of the human genome actually codes for genes. Most of the human genome is noncoding. Its functional importance could be regulatory, but it's likely that many places in the human genome can tolerate an off target edit and not have a functional consequence. 
+> 
+> The challenge is we just don't know for sure. And the only way to know that is careful follow up, I would say.
+> 
+> What I would emphasize to patients is what's obvious to them, the known risks of the disease, that this is a terrible disease and that has to play in and then the risks of the therapy, which are known, which include things like the busulfan conditioning  that's used or whatnot. 
+> 
+> So I would say this: my guess is it's a relatively small risk in the scheme of this risk benefit, but it's new, it's unknown, but it's easily measurable. And that's one of the goals I would say of doing this under very careful circumstances is to try to learn what that risk is, so that we can continually improve those therapies.
+> 
+> Lisa Lee, CTGTAC [10:06:47]
+> 
+> I mean, theoretically, is it catastrophic?
+> 
+> Daniel Bauer, Boston Children's Hospital [10:06:51]
+> 
+> In theory, as Dr Urnov said, there-- these cell products have lots of cells in them, hundreds of millions of cells, and any one cell that goes awry could cause leukemia. 
+> 
+> Now, has that ever been shown, that an off target effect of gene editing cause leukemia? No. 
+> 
+> So theoretically, could it? Yes. Is there any evidence to suggest that it does? I would say no.
+> 
+> But we-- this hasn't really been done very much. We need to be humble and open to learning from these brave patients who are participating.
+> 
+> ...
+> 
+> Taby Ahsan, CTGTAC [10:25:48]
+> 
+> I think for the rest of the day, it sets the stage to think about two things, which is: when is enough theoretical data sufficient to support a patient specific risk assessment? 
+> 
+> And also, to your point, Dr. Urnov, which is: where are we in that curve of risk mitigation? And have we actually started getting to that asymptote, or is there more work to be done? 
+> 
+> Those are two very important questions. And while we will start the discussion today, I think that this will continue to evolve over time. 
+> 
+> ...
+> 
+> Stephanie Krogmeier, Vertex [10:39:46]
+> 
+> The results from the exa-cel program in severe sickle cell disease are unprecedented. 
+> 
+> Exa-cel demonstrated transformative efficacy, a strong safety profile, and a highly positive benefit risk for patients with severe sickle cell disease. 
+> 
+> ...
+> 
+> Bill Hobbs, Vertex [11:45:56]
+> 
+> Our approach to this, if you boil it down is really that to do close clinical monitoring and follow up, which we recommend and do for all patients in the clinical study, irrespective of the variant or not. 
+> 
+> And the rationale for the approach is that we know we have established a strongly positive benefit risk for this in a patient population with severe unmet need, who not only have a disease that is impacts quality of life, but also shortens their life as the disease relentlessly progresses. 
+> 
+> The approach for that Dr. Altshuler described for the non-clinical package, which didn't identify any specific off target risks, and did a risk assessment of any additional variant that could potentially occur in a patient, concluded that there was a low risk of a functional consequence to a patient. And therefore we had neither an off target to follow nor a specific variant of concern for a clinical outcome. 
+> 
+> And we concluded from that, that the appropriate approach for all patients in the clinical study was close and careful clinical monitoring, which is independent of whether they have the variant or not, and assumes that any particular patient could have an off target effect, which we could then pick up in that process. 
+> 
+> We also collected laboratory samples from both before and after treatment that would allow us to go and then subsequently investigate, should there be the need arise.
+> 
+> And so this is also reflected in our pharmacovigilance plan that Dr Simard described. 
+> 
+> And so our approach has been to do careful close clinical monitoring, which was also referred to in the session this morning as the appropriate approach for all patients who receive a genetic therapy like exa-cel.
+> 
+> Gil Wolfe, CTGTAC [11:47:35]
+> 
+> So there's no plan for molecular follow up, to look at editing at this off target site? It seems like there is quite a bit that could be learned with regards to off target editing rates in your treated patient population by looking retrospectively at editing at this site, now that you've treated more than 45 patients.
+> 
+> Stephanie Krogmeier, Vertex [11:47:58]
+> 
+> I will ask Dr. Altshuler to address your question.
+> 
+> David Altshuler, Vertex [11:48:06]
+> 
+> It's an important question, and we've thought deeply about it. And the way we think about it is first taking into consideration, not only the off target assessment we've done, but all the other assessments and the package of data, and as Dr. Hobbs described, we don't believe from the totality of data that we've collected, that additional nonclinical studies are gonna be informative. 
+> 
+> And then we believe for clinical studies, the important thing is to follow all the patients, see if any events occur and then we'll have the samples and the data to try and understand those events. And that's our approach.
+> 
+> ...
+> 
+> David Altshuler, Vertex [11:54:19]
+> 
+> I'd like to just go back in answering your question to the transient nature of CRISPR editing with exa-cel. 
+> 
+> So the cells obviously are harvested, and then in the manufacturing process, they are briefly exposed to the CRISPR-Cas9 enzyme using a ribonucleoprotein particle, RNA protein complex, and then that is a short duration of editing, and then it's gone. 
+> 
+> So I guess if your question again, as Dr. Hobbs said, we do not imagine the need for nor intend there to be another treatment.
+> 
+> But just as your hypothetical, if it were-- the exposure to CRISPR-Cas9 is extremely brief and not in the body of the person who has the cells, because it all takes place in the manufacturing process, and is then gone and does none of it residually is there and makes it into the patient.
+> 
+> ...
+> 
+> Christopher Breuer, CTGTAC [11:55:30]
+> 
+> My question pertains to the labeling. Was any consideration given to adding off target-- possible off target effects to the label?
+> 
+> While I recognize that your preclinical studies did not show evidence of that, I think given the nature of this meeting and the emerging field and the difficulty of potentially trying to identify these things ahead of time, might that be something to consider?
+> 
+> Stephanie Krogmeier, Vertex [11:55:55]
+> 
+> Yeah, we are still in discussions with the agency on the label. We-- those discussions will certainly include the safety of exa-cel.
+> 
+> ...
+> 
+> Bill Hobbs, Vertex [12:04:46]
+> 
+> The first part of your question is about the number of cells infused in patients, and the protocol specified a minimum of 3 times 10 to the 6 per kilogram and a maximum of 20 times 10 to the 6 per kilogram. 
+> 
+> And in the clinical study, that range was infused into patients.
+> 
+> ...
 
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
