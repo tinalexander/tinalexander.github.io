@@ -332,6 +332,14 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > Gil Wolfe, CTGTAC [03:58:11]
 > 
 > I guess the only other thing that maybe we didn't touch on, and I apologize for not mentioning this, but whether there would be a plan for pre-screening for patients that have a variant at CPS1 in the future and how that would affect whether they would receive treatment.
+> 
+> ...
+> 
+> Taby Ahsan, CTGTAC (Chair) [03:58:41]
+> 
+> I think we talked about a lot of different aspects. There was a kind of a robust conversation that hopefully will be informative to the FDA as they start to evaluate different paradigms for off target analysis. 
+> 
+> This is likely just the first of many more discussions around this topic as products come for regulatory approval. 
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
