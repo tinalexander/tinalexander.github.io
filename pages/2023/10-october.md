@@ -159,6 +159,18 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > After completion of lot release testing and manufacture of the appropriate dose, Exa-cel lots are shipped to qualified clinical centers for infusion. 
 
+...
+
+Karl Kasamon, FDA [02:00:25]
+
+Exa-cel administration to patients with severe sickle cell disease led to achievement of primary and secondary efficacy endpoint by large majority of patients.
+
+The long term outcome following CRISPR based gene therapy in humans remains unknown, and questions still remain regarding off target unintended genome editing. 
+
+...
+
+
+
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
 - **Source:** webcast by Centers for Disease Control and Prevention
