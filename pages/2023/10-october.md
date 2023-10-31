@@ -116,7 +116,15 @@ And then we believe for clinical studies, the important thing is to follow all t
 
 ...
 
+David Altshuler, Vertex [11:54:19]
 
+I'd like to just go back in answering your question to the transient nature of CRISPR editing with exa-cel. 
+
+So the cells obviously are harvested, and then in the manufacturing process, they are briefly exposed to the CRISPR-Cas9 enzyme using a ribonucleoprotein particle, RNA protein complex, and then that is a short duration of editing, and then it's gone. 
+
+So I guess if your question again, as Dr. Hobbs said, we do not imagine the need for nor intend there to be another treatment.
+
+But just as your hypothetical, if it were-- the exposure to CRISPR-Cas9 is extremely brief and not in the body of the person who has the cells, because it all takes place in the manufacturing process, and is then gone and does none of it residually is there and makes it into the patient.
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
