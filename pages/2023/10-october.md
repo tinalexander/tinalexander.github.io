@@ -81,7 +81,8 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > The results from the exa-cel program in severe sickle cell disease are unprecedented. 
 > 
 > Exa-cel demonstrated transformative efficacy, a strong safety profile, and a highly positive benefit risk for patients with severe sickle cell disease. 
-> 
+>
+> ...
 > 
 > David Altshuler, Vertex [10:59:30]
 > 
