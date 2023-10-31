@@ -50,6 +50,8 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > So I would say this: my guess is it's a relatively small risk in the scheme of this risk benefit, but it's new, it's unknown, but it's easily measurable. And that's one of the goals I would say of doing this under very careful circumstances is to try to learn what that risk is, so that we can continually improve those therapies.
 > 
+> ...
+> 
 > Lisa Lee, CTGTAC [10:06:47]
 > 
 > I mean, theoretically, is it catastrophic?
