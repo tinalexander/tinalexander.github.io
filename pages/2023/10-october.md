@@ -147,7 +147,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > And in the clinical study, that range was infused into patients.
 > 
 > ...
-
+>
+> 
+> Karl Kasamon, FDA [01:52:37]
+> 
+> The manufacture of Exa-cel, as shown in this diagram, starts with collection of autologous hematopoietic stem cells using apheresis. 
+> 
+> Then, CD34+ positive cells are isolated, purified, and genome edited with a CRISPR endonuclease and an SPY101 guide RNA.
+> 
+> Following editing, the cells are incubated in a culture medium, washed and cryopreserved. 
+> 
+> After completion of lot release testing and manufacture of the appropriate dose, Exa-cel lots are shipped to qualified clinical centers for infusion. 
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
