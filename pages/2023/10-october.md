@@ -220,40 +220,84 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > However, the small number of sequencing data present in the database, and lack of confirmatory testing of all off target loci in samples harboring the variants is concerning. 
 > 
 > We are also concerned about the adequacy of small sample size in cellular off target analysis with exa-cel and if the use of small number of healthy donor and sickle cell donor cells would adequately inform us of potential off target editing risk of exa-cel. 
-
-...
-
-Gil Wolfe, CTGTAC [03:16:13]
-
-It's really exciting to see how many patients have been treated and how positive the results have been. 
-
-I think the other thing that I would mention with regards to off target analysis is that, we want to be careful to not let the perfect be the enemy of the good, and right now, I feel that you can do a lot of in-depth analysis with regards to cellular analysis, in silico analysis, and samples that are treated prior to introduction into patients and you want to do as good a job as you possibly can, but at some point, you have to just try things out in patients. 
-
-And, I think in this case that there's a huge unmet need for individuals with sickle cell disease. And, it's important we think about how we can advance therapies that could potentially help them. 
-
-And I certainly think that this is one of them.
-
-...
-
-Gil Wolfe, CTGTAC [03:18:51]
-
-I honestly think that the number of samples that they've analyzed is reasonable. 
-
-There's only so much you can learn from additional samples, unless you're going to focus in on in my mind sequence variants and trying to find samples that would have sequence variants that would allow you to interrogate off target sites that aren't common within the human population.
-
-...
-
-Alexis Komor, CTGTA [03:21:09]
-
-The perfect off target analysis would be sequence the patient, use that as a reference genome, and then individually validate every single off target. And is that reasonable here? 
-
-Especially, I love the quote from Dr. Wolfe, expecting perfection at the expense of progress here? Like, do we have the technology to do that, to sequence every single patient and do an expansive individualized off target analysis on each one? Probably, but is that reasonable to expect from them at this point? I don't know.
-
-And then additionally, yeah, for GUIDE-seq, GUIDE-seq is a very specialized technique. It's difficult to do in certain cell types. It nominates putative off targets. Many of those nominated off targets don't end up being bona fide off targets just because they're very, very, very low levels and the cell can repair those perfectly under genome editing conditions. 
-
-And so again, would the ideal analysis be to perform GUIDE-seq in the patient samples and then go in and individually validate each one? Yeah. But is that reasonable to ask? I don't think so. 
-
-I think what we see here, I think, especially given the benefits of this of this treatment, of this cure, and what these patients are dealing with without having this treatment, I think the benefits far outweigh the risks here.
+> 
+> ...
+> 
+> Gil Wolfe, CTGTAC [03:16:13]
+> 
+> It's really exciting to see how many patients have been treated and how positive the results have been. 
+> 
+> I think the other thing that I would mention with regards to off target analysis is that, we want to be careful to not let the perfect be the enemy of the good, and right now, I feel that you can do a lot of in-depth analysis with regards to cellular analysis, in silico analysis, and samples that are treated prior to introduction into patients and you want to do as good a job as you possibly can, but at some point, you have to just try things out in patients. 
+> 
+> And, I think in this case that there's a huge unmet need for individuals with sickle cell disease. And, it's important we think about how we can advance therapies that could potentially help them. 
+> 
+> And I certainly think that this is one of them.
+> 
+> ...
+> 
+> Gil Wolfe, CTGTAC [03:18:51]
+> 
+> I honestly think that the number of samples that they've analyzed is reasonable. 
+> 
+> There's only so much you can learn from additional samples, unless you're going to focus in on in my mind sequence variants and trying to find samples that would have sequence variants that would allow you to interrogate off target sites that aren't common within the human population.
+> 
+> ...
+> 
+> Alexis Komor, CTGTA [03:21:09]
+> 
+> The perfect off target analysis would be sequence the patient, use that as a reference genome, and then individually validate every single off target. And is that reasonable here? 
+> 
+> Especially, I love the quote from Dr. Wolfe, expecting perfection at the expense of progress here? Like, do we have the technology to do that, to sequence every single patient and do an expansive individualized off target analysis on each one? Probably, but is that reasonable to expect from them at this point? I don't know.
+> 
+> And then additionally, yeah, for GUIDE-seq, GUIDE-seq is a very specialized technique. It's difficult to do in certain cell types. It nominates putative off targets. Many of those nominated off targets don't end up being bona fide off targets just because they're very, very, very low levels and the cell can repair those perfectly under genome editing conditions. 
+> 
+> And so again, would the ideal analysis be to perform GUIDE-seq in the patient samples and then go in and individually validate each one? Yeah. But is that reasonable to ask? I don't think so. 
+> 
+> I think what we see here, I think, especially given the benefits of this of this treatment, of this cure, and what these patients are dealing with without having this treatment, I think the benefits far outweigh the risks here.
+> 
+> ...
+> 
+> Lisa Lee, CTGTAC [03:25:06]
+> 
+> If we anticipated or there was some theoretical possibility that if this found just the right off target, somebody would drop dead, that's a very different kind of risk than, I mean, even a leukemia, depending though there are lots of different kinds and they can vary with respect to lethality, etcetera, but given what people are dealing with right now, and given that the evidence for the efficacy of this treatment is overwhelming, I really wonder what would we not be able to tolerate with respect to the unknown.
+> 
+> ...
+> 
+> Nicole Verdun, FDA [03:33:31]
+> 
+> We just heard a comment considering too much risk or outweighing benefit. And that was sort of not the setting that we were talking about this. So I just wanted to sort of make that clear.
+> 
+> We're not here discussing any concern with the benefit, but we were more wanting to have a conversation about is whether the committee recommends any additional studies and just realizing that we also have certain regulatory authorities where those could be in the postmarket setting, so postmarket requirements or commitments or otherwise if needed. 
+> 
+> ...
+> 
+> Gil Wolfe, CTGTAC [03:35:09]
+> 
+> The one thing that I, I thought was missing that I I'd love to see is a molecular analysis of on target edits, the distribution of sequences, I think that's what Dr. Bauer was getting at in his presentation that you can use those as sort of a fingerprint to look for clonal expansion potentially within the patient's hematopoietic cells. 
+> 
+> And, it seems to me that that sort of analysis would be relatively straightforward in principle. The applicant is already generating this data because they're following the indel rates over time. So they're actually sequencing peripheral blood to look at this. 
+> 
+> And so it should be relatively straightforward to follow up with regards to the indel spectrum. And does it change over time, and would that provide a surrogate and sort of an early warning sign of something going wrong with regards to the hematopoietic system?
+> 
+> ...
+> 
+> Gil Wolfe, CTGTAC [03:46:33]
+> 
+> I just wanted to follow up on the suggestion of whole genome sequencing. 
+> 
+> So I think the challenge there is that editing rates at off target sites may be quite low. And so whole genome sequencing is great for getting sort of the sequence of the most common genome that's present in an individual, but with regards to picking up low frequency edits, I don't know that whole genome sequencing will be real effective for doing that. 
+> 
+> I think it might turn out to be challenging. I think that the error rate might start to get at the point where it would be challenging, unless there's a high rate of editing. 
+> 
+> So, others may have more experience with whole gene genome sequencing than myself, but I'm not sure that it will give us the information that we'd like.
+> 
+> ...
+> 
+> Alex Komor, CTGTAC [03:47:31]
+> 
+> I agree. I think the whole genome sequencing would be able to get like a reference genome for that particular patient, but, I don't know, like the sequencing depth required to identify some of these low efficiency off target events, potentially. 
+> 
+> I don't know if that would work, but for identifying additional putative off targets and especially the one that we've been talking about all day, you could identify that.
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
