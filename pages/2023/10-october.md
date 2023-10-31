@@ -221,6 +221,40 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > We are also concerned about the adequacy of small sample size in cellular off target analysis with exa-cel and if the use of small number of healthy donor and sickle cell donor cells would adequately inform us of potential off target editing risk of exa-cel. 
 
+...
+
+Gil Wolfe, CTGTAC [03:16:13]
+
+It's really exciting to see how many patients have been treated and how positive the results have been. 
+
+I think the other thing that I would mention with regards to off target analysis is that, we want to be careful to not let the perfect be the enemy of the good, and right now, I feel that you can do a lot of in-depth analysis with regards to cellular analysis, in silico analysis, and samples that are treated prior to introduction into patients and you want to do as good a job as you possibly can, but at some point, you have to just try things out in patients. 
+
+And, I think in this case that there's a huge unmet need for individuals with sickle cell disease. And, it's important we think about how we can advance therapies that could potentially help them. 
+
+And I certainly think that this is one of them.
+
+...
+
+Gil Wolfe, CTGTAC [03:18:51]
+
+I honestly think that the number of samples that they've analyzed is reasonable. 
+
+There's only so much you can learn from additional samples, unless you're going to focus in on in my mind sequence variants and trying to find samples that would have sequence variants that would allow you to interrogate off target sites that aren't common within the human population.
+
+...
+
+Alexis Komor, CTGTA [03:21:09]
+
+The perfect off target analysis would be sequence the patient, use that as a reference genome, and then individually validate every single off target. And is that reasonable here? 
+
+Especially, I love the quote from Dr. Wolfe, expecting perfection at the expense of progress here? Like, do we have the technology to do that, to sequence every single patient and do an expansive individualized off target analysis on each one? Probably, but is that reasonable to expect from them at this point? I don't know.
+
+And then additionally, yeah, for GUIDE-seq, GUIDE-seq is a very specialized technique. It's difficult to do in certain cell types. It nominates putative off targets. Many of those nominated off targets don't end up being bona fide off targets just because they're very, very, very low levels and the cell can repair those perfectly under genome editing conditions. 
+
+And so again, would the ideal analysis be to perform GUIDE-seq in the patient samples and then go in and individually validate each one? Yeah. But is that reasonable to ask? I don't think so. 
+
+I think what we see here, I think, especially given the benefits of this of this treatment, of this cure, and what these patients are dealing with without having this treatment, I think the benefits far outweigh the risks here.
+
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
 - **Source:** webcast by Centers for Disease Control and Prevention
