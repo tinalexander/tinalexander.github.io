@@ -298,6 +298,40 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > I agree. I think the whole genome sequencing would be able to get like a reference genome for that particular patient, but, I don't know, like the sequencing depth required to identify some of these low efficiency off target events, potentially. 
 > 
 > I don't know if that would work, but for identifying additional putative off targets and especially the one that we've been talking about all day, you could identify that.
+> 
+> ...
+> 
+> Taby Ahsan, CTGTAC (Chair) [03:54:14]
+> 
+> So let me try to, uh, summarize a lot of the comments that were made. 
+> 
+> Starting at the highest level. 
+> 
+> One of the questions were, where are we on this risk mitigation curve? Are we at a point where we have the technology in order to really address these questions? 
+> 
+> It does lead us to this thought that we have this theoretical analysis that can be done against reference samples or specific cells, but the safety aspect is really related on a per patient basis or a target population. 
+> 
+> So one of the question becomes when have we done enough theoretical analysis to allow us to move forward? And that's, I think the major question, that we want to look at.
+> 
+> I think overall the sentiment was that the in silico analysis was quite detailed. It used quite lenient thresholds so that the criteria were set to really be able to create a good list of off targets. Maybe there is some room there for doing some deeper sequencing. 
+> 
+> There was also this GUIDE-seq empirical analysis that seems to be a growing standard in the field. It was appreciated that they were doing that, and it gave us different results from the in silico. And there were reasons behind that that seemed very rational that were presented by the experts. 
+> 
+> And it just gives you more nominations to consider at the end of the day, there needs to be some assessment as to whether these off targets are biologically meaningful, and there might be some flexibility there in terms of how you evaluate that.
+> 
+> In terms of suggesting studies moving forward, there was quite a bit of discussion about the monitoring of the samples over the next 15 years. It would be nice to see some evaluation of monitoring the edits over real time, looking at Al expansion. But it's unsure the technology that would be used to do that, whether whole genome sequencing would actually have the detection levels, to give us meaningful information there. 
+> 
+> But thinking about new technologies related to long range sequencing would be very good, potentially monitoring the CPS1 variant. 
+> 
+> But again, I think what it comes down to was that there was a robust approach using multiple methods to try to identify these off targets. And I think there's opportunity to generate more data monitoring these patients moving forward. 
+> 
+> There seems to be a deep a plan for a deep monitoring over 15 years. And that can be very, very helpful in generating data and monitoring these patients. 
+> 
+> ...
+> 
+> Gil Wolfe, CTGTAC [03:58:11]
+> 
+> I guess the only other thing that maybe we didn't touch on, and I apologize for not mentioning this, but whether there would be a plan for pre-screening for patients that have a variant at CPS1 in the future and how that would affect whether they would receive treatment.
 
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
