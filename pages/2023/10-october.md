@@ -126,6 +126,30 @@ So I guess if your question again, as Dr. Hobbs said, we do not imagine the need
 
 But just as your hypothetical, if it were-- the exposure to CRISPR-Cas9 is extremely brief and not in the body of the person who has the cells, because it all takes place in the manufacturing process, and is then gone and does none of it residually is there and makes it into the patient.
 
+...
+
+Christopher Breuer, CTGTAC [11:55:30]
+
+My question pertains to the labeling. Was any consideration given to adding off target-- possible off target effects to the label?
+
+While I recognize that your preclinical studies did not show evidence of that, I think given the nature of this meeting and the emerging field and the difficulty of potentially trying to identify these things ahead of time, might that be something to consider?
+
+Stephanie Krogmeier, Vertex [11:55:55]
+
+Yeah, we are still in discussions with the agency on the label. We-- those discussions will certainly include the safety of exa-cel.
+
+...
+
+Bill Hobbs, Vertex [12:04:46]
+
+The first part of your question is about the number of cells infused in patients, and the protocol specified a minimum of 3 times 10 to the 6 per kilogram and a maximum of 20 times 10 to the 6 per kilogram. 
+
+And in the clinical study, that range was infused into patients.
+
+...
+
+
+
 ## ACIP discussion on influenza vaccines and ischemic stroke
 
 - **Source:** webcast by Centers for Disease Control and Prevention
