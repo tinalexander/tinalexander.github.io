@@ -12,6 +12,10 @@ Here are some articles I've worked on for 2023. You can also find them [by Googl
 
 # October 2023
 
+- [FDA authorizes Novavax's updated COVID vaccine for fall 2023](https://www.cbsnews.com/news/covid-vaccine-novavax-fda-fall-2023/)
+- [Is your Ozempic pen fake? FDA investigating counterfeit weight loss drugs, trade group says](https://www.cbsnews.com/news/ozempic-wegovy-fake-weight-loss-drugs-fda-investigating-trade-group-warns/)
+- [This flesh-eating parasite spread by sand flies has foothold in U.S., appears to be endemic in Texas](https://www.cbsnews.com/news/flesh-eating-parasite-leishmania-sand-flies-texas-dogs-cdc-report/)
+- [Potential cure for sickle cell disease raises few concerns for FDA panel](https://www.cbsnews.com/news/sickle-cell-disease-potential-cure-gene-editing-fda-panel/)
 - [FDA investigating baby's death linked to probiotic given by hospital](https://www.cbsnews.com/news/fda-warning-probiotics-preterm-infant-death-linked-evivo/)
 - [In a first, CDC to recommend antibiotic pill after sex for some](https://www.cbsnews.com/news/cdc-antibiotic-pill-after-sex-prevent-stds/)
 
