@@ -17,6 +17,47 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 6, 2023
 
+## Biden administration press briefing on Medicare Advantage
+ 
+- **Source**: press briefing hosted by the Biden administration
+- **Date**: broadcasted November 6, 2023
+
+> Lael Brainard, White Hous [01:41:22]
+> 
+> Medicare Advantage serves over 30 million American seniors. Medicare advantage brokers and agents are supposed to help seniors find plans that best meet the needs of those seniors. But currently some large Medicare Advantage insurance companies are wooing brokers and agents with lavish perks like cash bonuses and golf trips to incentivize them to steer seniors to those large plans. That's not right. 
+> 
+> Seniors should get the plan that is based on their needs in their best interest. Not based on which plan has the biggest payoff for marketers.
+> 
+> Today's proposed rule would, if finalized as proposed, tighten limits on broker and agent compensation to make sure seniors get access to the plan that best meets their needs rather than the best perks for the broker. 
+> 
+> ...
+> 
+> Xavier Becerra, HHS [01:45:59]
+> 
+> We're going to improve Medicare managed care plans by curbing predatory market practices and inappropriate steering that distorts healthy competition among all the different plans.
+> The proposed rule we're announcing will help people with Medicare select and then enroll in coverage options that best meet their healthcare needs. 
+> 
+> This helps close loopholes that allow Medicare managed care plans to inappropriately inflate agents and brokers commissions by adding junk fees. 
+> 
+> We are intent on ensuring that Medicare enrollment, the process itself, helps individuals who are searching for a Medicare option that best meets their needs. 
+> We don't need a system that just funnels people into certain insurance plans and further just consolidates the market. 
+> 
+> ...
+> 
+> Chiquita Brooks Lasure, CMS [01:49:20]
+> 
+> Many people with Medicare rely on agents and brokers to help them make the best choice about their healthcare coverage. However, we are concerned that some Medicare Advantage plans are compensating agents and brokers in a way that may circumvent existing payment rules inappropriately, and anti-competitively, steering people to enroll in plans that do not best meet their needs leading to further consolidation in the Medicare Advantage market. 
+> 
+> This is bad for people, bad for consumer choice, and bad for competition. 
+> 
+> ...
+> 
+> Senior Administration Official [01:54:33]
+> 
+> We have had limits in the past on what brokers have been compensated, but there were a number of activities that were outside of compensation. So some of the examples that you heard Lael mentioned were being offered outside of compensation. 
+> 
+> So we're broadening the definition and putting it, those things, under the cap.
+
 ## CMS spokesperson on impact of Stelara biosimilar for Medicare drug price talks
 
 - **Source:** email from CMS spokesperson
