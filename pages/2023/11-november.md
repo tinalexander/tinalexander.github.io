@@ -15,6 +15,71 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# November 7, 2023
+
+## CDC media briefing on syphilis Vital Signs report
+
+- **Source:** media briefing hosted by the Centers for Disease Control and Prevention
+- **Date:** broadcasted November 7, 2023
+
+> Debra Houry, CDC [00:01:31]
+> 
+> CDC is urgently calling attention to the need for healthcare providers, public health systems and communities to step up their efforts to address newborn syphilis. These efforts must reach people where they are so that every mother and baby get the support they need to stay healthy. 
+> 
+> While the measures we are urging could have a profound effect on many people and families, truly reversing these trends will require increased focus and resources already strained public health systems. And the escalating STI epidemic have brought our nation to a tipping point with newborn syphilis.
+> 
+> Healthcare and public health systems are scrambling to prevent moms and babies from slipping through the cracks any way they can to truly address this epidemic. We need better infrastructure and new tools to prevent STIs. 
+> 
+> ...
+> 
+> Laura Bachmann, CDC [00:04:30]
+> 
+> The reality is the rise in syphilis in the past several years means most of us live in areas that are now considered to have high rates of syphilis among women of reproductive age. This means providers must seize on opportunities to address syphilis before pregnancy, by offering to screen more sexually active women and their partners on a regular basis, as well as continuing to offer testing to people with other risk factors for syphilis. 
+> 
+> We also know that overall missed opportunities to prevent newborn syphilis during pregnancy are due to a combination of individual and system level barriers to timely syphilis testing and treatment. These barriers may include lack of ongoing health coverage living in healthcare or maternal care deserts, transportation limitations, challenges posed by substance use disorder, housing, instability, poverty, and racism. 
+> 
+> And while newborn syphilis cases are increasing nationwide and across every racial and ethnic group, some communities, including those of people who are Black, Hispanic, and American Indian or Alaska Native are experiencing the brunt of the newborn syphilis epidemic. 
+> 
+> ...
+> 
+> Laura Bachmann, CDC [00:16:18]
+> 
+> We are at the, we have right now the highest number of congenital syphilis cases that we've had in more than 30 years. So the number of cases continue to increase. And we're really at a tipping point now with congenital syphilis. 
+> 
+> And that's again, why we're bringing attention to the issue through the Vital Signs, as well as some of the additional measures we're recommending that providers and public health professionals take in the field to address the epidemic.
+> 
+> ...
+> 
+> Laura Bachmann, CDC [00:19:14]
+> 
+> As you point out, we are in the middle of a Bicillin shortage nationally.
+> 
+> CDC has issued guidance around prioritization of Bicillin for pregnant people.
+> 
+> Just to reiterate, Bicillin is the only recommended treatment for pregnant people. There are alternatives for people who are not pregnant. 
+> 
+> And so we have issued guidance to help providers in strategizing around this in areas where they are experiencing shortage. Not every area in the country is experiencing a shortage.
+> 
+> ...
+> 
+> Robert McDonald, CDC [00:20:38]
+> 
+> The increases that we're seeing over the past year are continuing the trajectory that we've seen over the past 10 years. 
+> 
+> So as we've seen syphilis going up among women, we've seen syphilis going up in babies. 
+> 
+> So as long as you're seeing increases in women having syphilis, you will continue to see the increases of syphilis among babies. 
+> 
+> And that is why we're recommending really looking at geographic risk, when you're assessing a patient, whether or not they should be tested for syphilis.
+> 
+> ...
+> 
+> Robert McDonald, CDC [00:21:11]
+> 
+> As for the Bicillin shortage question, up until this point, we've received no reports of anyone who have not been able to get access to Bicillin for treatment during pregnancy. 
+> 
+> And so CDC works closely with states to make sure that they can be linked up with Bicillin in the case of someone who was pregnant.
+
 # November 6, 2023
 
 ## Biden administration press briefing on Medicare Advantage
