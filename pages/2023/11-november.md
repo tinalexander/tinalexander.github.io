@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 7, 2023
 
+## Pork producers on FDA's move regarding carbadox
+
+- **Source:** email from National Pork Producers Council spokesperson
+- **Date:** received November 7, 2023
+
+> Statement by National Pork Producers Council on Carbadox:
+> 
+> Carbadox has been safely used for over 45 years in the United States. It is a vital product to treat gastrointestinal disease (swine dysentery) in young pigs, improving their health and welfare. With few interventions available, Carbadox is essential. It is not considered to be medically important to human medicine and is not a concern for antimicrobial resistance in human pathogens. The sponsor of this product has provided extensive research data to FDA showing the safety of Mecadox. NPPC will continue to support the sponsor and advocate for producers’ continued access to critical swine health products. 
+
 ## CDC media briefing on syphilis Vital Signs report
 
 - **Source:** media briefing hosted by the Centers for Disease Control and Prevention
