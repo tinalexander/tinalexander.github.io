@@ -17,6 +17,13 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 7, 2023
 
+## Novo Nordisk statement on counterfeit Ozempic reports
+
+- **Source:** email from Novo Nordisk spokesperson
+- **Date:** received November 7, 2023
+
+> In close collaboration with FDA, we have taken measures to create awareness of the potential for counterfeit products. We have developed a company press statement that is posted on our U.S. corporate website and includes a guide for identifying counterfeits. We have provided communications to a number of stakeholders, including wholesalers and pharmacists to ensure they are aware of the situation and also able to identify a potential counterfeit semaglutide injectable product. We are also making semaglutide.com available as a resource hub for US consumers, healthcare providers and retailers to provide information about responsible use of semaglutide, including how to recognize a counterfeit product.  
+
 ## FDA spokesperson on counterfeit Ozempic reports
 
 - **Source:** email from Jeremy Kahn of the Food and Drug Administration
