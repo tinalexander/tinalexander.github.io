@@ -17,6 +17,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 7, 2023
 
+## FDA spokesperson on counterfeit Ozempic reports
+
+- **Source:** email from Jeremy Kahn of the Food and Drug Administration
+- **Date:** received November 7, 2023
+
+> At this time, the FDA has no new information to share regarding reports of adverse events related to counterfeit semaglutide.
+> 
+> The FDA will investigate any report of suspect counterfeit drugs to determine the public health risks and the appropriate regulatory response. The FDA remains vigilant in protecting the U.S. drug supply from these threats.
+> 
+> While we understand certain drugs are in short supply and patients are having difficulty obtaining their medication, the FDA urges patients to obtain prescription drugs only from state-licensed pharmacies that are located in the U.S., where the FDA and state authorities can assure the quality of drug manufacturing, packaging, distribution and labeling. FDA’s BeSafeRx campaign helps consumers learn about how to safely buy prescription medicines online. FDA recommends patients to talk to their doctor if they have questions about their medicines. 
+> 
+> We also continue to raise awareness among consumers and healthcare professionals about the dangers of counterfeit drugs: Counterfeit Medicine | FDA.
+
 ## Pork producers on FDA's move regarding carbadox
 
 - **Source:** email from National Pork Producers Council spokesperson
