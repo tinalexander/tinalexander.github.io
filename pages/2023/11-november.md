@@ -17,6 +17,22 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 8, 2023
 
+## National Syndromic Surveillance Program figures on RSV in children 0 to 1 years old
+
+- **Source:** my calculations based off [table](https://www.cdc.gov/ncird/surveillance/respiratory-illnesses/) by Centers for Disease Control and Prevention
+- **Date:** published November 8, 2023
+
+| Week ending | RSV              | Difference |
+|-------------|------------------|------------|
+| 9/16/23     | 1290             | 45         |
+| 9/23/23     | 1949             | 659        |
+| 9/30/23     | 2514             | 565        |
+| 10/7/23     | 3424             | 910        |
+| 10/14/23    | 4373             | 949        |
+| 10/21/23    | 5756             | 1383       |
+| 10/28/23    | 7339             | 1583       |
+| 11/4/23     | 7671             | 332        |
+
 ## FDA commissioner at Reagan Udall webinar on improving public understanding
 
 - **Source:** [video](https://www.youtube.com/watch?v=NLki8EgHgRo&feature=youtu.be) posted by Reagan Udall Foundation
