@@ -17,7 +17,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 8, 2023
 
-- **Source:** [video](https://milkeninstitute.org/panel/15046/part-1-conversation-fda-commissioner-robert-califf) by Milken Institute'
+- **Source:** [video](https://milkeninstitute.org/panel/15046/part-1-conversation-fda-commissioner-robert-califf) published by Milken Institute
 - **Date:** published November 7, 2023
 
 > Robert Califf, FDA [00:15:04]
