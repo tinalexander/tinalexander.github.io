@@ -15,6 +15,87 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# November 8, 2023
+
+- **Source:** [video](https://milkeninstitute.org/panel/15046/part-1-conversation-fda-commissioner-robert-califf) by Milken Institute'
+- **Date:** published November 7, 2023
+
+> Robert Califf, FDA [00:15:04]
+> 
+> Although I know traditionally this meeting has been focused on cures with new therapies, I'm all for that. I'm proud of the fact that ever in the world I go, people say the FDA is the best, the U.S. is far and away the leader in innovation, we don't want to back off on that at all.
+> 
+> But I would argue that the phase 1, 2, 3, and variations of it that we use to move things along, it works pretty darn well, but when things go on the market, we have no system to generate the evidence that we need to know what to do. 
+> 
+> So we have all these questions that are left on the table, like what, which is better? What really is the right dose? What are the subpopulations where the benefits really outweigh the risk? How do we combine the therapies? How long should we give it? None of those questions are answered for almost all drugs that or devices that come on the market, approved by the FDA. 
+> 
+> The FDA is tasked by law with saying this is safe and effective for a particular indication in a particular population. That's what you need to prove. Then the label gets written and we need an evidence generation system for the postmarket phase. 
+> 
+> But of course that's not the FDA's primary mission. And so that will take a ecosystem and a community, which I know is something that you've been working on. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:16:53]
+> 
+> The FDA has a primary role in nutrition. I've become-- I've been reading a lot about ultra processed foods. 
+> 
+> There's an argument going on the FDA doesn't act in something like this unless there's definitive evidence, but I would argue for things like nutrition, that same evidence generation system that would be good for post market drugs, let me just throw in dietary supplements into that, if you could do these studies at a low cost and get the answers, we'd know what to do. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:18:52]
+> 
+> I've sort of been waiting on Monica to get confirmed.
+> 
+> You know that we've worked together and gotten to know each other well. 
+> 
+> I've got a little brother with cancer right now. She's been a tremendous personal help. And so I've been able to see the heart and grit that she has.
+> 
+> I think, to be a cancer surgeon, you sort of have to be tough. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:19:30]
+> 
+> We need to generate that evidence and we all need to play a role like, what are the little things CMS can do on a grand scale to encourage clinicians to participate in research? What are things NIH can do to change its portfolio just enough that our mammoth academic medical centers pay more attention to the kinds of clinical studies that really make a difference for health outcomes?
+> 
+> And then across the board, you know, you've worked on this, the use of AI and virtual methodologies to reach people who right now are have a hard time getting to the clinic or the research clinic to generate that evidence. 
+> 
+> So I think we've got to have that target and we all need to be focused on it. 
+> 
+> We're doing a little exercise now. 
+> 
+> I think if you looked in sum at what all the federal agencies and all the voluntary agencies and foundations are putting into what I would call the postmarket system, it's a lot of money, but it's not directed towards a common goal or a system. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:22:31]
+> 
+> I know we have a limited time. We could talk about this for a long time. 
+> 
+> Number one, we have to up our game at the FDA in terms of speaking to people in playing English or Spanish or whatever language that they can understand, rather than speaking in the way we're used to speaking in the past, which is speaking to doctors or the industries that we regulate.
+> 
+> People don't understand well what the FDA does. So we'll do that to the best we possibly can. And there's a Reagan Udall foundation report. I would refer people to that just came out, that lays that out.
+> 
+> But then we've got a really depend on non-government entities to pick up their game too. 
+> 
+> I think-- I'm not defeatist. We're going to keep trying within FDA and within government. 
+> 
+> But the reality is that the misinformation purveyors are at it 24 by 7. 
+> 
+> We have jobs to do, our communication budget is very limited, we have great communication people who are here, but there're just a few of them relative to the vast expanse of the internet out there. 
+> 
+> So we need consortia out in the real world, universities, medical centers, industry, voluntary foundations, to create a network that's devoted to promoting the truth. 
+> 
+> The third thing I'd say is I do think that I'm swung over now that fighting misinformation is actually probably going to be an unsuccessful strategy. 
+> 
+> But one thing I learned in my work at Alphabet, I think I learned this correctly, the biggest single factor is just how much people hear of one part of it. 
+> 
+> So the example I'll use, if we put out one press release, that may have a huge impact on the industry, the stock price, whatever, but what the public is hearing is 24 by 7 counter messaging. 
+> 
+> And so that means you got to have the share of that voice reaching people in the way they're used to getting information, if you're going to change it and gain trust. 
+> 
+> And so that network that's involved needs to be very personal. It needs to be in the community, interacting with people in a way that they can best receive information.
+
 # November 7, 2023
 
 ## Novo Nordisk statement on counterfeit Ozempic reports
