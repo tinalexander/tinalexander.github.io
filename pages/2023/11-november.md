@@ -17,6 +17,45 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 8, 2023
 
+## CDC forecasting official's remarks on CSIS podcast
+
+- **Source:** [recording](https://www.csis.org/podcasts/commonhealth/dr-dylan-george-director-cdc-center-forecasting-and-outbreak-analytics-cfa-we) published by Center for Strategic and International Studies
+- **Date:** published November 7, 2023
+
+> Dylan George, CDC [00:07:42]
+> 
+> For example, with the fall respiratory season coming forward, we have put out an outlook of what should we expect in terms of hospital burden for all of the major pathogens that are creating a respiratory disease going forward. 
+> 
+> We have really tried to make a strong effort in talking to our state and local colleagues so that they are aware of what we're putting out before we put it out. 
+> 
+> And then also very importantly, getting feedback from them on that assessment and how it's affecting them in their local jurisdiction in different ways. 
+> 
+> For example, I was talking with a state health official two weeks ago about our assessment and she was telling me that it was exceptionally helpful for her then to take that assessment and go talk to the hospitals in her jurisdiction and have a really targeted discussion of, are you prepared for that level of hospitalization? If not, what can we do to help going forward? 
+> 
+> And so that gives a scenario planning factor of what is the level we potentially could expect going forward, and then people can plan accordingly. 
+> 
+> So people have been using this information to have very targeted conversations about, are we ready or are we not ready?
+> 
+> ...
+> 
+> Dylan George, CDC [00:10:41]
+> 
+> We need to be thinking about this, even with a moderate level of COVID circulating and causing hospitalizations, we're going to have to shift into a new gear in terms of preparedness for how we're actually doing this year on year. 
+> 
+> Now I will be the first one to admit that whether or not COVID is seasonal, whether or not we're gonna have the same level every year, that's an open science question.
+> 
+> Pragmatically though, until we see otherwise, we should be prepared that it will be a seasonal disease going forward. Like I said, I will be the first one to admit it's an open question, scientifically, whether or not it will be, or it won't be.
+> 
+> ...
+> 
+> Dylan George, CDC [00:23:49]
+> 
+> On the seventh, we're going to come together as all of representatives from all of the networks on a kickoff meeting, they're gonna be here in DC that we're gonna be talking about this and showing an opportunity for everybody to be face to face with everyone, meet everyone for the first time, and then to discuss what we're gonna be doing across the network to try to come to a more synthetic whole of what we're gonna be going forward. 
+> 
+> Then on the eighth, we're going to be talking on the Hill with what we're trying to accomplish and making sure that our partners in the Hill that have appropriated dollars to actually make this happen are aware of what their dollars are going towards and to show who and where and what we're building in this network going forward.
+
+## FDA commissioner remarks at Milken Institute event
+
 - **Source:** [video](https://milkeninstitute.org/panel/15046/part-1-conversation-fda-commissioner-robert-califf) published by Milken Institute
 - **Date:** published November 7, 2023
 
