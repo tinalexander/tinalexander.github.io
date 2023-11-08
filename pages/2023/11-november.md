@@ -17,6 +17,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 8, 2023
 
+## FDA spokesperson on Moderna dosing error for COVID-19 vaccines in children
+
+- **Source:** email from Cherie Duvall Jones of the Food and Drug Administration
+- **Date:** received November 8, 2023
+
+> The FDA became aware of this issue and worked quickly to alert healthcare providers via a safety communication and other outreach to ensure those administering the vaccine were aware. We’re actively working with Moderna to communicate with healthcare providers to ensure the correct dosage of vaccine is administered in individuals 6 months through 11 years of age.
+> 
+> The FDA has not identified any safety risks associated with administration of the higher dose in individuals 6 months through 11 years of age and no serious adverse events were identified related to a dosing error for the vaccine.
+> 
+> ...
+> 
+> **It wasn't clear to me how FDA identified that this dosing error was occurring.** 
+> 
+> The FDA received questions from stakeholders about the dosing issue on October 29, and contacted Moderna to discuss and better understand the issue. The agency has worked quickly to alert healthcare providers through safety communications and other outreach to ensure the correct dosage of the vaccine is administered to recipients. We will continue to provide any updates necessary to ensure the health and safety of the public.
+> 
+> **Also, is it still accurate that "no serious adverse events were identified related to a dosing error for the vaccine"?** 
+> 
+> The FDA has reviewed reports to the Vaccine Adverse Event Reporting System (VAERS) regarding this issue. No serious adverse events were identified related to a dosing error for the vaccine. We received reports of mild adverse events consistent with safety profile of the vaccine, such as fever and fatigue.
+
 ## National Syndromic Surveillance Program figures on RSV in children 0 to 1 years old
 
 - **Source:** my calculations based off [table](https://www.cdc.gov/ncird/surveillance/respiratory-illnesses/) by Centers for Disease Control and Prevention
