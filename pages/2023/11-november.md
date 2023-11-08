@@ -99,7 +99,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > ...
 > 
-> Dylan George, CDC [00:10:41]
+> Dylan George, CDC [00:09:46]
+> 
+> It's been interesting as we've been reporting out on that assessment, essentially the assessment is we anticipate that there's going to be more hospitalizations than what we saw pre pandemic. And we also anticipate that there's gonna be some hospitalizations on the level of what we experienced last year, but about on that same order of magnitude. 
+> 
+> And the interesting thing about that assessment is we've been talking particularly with our state and local jurisdiction and partners, is that it's the realization that we've got three major pathogens now, whereas we had two before and everybody kind of intuitively understood that, but it's all of a sudden now it's like, once you state it and put it down on a piece of paper, it's like-- it really became visceral for folks. 
+> 
+> It's like, oh my gosh, we do need to start thinking about how to prepare for it much more effectively. 
+> 
+> And then as we pointed out in our assessment, even a moderate level of COVID added to influenza and RSV is going to cause more stress than severe situations where we had severe flu and RSV combined before.
 > 
 > We need to be thinking about this, even with a moderate level of COVID circulating and causing hospitalizations, we're going to have to shift into a new gear in terms of preparedness for how we're actually doing this year on year. 
 > 
