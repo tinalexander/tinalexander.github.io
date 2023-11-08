@@ -17,6 +17,67 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 8, 2023
 
+## FDA commissioner at Reagan Udall webinar on improving public understanding
+
+- **Source:** [video](https://www.youtube.com/watch?v=NLki8EgHgRo&feature=youtu.be) posted by Reagan Udall Foundation
+- **Date:** published October 10, 2023
+
+> Robert Califf, FDA [01:30:58]
+> 
+> I'll make one final point. This is a really delicate one that you all have alluded to, and it gets to the very nature of how, whether, and when we can respond to false claims and attacks on our work and activities.
+> 
+> As the report accurately points out, misleading information that tends to more often be sensational or emotional, often gets more attention than straightforward factual information. It also tends to spread faster. 
+> 
+> Mark Twain is often quoted and I'm not sure he was the one that really said this, but the old quote, a lie travels around the globe while the truth is still putting on its shoes. 
+> 
+> There's another related issue, which is that the actions taken by the parties who are attacking and undermining our societal institutions like FDA can often prevent us from doing our job by putting limits on what we can say. You all have alluded to this. It's a very delicate issue. 
+> 
+> And clearly, I want to be clear, does not include suppressing other people's right to speak. We're not in that. We don't do that. And it's not part of our activity.
+> 
+> But where do we go from here?
+> 
+> We got to develop better and new and better ways to cut through and counter the misinformation and disinformation so we can meet our responsibilities and provide the public with the knowledge it needs to make informed decisions about health. 
+> 
+> While this report is not an examination per se of the FDA's work in this area, it does offer a number of options that we will take seriously and build upon, what we're already doing to strengthen our response and help ensure we continue to be a trusted, reliable voice that can cut through the noise. 
+> 
+> There's some who would say the problem is far too big for us to respond to. And those who are committed to undermining science or diminishing trust in government scientific institutions are too numerous and too well financed to overcome. 
+> 
+> I won't deny this as enormous challenge and can seem perplexing at every turn. It feels like a hydra, that mythical multi-headed serpent who would grow a new head every time one was chopped off, but it's essential that we try not just for the working reputation of the FDA, but the very health of our nation. 
+> 
+> ...
+> 
+> Robert Califf, FDA [01:33:23]
+> 
+> This is a challenge that goes to the structural foundation of our society. And it's a job far too big for anyone agency to take on, but we got to respond. 
+> 
+> And I actually, every day right down now, as I think about this problem, a very simple statement that's attributed to George Moore, a winner is a loser who tried one more time. 
+> 
+> I would argue right now, we're not winning this battle, but with people like you, if we keep trying, we're going to figure it out. 
+> 
+> ...
+> 
+> Robert Califf, FDA [01:36:59]
+> 
+> We have a deficit that is a special one at the FDA, is that often we have information which by law we cannot reveal. 
+> 
+> And, one thing for sure about people that work at FDA, they follow the law. We have-- we work by a rule book. 
+> 
+> And, so there are times when we have information that literally it's illegal for us to reveal it. 
+> 
+> Now, I personally believe that this has gone too far, that we need to work with Congress and fix some of the laws so that there can be more transparency. 
+> 
+> You know, I always hearken back to clinical trials.gov. I was a clinical trialist for most of my career, and it never made sense to me that human experiments should be considered proprietary, commercially protected information by companies. 
+> 
+> You got to do an experiment on human beings? That should be publicly available. 
+> 
+> Now that's a law and it is publicly available, but we can't break the law. 
+> 
+> And the second part of this, which is-- really makes our lives very difficult is that we often know about a decision we're going to make, and I've heard you all say, it'll be better to know ahead of time, but it's illegal for us to reveal that decision until the moment we do it because many of our decisions affect stock prices. 
+> 
+> And we have to reveal all the information to everyone at the same time. We can't even reveal it to the people that let's say work for the company that's going to be involved. 
+> 
+> And so considering all these things, it's a challenge, but I think it's plain language.
+
 ## CDC forecasting official's remarks on CSIS podcast
 
 - **Source:** [recording](https://www.csis.org/podcasts/commonhealth/dr-dylan-george-director-cdc-center-forecasting-and-outbreak-analytics-cfa-we) published by Center for Strategic and International Studies
