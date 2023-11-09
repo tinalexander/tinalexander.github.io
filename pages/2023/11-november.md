@@ -15,6 +15,25 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# November 9, 2023
+
+## CDC's nursing home resident COVID-19 vaccination figures by state
+
+- **Source:** dashboard by Centers for Disease Control and Prevention
+- **Date:** accessed November 9, 2023
+
+1. South Dakota = 44.7%
+2. North Dakota = 38.2%
+3. Alaska = 29.1%
+4. New Hampshire = 28.4%
+5. District of Columbia = 23.9%
+6. Montana = 22.9%
+7. Minnesota = 22.0%
+8. Rhode Island = 22.0%
+9. Idaho = 20.9%
+10. Iowa = 20.4%
+11. Utah = 20.1%
+
 # November 8, 2023
 
 ## FDA spokesperson on Moderna dosing error for COVID-19 vaccines in children
