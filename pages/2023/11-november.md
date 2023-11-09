@@ -19,7 +19,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 ## CDC's nursing home resident COVID-19 vaccination figures by state
 
-- **Source:** dashboard by Centers for Disease Control and Prevention
+- **Source:** [dashboard](https://www.cdc.gov/nhsn/covid19/ltc-vaccination-dashboard.html) by Centers for Disease Control and Prevention
 - **Date:** accessed November 9, 2023
 
 1. South Dakota = 44.7%
