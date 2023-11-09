@@ -17,6 +17,41 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 9, 2023
 
+## CDC director at AARP tele-town hall on respiratory viruses
+
+- **Source:** [video](https://www.youtube.com/watch?v=8ZIeO_C849w) by AARP
+- **Date:** broadcasted November 9, 2023
+
+> Question [00:19:34]
+> 
+> We are a couple that are over 65. We are going to be traveling in December. We received our flu shot in September. We received our RSV shot at the end of October. We received our what's the next one again-- COVID? COVID, thank you. COVID was this past week. 
+> 
+> My question is we are going to Las Vegas where obviously there are large crowds, large venues if we go into theaters, we're traveling on a plane. Should we be wearing masks as well while we are traveling to Vegas, home from Vegas, six hour flights, roughly five, six hour flights?
+> 
+> Mandy Cohen, CDC [00:20:28]
+> 
+> Good, wonderful question. But first let me say very well done. You've gotten all three of those vaccines, so you're protected going into the season, but we know that is one layer of protection. 
+> 
+> The good news is we have multiple ways in which we can continue to protect ourselves from these viruses. Certainly vaccine is a strong thing you can do ahead of the season. It builds up antibodies, but particularly depending on your age and your underlying health conditions, you may want to layer on additional things that help protect you from getting sick. 
+> 
+> And remember, these vaccines are meant to stop the worst of what this virus could bring, meaning hospitalization or death. It doesn't necessarily protect you from getting it in the first place, but there are additional things we can do to even prevent us to try not to get the virus. 
+> 
+> You mentioned masks, that is absolutely a tool that works. Masks do work to protect you from being able to-- to protect you from circulating viruses that are in the air. 
+> 
+> I would also say, make sure, and it's hard, particularly when we have a planned trip, stay home if you are sick and it's important, if you do feel sick, get tested. 
+> 
+> And the reason you want to get tested is because we have treatments for flu for COVID and you want to get those treatments right away, because like vaccines that can save your life, treatment also can save your life. 
+> 
+> So on your trip to Las Vegas, I would take some rapid tests with you. You can order them for free from COVID test.gov. You can order them right now, because if you do come down being sick, I'd want you to get tested right away so you would know, should you go go to urgent care and get treated, because that could save your life as well. 
+> 
+> So all of these things, testing treatment, masks, and I'd say improved ventilation so while you're in Las Vegas, the weather is nicer there, get outside, right? Those are ways in which you can reduce-- doing activities outside, reducing your risk of virus spread. 
+> 
+> So in particularly the older you are, or the more underlying medical conditions, you're at higher risk. So the higher risk you're at, the more of these layers you want to add on: vaccines, testing, treatment, masks, ventilation, right? 
+> 
+> So all of these-- don't forget washing your hands, all of these matter to protecting yourself, and you want layer as many as you can cause one, you don't want to be sick on your vacation, and then you also don't want it to give it to others. 
+> 
+> So if we use all of these tools, you're going to be doing great.
+
 ## CDC official at webinar for rural health providers
 
 - **Source:** [webinar](https://www.ruralhealthinfo.org/news/35836/full-story) by Centers for Disease Control and Prevention
