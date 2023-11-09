@@ -17,6 +17,45 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 9, 2023
 
+## CDC official at webinar for rural health providers
+
+- **Source:** [webinar](https://www.ruralhealthinfo.org/news/35836/full-story) by Centers for Disease Control and Prevention
+- **Date:** broadcasted November 8, 2023
+
+> Demetre Daskalakis, CDC [00:05:18]
+> 
+> So I'll start by saying that we are in a very different place this year than we've ever been in terms of how we can approach these three viruses. There are more ways than ever that we can use to protect our health. 
+> 
+> So first we have safe and updated vaccines. And so I think everyone's familiar with the flu vaccine. That's something that we're used to every year. We now have an updated COVID 19 vaccine, and I think we're going to get used to that one, just like we're used to the flu as something that's going to happen with some frequency. 
+> 
+> And then we also now have new vaccines and other immunizations against RSV, which we've never had before. 
+> 
+> So along with the vaccines, we also have available and effective treatments for flu and COVID 19. 
+> 
+> So important to note, there is no specific treatment for RSV. So in terms of flu and COVID 19, there are drugs called antivirals that reduce the risk of severe illness, hospitalization, and death. 
+> 
+> And also there's some data that with COVID, they even prevent some of the longer term complications that some people experience. 
+> 
+> We also have rapid antigen tests. So these tests that are available and can be used at home for COVID can quickly detect COVID 19 so that people can make their own decisions. 
+> 
+> And as you may have heard, these tests are also available for free right now through the U.S. government. 
+> 
+> And additionally, we have everyday actions, the things that we've learned during the pandemic, that we know work. 
+> 
+> So covering our coughs and sneezes, always good advice, regardless of the infection to wash your hands, really good advice across all sorts of infections.
+> 
+> Wearing a mask may be right for some people and could be one strategy, having good air quality is right for everyone, and another thing that's right for everyone is if you're not feeling well, it's really good to stay home, because that way you're able to take care of yourself, but you also prevent some of the opportunities to transmit some of these respiratory viruses to the folks around you. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:19:20]
+> 
+> Ideally we recommend getting vaccinated by the end of October, but as evidenced by my current talk, we don't quit even though October goes away, because flu hasn't landed. 
+> 
+> So as long as there's flu activity, it's not too late to get the shot. So if you haven't gotten the shot or the folks that you represent or counsel or work with, haven't gotten the shot, it is in fact, perfect timing to get the shot. 
+> 
+> And even if flu activity lasts until May or June, which it usually does it, we will sing the same song and say, continue to get vaccinated if you've not been vaccinated before. Additionally, though, this is getting a little deeper in the weeds. 
+
 ## CDC director on WBUR interview about COVID-19 
 
 - **Source:** [interview](https://www.wbur.org/hereandnow/2023/11/08/cdc-director-vaccines) by "Here & Now"
