@@ -17,6 +17,39 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 9, 2023
 
+## CDC director on WBUR interview about COVID-19 
+
+- **Source:** [interview](https://www.wbur.org/hereandnow/2023/11/08/cdc-director-vaccines) by "Here & Now"
+- **Date:** published November 8, 2023
+
+> Mandy Cohen, CDC [00:03:17]
+> 
+> So I've been traveling all around the country. So I've been hearing from folks that same thing to say, 'ugh, isn't COVID over?'
+> 
+> And unfortunately it is still here with us and still making folks very sick. And the two reasons you want to get the updated COVID vaccine?
+> 
+> One, is this virus has changed, and you want to have the updated protection that matches the current way in which the virus is circulating. So that's one.
+> 
+> And second, the protection you may have gotten from having COVID before or being vaccinated before decreases over time. So this is the way to boost yourself back up to the most protection, particularly ahead of Thanksgiving, when we know we're going to travel, we want to protect each other and ourselves in this moment. 
+> 
+> So ahead of Thanksgiving, get yourself vaccinated.
+> 
+> Question [00:04:02]
+> 
+> And if we do head into the territory in these holidays, where there is an uptick, should people be masking? You know, when they're indoors, are we back at that stage?
+> 
+> Mandy Cohen, CDC [00:04:10]
+> 
+> Well, we have many layers of protection. 
+> 
+> Obviously we're talking about vaccines today because ahead of the holiday, that's what you can do proactively. 
+> 
+> Once we get into the season, you want to make sure you're doing things also like staying home if you're sick and if you're sick testing yourself, because remember we have treatments for flu for COVID and treatment could save your life. 
+> 
+> And so we want also folks to get those four free tests from the federal government, you can go to COVID test.gov and get tests right now. 
+> 
+> But yes, then there are other layers of protection that we've known and used: washing your hands, opening a window, gathering outside, and yes, masks do work.
+
 ## CDC's nursing home resident COVID-19 vaccination figures by state
 
 - **Source:** [dashboard](https://www.cdc.gov/nhsn/covid19/ltc-vaccination-dashboard.html) by Centers for Disease Control and Prevention
