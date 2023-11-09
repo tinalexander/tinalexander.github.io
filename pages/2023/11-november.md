@@ -17,6 +17,19 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 9, 2023
 
+## Louisiana's health department on applesauce pouches with lead
+
+- **Source:** email from Kevin Litten of the Louisiana Department of Health
+- **Date:** received November 9, 2023
+
+> Answers below:
+> 
+> How many cases have been reported to the department, if any? **1**
+> 
+> Are you aware if any were hospitalized in the state? **The individual was not hospitalized**
+> 
+> Do you know which brand (e.g. Wanabana or another label) was consumed? **Wanabana**
+
 ## CDC director at AARP tele-town hall on respiratory viruses
 
 - **Source:** [video](https://www.youtube.com/watch?v=8ZIeO_C849w) by AARP
