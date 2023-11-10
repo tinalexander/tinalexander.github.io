@@ -17,6 +17,217 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 9, 2023
 
+## CDC's ACIP discussion of Valneva's chikungunya vaccine
+
+- **Source:** [video](https://www.youtube.com/watch?v=DwT9hQnCE-M) by Centers for Disease Control and Prevention
+- **Date:** published November 2, 2023
+
+> Beth Bell, ACIP [00:18:49]
+> 
+> There is no chikungunya vaccine ever licensed in the United States or globally, and there are no existing ACIP chikungunya vaccine recommendations. 
+> 
+> The chikungunya vaccine's work group is developing policy options for ACIP consideration for use of chikungunya vaccine among U.S. persons at risk of chikungunya, including travelers, laboratory workers, and residents of U.S. territories and states with, or at risk of, transmission. 
+> 
+> ...
+> 
+> Beth Bell, ACIP [00:20:58]
+> 
+> There will not be a vote today. The anticipated vote will be at the February 2024 ACIP meeting if the vaccine is licensed in the interim.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:22:36]
+> 
+> Chikingunya is caused by Chikungunya virus, which is an alpha virus. 
+> 
+> The mosquitoes that spread the virus to humans are Aedes Stegomyia species mosquitoes, primarily Aedes aegypti and Aedes albopictus. 
+> 
+> And in addition to mosquito borne transmission, other uncommon modes of chikungunya virus transmission include through exposure to the virus in the laboratory, intrauterine and intrapartum transmission, and bloodborne transmission through needle stick injury.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:23:07]
+> 
+> Chikungunya virus occurs in tropical and subtropical regions, as you can see on the map on the right, that shows areas with current or past transmission of chikungunya virus, and it has caused large outbreaks throughout most parts of the world.
+> 
+> Attack rates in outbreaks are often high with one third to three quarters of the population affected.
+> 
+> Clinical illness is characterized by the acute onset of fever and polyarthralgia, which is often severe and can be debilitating. Although serious complications can occur such as neurological illness, myocarditis, or hepatic renal disease. They're rare, and mortality is less than 1%.
+> 
+> In the absence of specific antiviral treatment, the approach to management typically involves rest, fluids, and use of analgesics and antipyretics.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:24:33]
+> 
+> The chikungunya vaccine is a live attenuated vaccine and is manufactured by Valneva. 
+> 
+> It has a single dose primary schedule and initial licensure will be for adults aged 18 years and older. 
+> 
+> The vaccine is currently under consideration by FDA and is not yet licensed anywhere in the world. 
+> 
+> There are currently no existing vaccine recommendations from ACIP or other vaccine advisory groups around the world. 
+> 
+> ...
+> 
+> Susan Hills, CDC [00:25:48]
+> 
+> Chikungunya is of public health importance globally with hundreds of thousands of cases reported annually. And with a particular concern when outbreaks occur, because they can have substantial consequences related to morbidity and also impact on health services. 
+> 
+> However, for U.S. persons traveling to areas with transmission, the risk and therefore public health importance is variable, as transmission varies substantially from location to location and from year to year.
+> 
+> Although there is likely substantial under diagnosis, about 100 to 200 chikungunya cases are reported annually among U.S. travelers. 
+> 
+> The greatest risk for travelers is when outbreaks occur.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:27:49]
+> 
+> Of note, there were no efficacy data. And this approach for vaccine licensure would've been logistically very challenging because outbreaks are unpredictable and their duration can be relatively short. 
+> 
+> In the absence of efficacy data, we reviewed immunogenicity data. However, there is no correlate of protection.
+> 
+> In considering the data we noted that the approach being used for licensure of the vaccine is through the accelerated approval pathway. With this approach, demonstration of effectiveness is based on clinical trials, showing the vaccine has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit. 
+> 
+> There is a post licensure requirement for vaccine effectiveness studies to confirm the clinical benefit in the clinical trials. The marker of protection used was based on a neutralizing antibody titer estimated from a validated non-human primate model. 
+> 
+> There were two studies providing evidence for short term protection from disease after vaccination, one randomized controlled trial and one lot to lot consistency study that did not include a placebo group. 
+> 
+> ...
+> 
+> Susan Hills, CDC [00:29:01]
+> 
+> There were a total of 622 subjects in the two studies, and their seroresponse at 28 days after vaccination was at least 98% in both studies.
+> 
+> None of the 96 subjects in the placebo arm of the randomized controlled trial had a seroresponse. 
+> 
+> The evidence used to evaluate long-term protection after vaccination was from one study, which included 360 subjects at 12 months after a single dose of vaccine, a seroresponse was detected in 99% of subjects. 
+> 
+> Based on these data, we considered the desirable anticipated effects were large. 
+> 
+> ...
+> 
+> Susan Hills, CDC [00:33:02]
+> 
+> So overall for these five outcomes, the only event where an arthralgia or arthritis outcome was reported at a significantly higher rate in the vaccinated group compared with the placebo group, was any arthralgia within 10 days of vaccination. 
+> 
+> However, in assessing these outcomes, the work group noted that the number of subjects in included in the studies was too low to adequately assess potentially rare events like severe or persistent arthralgia, arthritis, or new onset or worsening osteoarthritis.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:33:56]
+> 
+> The work group noted that there were high seroresponse rates through at least one year after vaccination and no serious safety concerns identified in the clinical trials that have been performed to date, that included approximately 3,500 vaccinated individuals. 
+> 
+> In addition, vaccination can prevent a disease that can result in severe arthralgia during acute illness, rare, serious complications, and sometimes long term arthralgia. 
+> 
+> However, we noted that healthcare providers should discuss the desirable and undesirable effects with individual travelers in the context of the disease risk at their destination, their activities and personal factors, such as age and underlying medical conditions.
+> 
+> As with any vaccine rare, serious adverse events can occur. And for some travelers, even a low probability of a serious adverse event might be higher than their disease risk. So vaccination should be targeted to travelers at higher risks for disease. 
+> 
+> Overall, the work group determined that the risk benefit assessment will vary substantially and inversely with transmission intensity and other factors, and is favorable if the vaccine is used in line with our proposed recommendations.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:35:24]
+> 
+> The overall certainty of evidence for short term and long term protection after vaccination was low.
+> 
+> Certainty was downgraded based on very serious indirectness because the likelihood of protection from disease was based on immunogenicity data in the absence of vaccine efficacy data. There's no established correlate of protection and demonstration of effectiveness for vaccine licensure was based on a surrogate endpoint, reasonably likely to predict clinical benefit, and results will require post licensure vaccine effectiveness studies to confirm the results.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:41:35]
+> 
+> A cost effectiveness analysis for chikungunya vaccination of travelers has not been conducted. 
+> 
+> Most travel vaccines are not cost effective. And chikungunya vaccine for travelers is not likely to be cost effective because a number of U.S. travelers needed to be vaccinated to prevent one case is high. 
+> 
+> However, the work group noted that cost effectiveness considerations are less relevant for a travel vaccine because the decision on vaccination is for an individual traveler and not being made for the population. So broad resource allocation decisions are not being made.
+> 
+> And because the vaccine is typically paid for by the traveler themselves, and it's often not covered by insurance.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:45:30]
+> 
+> Our draft recommendations for the live attenuated vaccine currently under consideration by the FDA for licensure are that chikungunya vaccine is recommended for persons age 18 years and older traveling to a country or territory where there is a chikungunya outbreak. 
+> 
+> In addition, chikungunya vaccine may be considered for the following persons traveling to a country or territory without an outbreak, but with evidence of chikungunya virus transmission among humans within the last five years. 
+> 
+> The groups are older persons, for example, are older than 65 years. Particularly those with underlying medical conditions who are likely to have at least moderate exposure to mosquitoes and persons staying for a cumulative period of six months or more during a two year period.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:44:03]
+> 
+> One topic the work group discussed was that disease risk is highest during outbreaks and vaccination will be of most benefit for travelers during an outbreak. 
+> 
+> However, a challenge might be a delay in awareness of an outbreak with travelers potentially exposed during high risk periods in the early stages of an outbreak. To address this as best as possible, CDC will post information on outbreaks on the CDC website as soon as we become aware of outbreaks. 
+> 
+> Although we discussed this as a challenge, most of the work group members did not think it would be appropriate to address the issue by recommending vaccination to every traveler, traveling to any destination with risk of chikungunya, because there would likely be an adverse risk benefit assessment given the variable and often very low risk for travelers, and because of the substantial differential between risk during outbreaks and at other times.
+> 
+> ...
+> 
+> Susan Hills, CDC [00:46:43]
+> 
+> There was a large outbreak of chikungunya in Paraguay during 2023. 
+> 
+> On the left, you'll see a graph that shows that among all U.S. travelers to destinations with risk of chikungunya, fewer than 1% traveled to Paraguay. 
+> 
+> However, on the graph on the right, you'll see that among all U.S. traveler chikungunya cases reported to date during 2023, 26% of them, or 18 of 69 cases have been among persons who traveled to Paraguay. 
+> 
+> These data clearly demonstrate the substantially higher risk for travelers during an outbreak.
+> 
+> ...
+> 
+> Ellen Shannon, Valneva [01:03:04]
+> 
+> I can comment on the price question. We do expect that the price of the vaccine will be in line with the other travel vaccines on the market.
+> 
+> ...
+> 
+> Katrin Dubischar, Valneva [01:03:33]
+> 
+> We have actually, uh, generated some additional immunogenicity data in older adults, where the sample goes up to roughly above a hundred. 
+> 
+> We continue to see very high seroresponse rates that do not differ from younger adults. 
+> 
+> And, in terms of the population that was studied, I can just support the answer that Dr. Hills gave, that the study population was a generally healthy adult population, but that we included also participants with underlying diseases for long as those were stable or controlled. 
+> 
+> ...
+> 
+> Ellen Shannon, Valneva [01:04:37]
+> 
+> We are going to be in line with a previous presentation by Dr Hills. 
+> 
+> She had presented into the ACIP in June, and it was in the range of her analysis, approximately $350 cost to the patient, or in that vicinity, slightly less.
+> 
+> ...
+> 
+> Susan Hills, CDC [01:10:20]
+> 
+> Our draft recommendation for ACIP members consideration is chikungunya vaccination is recommended for laboratory workers with a potential for exposure to chikungunya virus. 
+> 
+> The recommendations will be presented with additional text to provide clear information for implementation, including noting that a local institutional biosafety committee should undertake a risk assessment of a potential for exposure to chikungunya virus for each laboratory worker working with the virus, considering the type of work to be performed and the biosafety level at which work will be conducted. 
+> 
+> And the vaccination is not necessary for workers handling routine clinical samples who should routinely use standard practices for handling patient samples.
+> 
+> ...
+> 
+> Susan Hills, CDC [01:12:30]
+> 
+> So you are correct that it takes just one mosquito bite, but it needs to be an infected mosquito. And, what we do see is that there are millions of travelers to areas with the risk for chikungunya virus transmission each year. And we really only see 100 to 200, as I said, reported cases this year. We've seen about 70 cases of chikungunya virus transmission. 
+> 
+> ...
+> 
+> Susan Hills, CDC [01:13:50]
+> 
+> So we are trying to weigh up that and we didn't really want to specify the location either, just because the Aedes aegypti mosquito is a very domestic mosquito, so it can be found around homes, it breeds in containers, like flower-- vases, the base of flower pots, and trash that's lying around. 
+> 
+> So it can be very high intensity in urban areas, unlike some of our other diseases like Japanese encephalitis, for example, that are more a risk in rural areas. So, we-- that's sort of the thinking the work group went through to get to our traveler recommendations.
+
 ## CDC officials at AAP webinar on nirsevimab prioritization
 
 - **Source:** [webinar](https://publications.aap.org/aapnews/news/27261?autologincheck=redirected) by American Academy of Pediatrics
