@@ -17,6 +17,106 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 9, 2023
 
+## CDC officials at AAP webinar on nirsevimab prioritization
+
+- **Source:** [webinar](https://publications.aap.org/aapnews/news/27261?autologincheck=redirected) by American Academy of Pediatrics
+- **Date:** broadcasted November 8, 2023
+
+> Kevin Chatham-Stephens, CDC [00:06:51]
+> 
+> Really the potential for limited nirsevimab availability should be considered when deciding on maternal RSV vaccination or nirsevimab. 
+> 
+> And we do understand that there have been reports of some access and other issues with the maternal RSV vaccine. And we're actively looking into that as well. 
+> 
+> ...
+> 
+> Kevin Chatham-Stephens, CDC [00:09:14]
+> 
+> Although the VFC operations guide and this addendum reiterated previous and longstanding policy for bidirectional borrowing, it is likely not practical and not feasible to allow borrowing during times of supply constraints. 
+> 
+> So while there are supply constraints for nirsevimab, VFC supply stocks should remain prioritized for VFC eligible children, and we strongly recommend that health departments take into consideration the supply in their jurisdiction and use their borrowing provisions for nirsevimab with caution, prioritizing supply for VFC eligible children while supply constraints exist. 
+> 
+> And please note that some state immunization programs don't allow borrowing.
+> 
+> ...
+> 
+> Ayanna Santos, Sanofi [00:14:26]
+> 
+> What we've seen since we started shipping at the end of September is that the level of demand has been higher and faster than what we anticipated based on innovative pediatric immunization launches in our recent history. 
+> 
+> So specifically for the 100 milligram dose, the demand exceeded the supply that would've been available for the whole season within just weeks of shipping. 
+> 
+> And now, due to the demand for the 50 milligram dose, we're carefully managing the distribution in the private market to fulfill existing orders and to provide equitable access to the remaining doses. 
+> 
+> So we are still shipping both doses right now in the private market to fulfill those existing orders, and we will continue to do so through November and December. New ordering has stopped for both doses. 
+> 
+> However, for the 50 milligram dose, we will resume ordering through our direct ordering platform for limited allocation on November 16th.
+> 
+> We will be reaching out to providers regarding any pending shipments and then the potential for limited allocation for the-- towards the end of this year. 
+> 
+> ...
+> 
+> Ayanna Santos, Sanofi [00:23:14]
+> 
+> We are working very closely with AstraZeneca, our alliance partner, who's in charge of manufacturing to identify any opportunities that exist to bring additional doses for this season. 
+> 
+> As you may know, it's a very long cycle for manufacturing monoclonal antibodies to bring doses to the market, but we are working together with them as well as with the CDC and the FDA to identify any opportunities there. 
+> 
+> So we will definitely notify the AAP and the community here at large, that if there's anything that changes, when, if more doses can become available.
+> 
+> ...
+> 
+> Question [00:30:16]
+> 
+> If we have a supply of nirsevimab in our clinics or our hospitals, should we focus on administering it all now, or should some be saved until we're further along in the season? 
+> Meredith McMorrow, CDC
+> 
+> So I would recommend, we give all available doses to eligible infants now. 
+> 
+> RSV season has clearly started in the U.S. It's approaching peak levels in some regions particularly here in the southeast, where CDC is located, and nationally, it typically peaks in December and January. 
+> 
+> As you've heard from the manufacturer, there will be additional doses that are being delivered through both the private sector and through our colleagues through the VFC and the public sector. 
+> 
+> And so we just want to make sure that it's really important to get as many of these doses out and into children. 
+> 
+> It's important that our high risk infants are prioritized, and that we have controls in place to make sure that those providers that won't get additional orders are able to protect their populations, but we also need to recognize that infants that are gonna be born later in the season will have the opportunity to be protected by maternal vaccination as well, and that it's really important to encourage pregnant people who are between 32 and 36 weeks gestation to receive the RSV vaccine.
+> 
+> ...
+> 
+> Meredith McMorrow, CDC [00:33:14]
+> 
+> So there are multiple factors that determine an infants immunity after infection with RSV, and therefore we normally wouldn't use just infection status to determine whether or not they should receive nirsevimab, if we had an adequate supply. 
+> 
+> But given this current situation of limited supply, I think it would be reasonable, and we've talked to our colleagues at the AAP COID, and they concur, that we should we should consider limiting nirsevimab in children who have already tested positive for RSV as their risk of lower respiratory tract infection with a second or subsequent RSV infection is much lower.
+> 
+> ...
+> 
+> Kevin Chatham-Stephens, CDC [00:45:20]
+> 
+> So we're getting data in a variety of ways, and I'll kind of highlight a couple of them. 
+> 
+> One is through the national immunization survey, you may have heard of this before. It was-- it's been something that we use quite frequently to report out COVID 19 vaccine coverage amongst other vaccines. So this-- this survey asks questions about both receipt and intent to receive RSV vaccine among pregnant persons, as well as ask mothers of infants under eight months, if the child has received nirsevimab, or if the parents intend for the baby to receive nirsevimab. \
+> 
+> So in both cases they're asking about, has the person gotten the vaccine, or do they intend to get the vaccine? So lots of greater information there.
+> 
+> The sample sizes for these to date are small, and it may take several months for the data to accrue to provide meaningful results, that can be posted online, but we are tracking those data for sure. 
+> 
+> In addition, in a national survey of pregnant pregnant persons that's scheduled for April of next year, so April 2024, we'll include some questions about maternal RSV vaccination, as well as an intent for the child to receive nirsevimab as well. So once again, trying to get at both the maternal vaccine and nirsevimab.
+> 
+> And then we're also conducting focus groups of pregnant people, as well as interviews of healthcare providers who take care of pregnant people to really assess knowledge, attitudes, behaviors, and practices regarding vaccination during pregnancy. 
+> 
+> And then finally with a variety of different partners, we're working to get kind of informal feedback from folks out in the field, folks who are boots on the ground, who are dealing with these issues day in day out once again, so we can keep our pulse on this topic and find out some solutions.
+> 
+> ...
+> 
+> Manisha Patel, CDC [00:50:11]
+> 
+> One is that the there's no supply issue with maternal RSV vaccine. Like there are vaccines, and again, this is Pfizer, it's not the GSK vaccine, right? So we're talking about Abrysvo, not Arexvy. 
+> 
+> But as we know, as we move through implementation, there are challenges. It's an expensive vaccine, and so some OB GYN providers don't carry it, because it is expensive. At the pharmacy side, some states need to have prescriptions for it. 
+> 
+> So I mentioned a couple of these barriers because it's absolutely accurate that there are barriers also for maternal RSV vaccine, but we're working very closely with our pharmacy partners as well as ACOG, ABOG, other OBGYN, AAFP for example, to help understand what those recommendations should be.
+
 ## Louisiana's health department on applesauce pouches with lead
 
 - **Source:** email from Kevin Litten of the Louisiana Department of Health
