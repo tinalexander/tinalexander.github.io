@@ -95,7 +95,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > So we're getting data in a variety of ways, and I'll kind of highlight a couple of them. 
 > 
-> One is through the national immunization survey, you may have heard of this before. It was-- it's been something that we use quite frequently to report out COVID 19 vaccine coverage amongst other vaccines. So this-- this survey asks questions about both receipt and intent to receive RSV vaccine among pregnant persons, as well as ask mothers of infants under eight months, if the child has received nirsevimab, or if the parents intend for the baby to receive nirsevimab. \
+> One is through the national immunization survey, you may have heard of this before. It was-- it's been something that we use quite frequently to report out COVID 19 vaccine coverage amongst other vaccines. So this-- this survey asks questions about both receipt and intent to receive RSV vaccine among pregnant persons, as well as ask mothers of infants under eight months, if the child has received nirsevimab, or if the parents intend for the baby to receive nirsevimab. 
 > 
 > So in both cases they're asking about, has the person gotten the vaccine, or do they intend to get the vaccine? So lots of greater information there.
 > 
