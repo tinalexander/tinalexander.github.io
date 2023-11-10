@@ -17,6 +17,39 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 9, 2023
 
+## CDC's CLIAC agency updates from meeting
+
+- **Source:** livestream of [meeting](https://www.cdc.gov/cliac/upcoming-meeting.html) by Centers for Diseasen Control and Prevention
+- **Date:** broadcasted November 9, 2023
+
+> Collette Fitzgerald, CDC [00:15:55]
+> 
+> It's important to point point out one other development at the agency since the last CLIAC meeting.
+> 
+> In May 2023, CDC lost approximately 1.3 billion in funding as a result of the American Rescue Plan recission, which impacted many different agencies in the U.S. government. The rescission, which involved funds at CDC that have not yet been specifically obligated, affects programs across CDC and the agency is reassessing priorities and focus to make the greatest impact on our mission. 
+> 
+> ...
+> 
+> Collette Fitzgerald, CDC [00:32:57]
+> 
+> In light of the recent American Rescue Plan funding recission, DLS is committed to helping the One Lab initiative thrive, despite a loss of approximately 27 million dollars in funding. 
+> 
+> This change will limit the number of new training resources that CDC can produce each year. It is also uncertain whether CDC will be able to fund year three of the One Lab cooperative agreement with external recipient partners. 
+> 
+> So the next phase of One Lab will center on reprioritization. 
+> 
+> DLS also lost approximately 127 million in rescinded funding related to the career pathways in public health laboratory science internship and fellowship program, that is primarily funded through our cooperative agreement with APHL.
+> 
+> DLS successfully obligated enough funding to the cooperative agreement to keep the career pathways program moving forward, but related workforce development activities were hampered and reprioritization is ongoing. 
+> 
+> ...
+> 
+> Tim Stenzel, FDA [01:05:26]
+> 
+> So, we've been working hard internally and with external stakeholders at the FDA to work towards ways to address the current epidemic of overdoses. There are more than one drug. Fentanyl is one of the most important ones that has led to an excess cause of death. And we're happy here to, this is a fully at home performed test, with results in five minutes from a urine sample. And we see that there's a lot of interest in this area, so we expect that additional point of care and at home tests will be available.
+> 
+> Xylazine is a new drug or relatively, we are aware of it, we're newly aware of xylazine being an important drug. It being primarily used in the veterinary space, but now being cropping up in various locations across the country, there is no current cleared xylazine test, but there appears to be interest. And the FDA is very interested in authorizing these tests as well.
+
 ## CDC's ACIP discussion of Valneva's chikungunya vaccine
 
 - **Source:** [video](https://www.youtube.com/watch?v=DwT9hQnCE-M) by Centers for Disease Control and Prevention
@@ -848,3 +881,4 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > During any period in which an MFP for Stelara is not in effect due to licensure and marketing of a biosimilar competitor, the price of Stelara will not be legally constrained by the requirements of the Negotiation Program created by the Inflation Reduction Act.
 > 
 > For more information, please see sections 30 and 70 of the Revised Guidance for Initial Price Applicability Year 2026 published on June 30, 2023.
+
