@@ -15,6 +15,73 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# November 13, 2023
+
+## Press call on new SAMHSA NSDUH report for 2022 figures
+
+- **Source:** press briefing by White House and Department of Health and Human Services
+- **Date:** hosted on November 13, 2023
+
+> Rahul Gupta, White House [00:08:20]
+> 
+> Overdose deaths have flattened in 2022 and 2023, after sharp increases from 2019 to 2021. 
+> 
+> Now that's progress and it is important to recognize that, but we still have a long way to go. And today's data underscores this point. 
+> 
+> The bottom line is that we're dealing with a historic and unprecedented epidemic and it requires historic and unprecedented funding to match this scale, and President Biden's supplemental funding request will help us get there. 
+> 
+> The president is calling on Congress to devote new funding to this effort, including more than 1.5 billion to strengthen addiction, treatment, overdose prevention, measures, and recovery support services, and 1.2 billion to counter fentanyl trafficking. 
+> 
+> ...
+> 
+> Rahul Gupta, White House [00:10:23]
+> 
+> This is that this is not a red state or a blue state issue. It's America's issue. 
+> 
+> And that is why it's part of President Biden's bipartisan unity agenda for the nation. 
+> 
+> And it is time for Congress to come together and to find common ground to save American lives. 
+> 
+> 48 million Americans across every state are counting on them.
+> 
+> As both the nations drug policy director, and a doctor who has delivered addiction care firsthand, I am calling on Congress to act immediately. 
+> 
+> Congress must pass President Biden's funding request to help save American lives. The American people deserve no less. 
+> 
+> ...
+> 
+> Miriam Delphin-Rittmon, SAMHSA [00:16:31]
+> 
+> Also of note, this year's survey contains new data detailing modes of marijuana use and information about illegally made fentanyl.
+> 
+> ...
+> 
+> Senior Administration Official [00:26:17]
+> 
+> There are many variables within the current NSDUH that can be compared to 2021 data. 
+> 
+> We will be doing follow ups or short reports and analysis to look at some of that. So there are many variables that can be compared. There's some variables that can't be compared because of the way that the variable was updated and defined. But by and large, many of the variables can be compared. 
+> 
+> 
+> ...
+> 
+> Senior Administration Official [00:26:54]
+> 
+> We are unable to compare substance use treatments, mental health treatments, nicotine vaping, and marijuana vaping from 2021 to 2022, because of changes in the survey and methods, modules that they're in. 
+> 
+> And in terms of some of the early estimates that we're seeing between the two that are a little different, we see that marijuana use and marijuana use disorder is up from 2021 to 2022. And we also have seen that something that we would've hoped to have seen gone down, haven't, such as youth suicidality. 
+> 
+> Those are some early findings, and we really do look forward to sharing more.
+> 
+> The detailed tables that we'll release with our national report later on today will re-release 2021 estimates. And those are the estimates that should be used from comparing 2021 to 2022. 
+> 
+> 
+> ...
+> 
+> Senior Administration Official [00:28:02]
+> 
+> So unfortunately with two years of data, we can't talk about trends yet. It's a little early, but we definitely plan to when we accumulate more years of data, go back to looking at those trends. But until then, we will do these comparisons let people know how we are faring from year to year.
+
 # November 9, 2023
 
 ## CDC's CLIAC agency updates from meeting
