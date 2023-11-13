@@ -312,7 +312,8 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > 
 > Question [00:30:16]
 > 
-> If we have a supply of nirsevimab in our clinics or our hospitals, should we focus on administering it all now, or should some be saved until we're further along in the season? 
+> If we have a supply of nirsevimab in our clinics or our hospitals, should we focus on administering it all now, or should some be saved until we're further along in the season?
+> 
 > Meredith McMorrow, CDC
 > 
 > So I would recommend, we give all available doses to eligible infants now. 
