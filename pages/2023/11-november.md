@@ -17,6 +17,55 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 13, 2023
 
+## FDA foods official on lead in applesauce investigation 
+
+- **Source:** webinar by Alliance for a Stronger FDA
+- **Date:** broadcasted November 13, 2023
+
+> Jim Jones, FDA [00:10:07]
+> 
+> In my two months here, it's all being reinforced with personal firsthand experience. It really is a remarkable and remarkably talented and committed group of people. 
+> 
+> And I've seen that in play just in just two months, over and over again, whether it was, we were working all day on a Saturday to effectuate a recall, or making sure that we had a document ready to roll out on a Monday. 
+> 
+> And people here are remarkably-- they're both talented and committed.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:47:54]
+> 
+> Maybe this beginner's luck, and not that this is going smoothly because these issues are always by their very nature difficult to get your arms totally around, but that state of North Carolina brought this issue to us on a Wednesday in October.
+> 
+> The staff did humongous work to make sure that the science was-- because there were some anomalies, how information was collected, it was not sort of necessarily how you would do things by the guidance book. 
+> 
+> So they did do all the vetting that they needed to do by Friday afternoon, they had it to me, we had a recall on-- a voluntary recall from the company on Saturday. 
+> 
+> So I think that kind of clarity of decision making, they knew where to go, it just-- we were able to go from knowledge to recall within four days.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:48:48]
+> 
+> Now you got to figure out sort of where exactly and what other than WanaBana may be impacted. 
+> 
+> And so now you're into, you're in investigative mode, we're working with the state health departments, some cases, the state ag departments, our colleagues at the CDC, trying to make sure we understand, we have a theory that we can't get too far out on it, about it. And it may involve suppliers outside the United States. 
+> 
+> But we are aggressively trying to get to the bottom of it. 
+> 
+> ...
+> 
+> Jim Jones, FDA [00:49:21]
+> 
+> It's theoretically possible we have our arms around it right now. It's theoretically possible that one of the ingredients that may be what's behind this is in products that we don't even know about yet, because you know, we didn't sell this product to-- we weren't the supplier to somebody in another country manufacturing something that may not even be applesauce.
+> 
+> But we are-- this is a very high priority for us and we are investigating aggressively. I hope we have our arms around this. 
+> 
+> Again, we're working with our state partners to dog this wherever it goes.
+> 
+> And ultimately I think it would be useful to do a retrospective gold wash around lessons learned. I think you can always learn from these experiences.
+> 
+> But I think that that we've been aggressive and responsive, but like I said, we're not the ones who introduced this into the food supply. And so, you know, our ability to be a hundred percent confident around exactly where it is-- that's just a lot of leg work and investigative work and partnering, and we're trying to do all of those things and, and hoping we can get this thing wrapped up quickly, meaning out of the foods supply.
+
 ## Press call on new SAMHSA NSDUH report for 2022 figures
 
 - **Source:** press briefing by White House and Department of Health and Human Services
