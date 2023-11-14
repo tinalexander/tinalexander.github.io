@@ -17,6 +17,67 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 14, 2023
 
+## Valneva executives on FDA approval of chikungunya vaccine
+
+- **Source:** webcast by Valneva
+- **Date:** broadcasted November 13, 2023
+
+> Thomas Lingelbach, Valneva [00:22:37]
+> 
+> With regards to supply, we have already agreed with the FDA on the lot release protocol. 
+> 
+> We have launch material ready that will go through as respect to procedures, final labeling and packaging, and should be available very early on in 2024 in the United States.
+> 
+> ...
+> 
+> Juan Carlos Jaramillo, Valneva [00:23:41]
+> 
+> I think for us is one of the most important parts is looking at now, with the approval, especially with a final label, is working with ACIP as we are being asked to provide information and data to them.
+> 
+> As you have probably seen, there will be an ACIP recommendation in February of next year. And, we're working closely with the ACIP working group lead in order to make sure that the timelines are kept from our end.
+> 
+> With regards to the launch teams in the U.S. are well prepared. And we're looking forward to having this product on the market, as soon as possible, and benefit into the people that need it the most. 
+> 
+> ...
+> 
+> Thomas Lingelbach, Valneva [00:27:39]
+> 
+> All discussions around, be it military, be it potential stockpiling, those discussions of course, have been initiated, and will be further intensified now that we got the approval.
+> 
+> But in order to manage expectations, we do not expect anything right now prior to ACIP, based on our own experience from Ixiaro, but also from other vaccines I've personally worked on, it would take a bit longer for the U.S. military to come up with their respective vaccination recommendations and potential procurement plan.
+> 
+> ...
+> 
+> Unclear, Valneva [00:28:43]
+> 
+> I'll start off first with the pricing. 
+> 
+> I think that we, during the ACIP working group, I believe held in October of this year, they were discussing around how the health economic model and also the budget impact models were being looked at. 
+> 
+> So currently we are anticipating that our price will be similar to other travelers vaccines in the U.S. So this is also something that we are finalizing at the current moment with that.
+> 
+> Regarding, yes, we've taken the uptakes and also looked at the marketplace around travelers. And we are mimicking, in certain certain launch activities, where we are targeting specific travel agencies and travel departments in the U.S.
+> 
+> And this is how we expect to enter the market hopefully soon.
+> 
+> ...
+> 
+> Thomas Lingelbach, Valneva [00:30:47]
+> 
+> We have launch material ready. We are going through the lot procedure, lot release procedure right now, and then labeling, packaging. 
+> 
+> And then we expect early next year arrival of the product in the United States, very early.
+> 
+> ...
+> 
+> Question [00:31:15]
+> 
+> How many doses in the launch stock do you currently have?
+> 
+> Thomas Lingelbach, Valneva [00:31:21]
+> 
+> So me-- I need to follow it up-- I don't want to give you a wrong answer, but I would say definitely more than sufficient, but we can follow up, because I don't want to give a wrong number here.
+
 ## CDC official on SARS-CoV-2 variants at laboratory webinar
 
 - **Source:** [webinar](https://www.cdc.gov/locs/index.html) by Centers for Disease Control and Prevention
