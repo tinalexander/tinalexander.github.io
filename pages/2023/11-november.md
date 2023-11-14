@@ -15,6 +15,55 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 <br>
 
+# November 14, 2023
+
+## CDC official on SARS-CoV-2 variants at laboratory webinar
+
+- **Source:** [webinar](https://www.cdc.gov/locs/index.html) by Centers for Disease Control and Prevention
+- **Date:** broadcasted November 13, 2023
+
+> Natalie Thornburg, CDC [00:11:53]
+> 
+> Those weighted estimates are used to calculate growth rates, which we use to predict into the present tense. 
+> 
+> And the reason that we do that is because it takes time to collect a specimen, identified it as SARS-CoV-2 positive, get it to a laboratory that can perform whole genome sequencing, actually perform that whole genome sequencing, which is multiple days, maybe a week, get it analyzed and then get that data to the CDC or into a public repository. 
+> 
+> And so that lag time -- in that lag time, we utilize the actual sequences to calculate those growth rates into the present or Nowcast. 
+> 
+> So the data on the right is modeled data modeled into the present tense. The data bins are bi-weeks. We update them every other week on Fridays.
+> 
+> This week, we were delayed one day due to a holiday. And then on Thanksgiving week, we will also delay it one day and be posted the following Monday. 
+> 
+> But typically it is posted with all other data on Friday mornings. 
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:12:57]
+> 
+> What you can see is that the most-- the HV.1 lineage virus is predicted to be the most prevalent virus lineage circulating nationally, with EG.5 predicted to be the second most prevalent, but they have overlapping confidence intervals. 
+> 
+> So they're approximately predicted to be approximately equal nationally. 
+> 
+> It looks like there's a lot of diversity in the circulating viruses, but there is not, because we use aliases now with this PANGO lineage of genomics, meaning once you get a large number of numbers after the letters, in the name designations, an alias will be assigned to it and that's assigned in order not necessarily relevant to its parental lineage. 
+> 
+> And so all, really all of these lineages, with the exception of BA.2 right there and CH.1.1, everything else on this data tracker are XBB lineage viruses, and they are very, very similar to each other, often with identical spike sequences, with zero, one, two, three changes in the spike protein in comparisont to the current vaccine formulation.
+> 
+> So right now the vast majority of viruses, 95, 99% of circulating viruses are very, very similar to the composition of currently available vaccines. 
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:14:31]
+> 
+> The lineages that are growing fastest include HV.1, and that just took over, is predicted to be the most prevalent lineage.
+> 
+> HK.3 lineage virus, and JD.1 lineage viruses. 
+> 
+> If you scroll down beneath the map on the data tracker, you can see a dendogram, this is not a true phylogenetic tree, but just shows you the relationship of viruses. 
+> 
+> And these two are some, they're HV.1 and HK.3, they are some of the faster growing lineages, they are sub lineages of EG.5 with an additional change. 
+> 
+> And then you have JD.1, which is a sub lineage of XBB.1.5 virus. 
+
 # November 13, 2023
 
 ## FDA foods official on lead in applesauce investigation 
@@ -998,4 +1047,6 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 > During any period in which an MFP for Stelara is not in effect due to licensure and marketing of a biosimilar competitor, the price of Stelara will not be legally constrained by the requirements of the Negotiation Program created by the Inflation Reduction Act.
 > 
 > For more information, please see sections 30 and 70 of the Revised Guidance for Initial Price Applicability Year 2026 published on June 30, 2023.
+
+
 
