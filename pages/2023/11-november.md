@@ -1,10 +1,5 @@
 ---
 title: November 2023
-layout: minimal
-parent: 2023
-has_children: false
-has_toc: false
-nav_order: 11
 permalink: /2023/11
 ---
 
