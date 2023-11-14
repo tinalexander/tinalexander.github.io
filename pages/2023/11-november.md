@@ -17,6 +17,15 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 14, 2023
 
+## CVS spokesperson on recalled eye drops
+
+- **Source:** email from CVS Health spokesperson
+- **Date:** received November 14, 2023
+
+> Thanks for reaching out – below is our statement. We do not have additional information to offer at this time.
+> 
+> Upon receiving notification by the FDA, we immediately stopped the sale in-store and online of all products supplied by Velocity Pharma within the CVS Health Brand Eye Products portfolio. Customers who purchased these products can return them to CVS Pharmacy for a full refund. We’re committed to ensuring the products we offer are safe, work as intended and satisfy customers, and are fully cooperating with the FDA on this matter._
+
 ## CDC officials at APHL webinar on respiratory testing guidance
 
 - **Source:** [webinar](https://aphl.zoom.us/webinar/register/WN_0yih0OeYQsWzXloTkJJ92w#/registration) hosted by the Association of Public Health Laboratories
