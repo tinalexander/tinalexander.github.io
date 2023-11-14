@@ -17,6 +17,17 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 14, 2023
 
+## Rite Aid spokesperson on recalled eye drops
+
+- **Source:** email from Rite Aid spokesperson
+- **Date:** received November 14, 2023
+
+> Here is more information on the recall: https://www.fda.gov/drugs/drug-safety-and-availability/fda-warns-consumers-not-purchase-or-use-certain-eye-drops-several-major-brands-due-risk-eye
+> 
+> Related to the recall mentioned above, below is our statement:
+> 
+> Due to safety concerns identified by the FDA, we have removed applicable Rite Aid branded recalled products from our store shelves. Customers can return applicable recalled eye drops to Rite Aid locations for a refund. 
+
 ## CVS spokesperson on recalled eye drops
 
 - **Source:** email from CVS Health spokesperson
