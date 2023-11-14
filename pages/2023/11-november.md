@@ -17,6 +17,91 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 # November 14, 2023
 
+## CDC officials at APHL webinar on respiratory testing guidance
+
+- **Source:** [webinar](https://aphl.zoom.us/webinar/register/WN_0yih0OeYQsWzXloTkJJ92w#/registration) hosted by the Association of Public Health Laboratories
+- **Date:** broadcasted November 9, 2023
+
+> Natalie Thornburg, CDC [00:07:02]
+> 
+> Why do I need to collect, retain, and send SARS-CoV-2 specimens to our state labs and then have them ship them to CDC if they're already being sequenced locally? 
+> 
+> And the answer to that is, at least for right now, because we don't know the long term evolution rate of SARS-CoV-2, how often we'll need to reformulate COVID 19 vaccines, policy bodies have established frameworks to look at the vaccine formulations once a year, twice a year, until we know if we need to consistently update vaccine formulations.
+> 
+> And getting those specimens will help us determine how antigenically similar viruses that are circulating now, versus vaccine formulations.
+> 
+> And two of those bodies are the WHO technical advisory group for vaccine composition. 
+> 
+> This group meets twice a year they're meeting in early December. And then I believe they usually meet-- they'll probably meet in about May, where they look at what viruses are circulating, what does vaccine formulation look like right now? 
+> 
+> And they utilize data from viruses that have been generated from clinical specimens to determine how closely related they are to the vaccine formulation and make recommendations about vaccine reformation. 
+> 
+> Very similar to that group, FDA VRBPAC has established a similar process. Thus far, they have done it in June. They did this in June 2023, and they did it in June 2022 as well. To look at similar questions, were circulating viruses to vaccine formulations, and at least this past summer, they made the recommendation that the vaccines be reformulated from bivalent an XBB formulation.
+> 
+> And then ACIP is coordinated by CDC, and ACIP develops recommendations on how to use vaccines. 
+> 
+> So FDA makes the recommendations on the formulation and does the approvals, and then ACIP makes the recommendations on how to implement those vaccines. 
+> 
+> And in September of 2023, ACIP recommended that the new XBB formulation of COVID 19 vaccines be used for all persons this year, greater than or equal to six months of age. 
+> 
+> So why those clinical specimens are important to make it to the state labs and then to CDC is that we need that primary clinical specimen to generate a virus isolate. 
+> 
+> And then those virus isolates are used for neutralization assays, either with human post vaccination sera, or can be used for generation of clean sera, and also used for neutralization assays. 
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:10:18]
+> 
+> So for those primary clinical specimens, the specimens need to be in a viable state.
+> 
+> So they need to be in a media that doesn't inactivate the virus, and that helps stabilize it for isolation in cell culture.
+> 
+> And they need to be held at a temperature that supports viability, usually cold frozen or ultra cold and not heat treated before they're frozen. 
+> 
+> And then those clinical specimens right now make their way to CDC through state laboratories. So from the clinical labs, choose state laboratories who sometimes sequence them locally and then ship them onto us, or if they don't sequence them locally, they just ship them straight to us. 
+> 
+> And we generate the viral isolates for neutralization assays and analysis, and that is through our NS3 program and the kind of data that we look at during FDA VRBPAC, the WHO work group, and CDC ACIP is shown here in a slide.
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:17:05]
+> 
+> Another guidance document that we've added is some preliminary recommendations about RSV surveillance guidance. 
+> 
+> I would categorize that in the middle genomics surveillance bucket, not phenotypic surveillance bucket, and that is probably not necessary for a virus like RSV. 
+> 
+> Why are we initiating RSV surveillance guidance? Well, there are new vaccines in monoclonal antibody prophylactic products that have been approved and recommended for older adults and young infants. And we need to initiate viral surveillance, really genomic surveillance, and not full phenotypical surveillance, to help us track vaccine and prophylactic performances.
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:21:37]
+> 
+> A couple of states have reached out to us and said they're interested in starting their own sequencing efforts. We absolutely support this, and we'll be happy to work with you if you're interested in doing that. 
+> 
+> Otherwise, what we're asking is voluntary submission of a very small number of specimens to CDC, with CTs below 28.
+> 
+> What we'll do with those sequences is not isolation of viruses, but we will do some genomic surveillance, obviously and we're asking for just quarterly shipments of those specimens. And again, this is a voluntary participation. 
+> 
+> We just want to get an idea of diversity across different states. We don't expect a lot of diversity. 
+> 
+> What we know of, from the little bit of sequencing has been done, is there tend to be circulation of A and B viruses at the same time, but the diversity, but there's minimal diversity of the A viruses circulating and B viruses circulating during a season. 
+> 
+> ...
+> 
+> Todd Davis, CDC [00:41:59]
+> 
+> So as part of our updated sample submission guidance for this coming flu season, some of the additional recommendations for sample submission include looking at unsubtypeables. 
+> 
+> So we really want to be sure that, anytime there's a virus that fails to produce a positive subtyping result, but that is influenza A positive, those are the types of samples that we really want to see quickly. 
+> 
+> They often are related to zoonotic infections, or if they're inconclusive results, such that the CT values might be dramatically different from the influenza A matrix gene component compared to a seasonal H3 or H1, that's oftentimes an indication of a possible swine origin variant virus. 
+> 
+> As I mentioned earlier in the talk, we're very interested in looking for any indication that the B Yamagata lineage continues to circulate. As I said, we haven't confirmed its presence since March of 2020. And so we we'd like for all influenza B positive samples that fail to produce a positive genotype result be sent to the CDC and any samples that test positive for B Yamagata we'd like to be sent for additional characterization and confirmation, and especially sequencing, to be sure that it is in fact a B Yamagata virus. 
+> 
+> We're very interested in co-infection. So anytime that there's a nonstandard test result that indicates a mixture of influenza A subtypes, or influenza A and B viruses, these are often indicative of live attenuated influenza vaccines that have persisted and result in those co-infections or real time results that could be possible co-infections. 
+> 
+> And then finally the potential zoonotic infections, and additional subtyping that's required to detect H5 and H7 presumptive positives.
+
 ## Valneva executives on FDA approval of chikungunya vaccine
 
 - **Source:** [webcast](https://valneva.com/events/analyst-call-u-s-fda-approval-of-chikungunya-vaccine-ixchiq/) by Valneva
