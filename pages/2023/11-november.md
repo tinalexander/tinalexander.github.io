@@ -5,8 +5,8 @@ permalink: /2023/11
 
 <br>
 
-{: .important }
-Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+> [!IMPORTANT]
+> Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 <br>
 
