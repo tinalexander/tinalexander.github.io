@@ -1,17 +1,11 @@
 ---
 title: May 2023
-layout: minimal
-parent: 2023
-has_children: false
-has_toc: false
-nav_order: 5
 permalink: /2023/05
 ---
 
-<br>
+⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-{: .important }
-Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+<br>
 
 # 05/26/2023
 

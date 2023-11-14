@@ -1,17 +1,11 @@
 ---
 title: August 2022
-layout: minimal
-parent: 2022
-has_children: false
-has_toc: false
-nav_order: 8
 permalink: /2022/08
 ---
 
-<br>
+⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-{: .important }
-Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+<br>
 
 # 08/31/2022
 

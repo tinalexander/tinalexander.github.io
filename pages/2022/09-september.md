@@ -1,12 +1,9 @@
 ---
 title: September 2022
-layout: minimal
-parent: 2022
-has_children: false
-has_toc: false
-nav_order: 9
 permalink: /2022/09
 ---
+
+⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 <br>
 

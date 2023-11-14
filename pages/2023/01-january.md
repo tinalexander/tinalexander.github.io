@@ -1,17 +1,11 @@
 ---
 title: January 2023
-layout: minimal
-parent: 2023
-has_children: false
-has_toc: false
-nav_order: 1
 permalink: /2023/01
 ---
 
-<br>
+⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-{: .important }
-Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+<br>
 
 # 01/31/2023
 
