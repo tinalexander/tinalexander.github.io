@@ -19,7 +19,7 @@ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how t
 
 ## Valneva executives on FDA approval of chikungunya vaccine
 
-- **Source:** webcast by Valneva
+- **Source:** [webcast](https://valneva.com/events/analyst-call-u-s-fda-approval-of-chikungunya-vaccine-ixchiq/) by Valneva
 - **Date:** broadcasted November 13, 2023
 
 > Thomas Lingelbach, Valneva [00:22:37]
