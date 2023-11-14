@@ -1,0 +1,10 @@
+title: notes
+description: Notes gathered by Alexander Tin while reporting for CBS News.
+author: "Alexander Tin"
+email: TinA@CBSNews.com
+github_username: tinalexander
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
