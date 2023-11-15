@@ -40,6 +40,16 @@ permalink: /2023/11
 > 
 > ...
 > 
+> Xavier Becerra, HHS [00:04:52]
+> 
+> You should be able to get that vaccine without having to worry about cost. And that's why we stood up the Bridge Access program. More than a billion dollars. 
+> 
+> We got the commitment from the president to make sure he protected those COVID dollars during the sweep that Congress did, of some of our COVID funding. we made sure to keep some of that money, so we could reach out to those who were uninsured or underinsured. 
+> 
+> We made sure that we were protecting everyone from having to make payment. And so today we can continue to say that you'll have access to the COVID vaccine free either through your own private insurance, through other means that you have, or through this Bridge Access program, for those who otherwise can't afford it.
+> 
+> ...
+
 > Nirav Shah, CDC [00:17:35]
 > 
 > So the first place to go to look for a site that's participating in the Bridge program is Vaccines dot gov. 
