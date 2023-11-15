@@ -9,6 +9,59 @@ permalink: /2023/11
 
 # November 15, 2023
 
+## HHS officials on call with COVID-19 vaccine stakeholders
+
+- **Source:** webinar by Department of Health and Human Services
+- **Date:** broadcasted November 15, 2023
+
+> Xavier Becerra, HHS [00:02:15]
+> 
+> Big thanks to all of our team that's on this call because of the work that they're doing and that they continue to do with you all, and biggest thanks obviously to each and every one of you who have made this all work. 
+> 
+> The fact that today we can prepare for the holidays and most of us feel pretty safe, I hope you're still wearing mask when you need to, I hope you've gotten that updated vaccine, but for the most part, I think Americans feel like we're back to before we saw COVID and it ever existed in our lives, and we know what we need to do.
+> 
+> And those are the good aspects of all this work that we've done is we know what we can do to stay safe. 
+> 
+> And we thank you for making that a part of what you do every day and of your life.
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:03:00]
+> 
+> I should start by saying that I just got back from a cross country trip last night, DC to California, where I had my 90 year old mother with me.
+> 
+> I have responsibility, my three siblings and I, we take care of my mom. She lives here in my home and she traveled cross country with me.
+> 
+> Not easy traveling with a 90 year old, but we did it, and we were masked on the plane. 
+> 
+> There weren't many people masked, but we were, thank God. 
+> 
+> Actually, she's the one that brought out the mask first and reminded me because the last thing I need is for her going into Thanksgiving to have contracted COVID because it's someone on a plane or even perhaps me.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:17:35]
+> 
+> So the first place to go to look for a site that's participating in the Bridge program is Vaccines dot gov. 
+> 
+> But you can also go directly to the websites of say our pharmacy partners, Walgreens and CVS, and a lot of independent pharmacies via eTrueNorth, and you can go directly to Walgreens or CVS website, find a shot, and then make sure that they are open and they've got an appointment ready for you. Folks can then take advantage of the Bridge Access program that way. 
+> 
+> The Bridge Access program has been off to a strong start. As of this morning, close to 525,000 people have received their COVID shots just via the pharmacy channel in the Bridge Access program. Close to 525,000. So we're off to a strong start, but we've got to, as the secretary noted, we've got more work to do in front of us. 
+> 
+> ...
+> 
+> Stephen Cha, HHS [00:22:04]
+> 
+> Number one, COVID vaccines have been the backbone of our defense, saving millions of lives, keeping folks out of the hospital, giving us all a little bit of peace of mind. And along with tests and therapeutics, as well as the RSV and flu vaccines, we have the tools and systems we need to protect yourself, protect the ones you serve, and your employees. 
+> 
+> And in particular, right now, the reason we're having this call right now, as we head into this holiday season, when families will be gathering, we are continuing to encourage Americans, particularly older adults and people with disabilities, to get their COVID-19 vaccine, in addition to the annual flu shot and the RSV immunization. 
+> 
+> Now with the vaccine distribution, shifting to the private market, it's a lot different than it was last year.
+> 
+> HHS and all of our comments components such as CDC and CMS here today stand ready to partner with all of you. And we'll do all everything under our power and our resources to support this effort. 
+> 
+> But it just really underscores why we're doing this, that we need everyone to step up and do your part to get yourself vaccinated, get your teams vaccinated, and get the people you serve vaccinated. 
+
 ## CDC officials on COVID-19 recissions and Public Health AmeriCorps
 
 - **Source:** [meeting](https://www.cdc.gov/about/advisory-committee-director/meetings/index.html) of Centers for Disease Control and Prevention's Advisory Committee to the Director
