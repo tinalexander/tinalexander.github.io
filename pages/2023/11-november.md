@@ -7,6 +7,33 @@ permalink: /2023/11
 
 <br>
 
+# November 15, 2023
+
+## FDA official at Duke Margolis event on COVID-19 vaccines
+
+- **Source:** [webinar](https://healthpolicy.duke.edu/events/reimagining-our-shared-approach-fall-respiratory-virus-seasons-new-strategies-transmission) by Duke Margolis Center for Health Policy
+- **Date:** broadcasted November 14, 2023
+
+> Peter Marks, FDA [00:20:03]
+> 
+> I think we actually need to aim very high. I actually think that we are more likely to find vaccines that can reduce transmission, than we will be to find vaccines that are able to be pan SARS-CoV-2 viruses. 
+> 
+> In other words, I think it's more likely that we can find a vaccine that'll have 95 or 100% effectiveness against some number of strains, and potentially stop transmission or reduce it by at least 50 to 75%, which is probably what you would like to see if you, even by 50% would not be a bad thing at all. That's pretty good. 
+> 
+> But I think that's more likely than this kind of goal of trying to find something that's gonna cover every last coronavirus that comes up. It's just that biology's too smart. And the nucleic acid rearrangements that this virus can do will mean that we're probably going to still have to have strain updates, but being able to figure out how to make a vaccine that is able to reduce transmission and actually have that measurable effect, I think that is within our reach. 
+> 
+> ...
+> 
+> Peter Marks, FDA [00:21:34]
+> 
+> I think that one of the issues that we really lack are good assays for cellular immune response, and we can help from the government perspective in that regard. 
+> 
+> And then the private piece is that there are a lot of vaccines, very good vaccine developers interested in this space, but having each of them develop their own like tool, that's not going to actually help help everyone. 
+> 
+> And it's certainly not going to help a small company that might have a really great vaccine, that just doesn't have the wherewithal to spend the millions of dollars that it would take to actually get to the types of assays that are really needed here. 
+> 
+> We used humoral immune response during the COVID pandemic because it was the tool we had at hand. We went to the toolbox, that was the big hammer at the top. We took it out. We did not try to make a new hammer, or search for a ball pein hammer or something else. We just went with what we had.
+
 # November 14, 2023
 
 ## Rite Aid spokesperson on recalled eye drops
