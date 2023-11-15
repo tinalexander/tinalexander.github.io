@@ -50,6 +50,18 @@ permalink: /2023/11
 > 
 > ...
 > 
+> Stephen Cha, HHS [00:19:38]
+> 
+> A lot of you talked about partnerships, which I think is especially critical in this year. 
+> 
+> And I want to be clear, where a lot of this, the funding and the ability to promote is now moved out of HHS's hands into the private sector, those partnerships from all of you is gonna be even more critical this year. 
+> 
+> So partnerships across providers and pharmacies, with CDC and Dr. Shah and CDC have some limited advertisements launching. And I think they're hosting bunches of stakeholder engagements as we go, as well as partnerships with industry to promote that vaccine confidence.
+> 
+> Partnerships with community health centers and public health, including community clinics and community vaccination clinics were possible. 
+> 
+> ...
+> 
 > Stephen Cha, HHS [00:22:04]
 > 
 > Number one, COVID vaccines have been the backbone of our defense, saving millions of lives, keeping folks out of the hospital, giving us all a little bit of peace of mind. And along with tests and therapeutics, as well as the RSV and flu vaccines, we have the tools and systems we need to protect yourself, protect the ones you serve, and your employees. 
