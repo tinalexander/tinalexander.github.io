@@ -9,6 +9,83 @@ permalink: /2023/11
 
 # November 15, 2023
 
+## CDC officials on COVID-19 recissions and Public Health AmeriCorps
+
+- **Source:** [meeting](https://www.cdc.gov/about/advisory-committee-director/meetings/index.html) of Centers for Disease Control and Prevention's Advisory Committee to the Director
+- **Date:** broadcasted November 15, 2023
+
+> Sherri Berger, CDC [00:09:17]
+> 
+> I currently serve as a senior counselor. I've been at CDC for just over 27 years and I have one month left and I will be departing the agency. 
+> 
+> So, I was given the privilege to talk about my favorite subject here at CDC, which is the budget. 
+> 
+> I worked on the federal appropriations process for many years before serving as the chief operating officer.
+> 
+> ...
+> 
+> Sherri Berger, CDC [00:09:58]
+> 
+> So I was asked to talk about the COVID rescission, which is really driven by something called the fiscal responsibility act or the FRA, not to be confused with the IRA that was passed the year before.
+> 
+> This bill did result in a rescission or returning of COVID supplemental funding from CDC. 
+> 
+> Of course it was across the federal government, but I'm only going to talk about the funds that were provided to CDC. 
+> 
+> ...
+> 
+> Sherri Berger, CDC [00:10:28]
+> 
+> No, these funds did not address what had already been obligated. 
+> 
+> So if a state or local health department, a public health partner, had money in hand, even if they had not yet spent that money, meaning they hadn't actually used it, those dollars were not rescinded. 
+> 
+> What was rescinded is money, I would say, sitting at the government bank that had not yet been obligated. 
+> 
+> All of these dollars had plans, they just hadn't all been obligated. So in some instances it might have been a multi-year grant program and we were putting out, I don't know, let's just say hypothetically, 200 million a year for a disease intervention specialist program for tracking down STD cases to improve our workforce for contact tracing. 
+> 
+> So maybe we had a chance to award the first three years and we had not yet awarded the second two years. Those are the kinds of dollars that were rescinded. 
+> 
+> The other thing this bill did, that's not nothing to do with COVID, it actually put spending caps in place for the federal appropriations process. And I'll talk for a second about that at the very end. 
+> 
+> ...
+> 
+> Sherri Berger, CDC [00:13:19]
+> 
+> So here at CDC, this was the approach that we took once we received the final word, which was we had to make some tough decisions. 
+> 
+> We had to go back through all of our approved spend plans and figure out what needed to be stopped completely, where we might be able to do some of the work, but not all of it, and where we were able to potentially use other COVID dollars or base resources to continue our commitment. 
+> 
+> And that process took longer, I think, than many of our jurisdictions and partners had hoped. I think they expected we were going to have answers overnight. And they had been waiting for months for answers, but we did work through this process.
+> 
+> ...
+> 
+> Sherri Berger, CDC [00:14:19]
+> 
+> These are examples of programs that either ended completely due to a lack of funding, like the disease intervention specialists, or we had to scale them back, like the public health AmeriCorps. 
+> 
+> So I provided a list of these programs for you. I could explain a little bit about what some of them are. I think you'd probably be most familiar with the first bullet because that was in the press. 
+> 
+> The money that was to go to the jurisdictions to modernize, not to run these systems, but to modernize the systems was rescinded. 
+> 
+> The next two bullets are really about outreach and education about vaccines, to increase vaccination rates and to address some of our challenges around equity, and those dollars were rescinded. 
+> 
+> The next couple of bullets were really about our work overseas, building the capacity to do better surveillance and early detection of COVID around the world.
+> 
+> Disease and intervention specialists we talked about.
+> 
+> The laboratory data exchange program is really as exactly what it says. It's about improving our ability to get lab data from jurisdictions and labs around the country, and then public health AmeriCorps, which is near and dear to my heart. We were able to start with COVID dollars, but unfortunately after next year, there'll be no more funding for that program. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [01:12:32]
+> 
+> I do want to say one program I'm super excited about was built during the pandemic was working with AmeriCorps and building a public health AmeriCorps, which I think was really exciting. 
+> 
+> I think it builds on sort of the tenants of community health workers and using folks who are trusted in their community to be able to do the public health work that is needed. 
+> 
+> I think that's an exciting piece of work that we've been able to extend. But again, this is where within the confines of authority and funding, we'd love to be able to do even more there as we go forward. 
+
 ## FDA spokesperson on investigation of lead found in applesauce pouches
 
 - **Source:** email from FDA spokesperson
