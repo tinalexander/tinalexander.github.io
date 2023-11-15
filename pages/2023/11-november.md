@@ -9,6 +9,17 @@ permalink: /2023/11
 
 # November 15, 2023
 
+## FDA spokesperson on investigation of lead found in applesauce pouches
+
+- **Source:** email from FDA spokesperson
+- **Date:** received November 15, 2023
+
+> Attributable to the FDA, an FDA official or an FDA spokesperson:
+> 
+> The FDA takes patient privacy very seriously. Therefore, the FDA cannot disclose specific patient or health care provider information submitted with adverse event reports. To date, no deaths have been reported as being linked to this investigation. 
+> 
+> Unlike outbreaks of foodborne illnesses linked to pathogens, there is no national monitoring system established for monitoring toxic element exposure, so the FDA relies on self-reported information submitted by healthcare providers and consumers as an initial step as part of determining if a product is a potential shared source of exposure. These data are often imperfect and lack crucial details. Since this issue was first reported by state partners, the FDA has received additional reports of illnesses and is working to evaluate those complaints.  
+
 ## FDA official at Duke Margolis event on COVID-19 vaccines
 
 - **Source:** [webinar](https://healthpolicy.duke.edu/events/reimagining-our-shared-approach-fall-respiratory-virus-seasons-new-strategies-transmission) by Duke Margolis Center for Health Policy
