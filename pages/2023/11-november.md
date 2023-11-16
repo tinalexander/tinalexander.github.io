@@ -7,6 +7,15 @@ permalink: /2023/11
 
 <br>
 
+# November 16, 2023
+
+## CDC spokesperson explains RSV immunizations expedited for release
+
+- **Source:** email from David Daigle of the Centers for Disease Control and Prevention
+- **Date:** received November 16, 2023
+
+> CDC and FDA conveyed to the manufacturers the demand and the urgent need for additional doses. We explored options to get more nirsevimab into the market and were able to identify a batch that was awaiting final clearance and then worked with FDA to expedite processing.
+
 # November 15, 2023
 
 ## HHS officials on call with COVID-19 vaccine stakeholders
