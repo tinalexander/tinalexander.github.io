@@ -9,6 +9,85 @@ permalink: /2023/11
 
 # November 16, 2023
 
+## CDC officials on webinar about COVID-19 and RSV vaccinations
+
+- **Source:** webinar hosted by National Association of County and City Health Officials
+- **Date:** broadcasted November 16, 2023
+
+> Question [00:27:39]
+> 
+> The voucher process and requirement for patients for eTrueNorth pharmacies to access Bridge vaccine is a multi-step online process that introduces barriers for people who are not tech savvy or speak another language. 
+> 
+> Are there any plans to simplify the process?
+> 
+> Erin Abramsohn, CDC [00:27:58]
+> 
+> Absolutely. And that's not the first time-- I mean, I appreciate that question, not the first time that we've heard it.
+> 
+> We've talked it through with eTrueNorth a couple of times.
+> 
+> They do offer assistance with that program. They're aware that that does present barriers for individuals, some more than others. 
+> 
+> So they have a 1-800 number that people are able to call and they will walk through it and they will do it for the individual if they call and provide the information, eTrueNorth will walk them through it and provide, do the actual voucher for them. 
+> 
+> They have what they consider a workaround for that. Right now, I don't think there's a plan or an ability for them to change it on their side, but we are continuing to have that discussion with them. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:40:43]
+> 
+> Just to kind of highlight, again, that only the Pfizer vaccine is recommended for use in pregnant people. The Arexvy GSK vaccine is not approved or recommended in pregnant people. 
+> 
+> The reason I'm highlighting that is because we are starting to hear of administration errors where a pregnant person gets Arexvy instead of Abrysvo.
+> 
+> That vaccine is not licensed in pregnant people. So we're, in our messaging, we're really trying to emphasize when we talk about the maternal RSV to really specify which one we're talking about so that people go to pharmacies or other places and there's not-- that reduces the risk of administration errors. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:42:24]
+> 
+> I know people are aware, this is limited supply currently, particularly with the 100 milligram dose prefilled syringes, the shortage is a little more severe there. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:43:09]
+> 
+> The key points we're trying to emphasize is immunize now. RSV season is underway. We don't want people-- the common question we get is, should we save up some doses for those infants born later in the season? 
+> 
+> And our answer is no, use the doses you have on hand now, because this is a peak time for vulnerability, and we don't want to get to the end of the season and still have doses left that we could have used now. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:44:00]
+> 
+> People shouldn't give two doses of 50 to try to make up for a 100 milligram dose or to give a dose that would be 200 milligrams to another infant. 
+> 
+> Conversely, we don't recommend splitting doses, so taking a 100 milligrams and trying to create two 50 milligram doses out of that. 
+> 
+> Use the 50 milligram doses for their indication and the 100 milligrams for theirs. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:56:43]
+> 
+> We understand how frustrating this is, especially for the people on the front lines. 
+> 
+> I think there's a lot in flux and I think a lot of the borrowing flexibilities were meant to be helpful for this first season, especially just given all the implementation challenges that were anticipated before we even knew about the shortage. 
+> 
+> And I think, there came a realization that it's hard to have a borrowing policy if you have no doses to borrow. And so I think it's-- I think the intent of some of that communication was really trying to clarify and help it make sense for people, or give a clearer picture of where we're at. 
+> 
+> But just understand that it's frustrating and things have evolved a lot. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [00:58:47]
+> 
+> History of RSV disease shouldn't really be taken into account when making decisions about RSV immunizations and that's the vaccines, that's also the infant nirsevimab, in general.
+> 
+> We have gotten questions around if, in this setting of supply constraints of nirsevimab and a baby's just had RSV, and I think we've given some, use your judgment to prioritize, maybe that baby is not as high priority. 
+> 
+> But I think in general, we don't advise taking into account history of RSV infection when making vaccine decisions. We know that there's different strains, antibodies wane, there's many factors to determine your level of immunity to future infections and things like that. 
+
 ## CDC spokesperson explains RSV immunizations expedited for release
 
 - **Source:** email from David Daigle of the Centers for Disease Control and Prevention
