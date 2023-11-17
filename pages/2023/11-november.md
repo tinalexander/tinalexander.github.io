@@ -7,6 +7,43 @@ permalink: /2023/11
 
 <br>
 
+# November 17, 2023
+
+## FDA commissioner at meeting on data sharing
+
+- **Source:** [event](https://vivli.org/keynote-speakers-monica-bertagnolli-the-nci-director-and-robert-califf-fda-commissioner-to-present-at-the-vivli-meeting-at-the-national-academy-of-sciences-in-november/) hosted by Vivli
+- **Date:** occurred November 16, 2023
+
+> Robert Califf, FDA [00:40:35]
+> 
+> I, despite all my vaccinations, I've got a URI. I was really looking forward to spending some time with many old friends at this meeting, but probably best not to infect a bunch of people. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:54:28]
+> 
+> But in addition to the small crappy trials issue, I think there's an increasing, concerning issue of incursion of observational comparisons using real world data done outside of the sunlight that we've pushed so hard for in the structure regulated traditional clinical trials world. 
+> 
+> And more and more of this is being done by data aggregators who are not at all susceptible to the sunshine and who are informing health systems and others about the best course of actions and ways that affect patient care and decisions just as much as traditional clinical trials do. 
+> 
+> And right now we have no solution for that problem. And we're sort of at square one in that regard, they're not registered anywhere. 
+> 
+> So we're sort of where we were before clinical trials dot gov.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:57:54]
+> 
+> This is one that is very troubling, but I would guess that all of our institutions, for those of us that are in healthcare institutions of any kind are doing the same kind of thing in one way or another, this is the articles that STAT put out about United Health in the last couple of days where algorithms are being used to guide how long people stay in particular facilities, which would be a good use of data. 
+> 
+> But again, it's an example where it's not a randomized trial. It hasn't been done in the sunlight. The only reason these articles came out is that there were sort of whistle blowers in the organization. 
+> 
+> And again, I don't know how accurate the STAT articles are, but I certainly have seen many examples where the most common use of patient data in health systems is to figure out who you want to have in your system and who you'd rather move on somewhere else, being tailored to profitability. 
+> 
+> So, if we look at the future, of course, given what I've just said, I want to emphasize, again, a lot of progress in traditional clinical trials world. I think we're on a good course. What NIH is doing is fantastic.
+> 
+> But if we only look at what's under the lamppost, I'm very worried. 
+
 # November 16, 2023
 
 ## CDC officials on webinar about COVID-19 and RSV vaccinations
