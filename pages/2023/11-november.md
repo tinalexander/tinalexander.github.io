@@ -9,6 +9,395 @@ permalink: /2023/11
 
 # November 17, 2023
 
+## FDA committee meeting discussing Merck's gefapixant
+
+- **Source:** [meeting](https://www.youtube.com/watch?v=AXqoHojrIt4) of the Food and Drug Administration's Pulmonary-Allergy Drugs Advisory Committee
+- **Date:** broadcasted November 17, 2023
+
+> Lisa Bollinger, Merck [00:58:04]
+> 
+> RCC and UCC are serious diseases. Chronic cough has a prevalence of approximately 5% in the U.S. adult population and a subset of approximately 5 to 10% of those patients presenting for care have RCC UCC. 
+> 
+> Most patients are women over the age of 50, and these patients suffer a high disease burden with impact on their physical, social and psychological wellbeing. 
+> 
+> Female patients may have the added burden of cough induced stress urinary incontinence. 
+> 
+> There are no FDA approved treatments. 
+> 
+> ...
+> 
+> Lisa Bollinger, Merck [01:00:02]
+> 
+> In the intervening period, gefapixant was approved in Japan, Switzerland, and Europe. 
+> 
+> Merck has resubmitted the application and did that in June of 2023. 
+> 
+> ...
+> 
+> George Philip, Merck [01:26:55]
+> 
+> In their briefing document, FDA pointed to a potential relationship between taste AE reporting and efficacy measures, asking if this impacts the efficacy of gefapixant.
+> 
+> This is important to evaluate and Merck has looked carefully at the trial data. 
+> 
+> What we observe is that the data actually do not support that efficacy is driven by the tastes AEs.
+> 
+> In the phase two dose escalation trial, protocol 10, we explored doses from 7.5 to 200 milligrams.
+> 
+> ...
+> 
+> Lisa Bollinger, Merck [01:59:42]
+> 
+> In the gefapixant trials, the results were statistically significant for their original count and with the recount, the treatment effect was consistent with their original analyses. 
+> 
+> The magnitude of effect was a decrease in cough frequency of approximately 60% consistently observed across both phase two and phase three studies. 
+> 
+> There are no approved treatments for RCC UCC and no established treatment effect for products used off-label. 
+> 
+> We have conducted multiple responder analyses, and they all support the primary efficacy endpoint. 
+> 
+> We have even looked at increasing thresholds in these analyses, and they consistently show a greater effect for gefapixant over placebo. 
+> 
+> The onset of cough reduction with gefapixant occurs at least as early as our first assessment, at four weeks, with durability shown through 52 weeks. 
+> 
+> And the analysis of the patient reported outcome showed consistent improvement for patients and was statistically significant in protocol 30, the trial powered for this key secondary endpoint.
+> 
+> The safety of GEIX is well-characterized and tolerated by patients. The majority of patients stayed in the trials, despite the taste related adverse events.
+> 
+> Gefapixant is a first in class peripherally acting medication to treat RCC UCC offering patients a safe alternative to off-label treatments.
+> 
+> Based on the totality of data, and applying this framework, we conclude that the group differences are clinically meaningful.
+> 
+> ...
+> 
+> Rachel Bean, FDA [03:01:26]
+> 
+> We question whether these small treatment effects can be considered meaningful. 
+> 
+> Next, I would like to take this opportunity to summarize the clinical efficacy findings.
+> 
+> Across endpoints related to cough frequency or PROs patients improved whether they were treated with gefapixant or placebo. There was a small reduction in the primary endpoint of cough frequency relative to the large placebo response. 
+> 
+> The relative reduction in geometric mean ratio achieved marginal statistical significance in only one of the two pivotal trials, though the point estimates of the treatment effect are similar.
+> 
+> Because the primary endpoint summary measure is difficult to translate clinically we assess the median change in absolute cough frequency, and found that gefapixant yields a reduction of one to two coughs per hour, beyond the effective placebo. 
+> 
+> We conducted exploratory analyses to examine these effects on cough frequency. We analyzed correlation between the changing cough frequency and the PGIC score.
+> 
+> And we found that coughing less often did not correlate with feeling better since the start of treatment.
+> 
+> We conducted analyses in search of a subgroup of patients with increased responsiveness to gefapixant whom providers could identify in clinic and target for therapy. 
+> 
+> No such group was identified on subgroup analyses based on demographics and baseline disease characteristics. 
+> 
+> Evaluation of thresholds for reduction in cough frequency higher than 30% did not suggest a substantial benefit.
+> 
+> Given these results, it is unclear whether the defect detected effect of gefapixant beyond the large placebo response is meaningful or perceptible to patients. 
+> 
+> ...
+> 
+> George Philip, Merck [03:12:55]
+> 
+> We understand that gefapixant has a pharmacologic effect of efficacy, pharmacologic effect of taste AEs.
+> 
+> In order to tease apart, those effects, the best place to look is in the placebo group. So if we can call up the slide that shows the placebo group comparison with versus without a taste AE? I think that's the point of your question. Slide up. 
+> 
+> What we see in the slide is that patients with the taste related AEs did not have more benefit that patients without.
+> 
+> This shows a within group comparison of those patients with and without taste AEs in the placebo group, where the reduction from baseline at 52% and the patients without taste AEs was larger, actually, numerically than the reduction in the patients with the taste AEs. 
+> 
+> So clearly the hypothesis that somehow reporting a taste AE is driving efficacy is not evident when we look at the data in this comparison, that does not have the confounding of the dual pharmacologic effects. 
+> 
+> ...
+> 
+> George Philip, Merck [03:42:56]
+> 
+> In the placebo group, there was no evidence of greater efficacy present in those with the taste AE. 
+> 
+> We could expect however, these effects to travel together in the gefapixant group, slide up.
+> 
+> What we see is that the same metric that you saw with the placebo group now in gefapixant, improvement from baseline, if we can bring the slide up for the cough frequency, please, is numerically greater, slide up please, for gefapixant. 64% improvement from baseline versus 56% without a taste AE. 
+> 
+> So as expected a larger improvement from baseline, but if in fact reporting the taste AEs was having a substantial effect on efficacy, we might have expected perhaps even a larger contrast between these two subgroups. What we see here clearly is a difference, but one that is easily explained by the activity of the drug.
+> 
+> ...
+> 
+> Stacy Chin, FDA [03:55:14]
+> 
+> So both we and the applicant have looked into it. 
+> 
+> And how the both gefapixant and placebo group who did or did not have taste AEs responded on the various endpoints. 
+> 
+> And our takeaway is that it it's an unquantifiable uncertainty. We just do not know how that may have impacted potential unblinding or bias in this study. 
+> 
+> And in our mind, it takes on more importance because the treatment effect size is rather small between the placebo and gefapixant groups.
+> 
+> ...
+> 
+> Jaclyn Smith, University of Manchester (via Merck) [04:01:01]\
+> 
+> So the way we understand the placebo effects in these studies, a great deal of it comes from other therapeutic areas, but there is some evidence in cough as well. Slide up, please. Thank you. 
+> 
+> So the placebo effect, as we understand it is, is multifactorial. And there are probably three main things to mention. 
+> 
+> There is some non-specific factors about being in clinical trials that improve patient symptoms, but the other two main ones that we think are important here that may have increased between phase two and phase three, are the expectations of the patients and regression to the mean. 
+> 
+> So what we know about the neuron pathways that mediate cough, include the central nervous system, both cortical and sub subcortical areas. And we have evidence in patients and in healthy controls that there are descending inhibitory pathways present in this patient group and even in a healthy cough reflex, which are capable of inhibiting cough in response to cognitive processes, such as expectation. 
+> 
+> And I understand the concern that these patients have been coughing for 10 years, and not responded to previous other treatments. But I think we have to put this in context in the patients were enrolled to these studies, with the knowledge that previous trials had shown positive findings in patients just like them, who hadn't responded to previous therapies. 
+> 
+> So I think the level of expectation here that here's the first therapy that is gonna work for your refractory unexplained, chronic cough did have an effect here.
+> 
+> And then the last thing that I think I should mention is regression to the mean.
+> 
+> The patients recruited into the phase three studies had a greater severity of their cough compared to the phase two B. So on the cough severity of visual analog scale, their severity was approximately scored at approximately 70 millimeters. 
+> 
+> And so that increases the possibility of some of the placebo-- some of the effects we see in the placebo treated arm being due to regression of the mean.
+> 
+> ...
+> 
+> Paula Carvalho, PADAC [06:55:05]
+> 
+> I think everybody agrees that, that this is a huge unmet need, and everybody understands the complete discomfort that these patients have and how this can be so detrimental in life changing for them. 
+> 
+> We again-- we're a little bit of uncharted territory, because we don't have prior experience with the interpretation of these kinds of results. We don't have a good precedent for endpoints.
+> 
+> And we are hearing loud and clear that endpoints do need to be rethought and reconsidered. 
+> 
+> There's concern about the small effect on the cough reduction. And there's been quite a bit of discussion back and forth about the PROs and the cough reduction, but that is an issue. 
+> 
+> Finding the right endpoint does need to be reconsidered. There's a very small, absolute difference in the mean median coughs per hour.
+> 
+> ...
+> 
+> Mark Courey, PADAC [07:34:39]
+> 
+> I wish I could have voted yes, but the balance of the literature suggests that patients with chronic nonspecific cough will have a response to treatment up to 50%, regardless of the type of treatment you give them.
+> 
+> You have a group of motivated patients who want to participate in a study trial, and they go through all of the pains, I don't think-- and you have a 57% response rate among the patients on placebo, the subjects on placebo, and a 63% response rate, and the patients on drugs. 
+> 
+> I don't think that is a significantly big change over what's to be expected. 
+> 
+> In addition, two thirds of the patients on medication had some sense that they were on the medication, so that would affect their expression of cough symptom severity or in frequency and their reports on the patient reported outcome measures. 
+> 
+> Given all of that, I don't think the level of evidence supports that the drug makes a significant difference. 
+> 
+> It's unfortunate. I am concerned that if the drug is readily available, it could lead to a delay in diagnosis of other things, other illnesses, because cough is-- while it can be very debilitating, is a symptom, not a disease in and of itself. 
+> 
+> And so I think this would delay the evaluation of the patients for other diseases. It could be potentially harmful that way. 
+> 
+> We need a more objective measure of cough frequency and severity. 
+> 
+> ...
+> 
+> Paula Carvalho, PADAC [07:37:21]
+> 
+> I also voted no, and I very much had wanted to vote yes. 
+> 
+> And, I agree with other comments the panel members have made including how huge of a burden of disease this is and how really we do need to keep trying.
+> 
+> Getting some endpoints, getting perhaps different timings, perhaps tying the result of different symptoms as Dr. Courey mentioned with cough and urinary incontinence, and keeping on with trying to find a solution for these patients, because this is going to be hugely important. 
+> 
+> ...
+> 
+> Leonard Bacharier, PADAC [07:38:13]
+> 
+> I similarly voted no, despite my wish to have been more positive.
+> 
+> I was largely influenced by the inconsistency in the primary outcome after the validation of the primary outcome capture system led the second trial to not meet nominal significance.
+> 
+> I think we're really at a loss for what an outcome really would compel us that an agent in this condition made our patients meaningfully and predictably better. 
+> 
+> As mentioned, I think the risk profile on the patient level is actually pretty low. I think the-- I wasn't terribly concerned about the risk of unblinding because I don't think that was the driver here. 
+> 
+> I think the driver of all we saw here was a very robust placebo effect amongst a group of highly motivated patients, more so than anything else. 
+> 
+> You know, I think that the issue here really is studying these not quite orphan conditions, but these conditions that don't have robust pre-established outcomes. And I applaud the sponsors for doing their very best to try to get at this. 
+> 
+> But I think we need a better outcome measure that I think more completely captures what we've heard throughout the day about the various aspects of this disease. And I'm not sure I know what that is, but I do have a sense that this discussion should have shind some light on where the sort of clinically meaningful aspects might be. 
+> 
+> And I think further work to further refine those and then study those is important. 
+> 
+> You know, my heart goes out to this patient population who remain in hope for a therapy that would make a difference, but I am just concerned that we don't want to be providing just hope, we want to be providing predictably effective pharmacologics that are likely to make meaningful differences. 
+> 
+> And I am like many of the group concerned that the magnitude of effect, in given all the other factors was just less than would've been more compelling. 
+> 
+> ...
+> 
+> Brian Garibaldi, PADAC [07:41:15]
+> 
+> I too voted no. 
+> 
+> And I think really what it came down to for me was, you know, there was a small benefit with some uncertainty as to the cause of that benefit. 
+> 
+> I think we've recognized that the PRO tools in particular we have are imperfect and probably need to have better anchors. 
+> 
+> I think is as Dr. Bacharier and Dr. Courey mentioned, you know, we do need to have better markers of efficacy just beyond mean or median cough per hour percent change in frequency of cough. 
+> 
+> And I think my hope is from the data that's already been presented and from the validation of being able to quantify cough that some of that data may already be available to try to better align with PROs and really come up with a better assessment of what's what's actually happening in terms of changes, and not just frequency of cough, but character durations vary in ways that may be quantifiable, that can get around the placebo effect that we saw. 
+> 
+> I struggled also with the fact that almost 70% of patients probably knew they were having a side effect that happens very commonly in patients on drug that happens in many patients within two days of taking the drug. And I think that makes it really hard to know exactly what's driving that small difference between the placebo group and the folks who got drug. 
+> 
+> And again I, when we were thinking about risk benefit, I think we would all agree that this is, if you set out to design a drug that was going to be efficacious in this disease, you'd want to have-- you'd hope for a much more robust effect in above and beyond what you get from the placebo effect. 
+> 
+> And, I know we didn't get that here and, and trying to kind of manage that disappointment and really balance what the true effect is versus the small risk profile, I think that was really challenging. 
+> 
+> So this-- I wanted to vote yes, for a number of reasons that already been discussed, but I think right now the, the data is not where I feel that this should be something widely available and used for patients with this chronic and debilitating condition.
+> 
+> ...
+> 
+> Nicole Hamblett, PADAC [07:43:37]
+> 
+> I also voted no, for three primary reasons, one being the overall small clinically or small meaningful effect, with the cough frequency. 
+> 
+> Second was the lack of consensus between the sponsor and the agency regarding the meaningful of the PROs. 
+> 
+> And then third, just the inability to conclude that the small differences aren't due to the unblinding. 
+> 
+> I think when we think ahead, in terms of what data do we need, I think as long as we have a study drug that is at risk for potential unblinding, then we need designs and we need endpoints that are robust to that. 
+> 
+> Maybe it's taste matching. If that's not feasible, then we really do need to invest in more objective endpoints. 
+> 
+> I think the PROs are extremely important, but when there's that risk of unblinding, we're also going to need to invest in those objective endpoints I think Dr Courey mentioned. Is there an objective measure of incontinence and so forth? 
+> 
+> And I'd also like to see, moving towards consensus on the meaningfulness of the PROs, if it's not these PROs, is there another fit for purpose PRO that needs to be developed specifically for this population? 
+> 
+> But lastly, I just want to conclude in that, it is very disappointing to vote no, however, I just want to speak to the value of these trials and to everyone who participated in them, because I do feel like they provide a roadmap for how we are going to develop these therapies moving forward. 
+> 
+> So thank you to our community that participated in these trials.
+> 
+> ...
+> 
+> Cheryl Coon, PADAC [07:45:27]
+> 
+> I wish that these trials showed that this is the therapy that patients are desperately waiting for, but I also had to vote no.
+> 
+> Only one of the two adequate and well controlled trials achieved statistical significance on its primary endpoint. And the effects appear to be fall. 
+> 
+> Small effects can certainly be meaningful, but there is an absence of data indicating so.
+> 
+> I appreciate what the committee's patient representative said in the discussion around question number one, that a small benefit can make a big difference in the quality of life to patients. I absolutely agree with that. 
+> 
+> And unfortunately that's where the evidence is lacking. 
+> 
+> So regarding the evidence that could be collected to show a benefit is clinically meaningful, in an ideal world, I'd like to see interviews done with the individuals who have the experience on the therapy to understand if the changes that they experienced in the cough frequency and in other outcomes were meaningful to them and how so.
+> 
+> Putting it into kind of that metric of how is this impacting your daily life? Are you able to get back to the things that you've had to give up, given your chronic cough condition?
+> 
+> In these interviews, you could also gain an understanding of what changes are meaningful on the PGIS and PGIC to inform anchor based analyses and to help inform that discussion in the future between the sponsors and FDA. 
+> 
+> And then there could also be gaining an understanding the impact of in this case taste related disturbances and how tolerable the treatment would be considered in a long term setting.
+> 
+> ...
+> 
+> Jennifer Schwartzott, PADAC [07:47:10]
+> 
+> I voted, yes, but I will admit I was greatly on the fence, and I was really wishing there were other options. 
+> 
+> I am a patient, so I have a different viewpoint than everyone else, but I've been debating to myself what level of effectiveness does-- should a medication have to recommend it to go to market.
+> 
+> With this drug, any reduction of cough symptoms for many patients would be worthwhile to them as long as the risk is low, which I felt that it was. 
+> 
+> So, I wanted to give the patients a chance to have-- give them something that could potentially work at least a little bit until the perfect drug comes along, which hopefully won't be that far from now. 
+> 
+> But I also felt that the medication would need much further study, which is why I was on the fence about voting yes. 
+> 
+> And it needs follow up. It needs-- the protocols need more definition as we've discussed. 
+> 
+> I hope that the company and other companies are going to see the benefit of this and see the need and continue to work to help these patients because they deserve a cure or at least a treatment and sooner rather than later.
+> 
+> ...
+> 
+> Edwin Kim, PADAC [07:49:06]
+> 
+> I voted no. It seemed that participants-- my rationale is that it seemed that participating in the clinical trial provided a benefit, but specifically reading the question of does the evidence demonstrate that gefapixant provides the benefit, and that's where I get stuck.
+> 
+> With the large placebo effect, It's hard to differentiate how much effect that the medication itself provided. Similarly, the PROs there might be some benefit, but it seemed to be similar in the placebo as well as in the actual treatment group. And so not being able to differentiate a compelling difference from the treatment from placebo is why I voted no.
+> 
+> Moving forward, that would be sort of the recommendation, is there a way to separate out the placebo effect from the treatment itself, whether that might be in a clinical trial design? 
+> 
+> I'm not sure if some sort of crossover design or something like that might be able to tease out placebo versus an actual medication effect or specifically there's been discussion about outcomes. And in my mind, I do wonder if going back to actually how the medication is supposed to work. 
+> 
+> So it's supposed to suppress cough. And so I wonder if outcomes could be more built around that. And so perhaps could there be a type of study or outcome that is actually measuring response to triggers? 
+> 
+> So, many of the patients describe certain situations triggers, whether it's perfume, dust, things along those lines that would reliably trigger cough. 
+> 
+> And so perhaps that would be a way to really demonstrate that the medication itself more than a placebo effect, the medication itself is actually making a difference in decreasing that frequency of cough. And then perhaps there could further correlates to sort of the other quality of life type metrics.
+> 
+> ...
+> 
+> Matthew Rank, PADAC [07:50:59]
+> 
+> I voted no. I want to thank everybody for excellent presentations, particularly the patients who spoke at the open public forum. 
+> 
+> My vote is driven by the small and uncertain benefit of the intervention relative to the placebo, the overall small effect size, the uncertainty and consistency across both the primary outcomes across pivotal trials, as well as the uncertainty about the PROs.
+> 
+> Moving forward, I had similar thoughts that similar thoughts to what Dr. Kim had articulated just before me, that very, very large placebo response, I think, is something that needs to be understood. 
+> 
+> And I think study design perhaps run in, perhaps cross, there may be some ways to either exclude people who are likely to have a large placebo effect and then narrow down the patient selection where you're getting people who have potentially the benefit from a drug like this or other future drugs, and be able to measure that more clearly.
+> 
+> ...
+> 
+> Emma D'Agostino, PADAC [07:52:14]
+> 
+> I voted no, for all the reasons that we've heard, the small decrease in both the objective and subjective measures were really what drove my vote, particularly when considering the responses paired with the high placebo response, just were not enough to me to demonstrate clinical meaningfulness.I
+> 
+> meaningfulness.I also was really thinking about the two thirds or so patients that experienced taste AEs. And even though I absolutely agree that the drug would be safe, with the 20% dropout rate in the trial, I'm not sure how that would really translate to use in the clinic, if you have a drug with a pretty small benefit and what appears to be a real tolerability issue.
+> 
+> And then moving forward, as we've heard from others, I think really thinking about rethinking the end points to capture what's most meaningful to patients. So rethinking that cough frequency, maybe instead of-- instead of looking at overall frequency, through 24 hours looking at cough clusters, something to really capture the most meaningful minimizations of cough. 
+> 
+> And then, I agree that taking a closer look at urinary incontinence, I think in the sponsor document, the sponsor briefing that we had, sorry, in the FDA briefing that we had, we saw language that there was a little bit of skepticism in the use of urinary incontinence as an outcome specific to cough. 
+> 
+> But I do want to just put it out there that as someone with a different cough condition, I would assert that if we saw a reduction in cough specifically, I would absolutely expect to see a reduction in urinary incontinence. 
+> 
+> So I would put that as a highly meaningful endpoint, especially given what we heard from the patients today.
+> 
+> And then one other piece that we didn't talk about at all today, but that I was struck by just reading all the data, was we had 52 week endpoints for all of the PROs, but not any of the objective endpoints. So it would've been nice, especially for the 027 seven study, to see objective data beyond 12 weeks, which of course we can't go back and redo, but I would've loved to have seen some durability beyond 12 weeks. 
+> 
+> I think that was everything that I was thinking about.
+> 
+> ...
+> 
+> Scott Evans, PADAC [07:55:00]
+> 
+> I voted no. 
+> 
+> I am surprised at the outcome of the vote and how dramatic it is considering how much I struggled with this vote. 
+> 
+> I do think that the count data is likely valid. And I do think this agent likely does something. But at the end of the day, I struggled with the small effect size relative to the placebo effect and the apparent lack of correlation, at least clear correlation, with the PROs. That's what drove my vote. 
+> 
+> I am a pulmonary clinician. I see patients with chronic cough. I understand the need. I am sympathetic to the folks that presented today. 
+> 
+> But I do want to be careful didn't resist my own urge to think that something's better than nothing, because I think we are establishing precedents here. 
+> 
+> And if we adopt the wrong markers and outcomes, I think we actually may limit our ability to identify the best drug. 
+> 
+> ...
+> 
+> Sally Hunsberger, PADAC [07:56:19]
+> 
+> So I-- everything that's been said, I totally agree with, so I will just go rapidly through.
+> 
+> I just want to thank the sponsor for doing this study. I think all of them were, were really well designed studies. Unfortunately, the placebo effect was so large that it made it difficult to really be able to interpret the data. 
+> 
+> I appreciate the speakers and it really helped me to understand the so and the FDA's report I think was really helpful. 
+> 
+> So, I think, the science here is really strong. I hope that this no vote doesn't discourage the continued search for treatments for this population. So I-- and I do think that what we need is better endpoints that better match what the public speakers said were the issues. And maybe then we will be able to see and effect. 
+> 
+> ...
+> 
+> John Kelso, PADAC [07:57:23]
+> 
+> I voted no, because the pre-specified primary endpoint was achieved in only one of the two studies, because the absolute treatment effect, the difference in cough counts was so small that it is likely not of clinical significance. 
+> 
+> And in terms of trying to assess that clinical significance, I found the patient global impression of change data to be most relevant, where there was a virtual overlap between treatment and placebo. So it appeared that the patient's assessment was in fact that there that there really was no difference in getting the drug versus the placebo about whether their impression was if they had had an improvement in their cough, which then casts down on tiny absolute measured difference. 
+> 
+> I think that the comments that have been made about other parameters that might be studied going forward are all appropriate, but I also think that had this drug been more effective, we would've seen it in the data that was selected. 
+> 
+> So I think the right kind of data is being collected in terms of counting coughs and patient cough, the patient reported outcomes in terms of these cough scales and whatnot.
+> 
+> So I think if this medication had been more effective, it would've also been more apparent even in the data that was collected in this study.
+
 ## FDA commissioner at meeting on data sharing
 
 - **Source:** [event](https://vivli.org/keynote-speakers-monica-bertagnolli-the-nci-director-and-robert-califf-fda-commissioner-to-present-at-the-vivli-meeting-at-the-national-academy-of-sciences-in-november/) hosted by Vivli
