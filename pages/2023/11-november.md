@@ -20,13 +20,13 @@ permalink: /2023/11
 > 
 > The screening of imports for adulterated cinnamon is part of our ongoing investigation of and response to the elevated lead levels in cinnamon applesauce pouches. As a matter of policy, the FDA generally does not pre-announce investigatory actions. The FDA encourages manufacturers that import cinnamon and products that contain cinnamon to implement necessary preventive controls to ensure their products do not contain elevated levels of lead and to take the necessary steps to ensure their suppliers also adhere to the same safety standards. 
 > 
-**2. Have all cinnamon-containing pouches tested by FDA in the investigation contained the high lead levels, or just some?**  
+> **2. Have all cinnamon-containing pouches tested by FDA in the investigation contained the high lead levels, or just some?**  
 > 
 > The FDA collected and tested a finished product sample of recalled WanaBana Apple Cinnamon Puree from Dollar Tree and detected elevated levels of lead. The level detected in the FDA sample of WanaBana apple cinnamon puree is 2.18 parts per million (ppm), which, for context, is more than 200 times greater than the action level the FDA has proposed in draft guidance for fruit purees and similar products intended for babies and young children.  
 > 
 > Most children have no obvious immediate symptoms of lead exposure. If there’s suspicion that a child may have been exposed to lead, parents should talk to their child’s healthcare provider about getting a blood test.  
 > 
-**3.       CDC previously said reported cases were ages 1 to 3 years. Is that still the case for the current 34 adverse events now reported?  **
+> **3. CDC previously said reported cases were ages 1 to 3 years. Is that still the case for the current 34 adverse events now reported?**
 > 
 > The aggregate information collected from consumer complaints and CFSAN Adverse Event Reporting System (CAERS) reports submitted to the FDA indicates that most patients fall between 1-4 years of age. 
 > 
