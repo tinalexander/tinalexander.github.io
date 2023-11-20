@@ -7,6 +7,28 @@ permalink: /2023/11
 
 <br>
 
+# November 20, 2023
+
+> Attributable to the FDA, an FDA official or an FDA spokesperson :
+
+**1. What countries is FDA screening incoming shipments of cinnamon from?**
+
+> The screening of imports for adulterated cinnamon is part of our ongoing investigation of and response to the elevated lead levels in cinnamon applesauce pouches. As a matter of policy, the FDA generally does not pre-announce investigatory actions. The FDA encourages manufacturers that import cinnamon and products that contain cinnamon to implement necessary preventive controls to ensure their products do not contain elevated levels of lead and to take the necessary steps to ensure their suppliers also adhere to the same safety standards. 
+
+**2. Have all cinnamon-containing pouches tested by FDA in the investigation contained the high lead levels, or just some?**  
+
+> The FDA collected and tested a finished product sample of recalled WanaBana Apple Cinnamon Puree from Dollar Tree and detected elevated levels of lead. The level detected in the FDA sample of WanaBana apple cinnamon puree is 2.18 parts per million (ppm), which, for context, is more than 200 times greater than the action level the FDA has proposed in draft guidance for fruit purees and similar products intended for babies and young children.  
+> 
+> Most children have no obvious immediate symptoms of lead exposure. If there’s suspicion that a child may have been exposed to lead, parents should talk to their child’s healthcare provider about getting a blood test.  
+
+**3.       CDC previously said reported cases were ages 1 to 3 years. Is that still the case for the current 34 adverse events now reported?  **
+
+> The aggregate information collected from consumer complaints and CFSAN Adverse Event Reporting System (CAERS) reports submitted to the FDA indicates that most patients fall between 1-4 years of age. 
+> 
+> Most children have no obvious immediate symptoms of lead exposure. If there’s suspicion that a child may have been exposed to lead, parents should talk to their child’s healthcare provider about getting a blood test.  
+> 
+> As a reminder, unlike outbreaks of foodborne illnesses that are genetically linked to pathogens, there is no method to link exposure to heavy metals to a specific source, which can make establishing a causal relationship difficult. The FDA relies on self-reported information submitted by healthcare providers and consumers as an initial step in determining if a product is a potential shared source of exposure. These data are often imperfect and lack crucial details. 
+
 # November 17, 2023
 
 ## FDA committee meeting discussing Merck's gefapixant
