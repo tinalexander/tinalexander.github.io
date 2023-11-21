@@ -7,6 +7,15 @@ permalink: /2023/11
 
 <br>
 
+# November 21, 2023
+
+## Dollar Tree spokesperson on recalled applesauce pouches
+
+- **Source**: email from a company spokesperson
+- **Date:** received November 21, 2023
+
+> Dollar Tree removed WanaBana Apple Cinnamon Fruit Purée pouches from store shelves and locked its registers to prevent sale due to a voluntary recall initiated by WanaBana USA. We are committed to the safety and integrity of the products we sell. If customers have this recalled product, they are advised to stop using it immediately and return it to the place of purchase for a full refund.
+
 # November 20, 2023
 
 ## FDA spokesperson on recalled applesauce pouches with lead
