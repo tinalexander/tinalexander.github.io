@@ -11,7 +11,7 @@ permalink: /2023/11
 
 ## New Jersey health department on tianeptine poisonings
 
-- **Source:** email from Dayla Ewais of New Jersey Department of Health
+- **Source:** email from Dalya Ewais of New Jersey Department of Health
 - **Date:** received November 22, 2023
 
 > **Were the tianeptine supplements sold in NJ gas stations branded only as "Neptune's Fix" or other brands as well?**
