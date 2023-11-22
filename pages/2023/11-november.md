@@ -9,7 +9,14 @@ permalink: /2023/11
 
 # November 22, 2023
 
-## New Jersey health department on tianeptine poisonings
+## Vermont's health department on tianeptine overdose
+
+- **Source:** email from Ben Truman of Vermont Department of Health
+- **Date:** received November 22, 2023
+
+> I can confirm there has been one death, an accidental overdose, that involved tianeptine. To my knowledge this is the only tianeptine-related death in 2023.  I do not have any information about the brand.
+
+## New Jersey's health department on tianeptine poisonings
 
 - **Source:** email from Dalya Ewais of New Jersey Department of Health
 - **Date:** received November 22, 2023
