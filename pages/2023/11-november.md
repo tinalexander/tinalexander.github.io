@@ -14,11 +14,11 @@ permalink: /2023/11
 - **Source:** email from Dayla Ewais of New Jersey Department of Health
 - **Date:** received November 22, 2023
 
-> Were the tianeptine supplements sold in NJ gas stations branded only as "Neptune's Fix" or other brands as well?
+> **Were the tianeptine supplements sold in NJ gas stations branded only as "Neptune's Fix" or other brands as well?**
 > 
 > More than half of the reported poisonings were attributed to products sold under the name “Neptune’s Fix;” one was reported as “Pegasus Silver.” The remaining cases did not report specific brands. The products were purchased at gas stations, a deli, a vape shop, a tobacco shop, convenience stores, and online. However, gas stations remain the most commonly reported location of purchase.
 > 
-> How many total poisonings has NJ identified related to this brand?
+> **How many total poisonings has NJ identified related to this brand?**
 > 
 > Between 6/17/23 and 11/19/23, the NJ Poison Control Center, NJPIES, received 23 total calls regarding tianeptine exposures in New Jersey.
 
