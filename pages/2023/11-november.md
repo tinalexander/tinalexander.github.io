@@ -7,6 +7,15 @@ permalink: /2023/11
 
 <br>
 
+# November 27, 2023
+
+## CDC spokesperson on JN.1's prevalence in the U.S.
+
+- **Source:** email from Jasmine Reed of the Centers for Disease Control and Prevention
+- **Date:** received November 27, 2023
+
+> Since CDC’s first post on BA.2.86 in August 2023, the proportion of infections caused by BA.2.86 has slowly increased. In the CDC Nowcast posted Nov. 27, 2023, BA.2.86 is projected to account for 5-15% of currently circulating variants. Currently, JN.1 is the most common version of BA.2.86 in the U.S. CDC projects BA.2.86 and its offshoots like JN.1 will continue to increase as a proportion of SARS-CoV-2 genomic sequences. At this time, BA.2.86 does not appear to be driving increases in infections or hospitalizations in the United States. 
+
 # November 22, 2023
 
 ## Vermont's health department on tianeptine overdose
