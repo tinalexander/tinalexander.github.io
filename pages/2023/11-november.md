@@ -7,6 +7,113 @@ permalink: /2023/11
 
 <br>
 
+# November 28, 2023
+
+## CDC officials on respiratory virus season guidance
+
+- **Source:** webinar with state and local health departments
+- **Date:** broadcasted November 27, 2023
+
+> Brendan Jackson, CDC [00:10:07]
+> 
+> RSV is really in full swing, especially across the south. It may even hopefully be peaking in parts of the south, but very high, and then hitting the rest of the country. 
+> 
+> Flu is very much on its way up the south, again, leading the way except for Puerto Rico and Alaska who were ahead before, and now, but the rest of the country is starting to catch up. 
+> 
+> And then COVID is sort of a mixed bag, it's increasing overall. And, I'll show you some specific data there. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:11:07]
+> 
+> This is the map of this is the combined chart of flu, COVID, and RSV trends in emergency department visits through NSSP. This is actually like ED coded visits with these three pathogens. 
+> 
+> So the overall line is definitely increasing. 
+> 
+> We're well below where we were at this time last year, because it was such an early season last year, but we're very much on the upswing with flu just getting started, RSV underway, and you can see COVID kind of ticking along right there and there's differences by area. 
+> 
+> The Midwest seems to be having a bit more of an increase, as of late, but it's still kind of still kind of wobbly for now, similar kind of chart for percent positivity, where you see RSV and flu really taking off there in particular. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:15:59]
+> 
+> This new variant BA.2.86 just appeared on our Nowcast today for the first time.
+> 
+> Now we've been tracking this thing since August. We were sort of worried when it first came out. What does this mean? It's so different.
+> 
+> So far, it's not meant a whole lot. It's not a surprise that it showed up on our Nowcast finally, it just finally got common enough to be there. And we just were providing that context to say, "hey, it's here. And here's what you need to know. And we agree with the WHO assessment, which we contributed to that the public health risk based on available data seems to be low for both this variant and JN.1, another one that people are following." 
+> 
+> So when it comes to, you're going to see headlines probably in the next 24 hours saying new COVID variant, what does it mean for you? Not a whole lot at this point. 
+> 
+> It may become the dominant variant of these. It, chances are, it probably will given the growth rate, but it does not seem to be a game changer. Something always becomes dominant. 
+> 
+> ...
+> 
+> Kevin Chatham Stephens, CDC [00:24:32]
+> 
+> With the end of the PHE, that limited our ability to receive complete COVID 19 vaccine administration data. 
+> 
+> And so now survey data are the primary source of data for tracking vaccination coverage for COVID 19, RSV, and flu, and we'll be incorporating additional data sources such as healthcare claims data to provide additional insight and help kind of sketch out the rest of the vaccine coverage landscape. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:33:30]
+> 
+> There was a lot of talk and many of you participated in some of those discussions over earlier in the year. 
+> 
+> Should we move away from those COVID levels or just something different? 
+> 
+> In the end, we are where we are, where you-- we still have to-- so the COVID community levels went away just because they were dependent on cases and the national case data went away in terms of ability to track that effectively, nationally. 
+> 
+> But it turned out that the hospitalization levels were driving almost all of that. And so we just pivoted that same guidance to COVID hospital admission levels.
+> 
+> Got the link to that in the chat here. 
+> 
+> And actually just, there's been a lot of questions over this fall, too, about 'is CDC going to be changing guidance related to COVID? Are we moving more to a pan respiratory approach?' 
+> 
+> It's not something that ended up happening for this fall. Definitely still being considered for the future, no specific timeline or anything like that, I'm sure there'll be lots of outreach if that happens, well before that anything happens. 
+> 
+> So again, nothing changing right now. Those COVID hospital admission levels is really where we're at. 
+> 
+> And, just as a reminder, you know, the bar to get to those levels is pretty high, understanding it does just include COVID, it doesn't account for flu and RSV. So we understand that jurisdictions, if they're seeing strain in their own areas, they may need to-- they may want to make different choices than that, but this is at least the floor saying, 'Hey, if we get to this point, we really do recommend, uh, more masking out there.'
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:35:06]
+> 
+> On the isolation and quarantine, there is not anything immediately in the works right now. 
+> 
+> We know there's been a ton of questions, but it's just not something being updated right now. 
+> 
+> And we're talking in the community. 
+> 
+> ...
+> 
+> Question [00:39:32]
+> 
+> People are wondering if there's going to continue to be a recommendation for gowns, for care of patients with COVID 19, or if there's going to be a move to more droplet and standard infection control like they have for flu. Can you comment on that?
+> 
+> Heather Jones, CDC [00:39:51]
+> 
+> I can. Thank you, Chris. And thank you for that good question. 
+> 
+> At this time we do not have any planned updates right now.
+> 
+> We are still recommending the same PPE for COVID 19, and I'll share in the chat a very easy simplified kind of directional tool from Project First Line that you can share with your partners. And it's really easy and informative of what PPE has recommended for COVID 19.
+> 
+> ...
+> 
+> Heather Jones, CDC [00:41:41]
+> 
+> Earlier we did look at community transmission, hospitalizations, but we've now kind of pivoted to allow the facilities to determine if, not only based on what you're seeing in your community and in your facility, but also what type of patients or residents are you caring for. 
+> 
+> So do you care for those that have-- are more immunocompromised? If you do, you may consider having everyone to use source control and not only for COVID 19, the link that I shared is for COVID 19, but as far as masking, that's universal for the respiratory virus season. 
+> 
+> So I recommend that they look at this link for the most updated. 
+> 
+> The last major update was in May of 2023. And at this time there are no anticipated changes to those recommendations, but we do continue to ask for you to share with those facilities about using a risk assessment, so they understand what kind of patients and residents that they're caring for.
+
 # November 27, 2023
 
 ## CDC spokesperson on JN.1's prevalence in the U.S.
