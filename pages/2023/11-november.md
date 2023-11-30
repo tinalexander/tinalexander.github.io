@@ -28,6 +28,12 @@ permalink: /2023/11
 >
 > ...
 > 
+> Mandy Cohen, CDC [10:47:22]
+> 
+> Not a novel virus. Again, we have been in close touch with our counterparts in China, and that information has been corroborated with other counterparts across the U.S. government, but also with our European Union partners as well. So we feel confident that that information has been corroborated.
+> 
+> ...
+> 
 > Rep Brett Guthrie [10:54:03]
 > 
 > Is China responding to the World Health Organization? I know you have people in China that are dealing with their Chinese colleagues. Do you think the World Health Organization is responding in a way that it should? And do you think China is working with them to perform what, from what you can corroborate?
