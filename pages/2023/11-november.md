@@ -25,6 +25,16 @@ permalink: /2023/11
 > We do have an office, CDC does, in China and our officials have been in touch with our counterparts to make sure that we're understanding the situation there. 
 > 
 > They were sharing back with us, again, not a novel pathogen--
+>
+> ...
+> 
+> Rep Brett Guthrie [10:54:03]
+> 
+> Is China responding to the World Health Organization? I know you have people in China that are dealing with their Chinese colleagues. Do you think the World Health Organization is responding in a way that it should? And do you think China is working with them to perform what, from what you can corroborate?
+> 
+> Mandy Cohen, CDC [10:54:18]
+> 
+> Yeah. I don't know firsthand about the WHO and China interactions. Our information is direct from our team who are in our China office with our counterparts, but my understanding from WHO, is that China has been sharing information related to this. And, so again, another way to corroborate.
 
 # November 28, 2023
 
