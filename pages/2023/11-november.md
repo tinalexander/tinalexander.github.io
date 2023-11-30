@@ -9,6 +9,119 @@ permalink: /2023/11
 
 # November 30, 2023
 
+## CDC director on Reedley lab, respiratory viruses
+
+- **Source:** [hearing](https://www.youtube.com/watch?v=snGZt3NyZso) with House Energy and Commerce Committee
+- **Date:** broadcasted November 30, 2023
+
+> Mandy Cohen, CDC [01:01:41]
+> 
+> I would say that we are in full swing of RSV season. We are seeing a lot of RSV, particularly in the southern part of the country, so we're near peak is what I would say for RSV. 
+> 
+> With that, we are also at the beginning of flu season, so we're not having early flu. We're actually having a pretty typical-- what I would say typical flu season. We do expect to see a lot more flu cases over the course of December and January. So please do make sure that you're getting your updated flu shot and check what's happening in your communities. 
+> 
+> But that being said, even though those are both going up and we're at the peak of RSV, COVID is still the respiratory virus that is putting the most number of folks in the hospital and taking their lives. 
+> 
+> So it's about 15,000 people in the hospital for COVID and about a thousand people dying per week across the country.
+> 
+> Related to COVID, we are seeing an uptick in COVID. Remember we had a late summer wave of COVID. We came down from that. We are going back up again, which we expect again, after a lot of travel and gathering at Thanksgiving, but to remind folks, never too late to get that updated COVID vaccine and as well as making sure that we're getting access to testing and treatment.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [01:03:44]
+> 
+> And from that survey data, we see about 16% of Americans have gotten the updated COVID vaccine. And that's not enough. I'll say that right now.
+> 
+> I've been doing as much as I possibly can to be going around the country again, meeting with folks, answering questions, explaining the importance of vaccination, but it's not enough. And I look forward to continuing to work with Congress and and other partners to make sure that we can help folks know what tools are out there and have them use them to protect themselves.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [01:14:47]
+> 
+> We have been working very closely with manufacturers. I personally have been on the phone, maybe dozens of times with the teams, to work to accelerate the supply. 
+> 
+> The good news is we actually were able to have about 70,000 additional doses accelerated. We do expect additional doses in the January timeframe, but there were manufacturing delays here. 
+> 
+> And so what CDC has done in addition to working with the manufacturers, is to put out guidance to make sure we are using the supply that we do have, and we have many hundreds of thousands of doses, but that we do use those doses for the highest risk children, and making sure that, for example, those who are under the age of six months are even at higher risk and make sure that they are getting prioritized for these doses.
+> 
+> ...
+> 
+> Rep Paul Tonko [01:15:45]
+> 
+> Is there anything that Congress should be doing now to help alleviate current and future pediatric RSV vaccine shortages?
+> 
+> Mandy Cohen, CDC [01:15:55]
+> 
+> I appreciate that question. I would probably need to get back to you on what would be most helpful. We're working through that right now. 
+> 
+> And these, you know, as I shared earlier, the RSV immunization is a long acting monoclonal. It is a different production cycle than a traditional vaccine. It takes longer. 
+> 
+> There are decisions needed right now to make sure even next season that we are in an adequate place that we're working with the manufacturers on. 
+> 
+> So let me take that back to the team and see if there are other things we need to deploy here.
+> 
+> ...
+> 
+> Rep Dan Crenshaw [02:01:04]
+> 
+> There's a lot of overlap here. I mean, what is the difference between ASPR and CDC?
+> 
+> Mandy Cohen, CDC [02:01:10]
+> 
+> Well thank you, Representative Crenshaw. 
+> 
+> So CDC does provide the scientific evidence and technical expertise, particularly related to infectious disease and other health threats.
+> 
+> ASPR provides emergency response, so I would say, to any kind of threat, a hurricane, to an infectious disease threat. So they can bring in resources, whether it's people or stockpile resources, but it's really CDC and that technical expertise that decides well, where do you deploy it? How? For what purpose? 
+> 
+> So it's a partnership. You can't have one without the other. And we do work very, very closely together to make sure that we're coordinated.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [02:03:49]
+> 
+> I was able to share some information earlier that there were a number of inaccuracies in the report that was put together from this.
+> 
+> Again, state and local authorities are, as you were saying, are in charge as well as FBI, FDA.
+> 
+> CDC's role was to come in and do an investigation related to select agents. When we were invited and asked to do that, we did respond. We sent a team, they were there for two and a half days, did an extensive review. 
+> 
+> What we found was no select-- no evidence of select agents, and really what was compelling, as I reviewed that information, was it wasn't-- that they didn't have any equipment that would have allowed folks to work with select agents. 
+> 
+> So not only do we see the freezers and the paperwork--
+> 
+> Rep Dan Crenshaw [02:04:29]
+> 
+> But how long did it take from the request for CDC to actually come, because I thought it took like a Congress person from California to get CDC there.
+> 
+> Mandy Cohen, CDC [02:04:36]
+> 
+> My understanding is that when we were asked, we deployed.
+> 
+> Rep Dan Crenshaw [02:04:39]
+> 
+> Okay, select agents, very specific. I'm under the understanding that if a vial of something is not labeled, that you don't test it?
+> 
+> Mandy Cohen, CDC [02:04:48]
+> 
+> So we do have limited authority in some of this space. 
+> 
+> But what we did was go on premises again, do a two and a half day investigation. We did not see any evidence of select agents at this lab.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [02:11:07]
+> 
+> I want to address where you were talking about related to Ebola. When we heard, after the fact, that someone said something was labeled Ebola, we took 300 pictures. We did not see one--
+> 
+> Rep Paul Dunn [02:11:17]
+> 
+> It was on the front of a refrigerator.
+> 
+> Mandy Cohen, CDC [02:11:19]
+> 
+> We didn't see that. We asked folks to say, do you have a picture of that? Could we validate that for someone else? No one could validate that for us. 
+
 ## CDC director on upsurgence in respiratory illneses in China
 
 - **Source:** [hearing](https://www.youtube.com/watch?v=snGZt3NyZso) with House Energy and Commerce Committee
