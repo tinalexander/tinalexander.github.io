@@ -14,7 +14,7 @@ permalink: /2023/11
 - **Source:** [hearing](https://www.youtube.com/watch?v=snGZt3NyZso) with House Energy and Commerce Committee
 - **Date:** broadcasted November 30, 2023
 
-> Mandy Cohen, CDC [11:31:35]
+> Mandy Cohen, CDC [10:31:35]
 > 
 > Obviously it is really important that CDC continues to do our global work and do this scientific diplomacy. 
 > 
