@@ -9,7 +9,7 @@ permalink: /2023/11
 
 # November 30, 2023
 
-## CDC director on Reedley lab, respiratory viruses
+## CDC director on Reedley lab, respiratory viruses, ASPR
 
 - **Source:** [hearing](https://www.youtube.com/watch?v=snGZt3NyZso) with House Energy and Commerce Committee
 - **Date:** broadcasted November 30, 2023
