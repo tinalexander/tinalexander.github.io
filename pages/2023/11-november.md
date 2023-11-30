@@ -7,6 +7,25 @@ permalink: /2023/11
 
 <br>
 
+# November 30, 2023
+
+## CDC director on upsurgence in respiratory illneses in China
+
+- **Source:** [hearing](https://www.youtube.com/watch?v=snGZt3NyZso) with House Energy and Commerce Committee
+- **Date:** broadcasted November 30, 2023
+
+> Mandy Cohen, CDC [11:31:35]
+> 
+> Obviously it is really important that CDC continues to do our global work and do this scientific diplomacy. 
+> 
+> What we know as of right now, today, of what's happening in China, they are having an increase in some of their respiratory illnesses. They're seeing it in the northern part of their country, they're seeing an uptick in their pediatric population. 
+> 
+> What we do know as of, again, as of today is we do not believe this is a new or novel pathogen that we believe this is all existing, meaning COVID, flu, RSV, mycoplasma, and, but they are seeing an upsurgence.
+> 
+> We do have an office, CDC does, in China and our officials have been in touch with our counterparts to make sure that we're understanding the situation there. 
+> 
+> They were sharing back with us, again, not a novel pathogen--
+
 # November 28, 2023
 
 ## CDC officials on respiratory virus season guidance
