@@ -9,9 +9,40 @@ permalink: /2023/12
 
 # December 1, 2023
 
-## WHO officials on mycoplasma pneumonia and 
+## CDC director on pneumonia and respiratory infections
 
-- **Source:** [press briefing](https://www.youtube.com/watch?v=t2HrRZ7-Cls&t=1s) hosted by the World Health Organization
+- **Source:** press briefing by the Centers for Disease Control and Prevention
+- **Date:** hosted December 1, 2023
+
+> Mandy Cohen, CDC (recording 1 of 3) [00:09:52]
+> 
+> As of today, we are not seeing anything that is atypical in terms of pneumonia related emergency department visits. 
+> 
+> But we do know that there are a lot of kids going to the emergency department with respiratory illnesses like RSV, and flu, and COVID.
+> 
+> ...
+> 
+> Mandy Cohen, CDC (recording 3 of 3) [00:00:16]
+> 
+> The manufacturers had delays in their production process which led to limited supply. 
+> 
+> We've been working to accelerate what we can to get additional doses for this season. The 70 thousand was a first effort. There have been additional doses that have been released and we do expect more doses in the early January time frame as well. 
+> 
+> So we're-- we do still expect more doses, but we still know that they're-- this keeps us in a place of limited supply for this season. 
+> 
+> It is why CDC issued guidance to target those doses to the most high risk babies, babies who have underlying lung disease, who are younger, who were born as premies, to our Alaska Native population who are at higher risk. 
+> 
+> So we are trying to make sure that we are focusing those limited doses on our both high-risk kids.
+> 
+> And I should say we continue to work with manufacturers nearly daily to work to accelerate additional doses. 
+> 
+> As you know this RSV immunization is a long acting monoclonal antibody. So it does have a different production life cycle than a vaccine. It does take longer to produce and it is just a different way of producing than vaccines and does take longer.
+>
+> So that that's the time cycle here, but we continue to work with manufacturers to do everything we can to accelerate. We expect more doses in January, but we will still see the limited supply for the season.
+
+## WHO officials on mycoplasma pneumonia and JN.1 variant
+
+- **Source:** [press briefing](https://www.youtube.com/watch?v=t2HrRZ7-Cls&t=1s) by the World Health Organization
 - **Date:** broadcasted November 29, 2023
 
 > Maria Van Kerkhove, WHO [00:12:00]
