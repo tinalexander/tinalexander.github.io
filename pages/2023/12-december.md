@@ -39,6 +39,70 @@ permalink: /2023/12
 > As you know this RSV immunization is a long acting monoclonal antibody. So it does have a different production life cycle than a vaccine. It does take longer to produce and it is just a different way of producing than vaccines and does take longer.
 >
 > So that that's the time cycle here, but we continue to work with manufacturers to do everything we can to accelerate. We expect more doses in January, but we will still see the limited supply for the season.
+> 
+> ...
+> 
+> Mandy Cohen, CDC (recording 2 of 3) [00:05:02]
+> 
+> In terms of how we monitor respiratory illness overall, which includes viruses and bacteria and fungal infections, we use data that comes to us from our emergency departments across the country, more than 80% of them report in on a daily basis of what folks are are coming in with, from those sources. 
+> 
+> We also are able to look at laboratory data. And at this time, what we are seeing is quite typical of this moment in the winter respiratory virus season. 
+> 
+> So we are seeing typical patterns as well as typical pathogens that are causing sicknesses in our kids and frankly at all ages. So we are seeing COVID and flu and RSV as well as some pneumonia, but nothing outside the typical of what we would see.
+> 
+> Obviously we're gonna continue to monitor these trends, but they are pretty typical of what we would see at this point.
+> 
+> ...
+> 
+> Mandy Cohen, CDC (recording 2 of 3 [00:06:22]
+> 
+> We've been in touch with the folks in Ohio, and again, we are seeing similar trends that they would typically see during this season. Hospital capacity is fine. Children are recovering at home. 
+> 
+> These are pathogens that are known to us -- flu, COVID, RSV, mycoplasma. There's no evidence that any of those increases are connected to other outbreaks nationally or internationally. 
+> 
+> So we will continue to monitor it, but we don't see anything yet at this moment that is out of the ordinary.
+> 
+> ...
+> 
+> Mandy Cohen, CDC (recording 2 of 3) [00:09:05]
+> 
+> We have been in touch with the folks in Ohio. 
+> 
+> And what I would say is we are seeing respiratory illnesses that can be caused by viruses or bacteria. 
+> 
+> So we are seeing flu, we're seeing RSV, we're seeing COVID, and we're seeing mycoplasma, which is a bacteria. 
+> 
+> So the first three are viruses flu, COVID, RSV, all viruses, mycoplasma is one type of bacteria that can cause pneumonia, it's often referred to as walking pneumonia, but then there are other bacteria, strep and others that can cause pneumonia. 
+> 
+> So what we are hearing from Ohio, that again, there have been no reported deaths. Most of these cases are receiving treatment and recovering at home as you reported, either because they're being treated for the bacteria with an antibiotic, or they're being treated with an antiviral for the virus they have.
+> 
+> There is no evidence again that these are atypical from what we would see at this moment in time. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC (recording 2 of 3) [00:10:42]
+> 
+> I want to reiterate that hospital capacity is fine. And again, we're not seeing strains at the children's hospitals in Ohio. 
+> 
+> These are from pathogens that we know, we want folks to get treated for, and again, pretty typical of what we would see at this season.
+> 
+> ...
+> 
+> Mandy Cohen, CDC (recording 2 of 3) [00:12:14]
+> 
+> We're also in touch with private labs regarding testing for pneumonia.
+> 
+> Based on our assessment today, at this point, we're seeing activity that is very typical for the season. Again, typical means we are seeing more respiratory illnesses, more flu, more COVID, more RSV, and more pneumonia, but typical for what we're seeing. 
+> 
+> So there're not any patterns across the country that we are seeing that are out of the ordinary, but we continue to monitor.
+> 
+> ...
+> 
+> Mandy Cohen, CDC (recording 2 of 3) [00:12:51]
+> 
+> In terms of our ability to corroborate, so we work with our international partners to, in terms of making sure that what we are hearing is also similar to what they are seeing as well, being in touch with our Chinese counterparts in public health, in academia, in health delivery systems. 
+> 
+> And we were, what we have all been able to ascertain, is that there is no novel pathogen, not a new pathogen here, but this is all related to upticks of known viruses and bacteria in their pediatric population.
 
 ## WHO officials on mycoplasma pneumonia and JN.1 variant
 
@@ -80,3 +144,4 @@ permalink: /2023/12
 > When we look at severity, we are looking at any changes in hospitalizations. We are looking at any changes in disease presentation, and we don't see that, for this particular variant of interest and its sub lineages. 
 > 
 > So again, anyone who is infected with SARS-CoV-2, including BA.2.86 and its sub lineages can cause the full range of disease, everything from asymptomatic infection, all the way to severe disease and death.
+
