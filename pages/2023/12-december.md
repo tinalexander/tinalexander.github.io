@@ -9,6 +9,79 @@ permalink: /2023/12
 
 # December 1, 2023
 
+## CDC official on wastewater surveillance plans
+
+- **Source:** [meeting](https://www.cdc.gov/ddid/BSC.html) of Board of Scientific Counselors, Deputy Director for Infectious Diseases
+- **Date:** broadcasted November 30, 2023
+
+> Amy Kirby, CDC [00:35:30]
+> 
+> We have just this week launched this new metric, called the wastewater viral activity level. 
+> 
+> One of the real challenges with wastewater data is that, although what we measure is the concentration for SARS-CoV-2, it's of RNA in wastewater, that concentration is not comparable between sites because the design and operation of the wastewater system itself influences the number that you get. 
+> 
+> So we have to use other metrics to make the data as comparable as we can. And now that we have nice historical data to pull from, we're able to put together this wastewater activity level. 
+> 
+> So we look at the last year of data from a site, and determine what the 10th percentile is of concentrations and set that as the baseline for that site. And then our viral activity level, wastewater viral activity level, is the number of standard deviations above or below that value.
+> 
+> And the advantage here is that it gives you a very interpretable line. It's a linear scale. So it works very well for the public. Also it aggregates very well. So you can take the median of that wastewater viral activity level, and look at state trends or regional or national trends, which is what you're seeing here. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:41:43]
+> 
+> We aren't going to be able to test everything. Waste water has potential for a lot of things, but we have to be judicious in the use of our limited resources. And so how do we make choices about what we can use wastewater surveillance for? 
+> 
+> And we expect this to be an iterative and ongoing process, because certainly we can use it for pandemic preparedness, that is what it was designed for a pandemic. So having it in place for the next one, should that happen, will get us there even faster. 
+> 
+> But we're also thinking about how can we use this for emergency response. So, I come from the field of water quality. So I think about, what do we do in the wake of large floods, where we start being worried about waterborne infections. If we have wastewater surveillance in those areas, you could think about a local short term activation of the wastewater surveillance system in that area to look for things like shigellosis or norovirus that we get concerned about in the wake of these types of emergencies. 
+> 
+> Other emergencies have similar infectious disease concerns. 
+> 
+> We're interested in using this to understand more about emerging infections.
+> 
+> A really great example here is enterovirus D 68, where we see these bi-annual cycles of severe infection in children, but we really don't know much about community infections outside of those periods of severe cases. 
+> 
+> Wastewater surveillance may allow us to get a better idea of what's going on with those infections, even when they're very mild or asymptomatic. 
+> 
+> And finally, as Dr Houry indicated, there are applications here for bioterrorism and potentially biopreparedness. So we're working with some of our partners to understand where those have potential and  how we can best connect to those systems. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:45:14]
+> 
+> For example, I get a lot of questions about Ebola, and for Ebola, we know that there's very few, if any asymptomatic cases, symptom onset is very soon after infection, and so although we likely could detect it quite easily in wastewater, by the time we had that data in hand in the U.S., a person would already have sought medical care and would likely already be diagnosed clinically. 
+> 
+> So we're not getting any added value by wastewater for that. 
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:53:24]
+> 
+> The coverage question I think is excellent. And one that we're really wrestling with
+> 
+> In the central states where you are noting that we don't have a lot of coverage, there's also not a lot of wastewater treatment plants in those areas. So if you look at the map of treatment plants, there's also a hole there. 
+> 
+> But how can we address that? Are there other ways around that? Do we need to oversample those few waste water treatment plants that are in the central area because we know we don't have a lot of other coverage there? Are there communities that use like shared septic systems that we might could treat like a treatment plant? 
+> 
+> I think we can put some creative thought into that and I would-- that's one of the things that we really welcome input from the board on how best to address that.
+> 
+> ...
+> 
+> Amy Kirby, CDC [00:55:42]
+> 
+> CFA is leading on that for COVID. And we're working with the respiratory virus response for COVID and then we will have flu and RSV data very soon. So we'll be adding that as well. 
+> 
+> It gets more complicated as you get into other pathogens. And so this is a process that we'll have to go through with every new pathogen that we add because their existing surveillance is quite different. 
+> 
+> For example, we're thinking about norovirus next year and antimicrobial resistance genes, and those all have very different clinical surveillance systems, but we're working on how to integrate those internally so that we can make sure that the sort of pathogen programs at CDC have access to the data and understand what it means and how to use it. 
+> 
+> But we're also thinking about how can we present that externally to people so that whatever they come to the CDC page looking for, if they come looking for information on norovirus, they see clinical and wastewater data. 
+> 
+> If they come looking for wastewater data, they get all of the things that we do. So however they come to us, they're going to see the data that's relevant to that question.
+> 
+> CDC's working on a new, um, sort of backside for their website that makes that much easier. So looking forward to seeing how we can integrate that going forward, but I also think improved communications around wastewater surveillance, and as you say, translation into action, both for the public as well as for public health and clinical practitioners is going to be really important. 
+
 ## CDC director on pneumonia and respiratory infections
 
 - **Source:** press briefing by the Centers for Disease Control and Prevention
