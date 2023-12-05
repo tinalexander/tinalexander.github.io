@@ -9,6 +9,21 @@ permalink: /2023/articles
 
 Here are some articles I've worked on for 2023. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
+# November 2023
+
+- [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/)
+- [COVID variant BA.2.86 triples in new CDC estimates, now 8.8% of cases](https://www.cbsnews.com/news/covid-variant-ba-2-86-triples-in-new-cdc-estimates/)
+- [FDA warns about Neptune's Fix supplements after reports of seizures and hospitalizations](https://www.cbsnews.com/news/fda-neptunes-fix-supplement-sold-in-gas-stations-seizures-hospitalizations/)
+- [Most applesauce lead poisonings were in toddlers, FDA says](https://www.cbsnews.com/news/most-applesauce-lead-poisonings-were-in-toddlers-fda-says/)
+- [More free COVID-19 tests can be ordered now, as uptick looms](https://www.cbsnews.com/news/free-covid-19-tests-order-online-fall-winter-2023/)
+- [Why is there lead in some applesauce? FDA now screening cinnamon imports, as authorities brace for reports to climb](https://www.cbsnews.com/news/lead-applesauce-investigation-cinnamon-recalls-wanabana-weis-schnuks/)
+- [Court orders Balance of Nature to stop sales of supplements after FDA lawsuits](https://www.cbsnews.com/news/balance-of-nature-supplements-fda-lawsuits/)
+- ["Staggering" rise in global measles outbreaks in 2022, CDC and WHO report](https://www.cbsnews.com/news/measles-outbreaks-cdc-who-report-2022/)
+- [FDA approves a new weight loss drug, Zepbound from Eli Lilly](https://www.cbsnews.com/news/fda-approves-new-weight-loss-drug-zepbound-eli-lilly/)
+- [FDA investigating reports of hospitalizations after fake Ozempic](https://www.cbsnews.com/news/fda-ozempic-counterfeit-weight-loss-drugs-hospitalizations/)
+- [FDA moves to pull common drug used by pork industry, citing human cancer risk](https://www.cbsnews.com/news/fda-carbadox-drug-pork-industry-human-cancer-risk/)
+- [Potential cure for sickle cell disease raises few concerns for FDA panel](https://www.cbsnews.com/news/sickle-cell-disease-potential-cure-gene-editing-fda-panel/)
+
 # October 2023
 
 - [FDA authorizes Novavax's updated COVID vaccine for fall 2023](https://www.cbsnews.com/news/covid-vaccine-novavax-fda-fall-2023/)
