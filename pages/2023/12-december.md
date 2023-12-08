@@ -9,6 +9,70 @@ permalink: /2023/12
 
 # December 8, 2023
 
+## FDA officials on approvals of Casgevy and Lyfgenia
+ 
+- **Source**: [press briefing](https://youtu.be/7m6kENCvx3Q) by Food and Drug Administration
+- **Date**: hosted December 8, 2023
+
+> Peter Marks, FDA [12:36:20]
+> 
+> These treatments represent a major advancement in the field of gene therapy for patients with sickle cell disease, a rare and debilitating blood disorder, affecting approximately 100,000 people in the United States.
+> 
+> Casgevy and Lyfgenia are the first FDA approved cell based gene therapies to treat sickle cell disease in patients 12 years and older and Casgevy is also the first FDA approved treatment to utilize a novel genome editing technology called CRISPR Cas9. The use of that technology is particularly exciting as it more broadly signifies an innovative advancement in the field of gene therapy. 
+> 
+> And in fact, CRISPR Cas9 was the subject for which the 2020 Nobel prize in chemistry was awarded 
+> 
+> With the approvals of Casgevy and Lyfgenia, we now have two safe and effective treatments for sickle cell disease that have been thoroughly evaluated by FDA and today's approvals demonstrate the continued momentum of this promising new area of medicine. 
+> 
+> The potential of these products have to transform the lives of patients living with sickle cell disease is enormous. 
+> 
+> ...
+> 
+> Nicole Verdun, FDA [12:39:36]
+> 
+> So the black box warning in the Bluebird label specifically was for myeloid malignancies, for two cases in particular of AML, that happened during the clinical trial for sickle cell disease. 
+> 
+> And, so two patients actually ended up having death as a result of their malignancies. And so we thought that that rose to the level of a black box warning.
+> 
+> Vertex at this time has not had malignancies that have occurred. And so for that reason, we did not think that it warranted a black box warning at this time.
+> 
+> Peter Marks, FDA [12:40:21]
+> 
+> But the bottom line, this is Peter, just to finish up adding to that, is that obviously, as we have follow up time that elapses, we'll just have to see what comes up with these therapies. 
+> 
+> They are-- they do have different mechanisms of action. So we'll just have to see what comes up with time.
+> 
+> ...
+> 
+> Nicole Verdun, FDA [12:42:32]
+> 
+> In terms of the follow up, we have reached an agreement with both sponsors to conduct long term followup studies for 15 years. But in addition have encouraged, with the label, to continue to monitor for malignancies lifetime for-- for the rest of a patient's life after they receive these therapies. 
+> 
+> And so, specifically that involves getting blood counts and also monitoring of the bone marrow. And we have some-- have had significant conversations with the sponsors who have both agreed to that follow up.
+> 
+> ...
+> 
+> Nicole Verdun, FDA [12:47:47]
+> 
+> In terms of curative intent, with the long term follow up studies that we have have discussed with the sponsor that are 15 years, in addition, we will be looking at efficacy over time. And, I think that that will be quite informative.
+> 
+> Both therapies that were approved today, through slightly different different mechanisms, do decrease the number of vaso occlusive events and have the potential to take a sickle cell patient who has had several of these events to have not have any of these events. 
+> 
+> And so I think over time, in terms of getting to that place, where we're saying, at what point are we curative? We have to just sort of follow over time, but they're quite encouraging. And the results of both trials were quite encouraging as well.
+> 
+> ...
+> 
+> Peter Marks, FDA [12:49:34]
+> My suspicion is that most providers will be thinking of this for patients who are in the hospital at least several times a year. And not just somebody who has had a painful crisis and been managed as an outpatient.
+> 
+> Although it's not labeled exactly that way, I think in terms of a benefit risk calculation, that's how it will be put forward. 
+> 
+> And I think just to inform you right, although the population is 100,000 people with sickle cell disease in the country, probably the population that really fits this is probably 20% of that, in terms of people who have more frequent crises and who end up in the hospital more frequently. 
+> 
+> Whereas many sickle cell patients, patients with sickle cell, living with sickle cell disease, do so with only occasional crises. 
+> 
+> So this is really for those whose lives have been significantly impacted, who sometimes potentially look like they're gonna suffer end organ damage, from their sickle cell disease.
+
 ## NIH director on using march-in rights
 
 - **Source:** press briefing with the National Institutes of Health
