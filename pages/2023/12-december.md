@@ -63,6 +63,7 @@ permalink: /2023/12
 > ...
 > 
 > Peter Marks, FDA [12:49:34]
+> 
 > My suspicion is that most providers will be thinking of this for patients who are in the hospital at least several times a year. And not just somebody who has had a painful crisis and been managed as an outpatient.
 > 
 > Although it's not labeled exactly that way, I think in terms of a benefit risk calculation, that's how it will be put forward. 
