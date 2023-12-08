@@ -7,6 +7,37 @@ permalink: /2023/12
 
 <br>
 
+# December 8, 2023
+
+## NIH director on using march-in rights
+
+- **Source:** press briefing with the National Institutes of Health
+- **Date:** hosted December 6, 2023
+
+> Sarah Owermohle, STAT News [00:26:26]
+> 
+> I wanted to ask you about march in rights, because they obviously-- and reasonable pricing, but they obviously dominated your confirmation process, and Senator Sanders really wanted assurances out of you that you would use them more broadly. 
+> 
+> And you said, during your hearing, that you believe that Americans deserve a fair return on investment for taxpayer funds. So now that you are a director, I mean, how are you thinking about potentially using these more broadly? And how would you be-- how would you go about doing that?
+> 
+> Monica Bertagnolli, NIH [00:26:54]
+> 
+> So I think the core, and I truly share Senator Sanders concern over this, the core is that there's big concern, particularly about high prices and the burden that they place on patients and their families. 
+> 
+> And the fact that we cannot let anything, we can possibly have an influence on, interfere with everybody being able to get the treatment that they need. 
+> 
+> So for me, the entire issue is about delivering, making sure, that we can deliver the treatment that people need. 
+> 
+> The cost of treatment is one component, as is geographic access, etc. So we've talked a little bit about that. 
+> 
+> March in is a tool based-- that is based on legislation that has been given to the NIH director as one of the things that can help increase access in particular situations where there is a need. 
+> 
+> But you know, what I will affirm over and over is that I will use every tool I possibly can with the goal of obtaining the access that our patients need. 
+> 
+> And March in, if I am to ever apply that, it will be according to principles that allow it to really achieve that specific aim. 
+> 
+> Finally, you know, I think that this is something where being able to-- I also have the benefit of being able to work with partners across Health and Human Services, across the rest of government, and with partners in Congress to really make the wisest possible use of decisions such as this.
+
 # December 1, 2023
 
 ## CDC official on wastewater surveillance plans
