@@ -7,6 +7,37 @@ permalink: /2023/12
 
 <br>
 
+# December 12, 2023
+
+## CDC officials at webinar on respiratory virus season
+
+- **Source:** [webinar](https://www.ama-assn.org/about/events/fireside-chat-cdc-director-ama-fall-winter-respiratory-virus-season) hosted by the American Medical Association
+- **Date:** broadcasted December 12, 2023
+
+> Mandy Cohen, CDC [00:13:15]
+> 
+> So all that being said, we're excited about these tools, but on the next slide you can see here, is that we aren't seeing the uptake in vaccines that we would like to see.
+> 
+> We're seeing about 7 million fewer flu vaccines administered to adults this year compared to last year. And for COVID vaccines, we're only seeing about 16% of adults getting the updated COVID vaccine.
+> 
+> On the RSV front, we have information about the vaccine for older adults, and again about 15, 16% uptake for that.
+> 
+> And we acknowledge that is too low and it is one of the reasons we wanted to have this conversation. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:41:06]
+> 
+> Since we are in the middle of the respiratory season, we're going to learn more about the efficacy or the vaccine effectiveness of these current vaccines as we go further in the season. And I think importantly, I think CDC has been really committed to sharing that information in real time as we get it. So that is a spoiler alert that as we're getting data on these, we will make sure that we share. 
+> 
+> So first thinking about the COVID 19 vaccine, the updated shot, looking at the laboratory data, looks like it has really good effectiveness against current circulating variants or strains. If we go backwards in time and think about the bivalent vaccine, it was about 65% effective against COVID 19 hospitalizations in the two months after getting the dose. 
+> 
+> So flu vaccines vary similarly, based on what we are seeing in the genomics of circulating viruses, as well as what we expect to be the effect of this flu vaccine, the updated flu vaccine. 
+> 
+> This year, it looks like it should cover most of the strains. Important to say, CDC, continuously monitors what's circulating both domestically and abroad so that we can give a view into what we expect the flu vaccine is going, how it will function into season.
+> 
+> Looking at last season, it was a pretty good flu vaccine in terms of how it was able to take flu from wild to mild, as we like to say around here at CDC, and among kids, it prevented about three quarters of flu related hospitalizations and in adults about half. So, if it tracks to that, we'll be very happy. So it's looking like it's a great thing to remember to do this year as well. And, as we learn more, we'll share.
+
 # December 8, 2023
 
 ## FDA officials on approvals of Casgevy and Lyfgenia
