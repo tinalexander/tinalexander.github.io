@@ -845,6 +845,13 @@ permalink: /2023/11
 
 # November 15, 2023
 
+## AstraZeneca spokesperson on AZD3152
+
+- **Source**: email from AstraZeneca spokesperson
+- **Date:** received November 15, 2023
+
+> We are continuing to advance AZD3152 to help protect vulnerable patients like the immunocompromised who face up to 14x greater risk of hospitalisation from COVID-19 than the general population, even after repeated doses of COVID-19 vaccines. The Phase III efficacy trial is now fully enrolled; the trial will assess the potential benefit of AZD3152 in protecting immunocompromised patients in an environment with many variants in circulation. We aim to make AZD3152 available as a new option for COVID-19 as quickly as possible subject to trial readouts and regulatory reviews. 
+
 ## HHS officials on call with COVID-19 vaccine stakeholders
 
 - **Source:** webinar by Department of Health and Human Services
