@@ -7,6 +7,59 @@ permalink: /2023/12
 
 <br>
 
+# December 14, 2023
+
+## FDA official on investigation of lead in applesauce from Ecuador
+
+- **Source:** conference call hosted by the Centers for Disease Control and Prevention
+- **Date:** hosted December 14, 2023
+
+> Natalie Cataldo, FDA [00:09:27]
+> 
+> Since the last state's call, we have been in coordination with Ecuadorian authorities and we're finalizing the inspection at Austrofoods facility in Ecuador. 
+> 
+> And as some of you guys have probably seen from our latest FDA web post, Austrofoods receives their ground cinnamon from a supplier called Negasmart, which is also in Ecuador. 
+> 
+> And, during the inspection at Austrofoods, FDA did collect cinnamon samples, and these were sourced from Negasmart, and those samples are being finalized and we expect to share those final results early next week. 
+> 
+> And then based on the investigation, we have sent a list of questions to Ecuador's regulatory authorities, to obtain some trace forward information for Negasmart and their cinnamon supplier, which is a grinder, so they're processing the cinnamon in Ecuador.
+> 
+> For product actions, FDA is continuing to work with Dollar Tree headquarters to ensure an effective recall. FDA coordinated an effort, in conjunction with state and local partners, to canvass U.S. Dollar Tree stores for recalled product, and then remove the recalled product, if it's within that state or local authority. 
+> 
+> And then as of today, recalled product has not been reported as being seen on shelves in Dollar Tree locations since the 8th of December. 
+> 
+> And currently FDA has an import screening in place for ground cinnamon and cinnamon sticks and then products that are other than the recalled product from Austrofoods, and so far, no samples other than the recalled product have been found to have elevated lead levels. 
+> 
+> ...
+> 
+> Natalie Cataldo, FDA [00:18:55]
+> 
+> What I can say is that when we conduct our trace forward and our trace back investigation and we get those records, we will definitely be putting that on our web post and be sending out an incident update to the ICG, which is our FDA partners, and they'll be disseminating that information to all the states, so that information will for sure be available for you all. 
+> 
+> We have an investigation that is ongoing right now at the firm in Ecuador. So yes, we have an inspection going on. And, as far as -- where the contamination is occurring, unfortunately FDA does not have jurisdiction over a lot of the firms that have been named so far in our trace back, because they don't import into the United States. 
+> 
+> So we're relying on what Ecuador is giving us. And that's-- they've had a change of leadership recently and it's taking a little bit of time for us to get that information, but we're a little bit limited on what we can provide to everyone on this call and also what we've been given so far.
+> 
+> ...
+> 
+> Natalie Cataldo, FDA [00:35:03]
+> 
+> We have November 2022 because that is when Austrofoods began, started producing that product. So there was no product with cinnamon being produced by that firm before November of 2022. Does that make sense?
+> 
+> ...
+> 
+> Scott Pauley, CDC [00:12:49]
+> 
+> So you saw, we have gotten our website up and running.
+> 
+> We're currently working on trying to get the routine and timing for reporting down. As we've talked about before, we'd like to get all of the line lists by the end of the day, each Friday, that gives us the ability to review the data and then be able to post and update the website on Tuesdays, which gives us, I think, a, a very good routine of updates for that. 
+> 
+> And, if we have some other updates that are coming up due, but if you have any other communications needs, please feel free to reach out through the clip programs to us or through NCEH outbreak, at cdc.gov. 
+> 
+> One of the updates we have in work for the website is a more plain language explanation of the case data. That one has been approved. We're just working on getting it updated to the website. So that should be up probably tomorrow morning. 
+> 
+> And then also we've been working on a list of frequently asked questions, that is going through our process right now for review. Hopefully we'll have that ready to post to the share file site where the case data, or the case definition and the reporting instructions were. And we'll send an email out about that as well, to let you know, when the FAQs are up to help answer any questions that anyone might have, through that method as well. 
+
 # December 12, 2023
 
 ## CDC officials at webinar on respiratory virus season
