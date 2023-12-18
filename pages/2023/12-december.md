@@ -7,6 +7,17 @@ permalink: /2023/12
 
 <br>
 
+# December 18, 2023
+
+## FDA spokesperson on investigation of lead in applesauce
+
+- **Source:** email from Food and Drug Administration spokesperson
+- **Date:** received December 18, 2023
+
+> Attributable to the FDA, an FDA official or an FDA spokesperson:
+> 
+> The FDA can confirm that one of the theories the agency is exploring regarding the high lead levels in the recalled cinnamon applesauce pouches is the potential that the cinnamon contamination occurred as a possible result of economically motivated adulteration. As this is an ongoing investigation, the FDA can only confirm this is one of the theories at this time. Additional investigation needs to occur before FDA reaches any conclusions. The FDA will continue to keep the public updated as the investigation unfolds. Again, the FDA can confirm that this is one of the theories the agency is exploring at this time.
+
 # December 14, 2023
 
 ## FDA official on investigation of lead in applesauce from Ecuador
