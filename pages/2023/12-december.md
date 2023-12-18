@@ -9,6 +9,83 @@ permalink: /2023/12
 
 # December 18, 2023
 
+## CMS and HHS officials on Medicaid unwinding in states
+
+- **Source**: press briefing by Centers for Medicare and Medicaid Services
+- **Date**: hosted December 18, 2023
+
+> Xavier Becerra, HHS [00:05:58]
+> 
+> We're pushing states where children disenrollments are highest to have them do more. 
+> 
+> Today, I'm sending a letter to nine states, five with the highest percentage of children's coverage loss, and five with the highest absolute number of children's coverage loss. 
+> 
+> One state unfortunately fits both categories, which is why there are only nine letters going out.
+> 
+> In the letter, I'm asking these nine states to do a number of things. 
+> 
+> First adopt additional strategies we've developed, including the new guidance and resources published today to make renewals for children easier and for their families as well.
+> 
+> We're calling on removing barriers that make it difficult for families to transition to CHIP coverage, if they are no longer eligible for Medicaid coverage.
+> 
+> We on reducing call center wait times and partner with pediatric providers, managed care plans, schools, and community organizations to reach additional families in need. 
+> 
+> And we call on expanding their Medicaid programs if they have not done so already to ensure everyone has access to affordable coverage options that qualifies and that they don't fall into the coverage gap. 
+> 
+> The Medicaid expansion program under the ACA has been one of the greatest lifelines for Americas who otherwise would not have coverage for health insurance. 
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:07:23]
+> 
+> And as all states unwind from the Medicaid continuous enrollment provision, that was in place during much of the COVID 19 public health emergency, we all have to do everything we can to keep people from losing their coverage, but especially our kids. 
+> 
+> That's why today I'm urging governors and other leaders in these nine states where disenrollments of children have been highest to ensure that no eligible child loses their health insurance due to red tape or other avoidable reasons. 
+> 
+> It really is time, now that we see these numbers, to make children's health a priority. Our kids deserve nothing less. 
+> 
+> ...
+> 
+> Chiquita Brooks Lasure, CMS [00:08:47]
+> 
+> Our message today is critically important. State choices matter, and we are urging states to take every possible step to help protect children's access to health coverage. 
+> 
+> We've already made dozens of strategies and options available to states to do just that and approved roughly 400 of these options across the country to make renewals easier for families. 
+> 
+> And today we're announcing that these options that we've developed will be available through the end of 2024 to give states every opportunity to protect children and families going forward for millions of children and their families across our country.
+> 
+> ...
+> 
+> Dan Tsai, CMS [00:12:17]
+> 
+> We took a close look at how state policy choices are affecting kids, what the data says about kids coverage through Medicaid renewals were starting, and how states can make things better for children and families. 
+> 
+> And today really marks the first time CMS is putting out this level of detailed information on how Medicaid enrollment is changing for children and youth, through Medicaid renewals, and what's driving that. 
+> 
+> And as you've heard, the data reinforces the core of a call to action, and that is quite simple, state choices matter.
+> 
+> ...
+> 
+> Dan Tsai, CMS [00:19:25]
+> 
+> All of these strategies and policy options are optional. We cannot force a state to take these up.
+> 
+> So we are strongly urging states to take these up.
+> 
+> But CMS has and will continue to hold states firmly accountable for following federal Medicaid renewal requirements. And so whenever we identify an actual violation of a regulatory requirement, we have been clear to states that they need to pause their procedural disenrollment and to hold individuals harmless.
+> 
+> ...
+> 
+> Dan Tsai, CMS [00:22:14]
+> 
+> What we're showing in the data is two things here. 
+> 
+> One, when we look at children and youth and young adults, and the impact of Medicaid unwinding and renewals and coverage, as you noted, we are seeing the impact of Medicaid expansion, where a child that was 18 and turns 19 throughout the pandemic, and is going through unwinding in a state that has not expanded Medicaid, they very well may not have other options and could be falling into the coverage gap.
+> 
+> That explains about a quarter of the disenrollment of people who were kids at the outset of the pandemic, but three quarters or more in some states of the disenrollment for kids is all for people that are, that were kids at the start of the pandemic, they are still kids. 
+> 
+> And those strategies that we've outlined very materially will help those kids maintain coverage. 
+
 ## FDA spokesperson on investigation of lead in applesauce
 
 - **Source:** email from Food and Drug Administration spokesperson
