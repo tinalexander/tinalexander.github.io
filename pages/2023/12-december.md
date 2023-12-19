@@ -7,6 +7,15 @@ permalink: /2023/12
 
 <br>
 
+# December 19, 2023
+
+## CDC spokesperson on applesauce lead poisonings investigation
+
+- **Source:** email from a Centers for Disease Control and Prevention spokesperson
+- **Date:** received December 19, 2023
+
+> The median age for the current cases is nearly 2 years old with blood lead levels ranging from 3.5 to 33.3 micrograms per deciliter (µg/dL), however there are reported cases in children up to 9 years old. It’s important that parents contact their healthcare provider about getting a blood test for lead if you or your children may have consumed recalled products, regardless of age.
+
 # December 18, 2023
 
 ## CMS and HHS officials on Medicaid unwinding in states
