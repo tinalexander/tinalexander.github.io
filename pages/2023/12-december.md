@@ -9,6 +9,23 @@ permalink: /2023/12
 
 # December 19, 2023
 
+## FDA spokesperson on applesauce lead poisonings investigation
+
+- **Source:** email from a Food and Drug Administration spokesperson
+- **Date:** received December 19, 2023
+
+> Attributable to the FDA, an FDA official or an FDA spokesperson: 
+> 
+> **Following up on yesterday’s update, are you able to clarify what other theories FDA is considering or has ruled out so far in terms of the lead contamination? 
+> **
+>  
+> The FDA is still working to determine an exact cause or point of contamination at this time and cannot comment further. We do plan to provide updates for this incident as they become available on the FDA.gov webpage. 
+> 
+> **Also, are there additional steps that Ecuador's ARCSA could be doing, but isn't, to support FDA's investigation into whether it was economically adulterated? 
+> **
+> 
+> While FDA is continuing to coordinate with the Agencia Nacional de Regulación, Control y Vigilancia Sanitaria (ARCSA), FDA cannot speak to specifics regarding the investigation activities conducted by Ecuadorian authorities, and so would defer to officials from Ecuador on determining what their steps in the investigation and any regulatory actions might entail.   
+
 ## CDC spokesperson on applesauce lead poisonings investigation
 
 - **Source:** email from a Centers for Disease Control and Prevention spokesperson
