@@ -7,6 +7,15 @@ permalink: /2023/12
 
 <br>
 
+# December 21, 2023
+
+## FDA spokesperson on COVID-19 self-testing with throat samples
+
+- **Source:** email from James McKinney of the Food and Drug Administration
+- **Date:** received December 20, 2023
+
+> Although there are not currently any COVID-19 tests authorized by the FDA for self-collection of throat swabs, the FDA is open to reviewing tests with novel sample types.  As with all devices, the FDA would evaluate them for both safety and effectiveness, including considering any possible safety concerns regarding self-collection of throat swabs.  Self-collection of throat swabs is more complicated than nasal swabs – and if done incorrectly, can potentially cause harm to the patient.
+
 # December 19, 2023
 
 ## FDA spokesperson on applesauce lead poisonings investigation
