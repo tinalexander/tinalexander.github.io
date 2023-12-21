@@ -14,6 +14,14 @@ permalink: /2023/12
 - **Source:** email from Daniel Epstein of the World Health Organization
 - **Date:** received December 21, 2023
 
+> Greetings,
+> 
+> I wanted to follow up with a question regarding this line in the JN.1 risk evaluation:
+> 
+> _A study from Belgium in ≥65-year-old patients has reported no difference in the odds of hospitalization with JN.1 compared to non-BA.2.86 variant (OR: 1.15 [0.74-1.78]) (11). On the contrary, preliminary data from Singapore indicated lower risk of hospitalization and severity in BA.2.86 elderly and younger cases (12). However, data are currently limited._
+> 
+> Are you able to provide more details into what JN.1 was being compared against, and over what time period, to determine the odds of hospitalization and severity?
+
 > Alex, what we understand is that this was preliminary information shared with TAG-VE ahead of publication.  WHO had permission to include it in the risk evaluation.  The publication will follow. 
 
 ## Novavax spokesperson on JN.1 variant and COVID-19 vaccine
