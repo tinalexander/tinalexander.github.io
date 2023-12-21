@@ -9,6 +9,15 @@ permalink: /2023/12
 
 # December 21, 2023
 
+## Novavax spokesperson on JN.1 variant and COVID-19 vaccine
+
+- **Source:** email from Novavax spokesperson
+- **Date:** received December 21, 2023
+
+> The company continues to monitor the changing nature of the virus and is conducting ongoing testing of our vaccine as new mutations and variants evolve. 
+> 
+> We’ll keep you posted once we have data to share.
+
 ## Pfizer spokesperson on JN.1 variant and COVID-19 vaccine
 
 - **Source:** email from Kit Longley of Pfizer
