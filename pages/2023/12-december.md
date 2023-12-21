@@ -9,6 +9,13 @@ permalink: /2023/12
 
 # December 21, 2023
 
+## WHO spokesperson on JN.1 hospitalization risk
+
+- **Source:** email from Daniel Epstein of the World Health Organization
+- **Date:** received December 21, 2023
+
+> Alex, what we understand is that this was preliminary information shared with TAG-VE ahead of publication.  WHO had permission to include it in the risk evaluation.  The publication will follow. 
+
 ## Novavax spokesperson on JN.1 variant and COVID-19 vaccine
 
 - **Source:** email from Novavax spokesperson
