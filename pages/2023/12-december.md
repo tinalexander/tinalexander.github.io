@@ -14,9 +14,7 @@ permalink: /2023/12
 - **Source:** email from Novavax spokesperson
 - **Date:** received December 21, 2023
 
-> The company continues to monitor the changing nature of the virus and is conducting ongoing testing of our vaccine as new mutations and variants evolve. 
-> 
-> We’ll keep you posted once we have data to share.
+> Novavax has data in both mice and nonhuman primates that show that our vaccine induced cross-neutralization against JN.1 in animals primed with bivalent prototype/BA.5 vaccine and boosted with XBB.1.5 (similar to what has previously been shown for responses against XBB.2.3, XBB.1.16, FL.1.5.1, EG.5.1, and BA.2.86).
 
 ## Pfizer spokesperson on JN.1 variant and COVID-19 vaccine
 
