@@ -9,6 +9,15 @@ permalink: /2023/12
 
 # December 21, 2023
 
+## Pfizer spokesperson on JN.1 variant and COVID-19 vaccine
+
+- **Source:** email from Kit Longley of Pfizer
+- **Date:** received December 21, 2023
+
+> Here’s what we can say now, though should have data in the coming weeks:
+> 
+> Pfizer continues to closely monitor emerging variants and conduct tests of the updated Pfizer-BioNTech COVID-19 XBB.1.5 monovalent vaccine against JN.1.
+
 ## FDA spokesperson on COVID-19 self-testing with throat samples
 
 - **Source:** email from James McKinney of the Food and Drug Administration
