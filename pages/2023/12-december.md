@@ -9,6 +9,13 @@ permalink: /2023/12
 
 # December 22, 2023
 
+## CDC spokesperson on JN.1 classification
+
+- **Source:** email from Centers for Disease Control and Prevention spokesperson
+- **Date:** received December 22, 2023
+
+> CDC is aware of the WHO’s recent classification of JN.1 as a Variant of Interest (VOI). The SARS-CoV-2 Interagency Group (SIG), which is responsible for classifying variants in the United States, continues to classify JN.1 under BA.2.86, which is a Variant Being Monitored (VBM). We will continue to monitor variants, including JN.1 and provide updates when information changes. 
+
 ## Novo Nordisk spokesperson on Ozempic counterfeits
 
 - **Source:** email from Novo Nordisk spokesperson
