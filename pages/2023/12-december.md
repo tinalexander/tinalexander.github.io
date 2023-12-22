@@ -14,7 +14,7 @@ permalink: /2023/12
 - **Source:** email from Novo Nordisk spokesperson
 - **Date:** received December 22, 2023
 
-> _Just wondering if you'd be able to clarify whether the counterfeit Ozempic that FDA recently seized is believed to be from the same source that Novo Nordisk describes in this release having being purchased at a retail pharmacy:_  https://www.novomedlink.com/content/dam/novomedlink/semaglutide/June-16-2023-Company-Statement.pdf 
+> _Just wondering if you'd be able to clarify whether the counterfeit Ozempic that FDA recently seized is believed to be from the same source that Novo Nordisk describes in this release having being purchased at a retail pharmacy:_  _[https://www.novomedlink.com/content/dam/novomedlink/semaglutide/June-16-2023-Company-Statement.pdf](https://www.novomedlink.com/content/dam/novomedlink/semaglutide/June-16-2023-Company-Statement.pdf)_ 
 
 > Hi Alex – thanks for reaching out.  No, this is separate case.  Please see our statement here:
 > [Novo Nordisk Warns Consumers about Counterfeit Ozempic® (semaglutide) injection 1 mg in the U.S. (novonordisk-us.com)](https://www.novonordisk-us.com/media/latest-news/company-statement-consumer-counterfeit-warning.html)
