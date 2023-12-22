@@ -19,6 +19,15 @@ permalink: /2023/12
 > Hi Alex – thanks for reaching out.  No, this is separate case.  Please see our statement here:
 > [Novo Nordisk Warns Consumers about Counterfeit Ozempic® (semaglutide) injection 1 mg in the U.S. (novonordisk-us.com)](https://www.novonordisk-us.com/media/latest-news/company-statement-consumer-counterfeit-warning.html)
 
+## USDA APHIS spokesperson on testing for canine respiratory illnesses
+
+- **Source:** email from Mike Stepien of the U.S. Department of Agriculture
+- **Date:** received December 22, 2023
+
+> Laboratories within the National Animal Health Laboratory Network, along with USDA National Veterinary Services Laboratories, are conducting sequencing.
+> 
+> Common causes of canine infectious respiratory disease complex have been identified in many of these cases. As of now, the testing has not indicated the presence of a novel pathogen or single infectious cause among these cases.
+
 # December 21, 2023
 
 ## WHO spokesperson on JN.1 hospitalization risk
