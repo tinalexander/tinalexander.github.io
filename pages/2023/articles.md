@@ -9,6 +9,18 @@ permalink: /2023/articles
 
 Here are some articles I've worked on for 2023. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
+# December 2023
+
+- [New COVID variant JN.1 surges to 44% of cases, CDC estimates](https://www.cbsnews.com/news/new-covid-variant-jn-1-cases-cdc-new-york-new-jersey/)
+- [Are COVID-19 symptoms still the same? What to know about this winter's JN.1 wave](https://www.cbsnews.com/news/covid-19-symptoms-jn1-variant-winter-wave/)
+- [WHO declares new JN.1 COVID strain a "variant of interest." Here's what that means.](https://www.cbsnews.com/news/who-new-jn1-covid-strain/)
+- [Recalled applesauce pouches now linked to more than 200 lead poisoning cases in 33 states, CDC says](https://www.cbsnews.com/news/recalled-applesauce-pouches-cinnamon-lead-poisoning-cases-states-cdc/)
+- [COVID and flu surge could strain hospitals as JN.1 variant grows, CDC warns](https://www.cbsnews.com/news/covid-variant-jn1-flu-surge-hospitals-cdc-warns/)
+- [Hundreds of young children killed playing with guns, CDC reports](https://www.cbsnews.com/news/children-killed-playing-with-guns-cdc-report/)
+- [Use of Plan B "morning after" pills doubles, teen sex rates decline in CDC survey](https://www.cbsnews.com/news/birth-control-plan-b-morning-after-pills-teen-sex-cdc-survey/)
+- [CDC reports "alarming" rise in drug-resistant germs in Ukraine](https://www.cbsnews.com/news/cdc-drug-resistant-bacteria-in-ukraine/)
+- [COVID-19 now increasing again, especially in Midwest and Mid-Atlantic, CDC says](https://www.cbsnews.com/news/covid-19-increasing-again-cdc-midwest-mid-atlantic/)
+
 # November 2023
 
 - [Balance of Nature says it is back in business after FDA shutdown](https://www.cbsnews.com/news/balance-of-nature-says-it-is-back-in-business-after-fda-shutdown/)
