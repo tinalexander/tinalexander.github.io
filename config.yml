@@ -4,6 +4,7 @@ author: "Alexander Tin"
 email: TinA@CBSNews.com
 github_username: tinalexander
 
+url: "https://tinalexander.github.io/notes"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
