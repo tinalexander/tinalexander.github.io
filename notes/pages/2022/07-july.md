@@ -1,4 +1,5 @@
 ---
+layout: page
 title: July 2022
 permalink: /notes/2022/07
 ---
