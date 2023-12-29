@@ -3,7 +3,7 @@ title: January 2024
 permalink: /notes/2024/01
 ---
 
-⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+:warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 <br>
 

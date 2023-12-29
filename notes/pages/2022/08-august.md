@@ -1,11 +1,10 @@
 ---
+layout: post
 title: August 2022
 permalink: /notes/2022/08
 ---
 
-⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
-
-<br>
+:warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
 # 08/31/2022
 
