@@ -1,6 +1,7 @@
 ---
 title: October 2023
 permalink: /notes/2023/09
+date: 2023-09-29
 ---
 
 :warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 

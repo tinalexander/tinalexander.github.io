@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Articles in 2022
-permalink: /notes/2022/articles
+permalink: /notes/2022/articles/
 ---
 
 :warning: Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 

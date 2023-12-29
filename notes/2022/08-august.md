@@ -1,7 +1,7 @@
 ---
-layout: post
 title: August 2022
 permalink: /notes/2022/08
+date: 2022-08-31
 ---
 
 :warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 

@@ -1,6 +1,7 @@
 ---
 title: December 2023
 permalink: /notes/2023/12
+date: 2023-12-22
 ---
 
 :warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 

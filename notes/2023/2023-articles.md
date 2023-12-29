@@ -1,6 +1,6 @@
 ---
 title: Articles in 2023
-permalink: /notes/2023/articles
+permalink: /notes/2023/articles/
 ---
 
 :warning: Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 

@@ -1,6 +1,7 @@
 ---
 title: April 2023
 permalink: /notes/2023/04
+date: 2023-04-28
 ---
 
 :warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
