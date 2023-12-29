@@ -1,6 +1,6 @@
 ---
 title: October 2022
-permalink: /2022/10
+permalink: /notes/2022/10
 ---
 
 ⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 

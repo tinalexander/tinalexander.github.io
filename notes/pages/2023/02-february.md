@@ -1,6 +1,6 @@
 ---
 title: February 2023
-permalink: /2023/02
+permalink: /notes/2023/02
 ---
 
 ⚠️ Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 

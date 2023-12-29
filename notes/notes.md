@@ -1,0 +1,7 @@
+In this [repository](https://github.com/tinalexander/tinalexander.github.io/), I am saving files and other notes that I've gathered while covering the Biden administration's public health agencies for CBS News. 
+
+Initially, I was saving them on [Revue](https://help.twitter.com/en/using-twitter/revue) before it was shut down by Twitter. I then switched to organizing them under Github's [Wiki tab](https://github.com/tinalexander/notes/wiki), before discovering those aren't [indexable by search engines](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis#:~:text=Note%3A%20Search,a%20public%20repository.). Now I am trying to publish them here with Github Pages.
+
+Notes with time codes typically align to my personal recordings. That means they don't always reflect when they happened in the real world or on the official recordings I've linked to. These notes also likely **contain typos and other errors I haven't noticed**. Please let me know if you spot one!
+
+You can reach me by email at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) or through the information on my [Github profile](https://github.com/tinalexander). 

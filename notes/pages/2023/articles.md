@@ -1,6 +1,6 @@
 ---
 title: Articles in 2023
-permalink: /2023/articles
+permalink: /notes/2023/articles
 ---
 
 <br>
