@@ -4,7 +4,7 @@ title: July 2022
 permalink: /notes/2022/07
 ---
 
-:warning: **Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). **
+:warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).
 
 <br>
 
