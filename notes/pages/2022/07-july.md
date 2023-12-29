@@ -1,6 +1,7 @@
 ---
 layout: post
 title: July 2022
+date: 2022-07-28
 permalink: /notes/2022/07
 ---
 
