@@ -7,7 +7,7 @@ permalink: /notes/
 
 :warning: Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
 
-</br>
+<br>
 
 In this part of the [repository](https://github.com/tinalexander/tinalexander.github.io/), I have been saving files and other notes that I've gathered while covering the Biden administration's public health agencies for CBS News during these years:
 
