@@ -9,4 +9,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
   - jemoji
-  - jekyll-feed
