@@ -4,7 +4,11 @@ permalink: /notes/2022/10
 date: 2022-10-27
 ---
 
-:warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+[tinalexander.github.io](https://tinalexander.github.io/) / [notes](https://tinalexander.github.io/notes/) / [2022](https://tinalexander.github.io/notes/2022/) / **10**
+
+Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+
+<br>
 
 # 10/27/2022
 
