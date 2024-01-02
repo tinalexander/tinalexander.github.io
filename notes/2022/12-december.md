@@ -6,7 +6,7 @@ date: 2022-12-30
 
 [tinalexander.github.io](https://tinalexander.github.io/) / [notes](https://tinalexander.github.io/notes/) / [2022](https://tinalexander.github.io/notes/2022/) / **12**
 
-Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+**Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).** 
 
 <br>
 
