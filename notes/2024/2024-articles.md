@@ -7,7 +7,11 @@ permalink: /notes/2024/articles/
 
 **Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).** 
 
+---
+
 <br>
+
+_Last modified: January 2, 2024_
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
