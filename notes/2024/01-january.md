@@ -11,6 +11,14 @@ Learn more [about this site](https://tinalexander.github.io/notes/) and [how to 
 
 # January 2, 2024
 
+## FDA spokesperson on baby formula recall
+
+- **Source:** email
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received January 2, 2024
+
+> As the inspection is ongoing, we are not able to provide a timeline for completion. For the latest updates please visit the infant formula recall alert webpage and the Constituent Update webpage.
+
 ## Reckitt spokesperson on baby formula recall
 
 - **Source:** email
