@@ -4,7 +4,11 @@ permalink: /notes/2023/07
 date: 2023-07-31
 ---
 
-:warning: Learn more [about these notes](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+[tinalexander.github.io](https://tinalexander.github.io/) / [notes](https://tinalexander.github.io/notes/) / [2023](https://tinalexander.github.io/notes/2023/) / **07**
+
+Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me). 
+
+<br>
 
 # July 31, 2023
 
