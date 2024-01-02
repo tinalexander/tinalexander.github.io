@@ -9,6 +9,20 @@ permalink: /notes/2024/01
 
 # January 2, 2024
 
+## Reckitt spokesperson on baby formula recall
+
+- **Source:** email
+- **Attribution:** Reckitt spokesperson
+- **Date:** received January 2, 2024
+
+> ...
+>
+> it’s not just the cans that were produced around the same time that turned up no signs of contamination.  All tests conducted by the FDA have been negative, including the sample from the batch made for Israel.
+> 
+> ...
+>  
+> The FDA has also conducted an inspection at the facility where both the batches were produced, including collecting environmental samples .  All tests performed by the FDA were negative. The factory continues to operate at full capacity.   However, Reckitt/Mead Johnson understands the incredible responsibility we have in providing what is often the sole nutrition for infants, and there can be no short cuts for this vulnerable population – therefore, we chose to recall select batches of Nutramigen out of an abundance of caution.  Parents should be reassured that they can continue to feed their infants with Reckitt/Mead Johnson Nutrition products, including other Nutramigen powder formula batches, with confidence.
+
 ## AstraZeneca spokesperson on AZD3152
 
 - **Source:** email
