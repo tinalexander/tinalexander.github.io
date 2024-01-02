@@ -7,7 +7,11 @@ permalink: /notes/2024/01
 
 **Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).** 
 
+---
+
 <br>
+
+_Last modified: January 2, 2024_
 
 # January 2, 2024
 
