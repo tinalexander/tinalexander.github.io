@@ -11,6 +11,14 @@ permalink: /notes/2024/01
 
 # January 3, 2024
 
+## Eli Lilly spokesperson on FAERS reports and GLP-1 receptor agonists
+
+- **Source:** email
+- **Attribution:** Eli Lilly spokesperson
+- **Date:** received January 3, 2024
+
+> Following rigorous study for many years in clinical trials and a robust approval process, medicines continue to be monitored by the FDA and manufacturer for safety. When the FDA identifies a potential safety issue, it creates a Newly Identified Safety Signal (NISS) for evaluation. Currently, the FDA is reviewing data on certain potential risks for GLP-1 receptor agonist medicines.  Patient safety is our priority, and we are collaborating with the FDA on these potential signals.
+
 ## FDA spokesperson on FAERS reports and GLP-1 receptor agonists
 
 - **Source:** email
