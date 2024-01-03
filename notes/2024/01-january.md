@@ -11,6 +11,14 @@ permalink: /notes/2024/01
 
 # January 3, 2024
 
+## FDA spokesperson on FAERS reports and GLP-1 receptor agonists
+
+- **Source:** email
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received January 3, 2024
+
+> The FDA monitors the safety of drugs throughout their life cycle, including post-approval. In addition, the FDA maintains a system of postmarketing surveillance and risk assessment programs to identify and evaluate adverse events that did not appear during the drug development process. If newly identified safety signals are identified, the FDA will determine what, if any, actions are appropriate after a thorough review of available data.
+
 ## Novo Nordisk spokesperson on FAERS reports and semaglutide
 
 - **Source:** email
