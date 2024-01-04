@@ -1,8 +1,21 @@
 title: Alexander Tin's notes
-description: Notes gathered by Alexander Tin while reporting for CBS News.
-author: "Alexander Tin"
+tagline: Notes gathered by Alexander Tin while reporting for CBS News.
+description: Notes gathered by Alexander Tin while reporting for CBS News about federal public health agencies.
+
+author: Alexander Tin
 email: TinA@CBSNews.com
 github_username: tinalexander
+
+social:
+  links:
+    - https://bsky.app/profile/alexander-a-tin.bsky.social
+    - https://threads.net/@alexander_a_tin
+    - https://twitter.com/Alexander_Tin
+    - https://linkedin.com/in/alextin/
+    - https://reddit.com/user/alexander_sn
+    - https://github.com/tinalexander
+
+locale: en_US
 
 plugins:
   - jekyll-seo-tag
