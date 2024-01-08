@@ -9,6 +9,26 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 8, 2024
+
+## CMS spokesperson on Paxlovid availability to Medicare beneficiaries
+
+- **Source:** email
+- **Attribution:** Centers for Medicare and Medicaid Services spokesperson
+- **Date:** received January 8, 2024
+
+> Paxlovid, an oral antiviral for COVID-19, is now available on the commercial market and the U.S. Government is winding down distribution of free oral antivirals. Medicare Part D enrollees can still obtain free Paxlovid through two pathways, either through their Part D plans or through Paxcess, Pfizer’s patient assistance program.
+> 
+> Has Medicare conducted any outreach to beneficiaries regarding eligibility for the Paxcess program for Paxlovid?
+> 
+> CMS and HHS continue to conduct outreach to our pharmacy, Part D sponsor, and pharmacy benefit manager partners to ensure smooth access to Paxlovid for Medicare enrollees. 
+> 
+> Are Part D plans required to inform members of the option
+> 
+> CMS encourages Part D sponsors to provide education and outreach to their enrollees and network pharmacies regarding whether the Part D sponsor will contract with Pfizer to offer Paxlovid at $0 cost sharing through the Part D plan, or instead, encourage enrollees and network pharmacies to utilize the standalone USG PAP operated by Pfizer.
+> 
+> For more information, please see the attached January 4, 2024 memo from CMS to Part D sponsors.
+
 # January 3, 2024
 
 ## Eli Lilly spokesperson on FAERS reports and GLP-1 receptor agonists
