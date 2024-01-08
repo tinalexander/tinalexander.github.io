@@ -11,6 +11,18 @@ permalink: /notes/2024/01
 
 # January 8, 2024
 
+## State health department on nirsevimab use
+
+- **Source:** bulletin
+- **Attribution:** Alaska Department of Health
+- **Date:** received January 8, 2024
+
+> Nirsevimab Administration
+> 
+> A huge thank you to all clinics administering nirsevimab. Despite the challenges and limited allocations, almost 50% of infants younger than 8 months have been immunized against RSV. Thank you for helping protect the most vulnerable. Beginning January 10, CDC will post monthly national estimates of nirsevimab receipt among children <8 months on RSVVaxView | CDC.  These will be based on parental report from the National Immunization Survey.
+> 
+> If your clinic still has doses on hand, please administer them. We are over halfway through the RSV season and doses administered now will offer the most protection to babies.
+
 ## CMS spokesperson on Paxlovid availability to Medicare beneficiaries
 
 - **Source:** email
