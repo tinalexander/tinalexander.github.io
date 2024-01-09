@@ -4,14 +4,32 @@
 
 <br>
 
+Built from a [Github repository](https://github.com/tinalexander/tinalexander.github.io/tree/main/):
+
 - [notes](https://tinalexander.github.io/notes/)
   - [2024](https://tinalexander.github.io/notes/2024/)
-    - ...
+    - [Articles](https://tinalexander.github.io/notes/2024/articles)
+    - [January](https://tinalexander.github.io/notes/2024/01)
   - [2023](https://tinalexander.github.io/notes/2023/)
-    - ...
+    - [Articles](https://tinalexander.github.io/notes/2023/articles)
+    - [January](https://tinalexander.github.io/notes/2023/01)
+    - [February](https://tinalexander.github.io/notes/2023/02)
+    - [March](https://tinalexander.github.io/notes/2023/03)
+    - [April](https://tinalexander.github.io/notes/2023/04)
+    - [May](https://tinalexander.github.io/notes/2023/05)
+    - [June](https://tinalexander.github.io/notes/2023/06)
+    - [July](https://tinalexander.github.io/notes/2023/07)
+    - [August](https://tinalexander.github.io/notes/2023/08)
+    - [September](https://tinalexander.github.io/notes/2023/09)
+    - [October](https://tinalexander.github.io/notes/2023/10)
+    - [November](https://tinalexander.github.io/notes/2023/11)
+    - [December](https://tinalexander.github.io/notes/2023/12)
   - [2022](https://tinalexander.github.io/notes/2022/)
-    - ...
-- [attachments](https://github.com/tinalexander/tinalexander.github.io/tree/main/notes/attachments)
-  - ...
- 
-Built from a [Github repository](https://github.com/tinalexander/tinalexander.github.io/tree/main/).
+    - [Articles](https://tinalexander.github.io/notes/2022/articles)
+    - [July](https://tinalexander.github.io/notes/2022/07)
+    - [August](https://tinalexander.github.io/notes/2022/08)
+    - [September](https://tinalexander.github.io/notes/2022/09)
+    - [October](https://tinalexander.github.io/notes/2022/10)
+    - [November](https://tinalexander.github.io/notes/2022/11)
+    - [December](https://tinalexander.github.io/notes/2022/12)
+- [⧉ attachments](https://github.com/tinalexander/tinalexander.github.io/tree/main/notes/attachments)
