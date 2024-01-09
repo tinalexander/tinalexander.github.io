@@ -4,7 +4,7 @@ permalink: /notes/2023/06
 date: 2023-06-29
 ---
 
-[tinalexander.github.io](https://tinalexander.github.io/) / [notes](https://tinalexander.github.io/notes/) / [2023](https://tinalexander.github.io/notes/2023/) / **06**
+[tinalexander.github.io](https://tinalexander.github.io/) / [notes](https://tinalexander.github.io/notes/) / [2023](https://tinalexander.github.io/notes/2023/) / **06** /
 
 **Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).** 
 

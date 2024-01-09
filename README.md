@@ -1,4 +1,4 @@
-[tinalexander.github.io](https://tinalexander.github.io/)
+[tinalexander.github.io](https://tinalexander.github.io/) /
 
 **Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).**
 

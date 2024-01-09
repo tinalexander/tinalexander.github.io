@@ -3,7 +3,7 @@ title: About Alexander Tin's notes
 permalink: /notes/
 ---
 
-[tinalexander.github.io](https://tinalexander.github.io/) / **notes**
+[tinalexander.github.io](https://tinalexander.github.io/) / **notes** /
 
 **Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).**
 
