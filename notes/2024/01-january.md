@@ -9,6 +9,16 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 9, 2024
+
+## Invivyd spokesperson on VYD222 request for authorization
+
+- **Source:** email
+- **Attribution:** Invivyd spokesperson
+- **Date:** received January 8, 2024
+
+> Unlike BLA’s which have clear timelines and PDUFA dates, the EUA pathway does not have a pre-specified ‘review clock’ so we are not able to provide any guidance on the potential timing.
+
 # January 8, 2024
 
 ## State health department on nirsevimab use
