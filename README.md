@@ -1,3 +1,17 @@
-This website is by [Alexander Tin](https://www.linkedin.com/in/alextin/), a staff digital reporter for CBS News covering federal public health agencies based out of the network's Washington, D.C. bureau. Previously, he was a campaign reporter for CBS News covering races for the 2020 cycle in Nevada, California, Arizona and New Mexico.
+[tinalexander.github.io](https://tinalexander.github.io/)
 
-You can read more about [why this website exists](https://tinalexander.github.io/notes/) and [ways to find or contact him](https://github.com/tinalexander).
+**Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).**
+
+<br>
+
+- [notes](https://tinalexander.github.io/notes/)
+  - [2024](https://tinalexander.github.io/notes/2024/)
+    - ...
+  - [2023](https://tinalexander.github.io/notes/2023/)
+    - ...
+  - [2022](https://tinalexander.github.io/notes/2022/)
+    - ...
+- [attachments](https://github.com/tinalexander/tinalexander.github.io/tree/main/notes/attachments)
+  - ...
+ 
+Built from a [Github repository](https://github.com/tinalexander/tinalexander.github.io/tree/main/).
