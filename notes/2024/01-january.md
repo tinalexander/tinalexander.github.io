@@ -9,6 +9,18 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 10, 2024
+
+## CDC spokesperson on healthcare personnel vaccinations
+
+- **Source:** email
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received January 10, 2024
+
+> There has not been a pause in the reporting of healthcare personnel vaccination data. CDC is still receiving these data.  Posting of the healthcare personnel vaccination has been temporarily paused for the week of January 1-7, 2024, while we transition from collecting primary series and up-to-date vaccinations to only collecting up-to-date vaccination data. 
+> 
+> This change is in accordance with the CMS quality reporting program measure updates.
+
 # January 9, 2024
 
 ## Invivyd spokesperson on VYD222 request for authorization
