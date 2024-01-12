@@ -9,6 +9,62 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 12, 2024
+
+## ASPR official on affordability for Paxlovid
+
+- **Source:** [webinar](https://www.youtube.com/watch?v=K0V_yhpy6CQ&t=3089s)
+- **Attribution:** published by the National Press Foundation
+- **Date:** broadcasted January 11, 2024
+
+> Meghan Pennini, ASPR [00:14:10]
+> 
+> Bottom line is no one should be paying full price for Paxlovid. There are programs in place to ensure that, unless they choose to right, if somebody wants to pay, of course they can, if they don't want to enroll or they don't want to leverage these programs, they can. But we really want to emphasize that the best way to make sure, especially as everybody's getting educated and, things are ramping up, the best way to ensure that you really get the best no cost or very low cost Paxlovid is that you enroll ahead of time, right? 
+> 
+> You go to the webpage, you'll be directed to which program is right for you, and you walk into the pharmacy with the paperwork that says this is the program I fall under, and this is how I get my product. 
+> 
+> So of course it can also happen at the pharmacy counter, right, where things are, are ramping up and, payers and pharmacies are getting all on board. 
+> 
+> But again, the best way to just ensure, especially in this time period, is to take that initiative for your patient. You know, we want providers to be aware of that. We want the public to be aware of that. We want the pharmacies, everybody right across the board to be aware of that program. 
+> 
+> ...
+> 
+> Meghan Pennini, ASPR [00:19:39]
+> 
+> Just to go back to the point of the patient journey, and we appreciate right that we want to make this as seamless as possible. We also want to make sure that there's broad access. And so that's why we set up these programs.
+> 
+> But just to be clear, it should work at the counter. That's the goal. We're trying to make sure that gets implemented, so it's a seamless process for the patient, but again, especially in this time of transition, it's good to take the initiative when you can, and do that enrollment ahead of time. 
+> 
+> But, but I just-- I don't want to belittle the efforts, monumental efforts, that our pharmacy teams and payer teams are doing to make this a seamless process sort of on the back end, so patients don't even notice.
+> 
+> ...
+> 
+> Meghan Pennini, ASPR [00:19:39]
+> 
+> Just to go back to the point of the patient journey, and we appreciate right that we want to make this as seamless as possible. We also want to make sure that there's broad access. And so that's why we set up these programs.
+> 
+> But just to be clear, it should work at the counter. That's the goal. We're trying to make sure that gets implemented, so it's a seamless process for the patient, but again, especially in this time of transition, it's good to take the initiative when you can, and do that enrollment ahead of time. 
+> 
+> But, but I just-- I don't want to belittle the efforts, monumental efforts, that our pharmacy teams and payer teams are doing to make this a seamless process sort of on the back end, so patients don't even notice.
+> 
+> ...
+> 
+> Question [00:23:43]
+> 
+> With Paxcess, what are you seeing in terms of enrollment? Is the participation where you would like it to be?
+> 
+> Meghan Pennini, ASPR [00:23:52]
+> 
+> Yeah, so I can say, it's still in early days.
+> 
+> What I didn't get a chance to mention, and thank you for the opportunity, is there still is a lot of fully free USG distributed product out there sitting in pharmacies. And so, it will take a little bit of time. 
+> 
+> It's millions of patient courses. So it will take time for that to get used up, which is great, right? You can still find places where you can get absolutely free, no enrollment, nothing, product. And so until that really is drawn down, we won't start to see these other programs being leveraged as heavily. 
+> 
+> But I will say we know that it's being used now. It's really in the-- but not to the full extent, because obviously there's still this EUA product and people are being advised to use that up first, and then transition to the commercial product, which then you have to start leveraging these programs. 
+> 
+> So we know it works, but it's not getting used in high volumes as expected, because we're still using that fully free USG distributed product.
+
 # January 10, 2024
 
 ## CDC spokesperson on healthcare personnel vaccinations
