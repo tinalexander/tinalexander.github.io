@@ -9,6 +9,16 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 16, 2024
+
+## HHS spokesperson on marijuana rescheduling documents [obtained by Matthew Zorn](https://ondrugs.substack.com/p/hhs-releases-cannabis-recommendation)
+
+- **Source:** email
+- **Attribution:** Department of Health and Human Services spokesperson
+- **Date:** received January 12, 2024
+
+> "As we’ve said before, HHS has concluded their independent review, guided by the evidence. These documents reflect HHS’ evaluation of the scientific and medical evidence and its scheduling recommendation to DOJ. The scheduling review is now with DOJ."
+
 # January 12, 2024
 
 ## ASPR official on affordability for Paxlovid
