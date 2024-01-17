@@ -11,6 +11,8 @@ permalink: /notes/2024/01
 
 # January 17, 2024
 
+## HHS spokesperson on [GenBank submission of SARS-CoV-2](https://energycommerce.house.gov/posts/e-and-c-investigation-uncovers-earliest-known-sars-co-v-2-sequence-released-outside-of-china) by Lili Ren 
+
 - **Source:** email
 - **Attribution:** Department of Health and Human Services spokesperson
 - **Date:** received January 17, 2024
