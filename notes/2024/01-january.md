@@ -9,6 +9,18 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 17, 2024
+
+- **Source:** email
+- **Attribution:** Department of Health and Human Services spokesperson
+- **Date:** received January 17, 2024
+
+> “The submission in question was unable to be verified, despite follow-ups by NIH to the Chinese scientist for more information and a response. While waiting for the submitter to provide information to verify the sequence, another submission of a nearly identical sequence but with verifiable details was submitted to GenBank by another group and verified for inclusion on January 12, 2020, providing the genetic sequence for SARS-CoV-2. This publicly available information was what was used by NIH scientists and others in their work to understand the origins of COVID-19.
+> 
+> “We agree that valuable, bipartisan work remains to address the Chinese government's lack of transparency and ensure investigators can access critical information about the origin of COVID-19, so we can better understand how to prevent future pandemics.
+>  
+> “HHS has consistently and voluntarily provided Congress with thousands of pages of documents, as well as the expertise of officials, as part of its effort to promote transparency and understanding on the origins of COVID-19.”
+
 # January 16, 2024
 
 ## HHS spokesperson on marijuana rescheduling documents [obtained by Matthew Zorn](https://ondrugs.substack.com/p/hhs-releases-cannabis-recommendation)
