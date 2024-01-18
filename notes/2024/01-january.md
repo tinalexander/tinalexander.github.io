@@ -9,6 +9,16 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 18, 2024
+
+## Pfizer spokesperson on Paxcess program enrollment
+
+- **Source:** email
+- **Attribution:** Pfizer spokesperson
+- **Date:** received January 16, 2024
+
+> I can share that as of January 2, approximately 55,000 pharmacies are contracted and online with the ability to participate in the Patient Assistance Program. These pharmacies are represented across all 50 states and represent a significant portion of historical PAXLOVID volume. This includes retail chains such as CVS, Walgreens, Walmart, Kroger, Costco, H-E-B, Albertson’s, Meijer at this time, along with a number of independent pharmacies across the country. Additionally, contracts are being signed and pharmacies coming online on an ongoing basis, so this number will continue to increase. And, if a patient seeks to fill the PAXLOVID prescription at a pharmacy not participating in the USG PAP, or if a pharmacy does not have PAXLOVID inventory, overnight shipping to the patient’s home is also available.
+
 # January 17, 2024
 
 ## HHS spokesperson on [GenBank submission of SARS-CoV-2](https://energycommerce.house.gov/posts/e-and-c-investigation-uncovers-earliest-known-sars-co-v-2-sequence-released-outside-of-china) by Lili Ren 
