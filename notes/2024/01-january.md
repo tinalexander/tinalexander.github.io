@@ -9,6 +9,18 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 19, 2024
+
+## CDC spokesperson on new cases of applesauce lead poisonings
+
+- **Source:** email
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received January 19, 2024
+
+> The increase in case counts reflects newly reported cases, for which the time of applesauce consumption varies. There is still ongoing outreach to find new cases at this time, and communication efforts to spread awareness of the dangers of these products are focused on preventing future exposures. Additionally, FDA is working with retailers to ensure that all products have been removed from shelves, and they would be the appropriate contact for updates to the recall work.
+> 
+> CDC’s immediate recommendations are to avoid eating cinnamon-containing apple purée or applesauce products included in the FDA recall announcements. Anyone who may have eaten the affected products should talk with their healthcare provider and get a blood test for lead.
+
 # January 18, 2024
 
 ## Pfizer spokesperson on Paxcess program enrollment
