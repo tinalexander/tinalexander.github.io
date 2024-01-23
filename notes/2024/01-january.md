@@ -87,42 +87,51 @@ permalink: /notes/2024/01
 - **Attribution:** Charla Haley of the Utah Department of Health and Human Services
 - **Date:** received January 22, 2024
 
-> From: Charla Haley (DHHS) 
-> <br>Sent: Monday, January 22, 2024 11:07 AM
-> <br>To: Tin, Alex 
-> <br>Subject: Re: Question about lead applesauce poisonings
->  
-> <External Email>
-> 
-> They are from exposures from last year. 
-> 
-> Charla Haley
-> <br>Public information officer
-> 
-> ...
-> 
-> On Mon, Jan 22, 2024 at 9:01 AM Tin, Alex wrote:
-> 
-> Thanks for getting back to me.
-> 
-> Do you know when was the most recent exposure?
-> 
-> Curious if it's the result of a recent exposure from after the recall, or just case finding resulting from an exposure that happened last year.
-> 
-> Alexander Tin
-> 
-> ...
-> 
 > From: Charla Haley (DHHS)
-> <br>Sent: Monday, January 22, 2024 10:58 AM
-> <br>To: Tin, Alex 
+> <br>
+> <br>Sent: Monday, January 22, 2024 11:07 AM
+> <br>
+> <br>To: Tin, Alex
+> <br>
 > <br>Subject: Re: Question about lead applesauce poisonings
->  
-> <External Email>
-> 
-> We have 2 confirmed cases in Utah.
-> 
-> Charla Haley
+> <br>
+> <br><External Email>
+> <br>
+> <br>They are from exposures from last year. 
+> <br>
+> <br>Charla Haley
+> <br>Public information officer
+> <br>
+> <br>
+> <br>...
+> <br>
+> <br>
+> <br>On Mon, Jan 22, 2024 at 9:01 AM Tin, Alex wrote:
+> <br>
+> <br>Thanks for getting back to me.
+> <br>
+> <br>Do you know when was the most recent exposure?
+> <br>
+> <br>Curious if it's the result of a recent exposure from after the recall, or just case finding resulting from an exposure that happened last year.
+> <br>
+> <br>Alexander Tin
+> <br>
+> <br>
+> <br>...
+>< br>
+> <br>
+> <br>From: Charla Haley (DHHS)
+> <br>Sent: Monday, January 22, 2024 10:58 AM
+> <br>To: Tin, Alex
+> <br>
+> <br>Subject: Re: Question about lead applesauce poisonings
+> <br>
+> <br>
+> <br> External Email
+> <br>
+> <br>We have 2 confirmed cases in Utah.
+> <br>
+> <br>Charla Haley
 > <br>Public information officer
 
 # January 19, 2024
