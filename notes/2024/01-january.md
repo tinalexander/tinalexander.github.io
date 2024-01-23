@@ -11,6 +11,22 @@ permalink: /notes/2024/01
 
 # January 23, 2024
 
+## Massachusetts health department on applesauce lead poisonings
+
+- **Source:** email
+- **Attribution:** Massachusetts health department spokesperson
+- **Date:** received January 23, 2024
+
+> On Background:
+> 
+> In response to the lead-tainted applesauce recall, the Department of Public Health (DPH) Childhood Lead Poisoning Prevention Program (CLPPP) last year conducted targeted outreach to warn parents not to buy or use recalled lead-tainted applesauce puree pouches.
+> 
+> CLPPP sent out a notice on the Health and Homeland Alert Network (HHAN) to clinicians and local health departments, and informed DPH’s Women Infants and Children’s program and the Department of Early Education and Childcare about the recall.  
+> 
+> DPH’s Food Protection Program staff reviewed FDA’s inventory of Dollar Tree stores, where these products were sold, and worked closely with local boards of health to follow-up with various municipalities to track product removal from shelves.
+> 
+> Using CDC’s definition of potential cases, CLPPP case management staff identified five poisoned children potentially linked to consumption of the recalled products and reported the cases to CDC. CDC guidance recommends including cases where suspected consumption was within three months of the associated blood test; therefore, it’s difficult to determine if the potential exposure occurred before or after the recall announcement.
+
 ## CDC officials at call with testing laboratories
 
 - **Source:** [webinar](https://www.cdc.gov/locs/2024/01-19-2024-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_January_19.html)
