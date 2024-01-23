@@ -9,6 +9,76 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 23, 2024
+
+## CDC officials at call with testing laboratories
+
+- **Source:** [webinar](https://www.cdc.gov/locs/2024/01-19-2024-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_January_19.html)
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** broadcasted January 22, 2024
+
+> Eduardo Azziz-Baumgartner, CDC [00:16:57]
+> 
+> In this map, you see changes in hospital admissions attributed to COVID 19. Green means that there's been a decrease compared to previous weeks, and orange means that there's been an increase in admissions, again, attributed to COVID 19, how much greener the map is on the January 13th cut.
+> 
+> So that's good news, that's compared to January 6th, hospitalizations. But they seem to have stabilized pretty much. And, we have to be careful though about making too many inferences about that because we could see an uptick again of cases, as adults return to work, after the holidays and children returned to school, after the winter holidays.
+> 
+> We have to wait and see.
+> 
+> Next slide, please. All right.
+> 
+> Let's see here, you see a steep flu COVID and RSV hospitalization rate that curbs up, per a hundred thousand population, in December. That seems to have come to a halt in those gray boxes. It seems to have stalled and halted. So it may be trending down that inflection point, however, it is within the gray bars, that gray box again of uncertainty. 
+> 
+> We have to wait to see if those trends, if that pattern continues, whether it continues to trend down, or if there's back filling of information that suggests that we're creeping up again after a little notch or divot on the curve. 
+> 
+> ...
+> 
+> Eduardo Azziz-Baumgartner, CDC [00:18:54]
+> 
+> Here on the table on the left and on the figure on the right, you'll notice that the percentage of available inpatient bed and ICU beds that are occupied, the encumbered beds, you can see in the purple line in that figure, the inpatient ward beds that are occupied by adults is close to 78% and with really little room for additional admissions. 
+> 
+> Similarly, you see in the green line, the inpatient beds that are occupied by children is at 69%, again, not a lot of room for additional admissions. 
+> 
+> And we're hearing from some jurisdictions in New England, for example, in Massachusetts, that they're really having a hard time with using all their bed capacity. 
+> 
+> Now, this is after a drop in the holidays in bed occupancy. This is not uncommon during the holidays, for the bed occupancy to go down a little bit again because of health utilization patterns. But we don't know if this is going to be a-- where the trend is going, where the pattern is going to go beyond the gray box of uncertainty. 
+> 
+> Again, what we know is that it has increased in the wards for both adults and children and, among adults in ICU beds, although the pediatric ICU admissions currently remains stable. 
+> 
+> ...
+> 
+> Eduardo Azziz-Baumgartner, CDC [00:22:18]
+> 
+> We really depend on biologic surveillance during the season to guide response, not only to from week to week to really tailor messages to the community, to fine tune how we respond to the viruses, not only at the local jurisdictions that you do with your own leadership, but here also at CDC and in other parts of HHS.
+> 
+> Now, it is important to note that one of the key measures that we track is for example, present positivity, percent of laboratory testing that turns out to be positive. We look for detection of novel viruses. You heard, of course, the JN.1 presentation from my colleague. 
+> 
+> And then, we also look for information that will help us with strain selection for what goes into the vaccines from these viral systems, and surveillance systems. And then we also look for antiviral resistance so that we can guide, help our clinicians stay informed about what antiviral work for which viruses and when they stop working as has happened historically, for flu for example.
+> 
+> ...
+> 
+> Question [00:27:19]
+> 
+> Maybe you can address this is whether or not the symptoms with the new variant seem to be more severe or, or not?
+> 
+> Eduardo Azziz-Baumgartner, CDC [00:27:28]
+> 
+> Yeah, that's a really important question. And it looks like from the deep surveillance systems that are going that these electronic medical record cohorts and whatnot, there are early signals that that may not be the case, but we don't know yet. 
+> 
+> And so we're going to have increase-- the data's going to accrue during the next couple weeks, and hopefully we'll be able to get a better information out to our colleagues about the severity of JN.1. It doesn't look like it, it doesn't look like it. 
+> 
+> Now, it's important to remember that how a virus affects an individual is a unique-- an n of one, right? It could be very severe. People could die from a virus that, to the general population, may be milder. But it can still. These viruses can kill.
+> 
+> It's important to remember. So please do contact medical providers if you need to, and take care of your people please.
+> 
+> ...
+> 
+> Eduardo Azziz-Baumgartner, CDC [00:31:31]
+> 
+> There is some preliminary data that suggests that co-infections may be associated with more severe disease, but the data's inconclusive. And, and I think we're still trying to understand this. 
+> 
+> And part of the reason that is complicated is because we rely a lot on observational data for these findings, because it's not a common occurrence, but let's get back to you on that, please.
+
 # January 22, 2024
 
 ## Utah health department on lead applesauce poisonings
