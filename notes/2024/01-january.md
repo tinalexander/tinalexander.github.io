@@ -9,6 +9,34 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 24, 2024
+
+## America's Poison Centers on tianeptine exposures data 
+
+- **Source:** email
+- **Attribution:** spokesperson for America's Poison Centers
+- **Date:** received January 24, 2024
+
+> Thank you for reaching out. Please see the data below for all tianeptine exposures. We are not able to provide data specific to Neptune’s Fix.  
+> 
+> Most cases of tianeptine exposures reported to U.S. Poison Centers involved adults intentionally using the substance to get high. Symptoms reported range from agitation, increased heart rate, and confusion to more severe symptoms similar to opioid toxicity including sedation, respiratory depression, and slowed heart rate. Please cite America’s Poison Centers as the source for this data.
+> 
+> Human Exposures Involving Tianeptine Reported to U.S. Poison Centers, January 1, 2019 - December 31, 2023
+> 
+> Year    Case Count
+> 
+> 2019    105
+> 
+> 2020    151
+> 
+> 2021    210
+> 
+> 2022    246
+> 
+> 2023    391
+> 
+> I would also ask that you include our Poison Help phone number and website as a resource.  Here is suggested language: “If you have question about tianeptine, or need emergency assistance contact Poison Help at 1-800-222-1222 or visit PoisonHelp.org for additional resources.”
+
 # January 23, 2024
 
 ## Massachusetts health department on applesauce lead poisonings
