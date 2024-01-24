@@ -11,6 +11,20 @@ permalink: /notes/2024/01
 
 # January 24, 2024
 
+## Upstate New York Poison Center on Neptune's Fix reports
+
+- **Source:** email
+- **Attribution:** spokesperson for Upstate New York Poison Center
+- **Date:** received January 24, 2024
+
+> We have had 3 calls from January 2023 to today specifically indicating they took Neptune’s Fix, but 13 calls total from January 2023 to today for tianeptine in general.
+> 
+> Calls to our helpline, 1-800-222-1222, can come from anywhere in our 54-county coverage area - including from a home or a healthcare facility.
+> 
+> Tianeptine is not available in the United States as an approved drug. It is sold as a dietary supplement with claims it improves brain function and treats anxiety, depression, and opioid use disorder. 
+> 
+> Dr. Jeanna Marraffa, Clinical Director of the Upstate New York Poison Center, says, “Our poison center recommends avoiding products containing tianeptine. Severe side effects include sleepiness, confusion, agitation, slowed breathing, and even coma. Contact your doctor for opioid dependence, anxiety, or depression treatment. However, the Upstate New York Poison Center is available 24/7/365 to take your calls with questions or concerns. All calls are free and confidential.”
+
 ## America's Poison Centers on tianeptine exposures data 
 
 - **Source:** email
