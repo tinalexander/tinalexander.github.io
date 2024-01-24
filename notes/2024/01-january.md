@@ -23,7 +23,7 @@ permalink: /notes/2024/01
 > 
 > Tianeptine is not available in the United States as an approved drug. It is sold as a dietary supplement with claims it improves brain function and treats anxiety, depression, and opioid use disorder. 
 > 
-> Dr. Jeanna Marraffa, Clinical Director of the Upstate New York Poison Center, says, “Our poison center recommends avoiding products containing tianeptine. Severe side effects include sleepiness, confusion, agitation, slowed breathing, and even coma. Contact your doctor for opioid dependence, anxiety, or depression treatment. However, the Upstate New York Poison Center is available 24/7/365 to take your calls with questions or concerns. All calls are free and confidential.”
+> Jeanna Marraffa, PharmD, Clinical Director of the Upstate New York Poison Center, says, “Our poison center recommends avoiding products containing tianeptine. Severe side effects include sleepiness, confusion, agitation, slowed breathing, and even coma. Contact your doctor for opioid dependence, anxiety, or depression treatment. However, the Upstate New York Poison Center is available 24/7/365 to take your calls with questions or concerns. All calls are free and confidential.”
 
 ## America's Poison Centers on tianeptine exposures data 
 
