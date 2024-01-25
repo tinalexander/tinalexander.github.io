@@ -11,7 +11,7 @@ permalink: /notes/2024/01
 
 # January 25, 2024
 
-## Response from Neptune Resources LLC to FDA warning
+## Response from Neptune Resources LLC about FDA warning
 
 - **Source:** text messages
 - **Attribution:** Chad Hueffmeier of Neptune Resources LLC
