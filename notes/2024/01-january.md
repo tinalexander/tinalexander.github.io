@@ -11,6 +11,14 @@ permalink: /notes/2024/01
 
 # January 25, 2024
 
+## New Jersey's poison control center on Neptune's Fix
+
+- **Source:** email
+- **Attribution:** Alicia Gambino, New Jersey Poison Control Center spokesperson
+- **Date:** received January 25, 2024
+
+> Several bottles of Neptune's Fix were tested. Substances identified included tianeptine, kava, two synthetic cannabinoids, and two plant cannabinoids.
+
 ## Pennsylvania's poison control center on Neptune's Fix
 
 - **Source:** email
