@@ -18,6 +18,10 @@ permalink: /notes/2024/01
 - **Date:** received January 25, 2024
 
 > Several bottles of Neptune's Fix were tested. Substances identified included tianeptine, kava, two synthetic cannabinoids, and two plant cannabinoids.
+> 
+> ...
+> 
+> Not all of the bottles contained all of the listed substances; however, all of them did contain tianeptine.
 
 ## Pennsylvania's poison control center on Neptune's Fix
 
