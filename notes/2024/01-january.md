@@ -11,6 +11,14 @@ permalink: /notes/2024/01
 
 # January 25, 2024
 
+## Pennsylvania's poison control center on Neptune's Fix
+
+- **Source:** email
+- **Attribution:** Rick Pietzak, University of Pittsburgh Medical Center spokesperson
+- **Date:** received January 25, 2024
+
+> The Pittsburgh Poison Center at UPMC has had only occasional calls related to Neptune's fix. Nothing significant or urgent in nature. 
+
 ## Response from Neptune Resources LLC about FDA warning
 
 - **Source:** text messages
