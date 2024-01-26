@@ -77,7 +77,9 @@ permalink: /notes/2024/01
 > 
 > So I just wanted to talk a little bit about the assets of the ICATT program. So, what do we have that's sort of at stake or what do we have to sort of figure out what we do or don't do it? We've got testing sites. They take a long time to set up this network and connect them to data systems. 
 > 
-> The cost of rebuilding in terms of funding we're estimating, it's probably-- it's probably south of 50 million dollars. It's probably somewhere between 10 to 50 million dollars. If we were to say, all right, let's just put this on the shelf and, pull it off the shelf and rebuild it for the next pandemic, you're looking at sort of tens of billions of dollars, I think, to do that.  Somewhere between like 10 and 50.
+> The cost of rebuilding in terms of funding we're estimating, it's probably-- it's probably south of 50 million dollars. It's probably somewhere between 10 to 50 million dollars.
+>
+> If we were to say, all right, let's just put this on the shelf and, pull it off the shelf and rebuild it for the next pandemic, you're looking at sort of tens of millions of dollars, I think, to do that.  Somewhere between like 10 and 50.
 > 
 > Just staffing alone is three million dollars a year, just for government staff. And then contractors at, potentially one to two of that. 
 > 
