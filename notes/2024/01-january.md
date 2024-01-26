@@ -9,6 +9,102 @@ permalink: /notes/2024/01
 
 <br>
 
+# January 26, 2024
+
+## CDC official on future of ICATT program
+
+- **Source:** meeting of the Board of Scientific Counselors, Office of Readiness and Response
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** met on January 25, 2024
+
+> Joseph Miller, CDC [00:49:38]
+> 
+> So the goal of the ICATT program, largely I think if you try to put it under one umbrella, it's changed over time. But it's really to provide, I think, equitable health services to underprivileged communities during outbreak scenarios. And we do that through pharmacy partnerships. 
+> 
+> And so we really have four missions or sub goals. 
+> 
+> They are one, to provide equitable diagnostic testing for COVID or at risk communities. And we focus on medical necessity and uninsured populations, medical necessity, meaning people that are symptomatic. 
+> 
+> We also provide surge testing for states and local jurisdictions when there's a lot of demand for testing. However, we haven't done this in a couple years and we don't intend to do it anytime soon. But it's a capability that we have within our contracts. 
+> 
+> We also provide testing to unaccompanied minors along the Southern border. This activity we anticipate will wind down over the next year. 
+> 
+> And then we also, uh, partner with the Bridge Access Program who provides COVID vaccines to the uninsured and underinsured. And we serve as the sort of the conduit between the Bridge program and the pharmacies. We provide contracting support, budget support, financial support, quality and data support as well to the that program. 
+> 
+> ...
+> 
+> Joseph Miller, CDC [00:52:48]
+> 
+> We have testing sites in all 50 states, including DC and Puerto Rico. We have about 10,000 active testing sites and any given week, about 2,000, 2,500 sites are testing. And we do anywhere from five to 10,000 tests per week. 
+> 
+> We prioritize sites in terms of social vulnerability, urbanity, and also access, easy access to testing and our testing sites primarily include now pharmacies and clinics. 
+> 
+> Historically we had, you know, as you can read here, like retail sites and firehouses and police stations and libraries, but for the large part, we've sort of pulled back from that and are now focusing on testing and pharmacies and clinics. 
+> 
+> Through these contracts, we're able to do antigen tests, and NAAT tests that are point of care tests, also laboratory tests, flu COVID multiplex tests. And we do a little bit of over the counter tests, but that's really just in a collaboration with NIH. But we have those capabilities. 
+> 
+> ...
+> 
+> Joseph Miller, CDC [00:54:33]
+> 
+> We also support testing along the Southern border. So we have about eight sites,that's seven CBP sites or Customs and Border Patrol sites, and one ICF site, which is an influx care facility. 
+> 
+> These are sites that hold children that have illegally crossed the border. And we perform testing in those sites as the children pass through ORR or CBP custody.
+> 
+> ...
+> 
+> Joseph Miller, CDC [00:55:09]
+> 
+> So currently 24,000 sites are enrolled with ICATT to do vaccinations as part of the Bridge Access Program. And I think to date about 20,000 of those 24,000 sites have actually administered vaccines. 
+> 
+> And I think we're almost, I think we're butting up to about close to doing about a million vaccines in that program somewhere around 700,000 or so.
+> 
+> ...
+> 
+> Joseph Miller, CDC [00:59:56]
+> 
+> ICATT is a very data driven program. We get tons and tons of data. 
+> 
+> So we have, like I said, about 50 million lines of data. We collect data on a daily basis from our vendors. So we collect testing data and vaccination data, probably multiple times a week. We then take that data and we display it internally and externally on dashboards. So it's displayed to our state partners and also to partners across the CDC and across the federal government. 
+> 
+> A lot of our data is used for things like surveillance, research projects, understanding what the current operating picture is for COVID. We look at vaccine effectiveness, we track different strains or try to detect new strains of COVID, etc. 
+> 
+> ...
+> 
+> Joseph Miller, CDC [01:07:27]
+> 
+> So we have funding through May 2025, but after that, our funding is not clear. Next slide. 
+> 
+> So I just wanted to talk a little bit about the assets of the ICATT program. So, what do we have that's sort of at stake or what do we have to sort of figure out what we do or don't do it? We've got testing sites. They take a long time to set up this network and connect them to data systems. 
+> 
+> The cost of rebuilding in terms of funding we're estimating, it's probably-- it's probably south of 50 million dollars. It's probably somewhere between 10 to 50 million dollars. If we were to say, all right, let's just put this on the shelf and, pull it off the shelf and rebuild it for the next pandemic, you're looking at sort of tens of billions of dollars, I think, to do that.  Somewhere between like 10 and 50.
+> 
+> Just staffing alone is three million dollars a year, just for government staff. And then contractors at, potentially one to two of that. 
+> 
+> During the pandemic, we used about three billion dollars of funding to sort of put it in scale about what it costs to build the program and run it and what it might cost to maintain it, which is probably, I think maintaining, it would be in the low single digit million dollars, millions of dollars per year, closer to zero than 10. 
+> 
+> We have a lot of trust with our, our pharmacy partners. I think we're able to do things with them that other government agencies would probably struggle to do, because we just built a lot of trust and personal relationships over the last three years. 
+> 
+> We have contracts that have-- we've done three rounds of contracts, and we think we're like almost to the point where we have like a perfect contract. Contracting is so difficult to really plan for everything ahead of time. But these are contracts that change over time. And I think, they're night and day from where we initially started and they're extremely complex and restarting. Those would take a lot of effort. 
+> 
+> And we have data systems. This is-- would be the, a lot of the cost of rebuilding the program. 
+> 
+> And then sort of the knowledge base. We have a group of people that know a lot about pharmacies and how they operate, we know the difference between insurance systems for medical benefits and pharmacy benefits, how they're processed and you know, what they're good for and not good for. And so I think that a lot of that would be lost if we had to shelve the program.
+> 
+> ...
+> 
+> Joseph Miller, CDC [01:10:48]
+> 
+> And so some questions that I have for folks here are, where does this program, if it fits within the agency, where would it best fit? How should this program scale in terms of capabilities and scope and people, after contracts expire in 2025?
+> 
+> Does the warm based strategy makes sense for ICATT? Or should it be sort of a book that you pull off the shelf as opposed to one that you read, from time to time.
+> 
+> If we do a warm based strategy, what do we do, which kind of activities would be best to pursue, during peace time, when ICATT is not in the response mode?
+> 
+> What should the scope be for the ICATT program in terms of testing and vaccination, therapeutics, telemedicine, etc? Should we continue to support the uninsured or should it be broader than supporting the uninsured? 
+> 
+> What are other pathogens that we can think about including in this program and how might we leverage partnerships with other federal state and local governments or departments of health, and I'll put it in there academics as well.
+
 # January 25, 2024
 
 ## New Jersey's poison control center on Neptune's Fix
