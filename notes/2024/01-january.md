@@ -11,6 +11,26 @@ permalink: /notes/2024/01
 
 # January 26, 2024
 
+## New York City on adverse events from use of Neptune's Fix
+
+- **Source:** email
+- **Attribution:** Shari Logan, New York City Department of Health and Mental Hygiene spokesperson
+- **Date:** received January 26, 2024
+
+> Thanks for your patience on this. Please see response below.
+> 
+> 2023:    5 cases
+> 
+> 2022:    fewer than 5
+> 
+> 2021:    fewer than 5
+> 
+> 2020:    fewer than 5
+> 
+> 2019:    6 cases
+> 
+> 2018:    fewer than 5
+
 ## CDC official on future of ICATT program
 
 - **Source:** meeting of the Board of Scientific Counselors, Office of Readiness and Response
