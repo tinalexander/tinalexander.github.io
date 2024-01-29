@@ -152,7 +152,7 @@ permalink: /notes/2024/01
 ## Response from Neptune Resources LLC about FDA warning
 
 - **Source:** text messages
-- **Attribution:** Chad Hueffmeier of Neptune Resources LLC
+- **Attribution:** representative of Neptune Resources LLC
 - **Date:** received January 24, 2024
 
 > Neptune Resources LLC did NOT have a single serious injure/illness reported.  Every serious illness reported was from a counterfeit product made by a New York-based company called Super Chill.
