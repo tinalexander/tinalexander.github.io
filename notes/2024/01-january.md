@@ -11,6 +11,42 @@ permalink: /notes/2024/01
 
 # January 29, 2024
 
+## Response from CDC's Jonathan Mermin about 2022 report on sexually transmitted infections
+
+- **Source:** emailed statement
+- **Attribution:** Jonathan Mermin of the Centers for Disease Control and Prevention
+- **Date:** received January 30, 2024
+
+> Attributable to: Jonathan Mermin, M.D., M.P.H., director of CDC’s National Center for HIV, Viral Hepatitis, STD, and TB Prevention.
+> 
+> What is known about why syphilis cases previously decreased in the 1950s and 1990s:
+> The availability of penicillin played a role in reductions that started in the late-1940s. And we know reductions in the 90s were at least in part due to changes in sexual behaviors due to the HIV epidemic.
+> 
+> However, the current increases in syphilis are being driven by several factors, so it’s going to take multiple solutions to turn the epidemic around. Some of these driving factors include:
+> 
+> reductions in STI services at the state and local level;
+> increases in substance use, which has been linked to less safe sexual practices;
+> ongoing social and economic conditions that make it more difficult for some populations to avoid STIs;
+> decreases in condom use;
+> challenges stemming from the fact that STIs continue to be stigmatized – stigma buries the truth that all people deserve quality sexual healthcare to live healthy lives and it can deter people from taking action to prevent and treat STIs.
+> Controlling syphilis and other sexually transmitted infections (STIs) requires robust public health systems and workforces, and prevention strategies that are tailored to the specific needs of affected communities. There are no shortcuts to syphilis control.
+> 
+> Additionally, the vast majority (86%) of syphilis cases were diagnosed outside of STI clinics in 2022. Health workers in a variety of settings – including primary care, emergency departments, community health, correctional, and drug treatment programs – can play a vital role in stopping the syphilis epidemic when they expand efforts to test and treat people for syphilis.
+> 
+> And while the STI field saw several promising innovations and actions in the past year (e.g., National Syphilis Federal Task Force, CDC Doxy PEP draft guidelines, FDA authorizing first at-home test for gonorrhea and chlamydia), there are still several gaps left to fill to develop the right mix of syphilis testing, prevention, and treatment solutions for more people.
+> 
+> Expanding syphilis cases beyond MSM demographics?
+> We know that syphilis in the heterosexual population and drug use, particularly methamphetamine use, are intersecting epidemics, and syphilis has spread among heterosexual men and women for decades.
+> 
+> Additional background
+> 
+> Rates of primary and secondary (P&S) syphilis among women have increased since 2013. During 2021 to 2022, the national rate of P&S syphilis among women increased 19 %. These increases among women are concurrent with increases in cases among heterosexual men, reflecting an expanding heterosexual syphilis epidemic in the United States. Additionally, gay and bisexual men continue to be disproportionately impacted by syphilis, accounting for almost half (45 %) of all male P&S syphilis cases in 2022. During 2021 to 2022, the number of cases of P&S syphilis among MSM increased 4.0%.
+> 
+> Helpful graphic here.
+> 
+> Why divergence from gonorrhea/chlamydia warrants further investigation
+> State and territorial health departments sent more than 2.5 million diagnosed cases of gonorrhea, chlamydia, and syphilis to CDC in 2022. While reported syphilis cases continued to increase between 2021 and 2022, reported chlamydia cases stayed consistent and reported gonorrhea cases declined by nearly 9%. We’re cautiously optimistic about the gonorrhea data. Given this is the first drop in reported gonorrhea cases in at least a decade, CDC is examining this finding closely and will be looking to final 2023 data to better understand if this signals a decline in infections and to better understand where, why, and among whom the decrease occurred with the hope we can expand on what’s working.
+
 ## Reports to FDA's CFSAN about applesauce lead poisonings
 
 - **Source:** Freedom of Information Act request
