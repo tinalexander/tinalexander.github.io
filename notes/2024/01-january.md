@@ -17,13 +17,21 @@ permalink: /notes/2024/01
 - **Attribution:** Food and Drug Administration
 - **Date:** received January 29, 2024
 
-- [2024-01-29_fda_foia-2023-11303-1.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-1.pdf)
-- [2024-01-29_fda_foia-2023-11303-2.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-2.pdf)
-- [2024-01-29_fda_foia-2023-11303-3.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-3.pdf)
-- [2024-01-29_fda_foia-2023-11303-4.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-4.pdf)
-- [2024-01-29_fda_foia-2023-11303-5.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-5.pdf)
-- [2024-01-29_fda_foia-2023-11303-6.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-6.pdf)
-- [2024-01-29_fda_foia-2023-11303-7.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-7.pdf)
+> - [2024-01-29_fda_foia-2023-11303-1.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-1.pdf)
+> - [2024-01-29_fda_foia-2023-11303-2.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-2.pdf)
+> - [2024-01-29_fda_foia-2023-11303-3.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-3.pdf)
+> - [2024-01-29_fda_foia-2023-11303-4.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-4.pdf)
+> - [2024-01-29_fda_foia-2023-11303-5.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-5.pdf)
+> - [2024-01-29_fda_foia-2023-11303-6.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-6.pdf)
+> - [2024-01-29_fda_foia-2023-11303-7.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2023-11303-7.pdf)
+
+## Reports to FDA's FAERS about aspiration and GLP-1 RA medications
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received January 29, 2024
+
+> [https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2024-178.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2024-178.pdf)
 
 # January 26, 2024
 
@@ -368,7 +376,7 @@ permalink: /notes/2024/01
 - **Attribution:** Food and Drug Administration
 - **Date:** received January 19, 2024
 
-- [2024-01-19_fda_foia-2023-11302.pdf](https://tinalexander.github.io/notes/attachments/2024-01-19_fda_foia-2023-11302.pdf)
+> [2024-01-19_fda_foia-2023-11302.pdf](https://tinalexander.github.io/notes/attachments/2024-01-19_fda_foia-2023-11302.pdf)
 
 ## CDC spokesperson on new cases of applesauce lead poisonings
 
