@@ -31,7 +31,7 @@ permalink: /notes/2024/01
 - **Attribution:** Food and Drug Administration
 - **Date:** received January 29, 2024
 
-> [https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2024-178.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2024-178.pdf)
+> [2024-01-29_fda_foia-2024-178.pdf](https://tinalexander.github.io/notes/attachments/2024-01-29_fda_foia-2024-178.pdf)
 
 # January 26, 2024
 
@@ -193,7 +193,7 @@ permalink: /notes/2024/01
 - **Attribution:** Food and Drug Administration
 - **Date:** received January 24, 2024
 
-> [https://tinalexander.github.io/notes/attachments/2024-01-24_fda_foia-2023-11285-ocr.pdf](https://tinalexander.github.io/notes/attachments/2024-01-24_fda_foia-2023-11285-ocr.pdf)
+> [2024-01-24_fda_foia-2023-11285-ocr.pdf](https://tinalexander.github.io/notes/attachments/2024-01-24_fda_foia-2023-11285-ocr.pdf)
 
 ## Upstate New York Poison Center on Neptune's Fix reports
 
