@@ -187,6 +187,14 @@ permalink: /notes/2024/01
 
 # January 24, 2024
 
+## FDA's Form 483 issued to Austrofood S.A.S. after inspection
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received January 24, 2024
+
+> [https://tinalexander.github.io/notes/attachments/2024-01-24_fda_foia-2023-11285-ocr.pdf](https://tinalexander.github.io/notes/attachments/2024-01-24_fda_foia-2023-11285-ocr.pdf)
+
 ## Upstate New York Poison Center on Neptune's Fix reports
 
 - **Source:** email
