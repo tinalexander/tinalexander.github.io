@@ -11,6 +11,16 @@ permalink: /notes/2024/01
 
 # January 31, 2024
 
+## CMS response about Medicare drug price negotiation's initial offer
+
+- **Source:** email
+- **Attribution:** Centers for Medicare & Medicaid Services spokesperson
+- **Date:** received January 31, 2024
+
+> CMS will make a written initial offer to the Primary Manufacturer with the proposal for the maximum fair price (MFP) for a selected drug for initial price applicability year 2026 no later than February 1, 2024. After the written initial offer from CMS, the Primary Manufacturer has the option to submit a written counteroffer. For more information, please see our fact sheet on the process for negotiation.
+> 
+> As described in sections 40.2.1 and 40.2.2 of the revised guidance, CMS is committed to protecting confidential and proprietary information obtained from manufacturers throughout the negotiation process. CMS will not publicly discuss ongoing negotiations prior to the release of the explanation of the MFP unless a Primary Manufacturer publicly discloses information regarding the negotiation process – this includes the initial offer. Primary Manufacturers may choose to publicly disclose information regarding ongoing negotiations at their discretion. CMS will publish a public explanation of the MFP for the selected drug list by March 1, 2025, that will include a narrative explanation of the negotiation process, the agreed-upon MFP, and redacted information regarding the section 1194(e) data received, exchange of offers and counteroffers, and the negotiation meetings, if applicable. For more information, please see our fact sheet summarizing the revised guidance.
+
 ## Response from Amgen about Medicare drug price negotiation's initial offer
 
 - **Source:** email
