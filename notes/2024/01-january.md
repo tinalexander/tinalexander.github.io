@@ -11,6 +11,14 @@ permalink: /notes/2024/01
 
 # January 31, 2024
 
+## Response from Amgen about Medicare drug price negotiation's initial offer
+
+- **Source:** email
+- **Attribution:** Amgen spokesperson
+- **Date:** received January 31, 2024
+
+> No comments to offer thanks
+
 ## Letters sent to Global Kosher by FDA regarding infant formula
 
 - **Source:** Freedom of Information Act request
