@@ -9,7 +9,25 @@ permalink: /notes/2024/01
 
 <br>
 
-# January 29, 2024
+# January 31, 2024
+
+## Response from Novartis about Medicare drug price negotiation's initial offer
+
+- **Source:** email
+- **Attribution:** Julie Masow of Novartis
+- **Date:** received January 31, 2024
+
+> Thanks for getting in touch. We don’t have plans to share this.
+
+## Response from Novo Nordisk about Medicare drug price negotiation's initial offer
+
+- **Source:** email
+- **Attribution:** Allison Schneider of Novo Nordisk
+- **Date:** received January 31, 2024
+
+> Novo Nordisk intends to evaluate CMS’s initial offer and will decide how to respond. The information provided by Novo Nordisk to CMS is confidential, and once the process has concluded, CMS will make public the maximum fair price it sets for the relevant products.
+
+# January 30, 2024
 
 ## Response from CDC's Jonathan Mermin about 2022 report on sexually transmitted infections
 
@@ -46,6 +64,8 @@ permalink: /notes/2024/01
 > 
 > Why divergence from gonorrhea/chlamydia warrants further investigation
 > State and territorial health departments sent more than 2.5 million diagnosed cases of gonorrhea, chlamydia, and syphilis to CDC in 2022. While reported syphilis cases continued to increase between 2021 and 2022, reported chlamydia cases stayed consistent and reported gonorrhea cases declined by nearly 9%. We’re cautiously optimistic about the gonorrhea data. Given this is the first drop in reported gonorrhea cases in at least a decade, CDC is examining this finding closely and will be looking to final 2023 data to better understand if this signals a decline in infections and to better understand where, why, and among whom the decrease occurred with the hope we can expand on what’s working.
+
+# January 29, 2024
 
 ## Reports to FDA's CFSAN about applesauce lead poisonings
 
