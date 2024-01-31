@@ -14,7 +14,7 @@ permalink: /notes/2024/01
 ## Response from Amgen about Medicare drug price negotiation's initial offer
 
 - **Source:** email
-- **Attribution:** Amgen spokesperson
+- **Attribution:** Jessica Akopyan of Amgen
 - **Date:** received January 31, 2024
 
 > No comments to offer thanks
