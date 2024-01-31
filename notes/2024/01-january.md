@@ -22,7 +22,7 @@ permalink: /notes/2024/01
 ## Response from Novo Nordisk about Medicare drug price negotiation's initial offer
 
 - **Source:** email
-- **Attribution:** Allison Schneider of Novo Nordisk
+- **Attribution:** Novo Nordisk spokesperson
 - **Date:** received January 31, 2024
 
 > Novo Nordisk intends to evaluate CMS’s initial offer and will decide how to respond. The information provided by Novo Nordisk to CMS is confidential, and once the process has concluded, CMS will make public the maximum fair price it sets for the relevant products.
