@@ -11,6 +11,14 @@ permalink: /notes/2024/01
 
 # January 31, 2024
 
+## Letters sent to Global Kosher by FDA regarding infant formula
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received January 30, 2024
+
+> [2024-01-31_fda_foia-2023-6181.pdf](https://tinalexander.github.io/notes/attachments/2024-01-31_fda_foia-2023-6181.pdf)
+
 ## Response from Novartis about Medicare drug price negotiation's initial offer
 
 - **Source:** email
