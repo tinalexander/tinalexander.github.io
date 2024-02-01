@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 1, 2024
 
+## CDC spokesperson on influenza trends so far
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Jasmine Reed
+- **Date:** received February 1, 2024
+
+> After several weeks of declining flu activity indicators, some CDC surveillance systems have shown increases in parts of the country in recent weeks. It is not unusual for there to be a slight increase in activity during the weeks following holidays. During some seasons this is the start of a second wave of activity; in other seasons, it is a slight increase in activity prior to activity decreasing toward the spring. CDC is closely monitoring activity and will continue to provide weekly updates via FluView.
+
 ## CDC clinician outreach call regarding influenza
 
 - **Source:** [webinar](https://emergency.cdc.gov/coca/calls/2024/callinfo_020124.asp)
