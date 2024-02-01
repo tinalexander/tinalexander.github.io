@@ -15,7 +15,7 @@ permalink: /notes/2024/02
 
 - **Source:** bulletin
 - **Attribution:** state health department
-- **Date:** received February 1, 2024
+- **Date:** obtained February 1, 2024
 
 > January 31st , 2024
 > 
