@@ -49,7 +49,7 @@ permalink: /notes/2024/02
 > 
 > So just as a reminder, as I mentioned, although the influenza season has peaked nationally, there's still a lot of influenza viruses circulating throughout the U.S. A lot of communities are still influenza. We do expect influenza activity to continue for many weeks to come this season. 
 > 
-> So for unvaccinated people, I wanna remind clinicians and public health colleagues that vaccination is the most effective way to protect patients against influenza. 
+> So for unvaccinated people, I want to remind clinicians and public health colleagues that vaccination is the most effective way to protect patients against influenza. 
 
 ## State health department on BioFire norovirus testing
 
