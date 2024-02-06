@@ -9,6 +9,16 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 6, 2024
+
+## Apotex spokesperson on shortage of lisdexamfetamine dimesylate
+
+- **Source:** emailed statement
+- **Attribution:** Apotex spokesperson Nisha Borshettar
+- **Date:** received February 6, 2024
+
+> Thank you for reaching out to us on this important matter. Apotex strives to meet the demands of our patients and enable access to affordable generic medicines. The production limit on the drug’s active ingredient is one of the main drivers for our inability to fully supply the market. We have not been able to obtain enough raw material to commercialize the product at full commercial scale, and we have used our full quota for calendar year 2023. 
+
 # February 1, 2024
 
 ## CDC spokesperson on influenza trends so far
