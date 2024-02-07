@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 7, 2024
 
+## Takeda spokesperson on shortage of lisdexamfetamine
+
+- **Source:** emailed statement
+- **Attribution:** Takeda spokesperson
+- **Date:** received February 7, 2024
+
+> We resolved the June, 2023 U.S. branded Vyvanse manufacturing delay for 40mg capsules in July and the two remaining impacted capsule doses of 60mg and 70mg in September.
+
 ## Johnson & Johnson spokesperson on shortage of methylphenidate
 
 - **Source:** emailed statement
