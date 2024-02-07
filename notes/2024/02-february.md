@@ -9,6 +9,22 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 7, 2024
+
+## FDA spokesperson on questions related to shortage of ADHD medications
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson Chanapa Tantibanchachai
+- **Date:** received February 7, 2024
+
+> **How often does FDA ask drugmakers for updates of availability of these ADHD drugs in shortage?**
+> 
+> The FDA regularly works with manufacturers to evaluate the entire supply chain of drug products to help prevent or reduce the impact of a drug shortage. For a drug in shortage, we are continuous contact with the manufacturers to get the latest info and we update our website daily.
+> 
+> **How is FDA calculating total national historical demand, to decide that they are still in shortage?**
+> 
+> The FDA receives information provided by manufacturers regarding their ability to supply the market, as well as market sales data on the specific products, then lists drugs on its shortages website once it has confirmed that overall market demand is not being met by the manufacturers of the product. The FDA does not consider a product to be in shortage if one or more manufacturers are able to fully supply market demand for the product.
+
 # February 6, 2024
 
 ## Apotex spokesperson on shortage of lisdexamfetamine dimesylate
