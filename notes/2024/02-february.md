@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 7, 2024
 
+## Johnson & Johnson spokesperson on shortage of methylphenidate
+
+- **Source:** emailed statement
+- **Attribution:** Johnson & Johnson spokesperson Kelsey Buckholtz
+- **Date:** received February 7, 2024
+
+> There has been no change in the supply status of branded CONCERTA, which continues to be available without interruption. CONCERTA generics entered the market in 2011, and a majority of prescriptions today are filled by generic manufacturers.
+
 ## FDA spokesperson on questions related to shortage of ADHD medications
 
 - **Source:** emailed statement
