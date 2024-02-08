@@ -33,7 +33,7 @@ permalink: /notes/2024/02
 > 
 > I do want to speak to one really, really, really important limitation of the bridge-- actually, I'll go ahead and add in a second, two critical limitations. 
 > 
-> One, it is only COVID 19 vaccine. I know I'm preacing to the choir here, so I won't talk about that too long. But COVID 19 vaccine is not the only vaccine that adults are recommended to receive. And so this is not the comprehensive program that we need. It's not the comprehensive infrastructure that we need to provide equitable immunization, across the spectrum of needed vaccines. That's the first really important critical limitation. 
+> One, it is only COVID 19 vaccine. I know I'm preaching to the choir here, so I won't talk about that too long. But COVID 19 vaccine is not the only vaccine that adults are recommended to receive. And so this is not the comprehensive program that we need. It's not the comprehensive infrastructure that we need to provide equitable immunization, across the spectrum of needed vaccines. That's the first really important critical limitation. 
 > 
 > The second is a sustainability. The bridge access program will end by December 2024. That is this year. So we have part of one more vaccine season left to go. 
 > 
