@@ -9,6 +9,46 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 8, 2024
+
+## CDC official on need for Vaccines for Adults program
+
+- **Source:** [webinar](https://www.eventbrite.com/e/examining-the-need-for-a-potential-vaccines-for-all-program-tickets-817422060387)
+- **Attribution:** by the COVID-19 Vaccine Education and Equity Project
+- **Date:** broadcasted February 7, 2024
+
+> Evelyn Twentyman, CDC [00:02:54]
+> 
+> As you probably know, CDC just recently this past fall launched the CDC Bridge Access Program for COVID 19 vaccines. This is a very exciting short term solution to provide continued access for adults to free COVID 19 vaccination, regardless of their insurance status. 
+> 
+> However, it's called the Bridge Access Program for a reason, and it must be a bridge to somewhere that's somewhere. And I'll agree with Peschin, we can agree on the name later, but that somewhere needs to be vaccines for adults, vaccines for all, or a program that will really complement what we've already done with vaccines for children and our 317 program, to bring vaccines to all people, regardless of their insurance status.
+> 
+> A comprehensive immunization program, like the kind I'm talking about that addresses needs from childhood through adulthood is a cornerstone of maintaining optimal health, as well as for preparing for any public health emergency that might come our way. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:23:05]
+> 
+> So through this sort of complement of availability, we've been able to reach quite a few adults. We've had about 1.2 million vaccines out the door through this program thus far, and are just hoping for ever more every day. 
+> 
+> I do want to speak to one really, really, really important limitation of the bridge-- actually, I'll go ahead and add in a second, two critical limitations. 
+> 
+> One, it is only COVID 19 vaccine. I know I'm preacing to the choir here, so I won't talk about that too long. But COVID 19 vaccine is not the only vaccine that adults are recommended to receive. And so this is not the comprehensive program that we need. It's not the comprehensive infrastructure that we need to provide equitable immunization, across the spectrum of needed vaccines. That's the first really important critical limitation. 
+> 
+> The second is a sustainability. The bridge access program will end by December 2024. That is this year. So we have part of one more vaccine season left to go. 
+> 
+> We are of course working to see if there's any way that we can extend this, but as it now stands, this will end. This was meant to be a temporary bridge to a more permanent solution like VFA. And I do hope that we get there.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:45:54]
+> 
+> Long term care facilities are largely filled with patients that have insurance. And so in theory, they're not the target of the Bridge Access Program. In theory, they wouldn't be part of VFA, but VFA would benefit them. And I'll tell you, this is why we've been working so hard to enroll long term care facilities under eTrueNorth in the Bridge Access Program. 
+> 
+> Because exactly like Peschin said, many of these facilities are staffed largely by uninsured adults. And again, viruses don't respect borders. They don't respect station either. 
+> 
+> Like whether you're a patient or a provider, you're equally likely to get a virus. And I know that the care providers for these patients in long-term care facilities certainly don't want to be the person that their patient caught flu from or caught COVID from.
+
 # February 7, 2024
 
 ## Takeda spokesperson on shortage of lisdexamfetamine
