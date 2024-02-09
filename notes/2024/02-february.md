@@ -9,6 +9,16 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 9, 2024
+
+## CDC spokesperson on potential BA.2.87.1 detection
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Tom Skinner
+- **Date:** received February 9, 2024
+
+> As we discussed on the phone, the answer to the question you posed is NO, BA.2.87.1 was NOT sequenced from a traveler who traveled through Newark last year. The sample referred to in the post was missing regions that would be defining for BA.2.87 and did not meet standards to conclusively identify BA.2.87 based on current lineage definitions (<70% genome coverage).
+
 # February 8, 2024
 
 ## CDC official on need for Vaccines for Adults program
