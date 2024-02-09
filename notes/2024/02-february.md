@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 9, 2024
 
+## CDC spokesperson on lead applesauce poisonings
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received February 9, 2024
+
+> The median age is 1.7 years old. Virtually all reported cases are in children.  
+
 ## CDC spokesperson on potential BA.2.87.1 detection
 
 - **Source:** emailed statement
