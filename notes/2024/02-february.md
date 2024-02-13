@@ -9,6 +9,16 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 13, 2024
+
+## CDC spokesperson on reported changes to COVID-19 guidance
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson David Daigle
+- **Date:** received February 13, 2024
+
+> No updates to COVID guidelines to announce at this time. We will continue to make decisions based on the best evidence and science to keep communities healthy and safe.
+
 # February 9, 2024
 
 ## CDC spokesperson on lead applesauce poisonings
