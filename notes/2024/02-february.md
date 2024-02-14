@@ -14,7 +14,7 @@ permalink: /notes/2024/02
 ## Oregon Health Authority spokesperson on changes to COVID-19 guidance
 
 - **Source:** email
-- **Attribution:** Oregon health Authority spokesperson Afiq Hisham
+- **Attribution:** Oregon Health Authority spokesperson Afiq Hisham
 - **Date:** received February 13, 2024
 
 > Thanks for reaching out, we do appreciate your patience. Regarding data OHA provided to ASTHO on COVID-19, we mentioned not seeing any disproportionate increases in the severity of illness since we changed the state’s isolation guidelines.
