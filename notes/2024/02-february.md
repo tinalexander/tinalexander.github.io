@@ -9,6 +9,54 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 14, 2024
+
+## FDA commissioner at National Press Club event
+
+- **Source:** [livestream](https://youtu.be/k1TFyQtJgQs)
+- **Attribution:** hosted by the National Press Club
+- **Date:** broadcasted February 14, 2024
+
+> Robert Califf, FDA [00:13:19]
+> 
+> Let me just offer you a recent example of a situation where the focus on the sensational took precedence on this topic. 
+> 
+> Several weeks ago, media outlets from around the world reported on the Florida surgeon generals unfounded call to halt to COVID vaccines. It was a splashy news story, easy to report and filled with conflict, albeit unmerited. 
+> 
+> In fact, only a few weeks earlier, the FDA publicly shared a letter we sent to the Florida surgeon general on the precise, underlying issue he raised. We outlined the implausibility of it and reinforced the thorough scientific assessments that give the FDA confidence in the quality, safety and effectiveness of the vaccines. No drama, just facts.
+> 
+> Not surprisingly only one or two reporters wrote about it then. 
+> 
+> Make no mistake, it's important for the public to understand a range of views to help inform their own opinion, but too often, the panoply of stories to which people are exposed causes them to lose sight of the underlying issues that would enable them to live longer free of hospitalization and disability. 
+> 
+> Instead they're often given equal or a greater print or air time to a relatively small but persistent group of stories and opinions that have the benefit of generating controversy, even when those reports are based on views that disagree with and do not represent the vast majority of expert opinion.
+> 
+> This trend of both side ism and free balance, it's not a new issue. You know about it. 
+> 
+> In the example, I just noted the stories were about one outspoken surgeon general who opposes vaccine. A simple review of the landscape reveals that almost all other surgeon generals and state health officials support the widespread use of vaccines. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:35:54]
+> 
+> Well, one day I look forward to giving all my thoughts on the lawsuit, but it's a case in action, so I'm very restricted in what I can say beyond what I've already said multiple times. 
+> 
+> I think the beauty of the American system, which is the envy of the world, is that we have a strong FDA with about, I don't know, a handful of us, maybe five or six who are political appointees. All the rest are full-time civil servants with no financial conflict of interest, under heavy scrutiny, who have no mission other than the public health of the U.S. and who have expertise in weighing the risk and benefits based on the evidence.
+> 
+> They did that for mifepristone. The answer's been consistent at the FDA. It's not changing. We stand behind the science. And I have also already publicly expressed worry about eroding that. 
+> 
+> And I know people who depend on good knowing that the medicines they're taking are safe and effective have expressed worry that undermining that civil service weighing of risk and benefit based on evidence could really have bad consequences for the future.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:42:58]
+> 
+> So one thing we're very worried about, and throughout HHS, is that right now the wealthy and highly educated are basically getting access to this treatment and people who may need it the most can't get access. That's a concern.
+> 
+> But you mentioned that, what's being told to the public and we regulate the advertising done by those who make the drug and sell it. But we don't regulate third parties who start clinics and sell things over the internet. 
+> 
+> And I've recently been noticing a number of these ads that don't give the whole risk benefit story, and we don't have authority to really regulate these folks. So it's an interesting component of it. 
+
 # February 13, 2024
 
 ## Oregon Health Authority spokesperson on changes to COVID-19 guidance
