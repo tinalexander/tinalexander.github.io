@@ -35,6 +35,10 @@ permalink: /notes/2024/02
 > [image]
 > 
 > It’s also important to consider that isolation is a policy that is typically used when the public health goal is to contain an infection. That is not OHA’s goal. Our goal is to help people in Oregon make informed decisions to protect themselves from severe infection—to understand who is at increased risk, who should be vaccinated, when to consider masking, when to test, how to interpret test results, and when to seek care given the current levels of COVID-19 transmission in Oregon.
+> 
+> ...
+> 
+> Sure thing, Alexander. OHA did discuss our isolation policy changes and related data on regional partner calls which included CDC representatives.
 
 ## CDC spokesperson on reported changes to COVID-19 guidance
 
