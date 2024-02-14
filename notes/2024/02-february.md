@@ -11,6 +11,31 @@ permalink: /notes/2024/02
 
 # February 13, 2024
 
+## Oregon Health Authority spokesperson on changes to COVID-19 guidance
+
+- **Source:** email
+- **Attribution:** Oregon health Authority spokesperson Afiq Hisham
+- **Date:** received February 13, 2024
+
+> Thanks for reaching out, we do appreciate your patience. Regarding data OHA provided to ASTHO on COVID-19, we mentioned not seeing any disproportionate increases in the severity of illness since we changed the state’s isolation guidelines.
+> 
+> Our change in isolation recommendations last year was very much evidence-based and informed by our understanding of transmission. This change acknowledged that isolation alone (i.e., in the absence of additional protective measures such as universal masking) was doing almost nothing to halt transmission at the community level.
+> 
+> Here’s some information we shared with the New York Times that may help with your coverage –
+> 
+> Data points to support no disproportionate increase in community transmission or severity:
+> Hospitalizations - below is a graph of COVID-19-associated hospitalization rates in Oregon as well as three additional jurisdictions (CA, CO, NY). Of note, no disproportionate increase was observed in Oregon's hospitalization rates following the May 2023 policy change. These data are from the COVID-NET interactive dashboard: https://www.cdc.gov/coronavirus/2019-ncov/covidnetdashboard/de/powerbi/dashboard.html
+> 
+> [image]
+> 
+> Deaths — Below are two graphs of COVID-19-associated death rates in Oregon and the United States. Of note, no disproportionate increase was observed in Oregon’s death rates following the May 2023 policy change. These data are from the CDC COVID Data Tracker: https://covid.cdc.gov/covid-data-tracker/#trends_weeklydeaths_weeklydeathrateaa_00
+> 
+> [image]
+> 
+> [image]
+> 
+> It’s also important to consider that isolation is a policy that is typically used when the public health goal is to contain an infection. That is not OHA’s goal. Our goal is to help people in Oregon make informed decisions to protect themselves from severe infection—to understand who is at increased risk, who should be vaccinated, when to consider masking, when to test, how to interpret test results, and when to seek care given the current levels of COVID-19 transmission in Oregon.
+
 ## CDC spokesperson on reported changes to COVID-19 guidance
 
 - **Source:** emailed statement
