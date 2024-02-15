@@ -13,7 +13,7 @@ permalink: /notes/2024/02
 
 ## Federal health officials at House hearing on COVID-19 vaccines
 
-- **Source:** livestream
+- **Source:** [livestream](https://youtu.be/c5hYh5XO7qY)
 - **Attribution:** hosted by the Select Subcommittee on the Coronavirus Pandemic
 - **Date:** broadcasted February 15, 2024
 
