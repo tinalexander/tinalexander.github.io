@@ -9,6 +9,32 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 15, 2024
+
+## Federal health officials at House hearing on COVID-19 vaccines
+
+- **Source:** livestream
+- **Attribution:** hosted by the Select Subcommittee on the Coronavirus Pandemic
+- **Date:** broadcasted February 15, 2024
+
+> Rep Mariannette Miller-Meeks [11:49:55]
+> 
+> I understand that the FDA has recommended periodic updates to vaccine composition. As we have seen with influenza, a clear framework for strained selection supports the timely availability of a diverse supply of COVID 19 vaccine platforms. 
+> 
+> I believe that multiple FDA approved vaccine options can play a role in preserving consumer choice of products and ensuring equity of access, both of which can contribute to increased consumer acceptance and uptake of vaccines without forcing Americans to receive a specific option. 
+> 
+> Can you please speak to how the agency is taking steps to ensure vaccine manufacturers have the essential time needed to adapt their products accordingly and scaled up production for vaccines for new virus variants?
+> 
+> Peter Marks, FDA [11:50:42]
+> 
+> Congress member Miller Meeks, thanks very much for that question.
+> 
+> I would certainly agree with you that at FDA, we take seriously the need to have choice among vaccines, because that will allow a greater vaccination rate because we understand that some people may not feel comfortable with certain types of vaccines. They may want a more traditional vaccine, rather than a newer vaccine. 
+> 
+> That's why we've been continuing to work with manufacturers to try to make sure that when we roll out the next update, we will have a diversity of choice, of at least more than one type of vaccine that will be available. 
+> 
+> So you will see, as we move into the spring, we will, as you've noted, go through a strain selection process. We're already having dialogue with manufacturers to help them get prepared because there's a lot of pre-work that they can do at risk to prepare for this, so that we can hopefully have the choice that you're talking about.
+
 # February 14, 2024
 
 ## FDA commissioner at National Press Club event
