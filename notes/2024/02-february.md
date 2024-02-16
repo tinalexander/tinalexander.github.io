@@ -11,6 +11,26 @@ permalink: /notes/2024/02
 
 # February 16, 2024
 
+## New York State spokesperson on measles case
+
+- **Source:** emailed statement
+- **Attribution:** New York State Department of Health spokesperson Cadence Acquaviva
+- **Date:** received February 16, 2024
+
+> There are currently no cases of measles in New York State outside of New York City. For details on measles cases in NYC, please inquire with the New York City Department of Health and Mental Hygiene.
+> 
+> Additional Information:
+> 
+> Measles is a highly contagious respiratory disease caused by a virus that is spread by direct contact with nasal or throat secretions of infected people, via person-to-person respiratory transmission, or touching a contaminated surface and then touching the eyes, nose, or mouth.  
+> 
+> To prevent the spread of illness, the Department is advising individuals who may have been exposed and who have symptoms consistent with measles to contact their health care provider, a local clinic, or a local emergency department before going for care.  
+> 
+> The single best way to prevent measles is to be vaccinated. Individuals should receive two doses of MMR vaccine to be protected. If a person is unsure if they are immune they should contact their healthcare provider.  
+> 
+> The Department carefully monitors for potential measles cases and is prepared to respond if a case is detected.  
+> 
+> Please see our measles webpage for more information.
+
 ## CDC spokesperson on measles importations
 
 - **Source:** emailed statement
