@@ -9,6 +9,18 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 16, 2024
+
+## CDC spokesperson on measles importations
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Jasmine Reed
+- **Date:** received February 16, 2024
+
+> Currently large outbreaks are ongoing in many Asian, Middle Eastern, African, and European countries. Because measles remains a common disease in many parts of the world, we are seeing cases brought into the United States by unvaccinated U.S. residents following international travel. 
+> 
+> Declines in measles vaccination rates globally have increased the risk of larger measles outbreaks worldwide, including in the United States. When community protection drops, we know that unvaccinated people are at risk.  To prevent measles infection and importation, all U.S. residents should be up to date on their MMR vaccinations prior to international travel. The measles vaccine is highly protective. One dose of the MMR vaccine provides 93% protection against measles and two doses provide 97% protection. For more information, visit Plan for Travel - Measles | CDC.
+
 # February 15, 2024
 
 ## Federal health officials at House hearing on COVID-19 vaccines
