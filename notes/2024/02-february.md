@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 16, 2024
 
+## New York City spokesperson on measles case
+
+- **Source:** emailed statement
+- **Attribution:** Department of Health and Mental Hygiene
+- **Date:** received February 16, 2024
+
+> Measles is always a cause for concern and as soon as a case is identified, the city takes action to identify anyone who may have been exposed, provide guidance, and connect people with appropriate resources. The single most important thing we can do to be safe is to get vaccinated.
+
 ## New York State spokesperson on measles case
 
 - **Source:** emailed statement
