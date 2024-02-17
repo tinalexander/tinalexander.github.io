@@ -13,8 +13,6 @@ permalink: /notes/2024/02
 
 ## Reported measles cases so far in the United States
 
-At least 5 cases unaccounted for from CDC's [tally](https://www.cdc.gov/measles/cases-outbreaks.html), as of Feb. 15.
-
 1. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) first in 2024, linked to outbreak from 2023
 2. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) second in 2024, linked to outbreak from 2023
 3. **Northern VA** ([Jan. 13](https://www.vdh.virginia.gov/news/2024-news-releases/virginia-health-officials-investigating-potential-measles-exposures-in-northern-virginia/), [Jan. 24](https://www.vdh.virginia.gov/measles/)) international travel, no secondary
@@ -31,6 +29,8 @@ At least 5 cases unaccounted for from CDC's [tally](https://www.cdc.gov/measles/
 14. **Dakota County, MN** ([Feb. 12](https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/)) sibling of index above
 15. **Maricopa County, AZ** ([Feb. 10](https://www.maricopa.gov/CivicAlerts.aspx?AID=2871), [Feb. 12](https://www.maricopa.gov/CivicAlerts.aspx?AID=2872&ARC=4892)) international travel
 16. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
+
+**Note**: At least 5 cases unaccounted for from CDC's [tally](https://www.cdc.gov/measles/cases-outbreaks.html), as of Feb. 15. Florida was not on CDC's list. 
 
 ## New York City spokesperson on measles case
 
