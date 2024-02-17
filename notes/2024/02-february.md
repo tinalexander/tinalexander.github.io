@@ -11,6 +11,27 @@ permalink: /notes/2024/02
 
 # February 16, 2024
 
+## Old FOIA responses by CDC to previous requests I filed
+
+- **Source:** emailed responses
+- **Attribution:** Freedom of Information Act requests from the Centrs for Disease Control and Prevention
+- **Date:** uploaded February 16, 2024
+
+> [2021-08-24_cdc_21-00766-FOIA.pdf](https://tinalexander.github.io/notes/attachments/2021-08-24_cdc_21-00766-FOIA.pdf)
+> <br> [2021-10-14_cdc_21-02373-FOIA.pdf](https://tinalexander.github.io/notes/attachments/2021-10-14_cdc_21-02373-FOIA.pdf)
+> <br> [2022-05-25_cdc_21-01298-FOIA.pdf](https://tinalexander.github.io/notes/attachments/2022-05-25_cdc_21-01298-FOIA.pdf)
+
+## Interesting FOIA responses by CDC released on reading room
+
+- **Source:** [online reading room](https://foia.cdc.gov/app/ReadingRoom.aspx)
+- **Attribution:** Freedom of Information Act requests from the Centers for Disease Control and Prevention
+- **Date:** downloaded February 16, 2024
+
+> [2024-02-16_cdc_reading-room_23-01261-FOIA.pdf ](https://tinalexander.github.io/notes/attachments/2024-02-16_cdc_reading-room_23-01261-FOIA.pdf)
+> <br> [2024-02-16_cdc_reading-room_23-01738-FOIA.pdf](https://tinalexander.github.io/notes/attachments/2024-02-16_cdc_reading-room_23-01738-FOIA.pdf)
+> <br> [2024-02-16_cdc_reading-room_23-01749-FOIA.pdf](https://tinalexander.github.io/notes/attachments/2024-02-16_cdc_reading-room_23-01749-FOIA.pdf)
+> <br> [2024-02-16_cdc_reading-room_23-01831-FOIA.pdf](https://tinalexander.github.io/notes/attachments/2024-02-16_cdc_reading-room_23-01831-FOIA.pdf)
+
 ## Reported measles cases so far in the United States
 
 1. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) first in 2024, linked to outbreak from 2023
