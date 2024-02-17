@@ -14,7 +14,7 @@ permalink: /notes/2024/02
 ## Old FOIA responses by CDC to previous requests I filed
 
 - **Source:** emailed responses
-- **Attribution:** Freedom of Information Act requests from the Centrs for Disease Control and Prevention
+- **Attribution:** Freedom of Information Act requests from the Centers for Disease Control and Prevention
 - **Date:** uploaded February 16, 2024
 
 > [2021-08-24_cdc_21-00766-FOIA.pdf](https://tinalexander.github.io/notes/attachments/2021-08-24_cdc_21-00766-FOIA.pdf)
