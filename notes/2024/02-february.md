@@ -13,9 +13,15 @@ permalink: /notes/2024/02
 
 ## Reported measles cases so far in the United States
 
+**Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) first in 2024, linked to outbreak from 2023
+
+**Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) second in 2024, linked to outbreak from 2023
+
 **Arlington, VA** ([Jan. 13](https://www.vdh.virginia.gov/news/2024-news-releases/virginia-health-officials-investigating-potential-measles-exposures-in-northern-virginia/), [Jan. 24](https://www.vdh.virginia.gov/measles/)) international travel, no secondary
 
 **Camden County, NJ** ([Jan. 13](https://www.camdencounty.com/camden-county-monitoring-confirmed-case-of-measles/), [Feb. 6](https://www.nj.gov/health/cd/topics/measles.shtml)) not linked to Philadelphia, no secondary
+
+**Philadelphia, PA** ([Jan. 16](https://www.phila.gov/2024-01-17-health-department-update-on-measles-outbreak-january-16-2/)) third in 2024, linked to outbreak from 2023
 
 **Atlanta, GA** ([Jan. 18](https://dph.georgia.gov/press-releases/2024-01-18/dph-confirms-measles-case-metro-atlanta)) international travel
 
@@ -26,6 +32,8 @@ permalink: /notes/2024/02
 **Silver Spring, MD** ([Feb. 1](https://health.maryland.gov/newsroom/Pages/One-Case-of-Measles-Confirmed-in-Maryland-Resident-with-Recent-International-Travel.aspx)) international travel
 
 **San Diego, CA** ([Feb. 2](https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/cahan/communications_documents/2-2-24.pdf)) international travel, 1 years old, not linked to Los Angeles
+
+**Montgomery County, OH** ([Feb. 3](https://www.phdmc.org/news-features/news-releases/measles-case-reported-in-a-montgomery-county-resident), [Feb. 3](https://odh.ohio.gov/media-center/ODH-News-Releases/odh-news-release-02-03-24)) recent travel, child
 
 **Dakota County, MN** ([Feb. 7](https://www.health.state.mn.us/diseases/idlab/mls/labalerts/240207measlescase.pdf)) international travel, 16 months old, see secondary below
 
