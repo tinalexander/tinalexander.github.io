@@ -30,7 +30,7 @@ At least 5 cases unaccounted for from CDC's [tally](https://www.cdc.gov/measles/
 13. **Unknown, OH** ([Feb. 10](https://wonder.cdc.gov/nndss/static/2024/06/2024-06-table900.html)) locally acquired
 14. **Dakota County, MN** ([Feb. 12](https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/)) sibling of index above
 15. **Maricopa County, AZ** ([Feb. 10](https://www.maricopa.gov/CivicAlerts.aspx?AID=2871), [Feb. 12](https://www.maricopa.gov/CivicAlerts.aspx?AID=2872&ARC=4892)) international travel
-16. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/))
+16. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
 
 ## New York City spokesperson on measles case
 
