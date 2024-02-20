@@ -11,6 +11,16 @@ permalink: /notes/2024/02
 
 # February 17, 2024
 
+## Ohio health department spokesperson on measles cases
+
+- **Source:** email
+- **Attribution:** Ohio Department of Health spokesperson
+- **Date:** received February 20, 2024
+
+> The two measles cases in Ohio were unrelated. Measles cases are increasing internationally, which raises the risk of measles infections in the United States.
+> 
+> We encourage all Ohioans to get the measles, mumps, rubella (MMR) vaccine, as the two-dose vaccine regimen is 97% effective against the measles virus
+
 ## Minnesota health department spokesperson on measles cases
 
 - **Source:** email
