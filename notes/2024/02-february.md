@@ -50,7 +50,7 @@ permalink: /notes/2024/02
 4. **Camden County, NJ** ([Jan. 13](https://www.camdencounty.com/camden-county-monitoring-confirmed-case-of-measles/), [Feb. 6](https://www.nj.gov/health/cd/topics/measles.shtml)) not linked to Philadelphia, no secondary
 5. **Philadelphia, PA** ([Jan. 16](https://www.phila.gov/2024-01-17-health-department-update-on-measles-outbreak-january-16-2/)) third in 2024, linked to outbreak from 2023
 6. **Atlanta, GA** ([Jan. 18](https://dph.georgia.gov/press-releases/2024-01-18/dph-confirms-measles-case-metro-atlanta)) international travel
-7. **Atlanta, GA** (after [Jan. 18](https://tinalexander.github.io/notes/2024/02#georgia-health-department-spokesperson-on-measles-cases)) linked to above case
+7. **Atlanta, GA** (after [Jan. 18](https://tinalexander.github.io/notes/2024/02#georgia-health-department-spokesperson-on-measles-cases)) relative of above case
 8. **New York, NY** ([Jan. 31](https://www.nyc.gov/assets/doh/downloads/pdf/han/advisory/2024/han-advisory-3.pdf), [Feb. 16](https://tinalexander.github.io/notes/2024/02#new-york-city-spokesperson-on-measles-case))  international travel
 9. **Los Angeles, CA** ([Feb. 1](http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=4625)) international travel, arrived on TK 009 from Istanbul
 10. **Silver Spring, MD** ([Feb. 1](https://health.maryland.gov/newsroom/Pages/One-Case-of-Measles-Confirmed-in-Maryland-Resident-with-Recent-International-Travel.aspx)) international travel
