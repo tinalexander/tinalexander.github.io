@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 17, 2024
 
+## Minnesota health department spokesperson on measles cases
+
+- **Source:** email
+- **Attribution:** Minnesota Department of Health spokesperson Amy Barrett
+- **Date:** received February 20, 2024
+
+> I checked with my colleagues and as of this morning, there are no new cases.
+
 ## Georgia health department spokesperson on measles cases
 
 - **Source:** email
