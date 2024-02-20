@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 17, 2024
 
+## FDA response to FOIA request 2022-3738
+
+- **Source:** Freedom of Information Act request 
+- **Attribution:** Food and Drug Administration to Breitbart News
+- **Date:** received February 20, 2024
+
+> [2024-02-20_fda_foia-2022-3738_abbott.pdf](https://tinalexander.github.io/notes/attachments/2024-02-20_fda_foia-2022-3738_abbott.pdf)
+
 ## Ohio health department spokesperson on measles cases
 
 - **Source:** email
