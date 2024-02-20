@@ -9,6 +9,16 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 17, 2024
+
+## Georgia health department spokesperson on measles cases
+
+- **Source:** email
+- **Attribution:** Georgia Department of Public Health spokesperson Nancy Nydam
+- **Date:** received February 20, 2024
+
+> DPH confirmed a second measles case in an unvaccinated family member of the original case in late January. There were no additional exposures associated with either case.
+
 # February 16, 2024
 
 ## Old FOIA responses by CDC to previous requests I filed
