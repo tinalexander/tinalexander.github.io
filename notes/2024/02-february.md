@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 21, 2024
 
+## Florida health department on measles outbreak at Manatee Bay Elementary School
+
+- **Source:** emailed document
+- **Attribution:** Florida Department of Health in Broward
+- **Date:** received February 21, 2024
+
+> [2024-02-20_florida-health_manatee-bay-measles.pdf](https://tinalexander.github.io/notes/attachments/2024-02-20_florida-health_manatee-bay-measles.pdf)
+
 ## CDC spokesperson on Florida measles outbreak
 
 - **Source:** emailed statement
