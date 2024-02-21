@@ -9,7 +9,27 @@ permalink: /notes/2024/02
 
 <br>
 
-# February 17, 2024
+# February 21, 2024
+
+## CDC spokesperson on Florida measles outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Dave Daigle
+- **Date:** received February 21, 2024
+
+> We are not commenting on this current outbreak in FL and whether unvaccinated children should be excluded from attending school in person during measles outbreaks.  What we have said:
+> 
+> CDC is aware of measles cases in Florida and is supporting the Florida Health Department, which is the lead agency in this investigation.
+> 
+> CDC can provide laboratory genotype sequencing to help better understand potential links among cases.
+> 
+> CDC will continue to provide outreach and education to clinicians, helping them understand how to recognize, report, and properly contain measles.
+>  
+> Measles can be brought into the United States by travelers infected while in other countries. Most importations come from unvaccinated U.S. residents.
+> 
+> CDC recommends all children receive measles vaccines, according to the recommended immunization schedule, to provide maximum protection.
+
+# February 20, 2024
 
 ## Copy of FDA response to FOIA request 2022-3738
 
