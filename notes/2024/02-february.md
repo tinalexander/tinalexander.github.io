@@ -9,9 +9,31 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 22, 2024
+
+## Louisiana health department on measles cases
+
+- **Source:** email
+- **Attribution:** Louisiana Department of Health spokesperson
+- **Date:** received February 21, 2024
+
+> this isn’t an international case. They traveled to another state
+>
+> ...
+>
+> Should have said cases – plural.
+
+## Broward County Public Schools on measles outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Broward County Public Schools spokesperson
+- **Date:** received February 21, 2024
+
+> Yesterday, Tuesday, February 20, Broward County Public Schools was notified of one additional confirmed measles case at Manatee Bay Elementary School. This brings the total number of confirmed cases to six.  At the request of Florida’s Surgeon General, the District has shared the attached announcement and guidance with our parents and guardians at Manatee Bay Elementary School.
+
 # February 21, 2024
 
-## Florida health department on measles outbreak at Manatee Bay Elementary School
+## Florida health department on measles outbreak 
 
 - **Source:** emailed document
 - **Attribution:** Florida Department of Health in Broward
