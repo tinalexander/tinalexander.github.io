@@ -40,8 +40,8 @@ permalink: /notes/2024/02
 25. **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
 26. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
 27. **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/)) potential case
-28. **Maricopa County, AZ** ([Feb. 22](https://www.maricopa.gov/CivicAlerts.aspx?AID=2877))
-29. **Maricopa County, AZ** ([Feb. 22](https://www.maricopa.gov/CivicAlerts.aspx?AID=2877))
+28. **Maricopa County, AZ** ([Feb. 22](https://www.maricopa.gov/CivicAlerts.aspx?AID=2877)) after previous case
+29. **Maricopa County, AZ** ([Feb. 22](https://www.maricopa.gov/CivicAlerts.aspx?AID=2877)) after previous case
 
 ## Federal health advisory committee on vaccines
 
