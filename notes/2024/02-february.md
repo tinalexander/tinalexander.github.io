@@ -29,20 +29,19 @@ permalink: /notes/2024/02
 14. **Unknown, OH** ([Feb. 10](https://wonder.cdc.gov/nndss/static/2024/06/2024-06-table900.html)) locally acquired
 15. **Dakota County, MN** ([Feb. 12](https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/)) sibling of index above
 16. **Maricopa County, AZ** ([Feb. 10](https://www.maricopa.gov/CivicAlerts.aspx?AID=2871), [Feb. 12](https://www.maricopa.gov/CivicAlerts.aspx?AID=2872&ARC=4892)) international travel
-17. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-18. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-19. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-20. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
+17. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
+18. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+19. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+20. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
 21. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
 22. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-23. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-24. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-25. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-26. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
-27. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
-28. **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
-29. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
-30. **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/)) potential case
+23. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
+24. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
+25. **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
+26. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
+27. **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/)) potential case
+28. **Maricopa County, AZ** ([Feb. 22](https://www.maricopa.gov/CivicAlerts.aspx?AID=2877))
+29. **Maricopa County, AZ** ([Feb. 22](https://www.maricopa.gov/CivicAlerts.aspx?AID=2877))
 
 ## Federal health advisory committee on vaccines
 
