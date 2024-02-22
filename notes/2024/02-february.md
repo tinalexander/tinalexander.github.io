@@ -11,6 +11,18 @@ permalink: /notes/2024/02
 
 # February 22, 2024
 
+## Florida health department on measles advisory
+
+- **Source:** emailed statement
+- **Attribution:** Florida Department of Health spokesperson Grant Kemp 
+- **Date:** received February 22, 2024
+
+> The Florida Department of Health (DOH) is continuously working with all partners to identify close contacts, including Broward County Public Schools and local hospitals. Pursuant to Section 381.0031(6), F.S., all information contained in epidemiological investigations is confidential. This includes details regarding cases or exposures.  
+> 
+> Due to the high immunity rate in the community, as well as the burden on families and educational cost of healthy children missing school, the Surgeon General has deferred the decision to keep children home from school to parents/guardians. Broward County School District has prepared to provide continuous learning to children at Manatee Bay Elementary whose parents/guardians choose to keep them at home until the end of the infectious period. At this time, the infectious period ends March 7, 2024 - this is subject to change. The Surgeon General’s recommendation may change as epidemiological investigations continue. 
+> 
+> Attached, please find the measles health advisory published by DOH-Broward. 
+
 ## Reported measles cases so far in the United States
 
 1. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) first in 2024, linked to outbreak from 2023
