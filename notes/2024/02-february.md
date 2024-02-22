@@ -11,6 +11,30 @@ permalink: /notes/2024/02
 
 # February 22, 2024
 
+## CDC advisory committee meeting on public health issues
+
+- **Source:** hosted by Centers for Disease Control and Prevention
+- **Attribution:** meeting of the Advisory Committee to the Director
+- **Date:** occurred February 21, 2024
+
+> Dylan George, CDC [12:52:36]
+> 
+> Through the ongoing collaboration with our colleagues in NCIRD, the data office, EZID, and the global health center, we have used wastewater and syndromic data to develop state level forecasts for COVID 19. 
+> 
+> We have found by layering in wastewater data, we see more accurate forecast. Now this makes complete sense because it's a leading indicator of what's going on with circulation in the community. And it helps us know when there's going to be peaks or troughs, going forward. 
+> 
+> This has been a major advancement that wouldn't have happened as fast if it weren't for CFA being in existence.
+> 
+> We're also making advances on how we use data and improve our forecasting capabilities broadly. 
+> 
+> CFA has refactored the code that was used for COVID forecasting by the response team making-- we've made it much more robust, portable, reproducible, and efficient.
+> 
+> The models that are used for COVID 19 forecasting, they run 10 times faster and with better data processing, so partners can respond to future outbreaks more quickly and more efficiently. 
+> 
+> ...
+
+
+
 ## Florida health department on measles advisory
 
 - **Source:** emailed statement
