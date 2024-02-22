@@ -42,6 +42,7 @@ permalink: /notes/2024/02
 27. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
 28. **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
 29. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
+30. **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/)) potential case
 
 ## Federal health advisory committee on vaccines
 
