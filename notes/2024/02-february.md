@@ -44,8 +44,68 @@ permalink: /notes/2024/02
 > The models that are used for COVID 19 forecasting, they run 10 times faster and with better data processing, so partners can respond to future outbreaks more quickly and more efficiently. 
 > 
 > ...
-
-
+> 
+> Kate Wolff, CDC [00:05:54]
+> 
+> So we ended up with about 160 discrete actions that are bucketed in all of these areas. And I'm really excited to tell you that, right now, we're-- we've completed more than 75% of those actions with the remaining 25 on track to be completed over the course of this next year. 
+> 
+> Some of the actions, and I'll talk specifically through, some of the critical areas, but we have things that were sort of one and done pieces of, like changes to a specific policy or making sure that the right communications people were involved in the right response activities. You know, those sorts of changes internally. 
+> 
+> We also have a lot of actions that are requiring ongoing implementation efforts. So we are monitoring the implementation of those actions, continuing to iterate as appropriate. 
+> 
+> And as Mandy discussed this morning, really looking at the next chapter of moving forward to be that strong foundational base of operational excellence across CDC, that will help us really succeed in the priority areas that we've identified as an agency. 
+> 
+> ...
+> 
+> Kate Wolff, CDC [00:07:51]
+> 
+> So one of the places that really came to light through the process that Mary and Jim and others worked through was to make sure that our-- we're getting science out faster. 
+> 
+> This is something that Deb-- Deb and team have worked very closely on, and with our team at the office of science, and the clearance process is a place where we're really seeing the improvement here. 
+> 
+> Our process now has allowed us to cut review times in half. And we have improved-- we have 120% CDC wide improvement in our clearance rate. So we're really proud of this. 
+> 
+> And then I think the other place that you're seeing this is other ways that we're communicating science. 
+> 
+> So as part of our respiratory virus response, this fall, we were posting weekly updates on our website of here's what we know about the latest variant or here's the latest update about vaccination. Here's what we're seeing in the data. So really trying to use all of the tools that we have available to us to communicate the science that we have. 
+> 
+> ...
+> 
+> Kate Wolff, CDC [00:11:10]
+> 
+> Our website has hundreds of hundreds of thousands of webpages on it. And we have been working really hard to go through every single one of those to make sure that the information that we have available to the public is useful and meaningful and appropriate for that audience. 
+> 
+> We are relaunching our website here this spring. And so we'll keep you all posted as those websites get updated, but we're expecting that we'll have a reduction of at least 64% of our current content as part of this process, and to no raise any alarm, we are archiving everything, so we will still have everything available. 
+> 
+> And so we can go find anything that we would need, but at least, we expect that this will really enhance the usability of our website for a broad public. 
+> 
+> ...
+> 
+> Kate Wolff, CDC [00:20:28]
+> 
+> That's a great flag, and is something that we are actively looking at right now related to the graduated response framework, because it does, in some ways box us in right, as you know, when it gets implemented. 
+> 
+> So, you know, this year, just as an example, when we came out of the public health emergency last spring, coming into this fall and winter respiratory virus season, we as an agency were thinking about how do we organize ourselves when we don't-- we're not in an emergency, but we have an issue where we need all hands on deck and across agency systems. 
+> 
+> So what ended up happening and what I think worked well though I know we need to make some tweaks as we think about it going forward, is that NCIRD set up a respiratory virus response group, and that included all of our enterprisewide functions. 
+> 
+> So data, lab, science, comms, OCU, our operations folks, Leandra, and our office of health equity, plus the flu team, the COVID team, the RSV team plus Les's team plus all of senior, you know, everybody was really invited to sit at that table and participate. 
+> 
+> And, it wasn't a formal response structure. Like there were pieces of it that mirrored it, like we ended up setting up, you know, a a channel for our comms folks, right. To make sure that everybody was getting the communications materials. 
+> 
+> We had regular meetings that went through a sit rep, and then here's the issue, so learning some of those lessons, but sort of without as much of the formal structure of an IMS system. And I think that worked well for us with the one caveat that this is an agency that when something says response in the title, they feel a certain way about it, right? And you behave a certain way, so we're going to work through some of that going forward, but that all hands on deck on something that wasn't technically an emergency was a somewhat of a new feeling for folks. 
+> 
+> And, I think we learned a lot of good lessons there. That's all to say that we're trying to think through now, the graduated response framework, and see if we can figure out what-- how we make that fit. 
+> 
+> And similarly thinking about the mpox response, and now thinking about the next mpox response, like what's-- what's the right way to lean in, make sure that we are organized and prepared and leaning in, so we're ready should we need to go into that emergency phase, in a way that is not, everybody's not constantly in an emergency response, so it's a tough balance. I don't know Deb, if you wanna say anything else about that. 
+> 
+> Deb Houry, CDC [00:23:42]
+> 
+> No I mean, I agree with what Kate said. 
+> 
+> I think, we're just trying to get past-- people react to the word response as well, you know, cause it-- we've heard from some of our staff that get PTSD when we're talking about response, because they feel like they've been in response for a bit. 
+> 
+> So how do we more routinize it and be prepared. And so I think that's what we're trying to do is make sure people have enough awareness, but it is being more programmatic in nature where we can.
 
 ## Florida health department on measles advisory
 
