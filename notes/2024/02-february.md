@@ -11,6 +11,38 @@ permalink: /notes/2024/02
 
 # February 22, 2024
 
+## Reported measles cases so far in the United States, through Feb. 22
+
+1. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) first in 2024, linked to outbreak from 2023
+2. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) second in 2024, linked to outbreak from 2023
+3. **Northern VA** ([Jan. 13](https://www.vdh.virginia.gov/news/2024-news-releases/virginia-health-officials-investigating-potential-measles-exposures-in-northern-virginia/), [Jan. 24](https://www.vdh.virginia.gov/measles/)) international travel, no secondary
+4. **Camden County, NJ** ([Jan. 13](https://www.camdencounty.com/camden-county-monitoring-confirmed-case-of-measles/), [Feb. 6](https://www.nj.gov/health/cd/topics/measles.shtml)) not linked to Philadelphia, no secondary
+5. **Philadelphia, PA** ([Jan. 16](https://www.phila.gov/2024-01-17-health-department-update-on-measles-outbreak-january-16-2/)) third in 2024, linked to outbreak from 2023
+6. **Atlanta, GA** ([Jan. 18](https://dph.georgia.gov/press-releases/2024-01-18/dph-confirms-measles-case-metro-atlanta)) international travel
+7. **Atlanta, GA** (after [Jan. 18](https://tinalexander.github.io/notes/2024/02#georgia-health-department-spokesperson-on-measles-cases)) relative of above case
+8. **New York, NY** ([Jan. 31](https://www.nyc.gov/assets/doh/downloads/pdf/han/advisory/2024/han-advisory-3.pdf), [Feb. 16](https://tinalexander.github.io/notes/2024/02#new-york-city-spokesperson-on-measles-case))  international travel
+9. **Los Angeles, CA** ([Feb. 1](http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=4625)) international travel, arrived on TK 009 from Istanbul
+10. **Silver Spring, MD** ([Feb. 1](https://health.maryland.gov/newsroom/Pages/One-Case-of-Measles-Confirmed-in-Maryland-Resident-with-Recent-International-Travel.aspx)) international travel
+11. **San Diego, CA** ([Feb. 2](https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/cahan/communications_documents/2-2-24.pdf)) international travel, 1 years old, not linked to Los Angeles
+12. **Montgomery County, OH** ([Feb. 3](https://www.phdmc.org/news-features/news-releases/measles-case-reported-in-a-montgomery-county-resident), [Feb. 3](https://odh.ohio.gov/media-center/ODH-News-Releases/odh-news-release-02-03-24)) recent travel, child
+13. **Dakota County, MN** ([Feb. 7](https://www.health.state.mn.us/diseases/idlab/mls/labalerts/240207measlescase.pdf)) international travel, 16 months old, see secondary below
+14. **Unknown, OH** ([Feb. 10](https://wonder.cdc.gov/nndss/static/2024/06/2024-06-table900.html)) locally acquired
+15. **Dakota County, MN** ([Feb. 12](https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/)) sibling of index above
+16. **Maricopa County, AZ** ([Feb. 10](https://www.maricopa.gov/CivicAlerts.aspx?AID=2871), [Feb. 12](https://www.maricopa.gov/CivicAlerts.aspx?AID=2872&ARC=4892)) international travel
+17. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
+18. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
+19. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
+20. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
+21. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+22. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+23. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+24. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+25. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+26. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
+27. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
+28. **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
+29. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
+
 ## Federal health advisory committee on vaccines
 
 - **Source:** hosted by the Department of Health and Human Services
@@ -269,38 +301,7 @@ permalink: /notes/2024/02
 > 
 > Due to the high immunity rate in the community, as well as the burden on families and educational cost of healthy children missing school, the Surgeon General has deferred the decision to keep children home from school to parents/guardians. Broward County School District has prepared to provide continuous learning to children at Manatee Bay Elementary whose parents/guardians choose to keep them at home until the end of the infectious period. At this time, the infectious period ends March 7, 2024 - this is subject to change. The Surgeon General’s recommendation may change as epidemiological investigations continue. 
 > 
-> Attached, please find the measles health advisory published by DOH-Broward. 
-
-## Reported measles cases so far in the United States
-
-1. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) first in 2024, linked to outbreak from 2023
-2. **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) second in 2024, linked to outbreak from 2023
-3. **Northern VA** ([Jan. 13](https://www.vdh.virginia.gov/news/2024-news-releases/virginia-health-officials-investigating-potential-measles-exposures-in-northern-virginia/), [Jan. 24](https://www.vdh.virginia.gov/measles/)) international travel, no secondary
-4. **Camden County, NJ** ([Jan. 13](https://www.camdencounty.com/camden-county-monitoring-confirmed-case-of-measles/), [Feb. 6](https://www.nj.gov/health/cd/topics/measles.shtml)) not linked to Philadelphia, no secondary
-5. **Philadelphia, PA** ([Jan. 16](https://www.phila.gov/2024-01-17-health-department-update-on-measles-outbreak-january-16-2/)) third in 2024, linked to outbreak from 2023
-6. **Atlanta, GA** ([Jan. 18](https://dph.georgia.gov/press-releases/2024-01-18/dph-confirms-measles-case-metro-atlanta)) international travel
-7. **Atlanta, GA** (after [Jan. 18](https://tinalexander.github.io/notes/2024/02#georgia-health-department-spokesperson-on-measles-cases)) relative of above case
-8. **New York, NY** ([Jan. 31](https://www.nyc.gov/assets/doh/downloads/pdf/han/advisory/2024/han-advisory-3.pdf), [Feb. 16](https://tinalexander.github.io/notes/2024/02#new-york-city-spokesperson-on-measles-case))  international travel
-9. **Los Angeles, CA** ([Feb. 1](http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=4625)) international travel, arrived on TK 009 from Istanbul
-10. **Silver Spring, MD** ([Feb. 1](https://health.maryland.gov/newsroom/Pages/One-Case-of-Measles-Confirmed-in-Maryland-Resident-with-Recent-International-Travel.aspx)) international travel
-11. **San Diego, CA** ([Feb. 2](https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/cahan/communications_documents/2-2-24.pdf)) international travel, 1 years old, not linked to Los Angeles
-12. **Montgomery County, OH** ([Feb. 3](https://www.phdmc.org/news-features/news-releases/measles-case-reported-in-a-montgomery-county-resident), [Feb. 3](https://odh.ohio.gov/media-center/ODH-News-Releases/odh-news-release-02-03-24)) recent travel, child
-13. **Dakota County, MN** ([Feb. 7](https://www.health.state.mn.us/diseases/idlab/mls/labalerts/240207measlescase.pdf)) international travel, 16 months old, see secondary below
-14. **Unknown, OH** ([Feb. 10](https://wonder.cdc.gov/nndss/static/2024/06/2024-06-table900.html)) locally acquired
-15. **Dakota County, MN** ([Feb. 12](https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/)) sibling of index above
-16. **Maricopa County, AZ** ([Feb. 10](https://www.maricopa.gov/CivicAlerts.aspx?AID=2871), [Feb. 12](https://www.maricopa.gov/CivicAlerts.aspx?AID=2872&ARC=4892)) international travel
-17. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-18. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-19. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-20. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
-21. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-22. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-23. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-24. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-25. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-26. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
-27. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
-28. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
+> Attached, please find the measles health advisory published by DOH-Broward.
 
 ## Louisiana health department on measles cases
 
