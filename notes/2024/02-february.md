@@ -87,7 +87,7 @@ permalink: /notes/2024/02
 > 
 > This is very different than what we saw during the peak of the 2018-2019 resurgence. And that was a much wider age range that was affected, including older children and adults. And that really reflected, what Natasha referred to, which is this residual immunity gaps across multiple birth cohorts, resulting from sins of the long past and this relative period of peace time in our region with very low levels of endemic transmission, where this population immunity gap was not challenged by large scale importation of the virus.
 > 
-> What we're currently experiencing really is there results of accumulation of susceptible children who were not reached by immunization programs that were impacted by the COVID pandemic.
+> What we're currently experiencing really is the results of accumulation of susceptible children who were not reached by immunization programs that were impacted by the COVID pandemic.
 > 
 > ...
 > 
