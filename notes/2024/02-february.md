@@ -292,16 +292,15 @@ permalink: /notes/2024/02
 17. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
 18. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
 19. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-20. **Unknown** ([from CDC tally](https://www.cdc.gov/measles/cases-outbreaks.html))
-21. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
+20. **Broward County, FL** ([Feb. 16](https://www.cbsnews.com/miami/news/case-of-measles-detected-at-broward-elementary-school/)) elementary school
+21. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
 22. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
 23. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
 24. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
 25. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
-26. **Broward County, FL** ([Feb. 21](https://www.cbsnews.com/miami/news/florida-department-of-health-investigates-broward-countys-multiple-measles-cases/)) elementary school
+26. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
 27. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
-28. **New Orleans, LA** ([Feb. 21](https://ldh.la.gov/news/7268), [Feb. 21](https://tinalexander.github.io/notes/2024/02#louisiana-health-department-on-measles-cases)) interstate travel
-29. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
+28. **Unknown, MN** ([Feb. 22](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#minnesota-health-department-on-measles-infection)) unvaccinated cousin of previous case
 
 ## Louisiana health department on measles cases
 
