@@ -11,6 +11,158 @@ permalink: /notes/2024/02
 
 # February 22, 2024
 
+## Federal health advisory committee on vaccines
+
+- **Source:** hosted by the Department of Health and Human Services
+- **Attribution:** meeting of the National Vaccine Advisory Committee
+- **Date:** occurred February 22, 2024
+
+> Rachel Levine, HHS [00:08:44]
+> 
+> Unfortunately, measles, one of the most contagious diseases, has made me very concerned. 
+> 
+> I appreciate NVAC's proactive approach over the years in sessions about localized outbreaks and preventative measures we can take to prevent measles.
+> 
+> While measles had been eradicated in the United States more than 20 years ago, we have seen recent cases in several states in 2023 alone, a total of 58 measles cases were reported in 20 jurisdictions around the country. And this year CDC has confirmed more cases. 
+> 
+> Most of these cases were among children and adolescents who were not fully vaccinated to protect them from getting measles if exposed.
+> 
+> As you well know, measles outbreaks can happen anywhere people are unvaccinated or under vaccinated. While most children in the United States are up to date with their measles vaccinations, too many of our children still need protection. 
+> 
+> Recent data from the CDC show that 91% of children under age two years have received the recommended two doses of the measles, mumps and rubella vaccine. This is lower than the Healthy People 2030 goal of 95%. 
+> 
+> Additionally, some communities have even lower vaccination coverage that puts them at greater risk for outbreaks. 
+> 
+> I look forward to hearing more about the presentations from the speakers today as the committee discusses both the global surge and measle cases and recent outbreaks in Idaho and Pennsylvania. 
+> 
+> I also want to encourage the healthcare providers participating in the meeting today to be on the alert for patients with febrile rash and measles symptoms, such as cough, coryza, and conjunctivitis, and those who recently traveled abroad, especially to areas with ongoing measles outbreaks, to be effective in our disease prevention goals. 
+> 
+> We must also fully use them to get more people vaccinated. For example, requiring vaccination for kids in school, a topic on your agenda is key to reducing preventable illnesses. 
+> 
+> Other evidence-based approaches that promote uptake of vaccinations include patient reminders and recalls, standing orders and incentives to patients and families to overcome hesitancy, a healthcare providers strong and clear recommendation as described in NVAC standards for immunization practice, are central to promoting vaccine uptake and reducing vaccine hesitancy.
+> 
+> ...
+> 
+> Natasha Crowcroft, WHO [00:26:29]
+> 
+> If you look through the top panel in this, what really jumps out is the big peak in 2019. That was a very bad year for measles globally. We have-- that there were more cases in that year than we'd seen since 1996. 
+> 
+> So we had this very, very big outbreak year. And then following that year 2019, you see the numbers really fall away. And that reflects the impact of the pandemic with shut with lockdowns and reduction in international travel. 
+> 
+> What's concerning us right now is if you see 2022, cases went, started to go up, and then in 2023, they went up further and we're a little bit concerned we're now in the same or similar position to what we see epidemiologically in run up to that 2019 year, where suddenly we had this explosion of cases. And that's, that's, what's troubling us right now. 
+> 
+> ...
+> 
+> Natasha Crowcroft, WHO [00:27:32]
+> 
+> What we're also seeing that accompanies this concern about the pattern in cases is an increase in outbreaks. So the number of large or disruptive outbreaks, which is defined as a country with an instance more than 20 per million, that has increased from 32 in the whole of 2022 to 51 in 2023.
+> 
+> There have been ongoing large or disruptive outbreaks in the African region. So the more recent increase has actually mainly been observed in these Eastern Mediterranean region and the European region, and to some extent in Southeast Asia, but we'll hear more about Euro shortly next. 
+> 
+> ...
+> 
+> Natasha Crowcroft, WHO [00:28:14]
+> 
+> The reason for this, why is it happening? Well, we really haven't seen the recovery in measles vaccine coverage globally, as we've seen for other antigens. 
+> 
+> So DTP coverage rose to within 1% of its pre pandemic levels, but measles containing vaccine, the first dose coverage remain 3% below the pre pandemic peak. And we already know that that was not high enough because we need 95% coverage in the routine program to avoid outbreaks. So we are still a way off that globally. 
+> 
+> And if you go to the next slide please, what we see in low income countries is actually backsliding. So, rather than not recovering as well, we actually see a fall backwards. So we've lost 7% in our coverage in low income countries. We're already way behind in low income countries, but they've fallen even further. 
+> 
+> ...
+> 
+> Natasha Crowcroft, WHO [00:29:48]
+> 
+> What we're seeing is that more than half of the countries in the world will be at high risk of measles outbreaks by the end of 2024. And about half of those are lower middle income countries. 
+> 
+> It adds up to 142 million children under five being susceptible to measles, and most of those live in low or middle income countries, and 62% in settings where we identify those countries to be at highest or high risk of an outbreak by the end of this year. 
+> 
+> So we are, we are really looking at this year with a great deal of concern and hoping that we're going to be wrong because this is a prediction we don't know what's gonna really happen, we're hoping that that action will be taken to catch up and fill these immunity gaps, urgently, to prevent outbreaks occurring. 
+> 
+> ...
+> 
+> José Hagan, WHO [00:45:55]
+> 
+> During the current resurgence, we're seeing that there's a predominance of cases under age five. There are some cases among older children and young adults, accounting for age distribution of the population, it's still overwhelmingly the youngest children. 
+> 
+> This is very different than what we saw during the peak of the 2018-2019 resurgence. And that was a much wider age range that was affected, including older children and adults. And that really reflected, what Natasha referred to, which is this residual immunity gaps across multiple birth cohorts, resulting from sins of the long past and this relative period of peace time in our region with very low levels of endemic transmission, where this population immunity gap was not challenged by large scale importation of the virus.
+> 
+> What we're currently experiencing really is there results of accumulation of susceptible children who are not reached by immunization programs that were impacted by the COVID pandemic.
+> 
+> ...
+> 
+> José Hagan, WHO [00:47:07]
+> 
+> We are experiencing a number of outbreaks in the European region. Most predominantly, this is in the Eastern part of the region and central Asia, but it's affecting most of the countries to some degree or another.
+> 
+> These outbreaks began in 2023. And for the most part, we see a plateau in Europe except for an overwhelming outbreak in Azerbaijan. There have been ongoing outbreak response activities. And I think hopefully we'll see the impact of those in the next couple of months.
+> 
+> But you know, these outbreaks are really revealing vulnerabilities, particularly these middle income countries and the need for us to really better understand the subnational inequities and overcoming the uncertainties and denominators that make national immunization coverage not reliable, as many of the affected countries really report actually very high coverage at the national level.
+> 
+> ...
+> 
+> Christine Hahn, Idaho Division of Public Health [01:02:53]
+> 
+> We had a young adult male who traveled internationally. 
+> 
+> I will say, we did not release the country because it is a rural community. We thought it could be identifying, but it was in the European region, in one of the countries alluded to by one of the previous speakers, and returned to back to Idaho on September 13th.
+> 
+> ...
+> 
+> Christine Hahn, Idaho Division of Public Health [01:07:07]
+> 
+> We do know that the public concern is pretty low. We were surprised we thought would get a ton of media attention around our measles outbreak. 
+> 
+> And it was really, they certainly reported on it, but there really wasn't-- we actually watched our MMR to see if we'd see a bump, after all our press releases and blogs, and we did not see a bump in MM after that at. Very disappointing.
+> 
+> We have a high exemption rate and we are concerned that as you all know, exempted kids do not necessarily mean unimmunized kids. We think some of these are parents that just don't want to report anything about their children's health or healthcare to a school. 
+> 
+> But we are concerned that that same reflection of parents that don't necessarily want the government in their business is going to maybe make it challenging for us moving forward to try to improve vaccination rates and maybe hopefully reduce exemption rates in those communities. 
+> 
+> ...
+> 
+> Christine Hahn, Idaho Division of Public Health [01:08:04]
+> 
+> This hasn't been explicitly commented upon yet, but I think people traveling to let's say Africa or Southeast Asia may go to travel clinics and make sure they're up to date on their immunizations, but travelers going to the European region, from the United States, don't necessarily think that way and may not be getting their MMRs before European travel. 
+> 
+> ...
+> 
+> Shara Epstein, Philadelphia Department of Public Health [01:24:21]
+> 
+> I'll just mention our vaccination rates in Philadelphia, like across the nation fell during the COVID pandemic, but are back on the upswing no.
+> 
+> 93% of our children, six and older, are up to date on their vaccine. 97% of our school-aged children at seventh grade are up to date on their MMR vaccine.
+> 
+> I think our cases here in Philadelphia, while they clustered in a daycare that was accepting of unvaccinated children, were not in a kind of specific community. 
+> 
+> They-- people had whose children who were not vaccinated, who were included in this outbreak, had various reasons for not vaccinating. They weren't-- they weren't consistent. 
+> 
+> And, in fact, I'll mention that a lot of the kind of preschool children actually had older siblings who were vaccinated. So these weren't kind of long held beliefs in most cases about not vaccinating, which may be different than some other outbreaks.
+> 
+> ...
+> 
+> Shara Epstein, Philadelphia Department of Public Health [01:27:58]
+> 
+> We've also discussed that extensively.
+> 
+> Our initial case was, while too young to get routine vaccinations, would have been old enough to get an early vaccine for travel, and could have prevented our whole cluster, had they done that. So that's something we've discussed a lot and are very interested in.
+> 
+> ...
+> 
+> Natasha Crowcroft, WHO [01:28:30]
+> 
+> If I should go ahead and answer the question about why measles vaccine hasn't caught up as quickly as diphtheria, tetanus, and pertussis, I think it is age related. 
+> 
+> We generally find that coverage at a global level and in many low income countries gets lower, the older the child. 
+> 
+> So, DTP being given to young infants, and generally we're talking about the first dose of measles vaccine given at nine months, although seeing in some countries given in at 12 or older, but for the countries we're talking about, it's generally nine months. 
+> 
+> So we already have a problem with a drop off. And then if we have a system that isn't working that well, then it finds it even harder to recover for those older children. 
+> 
+> On top of that, many low income countries really struggle to immunize children in the first year of-- in the second year of life. So, they-- the essential program of immunization was originally really just for children under one. And even though there's been a recommendation for immunization to be whole of life, and for children to be eligible for their infant vaccines up to five at very least, actually moving those changes along in the field has proved quite challenging in some settings. 
+> 
+> So, I think that's the other reason that if a child has delayed their dose for one reason or another, is just very, very hard to reach them in the second year of life in some countries. 
+
 ## Minnesota health department on measles infection
 
 - **Source:** email
