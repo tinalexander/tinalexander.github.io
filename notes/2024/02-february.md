@@ -11,6 +11,18 @@ permalink: /notes/2024/02
 
 # February 22, 2024
 
+## Minnesota health department on measles infection
+
+- **Source:** email
+- **Attribution:** Minnesota Department of Health spokesperson
+- **Date:** received February 22, 2024
+
+> I’m just following up to let you know, since you asked earlier this week, that a third measles case has been confirmed in MN. The new case was confirmed in an unvaccinated cousin of the child with the initial case, so once again, the risk to the public remains very low.
+> 
+> Our website has been updated:
+> 
+> Measles Disease Statistics - MN Dept. of Health (state.mn.us)
+
 ## CDC advisory committee meeting on public health issues
 
 - **Source:** hosted by Centers for Disease Control and Prevention
