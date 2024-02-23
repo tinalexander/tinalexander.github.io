@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 23, 2024
 
+## Clermont County Public Health spokesperson on measles case
+
+- **Source:** emailed statement
+- **Attribution:** Clermont County Public Health spokesperson
+- **Date:** received February 23, 2024
+
+> The case in Clermont County is considered a potential measles exposure, pending further investigation. It has not been confirmed at this time.  Through our disease investigation, we have not found any links to any of the other confirmed cases in Ohio.
+
 ## Broward County Public Schools on measles outbreak cases
 
 - **Source:** emailed state
