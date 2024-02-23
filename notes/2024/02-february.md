@@ -127,7 +127,7 @@ permalink: /notes/2024/02
 >
 > **15. Missouri**
 >
-> - **Unknown, MO** ([Feb. 23](https://www.cdc.gov/measles/cases-outbreaks.html))
+> - **Clay County, MO** ([Jan. 12](https://www.clayhealth.com/CivicAlerts.aspx?AID=186))
 
 ## Ohio health department on measles cases
 
