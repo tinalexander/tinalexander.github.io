@@ -105,6 +105,10 @@ permalink: /notes/2024/02
 > **14. Indiana**
 >
 > - **Lake County, IN** ([Feb. 23](https://events.in.gov/event/idoh_news_release_health_department_reports_first_measles_case_in_5_years?utm_campaign=widget&utm_medium=widget&utm_source=State+of+Indiana))
+>
+> **15. Missouri**
+>
+> - **Unknown, MO** ([Feb. 23](https://www.cdc.gov/measles/cases-outbreaks.html))
 
 ## Ohio health department on measles cases
 
