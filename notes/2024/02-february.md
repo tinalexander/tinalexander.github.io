@@ -11,40 +11,6 @@ permalink: /notes/2024/02
 
 # February 23, 2024
 
-## Broward County Public Schools on no new measles cases
-
-- **Source**: emailed statement
-- **Attribution:** John J. Sullivan, Chief Communications and Legislative Affairs Officer:
-- **Date:** received February 23, 2024
-
-> As we close out the week, Broward County Public Schools would like to thank Manatee Bay Elementary School’s parents, families and staff, as well as the entire community, for the support and understanding provided over the past several days. The District also thanks the Florida Department of Health – Broward for its support and continued guidance.
-> 
-> As of today, Friday, February 23, there are NO new confirmed measles cases at Manatee Bay Elementary or any other District School to report.  The total number of confirmed cases at Manatee Bay Elementary remains at six.  The school will continue with all the preventative measures that have been implemented, such as enhanced cleanings at the school, and remains in communication with its families. The District will also continue to provide updates, as needed.
-
-## Georgia Department of Public Health on earlier measles cases
-
-- **Source:** email
-- **Attribution:** Georgia Department of Public Health spokesperson
-- **Date:** received February 23, 2024
-
-> No additional cases. The first case had travel history in the Middle East; the second case was an unvaccinated family member.
-
-## Clermont County Public Health spokesperson on measles case
-
-- **Source:** emailed statement
-- **Attribution:** Clermont County Public Health spokesperson
-- **Date:** received February 23, 2024
-
-> The case in Clermont County is considered a potential measles exposure, pending further investigation. It has not been confirmed at this time.  Through our disease investigation, we have not found any links to any of the other confirmed cases in Ohio.
-
-## Broward County Public Schools on measles outbreak cases
-
-- **Source:** emailed state
-- **Attribution:** Broward County Public Schools spokesperson
-- **Date:** received February 21, 2024
-
-> Yesterday, Tuesday, February 20, Broward County Public Schools was notified of one additional confirmed measles case at Manatee Bay Elementary School. This brings the total number of confirmed cases to six.  At the request of Florida’s Surgeon General, the District has shared the attached announcement and guidance with our parents and guardians at Manatee Bay Elementary School.
-
 ## Measles cases confirmed or suspected so far through Feb. 23
 
 - **Source:** multiple sources
@@ -132,6 +98,40 @@ permalink: /notes/2024/02
 > **16. Michigan**
 > 
 > - **Oakland County, MI** ([Feb. 23](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2024/02/23/measles)) international travel
+
+## Broward County Public Schools on no new measles cases
+
+- **Source**: emailed statement
+- **Attribution:** John J. Sullivan, Chief Communications and Legislative Affairs Officer:
+- **Date:** received February 23, 2024
+
+> As we close out the week, Broward County Public Schools would like to thank Manatee Bay Elementary School’s parents, families and staff, as well as the entire community, for the support and understanding provided over the past several days. The District also thanks the Florida Department of Health – Broward for its support and continued guidance.
+> 
+> As of today, Friday, February 23, there are NO new confirmed measles cases at Manatee Bay Elementary or any other District School to report.  The total number of confirmed cases at Manatee Bay Elementary remains at six.  The school will continue with all the preventative measures that have been implemented, such as enhanced cleanings at the school, and remains in communication with its families. The District will also continue to provide updates, as needed.
+
+## Georgia Department of Public Health on earlier measles cases
+
+- **Source:** email
+- **Attribution:** Georgia Department of Public Health spokesperson
+- **Date:** received February 23, 2024
+
+> No additional cases. The first case had travel history in the Middle East; the second case was an unvaccinated family member.
+
+## Clermont County Public Health spokesperson on measles case
+
+- **Source:** emailed statement
+- **Attribution:** Clermont County Public Health spokesperson
+- **Date:** received February 23, 2024
+
+> The case in Clermont County is considered a potential measles exposure, pending further investigation. It has not been confirmed at this time.  Through our disease investigation, we have not found any links to any of the other confirmed cases in Ohio.
+
+## Broward County Public Schools on measles outbreak cases
+
+- **Source:** emailed state
+- **Attribution:** Broward County Public Schools spokesperson
+- **Date:** received February 21, 2024
+
+> Yesterday, Tuesday, February 20, Broward County Public Schools was notified of one additional confirmed measles case at Manatee Bay Elementary School. This brings the total number of confirmed cases to six.  At the request of Florida’s Surgeon General, the District has shared the attached announcement and guidance with our parents and guardians at Manatee Bay Elementary School.
 
 ## Ohio health department on measles cases
 
