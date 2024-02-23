@@ -52,7 +52,8 @@ permalink: /notes/2024/02
 > **8. Ohio**
 > 
 > - **Montgomery County, OH** ([Feb. 3](https://www.phdmc.org/news-features/news-releases/measles-case-reported-in-a-montgomery-county-resident), [Feb. 3](https://odh.ohio.gov/media-center/ODH-News-Releases/odh-news-release-02-03-24)) recent travel, child
-> - **Miami County, OH** ([Feb. 20](https://www.facebook.com/PublicHealthDMC/posts/pfbid02NuRXRcSDHUnmdKRAWXsAdyWcP1hUqgMh4xwp39P71AQzBuzQCBsDV34tXPRnK6tnl))
+> - **Miami County, OH** ([Feb. 20](https://www.facebook.com/PublicHealthDMC/posts/pfbid02NuRXRcSDHUnmdKRAWXsAdyWcP1hUqgMh4xwp39P71AQzBuzQCBsDV34tXPRnK6tnl)) linked to Montgomery County
+> - **Richland County, OH** ([Feb. 23](https://tinalexander.github.io/notes/2024/02)) not linked to earlier cases
 > - **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/)) potential case
 > 
 > **9. Minnesota**
