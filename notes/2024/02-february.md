@@ -101,6 +101,10 @@ permalink: /notes/2024/02
 > **13. Washington**
 > 
 > - **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
+> 
+> **14. Indiana**
+>
+> - **Lake County, IN** ([Feb. 23](https://events.in.gov/event/idoh_news_release_health_department_reports_first_measles_case_in_5_years?utm_campaign=widget&utm_medium=widget&utm_source=State+of+Indiana))
 
 ## Ohio health department on measles cases
 
