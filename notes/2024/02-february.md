@@ -127,7 +127,7 @@ permalink: /notes/2024/02
 >
 > **15. Missouri**
 >
-> - **Clay County, MO** ([Jan. 12](https://www.clayhealth.com/CivicAlerts.aspx?AID=186))
+> - **Clay County, MO** ([Jan. 12](https://www.clayhealth.com/CivicAlerts.aspx?AID=186)) at international airport
 
 ## Ohio health department on measles cases
 
