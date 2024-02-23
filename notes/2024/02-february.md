@@ -110,6 +110,7 @@ permalink: /notes/2024/02
 > - **Broward County, FL** ([Feb. 21](https://tinalexander.github.io/notes/2024/02#broward-county-public-schools-on-measles-outbreak-cases)) elementary school
 > - **Broward County, FL** ([Feb. 21](https://tinalexander.github.io/notes/2024/02#broward-county-public-schools-on-measles-outbreak-cases)) elementary school
 > - **Broward County, FL** ([Feb. 21](https://tinalexander.github.io/notes/2024/02#broward-county-public-schools-on-measles-outbreak-cases)) elementary school
+> - **Broward County, FL** ([Feb. 22](https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=FrequencyMerlin.Frequency&FirstTime=True)) 4 years or younger
 > 
 > **12. Louisiana**
 > 
