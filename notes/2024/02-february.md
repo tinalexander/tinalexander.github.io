@@ -17,6 +17,30 @@ permalink: /notes/2024/02
 - **Attribution:** meeting of the National Vaccine Advisory Committee
 - **Date:** occurred February 22, 2024
 
+> Darlene Huang Briggs, Network for Public Health Law [00:02:54]
+> 
+> During the pandemic, we came together to track and address the various attacks in state legislatures and courts across the country against the various uses of public health authority, especially emergency authority to mitigate the rapid COVID 19 next slide please. 
+> 
+> So the network in partnership with the National Association of County and City Health Officials documented the coordinated backlash against public health authority in state legislatures. In these early reports, we saw efforts to outright prohibit or shift or limit fundamental public health powers, and more generally to upset the balance of those powers for the collective good with individual liberties. 
+> 
+> These efforts happened across the country and were successful in rolling back public health powers in over half of states, think things like bans on employer vaccination requirements or mask mandates, as well as blocking the use of business closures or quarantine and shifting power from the executive branch to the legislature for decisions that require public health expertise. 
+> 
+> And it will come is no surprise to all of you, but the very clear through line Act for Public Health saw in all of these efforts to undermine public health expertise was that vaccines continue to be a target and a bellweather for navigating changes to public health authority more generally. So next slide, please. 
+> 
+> Last year we narrowed our legislative tracking focus to a subset of vaccine bills. And what you're seeing here is that data set from our friends at Temple University's Center for Public Health Law Research. They have systematically coded and visually mapped school vaccine and provider scope of practice bills identified by the Association for State and Territorial Health Officials from January to May of last year. They're currently working on an update through the end of 2023. And so what have they found? Next slide please.
+> 
+> Out of 196 total bills introduced, which sought to change existing school entry requirements and the availability of non-medical exemptions and to revisit who determines which vaccines are required for school entry, only 11 of those bills were ultimately ended.
+> 
+> Most expanded scope practice for additional healthcare providers to administer vaccines and just three prohibited various school entry vaccination requirements. 
+> 
+> ...
+> 
+> Darlene Huang Briggs, Network for Public Health Law [00:07:16]
+> 
+> There are a number of more recent troubling trends to the use of public health authority and for vaccine mandates specifically. The free exercise clause of the first amendment is at the center of these legal challenges. 
+> 
+> ...
+> 
 > Georgina Peacock, CDC [00:19:38]
 > 
 > So at the state and local level, enforcing school immunization requirements is really a key strategy to encouraging vaccination catch up and school immunization requirements were enacted and enforced in 1977 and really were a driving force behind high immunization rates in schools before the COVID 19 pandemic. 
