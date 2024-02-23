@@ -128,6 +128,10 @@ permalink: /notes/2024/02
 > **15. Missouri**
 >
 > - **Clay County, MO** ([Jan. 12](https://www.clayhealth.com/CivicAlerts.aspx?AID=186)) at international airport
+> 
+> **16. Michigan**
+> 
+> - **Oakland County, MI** ([Feb. 23](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2024/02/23/measles)) international travel
 
 ## Ohio health department on measles cases
 
