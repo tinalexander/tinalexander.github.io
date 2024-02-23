@@ -57,7 +57,7 @@ permalink: /notes/2024/02
 > 
 > **4. Georgia**
 > 
-> - **Atlanta, GA** ([Jan. 18](https://dph.georgia.gov/press-releases/2024-01-18/dph-confirms-measles-case-metro-atlanta)) international travel
+> - **Atlanta, GA** ([Jan. 18](https://dph.georgia.gov/press-releases/2024-01-18/dph-confirms-measles-case-metro-atlanta), [Feb. 23](https://tinalexander.github.io/notes/2024/02#georgia-department-of-public-health-on-earlier-measles-cases)) travel to Middle East
 > - **Atlanta, GA** (after [Jan. 18](https://tinalexander.github.io/notes/2024/02#georgia-health-department-spokesperson-on-measles-cases)) relative of above case
 > 
 > **5. New York**
