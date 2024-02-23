@@ -11,6 +11,16 @@ permalink: /notes/2024/02
 
 # February 23, 2024
 
+## Broward County Public Schools on no new measles cases
+
+- **Source**: emailed statement
+- **Attribution:** John J. Sullivan, Chief Communications and Legislative Affairs Officer:
+- **Date:** received February 23, 2024
+
+> As we close out the week, Broward County Public Schools would like to thank Manatee Bay Elementary School’s parents, families and staff, as well as the entire community, for the support and understanding provided over the past several days. The District also thanks the Florida Department of Health – Broward for its support and continued guidance.
+> 
+> As of today, Friday, February 23, there are NO new confirmed measles cases at Manatee Bay Elementary or any other District School to report.  The total number of confirmed cases at Manatee Bay Elementary remains at six.  The school will continue with all the preventative measures that have been implemented, such as enhanced cleanings at the school, and remains in communication with its families. The District will also continue to provide updates, as needed.
+
 ## Georgia Department of Public Health on earlier measles cases
 
 - **Source:** email
