@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 23, 2024
 
+### Pennsylvania health department on measles cases
+
+- **Source:** emailed statement
+- **Attribution:** Pennsylvania Department of Health spokesperson
+- **Date:** received February 23, 2024
+
+> As of February 20, 2024, the Pennsylvania Department of Health recorded three measles cases in 2024. Additionally, nine measles cases were recorded in 2023. It is important to note that all cases from 2023 and 2024 are preliminary and subject to change.
+
 ### ASPR remarks at vaccine advisory committee meeting
 
 - **Source:** National Vaccine Advisory Committee Meeting
