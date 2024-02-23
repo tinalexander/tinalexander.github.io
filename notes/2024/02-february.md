@@ -9,6 +9,18 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 23, 2024
+
+- **Source:** emailed statement
+- **Attribution:** Ohio Department of Health spokesperson
+- **Date:** received February 23, 2024
+
+> Ohio has had three confirmed cases of measles in 2024, in Miami, Montgomery and Richland counties. The cases in Miami and Montgomery are linked; Richland was not.
+> 
+> Please note that the Ohio Department of Health (ODH) is assisting Clermont County health officials in investigating a potential case of measles there. That case is not confirmed.
+> 
+> We encourage all Ohioans to get the measles, mumps, rubella (MMR) vaccine, as the two-dose vaccine regimen is 97% effective against the measles virus.
+
 # February 22, 2024
 
 ## HHS advisory committee session on school immunization policies
