@@ -9,6 +9,8 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 23, 2024
+
 ## At least 30 measles cases confirmed or suspected so far through Feb. 23
 
 - **Source:** multiple sources
@@ -82,8 +84,6 @@ permalink: /notes/2024/02
 > **13. Washington**
 > 
 > - **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
-
-# February 23, 2024
 
 ## Ohio health department on measles cases
 
