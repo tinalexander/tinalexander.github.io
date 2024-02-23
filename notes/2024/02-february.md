@@ -27,7 +27,7 @@ permalink: /notes/2024/02
 
 > Yesterday, Tuesday, February 20, Broward County Public Schools was notified of one additional confirmed measles case at Manatee Bay Elementary School. This brings the total number of confirmed cases to six.  At the request of Florida’s Surgeon General, the District has shared the attached announcement and guidance with our parents and guardians at Manatee Bay Elementary School.
 
-## At least 30 measles cases confirmed or suspected so far through Feb. 23
+## Measles cases confirmed or suspected so far through Feb. 23
 
 - **Source:** multiple sources
 - **Attribution:** multiple attributions
