@@ -11,6 +11,100 @@ permalink: /notes/2024/02
 
 # February 22, 2024
 
+## HHS advisory committee session on school immunization policies
+
+- **Source:** hosted by the Department of Health and Human Services
+- **Attribution:** meeting of the National Vaccine Advisory Committee
+- **Date:** occurred February 22, 2024
+
+> Georgina Peacock, CDC [00:19:38]
+> 
+> So at the state and local level, enforcing school immunization requirements is really a key strategy to encouraging vaccination catch up and school immunization requirements were enacted and enforced in 1977 and really were a driving force behind high immunization rates in schools before the COVID 19 pandemic. 
+> 
+> These requirements have played a significant role in measles being declared eliminated in 2000. And obviously what we're seeing today, in the media and in different places, does raise some concerns. 
+> 
+> But we know that when MMR vaccination coverage drops below 95%, communities are at risk for outbreaks.
+
+## HHS advisory committee session on immunization shortages
+
+- **Source:** hosted by the Department of Health and Human Services
+- **Attribution:** meeting of the National Vaccine Advisory Committee
+- **Date:** occurred February 22, 2024
+
+> Joe Figlio, ASPR [00:14:40]
+> 
+> The demand and supply is stabilizing, right? The COVID cliff has happened and things have dropped off considerably. 
+> 
+> However, as soon as this week, as recent as this week, we had an issue with, and it's still continuing, things like electrical switch gear. So other other components used to build new facilities, the biggest lead time item now is electrical switch gear and other electrical components. 
+> 
+> So that is still one of the top lingering issues in the supply chain that we see.
+> 
+> ...
+> 
+> Tonya Villafana, AstraZeneca [00:31:25]
+> 
+> The novel approach required years of prep to ensure that we had scale, that we could meet the scale, and that we would have broad deployment of the antibody.
+> 
+> Manufacturing an antibody can take up to 12 months to complete, with numerous steps, including creation of the drug substance, so where we need to secure raw materials, like the other speakers were referencing, creation of the drug product, which requires fill finish capacity, and securing components or enough components such as syringes, stoppers, and needles which we need to have on hand to be able to have the drug product.
+> 
+> We delivered this season 2 million doses of Beyfortus globally. So we actually delivered more than we had anticipated, or were asked to deliver by initial demand forecasts. 
+> 
+> And the complex process that has to-- we have to undergo to ensure demand is met needs significant advanced planning, as I mentioned before.
+> 
+> The unprecedented demand that we've seen in Beyfortus in the U.S. has thus required us to ensure that we are planning to increase the supply and meet demand and scale up production is on the way for the next season, where we would have Beyfortus implemented. So I'm talking about the 24-25 season, right now.
+> 
+> And our ability to do this is really dependent on the collaboration and partnership with Sanofi, our partner, and also as you can see on the slide, the White House, FDA, CDC, and other stakeholders in this process to ensure that we could meet the needs fully for the next season.
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:43:35]
+> 
+> CDC purchases vaccines for its routine programs using contracts for pediatrics and adults. 
+> 
+> So this includes, we've got flu vaccine contracts, COVID 19 vaccine contracts and then contracts for the other vaccines that are used. And each contract includes a requirement for manufacturers to provide advanced notice of vaccine supply issues as soon as they become aware that they will have an inability to fill orders timely. 
+> 
+> The contracts also require manufacturers in the event of a shortage to demonstrate reasonably equal treatment between the public and private sectors. And so with these requirements, CDC is provided with some visibility about upcoming issues, and also is able to set expectations about equity between the public and private sectors when there is a supply constraint. 
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:44:30]
+> 
+> Once CDC receives notification from a manufacturer about an anticipated problem, we then seek permission to share confidential information with manufacturers of alternative products who may be in a position to mitigate the situation. 
+> 
+> So the information is quite limited. It's sort of need to know information such as the size of the gap and the anticipated timeframe of the gap. And the information that's shared is really for just internal discussions, among key planning staff. It's not to be shared widely within the company and it's not to be made public. 
+> 
+> We also maintain a regular point of contact and communicate as needed with CBER's product shortage coordinator and CDC staff meet with stakeholders to review and update messaging, and that includes provider organizations, public health organizations, FDA colleagues, and CDC disease subject matter experts. 
+> 
+> And then lastly, we maintain a public facing webpage on which we post information about supply shortages of routinely recommended vaccines, next slide. 
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:45:58]
+> 
+> I just wanted to talk about a few strategies for mitigating a vaccine shortage. 
+> 
+> The first strategy involves the pediatric vaccine stockpile program. This is part of the Vaccines for Children program, and it allows CDC to use VFC funding to purchase and manage stockpiles. The stockpiles are dynamic storage and rotation stockpiles, they're held by the manufacturer so they can rotate through manufacture inventory, and that ensures vaccine viability in the stockpile and it reduces waste. 
+> 
+> The target size for the stockpile is defined as a six month supply of VFC vaccine usage and the stockpile contracts that we have with manufacturers allow us to loan stockpile vaccines to them to mitigate shortages and vaccines are then replaced following the shortage. Next slide.
+> 
+> A second strategy is controlled vaccine ordering. So when supply is reduced, CDC implements ordering controls in the public sector to mitigate the effects of the shortage and these controls place limits on the total number of vaccines that each jurisdiction can order and jurisdictions are then responsible for making important decisions about how much vaccine will be made available to individual providers and to provider types. 
+> 
+> Ordering limits are calculated to facilitate jurisdictions, having an access to an equitable share of the vaccine or product that's available. And so they actually mirror the relative proportions of each jurisdiction's ordering for similar vaccines and or similar cohorts when supplies are not constrained.
+> 
+> Manufacturers also often implement ordering controls in the private sector. The approach that they use varies by manufacturer, and it also takes into account direct ordering as well as ordering through wholesalers and distributors. Next slide. 
+> 
+> Finally, if there's insufficient vaccine available to fulfill ACIP's recommended vaccination schedule, then interim vaccine recommendations can be issued by CDC and an interim vaccine recommendation is a temporary change in the recommended schedule that's made to conserve limited supply recommendations may either temporarily target limited supply to high risk individuals, or may reduce the number of doses in a multi-dose series. 
+> 
+> ...
+> 
+> Jeanne Santoli, CDC [00:52:33]
+> 
+> As a new product, nirsevimab is not yet held in CDC stockpile. So stockpile was not an option here, but a number of actions were taken. You've just heard about some of this, but there was collaboration between the USG and the manufacturers to manage orders and increased national supply. 
+> 
+> And this collaboration occurred at multiple levels of all of the involved organizations and, you know, remarkably an additional 300,000 doses were made available in the public and private sectors during this first season. And that actually reflected a 30% increase over what was planned and was very important in trying to meet some of the unanticipated demand and then discussions, which were ongoing, included a major focus on planning for the next season, because while there was a goal to manage the current season as best as possible, it was understood that starting to plan early for the next season was a key strategy. 
+> 
+> CDC provided guidance on prioritizing nirsevimab in mid-October with a focus on the hundred milligram presentation that was most constrained. And then ordering controls were implemented in the public and private sectors to facilitate equity across the country because initial ordering was significantly varied and uneven across different parts of the country. Next slide. 
+
 ## Maricopa County spokesperson on new measles cases
 
 - **Source:** email
