@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 23, 2024
 
+## Georgia Department of Public Health on earlier measles cases
+
+- **Source:** email
+- **Attribution:** Georgia Department of Public Health spokesperson
+- **Date:** received February 23, 2024
+
+> No additional cases. The first case had travel history in the Middle East; the second case was an unvaccinated family member.
+
 ## Clermont County Public Health spokesperson on measles case
 
 - **Source:** emailed statement
