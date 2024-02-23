@@ -11,6 +11,24 @@ permalink: /notes/2024/02
 
 # February 23, 2024
 
+### ASPR remarks at vaccine advisory committee meeting
+
+- **Source:** National Vaccine Advisory Committee Meeting
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred February 23, 2024
+
+> Kim Armstrong, ASPR [00:14:41]
+> 
+> The mpox outbreak that started in May 2022 is still ongoing as of February 2024, but has waned in terms of case numbers per day in terms of domestic cases, however, caseloads in Sub-Saharan Africa remain an issue and the Democratic Republic of Congo is experiencing a significant increase in cases of clade I mpox. 
+> 
+> As a part of our smallpox preparedness, BARDA is increasing its supply of the U.S. stored inventory of Jynneos, the smallpox and mpox vaccine. The vaccine continues to be made available to jurisdictions for the ongoing mpox response. 
+> 
+> BARDA continues its partnerships to develop better and more rapidly produced pandemic influenza vaccines that shorten pandemic influenza response timelines, and increase vaccine accessibility to ensure the nation is prepared to respond to the next influenza pandemic.
+> 
+> Protocol development for a BARDA sponsored randomized double blind phase two clinical trial to assess the safety and immunogenicity of egg based H5N8 influenza vaccine at different antigen dose levels, and adjuvanted with ASO3 and MF59 continues. Study start is projected for summer of 2024. 
+> 
+> And finally, under Project Next Gen, BARDA in partnership with Luminary Labs will launch two prize competitions that will provide prize based awards to partners that will one focus on the formulation of RNA based vaccines on microneedle patches, and two, accelerate the development of single dose vaccines that can support a rapid pandemic response. 
+
 ## Measles cases confirmed or suspected so far through Feb. 23
 
 - **Source:** multiple sources
