@@ -11,17 +11,75 @@ permalink: /notes/2024/02
 
 # February 26, 2024
 
-### FDA's Jim Jones at webinar on nutrition with journalists
+## CDC testing official on clade I mpox preparedness 
+
+- **Source:** [webinar](https://www.cdc.gov/locs/2024/02-23-2024-Lab-Update-Join_Laboratory_Outreach_Communication_System_LOCS_Call_Monday_February_26.html)
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** occurred February 26, 2024
+
+> Christina Hutson, CDC [00:16:44]
+> 
+> In 2023, we saw a dramatic increase in the number of suspect cases. There were over 14,000 suspect cases and 660 deaths. 
+> 
+> And then in 2024, this number needs to be updated, but we've already seen over 1,000 cases with 101 deaths. 
+> 
+> This is seen in 23 out of 26 provinces, as you can see in the picture on the right. So almost the entire country of DRC is reporting suspect mpox cases. And I say suspect because most of them have not been tested by laboratory tests. 
+> 
+> They're only being called mpox based on the clinical presentation. And this is because DRC has very limited testing that is occurring. During 2023, only around 9% of all cases were tested. 
+> 
+> The other concerning flags we saw in 2023 is that there were cases in urban settings where we typically haven't seen mpox. And then also cases along borders, really raising some concerns about spread to other countries. 
+> 
+> ...
+> 
+> Christina Hutson, CDC [00:17:52]
+> 
+> So the transmission in DRC is quite different from what we see in the U.S. and also different from what we've historically seen in the DRC. And really the main, demographic group that is being infected in the DRC seems to be in children. And that's also where most deaths are occurring and this is less than 15 years. 
+> 
+> So that is actually what we historically have seen, but we've also seen transmission due to sexual contacts and sex trade workers, primarily these are women's sex trade workers. So not exactly the same outbreak setting that we saw start in 2022. But concerning again, because we haven't seen sexual transmission of displayed in the past. 
+> 
+> ...
+> 
+> Christina Hutson, CDC [00:18:40]
+> 
+> So I mentioned that only 9% of the, the specimens have been tested. 
+> 
+> And then we have seen some sequence data come out of the DRC that does continue to support that there are zoonotic introductions of this virus and not necessarily sustained human to human transmission occurring, but we are lacking a lot of information. 
+> 
+> This is a very limited number of assessments that are being sequenced. 
+> 
+> ...
+> 
+> Christina Hutson, CDC [00:19:18]
+> 
+> So going into the U.S. preparedness in case we do have a case of clade I, next slide. 
+> 
+> So today there are still, thankfully, no cases of clade I mpox detected in the United States or anywhere outside of endemic countries within Africa. 
+> 
+> However, we are raising awareness about these concerning flags that I mentioned, with these outbreaks in the DRC. And so to do this, we did issue a HAN in December where we're encouraging clade specific testing in DRC travelers, we're encouraging vaccination because right now only one and four of eligible individuals within the U.S. have received a Jynneos vaccine, and then messaging that prevention, both vaccination and treatment, are expected to perform similarly for clade I, as we've seen for clade II.
+> 
+> We also put out a travel health notice alerting about the outbreak in the DRC and increasing our clinical outreach. 
+> 
+> ...
+> 
+> Christina Hutson, CDC [00:25:45]
+> 
+> There's no commercial labs that we're aware of offering clade I testing, but as I mentioned there, Quest is one commercial lab that offers a multiplex that looks for clade II and orthopox generic target. 
+> 
+> So we can use that if you have an orthopox positive clade II negative, that should be treated as high suspicion for clade I. 
+> 
+> It could be a mutation, but we definitely want to do additional testing to confirm. So although it's not specifically clade I testing, it very much helps us under those surveillance efforts to see if we have any clade I circulating.
+
+## FDA's Jim Jones at webinar on nutrition with journalists
 
 - **Source:** Freedom of Information Act request
-- **Attribution:** Food and Drug Administration
+- **Attribution:** hosted by the Food and Drug Administration
 - **Date:** received February 26, 2024
 
 > [2024-02-26_fda_foia-2024-1810-TR.m4a](https://tinalexander.github.io/notes/attachments/2024-02-26_fda_foia-2024-1810-TR.m4a)
 
 # February 23, 2024
 
-### Pennsylvania health department on measles cases
+## Pennsylvania health department on measles cases
 
 - **Source:** emailed statement
 - **Attribution:** Pennsylvania Department of Health spokesperson
@@ -29,7 +87,7 @@ permalink: /notes/2024/02
 
 > As of February 20, 2024, the Pennsylvania Department of Health recorded three measles cases in 2024. Additionally, nine measles cases were recorded in 2023. It is important to note that all cases from 2023 and 2024 are preliminary and subject to change.
 
-### ASPR remarks at vaccine advisory committee meeting
+## ASPR remarks at vaccine advisory committee meeting
 
 - **Source:** National Vaccine Advisory Committee Meeting
 - **Attribution:** hosted by the Department of Health and Human Services
