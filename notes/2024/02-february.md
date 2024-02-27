@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 27, 2024
 
+## Measles cases in Maricopa County, Arizona
+
+- **Source:** email
+- **Attribution:** Maricopa County Public Health spokesperson Sonia Singh
+- **Date:** received February 27, 2024
+
+> I can’t speak for outside of Maricopa County, but at this time, we have three total cases that have occurred in Maricopa County this year. You can see our releases and other info at Maricopa.gov/measles.
+
 ## Measles exposures investigation by Chicago Department of Public Health
 
 - **Source:** email
