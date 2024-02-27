@@ -11,6 +11,16 @@ permalink: /notes/2024/02
 
 # February 26, 2024
 
+## Reported measles cases in California for 2024 so far
+
+- **Source:** email
+- **Attribution:** California Department of Public Health
+- **Date:** received February 23, 2024
+
+> QUESTION: Wanted to double check to see if any additional measles cases have been reported in the state? The most recent count I could find was from Feb 14, wanted to double check if this was still accurate: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/measles.aspx
+> 
+> RESPONSE: Yes, the count posted on the website is correct. There have been no additional cases reported since 2/14. 
+
 ## Reported measles case in New York City for 2024 so far
 
 - **Source:** email
@@ -84,7 +94,9 @@ No additional cases, [as of Feb. 23](https://tinalexander.github.io/notes/2024/0
 
 **5. New York**
 
-- **New York, NY** ([Jan. 31](https://www.nyc.gov/assets/doh/downloads/pdf/han/advisory/2024/han-advisory-3.pdf), [Feb. 16](https://tinalexander.github.io/notes/2024/02#new-york-city-spokesperson-on-measles-case))  international travel
+- **New York, NY** ([Jan. 31](https://www.nyc.gov/assets/doh/downloads/pdf/han/advisory/2024/han-advisory-3.pdf), [Feb. 16](https://tinalexander.github.io/notes/2024/02#new-york-city-spokesperson-on-measles-case), [Feb. 16](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#reported-measles-case-in-new-york-city-for-2024-so-far))  international travel
+
+Unclear if additional cases.
 
 **6. California**
 
