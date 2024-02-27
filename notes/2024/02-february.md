@@ -169,7 +169,7 @@ permalink: /notes/2024/02
 > 
 > Unclear if additional cases. 
 > 
-> **11. Florida** (9)
+> **11. Florida** (10)
 > 
 > - **Broward County, FL** ([Feb. 16](https://tinalexander.github.io/notes/2024/02#broward-county-public-schools-on-measles-outbreak-cases)) elementary school, one of six
 > - **Broward County, FL** ([Feb. 21](https://tinalexander.github.io/notes/2024/02#broward-county-public-schools-on-measles-outbreak-cases)) elementary school, two of six
@@ -179,6 +179,7 @@ permalink: /notes/2024/02
 > - **Broward County, FL** ([Feb. 21](https://tinalexander.github.io/notes/2024/02#broward-county-public-schools-on-measles-outbreak-cases)) elementary school, six of six
 > - **Broward County, FL** ([Feb. 22](https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=FrequencyMerlin.Frequency&FirstTime=True)) 0-4 years old
 > - **Broward County, FL** ([Feb. 22](https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=FrequencyMerlin.Frequency&FirstTime=True)) 5-9 years old
+> - **Broward County, FL** ([Feb. 25](https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=FrequencyMerlin.Frequency&FirstTime=True)) 0-4 years old
 > - **Polk County, FL** ([Feb. 24](https://www.flhealthcharts.gov/ChartsReports/rdPage.aspx?rdReport=FrequencyMerlin.Frequency&FirstTime=True), [Feb. 23](https://www.floridahealth.gov/newsroom/2024/02/20240223-measles.pr.html)) travel-related, 20-24 years old
 > 
 > Unclear if additional cases.
