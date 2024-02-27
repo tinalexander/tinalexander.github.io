@@ -11,6 +11,28 @@ permalink: /notes/2024/02
 
 # February 26, 2024
 
+## Reported measles case in New York City for 2024 so far
+
+- **Source:** email
+- **Attribution:** New York City Health Department spokesperson
+- **Date:** received February 16, 2024
+
+> To: Tin, Alex <TinA@cbsnews.com>
+> <br>Sent: Friday, February 16, 2024 4:35 PM
+> <br>Subject: RE: [EXTERNAL] Measles case?
+>  
+> <External Email>
+> 
+> International
+> 
+> > From: Tin, Alex <TinA@cbsnews.com>
+> > <br>Sent: Friday, February 16, 2024 4:35 PM
+> > <br>Subject: Re: [EXTERNAL] Measles case?
+> > 
+> > Received, thank you.
+> > 
+> > Are you able to confirm if it was international travel or domestic travel?
+
 ## Reported measles cases in New Jersey for 2024 so far
 
 - **Source:** email
