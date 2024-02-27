@@ -9,6 +9,16 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 27, 2024
+
+## Additional measles case in Miami County of Ohio
+
+- **Source:** email
+- **Attribution:** Miami County Public Health Commissioner Dennis Propes
+- **Date:** received February 27, 2024
+
+> Yes we had a second case in Miami County that is linked to the other 2 cases.  All cases are under the age of 18.  We were monitoring this person as part of the original exposure and are confidant that there is no further exposure to the public from this third case.
+
 # February 26, 2024
 
 ## Reported measles cases in Missouri for 2024 so far
