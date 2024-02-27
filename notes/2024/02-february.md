@@ -11,6 +11,16 @@ permalink: /notes/2024/02
 
 # February 26, 2024
 
+## Reported measles cases in Missouri for 2024 so far
+
+- **Source:** email
+- **Attribution:** Missouri Department of Health and Senior Services spokesperson Lisa Cox
+- **Date:** received February 23, 2024
+
+> We have had one case in Missouri in 2024, and the details from Clay County are here:
+> 
+> https://www.clayhealth.com/CivicAlerts.aspx?AID=186
+
 ## Reported measles cases in California for 2024 so far
 
 - **Source:** email
@@ -170,15 +180,19 @@ Unclear if additional cases.
 
 - **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
 
-
+Only one case, as of Feb. 22.
 
 **14. Indiana**
 
 - **Lake County, IN** ([Feb. 23](https://events.in.gov/event/idoh_news_release_health_department_reports_first_measles_case_in_5_years?utm_campaign=widget&utm_medium=widget&utm_source=State+of+Indiana))
 
+Unclear if additional cases. 
+
 **15. Missouri**
 
 - **Clay County, MO** ([Jan. 12](https://www.clayhealth.com/CivicAlerts.aspx?AID=186)) at international airport
+
+
 
 **16. Michigan**
 
