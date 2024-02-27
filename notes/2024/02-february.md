@@ -11,6 +11,18 @@ permalink: /notes/2024/02
 
 # February 27, 2024
 
+## Additional measles case at Manatee Bay Elementary
+
+- **Source:** emailed statement
+- **Attribution:** Broward County Public Schools spokesperson
+- **Date:** received February 27, 2024
+
+> UPDATE FOR TUESDAY, FEBRUARY 27, 2024 – MANATEE BAY ELEMENTARY SCHOOL
+> 
+> Broward County Public Schools (BCPS) has been informed by the Florida Department of Health – Broward of one additional confirmed measles case involving Manatee Bay Elementary, bringing the total number of cases at the school to seven. The latest affected individual has not been on campus since February 15. The District and school continue to work closely with the Health Department regarding the confirmed cases. This morning, BCPS Superintendent Dr. Peter B. Licata provided an update. See link below:
+> 
+> https://www.eduvision.tv/l?eLtRetR
+
 ## Additional measles case in Miami County of Ohio
 
 - **Source:** email
