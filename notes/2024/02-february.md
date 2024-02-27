@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 27, 2024
 
+## Measles exposures investigation by Chicago Department of Public Health
+
+- **Source:** email
+- **Attribution:** Chicago Department of Public Health spokesperson Jacob Martin
+- **Date:** received February 27, 2024
+
+> I’m getting in touch with regards to an inquiry you sent our way earlier today following up on measles exposures in Chicago. I can confirm that CDPH has not identified any additional cases of measles among Chicago residents, noting that CDPH can only speak for Chicago residents and not necessarily people in Indiana or other Illinois jurisdictions who may have been exposed as well. If you have any other questions or follow-ups on this topic, please feel free to reach out to me directly.
+
 ## Additional measles case at Manatee Bay Elementary
 
 - **Source:** emailed statement
