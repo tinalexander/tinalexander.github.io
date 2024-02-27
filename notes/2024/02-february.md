@@ -77,6 +77,118 @@ permalink: /notes/2024/02
 
 > [2024-02-26_fda_foia-2024-1810-TR.m4a](https://tinalexander.github.io/notes/attachments/2024-02-26_fda_foia-2024-1810-TR.m4a)
 
+> Jim Jones, FDA [00:03:03]
+> 
+> This summer, we plan to issue a proposed rule on FOP labeling. 
+> 
+> The proposed rule would be based on extensive research and stakeholder input.
+> 
+> Front of package labeling has the potential to be a very useful tool to provide information for busy consumers, especially those with lower nutrition knowledge, to make nutritious food selections more easily when grocery shopping.
+> 
+> We completed a literature review, two rounds of focus groups and an experimental study to help us choose a label to propose.
+> 
+> The research so far has told us consumers prefer simple interpretive FOP labeling schemes. 
+> 
+> The Reagan Udall Foundation public meeting in November provided us with an important opportunity to hear from a variety of stakeholders and the general public. 
+> 
+> We heard at the public meeting that there's wide interest in FOP labeling across sectors of society, industry, healthcare, consumer public health groups, and academia. And we are carefully considering the input we've received as well as lessons from international experiences. 
+> 
+> If implemented, FOP labeling would complement the nutrition facts label and work with other labeling efforts to provide information to help consumers more easily make nutritious food choices. 
+> 
+> ...
+> 
+> Jim Jones, FDA [00:10:25]
+> 
+> I can tell you that on our website, you can go and see the labels that we tested. 
+> 
+> I can't tell you which one we are going to propose, but you can get a general sense of them. 
+> 
+> I will say that what we learned in our testing, and the one that we selected, is the one that consumers best understood, and would therefore be able to make an informed choice. 
+> 
+> And so we really went with what did people say, where we were trying to convey a specific message, they understood that message, so they'd be empowered to make a healthier choice. 
+> 
+> So it-- our label will line up with what consumers say they understood the best.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:11:34]
+> 
+> Historically, manufacturers have been able to use the term as they have chosen, as long as they met the standard. Some of them just incorporate it into the name of the product. 
+> 
+> We believe that it would be help-- more helpful for consumers if we were to come up with a label or a logo, so that a manufacturer could actually put on a logo, and so you could recognize it across products. 
+> 
+> They wouldn't have to use it, but our experiences that they probably would. 
+> 
+> So after we finalize the rule, we're going to be working with manufacturers and consumers to develop a logo that a manufacturer could then put on a product that was qualified, which would make it easier for consumer to understand that that product has been evaluated against a criteria and it meets the criteria for healthy. 
+> 
+> So this will be some of a two step process, first create the standard and then come up with a logo or a label that could be used by manufacturers that meet the standard.
+> 
+> Question [00:12:39]
+> 
+> I guess, next months a year? Is that-- is there a timeframe?
+> 
+> Jim Jones, FDA [00:12:45]
+> 
+> No, I believe we will be able to finalize the standard itself this spring. 
+> 
+> I think the logo development will follow anywhere 6 to 12 months later.
+> 
+> The creation of the logo doesn't require regulation. It really is about-- it's kind of-- it's almost like a-- working with consumers and manufacturers about what logo would best communicate this and be easily recognizable. 
+> 
+> And it's more of a marketing activity as opposed to regulatory.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:24:44]
+> 
+> So the original, there is already a regulation on the books, it was established in the 90s, that set criteria for saying food is healthy. 
+> 
+> We are basically updating it to reflect current science. 
+> 
+> So then there are about 3%, rather small percent, 3% of manufactured foods are eligible for it. As I said, some of them just use-- they use it in their name. And so you could-- I don't wanna like call out any particular product, as opposed to saying this meets FDA's criteria for healthy.
+> 
+> We think that we could really sort of energize the program, the use of this, by actually coming up with a logo. 
+> 
+> But the other thing I do want to say is that all fresh fruits and vegetables are, and will be, eligible for the claim. It really is sort of a way to motivate manufactured products and a relatively small percentage of manufactured products meet the current definition. 
+> 
+> That will probably change marginally when we update the definition. It's really an updating of an existing standard. 
+> 
+> The part to me that's actually is exciting is coming up with a logo that could then be used for marketing purposes for products that meet the standard. 
+> 
+> Because right now, as I said, it's sort of, as a company you can use sort of what language you want as long as you are eligible.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:29:13]
+> 
+> So we've been in the manufacturer of the Wanabana product, the Austrofoods food plant. We've been there for an inspection. 
+> 
+> And essentially the spice producer who sold to Austrofoods is where we don't have authority, but I think that we've actually done a good job, we have prevented them from bringing anything into this country. 
+> 
+> We know who their customers are. We know-- we have import alerts for any of those products and actually they now don't have any customers.
+> 
+> By naming them, we in effect we're-- had let the world know to be-- to have your eyes wide open about this supplier. 
+> 
+> So although we can't go, we can't like prosecute the cinnamon seller to Austrofoods, I think we've been effective at doing what we want to do, which is to keep their product out of the country. 
+> 
+> We have that-- we have asked-- it's unrelated to specifically your question, but the authority that we asked for about a year ago from Congress is to give us authority to require testing of heavy metals in children's products, which would've been a useful tool to have had in place a year ago. 
+> 
+> But I think that the authority related to this company is I don't think totally the issue. I think the issue is do we have the authority to keep their products out of this country? And I think we do.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:39:50]
+> 
+> At the point of sale, consumers are making decisions in a nanosecond and, and a nanosecond doesn't really allow for that turning the bottle around, turning the packaging around and spending time, trying to ascertain, what is this telling me? 
+> 
+> There is-- there are consumers who are doing that and of that we are appreciative, that they do that. 
+> 
+> But what we have learned from consumer research is that at point of sales, it is a snap judgment, and you've gotta be able to give people information in a snap, that they can process in seconds. 
+> 
+> And we think that there is a fair amount of evidence from other countries and from the testing, we've done similar testing, literally testing how long it took people to understand a mock label. 
+> 
+> And so this is a little bit different. It's giving information, but information in a way that we have evidence that people are able to process in the way in which they are making decisions at the point of sale.
+
 # February 23, 2024
 
 ## Pennsylvania health department on measles cases
