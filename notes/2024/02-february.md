@@ -11,7 +11,7 @@ permalink: /notes/2024/02
 
 # February 26, 2024
 
-## Reported measles cases in New Jersey for 2024
+## Reported measles cases in New Jersey for 2024 so far
 
 - **Source:** email
 - **Attribution:** New Jersey Department of Health spokesperson Nancy Kearney
@@ -19,7 +19,7 @@ permalink: /notes/2024/02
 
 > There was one confirmed case of measles in NJ earlier this year. Please see: https://www.nj.gov/health/cd/topics/measles.shtml
 
-## Reported measles cases in Virginia for 2024
+## Reported measles cases in Virginia for 2024 so far
 
 - **Source:** email
 - **Attribution:** Virginia Department of Health spokesperson Logan Anderson
@@ -41,20 +41,24 @@ permalink: /notes/2024/02
 
 Only three total cases, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#pennsylvania-health-department-on-measles-cases). 
 
-**2. Virginia**
+**2. Virginia** (1)
 
 - **Northern VA** ([Jan. 13](https://www.vdh.virginia.gov/news/2024-news-releases/virginia-health-officials-investigating-potential-measles-exposures-in-northern-virginia/), [Jan. 24](https://www.vdh.virginia.gov/measles/)) international travel, no secondary
 
-Only one total case, as of Feb. 23. 
+Only one total case, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#reported-measles-cases-in-virginia-for-2024). 
 
-**3. New Jersey**
+**3. New Jersey** (1)
 
 - **Camden County, NJ** ([Jan. 13](https://www.camdencounty.com/camden-county-monitoring-confirmed-case-of-measles/), [Feb. 6](https://www.nj.gov/health/cd/topics/measles.shtml)) not linked to Philadelphia, no secondary
 
-**4. Georgia**
+Only one total case, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#reported-measles-cases-in-new-jersey-for-2024). 
+
+**4. Georgia** (2)
 
 - **Atlanta, GA** ([Jan. 18](https://dph.georgia.gov/press-releases/2024-01-18/dph-confirms-measles-case-metro-atlanta), [Feb. 23](https://tinalexander.github.io/notes/2024/02#georgia-department-of-public-health-on-earlier-measles-cases)) travel to Middle East
 - **Atlanta, GA** (after [Jan. 18](https://tinalexander.github.io/notes/2024/02#georgia-health-department-spokesperson-on-measles-cases)) relative of above case
+
+No additional cases, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#georgia-department-of-public-health-on-earlier-measles-cases). 
 
 **5. New York**
 
