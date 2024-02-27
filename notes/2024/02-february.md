@@ -9,6 +9,16 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 26, 2024
+
+### FDA's Jim Jones at webinar on nutrition with journalists
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received February 26, 2024
+
+> [2024-02-26_fda_foia-2024-1810-TR.m4a](https://tinalexander.github.io/notes/attachments/2024-02-26_fda_foia-2024-1810-TR.m4a)
+
 # February 23, 2024
 
 ### Pennsylvania health department on measles cases
