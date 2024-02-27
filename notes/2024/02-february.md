@@ -333,7 +333,7 @@ permalink: /notes/2024/02
 > 
 > We believe that it would be help-- more helpful for consumers if we were to come up with a label or a logo, so that a manufacturer could actually put on a logo, and so you could recognize it across products. 
 > 
-> They wouldn't have to use it, but our experiences that they probably would. 
+> They wouldn't have to use it, but our experience is that they probably would. 
 > 
 > So after we finalize the rule, we're going to be working with manufacturers and consumers to develop a logo that a manufacturer could then put on a product that was qualified, which would make it easier for consumer to understand that that product has been evaluated against a criteria and it meets the criteria for healthy. 
 > 
