@@ -182,7 +182,7 @@ permalink: /notes/2024/02
 > 
 > - **Spokane, WA** ([Feb. 21](https://srhd.org/news/2024/measles-case-identified-in-spokane-county)) international travel
 > 
-> Only one case, as of Feb. 22.
+> Only one case, [as of Feb. 22](https://tinalexander.github.io/notes/2024/02#reported-measles-cases-in-washington-state-for-2024-so-far).
 > 
 > **14. Indiana** (1)
 > 
@@ -194,7 +194,7 @@ permalink: /notes/2024/02
 > 
 > - **Clay County, MO** ([Jan. 12](https://www.clayhealth.com/CivicAlerts.aspx?AID=186)) at international airport
 > 
-> Only one case, as of Feb. 23.
+> Only one case, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#reported-measles-cases-in-missouri-for-2024-so-far).
 > 
 > **16. Michigan** (1)
 > 
