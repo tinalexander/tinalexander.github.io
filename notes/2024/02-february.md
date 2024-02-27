@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 26, 2024
 
+## Reported measles cases in New Jersey for 2024
+
+- **Source:** email
+- **Attribution:** New Jersey Department of Health spokesperson Nancy Kearney
+- **Date:** received February 23, 2024
+
+> There was one confirmed case of measles in NJ earlier this year. Please see: https://www.nj.gov/health/cd/topics/measles.shtml
+
 ## Reported measles cases in Virginia for 2024
 
 - **Source:** email
@@ -31,11 +39,13 @@ permalink: /notes/2024/02
 - **Philadelphia, PA** ([Jan. 8](https://www.phila.gov/2024-01-08-health-department-update-on-measles-outbreak-january-8/)) linked to outbreak from 2023
 - **Philadelphia, PA** ([Jan. 16](https://www.phila.gov/2024-01-17-health-department-update-on-measles-outbreak-january-16-2/)) linked to outbreak from 2023
 
-No more cases, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#pennsylvania-health-department-on-measles-cases). 
+Only three total cases, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#pennsylvania-health-department-on-measles-cases). 
 
 **2. Virginia**
 
 - **Northern VA** ([Jan. 13](https://www.vdh.virginia.gov/news/2024-news-releases/virginia-health-officials-investigating-potential-measles-exposures-in-northern-virginia/), [Jan. 24](https://www.vdh.virginia.gov/measles/)) international travel, no secondary
+
+Only one total case, as of Feb. 23. 
 
 **3. New Jersey**
 
