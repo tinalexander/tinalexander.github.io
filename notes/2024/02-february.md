@@ -333,7 +333,7 @@ permalink: /notes/2024/02
 > 
 > Matthew Daley, ACIP [02:21:26]
 > 
-> I wanna reflect on the COVID vaccination vote and just make a couple quick points. 
+> I want to reflect on the COVID vaccination vote and just make a couple quick points. 
 > 
 > One is that I personally would've felt comfortable with a should or a may recommendation and we voted for a should recommendation. 
 > 
