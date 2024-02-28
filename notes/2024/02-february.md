@@ -19,7 +19,7 @@ permalink: /notes/2024/02
 
 > At least 38 cases confirmed or suspected, as of Feb. 26, across 16 states.
 >
-> CDC tallied 35 cases in 15 states [as of Feb. 22](https://www.cdc.gov/measles/cases-outbreaks.html).
+> CDC tallied 35 cases in 15 states [as of Feb. 22](https://www.cdc.gov/measles/cases-outbreaks.html). Last year had 58 cases across 20 jurisdictions.
 > 
 > **1. Pennsylvania** (3)
 > 
