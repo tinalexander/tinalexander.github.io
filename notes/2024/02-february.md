@@ -31,6 +31,22 @@ And for me, this is a life and death situation for many of the patients that I t
 
 ...
 
+Lisa Prosser, University of Michigan [09:15:39]
+
+Using updated inputs for hospitalization and seasonality adjusted vaccin vaccine impact were as follows.
+
+Vaccination averts substantial morbidity and mortality as demonstrated through estimated disaggregated outcomes shown in the supplementary slides. 
+
+ICERs for 50 to 64 year old age group and 65 and older age groups remain robust to changes in parameter inputs across possible ranges. 
+
+The ICERs for the 18 to 49 year old age group remain sensitive to changes in parameter inputs, more favorable for higher vaccine impact, higher risk of hospitalization, and critical illness.
+
+Results for a two dose strategy were not economically favorable for the 18 to 49 year olds or 50 to 64 year old age groups across plausible parameter ranges.
+
+For the 65 year and older age group, ICERs are sensitive to probability of hospitalization, costs, and seasonality, and results were more favorable in scenarios with higher risk of hospitalization, lower costs, and alternate seasonality. 
+
+...
+
 Megan Wallace, CDC [09:27:15]
 
 The reason we're asking this policy question is because there is a precedent for older adults to be recommended for an additional dose at least four months after the fall dose recommendation.
