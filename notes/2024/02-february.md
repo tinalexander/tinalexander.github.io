@@ -9,6 +9,18 @@ permalink: /notes/2024/02
 
 <br>
 
+# February 28, 2024
+
+## MassBiologics on decision to stop tetanus vaccine production
+
+- **Source:** email
+- **Attribution:** UMass Chan Medical School spokesperson Sarah Wiley
+- **Date:** received February 28, 2024
+
+> Thanks again for reaching out. The decision to stop production is not related to previous issues regarding the FDA’s request for data.  
+> 
+> The clinical indications of similar vaccines have led to a reduction in demand.
+
 # February 27, 2024
 
 ## Measles cases in Maricopa County, Arizona
