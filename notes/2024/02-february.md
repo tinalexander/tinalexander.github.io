@@ -17,7 +17,7 @@ permalink: /notes/2024/02
 - **Attribution:** Advisory Committee on Immunization Practices meeting
 - **Date:** broadcasted February 28, 2024
 
-
+> [2024-02-28_cdc_acip-covid-voting-language.png](https://tinalexander.github.io/notes/attachments/2024-02-28_cdc_acip-covid-voting-language.png)
 
 ## Sanofi spokesperson on availability of tetanus vaccine
 
