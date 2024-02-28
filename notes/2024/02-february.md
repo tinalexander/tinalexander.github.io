@@ -31,7 +31,65 @@ And for me, this is a life and death situation for many of the patients that I t
 
 ...
 
+Megan Wallace, CDC [09:27:15]
 
+The reason we're asking this policy question is because there is a precedent for older adults to be recommended for an additional dose at least four months after the fall dose recommendation.
+
+Following the initial booster dose recommendations in the fall of 2021, an additional dose was recommended for those 50 years and older in May of 2022. Then following the bivalent dose recommendations in the fall of 2022, an optional additional dose was recommended for those 65 years and older in April 2023. 
+
+Now, as you all know, ACIP recommended the 23-24 formula COVID 19 vaccine in September and today we're discussing if an additional dose should be recommended in older adults this year.
+
+...
+
+Megan Wallace, CDC [09:38:28]
+
+The effectiveness of an additional dose in older adults has been demonstrated by past additional dose.
+
+Among adults aged 50 years and older eligible to receive an a second original monovalent mRNA COVID 19 vaccine booster dose, VE for COVID 19 associated ED UC encounters during the BA.2 period was 32% at 120 days or more after the third dose, but increased to 66% seven days or more after the fourth dose.
+
+VE against COVID 19 associated hospitalization was 55% 120 days or more after the third dose, but increased to 80 seven days or more after the fourth dose. 
+
+Additionally, in a large cohort of nursing home residents, receipt of a second original monovalent mRNA COVID 19 booster dose during the circulation of SARS-CoV-2 Omicron sub variants was 74% effective at 60 days against severe COVID 19 related outcomes, including hospitalization or death, and 90% against death alone, compared with receipt of a single booster dose. 
+
+...
+
+Megan Wallace, CDC [09:50:55]
+
+When those that had already received the 23-24 COVID 19 vaccine were asked if they would receive an additional dose of the 23-24 COVID 19 vaccine, if it was recommended for them, there was relatively high intent across the board.
+
+But this was particularly true for those 65 years and older, in which 68% reported that they would definitely would get another dose if it was recommended. 
+
+...
+
+Megan Wallace, CDC [09:53:42]
+
+COVID 19 vaccines are now available on the commercial market. They're covered by private and public insurance and available through the Bridge Access Program and Vaccines for Children for those that are uninsured or underinsured.
+
+An ACIP recommendation would be needed for insurance coverage of an additional dose of 23-24 formula COVID 19 vaccine. Insurance coverage is generally required under either a should or a may recommendation. 
+
+...
+
+Megan Wallace, CDC [09:56:03]
+
+In the absence of an ACIP recommendation, additional doses might be an out of pocket cost. 
+
+Therefore, those able to pay for an additional dose may have access, while others do not. Next slide. 
+
+In summary, COVID 19 vaccines are currently on the commercial market and an ACIP recommendation would be needed for insurance coverage of an additional dose. 
+
+An additional dose recommendation would leverage existing infrastructure and vaccine product. However, it would add complexity to the current recommendations, which could enhance vaccine and system fatigue.
+
+...
+
+Megan Wallace, CDC [09:58:02]
+
+Cost effectiveness of an additional dose in older adults is highly sensitive to COVID 19 associated hospitalization rates and anticipated rates in the coming months are uncertain. 
+
+COVID 19 associated hospitalization rates in older adults that are higher than those seen last year would increase the cost effectiveness. However, lower COVID 19 hospitalization rates would decrease the cost effectiveness.
+
+Estimates that approximate cost effectiveness for those with high risk conditions such as underlying conditions or advanced age are more favorable. Next slide.
+
+When asked is an additional dose of the 23-24 formula COVID 19 vaccine in older adults, a reasonable and efficient allocation of resources, the work group response was probably yes.
 
 ## Sanofi spokesperson on availability of tetanus vaccine
 
