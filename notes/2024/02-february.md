@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 28, 2024
 
+## CDC advisory committee on additional COVID-19 vaccine recommendations
+
+- **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4/pop-out) 
+- **Attribution:** Advisory Committee on Immunization Practices meeting
+- **Date:** broadcasted February 28, 2024
+
+
+
 ## Sanofi spokesperson on availability of tetanus vaccine
 
 - **Source:** email
