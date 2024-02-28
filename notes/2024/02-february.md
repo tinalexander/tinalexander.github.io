@@ -11,6 +11,182 @@ permalink: /notes/2024/02
 
 # February 28, 2024
 
+## CDC advisory committee on chikungunya vaccine recommendations
+
+- **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4/pop-out) 
+- **Attribution:** Advisory Committee on Immunization Practices meeting
+- **Date:** broadcasted February 28, 2024
+
+> Susan Hillis, CDC [11:27:27]
+> 
+> I wanted to remind you that the vaccine was licensed through the accelerated approval pathway. Traditional approval would have been very challenging for the chikungunya vaccine and clinical development would likely have been substantially delayed if this approach was necessary. 
+> 
+> This is because it would have been difficult to conduct an efficacy trial with a disease endpoint because chikungunya outbreaks are unpredictable and their duration can be relatively short. In addition, there's no established immunologic correlate of protection.
+> 
+> As a result, the accelerated approval pathway was endorsed for licensure of chikungunya vaccines at an FDA VRBPAC meeting in 2019. FDA can grant accelerated approval for products that are for serious conditions, and that fill an unmet medical need.
+> 
+> With the accelerated approval pathway (inaudible) and be completed by March 2028. And a pragmatic randomized control trial for effectiveness and safety in adults in an endemic area, which is planned for initiation by October 2025, for completion by July 2029. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:29:42]
+> 
+> I'd like to begin with a brief reminder about the key aspects of chikungunya as they relate to the potential use of chikungunya vaccine, and consideration of recommendations. 
+> 
+> Chikungunya is caused by chikungunya virus, which is an alpha virus. The key vectors that spread the virus to humans are Aedes aegypti and Aedes albopictus mosquitoes. These mosquitoes mainly feed in the daytime with peak activity in the early morning and late afternoon. 
+> 
+> In addition to mosquito born transmission, other uncommon modes of chikungunya virus transmission that have been documented include intrauterine and intrapartum transmission, bloodborne transmission, and transmission after exposure, exposure to virus in the laboratory setting.
+> 
+> Chikungunya virus is typically transmitted in tropical and subtropical regions. Although occasional transmission in temperate areas has occurred.
+> 
+> As shown on the map on the right, there are approximately 120 countries and territories globally where transmission has ever been documented. The virus periodically causes large outbreaks, and when they occur, attack rates are often high with one third to three quarters of the population affected.
+> 
+> Peak virus transmission is usually during the wet season related to an increase in mosquito populations. And each year several hundred thousand disease cases are typically reported from endemic areas. 
+> 
+> Clinical illness is characterized by the acute onset of fever and joint pain, which is typically severe and can be debilitating. The joint pain usually involves multiple joints and is most common in the hands and feet that can also occur in more proximal joints. 
+> 
+> Other symptoms can include headache, rash, myalgia, and anorexia. 
+> 
+> In the absence of specific antiviral treatment, the approach to management typically involves rest, fluids, and use of analgesics, and antipyretics. 
+> 
+> Serious complications can occur, which are fortunately rare that can include myocarditis, hepatitis, acute renal disease, and neurologic illnesses such as Guillain-Barre syndrome meningoencephalitis. Deaths are also rare and are reported mostly in older adults, particularly those with comorbidities, as well as young infants infected perinatally or by mosquito bites.
+> 
+> Acute symptoms of chikungunya usually resolve in about 7 to 10 days. However, some patients have a continuation or relapse of their joint symptoms in the months after acute illness, and experience other symptoms such as fatigue.
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:33:09]
+> 
+> Among U.S. travelers, chikungunya is a reportable disease in the United States, and approximately 100 to 200 cases of chikungunya are reported annually. Although there is likely substantial underdiagnosis and under reporting.
+> 
+> Infections are most commonly acquired in Asia and the Americas, with specific locations of acquisition influenced by local transmission patterns, which vary from year to year.
+> 
+> Unquestionably, the greatest risk for U.S. travelers for acquiring chikungunya is traveling to an area with an outbreak. 
+> 
+> The data on this slide provide an example to demonstrate the higher risk of chikungunya for U.S. travelers visiting an area with an outbreak.
+> 
+> In 2023, there was a large outbreak of chikungunya in Paraguay. On the left, you see a figure that shows among all U.S. travelers to destinations with risk of chikungunya, fewer than 1% traveled to Paraguay. However, on the right, you'll see that among all U.S. traveler chikungunya cases reported in 2023, 25% or 20 of 80 were among persons who traveled to Paraguay. 
+> 
+> So these data clearly demonstrate the substantially higher risk for travelers during an outbreak. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:37:42]
+>  
+> We've also looked carefully at the adverse events of arthralgia and arthritis after vaccination, because arthralgia is a key feature of clinical illness with chikungunya virus infection. And the vaccine is a live attenuated vaccine. 
+> 
+> So in the GRADE assessment, we included five arthralgia or arthritis related outcomes. Overall 17% of subjects reported any arthralgia as a solicited adverse event within 10 days of vaccination, which was significantly higher than the rate of 5% in the placebo arm. 
+> 
+> However, severe arthralgia, persistent arthralgia, arthritis, and new onset or osteoarthritis were not reported at significantly higher rates in vaccinees. 
+> 
+> Finally, I'd like to discuss, chikungunya like adverse reactions after vaccination because the vaccine is a live attenuated vaccine, as I mentioned, as I've mentioned several times, one of the safety outcomes of interest has been chikungunya like illness after vaccination. 
+> 
+> The work group had previously reviewed data based on these types of events, which were defined and referred to by the manufacturer as adverse events of special interest.
+> 
+> During FDA's review, they requested a re-analysis of adverse event data based on a revised case definition that was less restrictive than the manufacturer's in terms of timing of onset of timing of onset of events, clustering of symptoms, and duration of the events.
+> 
+> The revised case definition identified subjects with fever and at least one of arthralgia or arthritis, myalgia, headache, back pain, rash, lymph adenopathy, or certain neurologic cardiac or ocular symptoms that occurred within 30 days after vaccination. 
+> 
+> The definition is what is used to define chikungunya like adverse reactions in the warnings and precautions section of the package insert, as I mentioned earlier.
+> 
+> With the re-analysis of data from the pivotal clinical trial, based on this definition, 11.7% or 361 of 3,082 vaccine recipients met the definition for having a chikungunya like adverse reaction compared with 0.6% or 6 of 1033 of placebo recipients.
+> 
+> Most symptoms were mild or moderate, but severe reactions that prevented daily activity or required medical intervention, or for fever was a fever higher than 102.1 degrees Fahrenheit were reported by 1.6% of vaccine recipients compared with no placebo recipients.
+> 
+> Prolonged reactions, which were those with a duration of at least 30 days were reported by 0.5% of vaccine recipients and no placebo recipients. 
+> 
+> The work group closely reviewed the data from this new revised analysis, but noted, we had already considered the reactogenic nature of the vaccine previously and had looked closely at similar events, including severe and prolonged arthralgia when conducting the GRADE analysis. We also noted that some other reactogenic vaccines have similar rates of adverse events. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:42:41]
+> 
+> The vaccine is very immunogenic, but also reactogenic. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:42:48]
+> 
+> So now I'll present the draft recommendations for ACIP's consideration. These are very similar to the recommendations presented in October, when I presented the ETR framework, with some minor modifications based on suggestions from ACIP members.
+> 
+> Chikungunya vaccine is recommended for persons aged 18 years or older, traveling to a country or territory where there is a chikungunya outbreak. 
+> 
+> In addition, chikungunya vaccine may be considered for the following persons traveling to a country or territory without an outbreak, but with evidence of chikungunya virus transmission among humans within the last five years. 
+> 
+> And they are persons aged older than 65 years, particularly those with underlying medical conditions who are likely to have at least moderate exposure to mosquitoes, or persons staying for a cumulative period of six months or more.
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:43:43]
+> 
+> To clarify what is meant by an outbreak in the language of the recommendations, an outbreak will be defined as occurring when CDC posts information on an outbreak on the CDC website.
+> 
+> A notice will be posted as soon as CDC becomes aware of an outbreak. And a similar process is used in relation to a cholera and for the cholera vaccine recommendations with information posted when cholera outbreaks occur. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:44:13]
+> 
+> The second part of our proposed recommendations is a shared clinical decision making recommendation for certain individuals traveling to an area with documented human cases, but without an outbreak, with the relevant groups of individuals being those older than 65 years, particularly with underlying medical conditions, with likely moderate exposure to mosquitoes, as well as travelers who will travel for a cumulative period of six months or more, whether that is at one time or based on very frequent travel to risk locations.
+> 
+> There is more uncertainty in the risk benefit assessment in these cases. However, there are likely to be circumstances where some individuals might reasonably choose vaccination or some providers might wish to recommend it in these circumstances. 
+> 
+> It's appropriate for there to be a conversation between the healthcare provider and patient about the risks and benefits, including the likelihood of exposure based on factors such as activities, time of year, and duration of travel, the disease and its potential severity, the vaccines efficacy, and the possibility of vaccine associated adverse events. 
+> 
+> This approach also allows a traveler's personal perceptions and tolerance of risk to be taken into account.
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:45:27]
+> 
+> To provide additional information on why we selected the respective groups for the shared clinical decision making recommendation. 
+> 
+> In regard to older persons, we know that among adults, the key risk factors for severe chikungunya disease are older age and underlying medical conditions. And the key risk factors for chronic arthralgia after chikungunya include older age and preexisting joint problems, which are also more likely in older persons. 
+> 
+> The risk for higher morbidity and mortality in older persons is supported by data from the 2023 outbreak in Paraguay. Although overall risk for hospitalization and death from chikungunya is low, there is a markedly higher risk for older persons. 
+> 
+> The graph shows data by age group with a number of hospitalizations in the blue bars and the case fatality rate in the dark blue line. And the data clearly indicate the higher risk for hospitalization and death in those over 65 years.
+> 
+> The second group known as a group for consideration of vaccination based on shared clinical decision making is travelers who have cumulative period of travel of six month or more. 
+> 
+> Although the key risk factor for chikungunya virus infection among travelers is the intensity of transmission far more so than the duration of travel, if there is equivalent transmission in different areas, then the cumulative duration of exposure becomes important. 
+> 
+> Additionally, even though a destination might be a low risk environment overall, transmission patterns can be unpredictable over the longer term. And there is likely to be some seasonal variation in mosquito activity that might impact risk. 
+> 
+> And finally, U.S. expatriates in locations with risk might not have access to a vaccine if the risk in the country were to increase, or an outbreak began, because at the present time, the vaccine is only licensed and available in the United States. 
+> 
+> So the work group considered a shared clinical decision making recommendation was also appropriate for this group. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:47:51]
+> 
+> The rationale for the timeframe is that given the challenges and deficiencies in surveillance, a five year timeframe provides an interval that allows reasonable confidence that there is transmission in a certain location or conversely that there is insufficient transmission for there to be a concern for travelers.
+> 
+> The tool to provide this information will be a map which shows countries with reported chikungunya virus transmission among humans during the last five years. And it'll be posted on the CDC website and a mock up example is there on the right. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:48:29]
+> 
+> The language of the recommendation refers to moderate exposure.
+> 
+> Text will be provided with the recommendations that indicates moderate exposure could include travelers who might have at least two weeks cumulatively of exposure to mosquitoes in indoor or outdoor settings. And it does not include travelers who might have limited exposure to mosquitoes, for example, those traveling for business and likely to be mainly in mosquito protected indoor settings. 
+> 
+> ...
+> 
+> Susan Hillis, CDC [11:49:06]
+> 
+> We aimed to develop recommendations that balanced the desirable and undesirable effects of vaccination based on consideration of all the disease and vaccine factors.
+> 
+> The recommended component of the recommendations aims to target the travelers with highest risk where the benefits of receiving the vaccine almost certainly outweigh the risks. 
+> 
+> There may be considered recommendation aims to include groups with higher risk where the work group did not think a specific recommended recommendation was justified because there is more uncertainty in the risk benefit assessment, but where some individuals might reasonably choose vaccination and some providers might reasonably wish to recommend it, and where a discussion and decision making based on a conversation between the provider and patient would be valuable. 
+> 
+> ...
+
+
+
 ## Florida health department statement on measles outbreak
 
 - **Source:** emailed statement
