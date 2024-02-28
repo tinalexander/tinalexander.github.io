@@ -107,6 +107,186 @@ Estimates that approximate cost effectiveness for those with high risk condition
 
 When asked is an additional dose of the 23-24 formula COVID 19 vaccine in older adults, a reasonable and efficient allocation of resources, the work group response was probably yes.
 
+...
+
+Megan Wallace, CDC [10:00:23]
+
+A may recommendation would provide flexibility for older adults to obtain an additional dose if they or their healthcare provider feel they would benefit.
+
+The most benefit would likely be in those with underlying medical conditions, advanced age or circumstances that may increase risk such as being a nursing home resident.
+
+An additional dose, in adults 65 years and older, may restore protection that has waned. However, this will be a smaller, incremental benefit on top of the protection that is still being provided by the initial 23-24 formula COVID 19 vaccine dose. 
+
+The cost effectiveness of an additional dose depends on COVID 19 hospitalization rates in the coming months and the patient risk factors for severe illness due to COVID 19. 
+
+Finally, as COVID 19 epidemiology changes with time, additional dose recommendations may not be needed in the future. 
+
+...
+
+Megan Wallace, CDC [10:01:34]
+
+It acknowledges that risk of severe illness took due to COVID 19 continues throughout the year for older adults, despite upticks during the winter months.
+
+The work group also acknowledged that this would have a smaller, incremental benefit compared to that from the initial 23-24 COVID 19 vaccine dose in the fall. It also may decrease vaccine confidence in the benefits of a single dose of 23-24 COVID 19 vaccine and additional recommendations may increase vaccine fatigue, potentially reducing uptake of vaccine next fall.
+
+...
+
+Megan Wallace, CDC [10:04:40]
+
+The work group did have considerations of other age groups, including the 75 year and older age group. 
+
+One of the key drivers that that led to dropping it down to 65 was the equity concerns that a 75 year and older age group would likely cause inequities for those in minority groups that that are still experiencing severe illness in the 65 to 74 age group.
+
+...
+
+Megan Wallace, CDC [10:07:43]
+
+The question about seasonality, I think is a really good one. And I think it's one that we are all asking because I think it would certainly inform the recommendations. 
+
+I think this last year we saw much lower rates in the spring and summer than we did the previous two years. But I think, I think we all feel that things with COVID are still unpredictable, particularly as new variants arise. 
+
+So I hope that we are moving in the direction of getting more flu-like where there's a really clear season, but I don't think that we are there yet. 
+
+If others know more than me-- I believe the Southern hemisphere is seeing similar to what we are seeing, where there's year round circulation, but it is higher in the typical respiratory virus months for them.
+
+...
+
+Matthew Daley, ACIP [10:16:21]
+
+I don't know that I have a perfect answer and because there was some disagreement or at least difference of opinion on the part of the work group. 
+
+I mean, in some ways, a may recommendation is a reflection of some difference of opinion on the part of the work group. You know, I think we all recognize that communication is key and how strongly a provider endorses this in their practice is really important. 
+
+And we also recognize that now there's a lot of different settings where vaccination is occurring, since this is also happening in pharmacies, for example. And, that might not entail a long conversation. It might not be with a pharmacist who knows somebody's individual sort of health status. 
+
+So in some ways, the-- because there was a difference of opinion on the part of some work group members that is in some ways reflected in the may. That doesn't mean that that's necessarily the decision where we need to land, but I think it's an acknowledgement of that. 
+
+So let me just mention a couple of those who had more reservations.
+
+There was a work group member who said, I'm not sure it's needed. Okay? And I think that's a reflection of how much burden is there going to be in April, May, June, July, August. I think that's a question of that. 
+
+And then the question of harms came up a little bit and the harms, again, posed by this work group member were not in terms of specific adverse events, following vaccination, but just this, this more theoretical concern about whether that sort of blunts your immune response next fall. And so it was really more about theoretical concern there. 
+
+So that was some of the difference of opinion on the part of the work group. And that's, I think part of what's reflected in a may recommendation. 
+
+However, we all recognize that communicating this is a challenge and that it might be harder to communicate a may recommendation than it should recommendation, in which case you can just say, you know, you should get your vaccine today and then perhaps it's not as long a conversation.
+
+...
+
+Demetre Daskalakis, CDC [10:20:59]
+
+As we sort of approach the vote, I just wanted to step in and just talk a little bit about the may versus should for a moment, which is so that the note-- and I just wanted to sort of echo what Dr. Daley said, which is that the may sort of provides the sort of permissiveness for people who are already very connected to vaccine and interested in vaccination. 
+
+So I think that the note from Dr. Cotton that we need to do better in terms of communicating the importance of the initial dose, I think is completely true.
+
+I just want to say that more absolute statements around vaccines sometimes will create a chilling effect for the folks who haven't been vaccinated. So just sort of putting it out there that in this scenario, it may be worth thinking about the population who we're talking about, which are folks who have already been vaccinated, who are like suggestible for vaccine, and who will likely take this recommendation sort of on the value of an additional dose is something that may be right for me. 
+
+So I just want to put that out there as you all have the discussion and move to a vote.
+
+...
+
+Camille Kotton, ACIP [10:22:18]
+
+Could you provide additional information backing that statement up? 
+
+Because as a clinician who provides a tremendous number of vaccines to adults, I have not necessarily found that to be true in my practice. 
+
+And for me, when the CDC says, may, they think, oh, may like may doesn't really mean anything. That doesn't mean me. It doesn't mean I need to do it. And should, is quite clear. 
+
+And so I am concerned. Although I definitely believe that what you say is true, I would like additional data to back up what you have said.
+
+...
+
+Megan Wallace, CDC [10:27:58]
+
+The should recommendation from the fall for everyone to receive a single updated dose still stands. 
+
+So that is not being replaced by this in any way. We still want everyone to get their updated 23-24 vaccine. 
+
+So this would just be for this specific group that has already been vaccinated if they should receive an additional dose.
+
+...
+
+Wilbur Chen, ACIP [10:30:49]
+
+Having seen the data, I was really struck by the fact that, even though there is a waxing and waning of the burden of disease, that it really did not completely disappear. And I think it probably lost to a lot of even clinicians, that there are a significant amount of hospitalizations and deaths, even at the nadir of the summer. 
+
+So it doesn't ever completely disappear. That burden of disease, seeing the risks associated with age and other underlying conditions also motivated me to see the importance of how that second booster dose could have a significant improvement in the population that receives that. 
+
+So, I was in favor of the change to the should. 
+
+Having heard that this is really only this vote is applicable to a very small portion of the population. We're not talking about the unvaccinated and we're not talking about those-- so I'm now stuck at, actually, thinking that may language would be okay with me. 
+
+However, I still want to make clear that vaccination is extremely important and whatever we can do to improve language overall, to increase clinicians to be motivated to give a very strong recommendation to their patient population, in addition to all patients understanding the importance of vaccination, would be a goal. 
+
+So-- but I don't think that that's what we're voting on today. It's really only a very small segment.
+
+...
+
+Matthew Daley, ACIP [10:35:17]
+
+There's still this uncertainty every year that passes, we learn more, but there is this uncertainty. And I think, certainly one thing that would be persuasive to me is if there were not much disease burden over the spring and summer, but we just haven't seen that. 
+
+So there is disease out there to prevent, and yeah, that is vaccine preventable. 
+
+And so, but I'm still trying to reflect on why we landed on a may recommendation last spring or not. 
+
+I think in terms of harms again, I would come back to that in a way too. And, I think there wasn't major concern from the work group that there would be harms in this strategy. So there was a comfort level with that. 
+
+But again, there was a little bit of a, is it really is it really needed? And if so, for whom? Sort of a difference of opinion. 
+
+So I don't think this would be going completely against the work group sentiments, but I just wanted to express that. And again, I wanted to reflect on why we landed on a may last year or not. 
+
+And it was related, I think, to uncertainty about multiple aspects also uncertainty about waning, not just epidemiology. 
+
+...
+
+Sandra Fryhofer, American Medical Association [10:38:31]
+
+One of the things that's impressed me so much is the fact that COVID is not, does not have the seasonality like flu, that we're still having many hospitalizations, still having many deaths as we're transitioning out of flu season. 
+
+And there, as Dr. Daley said, there's still much disease to prevent. 
+
+I appreciate Dr. Daskalakis' comment about the people that are against vaccines and how a should recommendation might affect them. However, a should recommendation does support vaccine confidence and our belief that this vaccine will save lives, prevent hospitalizations, prevent deaths. 
+
+The other thing I worry about with the shared clinical decision making, a may recommendation, is many people are getting these in the pharmacies, and there's still a little confusion about what the pharmacies can and cannot administer. 
+
+They don't have the knowledge of a patient's medical conditions and chronic illnesses like their personal physician or provider does. So, I've been-- I was very impressed with Dr. Cotton and Dr. Long's comments, and it sort of changed the way I think about this voting language.
+
+...
+
+Lakshmi Panagiotakopoulos, CDC [10:50:51]
+
+However, COVID 19 related hospitalizations had already begun to increase before the ACIP vote on the use of the updated 23-24 vaccine. 
+
+Furthermore, the vote and recommendation was also made only weeks before a larger increase in cases, which limited the vaccination and outreach that could be done prior to the surge. Next slide. 
+
+So what happened from a programmatic perspective after the fall updated 2023-24 COVID 19 vaccine policy vote?
+
+Uncertainty around the recommendations prior to the meeting  madee planning for state and local vaccine programs challengin.
+
+Vaccine orders had to be placed prior to knowing the groups for whom the vaccine would be recommended, stakeholder presentations, provider toolkits, and webpages, all had to be updated after the recommendation was made, which limited the available window for communication of the recommendation prior to the respiratory virus season.
+
+There were also reports of issues with vaccine access, including among those at highest risk of severe illness. 
+
+...
+
+Lakshmi Panagiotakopoulos, CDC [10:55:09]
+
+This slide now shows the revised timeframe for the 20 24 25 COVID 19 vaccine vote and recommendation at the June meeting, allowing for more lead time between when a recommendation is made to when vaccines are manufactured and distributed. 
+
+This slide shows the possibility of the WHO TAG CO VAC in mid to late April, followed by FDA VRBPAC in May, and a potential ACIP recommendation in June. 
+
+The proposed plan for 2024 would include a June ACIP meeting to review the evidence for updated COVID 19 vaccine recommendations, which includes WHO and FDA antigen selections, manufacturer studies and immunogenicity data, cumulative effectiveness and safety data epidemiology from current and prior years uptake from current and prior years and cost effectiveness. 
+
+ACIP would then vote on the updated COVID 19 vaccine recommendations in June and the 2024-25 formula will become available as regulatory actions are taken by the FDA and vaccines are distributed by manufacturers. 
+
+...
+
+Lakshmi Panagiotakopoulos, CDC [10:59:17]
+
+It is unlikely there will be more data between June and September that would influence the updated COVID 19 vaccine policy decision. 
+
 ## Sanofi spokesperson on availability of tetanus vaccine
 
 - **Source:** email
