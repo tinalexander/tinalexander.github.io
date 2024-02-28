@@ -194,36 +194,42 @@ permalink: /notes/2024/02
 > The recommendations will be presented with additional texts to provide clear information for implementation, including noting that a local institutional biosafety committee should undertake a risk assessment of the potential for exposure to chikungunya virus for each laboratory worker, working with the virus, considering the type of work to be performed and the biosafety level at which work will be conducted.
 > 
 > And that vaccination is not necessary for workers handling routine clinical samples. 
-
-...
-
-Susan Hillis, CDC [02:13:32]
-
-So chikungunya vaccine is recommended for persons aged 18 years and older traveling to a country or territory where there is a chikungunya outbreak. 
-
-In addition, chikungunya vaccine may be considered for the following persons traveling to a country or territory without an outbreak, but with evidence of chikungunya virus transmission among humans within the last five years: persons aged older than 65 years, particularly those with underlying medical conditions who are likely to have at least moderate exposure to mosquitoes, or persons staying for a cumulative period of  six months or more.
-
-...
-
-Melinda Wharton, CDC [02:15:40]
-
-This motion, this passes, 12 yes, with 1 abstention.
-
-...
-
-Susan Hillis, CDC [02:16:06]
-
-So the language is chikungunya vaccination is recommended for laboratory workers with potential for exposure to chikungunya virus.
-
-...
-
-Melinda Wharton, CDC [02:17:39]
-
-This passes unanimously, 13 yes. 
-
-...
-
-
+> 
+> ...
+> 
+> Susan Hillis, CDC [02:13:32]
+> 
+> So chikungunya vaccine is recommended for persons aged 18 years and older traveling to a country or territory where there is a chikungunya outbreak. 
+> 
+> In addition, chikungunya vaccine may be considered for the following persons traveling to a country or territory without an outbreak, but with evidence of chikungunya virus transmission among humans within the last five years: persons aged older than 65 years, particularly those with underlying medical conditions who are likely to have at least moderate exposure to mosquitoes, or persons staying for a cumulative period of  six months or more.
+> 
+> ...
+> 
+> Melinda Wharton, CDC [02:15:40]
+> 
+> This motion, this passes, 12 yes, with 1 abstention.
+> 
+> ...
+> 
+> Susan Hillis, CDC [02:16:06]
+> 
+> So the language is chikungunya vaccination is recommended for laboratory workers with potential for exposure to chikungunya virus.
+> 
+> ...
+> 
+> Melinda Wharton, CDC [02:17:39]
+> 
+> This passes unanimously, 13 yes. 
+> 
+> ...
+> 
+> Wilbur Chen, ACIP [02:20:44]
+> 
+> I would like to comment on the vote for the chikungunya vaccine. 
+> 
+> First licensed vaccine in the U.S. but I think that the burden of disease is global. I'd like to hope that the discussions that we had today will not negatively affect the consequences of implementation of the vaccine globally around the world. 
+> 
+> I'd like to, of course, continue to see additional vaccines for other mosquito born agents here in the U.S. and around the world as well. Thank you.
 
 ## Florida health department statement on measles outbreak
 
