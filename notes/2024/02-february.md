@@ -304,6 +304,30 @@ permalink: /notes/2024/02
 > Lakshmi Panagiotakopoulos, CDC [10:59:17]
 > 
 > It is unlikely there will be more data between June and September that would influence the updated COVID 19 vaccine policy decision. 
+> 
+> ...
+> 
+> David Kaslow, FDA [02:08:16]
+> 
+> First of all, only 40% of people over 65 years of age have received the indicated dose in the current package insert for the 2023-24 formula. 
+> 
+> The biggest public health impact would likely would likely come from increasing the number of 65 year olds and older getting that indicated dose.
+> 
+> Second, there are suggestive data of longer duration, particularly against the outcomes that are most important, severe disease and death, in those who have had multiple exposures to the spike protein, be it by infection or vaccines. And in the current context, I think what we're seeing in 65 years and older is they have already had multiple exposures to that spike protein. 
+> 
+> Third, there's a paucity of evidence with both mRNA vaccines and the protein based vaccines given at this time in the ongoing pandemic. The context of receiving an additional dose now is quite different than what it was earlier in the pandemic. 
+> 
+> As presented, the preexisting immunity is quite robust now, and quite different than what it was early in the pandemic. 
+> 
+> Fourth, if an antigen update is recommended this year, that's an if, and if it's available in September, then giving an additional dose of the 2023-2024 formula, the current formulation any later than June this year may not be optimal. 
+> 
+> So based on the current context and the available data, this seems truly a may recommendation supported by what is basically level three evidence. 
+> 
+> ...
+> 
+> Melinda Wharton, CDC [02:12:47]
+> 
+> The motion passes 11 yes, 1 no, 1 abstain.
 
 ## Sanofi spokesperson on availability of tetanus vaccine
 
