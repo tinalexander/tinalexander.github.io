@@ -328,6 +328,18 @@ permalink: /notes/2024/02
 > Melinda Wharton, CDC [02:12:47]
 > 
 > The motion passes 11 yes, 1 no, 1 abstain.
+> 
+> ...
+> 
+> Matthew Daley, ACIP [02:21:26]
+> 
+> I wanna reflect on the COVID vaccination vote and just make a couple quick points. 
+> 
+> One is that I personally would've felt comfortable with a should or a may recommendation and we voted for a should recommendation. 
+> 
+> But Dr. Kaslow, the points that you raised don't go away after we walk out of this room. And so I feel like I want to make sure that we can take those back to the work group and discuss those because as I conveyed the work group had a difference of opinion about where we landed and whether that is we have you come to the work group or we just take those points and discuss them, because we're gonna have this decision for years to come including in June. 
+> 
+> So I just want to highlight that it's a reason for us to pause and as we've talked about, it's a reason for us to be humble. 
 
 ## Sanofi spokesperson on availability of tetanus vaccine
 
