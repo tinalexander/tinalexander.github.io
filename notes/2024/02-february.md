@@ -184,6 +184,44 @@ permalink: /notes/2024/02
 > There may be considered recommendation aims to include groups with higher risk where the work group did not think a specific recommended recommendation was justified because there is more uncertainty in the risk benefit assessment, but where some individuals might reasonably choose vaccination and some providers might reasonably wish to recommend it, and where a discussion and decision making based on a conversation between the provider and patient would be valuable. 
 > 
 > ...
+> 
+> Susan Hillis, CDC [12:12:09]
+> 
+> The work group summary is that the benefits of vaccination likely outweigh the risks for the small group of laboratorians working with live virus, given the potential for them to acquire chikungunya virus infection, which can result in severe polyarthralgia during the acute illness and possibly chronic arthralgia. 
+> 
+> And our draft recommendation is the same as that presented to ACIP in October last year as part of the ETR. And it is that chikungunya vaccination is recommended for laboratory workers with a potential for exposure to chikungunya virus. 
+> 
+> The recommendations will be presented with additional texts to provide clear information for implementation, including noting that a local institutional biosafety committee should undertake a risk assessment of the potential for exposure to chikungunya virus for each laboratory worker, working with the virus, considering the type of work to be performed and the biosafety level at which work will be conducted.
+> 
+> And that vaccination is not necessary for workers handling routine clinical samples. 
+
+...
+
+Susan Hillis, CDC [02:13:32]
+
+So chikungunya vaccine is recommended for persons aged 18 years and older traveling to a country or territory where there is a chikungunya outbreak. 
+
+In addition, chikungunya vaccine may be considered for the following persons traveling to a country or territory without an outbreak, but with evidence of chikungunya virus transmission among humans within the last five years: persons aged older than 65 years, particularly those with underlying medical conditions who are likely to have at least moderate exposure to mosquitoes, or persons staying for a cumulative period of  six months or more.
+
+...
+
+Melinda Wharton, CDC [02:15:40]
+
+This motion, this passes, 12 yes, with 1 abstention.
+
+...
+
+Susan Hillis, CDC [02:16:06]
+
+So the language is chikungunya vaccination is recommended for laboratory workers with potential for exposure to chikungunya virus.
+
+...
+
+Melinda Wharton, CDC [02:17:39]
+
+This passes unanimously, 13 yes. 
+
+...
 
 
 
@@ -2156,3 +2194,4 @@ permalink: /notes/2024/02
 > Background:
 > 
 > Norovirus is the leading causes of vomiting and diarrhea from acute gastroenteritis with most Norovirus outbreaks in the US occurring in November to April. The CDC, along with other state Public Health Laboratories (PHL) including MDH PHL, have expressed concerns regarding an unusual surge in Norovirus positivity detected by the BIOFIRE®, coupled with a low concordance rate observed with alternative detection methods. On 1/29/24 bioMerieux released a recall notice for the BIOFIRE® FILMARRAY® GI Panel, necessitating appropriate follow-up actions.
+
