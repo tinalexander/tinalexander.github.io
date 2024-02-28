@@ -209,7 +209,7 @@ permalink: /notes/2024/02
 > 
 > Because as a clinician who provides a tremendous number of vaccines to adults, I have not necessarily found that to be true in my practice. 
 > 
-> And for me, when the CDC says, may, they think, oh, may like may doesn't really mean anything. That doesn't mean me. It doesn't mean I need to do it. And should, is quite clear. 
+> And for me, when the CDC says, 'may,' they think, 'oh, may? Like may doesn't really mean anything. That doesn't mean me. It doesn't mean I need to do it.' And 'should,' is quite clear. 
 > 
 > And so I am concerned. Although I definitely believe that what you say is true, I would like additional data to back up what you have said.
 > 
