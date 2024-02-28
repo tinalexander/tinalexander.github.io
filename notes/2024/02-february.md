@@ -11,6 +11,16 @@ permalink: /notes/2024/02
 
 # February 28, 2024
 
+## Sanofi spokesperson on availability of tetanus vaccine
+
+- **Source:** email
+- **Attribution:** Sanofi spokesperson
+- **Date:** received February 28, 2024
+
+> A supplier is discontinuing production of tetanus/diphtheria vaccine. Because of this, there may be more healthcare providers ordering Tenivac® (Tetanus and Diphtheria Toxoids Adsorbed). Sanofi is taking steps to augment its available U.S. supply of Tenivac®.
+> 
+> The Centers for Disease Control and Prevention state that Tdap vaccines can be substituted for all but the rarest of cases where the pertussis component is not to be used.
+
 ## Reported measles cases through Feb. 28 in the United States
 
 - **Source:** multiple sources
