@@ -11,7 +11,7 @@ permalink: /notes/2024/02
 
 # February 28, 2024
 
-## Reported measles cases through Feb. 26 in the United States
+## Reported measles cases through Feb. 28 in the United States
 
 - **Source:** multiple sources
 - **Attribution:** multiple attributions
