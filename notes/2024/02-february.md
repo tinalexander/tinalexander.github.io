@@ -11,6 +11,24 @@ permalink: /notes/2024/02
 
 # February 28, 2024
 
+## Florida health department statement on measles outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Florida Department of Health spokesperson Grant Kemp
+- **Date:** received February 28, 2024
+
+> You have recently covered the measles outbreak in Florida. As such, please see the statement below as of February 28, 2024.
+> 
+> While details of epidemiological investigations are confidential, many media outlets are reporting false information and politicizing this outbreak. To ensure the communities we serve are correctly informed, we are providing Floridians with the following clarifying information: 
+> 
+> 97% of students at Manatee Bay Elementary have received at least one dose of the MMR immunization. Outbreaks are occurring in multiple states, and the national immunization rate for measles is less than 92%.  
+> 
+> When measles is detected in a school, it is recommended that individuals without history of prior infection or vaccination stay home for up to 21 days. This is the period of time that the virus can be transmitted. This recommendation has been made at Manatee Bay Elementary. There have not been any additional cases present at Manatee Bay Elementary since February 15, 2024. As such, the end of the infectious period is still March 7, 2024. This may change as epidemiological investigations continue. 
+>  
+> The Department has also worked with Manatee Bay Elementary to educate parents on measles and ensure that any parent who is concerned for their child, regardless of their immunization status, may choose to keep their children home and utilize continuous learning during this time.  
+> 
+> The Department is dedicated to protecting all Floridians as investigations continue. Due to the high immunity rate, as well as the burden on families and educational cost of healthy children missing school, the Surgeon General’s current guidance ensures that parents or guardians are able make the best decisions for their families regarding school attendance. I have attached a copy of the Surgeon General’s letter alongside the fact sheet provided to parents at Manatee Bay Elementary regarding measles. 
+
 ## CDC advisory committee on additional COVID-19 vaccine recommendations
 
 - **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4/pop-out) 
