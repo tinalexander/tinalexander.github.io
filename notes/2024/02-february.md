@@ -19,6 +19,20 @@ permalink: /notes/2024/02
 
 > [2024-02-28_cdc_acip-covid-voting-language.png](https://tinalexander.github.io/notes/attachments/2024-02-28_cdc_acip-covid-voting-language.png)
 
+Camille Kotton, ACIP [08:49:22]
+
+It is devastating to see how many elderly and then immunocompromised are being admitted to hospital, are in the ICU, and are dying from COVID 19. 
+
+It is shocking to see that only 30 to 40% of the higher risk populations, at least for elderly, and I think it's a similar number for immunocompromised, are getting the updated vaccine. 
+
+I would encourage at this meeting that we provide clarity on the recommendation for an updated vaccine and for immunocompromised in September, we said that they could get two doses of vaccine, at least two months apart, but I think we really need to provide the community with clarity on that because people don't understand what that recommendation means. 
+
+And for me, this is a life and death situation for many of the patients that I take care of. 
+
+...
+
+
+
 ## Sanofi spokesperson on availability of tetanus vaccine
 
 - **Source:** email
