@@ -11,6 +11,114 @@ permalink: /notes/2024/02
 
 # February 29, 2024
 
+## CDC advisory committee on GBS after RSV vaccines
+
+- **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4/pop-out) 
+- **Attribution:** Advisory Committee on Immunization Practices meeting
+- **Date:** broadcasted February 29, 2024
+
+> Tom Shimabukuro, CDC [09:33:10]
+> 
+> Clinical trials are generally too small to assess the risk for rare adverse events and due to the small number of GBS cases and size of the pre-licensure studies that is not known at this time whether these GBS cases or other neuro-inflammatory events occurred due to random chance, or whether RSV vaccination might increase the risk of these events. 
+> 
+> Post licensure safety monitoring of RSV vaccines is ongoing in V safe, VAERS, VSD and other non CDC systems. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [09:43:41]
+> 
+> On January 19th, 2024, a data mining alert for disproportional reporting was detected in FDA empirical Bayesian data mining for the Pfizer vaccine and GBS.
+> 
+> No data mining alert for the GSK vaccine and GBS has been detected to date.
+> 
+> EB data mining is product specific and analyzes product specific vaccine adverse event pairings compared to the overall VAERS database. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [09:44:16]
+> 
+> We've received 37 preliminary reports as of February 16th.
+> 
+> 6 are currently under review. 7 have been excluded based on medical record review. 1 report was verified, but was excluded due to onset, after 42 days.
+> 
+> That leaves us with 23 verified GBS reports by medical record review of which 15 or after the Pfizer vaccine and eight after the Arexvy vaccine.
+> 
+> The median age in these reports was 71 years with an IQR, interquartile range of 63 to 75. 
+> 
+> There was 1 report in a non-pregnant female in her fifties who received Pfizer. So that report is either given off-- that vaccine is either given off label or an error. 
+> 
+> The median time to onset was nine days with a range 1 to 22 days. 
+> 
+> There were 14 males, 9 females, none were pregnant. There's 1 death in a patient in his seventies, a male who received the GSK vaccine. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [09:47:57]
+> 
+> So the reporting rate for the Pfizer vaccine in the 21 day risk window is 4.6 cases, or 4.6 reports per million doses administered. 
+> 
+> And for the GSK vaccine, 1.1 reports per million doses administered. 
+> 
+> If you move down to the next major column, this is the 42 day risk window. The reporting rate is the same for Pfizer because all those cases had onset within 21 days. And I mentioned there was one case with a 22 day onset. So that adds another report to the GSK cell there. You see, you go from 7 to 8 from 21 to 42 days. 
+> 
+> And so for the reporting rates in the 42 day risk window for the Pfizer vaccine, it's 4.6 reports per million doses administered. And for GSK 1.2 per million doses of administered. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [09:51:20]
+> 
+> So we're using this as our background again, because the mRNA COVID 19 vaccines are not associated with an increased risk of GBS, we can consider this the background incidence of GBS in a vaccine accepting population. 
+> 
+> So when you convert that to per million doses in the 21 day risk interval, if we were going to use that as an expected for RSV, that would be 2 cases per million doses administered with a range from the 95% confidence interval of 0.7 to 4.2. And for the 42 day risk interval, 5.2 cases per million doses administered with a range from the confidence interval of 2.8 to 8.9. 
+> 
+> So based on VSD data, that's what we would expect to see as a rate for RSV vaccines, if we assumed that there was no increased risk from vaccination, next slide. 
+> 
+> So this is the same table that you previously saw with the VAERS reporting rates, but now I've put this far right column, which shows the expected rate per million doses administered. So you see for using in the 21 day risk interval for the Pfizer vaccine, the VAERS reporting rate was 4.6 per million doses administered. And the expected rate based on VSD data would be 2 per million doses administered with a upper bound of the confidence interval at 4.2. 
+> 
+> So that point estimate for the reporting rate is elevated for the Pfizer vaccine. 
+> 
+> Then for GSK it's 1.1 per million doses administered, and compared to the expected rate of 2, and that falls within the 95% confidence interval.
+> 
+> For the 42 day risk window for the Pfizer, again, it's the same 4.6 per million doses administered. The estimated expected rate based on VSD data is 5.2 with a confidence interval, 2.8 to 8.9. And then for the GSK vaccine, it increases to 1.2 per million doses administered because we had that extra case at 22 days.
+> 
+> And that reporting rate is not elevated when you compare that to the background in VSD.
+> 
+> The caveat here is that we know that there is under reporting in VAERS. So those observed VAERS reporting rates are likely an underestimate of the true reporting rate-- of the true rate. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [09:55:37]
+> 
+> I'm gonna give you some quick early rate data from the Vaccine Safety Datalink, which is our active surveillance system. 
+> 
+> This is used for rapid cycle analysis and research. It has about 13.5 million individuals across the sites that you see there. And that includes about 2.8 million adults, 60 and older, next slide. 
+> 
+> So, this table shows the observed VSD GBS rates following RSV vaccination at adult 60 and older through December 30th, 2023.
+> 
+> VSD has identified 4 GBS cases within 1 to 84 days of the GSK vaccine. All 4 cases of undergone medical record review, and been adjudicated in the table. 
+> 
+> There, you see the rates, these are straight rates, for the GSK vaccine in the 1 to 21 day risk window and the 1 to 42 day risk window. And these rates are 9.5 per million doses administered, in the 1 to 21 day risk window, and 14.3 per million doses administered in the 1 to 42 day risk window. 
+> 
+> Qualitatively, I will say that these rates are higher than rates that we've observed for high dose influenza and for Shingrix. The caveat there is this is very early data based on a small number of cases and a small number of doses administered. And there'll be additional information on other vaccines in subsequent presentations in this session.
+> 
+> The fourth cases is absent from the table because that was classified as is level four and its pending additional review. 
+> 
+> Currently, no cases of GBS have been observed after the Pfizer vaccination, but only about 10% of all vaccinations in VSD have been with Pfizer. So VSD will continue to monitor the safety of RSV vaccines and adults age 60 and older, and formal sequential safety analysis will be March 2024 using a vaccinated concurrent comparison group, which is similar to what we did for COVID next slide. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [09:57:51]
+> 
+> So to sum things up, local and systemic symptoms were the most commonly reported adverse events following either of the RSV vaccines.
+> 
+> Monitoring in VAERS indicates a higher than expected number of GBS reports following the Pfizer vaccine, but VAERS is subject to the limitations of passive surveillance. 
+> 
+> GBS cases were observed in the pre-licensure clinical trials for both the Pfizer and the GSK vaccines and GBS is included as an adverse event in the labels of both vaccines.
+> 
+> Early data from VSD suggest a potential for an increased rate for GBS after the GSK vaccine, but additional analyses are needed to further assess this potential risk. Insufficient doses of the Pfizer vaccine have been used in VSD to inform risk.
+> 
+> Monitoring for GBS, following RSV vaccines and FDA and CDC population based active surveillance systems, is in progress. CDC and FDA will continue to monitor RSV vaccine safety in VAERS and CDC will continue to monitor in V safe. 
+
 ## Reported measles cases through Feb. 29 in the United States
 
 - **Source:** multiple sources
