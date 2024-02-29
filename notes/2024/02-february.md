@@ -11,6 +11,20 @@ permalink: /notes/2024/02
 
 # February 28, 2024
 
+## North Carolina Department of Health and Human Services on measles investigation
+
+- **Source:** emailed statement
+- **Attribution:** North Carolina Department of Health and Human Services spokesperson
+- **Date:** received February 28, 2024
+
+> The North Carolina Department of Health and Human Services reminds families that vaccinations are an important part of overall health and well-being, especially as children. The increased number of measles cases in the U.S. in recent weeks is reflective of a rise in global measles cases and a growing global threat from the disease. There has not been a reported case of measles in North Carolina since 2018. NCDHHS is aware that a person in Guilford County is being investigated for potential measles infection. NCDHHS’ Division of Public Health is working closely with local health departments to ensure readiness to detect and respond to any possible measles exposures in North Carolina.
+> 
+> Vaccine-preventable diseases, such as chicken pox, meningitis, measles, pertussis (whooping cough) and others are still seen across North Carolina. Keeping children up to date on vaccinations is the best way to keep them healthy and reduce unnecessary absences from school. Children who are uninsured can still be vaccinated at low or no cost through the Vaccines for Children program which offers free vaccines to children through 18 years of age. 
+> 
+> See attached for school-specific vaccination rates from the Annual Kindergarten Immunization Compliance Report for the most recent year available. The MMR vaccine is a required vaccine in North Carolina and vaccinations are checked upon entry to school. The CDC also tracks MMR vaccination coverage through the National Immunization Survey (ChildVaxView) and through state-reported Kindergarten immunization reports (SchoolVaxView). 
+> 
+> According to the National Immunization Survey, 90.1% of children born in 2020 had received at least one dose of the MMR vaccine by 24 months of age compared to 91.4% nationally. According to CDC’s Kindergarten immunization coverage estimates,  93.8% of North Carolina Kindergarteners were reported up to date on the MMR vaccine in the ’22-’23 school year, compared to 93.1% nationally. While statewide coverage remains high in North Carolina, it is important to note that coverage levels vary locally, with some counties and school settings having lower vaccination coverage that leaves these communities more susceptible and at higher risk to a measles outbreak.
+
 ## Reported measles cases through Feb. 28 in the United States
 
 - **Source:** multiple sources
