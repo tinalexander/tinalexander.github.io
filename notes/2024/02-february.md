@@ -17,7 +17,7 @@ permalink: /notes/2024/02
 - **Attribution:** Centers for Disease Control and Prevention spokesperson Dave Daigle
 - **Date:** received February 28, 2024
 
-> CDC is supporting the Florida Health Department, who is the lead in this investigation.
+> Yes, CDC is supporting the Florida Health Department, who is the lead in this investigation.
 > 
 > CDC is one of the four APHL-Vaccine Preventable Diseases Refence Centers that can provide laboratory genotype sequencing to help better understand potential links among cases. This support is available to all health departments.
 
