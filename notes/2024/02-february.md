@@ -11,6 +11,14 @@ permalink: /notes/2024/02
 
 # February 29, 2024
 
+## FDA's adverse event reports of alopecia after GLP-1 RAs
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received February 29, 2024
+
+> [2024-02-29_fda_foia-2024-180.pdf](https://tinalexander.github.io/notes/attachments/2024-02-29_fda_foia-2024-180.pdf)
+
 ## CDC official at advisory committee discussing measles
 
 - **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4/pop-out) 
@@ -418,7 +426,7 @@ permalink: /notes/2024/02
 > **5. New York** (2)
 > 
 > - **New York, NY** ([Jan. 31](https://www.nyc.gov/assets/doh/downloads/pdf/han/advisory/2024/han-advisory-3.pdf), [Feb. 16](https://tinalexander.github.io/notes/2024/02#new-york-city-spokesperson-on-measles-case), [Feb. 16](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#reported-measles-case-in-new-york-city-for-2024-so-far))  international travel
-> - **New York, NY** ([Feb. 24](https://wonder.cdc.gov/nndss/static/2024/08/2024-08-table890.html)) imported
+> - **New York, NY** ([Feb. 24](https://wonder.cdc.gov/nndss/static/2024/08/2024-08-table890.html)) international travel, not linked to previous case
 > 
 > Unclear if additional cases.
 > 
