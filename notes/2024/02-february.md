@@ -155,7 +155,7 @@ permalink: /notes/2024/02
 > 
 > **17. North Carolina** (1)
 > 
-> - **Guilford County, NC** ([Feb. 28](https://www.wfmynews2.com/article/news/health/measles-confirmed-case-in-guilford-county/83-9d023fa4-8355-4953-afed-5b653a77c4e8)) suspect case
+> - **Guilford County, NC** ([Feb. 28](https://www.wfmynews2.com/article/news/health/measles-confirmed-case-in-guilford-county/83-9d023fa4-8355-4953-afed-5b653a77c4e8), [Feb. 28](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#north-carolina-department-of-health-and-human-services-on-measles-investigation)) suspect case
 
 ## CDC spokesperson on measles outbreaks genotyping
 
