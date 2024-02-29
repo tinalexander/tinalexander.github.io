@@ -72,7 +72,7 @@ permalink: /notes/2024/02
 > - **Montgomery County, OH** ([Feb. 3](https://www.phdmc.org/news-features/news-releases/measles-case-reported-in-a-montgomery-county-resident), [Feb. 3](https://odh.ohio.gov/media-center/ODH-News-Releases/odh-news-release-02-03-24)) recent travel, child
 > - **Miami County, OH** ([Feb. 23](https://tinalexander.github.io/notes/2024/02#ohio-health-department-on-measles-cases), [Feb. 27](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#additional-measles-case-in-miami-county-of-ohio)) child, linked to Montgomery County case
 > - **Richland County, OH** ([Feb. 23](https://tinalexander.github.io/notes/2024/02#ohio-health-department-on-measles-cases)) not linked to earlier cases
-> - **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/), [Feb. 23](https://tinalexander.github.io/notes/2024/02#clermont-county-public-health-spokesperson-on-measles-case)) _potential_ case
+> - **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/), [Feb. 23](https://tinalexander.github.io/notes/2024/02#clermont-county-public-health-spokesperson-on-measles-case)) suspect case
 > - **Miami County, OH** ([Feb. 26](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#additional-measles-case-in-miami-county-of-ohio)) child, linked to Montgomery County case
 > 
 > Unclear if additional cases.
