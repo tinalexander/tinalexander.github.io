@@ -118,172 +118,248 @@ permalink: /notes/2024/02
 > Early data from VSD suggest a potential for an increased rate for GBS after the GSK vaccine, but additional analyses are needed to further assess this potential risk. Insufficient doses of the Pfizer vaccine have been used in VSD to inform risk.
 > 
 > Monitoring for GBS, following RSV vaccines and FDA and CDC population based active surveillance systems, is in progress. CDC and FDA will continue to monitor RSV vaccine safety in VAERS and CDC will continue to monitor in V safe. 
-
-...
-
-Patricia Lloyd, FDA [10:00:22]
-
-We used a retrospective cohort analysis with a historical comparator group. And the data were from the Centers for Medicare and Medicaid Services or CMS administrative claims, data and enrollment information, derived from CMS Medicare shared systems data, Medicare parts A, B, and D.
-
-And the study population included all CMS Medicare beneficiaries, age 65 years and older, enrolled in fee for service and part D on the day of their first observed RSV vaccination. 
-
-...
-
-Patricia Lloyd, FDA [10:02:54]
-
-Approximately 2 million RSV vaccine doses were administered with approximately 680,000 doses for Abrysvo 1.4 million doses for Arexvy.
-
-GBS was observed for both vaccines post RSV vaccination. There were 13 cases following vaccination with Abrysvo and less than 11 cases following Arexvy.
-
-An elevated incidence rate ratio was observed for GBS following vaccination. For Abrysvo, that was 6.4 and for Arexvy, 2.76.
-
-We observed an elevated risk by age groups and sex, but the number of cases were small by subgroups. So less than five.
-
-...
-
-Patricia Lloyd, FDA [10:03:38]
-
-Applying our PPV adjustment based on multiple imputation, we observed an elevated incidence rate ratio observed for GBS following vaccination with Abrysvo, which was 6.9, and a non statistically significant elevated incidence rate ratio observed for GBS following Arexvy vaccination of 2.8, apologies.
-
-The GBS rates following 1 million doses, assuming a 1 to 42 day risk window following Abrysvo, was 25.1. And following Arexvy, 10.0.
-
-...
-
-Patricia Lloyd, FDA [10:05:52]
-
-Using a self-controlled case series design is planned and will provide more conclusive evidence of the potential risks following RSV vaccination. 
-
-...
-
-Tom Shimabukuro, CDC [10:09:58]
-
-Due to the uncertainties and limitations, these early data cannot establish if there is an increased risk for GBS after vaccination in this age group.
-
-A more robust, active surveillance in population based systems is ongoing and analyses from these systems will be better able to determine if an increased risk for GBS after RSV vaccination is present. 
-
-And if so, the magnitude of the risk.
-
-I just want to assure the, the committee that CDC and FDA will remain vigilant in our monitoring of RSV vaccines as we do for all vaccines and timely and transparent communication is a priority. And we will share additional findings on RSV vaccine safety as the data become available.
-
-...
-
-Tom Shimabukuro, CDC [10:11:36]
-
-We're continuing to, to gather data in our Vaccine Safety Data link system, which is our population based system, which can be used to assess risk and assess causality. 
-
-We plan to start conducting our formal sequential safety analysis in March, so soon. And that's gonna be done using the vaccinated concurrent comparison group, which compares vaccinated people to other vaccinated individuals, and is a very robust method that was very successful during COVID. 
-
-And I think you heard from my FDA colleague, Dr. Lloyd, that they're going to be conducting a self-controlled risk interval, which uses, where people serve as their own controls and is also a robust method.
-
-So we'll-- some of this depends on how much exposure, how much vaccination is occurring in our systems. We'll start conducting our analyses in VSD shortly. And, we'll be happy to brief the work group and the full ACIP as those findings become available.
-
-...
-
-Michael Melgar, CDC [10:30:57]
-
-These are the age stratified results for GSK's Arexvy vaccine. As we saw before, the preventable illnesses per 1 million vaccinations were lowest in adults, 60 to 64, who are at the lowest baseline risk of severe RSV disease.
-
-For those adults and across all age groups, the numbers of preventable outcomes exceeded the range of GBS observation rate for this vaccine. And again, the observation rate has not been adjusted for background GBS rates. So not all observed GBS cases can be assumed to be associated with vaccination. 
-
-Next slide. 
-
-And here are the age stratified results for Pfizer's Abrysvo. For this vaccine as well, the estimated number of preventable outcomes in each age group exceeded the observation rate of GBS, including in the youngest age group of adults, 60 to 64. 
-
-...
-
-Michael Melgar, CDC [10:33:49]
-
-In summary, from a population perspective, the benefits of RSV vaccination are estimated to outweigh the potential risk of GBS in adults 16 older, however, estimated benefits of RSV vaccination vary by age group and RSV incidence. 
-
-Estimated benefits likely also vary by individual level risk of severe RSV disease and by the timing of vaccination relative to the RSV season. And there are substantial uncertainty in estimates of both benefit and risk. 
-
-...
-
-Michael Melgar, CDC [10:37:31]
-
-This all acknowledges a discussion that we need to continue to have with within the adult RSV work group. 
-
-Surely, a case of outpatient disease is not equivalent to a case of Guillain-Barré syndrome. So that is not a fair comparison. 
-
-Certainly, there are some hospitalizations for RSV that are only two or three day hospitalizations and are not equivalent to a case of Guillain-Barré syndrome.
-
-There are some cases of Guillain-Barré syndrome that are devastating, that result in prolonged ICU admissions, and are some cases of Guillain-Barré syndrome, as we've heard, even reported after RSV vaccination, cannot determine a true association, that did result in death. 
-
-So, where on the scale of this severity of RSV attributable would one put Guillain-Barré syndrome, I think is a question for interpretation probably somewhere in the spectrum of hospitalization to ICU admission. 
-
-I will note again, just given the opportunity that when we're listing in hospital deaths and quantifying them, we are omitting out of hospital deaths, that are attributable to RSV. And that's a future direction that we hope to explore. 
-
-...
-
-Leonard Friedland, GSK [10:39:29]
-
-GSK expresses concern in the representation of vaccine efficacy for the two licensed RSV vaccines in today's ACIP presentation RSV vaccination older adults benefit risk discussion. 
-
-We note that some slides state the vaccine efficacy estimates are not directly comparable for both vaccines, yet it is not clearly stated on all representative slides that there are no head-to-head studies of the two licensed vaccines, nor is it stated on all representative slides that the follow up time in the second season, after the initial vaccination, differs significantly for the two vaccines.
-
-It's important to note the vaccine efficacy data for GSK's vaccine represented in slide 10 is over a complete second RSV season with six months, medium follow up in that season while the vaccine efficacy for the Pfizer vaccine represent a mid-second RSV season with much shorter follow up in that season. 
-
-Vaccine efficacy may be expected to decline the longer the time from the initial vaccination.
-
-Data from GSK's pivotal RSV adult vaccine efficacy trial showed vaccine efficacy against lower respiratory tract disease for Arexvy is 81% through mid second season with a median follow up of 14 months from vaccination and vaccine efficacy is 75% through a complete second season with a median follow up of 18 months from vaccination.
-
-Use of similar time of follow up vaccine efficacy for both vaccines in the benefit risk slides will show a more accurate representation of a substantial clinical impact of Arexvy.
-
-...
-
-Reema Mehta, Pfizer [10:41:53]
-
-Pfizer remains committed to achieving the safe use of our products and collaboration with our stakeholders and partners for the betterment of patients and public health globally. And we acknowledge that the assessment of risk is a multifaceted process.
-
-Given the multiple sources of uncertainty for GBS, some of which include the background rates of GBS among adults who received the vaccine co-administration with other vaccines, seasonality of GBS and underlying conditions at the time of vaccination, such as concurrent infection age at the time of administration, comorbid conditions, and even the differences in the distribution of the vaccine in the various health settings, and finally the system and methodology limitations with respect to being able to attribute causality. 
-
-So we agree with the CDC and FDA that the assessment of post vaccine GBS is complex. The findings are preliminary, and these important considerations can have meaningful impact on the analyses. 
-
-Pfizer is committed to the continuous monitoring and evaluation of the safety of Abrysvo. In addition to our routine pharmaco vigilance monitoring activities, we are conducting four different post-approval safety studies to ensure robust and continuous monitoring of GBS. And we believe this type of surveillance will provide additional data on the safety profile of Abrysvo, including the incidence and risk factors of GBS. 
-
-We will continue to share our findings with CDC, FDA, and other stakeholders as they become available. And with over 3 million administrations in the older adult population to date, we believe Abrysvo is safe and effective and provides protection against RSV and its complications.
-
-Consistent with CDC and FDA, we are here to support ACIP in their recommendations and have the common goal for the need for the more robust data to inform decision making with the ultimate goal, to reduce the public health burden of RSV amongst older patients.
-
-We look forward to our continued partnership to ensure the optimal use of Abrysvo while prioritizing patient safety. And we thank you for your time and dedication to public health. 
-
-...
-
-Amadea Britton, CDC [10:49:26]
-
-While our concern of a genuine association between GBS and RSV vaccination may be increasing, there is insufficient evidence currently to confirm this association or to estimate the magnitude of increase.
-
-Assessing the risk for GBS in more robust analyses and active vaccine safety surveillance systems will be crucial and is underway. 
-
-...
-
-Amadea Britton, CDC [10:49:50]
-
-The sensitivity of these surveillance systems means we are getting information before it is possible to definitively interpret it. So how can we be responsive to what we are learning while still accounting for this uncertainty?
-
-Overall, the work group, endorses that any increase in potential risk of GBS should be placed in the context of the benefits of RSV vaccination, using our best understanding of the data we have available now.
-
-Just a moment ago, Dr. Melgar summarized that from a population perspective, the estimated benefits of RSV vaccination outweigh the estimated risk for adults 60 and older. Benefits of RSV vaccination vary by age group and RSV incidence, and benefits likely also vary by individual level risk and by timing of vaccination relative to the RSV season. 
-
-We also saw data from Dr. Woodruff demonstrating that adults with certain chronic conditions are at increased risk of severe RSV disease even at younger ages. 
-
-...
-
-Amadea Britton, CDC [10:55:08]
-
-A majority of work group members express that the balance of estimated benefits outweighed potential risk for all adults, 60 and older. However, the work group expressed that estimated benefits most clearly outweighed potential risks among adults 60 and older, who are at increased risk of severe RSV disease. 
-
-This includes adults who are 60 and older with chronic medical conditions, such as chronic lung diseases, heart failure, immune compromise, those of advanced age, and those living in long term care facilities. Next slide.
-
-...
-
-Amadea Britton, CDC [10:59:34]
-
-In the interim, the work group wishes to affirm the importance of the RSV vaccination program. 
-
-RSV is a disease that causes significant morbidity and mortality among persons across the age spectrum. 
-
-The work group is cognizant that premature changes in the RSV vaccination program based on preliminary data, have the potential to limit access.
+> 
+> ...
+> 
+> Patricia Lloyd, FDA [10:00:22]
+> 
+> We used a retrospective cohort analysis with a historical comparator group. And the data were from the Centers for Medicare and Medicaid Services or CMS administrative claims, data and enrollment information, derived from CMS Medicare shared systems data, Medicare parts A, B, and D.
+> 
+> And the study population included all CMS Medicare beneficiaries, age 65 years and older, enrolled in fee for service and part D on the day of their first observed RSV vaccination. 
+> 
+> ...
+> 
+> Patricia Lloyd, FDA [10:02:54]
+> 
+> Approximately 2 million RSV vaccine doses were administered with approximately 680,000 doses for Abrysvo 1.4 million doses for Arexvy.
+> 
+> GBS was observed for both vaccines post RSV vaccination. There were 13 cases following vaccination with Abrysvo and less than 11 cases following Arexvy.
+> 
+> An elevated incidence rate ratio was observed for GBS following vaccination. For Abrysvo, that was 6.4 and for Arexvy, 2.76.
+> 
+> We observed an elevated risk by age groups and sex, but the number of cases were small by subgroups. So less than five.
+> 
+> ...
+> 
+> Patricia Lloyd, FDA [10:03:38]
+> 
+> Applying our PPV adjustment based on multiple imputation, we observed an elevated incidence rate ratio observed for GBS following vaccination with Abrysvo, which was 6.9, and a non statistically significant elevated incidence rate ratio observed for GBS following Arexvy vaccination of 2.8, apologies.
+> 
+> The GBS rates following 1 million doses, assuming a 1 to 42 day risk window following Abrysvo, was 25.1. And following Arexvy, 10.0.
+> 
+> ...
+> 
+> Patricia Lloyd, FDA [10:05:52]
+> 
+> Using a self-controlled case series design is planned and will provide more conclusive evidence of the potential risks following RSV vaccination. 
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [10:09:58]
+> 
+> Due to the uncertainties and limitations, these early data cannot establish if there is an increased risk for GBS after vaccination in this age group.
+> 
+> A more robust, active surveillance in population based systems is ongoing and analyses from these systems will be better able to determine if an increased risk for GBS after RSV vaccination is present. 
+> 
+> And if so, the magnitude of the risk.
+> 
+> I just want to assure the, the committee that CDC and FDA will remain vigilant in our monitoring of RSV vaccines as we do for all vaccines and timely and transparent communication is a priority. And we will share additional findings on RSV vaccine safety as the data become available.
+> 
+> ...
+> 
+> Tom Shimabukuro, CDC [10:11:36]
+> 
+> We're continuing to, to gather data in our Vaccine Safety Data link system, which is our population based system, which can be used to assess risk and assess causality. 
+> 
+> We plan to start conducting our formal sequential safety analysis in March, so soon. And that's gonna be done using the vaccinated concurrent comparison group, which compares vaccinated people to other vaccinated individuals, and is a very robust method that was very successful during COVID. 
+> 
+> And I think you heard from my FDA colleague, Dr. Lloyd, that they're going to be conducting a self-controlled risk interval, which uses, where people serve as their own controls and is also a robust method.
+> 
+> So we'll-- some of this depends on how much exposure, how much vaccination is occurring in our systems. We'll start conducting our analyses in VSD shortly. And, we'll be happy to brief the work group and the full ACIP as those findings become available.
+> 
+> ...
+> 
+> Michael Melgar, CDC [10:30:57]
+> 
+> These are the age stratified results for GSK's Arexvy vaccine. As we saw before, the preventable illnesses per 1 million vaccinations were lowest in adults, 60 to 64, who are at the lowest baseline risk of severe RSV disease.
+> 
+> For those adults and across all age groups, the numbers of preventable outcomes exceeded the range of GBS observation rate for this vaccine. And again, the observation rate has not been adjusted for background GBS rates. So not all observed GBS cases can be assumed to be associated with vaccination. 
+> 
+> Next slide. 
+> 
+> And here are the age stratified results for Pfizer's Abrysvo. For this vaccine as well, the estimated number of preventable outcomes in each age group exceeded the observation rate of GBS, including in the youngest age group of adults, 60 to 64. 
+> 
+> ...
+> 
+> Michael Melgar, CDC [10:33:49]
+> 
+> In summary, from a population perspective, the benefits of RSV vaccination are estimated to outweigh the potential risk of GBS in adults 16 older, however, estimated benefits of RSV vaccination vary by age group and RSV incidence. 
+> 
+> Estimated benefits likely also vary by individual level risk of severe RSV disease and by the timing of vaccination relative to the RSV season. And there are substantial uncertainty in estimates of both benefit and risk. 
+> 
+> ...
+> 
+> Michael Melgar, CDC [10:37:31]
+> 
+> This all acknowledges a discussion that we need to continue to have with within the adult RSV work group. 
+> 
+> Surely, a case of outpatient disease is not equivalent to a case of Guillain-Barré syndrome. So that is not a fair comparison. 
+> 
+> Certainly, there are some hospitalizations for RSV that are only two or three day hospitalizations and are not equivalent to a case of Guillain-Barré syndrome.
+> 
+> There are some cases of Guillain-Barré syndrome that are devastating, that result in prolonged ICU admissions, and are some cases of Guillain-Barré syndrome, as we've heard, even reported after RSV vaccination, cannot determine a true association, that did result in death. 
+> 
+> So, where on the scale of this severity of RSV attributable would one put Guillain-Barré syndrome, I think is a question for interpretation probably somewhere in the spectrum of hospitalization to ICU admission. 
+> 
+> I will note again, just given the opportunity that when we're listing in hospital deaths and quantifying them, we are omitting out of hospital deaths, that are attributable to RSV. And that's a future direction that we hope to explore. 
+> 
+> ...
+> 
+> Leonard Friedland, GSK [10:39:29]
+> 
+> GSK expresses concern in the representation of vaccine efficacy for the two licensed RSV vaccines in today's ACIP presentation RSV vaccination older adults benefit risk discussion. 
+> 
+> We note that some slides state the vaccine efficacy estimates are not directly comparable for both vaccines, yet it is not clearly stated on all representative slides that there are no head-to-head studies of the two licensed vaccines, nor is it stated on all representative slides that the follow up time in the second season, after the initial vaccination, differs significantly for the two vaccines.
+> 
+> It's important to note the vaccine efficacy data for GSK's vaccine represented in slide 10 is over a complete second RSV season with six months, medium follow up in that season while the vaccine efficacy for the Pfizer vaccine represent a mid-second RSV season with much shorter follow up in that season. 
+> 
+> Vaccine efficacy may be expected to decline the longer the time from the initial vaccination.
+> 
+> Data from GSK's pivotal RSV adult vaccine efficacy trial showed vaccine efficacy against lower respiratory tract disease for Arexvy is 81% through mid second season with a median follow up of 14 months from vaccination and vaccine efficacy is 75% through a complete second season with a median follow up of 18 months from vaccination.
+> 
+> Use of similar time of follow up vaccine efficacy for both vaccines in the benefit risk slides will show a more accurate representation of a substantial clinical impact of Arexvy.
+> 
+> ...
+> 
+> Reema Mehta, Pfizer [10:41:53]
+> 
+> Pfizer remains committed to achieving the safe use of our products and collaboration with our stakeholders and partners for the betterment of patients and public health globally. And we acknowledge that the assessment of risk is a multifaceted process.
+> 
+> Given the multiple sources of uncertainty for GBS, some of which include the background rates of GBS among adults who received the vaccine co-administration with other vaccines, seasonality of GBS and underlying conditions at the time of vaccination, such as concurrent infection age at the time of administration, comorbid conditions, and even the differences in the distribution of the vaccine in the various health settings, and finally the system and methodology limitations with respect to being able to attribute causality. 
+> 
+> So we agree with the CDC and FDA that the assessment of post vaccine GBS is complex. The findings are preliminary, and these important considerations can have meaningful impact on the analyses. 
+> 
+> Pfizer is committed to the continuous monitoring and evaluation of the safety of Abrysvo. In addition to our routine pharmaco vigilance monitoring activities, we are conducting four different post-approval safety studies to ensure robust and continuous monitoring of GBS. And we believe this type of surveillance will provide additional data on the safety profile of Abrysvo, including the incidence and risk factors of GBS. 
+> 
+> We will continue to share our findings with CDC, FDA, and other stakeholders as they become available. And with over 3 million administrations in the older adult population to date, we believe Abrysvo is safe and effective and provides protection against RSV and its complications.
+> 
+> Consistent with CDC and FDA, we are here to support ACIP in their recommendations and have the common goal for the need for the more robust data to inform decision making with the ultimate goal, to reduce the public health burden of RSV amongst older patients.
+> 
+> We look forward to our continued partnership to ensure the optimal use of Abrysvo while prioritizing patient safety. And we thank you for your time and dedication to public health. 
+> 
+> ...
+> 
+> Amadea Britton, CDC [10:49:26]
+> 
+> While our concern of a genuine association between GBS and RSV vaccination may be increasing, there is insufficient evidence currently to confirm this association or to estimate the magnitude of increase.
+> 
+> Assessing the risk for GBS in more robust analyses and active vaccine safety surveillance systems will be crucial and is underway. 
+> 
+> ...
+> 
+> Amadea Britton, CDC [10:49:50]
+> 
+> The sensitivity of these surveillance systems means we are getting information before it is possible to definitively interpret it. So how can we be responsive to what we are learning while still accounting for this uncertainty?
+> 
+> Overall, the work group, endorses that any increase in potential risk of GBS should be placed in the context of the benefits of RSV vaccination, using our best understanding of the data we have available now.
+> 
+> Just a moment ago, Dr. Melgar summarized that from a population perspective, the estimated benefits of RSV vaccination outweigh the estimated risk for adults 60 and older. Benefits of RSV vaccination vary by age group and RSV incidence, and benefits likely also vary by individual level risk and by timing of vaccination relative to the RSV season. 
+> 
+> We also saw data from Dr. Woodruff demonstrating that adults with certain chronic conditions are at increased risk of severe RSV disease even at younger ages. 
+> 
+> ...
+> 
+> Amadea Britton, CDC [10:55:08]
+> 
+> A majority of work group members express that the balance of estimated benefits outweighed potential risk for all adults, 60 and older. However, the work group expressed that estimated benefits most clearly outweighed potential risks among adults 60 and older, who are at increased risk of severe RSV disease. 
+> 
+> This includes adults who are 60 and older with chronic medical conditions, such as chronic lung diseases, heart failure, immune compromise, those of advanced age, and those living in long term care facilities. Next slide.
+> 
+> ...
+> 
+> Amadea Britton, CDC [10:59:34]
+> 
+> In the interim, the work group wishes to affirm the importance of the RSV vaccination program. 
+> 
+> RSV is a disease that causes significant morbidity and mortality among persons across the age spectrum. 
+> 
+> The work group is cognizant that premature changes in the RSV vaccination program based on preliminary data, have the potential to limit access.
+> 
+> ...
+> 
+> Amadea Britton, CDC [11:00:41]
+> 
+> The 2023-2024 RSV season overlaid in dark blue here has returned to near pre-pandemic patterns. Next slide.
+> 
+> With this change, the work group concludes it is now advisable for providers and patients to consider timing of RSV vaccination as part of shared clinical decision making discussions. 
+> 
+> This is a result both of the return to predictable RSV seasonality, and as a way to maximize benefits of RSV vaccination as we continue ongoing safety monitoring.
+> 
+> For most older adults, benefits will be highest when RSV vaccination is given in the late summer or early fall, just before the onset of RSV season, so that vaccine recipients experience highest protection during the times of peak RSV transmission over the fall and winter. 
+> 
+> In addition, because clinical trial data suggests that protection will wane over time, vaccinating just before a season starts also maximizes protection for subsequent seasons, for which the vaccine offers protection. Next slide. 
+> 
+> This means that for adults ages 60 years and older, who remain unvaccinated and who decide with their healthcare provider to get an RSV vaccine, the best time for vaccination will be just before the start of the next RSV season.
+> 
+> To clarify the updated consideration is not a transition to a formal seasonal recommendation for RSV vaccination. This offers maximum flexibility and patients with infrequent healthcare contact may benefit from every opportunity to vaccinate. 
+> 
+> This is importantly also not a recommendation for annual re-vaccination. While re-vaccination may be recommended in the future, for now adults are only recommended a single dose.
+> 
+> Consideration of timing means when to time that single dose. In most of the United States RSV vaccination will have the most benefit if given in the late summer or early fall. 
+> 
+> ...
+> 
+> Amadea Britton, CDC [11:02:56]
+> 
+> In general, in the continental U.S., RSV season onset is between September and November. Next slide. 
+> 
+> This means that the ideal time to get vaccinated to ensure protection by the start of the RSV season will be August to October in most of the continental United States. Next slide.
+> 
+> ...
+> 
+> Amadea Britton, CDC [11:03:36]
+> 
+> I'll share other upcoming policy considerations being discussed by the adult RSV work group. Next slide.
+> 
+> At the June 2024 ACIP meeting, the adult RSV work group may address the potential FDA approval of Moderna mRNA 1345 vaccine for use in adults, 16 older, the potential FDA approval of GSK RSV vaccine for use in adults aged 50 to 59 at increased risk for RSV disease, and consideration of whether shared clinical decision making remains the preferred policy option. 
+> 
+> ...
+> 
+> Amadea Britton, CDC [11:06:21]
+> 
+> We have heard feedback from many partners that shared clinical decision making has been challenging to implement.
+> 
+> Today, the work group continues to endorse shared clinical decision making as we learn more about the estimated benefits and potential risks associated with the currently available RSV vaccines. 
+> 
+> However, the work group has begun reviewing evidence to deliberate on changing the current recommendation for adults 60 older from shared clinical decision making to a universal recommendation among adults older than a specific age cut cutoff, for example, 75 and older, and a risk based recommendation in adults, 50 and older up to that age cutoff.
+> 
+> ...
+> 
+> Amadea Britton, CDC [11:07:09]
+> 
+> The first ever respiratory virus season in which there were vaccines available to protect older adults against RSV disease is coming to a close. 
+> 
+> This is a new vaccine program and remains an evolving landscape with the potential for new products and expansion of current products into new age groups. 
+> 
+> Data from the season is still incoming. Over the coming months, CDC and the work group will be analyzing these data to inform discussion of future RSV vaccine policy for older adults.
+> 
+> Data from pre-licensure clinical trials and early findings from post licensure vaccine safety surveillance suggests the potential for increased risk of GBS after RSV vaccination in older adults. However, these early data are insufficient to confirm if there is an increased risk assessing the risk for GBS following receipt of the RSV vaccine among older adults and more robust analyses in active vaccine safety surveillance systems will be crucial and is underway. 
+> 
+> Currently the work group continues to endorse the benefits of RSV vaccination for adults 60 and older, especially those at increased risk of severe RSV disease, using shared clinical decision making.
+> 
+> Benefits can be maximized by administering RSV vaccine just before the start of RSV season. And the work group recommends that timing of RSV vaccination should be a part of the shared clinical decision making discussion.
+> 
+> ...
+> 
+> Amadea Britton, CDC [11:21:29]
+> 
+> The one slide I skipped, the considerations for a risk based recommendation, the work group has expressed that it sort of would do two separate things. 
+> 
+> The first is really target those people who are younger adults that are at increased risk while potentially avoiding people that are younger and healthier adults that have really low risk of severe RSV disease, in consideration of if the safety signal persists. 
+> 
+> But the other thing is that explicitly outlining risk conditions may be easier for providers to implement because as you guys saw from the NIS data, one of the issues is that there's not necessarily a healthcare provider recommendation. 
+> 
+> And so if there's a universal recommendation in those risk groups, it may be easier than for practices and providers to implement rather than a specific-- that rather than having to implement shared clinical decision making. So those are sort of two separate considerations for the risk based recommendation.
 
 
 ## Reported measles cases through Feb. 29 in the United States
