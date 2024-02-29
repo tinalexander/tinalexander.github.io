@@ -15,7 +15,7 @@ permalink: /notes/2024/02
 
 - **Source:** multiple sources
 - **Attribution:** multiple attributions
-- **Date:** compiled February 26, 2024
+- **Date:** compiled February 28, 2024
 
 > At least 39 cases confirmed or suspected, as of Feb. 26, across 17 states.
 >
