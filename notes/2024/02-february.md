@@ -11,6 +11,22 @@ permalink: /notes/2024/02
 
 # February 29, 2024
 
+## CDC official at advisory committee discussing measles
+
+- **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4/pop-out) 
+- **Attribution:** Advisory Committee on Immunization Practices meeting
+- **Date:** broadcasted February 29, 2024
+
+> Demetre Daskalakis, CDC [08:12:39]
+> 
+> And then finally, I just want to highlight measles. So again, a foe that we know.
+> 
+> So as of February 22nd, 2024, we have 35 cases of measles this year in 15 jurisdictions comparing to 58 cases of measles last year in 20. So that is not a good slope of the curve in terms of where we're going with measles. 
+> 
+> And remember measles is imminently preventable with safe and effective vaccines and it's populations and environments where coverage is low, where we're at risk. 
+> 
+> As we see more importations, we are a global community. As measles continues to increase in other parts of the world, these importations continue to happen. And when they land places where coverage is low, we are at risk for ongoing larger outbreaks.
+
 ## CDC advisory committee on GBS after RSV vaccines
 
 - **Source:** [livestream](https://video.ibm.com/channel/VWBXKBR8af4/pop-out) 
