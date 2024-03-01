@@ -1167,7 +1167,7 @@ permalink: /notes/2024/02
 > 
 > So what happened from a programmatic perspective after the fall updated 2023-24 COVID 19 vaccine policy vote?
 > 
-> Uncertainty around the recommendations prior to the meeting  madee planning for state and local vaccine programs challengin.
+> Uncertainty around the recommendations prior to the meeting  made planning for state and local vaccine programs challengin.
 > 
 > Vaccine orders had to be placed prior to knowing the groups for whom the vaccine would be recommended, stakeholder presentations, provider toolkits, and webpages, all had to be updated after the recommendation was made, which limited the available window for communication of the recommendation prior to the respiratory virus season.
 > 
