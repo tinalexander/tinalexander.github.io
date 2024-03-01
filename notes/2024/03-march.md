@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 1, 2024
 
+## CDC background on respiratory virus guidance
+
+- **Source:** emailed document
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received March 1, 2024
+
+> [2024-03-01_cdc_background-respiratory-virus-guidance.pdf](https://tinalexander.github.io/notes/attachments/2024-03-01_cdc_background-respiratory-virus-guidance.pdf)
+
 ## Reported measles cases through Mar. 1 in the United States
 
 - **Source:** multiple sources
