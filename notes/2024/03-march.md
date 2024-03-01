@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 1, 2024
 
+## Clermont County on suspect measles case in Ohio
+
+- **Source:** email
+- **Attribution:** Clermont County Public Health spokesperson Keith Robinson
+- **Date:** received March 1, 2024
+
+> Unfortunately we do not have any updates. It is still considered a suspect case. 
+
 ## CDC background on respiratory virus guidance
 
 - **Source:** emailed document
