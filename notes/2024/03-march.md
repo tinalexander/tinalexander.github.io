@@ -13,7 +13,7 @@ permalink: /notes/2024/03
 
 ## CDC official on recent xylazine trends
 
-- **Source:** Clinician Outreach and Communication Activity webinar
+- **Source:** Clinician Outreach and Communication Activity [webinar](https://emergency.cdc.gov/coca/calls/2024/callinfo_022924.asp)
 - **Attribution:** hosted by the Centers for Disease Control and Prevention
 - **Date:** occurred February 29, 2024
 
