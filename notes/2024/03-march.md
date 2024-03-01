@@ -11,13 +11,13 @@ permalink: /notes/2024/03
 
 # March 1, 2024
 
-## Reported measles cases through Feb. 29 in the United States
+## Reported measles cases through Mar. 1 in the United States
 
 - **Source:** multiple sources
 - **Attribution:** multiple attributions
-- **Date:** compiled February 29, 2024
+- **Date:** compiled March 1, 2024
 
-> At least 39 cases confirmed or suspected, as of Feb. 26, across 16 states.
+> At least 39 cases confirmed or suspected, as of Mar. 1, across 16 states.
 >
 > CDC tallied 35 cases in 15 states [as of Feb. 22](https://www.cdc.gov/measles/cases-outbreaks.html). Last year had 58 cases across 20 jurisdictions.
 > 
