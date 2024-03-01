@@ -11,6 +11,16 @@ permalink: /notes/2024/03
 
 # March 1, 2024
 
+## FDA official on naltrexone shortage cause
+
+- **Source:** email
+- **Attribution:** Food and Drug Administration official
+- **Date:** received March 1, 2024
+
+> On background, the shortage is due to increased demand the companies report they can’t currently meet. Supplies are anticipated to improve around Q2-Q3 as manufacturers acquire additional API and increase production output to meet demand.
+> 
+> As you noted, the naltrexone extended-release IM injection remains available, as well as other alternative agents. We’ll continue to monitor availability of these alternatives.
+
 ## Clermont County on suspect measles case in Ohio
 
 - **Source:** email
