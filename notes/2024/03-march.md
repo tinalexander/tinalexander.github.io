@@ -75,7 +75,7 @@ permalink: /notes/2024/03
 > 
 > Question [11:59:29]
 > 
-> A and then, so just to clarify, then what should they be looking for this coming season to judge, when to require masking? Is it going to be emergency room visits? Just help me understand what that's gonna look like.
+> And then, so just to clarify, then what should they be looking for this coming season to judge, when to require masking? Is it going to be emergency room visits? Just help me understand what that's gonna look like.
 > 
 > Mandy Cohen, CDC [11:59:41]
 > 
