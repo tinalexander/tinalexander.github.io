@@ -134,7 +134,7 @@ permalink: /notes/2024/03
 > 
 > Only one case, [as of Feb. 23](https://tinalexander.github.io/notes/2024/02#reported-measles-cases-in-missouri-for-2024-so-far).
 > 
-> **16. Michigan** (2)
+> **16. Michigan** (3)
 > 
 > - **Oakland County, MI** ([Feb. 23](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2024/02/23/measles)) international travel
 > - **Washtenaw County, MI** ([Mar. 3](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669))
