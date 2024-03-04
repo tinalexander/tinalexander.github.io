@@ -9,6 +9,16 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 4, 2024
+
+## Form 483 issued to Emergent Biosolutions
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** released by Food and Drug Administration
+- **Date:** received March 4, 2024
+
+> [2024-03-04_fda_foia-2024-2235.pdf](https://tinalexander.github.io/notes/attachments/2024-03-04_fda_foia-2024-2235.pdf)
+
 # March 1, 2024
 
 ## CDC director on new respiratory virus guidance
