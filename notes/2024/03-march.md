@@ -11,6 +11,48 @@ permalink: /notes/2024/03
 
 # March 4, 2024
 
+## CDC officials at webinar on respiratory virus guidance
+
+- **Source:** [livestream](https://www.youtube.com/watch?v=1dNrNrdeq8Q)
+- **Attribution:** published by the Centers for Disease Control and Prevention
+- **Date:** broadcasted March 4, 2024
+
+> Question [00:33:46]
+> 
+> Will COVID guidance for healthcare settings be changed and updated? And what about long term care facilities?
+> 
+> Demetre Daskalakis, CDC [00:33:52]
+> 
+> Thank you for that question. So there is current guidance for COVID 19, flu, and other respiratory viruses in healthcare settings.
+> 
+> As always, we are evaluating and reevaluating our guidance, but there's no change in that guidance at this time. 
+> 
+> Important to note that long-term care facilities are included among healthcare facilities.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:34:25]
+> 
+> The core of what to do when you've got the flu is found in these updated guidances, which is to say, please make sure you are staying home and you get sick, stay indoors until your symptoms are resolving, and you are fever free. And then of course you can go back out after that time period. 
+> 
+> What is different here though is the recommendation to use these additional precautions after your symptoms have improved and your fever has come down, whether that's wearing a mask, whether that's making sure you're maintaining distance, whether that's improving the ventilation around you, those are new additions when it comes to things like the flu and RSV.
+> 
+> The core remains the same: staying home when you get sick. But the addition of these other precautionary measures is something that is new and what something we believe will further enhance protection as folks are resolving from any of these three respiratory viruses.
+> 
+> ...
+> 
+> Question [00:42:22]
+> 
+> So does this new guidance just cover COVID, flu, and RSV? What about the common cold and other respiratory diseases?
+> 
+> Demetre Daskalakis, CDC [00:42:31]
+> 
+> So this is respiratory virus guidance. So very intentionally, it's meant to cover all of those respiratory viruses and more.
+> 
+> So if people are experiencing respiratory symptoms, the simple guidance is: stay home until those symptoms are better. And if you have a fever that fever has resolved without fever reducing agents for at least 24 hours. 
+> 
+> So short answer: it's really for all respiratory viruses and also covers other sort of syndromes that could cause respiratory illness.
+
 ## Reported measles cases through Mar. 4 in the United States
 
 - **Source:** multiple sources
