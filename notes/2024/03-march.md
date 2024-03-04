@@ -137,7 +137,8 @@ permalink: /notes/2024/03
 > **16. Michigan** (2)
 > 
 > - **Oakland County, MI** ([Feb. 23](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2024/02/23/measles)) international travel
-> - **Washtenaw County, MI** ([Mar. 3](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669)) 
+> - **Washtenaw County, MI** ([Mar. 3](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669))
+> - **Wayne COunty, MI** ([Mar. 3](https://www.waynecounty.com/departments/hhvs/wayne-county-public-health-has-confirmed-a-case-of.aspx)) adult, international travel
 > 
 > Unclear if additional cases.
 
