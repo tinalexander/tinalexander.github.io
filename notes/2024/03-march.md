@@ -23,7 +23,7 @@ permalink: /notes/2024/03
 > 
 > At this point in time, each of the U.S. influenza vaccine manufacturers have submitted updated regulatory files related to a trivalent influenza vaccine and approval of all the necessary regulatory submissions is on track for a 2024-25 TIV implementation for all licensed U.S. influenza vaccine manufacturers. 
 > 
-> But because quadravalent influenza vaccines will still be distributed in other parts of the world, some U.S. influenza vaccine manufacturers will continue to manufacture both TIVV and QIV for 2024-25. 
+> But because quadravalent influenza vaccines will still be distributed in other parts of the world, some U.S. influenza vaccine manufacturers will continue to manufacture both TIV and QIV for 2024-25. 
 > 
 > However, the TIV and the QIV will be licensed for such manufacturers, but only trivalent vaccine will be distributed in the United States. 
 > 
