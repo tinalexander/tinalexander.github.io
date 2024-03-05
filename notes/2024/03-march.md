@@ -13,11 +13,25 @@ permalink: /notes/2024/03
 
 ## CDC director on Florida's measles response
 
-- **Source:** [podcast](https://www.bloomberg.com/news/audio/2024-03-04/bloomberg-talks-cdc-s-cohen-talks-covid-fentanyl-podcast?sref=HXowpZpO)
-- **Attribution:** "Bloomberg Talks"
-- **Date:** published March 4, 2024
+- **Source:** [livestream](https://youtu.be/DouejNCKdYg)
+- **Attribution:** hosted by Bloomberg Television
+- **Date:** broadcasted March 4, 2024
 
+> Question [00:30:12]
 > 
+> So I want to ask you about the measles outbreak in Florida. The Florida surgeon general has contradicted the CDC's advice on COVID boosters, doesn't recommend them for people under 65 and also has said he would defer to parents on sending kids back to school there. So I have three questions for you: one, does the CDC have people on the ground in Florida. Two, what do you do when a state official contradicts your advice? And three, have you talked to him?
+> 
+> Mandy Cohen, CDC [00:30:48]
+> 
+> Well, so a couple of things, one, I want to say that the local health folks in Florida in Broward County have been doing a lot of good work here, with the school district. I believe there's eight, nine cases. They've been communicating with parents. The good news is the vast majority of kids are vaccinated, which is great news. If kids are vaccinated, they're protected from measles. And we've been working well with them. 
+> 
+> I will say that then the national organization of state health officers was the one who has really been clear about what have been standard practice, public health guidelines related to measles. And I appreciate their being the ones to help their fellow colleague understand where where practice should be. And I think there's been plenty of experts and others who have shared what, how we can protect our kids. 
+> 
+> So I'll leave it there.
+> 
+> As far as vaccinations, again, another place where time and again, we continue to see the data show that vaccines are safe and effective. And I hope with Friday's announcement, that folks are really seeing that we're trying to get folks to focus on the tools that are really going to save lives and that continues to be vaccine. So I'm hopeful for more and more alignment in that space. 
+> 
+> And when I talk to folks on both sides of the aisle, whether it's physician members of Congress or others, I hear a lot of a agreement along those lines.
 
 ## ASPR spokesperson on COVIDtests.gov suspension
 
