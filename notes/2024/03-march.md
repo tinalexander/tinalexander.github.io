@@ -11,6 +11,16 @@ permalink: /notes/2024/03
 
 # March 5, 2024
 
+## ASPR spokesperson on COVIDtests.gov suspension
+
+- **Source:** emailed statement
+- **Attribution:** Administration for Strategic Preparedness and Response spokesperson
+- **Date:** received March 5, 2024
+
+> COVIDTests.gov is suspending orders after March 8, 2024. ASPR has delivered over 1.8 billion free COVID-19 tests to the American people through COVIDTests.gov and direct distribution pathways and will continue distributing millions of tests per week to long-term care facilities, food banks, health centers, and schools.
+
+_The spokesperson also said that slowing case rates drove the decision to suspend ordering for the sixth round and that COVIDTests.gov could be used by ASPR again in the future._
+
 ## Washtenaw County on recent case of measles
 
 - **Source:** email
