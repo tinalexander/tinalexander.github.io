@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 5, 2024
 
+## CDC director on Florida's measles response
+
+- **Source:** [podcast](https://www.bloomberg.com/news/audio/2024-03-04/bloomberg-talks-cdc-s-cohen-talks-covid-fentanyl-podcast?sref=HXowpZpO)
+- **Attribution:** "Bloomberg Talks"
+- **Date:** published March 4, 2024
+
+> 
+
 ## ASPR spokesperson on COVIDtests.gov suspension
 
 - **Source:** emailed statement
