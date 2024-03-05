@@ -9,6 +9,16 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 5, 2024
+
+## Washtenaw County on recent case of measles
+
+- **Source:** email
+- **Attribution:** Washtenaw County Health Department spokesperson Susan Ringler Cerniglia
+- **Date:** received March 4, 2024
+
+> The Washtenaw case had recent international travel, yes. At this point, we’re not aware of any connections between this case and the other two Michigan ones reported.
+
 # March 4, 2024
 
 ## CDC officials at webinar on respiratory virus guidance
