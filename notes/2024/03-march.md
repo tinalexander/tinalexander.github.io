@@ -25,7 +25,7 @@ permalink: /notes/2024/03
 > 
 > Well, so a couple of things, one, I want to say that the local health folks in Florida in Broward County have been doing a lot of good work here, with the school district. I believe there's eight, nine cases. They've been communicating with parents. The good news is the vast majority of kids are vaccinated, which is great news. If kids are vaccinated, they're protected from measles. And we've been working well with them. 
 > 
-> I will say that then the national organization of state health officers was the one who has really been clear about what have been standard practice, public health guidelines related to measles. And I appreciate their being the ones to help their fellow colleague understand where where practice should be. And I think there's been plenty of experts and others who have shared what, how we can protect our kids. 
+> I will say that then the national organization of state health officers was the one who has really been clear about what have been standard practice, public health guidelines related to measles. And I appreciate their being the ones to help their fellow colleague understand where practice should be. And I think there's been plenty of experts and others who have shared what, how we can protect our kids. 
 > 
 > So I'll leave it there.
 > 
