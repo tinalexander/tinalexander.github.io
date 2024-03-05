@@ -11,6 +11,182 @@ permalink: /notes/2024/03
 
 # March 5, 2024
 
+## VRBPAC meeting on switch to trivalent influenza vaccines
+
+- **Source:** [livestream](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-march-5-2024-meeting-announcement)
+- **Attribution:** meeting of the Vaccines and Related Biological Products Advisory Committee
+- **Date:** broadcasted March 5, 2024
+
+> Jerry Weir, FDA [00:27:06]
+> 
+> Since that VRBPAC meeting in October, the FDA has engaged with all U.S. influenza vaccine manufacturers, both together, separately, and I'll note actually multiple times, in an effort to identify the necessary steps for a trivalent formulation transition for the next Northern hemisphere influenza season. 
+> 
+> At this point in time, each of the U.S. influenza vaccine manufacturers have submitted updated regulatory files related to a trivalent influenza vaccine and approval of all the necessary regulatory submissions is on track for a 2024-25 TIV implementation for all licensed U.S. influenza vaccine manufacturers. 
+> 
+> But because quadravalent influenza vaccines will still be distributed in other parts of the world, some U.S. influenza vaccine manufacturers will continue to manufacture both TIVV and QIV for 2024-25. 
+> 
+> However, the TIV and the QIV will be licensed for such manufacturers, but only trivalent vaccine will be distributed in the United States. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [00:35:00]
+> 
+> There is a movement. I mean, the WHO has been pretty clear in their recommendations, and we've had meetings with other regulators and other public health authorities over the last year. It's pretty clear that everyone will move in this direction. And I think you'll hear the same thing when the manufacturers give their report. 
+> 
+> It's just that, as we talked about in October, there are different requirements in different places. And I hate to say it was easier in the U.S., but it probably was a little easier in the U.S., everyone, every manufacturer already had a trivalent license. They were all licensed originally as trivalent. 
+> 
+> In some parts of the world, there was never a trivalent license. So that takes a little bit of time. But I think the short answer to your question is, yes, it is moving in this direction everywhere.
+> 
+> ...
+> 
+> Lisa Grohskopf, CDC [00:59:37]
+> 
+> Vaccine type is captured. It usually in general, at this point of the year, there's sort of two issues that that affect ability to determine vaccine type.
+> 
+> Generally in February, what we have are preliminary estimates. And one of the things that happens over the course of time between now and the fall is confirmation of vaccination status, and to the best extent possible what brand was received. At this point, we still have some that are self-report and it takes a little time to confirm that. 
+> 
+> The other issue generally has been, going back many years now, that sometimes we don't simply don't have enough occurrences of a specific vaccine type to be able to make an estimate. This is a particular issue, as a lot of you know, with LAIV, there hasn't been as much LAIV use in the network. 
+> 
+> There were times in the past where we were able to make estimates for LAIV specifically, and even a couple of seasons where there was possible to make an estimate for high dose specifically. But it remains to be seen whether that's going to be possible this season. And generally it's not something we have for preliminary estimates at this time of year.
+> 
+> ...
+> 
+> Stanley Perlman, VRBPAC [01:00:55]
+> 
+> When we think about the COVID 19 vaccines or SARS-CoV-2 vaccines, it's pretty clear that the vaccine efficacy may be listed as lower than it really is because everybody's been infected or vaccinated already. 
+> 
+> And I assume the same thing is true for flu, that you have efficacy of 50% of 40% or 60% because the underlying population, except perhaps for very young children, have all been infected or vaccinated already, so that the vaccine efficacy might actually be much higher if it was compared to a naive population. Is that fair? Do you think?
+> 
+> Lisa Grohskopf, CDC [01:01:35]
+> 
+> That's something that's been discussed increasingly in recent years and actually in recent months.
+> 
+> We do generally see higher-- a higher VE young children, and some of that may also be because of their immune system. So some of it it's a little bit difficult to tease out, I think mainly because with flu we do have three different generally, you know, a number of different viruses co circulating every year. 
+> 
+> VE tends to vary with the types and the subtypes. We also have the issue with match every year. So those-- there are all of those other things that are sort of conflating this entire picture. But that's an argument that has been made, yes.
+> 
+> ...
+> 
+> Rebecca Kondor, CDC [02:10:07]
+> 
+> Though we don't actually have with a hundred percent certainty, the reason for B Yamagata no longer circulating, some of my opinions are that as we mentioned, the significant activity in 2016 to 2018 of B Yamagata really boosted population immunity to B Yamagata.
+> 
+> Then at the same time, B Victoria was trying to stay relevant. And so it was going through major antigenic drift changes by changing their-- deleting different regions in the hemagglutinin, creating a very antigenically distinct set of viruses that overtook B Yamagat in prevalence worldwide during 2018 to 2019. 
+> 
+> And so when we were going into the pandemic, in 2020, we had very little B Yamagata in just a few countries, with low level detections. So already to begin with the amount of B Yamagata in the population was extremely low, and it was predominated by B Victoria. 
+> 
+> So then we had layers of the mitigation strategies and lockdowns, and really changes in behavior between all age groups during the pandemic, which really led to global decreases in influenza activity. And, and so, this I think is the added factor that we had the mitigation strategies for the COVID 19 pandemic, which really were effective in decreasing influenza circulation at the same time. 
+> 
+> So you can hypothesize that you needed to still have initial seeding of the population to stay relevant. And in this case, this is overwhelmingly B Victoria. And again, it's an antigenically distinct B Victoria with lower levels of population immunity, having a higher fitness advantage than the B Yamagata viruses that were previously circulating.
+> 
+> ...
+> 
+> Rebecca Kondor, CDC [02:12:20]
+> 
+> So going forward, we're continuing to supply national influenza centers with assays to lineage type influenza B, and recommending that they continue to do B lineage assays. This is true not only for the global influenza surveillance and response network, but also for our U.S. virologic surveillance. 
+> 
+> So we're still going to be testing for it going forward. We're not going to all of a sudden stop our testing algorithms because I agree it's an important thing to continue to monitoring, to have more certainty, but I hope I showed that all of the epidemics for influenza B have really been only B Victoria since 2019. 
+> 
+> And so the real question is the risk, that the committee was asking, is what's the risk of a B Yamagata causing an epidemic? And at this point we see that the risk is extremely low.
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:29:37]
+> 
+> It's notable that since the COVID 19 pandemic, the U.S. influenza vaccine demand and coverage rates have actually declined in the U.S. despite vaccine supply surplus. 
+> 
+> Therefore we'd like to emphasize that special care be used in communicating the TIV transition to maintain influenza vaccine confidence and acceptance. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:29:37]
+> 
+> It's notable that since the COVID 19 pandemic, the U.S. influenza vaccine demand and coverage rates have actually declined in the U.S. despite vaccine supply surplus. 
+> 
+> Therefore we'd like to emphasize that special care be used in communicating the TIV transition to maintain influenza vaccine confidence and acceptance. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:32:56]
+> 
+> This decline has been observed among all age and risk groups.
+> 
+> In the current season, the demand is even lower than during the few years prior to the pandemic.
+> 
+> Of note, this decline has occurred in the face of consistent influenza vaccine supply surplus in the U.S. 
+> 
+> We are concerned about the transition from QIV to TIV, which could potentially give rise to further vaccine hesitancy. 
+> 
+> We call on your support and that of the CDC in providing clear messaging to accompany this transition, the most significant change in seasonal influenza vaccination in many years. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:35:16]
+> 
+> Since October 2023, industry has worked closely with CBER in making the transition work in the U.S. for the Northern hemisphere, 24-25 season.
+> 
+> However, WHOA, EMA, MHRA in the UK, and most other regulatory agencies around the world are targeting the Northern hemisphere 25-26 season or later for the transition.
+> 
+> Of note, EMA has communicated that the transition will take longer because the situation in Europe is more complex compared to the U.S., but they are prioritizing the transition of live attenuated influenza vaccine to a trivalent composition.
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:38:29]
+> 
+> As noted earlier, industry is preparing a first draft of a formulation change framework to include input from a broad selection of stakeholders and organizations, based on the lessons learned from the B Yamagata removal. 
+> 
+> The workshop is planned to take place with WHO collaborating centers, essential research laboratories, and industry partners in July. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [03:42:50]
+> 
+> You alluded to some of the challenges that might cause for vaccine confidence, demand, etc. 
+> 
+> But I do think having the full U.S. supply a single composition will help from a program perspective, a communications perspective, and being able to kind of share those messages to help maintain our vaccine confidence. 
+> 
+> ...
+> 
+> David Greenberg, Sanofi [03:43:56]
+> 
+> All the manufacturers have, or will have, their approvals for trivalent vaccine. So to that extent, this coming season really won't be different from a supply situation. Each of the manufacturers are expected to provide supply as needed to meet demand. 
+> 
+> So I don't believe any contingency is needed for this season. As I say, the manufacturers have or will have their TIV licenses. So manufacturers are moving forward with the annual strain change submissions to FDA, which come come in shortly, probably this week and, and the manufacturing is continuing. 
+> 
+> So I don't think there's a need for a plan B for this season. It appears that everything is in place.
+> 
+> ...
+> 
+> David Greenberg, Sanof [03:45:24]
+> 
+> Certainly industry is looking at keeping in mind and working on future influenza vaccines. You mentioned mRNA, there are others.
+> 
+> There are discussions about the formulations of future influenza vaccines. Again, that just go beyond just a strain selection, but quantities of antigens, perhaps having as discussed, I think at the last VRBPAC meeting, around having perhaps two H3 viruses or two H1 viruses, depending on the epidemiology and surveillance. 
+> 
+> So each of the manufacturers are considering these on their own. 
+> 
+> I think you've asked a good question in how does industry proceed? Obviously those are gonna be research in the labs and clinical trials, which, you'll know of through public disclosure and discussions that each of the manufacturers will have with the FDA. 
+> 
+> So I can't predict what direction all of that is going to go, but it'll be-- each of the manufacturers will progress in their research programs, clinical development programs, and then you'll see that in future years.
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [05:22:23]
+> 
+> I think we've come a long way in about six months since our last meeting, when we heard that it might be impossible to exclude the B Yamagata from the vaccine, even though it had stopped circulating at least in the United States. And I think we should congratulate both FDA and the manufacturers of making this possible because the problems seemed to be totally logistics. 
+> 
+> I think we need also to pay attention to what Dr. Greenberg said about misinterpreting our action as not getting rid of something that was causing a problem in the vaccine, but getting rid of something which was unnecessary in the vaccine. 
+> 
+> We're in a very difficult period now where there's increasing inappropriate suspicion about our vaccines. And I think we can make this as an example of how we can respond appropriately to changes in ecology and epidemiology.
+> 
+> ...
+> 
+> David Kaslow, FDA [05:33:32]
+> 
+> I'd like to start by thanking VRBPAC for the critical and probing questions on influenza vaccine composition, starting several convenings ago. VRBPAC's call to action to exclude the B Yamagata lineage antigen component from the quadrivalent influenza vaccine, as soon as possible, was heard globally, and by a broad range of stakeholders, culminating in the opportunity for today's vote to recommend trivalent formulations only for use in the U.S.
+> 
+> It's a case study on the impact of VRBPAC and other advisory committees. It also well positions an orderly and timely switch to trivalent formulations for all influenza vaccines for use in the 2024-2025 respiratory virus season in the U.S. 
+
 ## CDC director on Florida's measles response
 
 - **Source:** [livestream](https://youtu.be/DouejNCKdYg)
