@@ -9,6 +9,16 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 6, 2024
+
+## CDC spokesperson on ICATT program for COVID-19
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received March 6, 2024
+
+> Through our partnership with pharmacies, CDC will continue offering free COVID-19 testing for uninsured people who are symptomatic or have been exposed. There is an estimated 10,000 Increasing Community Access to Testing (ICATT) sites that offer testing in 49 states, Puerto Rico and Washington DC.  To find a testing location near you visit https://testinglocator.cdc.gov/ .
+
 # March 5, 2024
 
 ## VRBPAC meeting on switch to trivalent influenza vaccines
