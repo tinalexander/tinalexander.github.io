@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 6, 2024
 
+## Florida's health department on measles outbreak details
+
+- **Source:** emailed statement
+- **Attribution:** Florida Department of Health spokesperson Grant Kemp
+- **Date:** received March 6, 2024
+
+> Thank you for reaching back out. Pursuant to Section 381.0031(6), F.S., all information contained in epidemiological investigations is confidential. This includes details regarding cases or exposures. The Department continues to work with community partners and is dedicated to protecting all Floridians as investigations continue. I will provide an updated statement to you should the need arise.
+
 ## CDC spokesperson on ICATT program for COVID-19
 
 - **Source:** emailed statement
