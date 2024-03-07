@@ -9,6 +9,19 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 7, 2024
+
+## FOIA responses from CDC on COVID-19 and on mpox
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Centers for Disease Control and Prevention
+- **Date:** received March 6, 2024
+
+> [2024-03-06_cdc_foia-23-00439.pdf](https://tinalexander.github.io/notes/attachments/2024-03-06_cdc_foia-23-00439.pdf)
+
+> [2024-03-06_cdc_foia-22-02026-ocr-compressed-1-of-2.pdf](https://tinalexander.github.io/notes/attachments/2024-03-06_cdc_foia-22-02026-ocr-compressed-1-of-2.pdf)
+> [2024-03-06_cdc_foia-22-02026-ocr-compressed-2-of-2.pdf](https://tinalexander.github.io/notes/attachments/2024-03-06_cdc_foia-22-02026-ocr-compressed-2-of-2.pdf)
+
 # March 6, 2024
 
 ## Florida's health department on measles outbreak details
