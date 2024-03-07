@@ -114,7 +114,7 @@ permalink: /notes/2024/03
 > 
 > **17. Illinois** (1)
 > 
-> - **Chicago, IL** ([Mar. 7](https://view.citynews.chicago.gov/?qs=872362ecb3f5805855c26a5289a6cbdf26dd11a7a691eb39a85bb4b153893847ce42efd492abd83c18e4573afe8240531ada65c54b4f1ca299420d9cdfef58e613ccdb0eadc3de7fbddda30391a1e3c7)) no recent travel
+> - **Chicago, IL** ([Mar. 7](https://view.citynews.chicago.gov/?qs=872362ecb3f5805855c26a5289a6cbdf26dd11a7a691eb39a85bb4b153893847ce42efd492abd83c18e4573afe8240531ada65c54b4f1ca299420d9cdfef58e613ccdb0eadc3de7fbddda30391a1e3c7)) no recent travel, but interacted with travelers
 
 ## FOIA responses from CDC on COVID-19 and on mpox
 
