@@ -17,7 +17,7 @@ permalink: /notes/2024/03
 - **Attribution:** multiple attributions
 - **Date:** compiled March 7, 2024
 
-> At least 43 cases confirmed or suspected, as of Mar. 7, across 16 states.
+> At least 44 cases confirmed or suspected, as of Mar. 7, across 17 states.
 >
 > CDC tallied 41 cases in 16 states [as of Feb. 29](https://www.cdc.gov/measles/cases-outbreaks.html). Last year ended with 58 cases across 20 jurisdictions.
 > 
@@ -111,6 +111,10 @@ permalink: /notes/2024/03
 > - **Oakland County, MI** ([Feb. 23](https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2024/02/23/measles)) international travel
 > - **Washtenaw County, MI** ([Mar. 3](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669))
 > - **Wayne COunty, MI** ([Mar. 3](https://www.waynecounty.com/departments/hhvs/wayne-county-public-health-has-confirmed-a-case-of.aspx)) adult, international travel
+> 
+> **17. Illinois** (1)
+> 
+> - **Chicago, IL** ([Mar. 7](https://view.citynews.chicago.gov/?qs=872362ecb3f5805855c26a5289a6cbdf26dd11a7a691eb39a85bb4b153893847ce42efd492abd83c18e4573afe8240531ada65c54b4f1ca299420d9cdfef58e613ccdb0eadc3de7fbddda30391a1e3c7)) no recent travel
 
 ## FOIA responses from CDC on COVID-19 and on mpox
 
