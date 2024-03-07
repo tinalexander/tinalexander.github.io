@@ -100,7 +100,7 @@ permalink: /notes/2024/03
 > 
 > **14. Indiana** (1)
 > 
-> - **Lake County, IN** ([Feb. 23](https://events.in.gov/event/idoh_news_release_health_department_reports_first_measles_case_in_5_years?utm_campaign=widget&utm_medium=widget&utm_source=State+of+Indiana))
+> - **Lake County, IN** ([Feb. 23](https://events.in.gov/event/idoh_news_release_health_department_reports_first_measles_case_in_5_years?utm_campaign=widget&utm_medium=widget&utm_source=State+of+Indiana), [Mar. 7](https://wonder.cdc.gov/nndss/static/2024/09/2024-09-table900.html)) indigenous
 > 
 > **15. Missouri** (1)
 > 
