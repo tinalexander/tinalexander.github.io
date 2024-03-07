@@ -20,7 +20,7 @@ permalink: /notes/2024/03
 > [2024-03-06_cdc_foia-23-00439.pdf](https://tinalexander.github.io/notes/attachments/2024-03-06_cdc_foia-23-00439.pdf)
 
 > [2024-03-06_cdc_foia-22-02026-ocr-compressed-1-of-2.pdf](https://tinalexander.github.io/notes/attachments/2024-03-06_cdc_foia-22-02026-ocr-compressed-1-of-2.pdf)
-> [2024-03-06_cdc_foia-22-02026-ocr-compressed-2-of-2.pdf](https://tinalexander.github.io/notes/attachments/2024-03-06_cdc_foia-22-02026-ocr-compressed-2-of-2.pdf)
+> <br>[2024-03-06_cdc_foia-22-02026-ocr-compressed-2-of-2.pdf](https://tinalexander.github.io/notes/attachments/2024-03-06_cdc_foia-22-02026-ocr-compressed-2-of-2.pdf)
 
 # March 6, 2024
 
