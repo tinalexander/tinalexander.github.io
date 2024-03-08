@@ -9,6 +9,22 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 8, 2024
+
+## Chicago health department on new measles case
+
+- **Source:** emailed statement
+- **Attribution:** Chicago health department spokesperson
+- **Date:** received March 8, 2024
+
+> CHICAGO - A confirmed case of measles was identified in a resident at a new arrivals shelter in Pilsen and the City of Chicago is responding with a host of resources in order to protect residents at the shelter. The case of measles was identified in a young child who has recovered and is no longer infectious. A case investigation is underway to ensure those they may have come in contact with while infectious are informed and vaccinated.
+> 
+> Following public health protocol, the Chicago Department of Public Health (CDPH) is asking all residents of the shelter at 2241 S. Halsted St. to remain in place until it can be determined whether they are vaccinated against measles and therefore immune to the infectious disease. Those who have been vaccinated can go about their normal business while those who have not been vaccinated will have to remain indoors to watch for symptoms. All unvaccinated residents will be screened for symptoms and offered the measles vaccine.
+> 
+> CDPH, the Department of Family and Support Services (DFSS) and other City agencies will be establishing a process to begin assessing the vaccination status of all residents of the shelter early Friday, March 8. DFSS has secured increased meal services for those who will have to stay on site, and CDPH is delivering additional masks and other personal protective equipment for residents and staff.    
+> 
+> Most Chicagoans are routinely vaccinated in childhood and therefore not at high risk. Anyone who is not vaccinated against measles should do so. MMR vaccine is available at most doctor’s offices and pharmacies. Illinois children as young as 10 years-old can get vaccinated at pharmacies under Illinois law. CDPH Immunization clinics provide MMR vaccine for no out-of-pocket cost to any child 0–18 years and uninsured adults 19 and older. For more information on measles please visit the CDPH web site.
+
 # March 7, 2024
 
 ## Reported measles cases through Mar. 7 in the United States
