@@ -11,6 +11,96 @@ permalink: /notes/2024/03
 
 # March 8, 2024
 
+## FDA's Jim Jones on food chemical safety 
+
+- **Source:** webinar recording
+- **Attribution:** published by the Alliance for a Stronger FDA
+- **Date:** occurred March 8, 2024
+
+> Jim Jones, FDA [00:08:16]
+> 
+> When we have more resources we can do more. And it is clear that Americans expect the FDA to be doing more to ensuring the safety of their foods. We can see this in state's legislative agendas.
+> 
+> Both in bills introduced and passed, there is significant movement to ban certain food additives and to established limits of environmental contaminants in foods, but a strong national food safety system is not built state by state. 
+> 
+> Clearly having states issue these types of bans, while within their rights under our current regulatory system, is not ideal. States play a crucial role as our partners in regulating the food supply, coordinating our efforts is integral to our success, but the FDA needs to lead the way in food and chemical safety, because your access to safe foods should not depend on where you live in the United States.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:09:19]
+> 
+> We must be resourced to do the labor intensive work that is required of a science based agency in chemical reassessment. And as things stand, we are not.
+> 
+> A proliferation of new food ingredients, food contact materials, and production techniques has not only increased the workload in this area, but has also increased the complexity of the work.
+> 
+> With a budget that has no growth and accounting for inflation, our resource base is actually decreasing. We are limited in how much we can do in this space. 
+> 
+> ...
+> 
+> Jim Jones, FDA [00:11:38]
+> 
+> I want to also confirm what that I have heard the calls for providing timelines. I am hopeful that by FY 25, we will be setting meaningful and realistic timeframes. 
+> 
+> This is not an aspirational reassessment list. It is a to-do list and we are committed to a deliberate science based process, as I've already noted, this is what is doable within our current staffing. 
+> 
+> ...
+> 
+> Jim Jones, FDA [00:12:04]
+> 
+> These are staff that are stretched thin, conducting both premarket and postmarket safety reviews. 
+> 
+> We hope to help address this issue under the proposed human foods program, where we will have staff dedicated to specific scientific chemical assessment teams, one unit dedicated to pre-market safety evaluations, and one dedicated to postmarket safety reviews. This will help ensure that there is adequate attention to both sides of our food chemical safety framework. 
+> 
+> And if properly resourced, I feel confident we can make a sizeable and sustainable changes to food chemical safety in the future. 
+> 
+> ...
+> 
+> Jim Jones, FDA [00:15:45]
+> 
+> Many consumers may be surprised to learn that FDA does not have the authority to require companies to conduct end product testing for heavy metals in food. We are working to change this and have asked Congress for additional authority to require product testing for foods for contaminants and make records of results available for FDA review. 
+> 
+> In the meantime, we would like domestic and foreign suppliers to voluntarily conduct end product testing to ensure the safety of their products. Moreover, for foreign suppliers, more must be done by the FDA and by industry to ensure they're meeting their obligations under FSMA. 
+> 
+> The data clear that we are out there with limited resources and limited coverage and here too, we would need to be resourced to make the changes needed to our compliance program. 
+> 
+> ...
+> 
+> Jim Jones, FDA [00:38:00]
+> 
+> When you've got limited resources, which we do, but so everybody does, I understand that and it is really important that you deploy those resources in the way that can generate the most societal benefit. We think, and then this is true across the U.S. government, and it's actually been true across administrations, that risk is the best way to do that. 
+> 
+> I realize not everybody agrees with that, but that's how the U.S. government has approached that issue. And so we're generally gonna be biased towards looking at things that have potential for higher risk, because that's a way we can provide social benefits the best. 
+> 
+> If you're looking at chemicals that, say you spend a bunch of FTE and a bunch of a couple of years looking at a chemical that had no risk, but you spent all this time on it, you lost the opportunity to have been evaluating a chemical that had a bunch of risk, and you could have generated public health protection. 
+> 
+> That being said, as I say, as we as an organization say, we are guided by sound science and the rule of law and the Delaney clause is part of the law in this country and in the laws that we are implementing. And so we have to give attention to that.
+> 
+> That is why Red Dye Number Three is on our list. It may not have a risk profile that we'd be worried about, but it actually has a hazard profile that the statute says we have to give, pay attention to, and so we will.
+> 
+> So we are committed to meeting our responsibilities under the Delaney clause. But I'm certainly not going to throw all of our energy into Delaney clause related chemicals when there are other chemicals that likely pose greater risk to the people in this country, because that fundamentally we want to make sure we're reducing risk.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:48:23]
+> 
+> The one area that we, it has gotten us very focused on, is a FSMA requirement. It's the foreign verification supplier program, which puts a duty on, a requirement on importers to ensure that they are bringing the system of requirements that are supplied domestically to whoever they are buying from in a foreign country. 
+> 
+> And we are, when we go back and look at our inspections that are focused on foreign verification supplier programs, we're finding that there's a high degree of non-compliance. So, we are going to focus energy going forward in a combination of education and enforcement in that particular space, helping the importing community make sure that they understand their duty here and that they're effectuating it, and also taking enforcement action as well at the combination of educating and compliance are going to be a focus going forward. 
+> 
+> But it does seem to be that one of the FSMA of requirements that's the fundamentally about imports is, there's a high degree of non-compliance at this point. So that that's definitely going to be an area where we are focusing attention.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:50:05]
+> 
+> So there are 15 million lines of imported food coming to the United States. And a line could be as small as an importer for a small grocery bringing in three cases of olive oil. That could be one line, but a line could also be 10,000 pounds of bananas coming from Guatemala. 
+> 
+> But there are 15 million of these. And, we actually we get notice of each of them, which we are able to put into a system, and we actually use an AI machine learning approach to figuring out which of these lines we are going to do, be doing sampling. 
+> 
+> Unfortunately, we're only able to do a little over a thousand samples a year, which isn't clearly not going to give you the type of surveillance one would need to be highly confident that you're picking up through surveillance violations. 
+> 
+> So we are deploying artificial intelligence to our limited resources, but they're quite limited. So there is inspection that involves sampling that happens at the border, but it is a very, very small fraction of the entire volume of what is coming into the United States.
+
 ## CDC notification on varicella exposures from Kenyan refugees
 
 - **Source:** newsletter
