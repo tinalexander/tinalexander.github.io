@@ -11,6 +11,30 @@ permalink: /notes/2024/03
 
 # March 11, 2024
 
+## HHS officials at annual budget press conference
+
+- **Source:** [livestream](https://www.hhs.gov/live/index.html)
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred March 11, 2024
+
+> Andi Fristedt, CDC [00:52:58]
+> 
+> On the Bridge Access Program, this has been such an important way, with the secretary's leadership that we have really been able to make sure that we have vaccines available for uninsured, underinsured folks across the country. 
+> 
+> And as the question noted, we have a really important proposal in the budget today around Vaccines for Adults to make sure that we're continuing to prioritize that for uninsured adults across the country, building both on the success we have with the Bridge Access Program and on the success that we have for Vaccines for Children.
+> 
+> So we'll continue to work with the department when we think about the path forward for the Bridge Access Program, but really looking for a long term sustainable option as we're seeing in the president's budget today.
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:53:41]
+> 
+> This department worked really hard to ensure that as we started to transition away from the stage of the pandemic, stage of COVID, into one where we could get back to more like normal that we didn't forget those who often get left behind. And our Bridge Access Program was especially that it was our effort to ensure that all those who are under or uninsured, didn't miss out on the vaccines and the treatments that keep us all healthy. 
+> 
+> And it is very easy for us to regress and go back to those days where we didn't have to think about those things and where we left a lot of people behind.
+> 
+> We will do everything we can with the money we have to keep access to the treatments and therapies that people need available, whether or not they have good health insurance. It's just incumbent upon us to do so. And I think COVID taught us that the more we do so, the quicker our economy and our health will recover, because as they say, no one is safe until everyone is safe.
+
 ## Reported measles cases through Mar. 11 in the United States
 
 - **Source:** multiple sources
