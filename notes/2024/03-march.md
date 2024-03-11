@@ -9,6 +9,16 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 11, 2024
+
+## CMS spokesperson on Wegovy approval
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Medicare & Medicaid Services spokesperson
+- **Date:** received March 11, 2024
+
+> CMS is committed to ensuring that people have access to treatments and treatment options that improve health outcomes. With the recent change in the FDA approved use for Wegovy (semaglutide), current Medicare Part D and Medicaid coverage rules apply. To ensure Medicare prescription drug (Part D) plans have the flexibility to provide enrollees access to Part D drugs that reflect the latest developments and clinical guidelines, Part D plans may add drugs to their formularies, remove restrictions, or move drugs to lower cost share tiers at any time during the plan year. CMS is reviewing the FDA’s action to expand use of Wegovy to reduce the risk of cardiovascular death, heart attack and stroke in adults with cardiovascular disease and either obesity or overweight, and will share additional information, as appropriate.
+
 # March 8, 2024
 
 ## FDA's Jim Jones on food chemical safety 
