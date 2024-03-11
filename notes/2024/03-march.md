@@ -49,7 +49,7 @@ permalink: /notes/2024/03
 > 
 > - **Los Angeles, CA** ([Feb. 1](http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=4625)) international travel, arrived on TK 009 from Istanbul
 > - **San Diego, CA** ([Feb. 2](https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/cahan/communications_documents/2-2-24.pdf)) international travel, 1 years old, not linked to Los Angeles
-> - **Sacramento County, CA** ([Mar. 8](https://dhs.saccounty.gov/PUB/Pages/Communicable-Disease-Control/GI-Measles.aspx), [Mar. 11]](https://www.cbsnews.com/sacramento/news/hundreds-possibly-exposed-after-measles-case-confirmed-at-sacramento-hospital/)) from El Dorado County
+> - **Sacramento County, CA** ([Mar. 8](https://dhs.saccounty.gov/PUB/Pages/Communicable-Disease-Control/GI-Measles.aspx), [Mar. 11](https://www.cbsnews.com/sacramento/news/hundreds-possibly-exposed-after-measles-case-confirmed-at-sacramento-hospital/)) from El Dorado County
 > 
 > **7. Maryland** (1)
 > 
