@@ -33,7 +33,7 @@ permalink: /notes/2024/03
 - **Attribution:** multiple attributions
 - **Date:** compiled March 12, 2024
 
-> At least 52 cases confirmed or suspected, as of Mar. 12, across 17 states.
+> At least 55 cases confirmed or suspected, as of Mar. 12, across 17 states.
 >
 > CDC tallied 45 cases in 17 states [as of Feb. 29](https://www.cdc.gov/measles/cases-outbreaks.html). Last year ended with 58 cases across 20 jurisdictions.
 > 
@@ -132,13 +132,16 @@ permalink: /notes/2024/03
 > - **Washtenaw County, MI** ([Mar. 3](https://www.washtenaw.org/CivicAlerts.aspx?AID=2669))
 > - **Wayne COunty, MI** ([Mar. 3](https://www.waynecounty.com/departments/hhvs/wayne-county-public-health-has-confirmed-a-case-of.aspx)) adult, international travel
 > 
-> **17. Illinois** (5)
+> **17. Illinois** (8)
 > 
 > - **Chicago, IL** ([Mar. 7](https://view.citynews.chicago.gov/?qs=872362ecb3f5805855c26a5289a6cbdf26dd11a7a691eb39a85bb4b153893847ce42efd492abd83c18e4573afe8240531ada65c54b4f1ca299420d9cdfef58e613ccdb0eadc3de7fbddda30391a1e3c7)) no recent travel, but interacted with travelers
 > - **Chicago, IL** ([Mar. 8](https://www.chicago.gov/city/en/depts/cdph/provdrs/health_protection_and_response/news/2024/march/cdph-press-release-03-08-2024.html)) in new arrivals shelter
 > - **Chicago, IL** ([Mar. 10](https://www.chicago.gov/city/en/depts/cdph/provdrs/health_protection_and_response/news/2024/march/cdph-press-release-03-10-2024_second-measles-case.html)) second in new arrivals shelter
 > - **Chicago, IL** ([Mar. 11](https://view.citynews.chicago.gov/?qs=5a1fe2b515a11e1cf7d949648a01e2d83f6b75c3d2106a884e9c22474537526e47f255ca3296d7db90544b497ac7b7efd835f5f771b1d8b33d08bd148d226138460b49c0166cc8c8806d05de949b30b6)) third in new arrivals shelter, adult
 > - **Chicago, IL** ([Mar. 11](https://view.citynews.chicago.gov/?qs=5a1fe2b515a11e1cf7d949648a01e2d83f6b75c3d2106a884e9c22474537526e47f255ca3296d7db90544b497ac7b7efd835f5f771b1d8b33d08bd148d226138460b49c0166cc8c8806d05de949b30b6)) fourth in new arrivals shelter, adult
+> - **Chicago, IL** ([Mar. 12](https://view.citynews.chicago.gov/?qs=a841b060b149d504b6d4060e6a67f7fee3a46e97520ff58e60d6b646c39807cce56e15afc7edd30a70051643fcb470d9b7fc516b3c4d55d660fd72898a6b9f9123b579426dc370feb2ff8bdbb5b2686a)) fifth in new arrivals shelter
+> - **Chicago, IL** ([Mar. 12](https://view.citynews.chicago.gov/?qs=a841b060b149d504b6d4060e6a67f7fee3a46e97520ff58e60d6b646c39807cce56e15afc7edd30a70051643fcb470d9b7fc516b3c4d55d660fd72898a6b9f9123b579426dc370feb2ff8bdbb5b2686a)) sixth in new arrivals shelter
+> - **Chicago, IL** ([Mar. 12](https://view.citynews.chicago.gov/?qs=a841b060b149d504b6d4060e6a67f7fee3a46e97520ff58e60d6b646c39807cce56e15afc7edd30a70051643fcb470d9b7fc516b3c4d55d660fd72898a6b9f9123b579426dc370feb2ff8bdbb5b2686a)) seventh in new arrivals shelter
 
 # March 11, 2024
 
