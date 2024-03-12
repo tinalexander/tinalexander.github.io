@@ -9,7 +9,15 @@ permalink: /notes/2024/03
 
 <br>
 
-# March 11, 2024
+# March 12, 2024
+
+## CDC spokesperson on deployment to Chicago measles outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson David Daigle
+- **Date:** received March 12, 2024
+
+> CDC is sending a team of experts to support the local response to the recent measles cases with arrival expected today (12 March). CDC continues to recommend the safe and effective MMR vaccination as part of the routine immunizations schedule for all children and adults, with special guidance for international travel. We will continue to provide updates as more information becomes available. 
 
 ## Reported measles cases through Mar. 12 in the United States
 
@@ -123,6 +131,8 @@ permalink: /notes/2024/03
 > - **Chicago, IL** ([Mar. 10](https://www.chicago.gov/city/en/depts/cdph/provdrs/health_protection_and_response/news/2024/march/cdph-press-release-03-10-2024_second-measles-case.html)) second in new arrivals shelter
 > - **Chicago, IL** ([Mar. 11](https://view.citynews.chicago.gov/?qs=5a1fe2b515a11e1cf7d949648a01e2d83f6b75c3d2106a884e9c22474537526e47f255ca3296d7db90544b497ac7b7efd835f5f771b1d8b33d08bd148d226138460b49c0166cc8c8806d05de949b30b6)) third in new arrivals shelter, adult
 > - **Chicago, IL** ([Mar. 11](https://view.citynews.chicago.gov/?qs=5a1fe2b515a11e1cf7d949648a01e2d83f6b75c3d2106a884e9c22474537526e47f255ca3296d7db90544b497ac7b7efd835f5f771b1d8b33d08bd148d226138460b49c0166cc8c8806d05de949b30b6)) fourth in new arrivals shelter, adult
+
+# March 11, 2024
 
 ## HHS officials at annual budget press conference
 
