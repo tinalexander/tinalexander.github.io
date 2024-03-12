@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 12, 2024
 
+## Coconino County spokesperson on new measles case
+
+- **Source:** email
+- **Attribution:** Coconino County Health and Human Services spokesperson Trish Lees
+- **Date:** received March 12, 2024
+
+> As of today, CCHHS has not identified a link to the Maricopa County cases or to international travel.
+
 ## CDC spokesperson on deployment to Chicago measles outbreak
 
 - **Source:** emailed statement
