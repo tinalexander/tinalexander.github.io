@@ -9,6 +9,22 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 13, 2024
+
+## California health department on additional measles cases
+
+- **Source:** emailed statement
+- **Attribution:** California Department of Public Health spokesperson
+- **Date:** received March 13, 2024
+
+> The California Department of Public Health (CDPH) is aware of four reported measles cases statewide. Cases have been linked to travel to countries with epidemics in the wake of decreased routine immunization. So far, the number of measles cases diagnosed recently in California is similar to pre-pandemic levels. Due to the limited number of cases, the Department is not releasing additional identifiable information about the cases, including the county of residence. 
+>  
+> We are continuing to monitor for cases, coordinate laboratory testing, provide consultation and facilitate coordination and contact tracing among local health departments, as well as communicate with CDC.  
+>  
+> Measles is an acute, highly contagious viral disease that can spread quickly in unvaccinated populations. Measles can be dangerous, especially for babies and young children, pregnant persons, and persons with compromised immune systems. CDPH urges all families to contact their pediatrician or local health department to help get their children up to date on vaccinations. In addition, CDPH urges unvaccinated adults to talk with their health care provider or local health department about the measles vaccine.  Call your healthcare provider immediately if you think you or your child have been exposed to measles.  
+>  
+> More information and current data can be found on the CDPH measles webpage.
+
 # March 12, 2024
 
 ## Coconino County spokesperson on new measles case
