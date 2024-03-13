@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 13, 2024
 
+## Measles air contact investigations from 2024-01-01 to 2024-02-20
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Centers for Disease Control and Prevention
+- **Date:** received March 13, 2024
+
+> [2024-03-13_cdc_foia-24-00678.xlsx](https://tinalexander.github.io/notes/attachments/2024-03-13_cdc_foia-24-00678.xlsx)
+
 ## FDA official on adverse event from eye drops
 
 - **Source:** emailed response
