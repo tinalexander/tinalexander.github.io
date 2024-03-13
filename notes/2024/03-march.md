@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 13, 2024
 
+## FDA official on adverse event from eye drops
+
+- **Source:** emailed response
+- **Attribution:** on background from a Food and Drug Administration spokesperson
+- **Date:** received March 13, 2024
+
+> The adverse event was in a cat that developed an eye infection after being treated with the drops. However, testing was not able to conclusively prove that the eye drops caused the infection.
+
 ## California health department on additional measles cases
 
 - **Source:** emailed statement
