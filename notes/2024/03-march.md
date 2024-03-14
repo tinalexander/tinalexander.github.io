@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 14, 2024
 
+## Chicago health department on recent measles cases
+
+- **Source:** email
+- **Attribution:** Chicago Department of Public Health spokesperson
+- **Date:** received March 14, 2024
+
+> We have said of the 10 cases, 8 are related to the shelter and 2 are not.
+
 ## Reported measles cases through Mar. 14 in the United States
 
 - **Source:** multiple sources
