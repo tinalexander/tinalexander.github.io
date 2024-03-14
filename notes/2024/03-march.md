@@ -135,7 +135,7 @@ permalink: /notes/2024/03
 > - **Chicago, IL** ([Mar. 12](https://view.citynews.chicago.gov/?qs=a841b060b149d504b6d4060e6a67f7fee3a46e97520ff58e60d6b646c39807cce56e15afc7edd30a70051643fcb470d9b7fc516b3c4d55d660fd72898a6b9f9123b579426dc370feb2ff8bdbb5b2686a)) sixth in new arrivals shelter
 > - **Chicago, IL** ([Mar. 12](https://view.citynews.chicago.gov/?qs=a841b060b149d504b6d4060e6a67f7fee3a46e97520ff58e60d6b646c39807cce56e15afc7edd30a70051643fcb470d9b7fc516b3c4d55d660fd72898a6b9f9123b579426dc370feb2ff8bdbb5b2686a)) seventh in new arrivals shelter
 > - **Chicago, IL** ([Mar. 13](https://www.facebook.com/ChiPublicHealth/posts/pfbid02nVWX8YdaoK8hGZwm3xR2xsgJopuc9NC89JpyiguqD7ezGkPPCQVArtJ2x1ewo8QMl)) eighth in new arrivals shelter
-> - **Chicago, IL** ([Mar. 13](https://www.facebook.com/ChiPublicHealth/posts/pfbid02nVWX8YdaoK8hGZwm3xR2xsgJopuc9NC89JpyiguqD7ezGkPPCQVArtJ2x1ewo8QMl)) 
+> - **Chicago, IL** ([Mar. 13](https://www.facebook.com/ChiPublicHealth/posts/pfbid02nVWX8YdaoK8hGZwm3xR2xsgJopuc9NC89JpyiguqD7ezGkPPCQVArtJ2x1ewo8QMl), [Mar. 14](https://tinalexander.github.io/notes/2024/03#chicago-health-department-on-recent-measles-cases)) not related to shelter
 
 # March 13, 2024
 
