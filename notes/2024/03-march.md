@@ -17,7 +17,7 @@ permalink: /notes/2024/03
 - **Attribution:** multiple attributions
 - **Date:** compiled March 14, 2024
 
-> At least 57 cases confirmed or suspected, as of Mar. 12, across 17 states.
+> At least 57 cases confirmed or suspected, as of Mar. 14, across 17 states.
 >
 > CDC tallied 45 cases in 17 states [as of Feb. 29](https://www.cdc.gov/measles/cases-outbreaks.html). Last year ended with 58 cases across 20 jurisdictions.
 > 
