@@ -26,6 +26,10 @@ permalink: /notes/2024/03
 - **Date:** received March 15, 2024
 
 > The recent measles case associated with exposures in Cincinnati is not currently known to be associated to other recent cases or international travel. The local health department is continuing to investigate possible sources of exposure to measles.
+> 
+> ...
+> 
+> Ohio has had five (Richland County – 1, Montgomery County – 2, Miami County – 2) measles cases in 2024.
 
 ## Cincinnati health department spokesperson on recent measles case
 
@@ -350,13 +354,14 @@ permalink: /notes/2024/03
 > 
 > - **Silver Spring, MD** ([Feb. 1](https://health.maryland.gov/newsroom/Pages/One-Case-of-Measles-Confirmed-in-Maryland-Resident-with-Recent-International-Travel.aspx)) international travel
 > 
-> **8. Ohio** (5)
+> **8. Ohio** (6)
 > 
 > - **Montgomery County, OH** ([Feb. 3](https://www.phdmc.org/news-features/news-releases/measles-case-reported-in-a-montgomery-county-resident), [Feb. 3](https://odh.ohio.gov/media-center/ODH-News-Releases/odh-news-release-02-03-24)) recent travel, child
 > - **Miami County, OH** ([Feb. 23](https://tinalexander.github.io/notes/2024/02#ohio-health-department-on-measles-cases), [Feb. 27](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#additional-measles-case-in-miami-county-of-ohio)) child, linked to Montgomery County case
 > - **Richland County, OH** ([Feb. 23](https://tinalexander.github.io/notes/2024/02#ohio-health-department-on-measles-cases)) not linked to earlier cases
 > - **Clermont County, OH** ([Feb. 20](https://ccphohio.org/2024/02/20/clermont-county-public-health-investigating-a-potential-case-of-measles/), [Feb. 23](https://tinalexander.github.io/notes/2024/02#clermont-county-public-health-spokesperson-on-measles-case)) suspect case
 > - **Miami County, OH** ([Feb. 26](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/2024/02-february.md#additional-measles-case-in-miami-county-of-ohio)) child, linked to Montgomery County case
+> - **Montgomery County, OH** ([Mar. 15](https://tinalexander.github.io/notes/2024/03#ohio-health-department-spokesperson-on-recent-measles-case)) visited Cincinnati, not linked to other recent cases
 > 
 > **9. Minnesota** (3)
 > 
