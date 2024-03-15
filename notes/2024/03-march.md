@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 15, 2024
 
+## CDC spokesperson on measles deaths in the U.S.
+
+- **Source:** email
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received March 15, 2024
+
+> Follow up from the interview, last death in the U.S from measles, was in 2015.
+
 ## Ohio health department spokesperson on recent measles case
 
 - **Source:** emailed statement
