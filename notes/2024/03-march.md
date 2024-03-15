@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 15, 2024
 
+## Clermont County Public Health on suspected measles case
+
+- **Source:** email
+- **Attribution:** Clermont County Public Health spokesperson Keith Robinson
+- **Date:** received March 15, 2024
+
+> The Ohio Department of Health is keeping the status of this case as a suspected case. They were unable to confirm a positive diagnosis.
+
 ## CDC officials on mpox and COVID-19 at clinician call
 
 - **Source:** webinar
