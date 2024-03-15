@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 15, 2024
 
+## GISAID email exchange with CDC over mpox sequences
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Centers for Disease Control and Prevention
+- **Date:** received March 13, 2024
+
+> [2024-03-13_cdc_foia-23-01061-FOIA-excerpt-ocr.pdf](https://tinalexander.github.io/notes/attachments/2024-03-13_cdc_foia-23-01061-FOIA-excerpt-ocr.pdf)
+
 ## Clermont County Public Health on suspected measles case
 
 - **Source:** email
