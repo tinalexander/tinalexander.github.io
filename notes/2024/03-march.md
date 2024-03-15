@@ -11,6 +11,104 @@ permalink: /notes/2024/03
 
 # March 15, 2024
 
+## CDC official on recent measles cases in the U.S.
+
+- **Source:** interview
+- **Attribution:** Centers for Disease Control and Prevention's Demetre Daskalakis
+- **Date:** recorded March 15, 2024
+
+> Demetre Daskalakis, CDC [00:01:14]
+> 
+> Measles is a easily preventable disease with a readily available and safe vaccine. And so, as we are seeing more cases in the U.S., we have the technology and the ability to be able to prevent measles. 
+> 
+> And so that I think is first, looking at the slope of the curve. I think, we are going to sort of achieve the same number of measles, as reported on March 15th as we saw last year, but just to contextualize that, like I said, we have the ability to sort of, to really work on vaccination so that we could prevent it. 
+> 
+> But looking back at 2019 where we had a couple of large outbreaks, one of which I'm very familiar with, it was (inaudible) cases. So like in sort of bigger context, this is why it's urgent for us to sort of address vaccination so that we can really decelerate sort of the march of measles, given the global scenario as well as what we're seeing with some vaccination rates in the country.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:02:49]
+> 
+> Any measles case is a case that we don't want to see in the U.S., right? Like we have achieved measles elimination. 
+> 
+> I'll start by saying, we are nowhere close to sort of, at this point, to sort of looking at measles elimination as being threatened by this.
+> 
+> In a more abstract way, yes, because we don't want measles cases in the U.S. because we know how to prevent them using safe and effective vaccines. 
+> 
+> So just, measles elimination, like deeper dive into that, you have to have sustained transmission in a geography for a while. And so we're not really there at the moment, because I think a lot of what we're seeing with measles is sort of on the sort of traditional pattern that we've been seeing, which is like, there's an importation of measles, majority of those importations are unvaccinated America's returning to the U.S., and then you have some amount of local transmission or none, very often households sometimes beyond, and then it stops. 
+> 
+> And so the way that we stop it is baseline levels of vaccination, using the safe and effective measles mumps rubella vaccine. And then also, the ongoing drumbeat of catchup vaccination given the impact of COVID 19 that we saw on vaccination rates across the country. 
+> 
+> Like it's a very small difference. Like coverage can be just a couple percentage points difference, but it means that we have more susceptible with young kids. 
+> 
+> So I think that, we have our eye on this and, we're being with our local and state health officials being really persistent on the issue that we address these outbreaks, as well as like the bigger picture of catch up vaccination. But I think that this is the time to act so we don't get anywhere close to losing our measles elimination.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:05:05]
+> 
+> This year's investigations are still in process. And so I think we aren't sharing that information yet, but I think that always, we try to be transparent when we have sort of in enough information to be able to share in a way that also doesn't compromise any specific individual group's ability to sort of not share a lot of personal medical information. 
+> 
+> So that that's part of this. So like sort of reassuring piece of this is that the numbers are so small that we can't really share a lot of this information yet. 
+> 
+> And I mean, I've got to be honest, Alex, I hope that we keep it small, so we don't need to share a lot more information, but again, that's the difference.
+> 
+> Like 2019, when you have 1200 cases, I think you're able to sort of share data in a different way cause the magnitude is greater. So I would prefer not to get there.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:06:57]
+> 
+> Our goal here is to prevent those adverse outcomes, including hospitalization and death. Death, frankly, is fairly rare. 
+> 
+> But I think that there's also the other components of measles, which is to think about some of the longer term complications that people can see with measles. So even if something is mild and we want to avoid a couple of the things that I always think about are some like longer term outcomes related to sort of people's neurologic status. 
+> 
+> And then also, like the thing that we don't talk about very much is like, there's a pretty good body of evidence that measles itself can cause reduced immunity to other pathogens. So even if we are seeing folks who are having mild cases, there's other things that could be further downstream that worry me. 
+> 
+> Again, the good news is that in the U.S. given like sort of the nutritional status of most people in the country given like our sort of general health, measles deaths tend to be rare, but it's something that we obviously want to avoid. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:09:24]
+> 
+> We're working really closely with Chicago and Illinois. We're really grateful that they asked come give a hand. And so this is the first circumstance where, this year, where we've been asked to come lend a hand for a measles outbreak.
+> 
+> And that really ends up on the ground being us really integrating with their team, which by the way is spectacular. And so integrating with that team, so that we can provide them what assistance they need is sort of the various lanes of work, whether that's sort of on the epidemiologic perspective, whether it's assistance in sort of thinking about testing algorithms.
+> 
+> There's also like a really strong lab component that we help with. And so I think with, in this environment, I think we have some great ability the public health lab in Chicago and in Illinois to be able to both do the testing as well as do any additional testing that's needed based on the history of the patient. 
+> 
+> And on top of that, we also work really closely with them, whether it's virtual or in person, to help with communication. So like we sort of use that interaction with areas that are experiencing increased measles activity to be able to help them with their local communication, but then also, it's bidirectional because what we learned on the ground for them then helps us develop our more like national messaging around measles. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:12:39]
+> 
+> I wish I had a trend. Like, what I'm worried about is that we aren't going to have a trend because we keep seeing things popping. It's like little fires popping up all over the place. 
+> 
+> So I feel like, we have our eyes on the U.K. We have our eyes on the Middle East. We have our eyes, like on a lot of areas where we're seeing increased measles activity. 
+> 
+> And I think that, it's so variable like week to week, day to day, because these fires are popping up all across the world, really creating the sparks that can kindle these small outbreaks in the U.S. with our goal of not letting that spark go beyond a small outbreak and kindle like a larger fire.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:13:44]
+> 
+> We are working in like a global health environment. And so I think the lessons that we learn on the ground for one city are really critical in the way that we're able to do our role in other cities too. 
+> 
+> So there is no doubt that we're gonna get many lessons from the Chicago experience, but just like we had many lessons from the New York City experience when I was leading back, which I think, literally having transitioned from local health to national health, literally I could see the lessons from the New York experience being built into this response. 
+> 
+> So the answer is yes, we always iterate and I'm sure we'll learn some things from Chicago that will be valuable in other settings as well.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:14:57]
+> 
+> On the ground, we're having like a little bit of sort of worried well folks who miss the fact that like fever is a prominent piece about people who have measles. 
+> 
+> So like if there's a way to sort of emphasize that, like not only is it cough, runny nose, and pink eye, but also fever is a very prominent feature about that could be really helpful.
+> 
+> Because we don't want every runny nose to say, I need to get tested for measles. It is allergy season after all.
+
 ## GISAID email exchange with CDC over mpox sequences
 
 - **Source:** Freedom of Information Act request
