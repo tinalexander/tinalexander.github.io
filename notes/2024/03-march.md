@@ -11,6 +11,124 @@ permalink: /notes/2024/03
 
 # March 15, 2024
 
+## CDC officials on mpox and COVID-19 at clinician call
+
+- **Source:** webinar
+- **Attribution:** hosted by the Infectious Diseases Society of America
+- **Date:** occurred March 14, 2024
+
+> Agam Rao, CDC [00:08:35]
+> 
+> So cases, circulation has continued. The peak daily cases over the last several months has been 11 cases and case counts are a little lower right now, but we certainly see blips here and there. 
+> 
+> And I know there's one jurisdiction in the Eastern side of the U.S. in particular right now that is definitely seeing a blip, but nationally case counts still remain low at this time. 
+> 
+> There is a delay in our surveillance data. And so it's possible those numbers could change a bit, but at the moment, not looking like there's a large event going on right now.
+> 
+> ...
+> 
+> Agam Rao, CDC [00:11:08]
+> 
+> I just want to emphasize, there are no clade I cases identified outside of countries known to be endemic for this clade. 
+> 
+> So no cases outside of Africa, no cases outside of the countries in Africa that have always had cases. 
+> 
+> ...
+> 
+> Agam Rao, CDC [00:12:33]
+> 
+> What's unusual about this is that mpox is now being identified in parts of the country that had not previously been known to be endemic that had not previously had cases. And this includes urban areas such as like Kinshasa, the capital. 
+> 
+> The cases are different though from clade II MPXV that we're seeing in the U.S. Some of the cases have been associated with sex and have occurred among men who have sex with men, but both genders are equally involved and children are the most involved. Whether that's because of direct interaction with the mammals that are reservoirs for the virus or not is something that's still being sorted out. 
+> 
+> There is a team of CDC folks who are out there in DRC and then some more who are joining them. And we're hoping to get a better understanding of national surveillance. 
+> 
+> ...
+> 
+> Agam Rao, CDC [00:13:26]
+> 
+> The case counts, the number of suspected cases and deaths has increased quite a lot in the last year. Again, this is based on a clinical definition, and so it requires some work to figure out whether it's truly accurate, but it does seem to be, there does seem to be something going on there. 
+> 
+> Whether that, whether it could be an alternate illness like measles or varicella or something else is to be determined, but right now they're being treated as if they are MPXV clade I cases.
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:18:10]
+> 
+> If you only read the New York Times headline, you might think that all it was was shortening the isolation period for COVID 19. I'll show you why that is not all that was happened and actually it's not even correct. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:18:25]
+> 
+> The goal of this guidance here was to provide streamlined guidance that's built on effective strategies, really focusing on what's going to be, make the most impacts when we're asking people to do something at this point, so that people take action to prevent respiratory diseases. Next slide please. 
+> 
+> So the ways that we're doing this is providing recommendations that are clear and actionable. We've heard loud and clear throughout the pandemic that when things are too complex, they aren't often followed. And so really focusing on that simplicity and clarity, you can judge us on whether we've achieved that or not, but that was one of the overriding goals in that.
+> 
+> The previous isolation guidance for one thing was a huge block of text. It's now much more simple. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:19:04]
+> 
+> Another goal was to streamline guidance across common respiratory virus illnesses. Now this was inevitably characterized the same CDC saying COVID is the same now as the flu or the common cold, et cetera. That is not at all what we are saying. COVID still is more severe overall in terms of overall burden, causes more lasting effects, but it does cause very similar clinical illnesses. 
+> 
+> I don't need to tell you, you can sometimes distinguish without testing, but not very often. And a lot of times you can't distinguish it from your typical URI. They are often spread in similar ways, not exactly the same, these viruses aren't all the same, but many of the same ways and many of the prevention strategies are overlapping. 
+> 
+> And so I'll talk more about why we've sort of streamlined that into one framework.
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:19:54]
+> 
+> One key thing here is we're balancing current post emergency risks with other health and societal need. 
+> 
+> Now this is interpreted by summit saying we are kowtowing to economics or to business interests and it's not. And I think that's, that's clearly not the case. At least, I think it's clearly not the case. 
+> 
+> We have all lived in our own lives and those of our patients how sort of certain guidance or restrictions can impact many areas of a person's life, including their health, in ways beyond a single virus. And so that's why we're looking to encompass a wide range of things. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:20:24]
+> 
+> I want to talk one thing, one second, about another issue too, which is people say, well, we need to follow the science. And we're absolutely looking at the virology. We're absolutely looking at the biology and there's also lots of other science that's important to consider, including sort of the broader issue of the patient, the holistic view and how they live their lives, sociology, behavioral science, et cetera. So all those were taken into account. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:20:48]
+> 
+> I don't need to tell you this either, but I'm going to say it anyway, just to drive it home, we all know that the COVID threat has changed. It is still a threat. It's just not the threat that it once was.
+> 
+> We have these effective vaccines and treatments, which you'll hear more about later today, cutting that risk by at least half. And you can debate the nuances of those data.
+> 
+> Broad immunity, we've got good data from seroprevalence survey showing that over 98%, probably actually now with the latest data over 99%, of the U.S. population has some protective immunity from vaccine, previous infection, or many people both. And we'll show that in a second. 
+> 
+> I want to be clear. This is not saying that immunity doesn't fade over time, but it generally doesn't fade to zero. And as some people put it, you kind have to renew that subscription with these updated vaccines, especially if you're at higher risk, for protection.
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:22:21]
+> 
+> More information on this next bullet here, talking about how COVID has gone down from the third leading cause of death in 2021 to the 10th, in preliminary data for 2023, it may actually fall further once the sort of injury causes of death are finalized, with suicide likely to be passing it. 
+> 
+> Not saying-- clearly it's still a major issue, but not in the top three as it was before. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:25:59]
+> 
+> CDC continues to offer separate guidance for healthcare settings. Lots of questions. When are those going to be updated? What I can say is those are not-- there's nothing to announce at this time. They're looking for opportunities to update that. 
+> 
+> And they'll let-- we'll let you know, as soon as possible, as soon as that's in the works. But for now that healthcare guidance is not changed and this guidance is focused on the community, but it can be applied to other congregate non-healthcare settings. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:29:41]
+> 
+> Now the guidance is if you've got those respiratory symptoms, just go ahead and stay home. And focusing on that period of greatest risk of transmission early on is probably going to make a bigger impact than sort of the extended isolation for the general public, later in the course of illness. 
+> 
+> But I also want to emphasize if someone has fever or symptoms that aren't improving for five days or for four days or more, the guidance would actually for them to isolate or to stay home and away from others longer than they would've under the old guidance, which is why it's not accurate just to say, CDC shortened the isolation guidance for COVID 19. 
+
 ## CDC on vaccination before travel for measles
 
 - **Source:** emailed statement
