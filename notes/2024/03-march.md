@@ -266,6 +266,34 @@ permalink: /notes/2024/03
 > Now the guidance is if you've got those respiratory symptoms, just go ahead and stay home. And focusing on that period of greatest risk of transmission early on is probably going to make a bigger impact than sort of the extended isolation for the general public, later in the course of illness. 
 > 
 > But I also want to emphasize if someone has fever or symptoms that aren't improving for five days or for four days or more, the guidance would actually for them to isolate or to stay home and away from others longer than they would've under the old guidance, which is why it's not accurate just to say, CDC shortened the isolation guidance for COVID 19. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [01:10:34]
+> 
+> I'm concerned about this as well. 
+> 
+> I think people often missed in the previous guidance where we had five days of isolation, plus five days of masking for most people, understanding it was more longer for certain groups, that people generally said, oh, it's only five days of isolation. They forgot the five days of masking part. 
+> 
+> I'm worried that has happened again. It is not through any intention of ours, it is just the way that the media ends up covering things and the way that people's brain maybe end up working. 
+> 
+> And so I think we tried to make it as clear as possible. And I think that's where you all come in is to helping amplify that message and why that can be helpful. 
+> 
+> ...
+> 
+> Agam Rao, CDC [01:04:41]
+> 
+> We did see some household transmission associated with clade II. So really small children, for example, if they were being taken care of by their parent. And there was, you know, a lot of contact and kissing and sleeping in the same bed then obviously was spread.
+> 
+> But we really didn't see any spread associated with like daycare centers and those sorts of venues. 
+> 
+> So, with clade I, there could be more of more secondary cases. And the recommendations that we had for clade II, as far as cleaning and disinfection would still apply.
+> 
+> So most cleaning, anything that is effective against COVID is effective against orthopoxviruses. And so if it says that it's effective against vaccinia virus, which is an orthopoxvirus, it's effective against MPXV regardless of clade.
+> 
+> Really anything that is effective against COVID is effective. So fomites, sharing the same bedding, a lot of the same contact, there could be secondary cases. 
+> 
+> Vaccination can be offered to patients as post exposure prophylaxis. And we do have information on our CDC website about clade II and post exposure prophylaxis. And, we are developing something similar for clade I, but post exposure vaccination is an option, even though we're not entirely sure how effective that vaccination is.
 
 ## CDC on vaccination before travel for measles
 
