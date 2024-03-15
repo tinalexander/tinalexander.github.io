@@ -11,6 +11,22 @@ permalink: /notes/2024/03
 
 # March 15, 2024
 
+## Ohio health department spokesperson on recent measles case
+
+- **Source:** emailed statement
+- **Attribution:** Ohio Department of Health spokesperson
+- **Date:** received March 15, 2024
+
+> The recent measles case associated with exposures in Cincinnati is not currently known to be associated to other recent cases or international travel. The local health department is continuing to investigate possible sources of exposure to measles.
+
+## Cincinnati health department spokesperson on recent measles case
+
+- **Source:** email
+- **Attribution:** Cincinnati Health Department spokesperson José Marques
+- **Date:** received March 15, 2024
+
+> That is correct, the person who was at the event with measles was not a resident of Cincinnati. Currently, we have no reports of any measles cases in Cincinnati.
+
 ## CDC official on recent measles cases in the U.S.
 
 - **Source:** interview
