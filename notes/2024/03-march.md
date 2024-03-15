@@ -11,6 +11,16 @@ permalink: /notes/2024/03
 
 # March 15, 2024
 
+## CDC on vaccination before travel for measles
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson David Daigle
+- **Date:** received March 15, 2024
+
+> The World Health Organization has noted a significant increase in measles cases worldwide, including a 30-fold increase in Europe. This includes popular international tourist destinations for Americans. The majority of measles cases imported into the United States occur in unvaccinated U.S. residents who become infected during international travel. A list of countries with confirmed measles outbreaks can be found on the Global Measles Travel Health Notice (THN). Measles spreads rapidly in communities that are not fully vaccinated and may pose a risk to international travelers in places not included in the Global Measles Travel Health Notice.
+> 
+> The good news is that measles can be prevented with the measles-mumps-rubella (MMR) vaccine. The vaccine is the best and safest protection against measles, and parents should act now to make sure their children are up to date, especially if they plan to travel abroad. You should plan to be fully vaccinated at least 2 weeks before your departure: https://www.cdc.gov/measles/plan-for-travel.html
+
 ## Reported measles cases through Mar. 15 in the United States
 
 - **Source:** multiple sources
