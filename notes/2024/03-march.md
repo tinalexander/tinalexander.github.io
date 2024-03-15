@@ -35,7 +35,7 @@ permalink: /notes/2024/03
 > 
 > In a more abstract way, yes, because we don't want measles cases in the U.S. because we know how to prevent them using safe and effective vaccines. 
 > 
-> So just, measles elimination, like deeper dive into that, you have to have sustained transmission in a geography for a while. And so we're not really there at the moment, because I think a lot of what we're seeing with measles is sort of on the sort of traditional pattern that we've been seeing, which is like, there's an importation of measles, majority of those importations are unvaccinated America's returning to the U.S., and then you have some amount of local transmission or none, very often households sometimes beyond, and then it stops. 
+> So just, measles elimination, like deeper dive into that, you have to have sustained transmission in a geography for a while. And so we're not really there at the moment, because I think a lot of what we're seeing with measles is sort of on the sort of traditional pattern that we've been seeing, which is like, there's an importation of measles, majority of those importations are unvaccinated Americans returning to the U.S., and then you have some amount of local transmission or none, very often households sometimes beyond, and then it stops. 
 > 
 > And so the way that we stop it is baseline levels of vaccination, using the safe and effective measles mumps rubella vaccine. And then also, the ongoing drumbeat of catchup vaccination given the impact of COVID 19 that we saw on vaccination rates across the country. 
 > 
