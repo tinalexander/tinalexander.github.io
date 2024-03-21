@@ -9,6 +9,36 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 21, 2024
+
+## CMS spokesperson on Wegovy coverage guidance
+
+- **Source:** email
+- **Attribution:** Centers for Medicare and Medicaid Services spokesperson
+- **Date:** received March 21, 2024
+
+> CMS is committed to ensuring that people have access to treatments and treatment options that improve health outcomes. With the recent change in the FDA approved use for Wegovy (semaglutide), current Medicare Part D and Medicaid coverage rules apply. To ensure Medicare prescription drug (Part D) plans have the flexibility to provide enrollees access to Part D drugs that reflect the latest developments and clinical guidelines, Part D plans may add drugs to their formularies, remove restrictions, or move drugs to lower cost share tiers at any time during the plan year.
+> 
+> CMS has issued guidance to Medicare Part D plans stating that anti-obesity medications (AOMs) that receive FDA approval for an additional medically accepted indication can be considered a Part D drug for that specific use. For example, a drug that receives FDA approval for chronic weight management alone would not be considered a Part D drug. If this same drug also receives FDA approval to treat diabetes or reduce the risk of major adverse cardiovascular events in adults with established cardiovascular disease and either obesity or overweight, then it would be considered a Part D drug for those specific uses only.
+> 
+> Part D coverage is still not available for AOMs when used for chronic weight management in patients who do not have the additional medically accepted indication, unless provided as a supplemental benefit by the Part D plan.
+> 
+> In instances when an AOM receives approval for an additional medically accepted indication during the Part D plan contract year, Part D plans may include such drugs on their current Part D formularies as they can be covered under Part D for that use. Part D plans may consider using prior authorization for these products to ensure they are being used for a medically accepted indication.
+
+> From: HPMS <hpms@cms.hhs.gov>
+> <br>Sent: Wednesday, March 20, 2024 4:24 PM
+> <br>Subject: Part D Coverage of Anti-Obesity Medications with Medically Accepted Indications
+> 
+> We are issuing this guidance regarding Medicare Part D coverage of chronic weight management products, also known as anti-obesity medications (AOMs). With the introduction of new AOMs to the market, questions have arisen regarding Part D coverage of these products. Specifically, we have been asked whether these products may be covered by Part D when they receive U.S. Food and Drug Administration (FDA) approval for an additional medically accepted indication.  
+> 
+> The statutory definition of a covered Part D drug at section 1860D-2(e)(2) of the Social Security Act (the Act), excludes certain drugs and uses – specifically, those that may be excluded by Medicaid under section 1927(d)(2) of the Act. This includes “agents when used for anorexia, weight loss, and weight gain.” Since the beginning of the Part D program in 2006, all drugs when used for weight loss have been excluded from basic coverage.
+> 
+> CMS is clarifying that AOMs that receive FDA approval for an additional medically accepted indication, as defined by section 1927(k)(6) of the Act, can be considered a Part D drug for that specific use. For example, a glucagon-like peptide 1 (GLP-1) receptor agonist that receives FDA approval for chronic weight management alone would not be considered a Part D drug. If this same drug also receives FDA approval to treat diabetes or reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) in adults with established cardiovascular disease and either obesity or overweight, then it would be considered a Part D drug for those specific uses only. Unless provided as a supplemental benefit, Part D coverage is still not available for AOMs when used for chronic weight management in patients who do not have the additional medically accepted indication.
+> 
+> In instances when an AOM receives approval for an additional medically accepted indication during the contract year, Part D sponsors may include such drugs on their current Part D formularies as they can be covered under Part D for that use. These drugs will be added to the Formulary Reference File (FRF) at the next available opportunity. Utilization management tools such as prior authorization, step therapy, and quantity limits that are approved by the Pharmacy & Therapeutics committee may be applied at the point-of-sale at the same time the drug is added to the formulary. Part D sponsors may consider using prior authorization for these products to ensure they are being used for a medically accepted indication. When an AOM receives approval for an additional medically accepted indication mid-year, CMS will evaluate FDA labeling and updated treatment guidelines (if available) when reviewing formularies for the upcoming year.
+> 
+> If you have any questions concerning this memorandum, please send an e-mail to PartDPolicy@cms.hhs.gov.
+
 # March 15, 2024
 
 ## CDC spokesperson on measles deaths in the U.S.
