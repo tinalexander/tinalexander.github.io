@@ -11,6 +11,14 @@ permalink: /notes/2024/03
 
 # March 21, 2024
 
+## State health departments email exchange with CDC about measles
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Centers for Disease Control and Prevention
+- **Date:** received March 21, 2024
+
+> [2024-03-21_cdc_foia-24-00780-ocrmypdf.pdf](https://tinalexander.github.io/notes/attachments/2024-03-21_cdc_foia-24-00780-ocrmypdf.pdf)
+
 ## CMS spokesperson on Wegovy coverage guidance
 
 - **Source:** email
