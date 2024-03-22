@@ -9,6 +9,18 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 22, 2024
+
+- **Source:** email
+- **Attribution:** Florida Department of Health spokesperson Grant Kemp
+- **Date:** received March 22, 2024
+
+> I am disappointed you chose to reach out with such little notice before publishing your article today. The article is misleading as it highlights Florida as the measles epicenter despite the cases referenced being completely unrelated to measles cases in Broward County and at least seventeen other states reporting measles cases nationwide.
+> 
+> The cases mentioned by Orlando Health, which were debunked by the article in Orlando Sentinel, were not part of the outbreak which was contained within Broward and has since concluded.
+> 
+> Cases of communicable diseases are not classified as a Florida case if they are not residents. If a non-Florida resident gets a communicable disease outside Florida, it is not a Florida case. However, if a travel-related case is identified in Florida and an individual receives treatment at a health care facility, the health care facility is still required to report it to the Department. The Department then conducts confidential epidemiological investigations to contact trace and monitor possible exposures of close contacts. When communicable diseases are identified in out-of-state residents, that information is transferred to the state where they reside and are not classified as a Florida case.
+
 # March 21, 2024
 
 ## State health departments email exchange with CDC about measles
