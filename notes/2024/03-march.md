@@ -9,7 +9,19 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 25, 2024
+
+## FDA's inspection findings at Brassica Pharma
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received March 22, 2024
+
+> [2024-03-22_fda_foia-2024-2180-ocrmypdf.pdf](https://tinalexander.github.io/notes/attachments/2024-03-22_fda_foia-2024-2180-ocrmypdf.pdf)
+
 # March 22, 2024
+
+## Florida's health department on measles cases linked to trips to Florida
 
 - **Source:** email
 - **Attribution:** Florida Department of Health spokesperson Grant Kemp
