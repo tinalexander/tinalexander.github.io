@@ -9,6 +9,16 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 26, 2024
+
+## FDA's inspection findings at Neuralink
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received March 26, 2024
+
+> [2024-03-26_fda_foia-2023-6291-ocrmypdf.pdf](https://tinalexander.github.io/notes/attachments/2024-03-26_fda_foia-2023-6291-ocrmypdf.pdf)
+
 # March 25, 2024
 
 ## FDA's inspection findings at Brassica Pharma
