@@ -53,7 +53,7 @@ permalink: /notes/2024/03
 > 
 > Another is the use of point of care testing. There's lots of conversation about its role, particularly in the field, but also with emergency departments and urgent care settings. 
 > 
-> We're looking at harmonization around the testing guidelines. When and how often do you test pregnant persons syphilis? 
+> We're looking at harmonization around the testing guidelines. When and how often do you test pregnant persons for syphilis? 
 > 
 > And then last but not least, task force is called the National Syphilis and Congenital Syphilis Syndemic federal task force for a reason. The is really on ensuring that those upstream factors, whether it is substance use, whether it's homelessness or stigma or fear of prosecution really is a barrier to getting tested, getting screened or coming back for treatment. 
 > 
