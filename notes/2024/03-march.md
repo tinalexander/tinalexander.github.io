@@ -9,6 +9,76 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 27, 2024
+
+## HHS advisory committee meeting session on syphilis task force
+
+- **Source:** Presidential Advisory Council on HIV/AIDS meeting
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred March 27, 2024
+
+> [2024-03-27_hhs_pacha_syphilis-task-force-priority.png](https://tinalexander.github.io/notes/attachments/2024-03-27_hhs_pacha_syphilis-task-force-priority.png)
+
+> Timothy Harrison, HHS [00:28:28]
+> 
+> We are currently experiencing the highest national congenital syphilis rate reported since 1991, which brings me to the task force. 
+> 
+> The task force is chaired by Admiral Rachel Levine, the assistant secretary for health. And she's been pushing really hard for concrete actions that will make a difference. 
+> 
+> The task force is a cross departmental, multi-agency effort, representing every essential sector of the United States government necessary to move strategically and urgently. 
+> 
+> We meet currently once a week, every week. But of course, most of the work exists outside of that meeting. The framework of the task force is anchored by the expected three pillars of data and surveillance: prevent, screen, and diagnose, and treat. And the work is filtered through six subcommittees, very active, very busy subcommittees, that really drive this work.
+> 
+> ...
+> 
+> Timothy Harrison, HHS [00:30:08]
+> 
+> Many thanks to our CDC colleagues for helping the task force identify geographic areas of focus using case counts or case reported cases. 
+> 
+> We landed on 14 jurisdictions accounting for more than 57% of all primary and secondary syphilis basis and nearly 74% of all congenital syphilis cases. In addition, these jurisdictions show significant representation of primary, secondary, and congenital cases among non-Hispanic American Indian, Alaska Native persons, non-Hispanic Black African-American persons, and Hispanic Latino persons. 
+> 
+> And I'll just put this out there that while the task force is focused on these 14 jurisdictions of priority, it by no means should suggest that we aren't interested in primary secondary congenital syphilis across the nation. And so much of our engagement has included and will continue to include other jurisdictions as well. 
+> 
+> Since we're in Texas, I thought I would give you just a little snapshot of syphilis in Texas, and they're one of our 14 priority jurisdictions. 
+> 
+> ...
+> 
+> Timothy Harrison, HHS [00:36:38]
+> 
+> I know my time is running out. So let me be quick here. 
+> 
+> Key areas of focus. And this really is sort of my assessment among the many things that we're really focusing on there, there's a lot of things that really sort of stand out in terms of where we need to focus our attention. These are just a few of them, a snapshot. 
+> 
+> One is really addressing the treatment shortage and the related cost concerns and really explore solutions to adequate availability. 
+> 
+> Another is the use of point of care testing. There's lots of conversation about its role, particularly in the field, but also with emergency departments and urgent care settings. 
+> 
+> We're looking at harmonization around the testing guidelines. When and how often do you test pregnant persons syphilis? 
+> 
+> And then last but not least, task force is called the National Syphilis and Congenital Syphilis Syndemic federal task force for a reason. The is really on ensuring that those upstream factors, whether it is substance use, whether it's homelessness or stigma or fear of prosecution really is a barrier to getting tested, getting screened or coming back for treatment. 
+> 
+> ...
+> 
+> Timothy Harrison, HHS [00:38:27]
+> 
+> Really wanting to raise the provider awareness and provide training and diagnostic and treatment guidelines for primary and secondary syphilis and congenital syphilis.
+> 
+> For many providers, syphilis was not necessarily something on their radar. We thought we had ended syphilis 20 years ago, and so it's back and we want to make sure the providers, all providers are educated and aware of what needs to happen in their particular setting. 
+> 
+> Public awareness, very low. Most folks probably didn't know that there was a syphilis crisis. Maybe that's a good thing? I don't know. But it's clearly something that we need to up the public awareness. And I've seen some campaigns across the country and some places at bus stops and other places about syphilis. We're perhaps needing more of that, in order for folks to be aware, not just generally, but for their own particular risk.
+> 
+> And then last but not least, sort of sharing of best practices. One of the good things about conversations with providers and some of the jurisdictions we've talked to is their desire to learn what other folks are doing. Like what other states are doing, what other providers are doing, how are they being innovative? How are they responding? 
+> 
+> And so we want to facilitate an opportunity for them to cross share and share those examples, those innovative ideas, whether it's an app or some other tool that they're using that might be recommended.
+> 
+> ...
+> 
+> Timothy Harrison, HHS [00:40:15]
+> 
+> The folks on this task force and there are over 200 officially on this task force. And many of them are here today are really driving hard around this issue, recognizing that this perhaps was not in the plan when their 2023 year started out. 
+> 
+> But it's important that this is an urgent issue. And we understand the synergies obviously with our HIV work, but also particularly just for the communities that we serve. And so I wanna thank you for your time.
+
 # March 26, 2024
 
 ## FDA's inspection findings at Neuralink
