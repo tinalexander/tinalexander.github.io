@@ -18,8 +18,10 @@ permalink: /notes/2024/03
 - **Date:** received March 28, 2024
 
 > [2024-03-28_cdc_foia_23-01867-cvs-ocrmypdf.pdf](https://tinalexander.github.io/notes/attachments/2024-03-28_cdc_foia_23-01867-cvs-ocrmypdf.pdf)
+> <br>
 > [2024-03-28_cdc_foia_23-01867-e3health-ocrmypdf.pdf](https://tinalexander.github.io/notes/attachments/2024-03-28_cdc_foia_23-01867-e3health-ocrmypdf.pdf)
-> 2024-03-28_cdc_foia_23-01867-walgreen-ocrmypdf.pdf](https://tinalexander.github.io/notes/attachments/2024-03-28_cdc_foia_23-01867-walgreen-ocrmypdf.pdf)
+> <br>
+> [2024-03-28_cdc_foia_23-01867-walgreen-ocrmypdf.pdf](https://tinalexander.github.io/notes/attachments/2024-03-28_cdc_foia_23-01867-walgreen-ocrmypdf.pdf)
 
 # March 27, 2024
 
