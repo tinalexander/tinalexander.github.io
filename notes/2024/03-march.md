@@ -9,6 +9,58 @@ permalink: /notes/2024/03
 
 <br>
 
+# March 29, 2024
+
+## CDC officials at webinar on travel-related measles
+
+- **Source:** [webinar](https://edhub.ama-assn.org/cdc-project-firstline/video-player/18864290)
+- **Attribution:** hosted by Centers for Disease Control and Prevention
+- **Date:** published March 28, 2024
+
+> David Sugerman, CDC  [00:15:46]
+> 
+> Measles was declared eliminated in the U.S. in the year 2000. And during 2001 to 2023, we've seen a median of 72 measles cases reported each year. Incidence per million population is shown by the yellow line, which has remained below one case per million indicated by the red dash line in all but three years, 2014, 2018 and 2019. Large outbreaks were reported in each of these years. 
+> 
+> Here are the reported measles cases from January 1st, 2023 to March 21st, 2024 displayed in an epi curve to the left and state map to the right. These figures are updated each Friday at noon Eastern Standard Time on the CDC measles cases website.
+> 
+> In 2023, 58 cases were reported by 20 jurisdictions, with one third of those cases reported in December of 2023. As of March 21st of this year, we've already surpassed that 2023 total with 64 measles cases reported by 17 jurisdictions indicated on the map to the right.
+> 
+> ...
+> 
+> Dan Filardo, CDC [00:19:10]
+> 
+> Measles remains endemic in many countries in the world and measles outbreaks can occur anywhere in the world.
+> 
+> During 2001 to 2023, more than half of imported measles cases in the United States were reported among travelers to countries in the European or Western Pacific regions. The top five source countries for importations during this time were India, the Philippines, China, Pakistan, and the United Kingdom. 
+> 
+> ...
+> 
+> Dan Filardo, CDC [00:21:21]
+> 
+> Historically, the United Kingdom has been among the top five source countries for measles importations into the United States. And it's a common travel destination for travelers from the United States. 
+> 
+> However, it's not a country that most Americans think of as an area that would be at risk for measles exposure. 
+> 
+> While we have not seen any imports from the United Kingdom to the United States thus far in 2024, it's possible that this could change as we approach the spring break and some summer travel seasons. 
+> 
+> ...
+> 
+> Dan Filardo, CDC [00:53:56]
+> 
+> It's pretty rare for people with two documented doses of MMR to develop measles. It represents a really small minority of cases that we've seen in national surveillance during the elimination period in the United States. And it usually only happens in the context of really prolonged exposure to measles. 
+> 
+> So in a household setting, in the context of repeated exposure, in a large outbreak setting. And so we tend not to see people with two historical doses who develop measles without a clear source, without really known, prolonged exposure.
+> 
+> ...
+> 
+> Dan Filardo, CDC [00:54:33]
+> 
+> To get to the rest of your question, we think, the science on this is not black and white, but we think that people with two documented doses who develop measles are much less likely to transmit measles to others. 
+> 
+> There are, it's sort of on the level of case reports, it has been shown that, or that transmission likely occurred, as the result of someone with two historical doses developing measles.
+> 
+> But it's really limited to very small numbers we think. And so, in general, that's another benefit of vaccination that that preexisting immunity, even if it happens to get overcome in these rare scenarios with prolonged exposure to measles, means that that person would be much less likely to transmit to others.
+
 # March 28, 2024
 
 ## CDC contract amendments for Bridge Access Program with pharmacies
