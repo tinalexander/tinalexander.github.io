@@ -9,6 +9,14 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 9, 2024
+
+- **Source:** email
+- **Attribution:** Geni Wren of the American Association of Bovine Practitioners
+- **Date:** received April 9, 2024
+
+> Thanks for reaching out. Currently USDA has decided to continue to name the disease H5N1 HPAI in cattle.
+
 # April 8, 2024
 
 - **Source:** [recording](https://rr-americas.woah.org/en/news/gf-tads-meeting-detection-of-hpai-in-ruminants-and-humans-in-the-usa/)
