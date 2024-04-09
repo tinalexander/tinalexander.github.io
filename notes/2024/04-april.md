@@ -11,7 +11,7 @@ permalink: /notes/2024/04
 
 # April 9, 2024
 
-## AABP on renaming H5N1 HPAI in cattle 
+## AABP on renaming avian influenza in cattle 
 
 - **Source:** email
 - **Attribution:** Geni Wren of the American Association of Bovine Practitioners
@@ -21,7 +21,7 @@ permalink: /notes/2024/04
 
 # April 8, 2024
 
-## USDA and CDC officials on H5N1 HPAI in cattle
+## USDA and CDC officials on avian influenza in cattle
 
 - **Source:** [recording](https://rr-americas.woah.org/en/news/gf-tads-meeting-detection-of-hpai-in-ruminants-and-humans-in-the-usa/)
 - **Attribution:** World Organization for Animal Health meeting
