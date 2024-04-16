@@ -11,6 +11,40 @@ permalink: /notes/2024/04
 
 # April 16, 2024
 
+## Chicago official on measles vaccine failures in outbreak
+
+- **Source:** webinar
+- **Attribution:** hosted by the Big Cities Health Coalition
+- **Date:** occurred April 16, 2024
+
+> Massimo Pacilli, Chicago Department of Public Health [00:20:06]
+> 
+> The index case was early-- it was March 7th. We sort of immediately recognized it seated in a shelter that's housed around 1,800 individuals who are not sort of organized in family units. It's a large congregate setting. 
+> 
+> So lots of opportunities for individuals to be in the same space, and families and children to interact, and therefore continuous exposures.
+> 
+> In that setting, we recognized the immediate need to deploy vaccination so that, within the next three days, we were actually able to go on site and deliver nearly a thousand vaccines. And that sort of-- it takes about two weeks or 21 days to get sort of the full immunity benefit from those doses. But we certainly have seen the benefits in subsequent sort of infectious periods. 
+> 
+> And so initially in this setting, we saw sort of the result of there the initial exposures in a cluster of cases, and then a second wave with sort of a peak around March 24th, that represented probably the exposure of that first wave. So that represented a little bit the peak of cases presenting. 
+> 
+> And then after that, we are really are starting to see the benefit of those vaccinations. We've gone back and sort of deployed second doses, which is sort of-- they can be administered 28 days after the first. And we're really seeing the effect of this population being better protected and therefore less cases presenting.
+> 
+> We're down to this week we have yet to record a case. The last one was with a rash onset of last week. 
+> 
+> But again, hard to tell sort of the end of an outbreak, but we certainly see the protection of this community in this setting and sort of a-- we're certainly at the tail end of those cases presenting. 
+> 
+> ...
+> 
+> Massimo Pacilli, Chicago Department of Public Health [00:22:11]
+> 
+> I think the other question was related to individuals infected with measles who may have received a vaccine before. So, as I was saying, measles vaccine is quite protective, but again, no vaccine is sort of a hundred percent protective, although it's certainly even for those who end up being infected, there is sort of a lessening of the disease and a lessening of the spread that results from it. 
+> 
+> I think what's unique and why we see sort of a higher proportion of individuals who have received dose with measles in this setting is because-- like that's-- sometimes observed sort of in family units when the exposure is really intense, right? We have these family units where a kid is perhaps infected and then caretakers are really around the case continuously. 
+> 
+> Well, the situation is not that dissimilar in a large congregate setting. In this setting, we're observing continuing protracted exposures. And so it is not completely unexpected to see a higher proportion of individuals who may have had a dose up that being infected with measles. 
+> 
+> So I think that begins to explain sort of that proportion being a little bit different as the result of the uniqueness of the setting.
+
 ## CDC official in reply to my questions about counterfeit Botox patients
 
 - **Source:** email
