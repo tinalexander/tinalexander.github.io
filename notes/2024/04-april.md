@@ -9,6 +9,26 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 16, 2024
+
+## CDC official in reply to my questions about counterfeit Botox patients
+
+- **Source:** email
+- **Attribution:** Katia Martinez of the Centers for Disease Control and Prevention
+- **Date:** received April 16, 2024
+  
+> What is the source of the image that is attached to the notice on the website?
+> 
+> FDA’s web notice has more information on the images: https://www.fda.gov/drugs/drug-safety-and-availability/counterfeit-version-botox-found-multiple-states
+> 
+> When was the earliest case reported who received the counterfeits?
+> 
+> CDC consults on patients who experience signs and symptoms consistent with botulism through our botulism consultation line all the time, but CDC saw an increase in consultations related to botulinum toxin injections in 2024. CDC began hearing reports of potentially counterfeit product in late March and started coordinating the multistate investigation last week.
+> 
+> Can you clarify how many of the patients were exposed in a licensed healthcare setting?
+> 
+> Licensure requirements vary by jurisdiction, so we recommend reaching out to the state or local health departments involved to determine licensure requirements for providers and settings.
+
 # April 9, 2024
 
 ## AABP on renaming avian influenza in cattle 
