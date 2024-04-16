@@ -41,7 +41,7 @@ permalink: /notes/2024/04
 > 
 > I think what's unique and why we see sort of a higher proportion of individuals who have received dose with measles in this setting is because-- like that's-- sometimes observed sort of in family units when the exposure is really intense, right? We have these family units where a kid is perhaps infected and then caretakers are really around the case continuously. 
 > 
-> Well, the situation is not that dissimilar in a large congregate setting. In this setting, we're observing continuing protracted exposures. And so it is not completely unexpected to see a higher proportion of individuals who may have had a dose up that being infected with measles. 
+> Well, the situation is not that dissimilar in a large congregate setting. In this setting, we're observing continuing protracted exposures. And so it is not completely unexpected to see a higher proportion of individuals who may have had a dose end up being infected with measles. 
 > 
 > So I think that begins to explain sort of that proportion being a little bit different as the result of the uniqueness of the setting.
 
