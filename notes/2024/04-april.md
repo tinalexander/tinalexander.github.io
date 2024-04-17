@@ -9,6 +9,24 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 17, 2024
+
+## CDC spokesperson on MPXV Clade Ib preprint
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson David Daigle
+- **Date:** received April 17, 2024
+
+> The preprint manuscript provides a more detailed look at the genetic signatures for the clade I mpox variant circulating in Kamituga, in South Kivu, DRC. It is important to note that this is a pre-print, meaning it has not yet undergone peer review, and it is possible that the information could change after formal peer review.
+> 
+> This virus and this outbreak were already previously shared in two preprint publications: https://doi.org/10.1101/2024.03.05.24303395, March 5, 2024 and https://virological.org/t/novel-clade-i-genome-sequences-from-the-ongoing-mpox-virus-outbreak-of-kamituga-in-south-kivu-province-democratic-republic-of-congo/956 Feb 15, 2024. This strain was already previously reported to contain a deletion in a specific part of the genome that might impact how well the CDC Clade I test works. This strain is still expected to test positive using CDC’s nonvariola orthopox (NVO) test, which is the primary test being used to diagnose mpox in LRN and most commercial labs across the United States.
+> 
+> For labs also running Clade-specific testing, CDC recommends the NVO test be run alongside any clade-specific PRC tests. Any unusual findings (for example, an NVO positive but Clade II negative) would prompt a deeper look at the sequence to see if it might be due to Clade I.
+> 
+> CDC continues to receive and test samples from U.S. mpox cases diagnosed by the NVO test, and we are taking a deeper look at the clade and any mutations.
+> 
+> NO CASES OF CLADE I MPOX have been detected in the United States.
+
 # April 16, 2024
 
 ## Chicago official on measles vaccine failures in outbreak
