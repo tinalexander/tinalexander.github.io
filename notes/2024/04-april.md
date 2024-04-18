@@ -11,6 +11,72 @@ permalink: /notes/2024/04
 
 # April 18, 2024
 
+## FDA commissioner addressing Chinese imports of vaping products
+
+- **Source:** [livestream](https://www.youtube.com/watch?v=MsfunubJ_Eo)
+- **Attribution:** House Appropriations Committee hearing
+- **Date:** occurred April 18, 2024
+
+> Robert Califf, FDA [00:38:06]
+> 
+> I'm a cardiologist and I practiced in North Carolina for 35 years. I probably have seen more people die from tobacco related illness than almost any physician because I was an intensivist who dealt with the end stage of the disease. This is a top priority for us. But when we make a final rule, it goes through an intensiv interagency process. And that's where it is right now. I can't give details about dates at this point.
+> 
+> I'll just say from the point of view of the FDA and me as an individual, given what I've seen in my life, we're talking about over the next 30 years, probably 600,000 deaths that could be averted. And most of these as you duly note, are in African American people who have been targeted by the industry for the sale of these products. 
+> 
+> So I'm with you all the way, but I can't give details about the interagency process.
+> 
+> Rep Barbara Lee [00:39:09]
+> 
+> Okay. The interagency process is cumbersome. But I mean, we have an idea, some based on prior experience with rule making. Six months? A year? Three years? I mean, do you have a sort of a timeframe?
+> 
+> Robert Califf, FDA [00:39:29]
+> 
+> Whatever decisions are made, this, you know this doesn't sit around for three years. But I can't give an exact time. I really am prohibited from doing that.
+> 
+> Rep Barbara Lee [00:39:40]
+> 
+> No time frame. I mean, do you think by the end of the year?
+> 
+> Robert Califf, FDA [00:39:47]
+> 
+> It's one of our top priorities, so I would sure hope so.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:35:13]
+> 
+> I think we need to work with Congress to come up with a way to deal with this specific problem that cuts all of the red tape that we have to go through. Because if you think about it, it's not as if people don't see it coming in. It's just, if you went, I would urge you to go and just look, do a tour of the international mail facility, and see the work that has to go into documenting every single item that comes in. 
+> 
+> And there are many legal tricks that are used on the way in, like when I made my last trip to an import space, the boxes full of vaping products were labeled as lanterns. That creates a legal problem for us because we have to go by what's on the label. Then it takes weeks to get that fixed and through the legal process. And by then, there's a timeframe by which if we don't do something, the product goes on through.
+> 
+> And so, you know, my general theme, what I've come to realize, pardon the sports analogy, but at FDA we're like referees. We have a rule book, which you write as Congress. And I would at least urge you to think about this particular issue as one by which a specific rule might allow the referees to act quickly without all the things that are bogging us down.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:58:59]
+> 
+> I believe the solution to the problem is what we've already discussed. 
+> 
+> If there's one thing that seems to be bipartisan here, it's that these vaping products from China are not good for this country. They're not even -- they're flavored. They're not even sold in China to Chinese people. 
+> 
+> I think what we need is help from you to have a system that allows us to do this efficiently, to deal with it. There are 300,000 retail stores selling these products. We can't be in every one of them.
+> 
+> And let me just mention two things related to what you said.
+> 
+> Our budget is basically fixed, it hasn't grown. And we get no user fees from the vaping industry. It's totally-- the budget is totally funded by user fees. The vaping industry has gotten off scot-free from paying the user fees. So the money that we're spending to deal with the vaping industry is taken from other sources because there is no specific money to deal with the vapes. 
+> 
+> So we have a request in to have user fees that would allow us to put many more people on the ground. But again, as I've thought about this, a lot, particularly as this problem has grown, I think the solution needs to be something that gets rid of-- that makes it possible to move efficiently, to stop this before it gets into 300,000 retail shops.
+> 
+> ...
+> 
+> Robert Califf, FDA [01:01:03]
+> 
+> I do feel compelled just to point out, this is my opinion. I'm sort of thinking over the last few nights, it's not an administration policy at this point, but it just seems kind of obvious that if we're going to deal with this particular problem-- and I wanna distinguish it from other products like the pharmaceutical products where we can't just cut them off because they have benefits. Like I-- my hypertension is treated by generic drugs that originate in other parts of the world.
+> 
+> But flavored vaping products have no health benefit. And so it seems like there could be some agreement about how to efficiently take care of at least that problem. 
+> 
+> So, I'll continue to work on it and look forward to working with you, whatever the right solution is.
+
 ## New Jersey's health department on counterfeit Botox case
 
 - **Source:** email
