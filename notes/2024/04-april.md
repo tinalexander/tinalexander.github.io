@@ -11,6 +11,44 @@ permalink: /notes/2024/04
 
 # April 18, 2024
 
+## FDA commissioner at House hearing on marijuana rescheduling
+
+- **Source:** [livestream](https://www.youtube.com/watch?v=MsfunubJ_Eo)
+- **Attribution:** House Appropriations Committee hearing
+- **Date:** occurred April 18, 2024
+
+> Rep Andy Harris [01:34:13]
+> 
+> I'm just going to ask one simple question. You know, it says that, one of the five part test, the drug must be accepted by qualified experts. And even under the two factor test, it says that a qualified expert organization have opined in favor and government agencies is one of them.
+> 
+> Did the FDA consult with Dr. Volkow at NIH. I mean, she is the head of the institute for drug abuse. Did you consult with her about the wisdom of rescheduling marijuana?
+> 
+> Robert Califf, FDA [01:34:40]
+> 
+> NIDA has role in the process. And--
+> 
+> Rep Andy Harris [01:34:46]
+> 
+> This is a very specific question, doc. Did you discuss this with Dr. Volkow?
+> 
+> Robert Califf, FDA [01:34:52]
+> 
+> The agency discussed it with NIDA. I'm not sure about the-- I talk with Dr. Volkow all the time so--
+> 
+> Rep Andy Harris [01:34:58]
+> 
+> And you're aware that she is adamantly opposed to making marijuana more broadly available and rescheduling it?
+> 
+> Robert Califf, FDA [01:35:08]
+> 
+> I'm aware of her opinion, that she is.
+> 
+> Rep Andy Harris [01:35:09]
+> 
+> Okay, good. Because I would hope that we think that she is like the expert in the country on it, and I hope you would've taken that into consideration, but I suspect you took it in very minor considerations having come up with that recommendation, to reschedule marijuana. 
+> 
+> I just think-- I just think it's a dangerous move, and very uncharacteristic of the FDA, which deals with drugs. I would ask like which drug is it that you suggested rescheduling, THC, CBD combinations.
+
 ## Kentucky on case of counterfeit Botox
 
 - **Source:** emailed statement
