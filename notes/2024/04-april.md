@@ -19,7 +19,7 @@ permalink: /notes/2024/04
 
 > Robert Califf, FDA [00:38:06]
 > 
-> I'm a cardiologist and I practiced in North Carolina for 35 years. I probably have seen more people die from tobacco related illness than almost any physician because I was an intensivist who dealt with the end stage of the disease. This is a top priority for us. But when we make a final rule, it goes through an intensiv interagency process. And that's where it is right now. I can't give details about dates at this point.
+> I'm a cardiologist and I practiced in North Carolina for 35 years. I probably have seen more people die from tobacco related illness than almost any physician because I was an intensivist who dealt with the end stage of the disease. This is a top priority for us. But when we make a final rule, it goes through an intensive interagency process. And that's where it is right now. I can't give details about dates at this point.
 > 
 > I'll just say from the point of view of the FDA and me as an individual, given what I've seen in my life, we're talking about over the next 30 years, probably 600,000 deaths that could be averted. And most of these as you duly note, are in African American people who have been targeted by the industry for the sale of these products. 
 > 
