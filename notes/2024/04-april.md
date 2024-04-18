@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 18, 2024
 
+## Kentucky on case of counterfeit Botox
+
+- **Source:** emailed statement
+- **Attribution:** Kentucky Cabinet for Health and Family Services spokesperson Brice Mitchell
+- **Date:** received April 18, 2024
+
+> Kentucky Department for Public Health is aware of one Kentucky resident who had botulism symptoms following injections of botulinum toxin A (known as Botox). This individual is recovering and investigations are ongoing. It is important for those who are considering botulinum toxin injections to seek a qualified medical provider who receives medication from a United States licensed manufacturer. Botulinum toxin A should only be injected by licensed physicians, physician assistants, nurses or dentists who have undergone specialized training in giving these injections.
+
 ## Colorado state on case of counterfeit Botox
 
 - **Source:** emailed statement
