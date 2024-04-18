@@ -9,6 +9,24 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 18, 2024
+
+## New Jersey's health department on counterfeit Botox case
+
+- **Source:** email
+- **Attribution:** New Jersey Department of Health spokesperson Nancy Kearney
+- **Date:** received April 18, 2024
+
+> CDC is reporting one case from New Jersey , a woman from Passaic County (18-40 year age group), who was hospitalized, but has since been discharged and is recovering. No additional information is available due to privacy concerns.
+
+## Illinois health department on counterfeit Botox case
+
+- **Source:** email
+- **Attribution:** Illinois Department of Public Health spokesperson Michael Claffey
+- **Date:** received April 18, 2024
+
+> No other cases have been identified in Illinois, but we have asked anyone with a similar experience to call their local health department.
+
 # April 17, 2024
 
 ## CDC spokesperson on MPXV Clade Ib preprint
