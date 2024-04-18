@@ -11,7 +11,7 @@ permalink: /notes/2024/04
 
 # April 18, 2024
 
-## FDA commissioner at House hearing on marijuana rescheduling
+## FDA commissioner on marijuana rescheduling at House hearing
 
 - **Source:** [livestream](https://www.youtube.com/watch?v=MsfunubJ_Eo)
 - **Attribution:** House Appropriations Committee hearing
