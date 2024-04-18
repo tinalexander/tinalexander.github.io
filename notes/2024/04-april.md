@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 18, 2024
 
+## Colorado state on case of counterfeit Botox
+
+- **Source:** emailed statement
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson AnneMarie Harper
+- **Date:** received April 18, 2024
+
+> We, along with Adams County Public Health Department and the Denver Department of Public Health and Environment, are investigating a case of botulism-like illness. An unlicensed provider in Adams County injected a patient with what was purportedly botulinum toxin.
+
 ## New York state on cases of counterfeit Botox
 
 - **Source:** emailed statement
