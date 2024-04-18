@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 18, 2024
 
+## New York state on cases of counterfeit Botox
+
+- **Source:** emailed statement
+- **Attribution:** New York State Department of Health spokesperson Erin Clary
+- **Date:** received April 18, 2024
+
+> The New York State Department of Health is not aware of any cases in New York State outside of New York City. Please contact the New York City Department of Health and Mental Hygiene at pressoffice@health.nyc.gov to inquire about numbers within the City. The Department also encourages anyone who believes they may be impacted by the counterfeit product to contact their primary care physician and local health department.
+
 ## FDA commissioner addressing Chinese imports of vaping products
 
 - **Source:** [livestream](https://www.youtube.com/watch?v=MsfunubJ_Eo)
