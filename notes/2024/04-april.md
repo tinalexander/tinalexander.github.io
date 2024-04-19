@@ -9,6 +9,118 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 19, 2024
+
+## National Milk Producers Federation official on HPAI in dairy
+
+- **Source:** webinar
+- **Attribution:** hosted by the Swine Health Information Center
+- **Date:** occurred April 19, 2024
+
+> Jamie Jonker, NMPF [00:52:15]
+> 
+> These are what are typical things that are being seen in the affected dairy cattle. They are multiparous. So what that means in dairy language, they are second lactation orolder. They are often 150 days in milk or longer.
+> 
+> And when a herd gets infected, we see about 10% of the dairy cattle having clinical symptoms. So 10% of the lactating cattle. 
+> 
+> But there's minimal mortality. And the mortality that seems to be occurring in dairy animals that have the clinical symptoms are the effects of secondary infections, secondary opportunistic organisms, that are infecting these animals that have high path AI. 
+> 
+> We see decreased activity. So there's a drop in rumination and rumor hyper motility. There's a decline in feed intake. There's a decline in water intake. There's a decline in general, physical activity. Many of the early herds where this have occurred have activity monitors on their animals, and monitors within the milking systems that show a decrease in yield and consistency. 
+> 
+> The milk itself becomes thicker, often yellowish to brown and resembling a gloster. Some animals are showing flakes in milk, which are generally an indication of mastitis.
+> 
+> Severe cows are affected in all quarters, but in some animals it's only one or two of the quarters, and so it's not in necessarily affecting the entire mammary gland. 
+> 
+> There is widespread increase in milk conductivity, again a monitor about milk quality.
+> 
+> These animals when they become sick, they are separated from the general herd as best as possible. As you can imagine on a farm with 2,000 cows, you have 200 or so animals that become sick and separating them out into the hospital area can be challenging, because the farms are not set up to anticipate having a consequence like this where 10% or so of the herd is having clinical symptoms.
+> 
+> When these animals are becoming clinically ill, there is no specific treatment for high path AI in dairy cattle. So they are being treated for symptoms. 
+> 
+> They are being-- animals are being drenched to help rehydrate them. When they have secondary symptoms like fever, they're being given NSAIDs or other other things to help with those symptoms. But there's no specific treatment regimen today for high path AI and dairy cattle. 
+> 
+> ...
+> 
+> Jamie Jonker, NMPF [00:55:25]
+> 
+> When a farm has an outbreak, the general timeline? It takes a little bit less than a week to peak incidence. 
+> 
+> So when this gets into the herd, it's rolling through very fast. We're having a tapering at about two weeks. And so it's also a very quick issue in the dairy farms. 
+> 
+> However, it does take around 30 to 45 days for those clinically infected cows to recover fully from the process. And that being said, we have some cows that do not fully recover milk production, in that month to a month and a half period. 
+> 
+> Some animals actually essentially shut down milk production from this and become a dry animal. We do not know if that is a lasting condition, until we start having some of these animals freshen back in to the herd. And that could be as much as six months from now. 
+> 
+> And so there's still a lot more to learn about the lasting impacts of this on some of the clinically infected animals. 
+> 
+> ...
+> 
+> Jamie Jonker, NMPF [00:56:39]
+> 
+> There have been some abortions associated with this, but that again has not been a consistent sign. 
+> 
+> That is a secondary issue that may or may not be directly related to high path AI, or could be related to a secondary infectious organism. 
+> 
+> ...
+> 
+> Jamie Jonker, NMPF [00:57:55]
+> 
+> So that initial introduction most likely comes from migratory birds. But the exact route of that will probably remain a bit of a mystery because it took six weeks or so to figure out that it was actually high path AI in the original affected herds. And so, being able to trace back to that precise spillover event may remain a bit of a mystery.
+> 
+> ...
+> 
+> Jamie Jonker, NMPF [00:58:21]
+> 
+> Cows don't fly, but we have had additional herds identified in seven other states after that initial announcement on March 25th. So that does mean that it is spreading in other areas in some capacity.
+> 
+> There have been some animal movements from the affected areas in Texas to several of those other states. And that may be one route of transmission that is still being investigated as part of the epidemiological investigation process. 
+> 
+> ...
+> 
+> Jamie Jonker, NMPF [00:59:01]
+> 
+> We are seeing this in our lactating animals, but we are not seeing this in our calves, our growing heifers, our pregnant heifers, or in dry cows that have been dry prior to infection in the herd. 
+> 
+> And so it's very unique displayed dairy animals, acting in the mammary gland, seemingly more like a mastitis than a respiratory issue that is more typical of an influenza. 
+> 
+> ...
+> 
+> Jamie Jonker, NMPF [00:59:50]
+> 
+> There have been one egg layer in Texas, three egg layers in Michigan, which have been confirmed to have high path AI H5N1, the same consistent genetic clade from the original, migratory bird introduction. 
+> 
+> Those farms have been in close proximity to affected dairy farms. And so there could be lateral flow from the dairy farms to these poultry operations, to these egg laying operations. This could be such things as transfer of the virus through fomites, such as on clothing or on vehicles. 
+> 
+> Again, we, this process is still unfolding. And so there is more research to be done to see if there has been this lateral flow from dairy farms to these operations. But this is changing how the dairy industry is looking at biosecurity on our farms. 
+> 
+> ...
+> 
+> Question [01:36:51]
+> 
+> Are there studies in process or direct studies of the impact of pasteurization on the virus in milk and questions about whether or not there should be concern about low temperature pasteurization in terms of safety of the milk supply. So wondering if you could comment on that quickly.
+> 
+> Jamie Jonker, NMPF [01:37:12]
+> 
+> That's an excellent question. Obviously there haven't been studies previously because this is the first time we've seen it in dairy cattle. 
+> 
+> And so, where we are today, the Food and Drug Administration believes that the varying interlocking on farm and in processing plant activities are keeping our milk supply safe. 
+> 
+> Part of that is the work that's been done on pasteurization and eggs. It's showing that pasteurization inactivates high path AI at about 60 degrees Celsius. 
+> 
+> Our most common pasteurization in the dairy sector is called high temperature, short time, that's at 70 plus Celsius. And then the practice of diverting milk from sick animals or normal milk from animals is another part to that. 
+> 
+> That being said, yes, there are-- there is research being done. FDA is working with USDA and land grant universities to answer these questions. What is the ultimate impact of pasteurization? And looking at things like where does the virus reside in the milk matrix? Looking at some of the technologies that are used such as reverse osmosis and other ultra filtration processes that are done in plants that separate out. And so that work is underway. 
+> 
+> We hope that information will be available shortly, and I'm not going to define what shortly is.
+> 
+> ...
+> 
+> Jamie Jonker, NMPF [01:40:49]
+> 
+> There's certainly a lot of serological work that's being done on clinical animals, animals that may be asymptomatic, work in other dairy animals that do not seem to be impacted. So, dry cows, springing heifers, young stock, this-- it's-- we have a lot more questions and answers, because we're still actually so early in this process. 
+> 
+> But there's a lot of great work being done by the many dedicated professionals across the U.S. on that.
+
 # April 18, 2024
 
 ## FDA commissioner on marijuana rescheduling at House hearing
