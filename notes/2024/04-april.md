@@ -11,6 +11,16 @@ permalink: /notes/2024/04
 
 # April 22, 2024
 
+## FDA on origin of counterfeit Botox 
+
+- **Source:** email
+- **Attribution:** Food and Drug Administration spokesperson Amanda Hils
+- **Date:** received April 22, 2024
+
+> Yes, we are investigating the source of the counterfeit product and that is ongoing. CDC is handling information about patients, case counts, etc.
+> 
+> I can certainly let you know once we have an update on that.
+
 ## Florida's health department on counterfeit Botox cases
 
 - **Source:** emailed statement
