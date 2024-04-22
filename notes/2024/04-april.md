@@ -9,6 +9,68 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 22, 2024
+
+## Press conference by HHS on finalizing rule to support reproductive healthcare privacy
+
+- **Source:** [livestream](https://www.hhs.gov/about/news/2024/04/22/biden-harris-administration-issues-new-rule-support-reproductive-health-care-privacy-under-hipaa.html)
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred April 22, 2024
+
+> Melanie Fontes Rainer, HHS [00:19:33]
+> 
+> So the rule is actually meant to help when women travel.
+> 
+> We know, as a result of Dobbs, that people have to travel to receive lawful reproductive healthcare. And so when a woman travels from one state where the care might be banned to another state to receive lawful reproductive healthcare, no matter what that healthcare is, whether it's a pill or it's a procedure, it's just a medical examination, that when that woman goes home, her medical records will be protected, herself, her home providers who literally had nothing to do with the care she received in the first instance, they'll be protected. And they'll be able to say, no, you cannot have this information. 
+> 
+> And the provider in the state where she traveled will also be protected from folks reaching in to go after that type of medical care, which is one of the main goals of this rule, so that women can seek care even in the face of the patchwork of laws we have now across the country, how people receive care.
+> 
+> Xavier Becerra, HHS [00:20:29]
+> 
+> Can I just add real quickly on that? 
+> 
+> We have no illusion that everything that the president has urged us to do with our authorities is going to undo Dobbs. 
+> 
+> Dobbs took away rights. Until we have a national law that re institutes Roe versus Wade, we're going to have issues, but that doesn't stop us from doing everything we can to protect every American's right to access the care they need and to have the privacy they need.
+> 
+> Understanding again, Dobbs had consequences.
+> 
+> ...
+> 
+> Emma Beavins, Fierce Healthcare [00:23:34]
+> 
+> Can you speak to any changes that are in the final rule as compared to the proposed rule from stakeholder feedback you got on the proposed rule?
+> 
+> Melanie Fontes Rainer, HHS [00:23:42]
+> 
+> Sure. So one of the areas we got a lot of comments on was the exact example I used earlier. So, someone travels from state A to state B to receive lawful care, and then they go home to state A.
+> 
+> And what what's happening is on the ground in state A, law enforcement may be going to state A and saying, we want this information, we want this data. And that state A, those providers, they didn't provide the healthcare. It's their patient. And they assume it was probably lawful, but they didn't provide the healthcare. 
+> 
+> And so the final rule has a presumption of legality in those instances, just those instances to help take some of the burden off providers and to make it more workable for those providers would be one change. 
+> 
+> I think generally speaking the rule is mostly finalized as it was in the proposed rule. Not a lot of huge changes.
+> 
+> ...
+> 
+> Chelsea Cirruzzo, Politico [00:24:37]
+> 
+> I know some Democrats had asked that the final rule required that law enforcement have a warrant to request this information, but the proposed rule required a subpoena or a lower threshold. Has that changed in the final rule?
+> 
+> Melanie Fontes Rainer, HHS [00:24:50]
+> 
+> So we did receive incoming from some senators specific to that point. 
+> 
+> The final rule doesn't get to requirement for a subpoena or a warrant. Those things are under the existing HIPAA privacy rule and they continue to operate in the same way. 
+> 
+> However, this is a really important step. We know that we can do more in the space and we're happy to work with our partners in Congress to think about how else to protect privacy, right? 
+> 
+> This is a really critical action that will help people feel safer when they go seek care. It'll also help providers. 
+> 
+> I've spoken to many providers who, I mean, you've probably heard the same thing who say I live in, 'we'll just pick on California, but I live in California. But when I go home to state X, I'm really worried about what's gonna happen to me.' Right? 
+> 
+> And so we know that there's a lot of those instances and that we have to do more in this space to think about healthcare.
+
 # April 19, 2024
 
 ## National Milk Producers Federation official on HPAI in dairy
