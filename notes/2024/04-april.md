@@ -11,6 +11,20 @@ permalink: /notes/2024/04
 
 # April 22, 2024
 
+## Florida's health department on counterfeit Botox cases
+
+- **Source:** emailed statement
+- **Attribution:** Florida Department of Health spokesperson Grant Kemp
+- **Date:** received April 22, 2024
+
+> Pursuant to section 381.0031(6), Florida Statutes, and Rules 64D-3.036 and 3.041, of the Florida Administrative Code, information contained within a required case report or collected as part of an epidemiological investigation is confidential and exempt from provisions of section 119.071(1), Florida Statutes. While the case information is confidential and exempt, I would like to provide you with further information around your request.
+> 
+> The Department’s Division of Medical Quality Assurance (MQA) licenses and regulates over 100 license types and over 1.4 million licensed health care providers. Florida law requires that health care workers practicing in the state must be appropriately licensed. The unlicensed practice of a regulated health care profession is a felony in Florida. The Unlicensed Activity Unit (ULA) of MQA here in Florida is unique when compared to other states across the nation, as it is the only dedicated unit focused on investigating alleged instances of unlicensed health care activity. All unlicensed activity allegations, regardless of profession, are taken seriously and reviewed for legal sufficiency. Patients are encouraged to check the license status of their health care providers by visiting www.FLHealthSource.gov and clicking on “Verify A License.”
+> 
+> We would appreciate it if you would communicate this information to the community to ensure unlicensed activity in Florida is reported. If unlicensed activity is suspected, make a report by calling 1-877-HALT-ULA or emailing HALTULA@flhealth.gov.
+> 
+> Thank you again for reaching out to the Department and please do not hesitate to contact me with further questions.
+
 ## Press conference by HHS on finalizing rule to support reproductive healthcare privacy
 
 - **Source:** [livestream](https://www.hhs.gov/about/news/2024/04/22/biden-harris-administration-issues-new-rule-support-reproductive-health-care-privacy-under-hipaa.html)
