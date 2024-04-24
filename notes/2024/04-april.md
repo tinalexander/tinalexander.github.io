@@ -11,6 +11,208 @@ permalink: /notes/2024/04
 
 # April 24, 2024
 
+## HHS press briefing on avian influenza
+
+- **Source:** conference call
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred April 24, 2024
+
+> Don Prater, FDA [00:08:12]
+> 
+> U.S. government partners have been working with deliberate speed on a wide range of studies, looking at milk along all stages of production on the farm during processing and on shelves using established discipline methodologies used previously to confirm pasteurization effectiveness for known pathogens. 
+> 
+> This work is a top priority and we are proceeding in an efficient step-wise and scientific fashion to ensure the continued effectiveness of the federal state milk safety system. 
+> 
+> ...
+> 
+> Mike Watson, APHIS [00:12:25]
+> 
+> Today we'll be releasing a federal order, and the order is intended to further protect the U.S. livestock industry from the threat posed by highly pathogenic influenza. 
+> 
+> And the primary focus of the order initially will be on lactating cattle, but we will certainly have the opportunity to expand beyond that as necessary. 
+> 
+> So the federal order is gonna require laboratories and state veterinarians to report to USDA any dairy cattle that test positive for avian flu or any type of influenza A.
+> 
+> The testing will be done at the or national animal health laboratory network.
+> 
+> Dairy cattle moving interstate must be tested for avian flu or any type of influenza A before movement. No dairy cattle positive for avian flu virus may move interstate without conditions specified by APHIS.
+> 
+> And producer premises must undergo investigation and movement tracing for herds of positive avian flu cases, if they intend to move any other cattle across state lines. 
+> 
+> ...
+> 
+> Mike Watson, APHIS [00:13:26]
+> 
+> So requiring the positive test reporting will help USDA better understand this disease and testing before interstate movement will spread of the virus.
+> 
+> ...
+> 
+> Mike Watson, APHIS [00:13:58]
+> 
+> Additionally, we continue to see affected cows recover after supportive care with little to no associated mortality. However, over the past several weeks, USDA has noted a few things that have been the impetus for us to issue this federal order. 
+> 
+> That includes spread between cows within the same herd, spread from cows to poultry, spread between dairies associated with cattle movements, and cows without clinical signs that have tested positive for the virus. 
+> 
+> Also on April 16th, USDA APHIS microbiologists identified a shift in the H5N1 sample, this is one sample from a cow in Kansas, that could indicate that the virus was mutating for adaptation to mammals. 
+> 
+> However, CDC conducted further analysis of the specimen sequence and their assessment is low risk over all, of this one sample that has that change. 
+> 
+> Additionally, APHIS' national veterinary services laboratory found H5N1 in a lung tissue sample from asymptomatic coal dairy cow that originated from an affected herd was sent to slaughter.
+> 
+> That coal dairy cattle was condemned by USDA's food safety inspection service during inspection, and did not enter the food supply.
+> 
+> The one sequence shift and the one dairy cow with H5N1 in the lung tissue so far appear to be isolated events. 
+> 
+> However, the novel movement of H5N1 between wild birds and dairy cows requires further testing. 
+> 
+> We need time to develop a understanding to support any future courses of action. So this federal order is critical to increasing information available for USDA.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:17:43]
+> 
+> Now to date 23 people have been tested by states for avian flu and states have also been actively monitoring 44 people who are considered exposed and at risk for infection. 
+> 
+> So far, there has been one human case in the current outbreak reported in Texas following exposure to dairy cattle. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:18:43]
+> 
+> In addition, we constantly monitor clinical laboratory testing data. And so far we have not identified any unusual or concerning patterns at the national, the states or the local level. 
+> 
+> In addition, CDC has not identified any out of the ordinary influenza related emergency department visits, even when we compare areas where H5 has spread among cattle against areas where it has not. 
+> 
+> ...
+> 
+> Jeanne Marazzo, NIAID [00:21:34]
+> 
+> We are providing scientific support to the Department of Agriculture, the CDC, the FDA, and the Department of Health and Human Services in connection with the emerging H5N1 influenza situation in dairy cows. 
+> 
+> Specifically, we are doing this through our six U.S. based centers for excellence for influenza research and response known as CEIRRs.
+> 
+> Since 2007, the CEIRRs have played a major role in U.S. pandemic preparedness efforts by studying several key factors: influenza's natural history, how flu viruses transmit from to humans and therefore evolve and adapt, and the immunological factors that can determine influenza severity. 
+> 
+> The CEIRRs also provide a research infrastructure to address influenza outbreaks and assist in emergency response.
+> 
+> In the current H5N1 situation, NIAID mobilized the CEIRRs through its risk assessment pipeline to conduct studies to characterize the virus and evaluate the connection, if any, between the infected dairy cows and milk.
+> 
+> Specifically, these studies include PCR testing of retail pasteurized milk samples to determine if H5N1 virus is present. And if so, finding whether it's live virus by trying to grow it in cell culture and in embryonated chicken eggs.
+> 
+> CEIRRs researchers are also measuring virus levels in whole milk components, derived from infected milk, such as cream and pellets, conducting heat in activation studies of infected milk samples to understand how heat inactivates the virus, and investigating the stability of virus on environmental surfaces, such as steel and plastic.
+> 
+> Experimental results from CEIRR network scientists are reported in real time to NIAID. And we quickly share these with our lead government and regulatory partners for analysis as part of their broader surveillance and testing efforts.
+> 
+> ...
+> 
+> Mike Watson, APHIS [00:32:17]
+> 
+> We are also working with our state partners, where they can potentially have some-- a mechanism to test intrastate movement as well, but our is focused strictly on interstate movement. 
+> 
+> And in terms of the results, it's a typically one to three days. So it's relatively quickly, relatively fast to get those results back. We're also working on developing additional tests, where we could get quick results. 
+> 
+> These tests could be used in the field and hopefully get more immediate results for the producers. So that's not available yet, but we hope those will be available here in any near future.
+> 
+> ...
+> 
+> Don Prater, FDA [00:34:43]
+> 
+> We are conducting that analysis now, and we will be ready to share results in the coming days. 
+> 
+> We have, I think confirmed, what some of the other groups have found that there are PCR positives, but we still are processing the current samples and we be ready to share that in the coming days. 
+> 
+> JoNel Aleccia, AP [00:35:06]
+> 
+> I mean, just to be clear that milk from shelves in the U.S.-- you are waiting for the results of that. You haven't found it yet in milk, taken from grocery store shelves, is that correct? 
+> 
+> Don Prater, FDA [00:35:20]
+> 
+> We have found PCR positive results and milk from grocery store shelves, and we are conducting further analysis to see if those positives actually reflect any live virus that would pose a result of, uh, risk to consumers. 
+> 
+> ...
+> 
+> Jeanne Marazzo, NIAID [00:36:04]
+> 
+> What the PCR testing that was done by our investigators was performed on a relatively small number of retail milk samples. 
+> 
+> And they also detected positive PCR for H5N1. They then went on to do what we talked about before, which was to determine whether it is live, likely infectious virus, by growing it or attempting to grow it in both cell culture and the embryonated chicken eggs I mentioned before.
+> 
+> And the results that those investigators got indicated that the PCR positive material was not alive. In other words, it did not infect the eggs or the cells. 
+> 
+> I want to emphasize though that while this is welcome news, the effort studied a small number of samples that is not necessarily representative of all retail milk. So to really understand the scope here, we need to wait for the FDA effort that, uh, Don just mentioned. 
+> 
+> ...
+> 
+> Question [00:37:19]
+> 
+> Can you clarify more details about those positive samples? You said you found in grocery store shelves. I mean, what state, when did you get those results? What kind of product was it? Any details you can share would be helpful? 
+> 
+> Don Prater, FDA [00:37:32]
+> 
+> Yeah, thanks very much for the question. We are tracking a variety of, uh, surveys that have been performed.
+> 
+> To our understanding, some of these surveys are local or regional. And so for that reason, we wanted to conduct a nationwide survey. 
+> 
+> We don't have information to share, but it will be coming out very shortly. And, u that's what I can share at this point. We-- that that will be a more representative survey.
+> 
+> Question [00:37:59]
+> 
+> And then second, can you tell us more about why you think this milk wasn't diverted from the milk supply? I mean, did it come from an asymptomatic herd or farms not following your guidance to discard milk? Help us understand what you know about where this milk came from?  
+> 
+> Don Prater, FDA [00:38:15]
+> 
+> One of the things that's really important here is to understand the history, natural history of the disease, which includes not only animals in the symptomatic phase, but also animals that are in the asymptomatic or convalescent phase. 
+> 
+> So that information, that's being collected by our colleagues, is really helpful. Currently we believe that milk from symptomatic cows which is not entering the milk supply. 
+> 
+> We are also monitoring very carefully the fact that agent from asymptomatic or convalescent cows, the potential for that to enter the milk supply.
+> 
+> We believe that pasteurization will inactivate that level of virus. But it's important for us to understand the natural history of the disease. It's also important for us to understand the quantities that might be coming from asymptomatic animals.
+> 
+> Question [00:39:11]
+> 
+> And I'm sorry, just one last follow up on that. So are you able to tell where this milk came from, that had this fragment? 
+> 
+> Don Prater, FDA [00:39:19]
+> 
+> Right now, we will be able to look at information that we are collecting as part of this. Our traceability information is good, but it's not perfect.
+> 
+> ...
+> 
+> Helen Branswell, STAT [00:43:44]
+> 
+> We're hearing reports of some farmers that are refusig to let USDA officials on site to do testing. Is that true? And if it is, does USDA have the power to require an operator to let them on the site? 
+> 
+> Mike Watson, APHIS [00:43:45]
+> 
+> We've had some-- there has been a little bit reluctance for some of the producers to allow us to gather information from their farms.
+> 
+> That has been improving here most recently. We have been able to gather information from a number of facilities at this point in time. And, you know, with the federal order going into place, this is going to really help us address any gaps that might exist in terms of us being on the farm versus knowing what's happening with the cattle. 
+> 
+> So as again, as cattle move interstate, we're going to be able to get all the information we need. And if there are infected cattle on a particular premises, we will have the ability now to make sure we can go into that facility and follow up with additional testing, epidemiological gathering, those kind of things. 
+> 
+> So, to answer your first question. Yes, there was a little bit reluctance from some producers, but we have been able to work with a number of them and now with a federal order in place that will expand even further. 
+> 
+> ...
+> 
+> Patrick Thomas, The Wall Street Journal [00:49:17]
+> 
+> In terms of when there is a positive test, is there any read yet on if this is gonna have an impact on the milk supply, given when there is a test, if it doesn't enter the food supply, is that milk destroyed or dumped? Is there any sense of how that's impacting the milk supplies or do you expect it to as, is this appears to keep spreading?
+> 
+> Mike Watson, APHIS [00:49:36]
+> 
+> I can start. Right now, we're not seeing any significant impacts. 
+> 
+> The springtime is a time where there's excess supply. Spring flush is what it is, I guess, referred to. And so right now we're not seeing any challenges.
+> 
+> But I think, to answer your question, this is why we are really trying to gather as much information as possible over the next few weeks to few months, going back to our original premise that this is a spillover from wild bird migration.
+> 
+> Want want to have this opportunity now before the fall migration to have a better understanding of what happened, what may have happened, and ensure that we can have protection, for producers, come the fall. 
+> 
+> So, right now, we don't see any significant issues. 
+> 
+> And I'll ask my colleague at FDA if there's anything I missed there, but, again hoefully we'll have opportunity to have more measures in place, measures in place by the fall, based upon information we gather here.
+
 ## King County on counterfeit Botox cases
 
 - **Source:** email
