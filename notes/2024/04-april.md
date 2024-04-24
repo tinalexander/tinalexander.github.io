@@ -29,6 +29,87 @@ permalink: /notes/2024/04
 > 
 > The CDC also released this information which may be helpful. https://www.cdc.gov/botulism/outbreaks/harmful-reactions-botox-injections.html
 
+# April 23, 2024
+
+## Embargoed USDA press conference on school nutrition standards
+
+- Source: conference call
+- Attribution: hosted by the U.S. Department of Agriculture
+- Date: occurred April 23, 2024
+
+> Tom Vilsack, USDA [00:12:09]
+> 
+> I think it's important to underscore that school meals matter. They matter for the students who consume them, in some cases, in many cases, in far too many cases, it is often the only meal or meals that youngsters may get during the day. It matters to them and to their families. 
+> 
+> ...
+> 
+> Tom Vilsack, USDA [00:12:49]
+> 
+> We have quality partners that we work with in connection with school nutrition, and that's the school nutrition experts, the folks on the line, the school nutritionist folks who every single day care deeply about the kids they serve. And we have tried to be a good partner with them, with unprecedented support over the last several years, as they've faced a multitude of challenges with supply chain.
+> We also recognize the important role that industry plays, specifically when they can participate to reformulate foods, to meet the new standards. A good example is the dairy industry's work on reduced sugar and flavored milk. 
+> 
+> And I think all of this is designed to ensure that students have quality meals and that we meet parent's expectation that their children are receive healthy and nutritious meals at school. 
+> 
+> ...
+> 
+> Tom Vilsack, USDA [00:14:11]
+> 
+> This is a rule that's based on science and very consistent with, and needs to be consistent with the dietary guidelines. 
+> The rule that was formulated with a significant amount of feedback. Over 136,000 comments were received during the comment period. 
+> 
+> ...
+> 
+> Question [00:25:19]
+> 
+> I'm wondering if you can expand a little bit on why you decided against limiting flavored milk for K-5, K-8 schools. And then also, can you address what will happen to schools who fall short of meeting these guidelines this fall or in the coming years? Thanks so much.
+> 
+> Tom Vilsack, USDA [00:25:37]
+> 
+> Well, the challenge, I think, is to make sure that children have access and actually consume milk. And I think most school nutrition officials would tell you that youngsters certainly gravitate towards the flavored milk option. 
+> 
+> I think the key here was that we worked with the industry, knowing that we were going to be focused on added sugars, and challenged the industry and the industry stepped up to the challenge and basically is working on making sure that the flavored milk will in fact have limits on added sugar by the fall of 2025. 
+> And I think it's just basically we want to make sure kids have access to to milk. It's an option and choice, and it's one that many, many children choose. That way they get the vitamins and the minerals that they need.
+> 
+> Given the structure of this rule, that will over time provide for weekly consumption limits on added sugars, we thought that it could fit within the decision making that would be made at the local level. Obviously it's a decision that each school district can make whether to offer the flavored milk or not. 
+> 
+> But I think one of the reasons they might is because they will probably find that it's consumed more frequently by the children.
+> 
+> To your second question, Cindy if I could ask you, I think we would continue to work with with school districts, and the expectation and anticipation is given the transition period that we have built into the rule, that we're going to see compliance. 
+> 
+> As has been indicated, the industry is already working on providing many of the products that will meet the standards, and will continue to be a good solid partner. 
+> 
+> But Cindy, if you want to add anything to the question about what happens if the standards aren't met?
+> 
+> Cindy Long, USDA [00:27:38]
+> 
+> Yeah, no, I think as Secretary Vilsack noted, that the gradual nature of the rule, along with the extensive input and work we're doing with industry, is really designed to make schools be successful with the new standards, which is our goal. 
+> 
+> But with respect to what happens if a school, you know, despite its best intentions, isn't quite there at a particular point in time. I want to emphasize that one of the things we were able to do during the pandemic was to provide flexibility so that schools wouldn't face financial penalties if they weren't able to meet every aspects of the standard. 
+> 
+> Well, I want to share with you that we have made that flexibility permanent, in our regulations about school meal oversight. So going forward, if a school is working towards the standards and trying, but is falling short in some way, states are no longer required to automatically take a financial penalty to the school. 
+> 
+> The state has the ability to work with the school, to help us bring us into help work with them, and let them have a little more time if they needed. And so financial penalties would be only reserved for folks that were willfully or much more seriously violating the program.
+> 
+> ...
+> 
+> JoNel Aleccia, AP [00:29:26]
+> 
+> The press release says USDA will require only one sodium reduction, not the three incremental reductions that were proposed last year. And I think last year, the proposal would've reduced sodium by 30% by the fall of 2029. So how are-- how is this new single reduction-- what level does it reduce it to?
+> 
+> Tom Vilsack, USDA [00:29:52]
+> 
+> I'm going to get this. I hope I get this right, but if I don't, Cindy Long can correct me.
+> 
+> By the fall of 27, a 10% reduction on sodium on breakfast and a 15% reduction for lunch.
+> 
+> Congress basically provided a rider to the budget process, which basically instructed us to essentially provide this. So it's a very,-- it's very consistent with the congressional directive. In other words, Congress directed us to do this.
+> 
+> ...
+> 
+> Cindy Long, USDA [00:34:02]
+> 
+> When the rule publishes tomorrow, there will be a detailed impact analysis as there always is with a major rule. And it'll show that  the cost associated with this rule are very, very modest, compared to the overall size of the program. I believe it's on the order of maybe something like 1% over the five to 10 year projection period.
+
 # April 22, 2024
 
 ## FDA on origin of counterfeit Botox 
