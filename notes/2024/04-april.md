@@ -9,6 +9,26 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 24, 2024
+
+## King County on counterfeit Botox cases
+
+- **Source:** email
+- **Attribution:** Public Health Seattle & King County spokesperson Sharon Bogan
+- **Date:** received April 19, 2024
+
+> We are currently aware of five cases in King County that appear to be linked to this ongoing national investigation. However, FDA is currently investigating and has not confirmed if the cases are a result of a potential counterfeit or mishandled product or a result of Botox side effects.  The five people reported receiving Botox (botulinum toxin injections) at a cosmetic spa. None of the individuals were hospitalized.
+> 
+> FDA is the best source of information on these cases and others around the country that may be associated. 
+> 
+> Consumers should report suspected counterfeit Botox products to FDA at 800-551-3989, or through www.accessdata.fda.gov/scripts/email/oc/oci/contact.cfm.
+> 
+> Health care professionals and consumers should report adverse events related to the use of any medications, including suspected counterfeit medications to FDA's MedWatch Safety Information and Adverse Event Reporting Program
+> 
+> If systemic botulism is suspected, health care professionals should call the patient’s local health department immediately.
+> 
+> The CDC also released this information which may be helpful. https://www.cdc.gov/botulism/outbreaks/harmful-reactions-botox-injections.html
+
 # April 22, 2024
 
 ## FDA on origin of counterfeit Botox 
