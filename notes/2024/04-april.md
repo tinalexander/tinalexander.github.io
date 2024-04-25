@@ -9,6 +9,95 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 25, 2024
+
+## Federal officials at ASTHO webinar on avian influenza in cattle
+
+- **Source:** [webinar](https://www.astho.org/education/hpai-scientific-symposium/)
+- **Attribution:** hosted by the Association of State and Territorial Health Officials
+- **Date:** occurred April 25, 2024
+
+> Rosemary Sifford, USDA [00:15:22]
+> 
+> This slide has all the virus sequences lined out so that you can see that all the virus sequences in this genotype are highly similar. There are two distinct ancestral branches with three wild bird and one skunk that's in the red. 
+> 
+> The recent human detection in Texas is purple and then very closely related and ancestral to current dairy sequences, but it suggests an sampled population.
+> 
+> All dairy samples fall in a distinct branch together with minimal genetic variation. And those are all the green branches that form the flower. 
+> 
+> There are several remarkable features of the virus that have been characterized to date. It remains very much an avian virus with no significant changes compared to other genotypes. In other words, it's not becoming a bovine virus. 
+> 
+> The viruses are highly similar, representing more of a clonal expansion versus different independent introductions as has been seen among the majority of poultry detections prior to this event, on a distinct ancestral branch of the genotype relative to the dairy detections, and they share a common ancestor.
+> 
+> All samples on the dairy branch, six snips, not present in the skunk samples. The skunk shares four snips with a wild bird that has 12 additional snips. The skunk sequence has T271A mutation associated with mammalian adaptation. Mammalian adaptation mutations, including T271A have not been detected in dairy cattle to date.
+> 
+> This New Mexico skunk was detected on February 23rd, and did not have the potential to be the source of the virus in the detected dairy cattle. 
+> 
+> ...
+> 
+> Rosemary Sifford, USDA [00:23:31]
+> 
+> It is still early and we do still continue together information to make sure that we can understand as completely as possible how the virus is moving. 
+> 
+> But what we can say at this point is that there is a high viral load in the milk in the cattle, and it appears that the transmission is happening mostly within the lactating herd, so that leads us to believe that the movement with, through the cattle, is most likely associated with milk, whether that be through the actual process of milking or just from contamination from milk from a cow with a high viral load to other cattle.
+> 
+> In herds that are outside the geographic region, that appears to be where the first spillover event happened from birds into cattle. Those herds are very consistently showing epidemiological links to herds within that geographic region. So we believe it has moved with the cattle, with lactating cattle, from those herds into the other herds. 
+> 
+> For this reason we are strongly encouraging producers to limit movement of cattle, particularly lactating cattle, as much as possible. And as I mentioned yesterday, we just implemented the federal order to require testing prior to interstate movement.
+> 
+> ...
+> 
+> Rosemary Sifford, USDA [00:27:35]
+> 
+> From the samples that we have so far, which admittedly is a small number of samples from the GI tract, we do not see any significant shedding.
+> 
+> We've sampled different tissues from cattle provided to us from FSIS, and we are seeing still concentration in the milk and the mammary tissue as the highest tissues where we see viral concentrations.
+> 
+> ...
+> 
+> Rosemary Sifford, USDA [00:29:17]
+> 
+> The human who was sampled has a sequence that appears to be a predecessor to those that we have found in cattle. Our interpretation at this point is that that means likely that that person became infected through a herd that we did not receive any samples from for testing. 
+> 
+> As I mentioned, there were herds that had clinical signs in that geographic area before we had the first herd that we had positive H5N1 test results in. And so it is-- that we think is the strongest hypothesis at this time with regard to the infection for that person. 
+> 
+> ...
+> 
+> Rosemary Sifford, USDA [00:32:27]
+> 
+> At this point we do not have very much information with that regard. What I can say is that we have had one herd of cattle that did not have any clinical signs that tested positive in that herd. Cattle had been moved into that herd from a herd that had subsequently had clinical signs and positive cattle. 
+> 
+> However, the herd that received cattle to date has not had any clinical signs. So we do know that the virus can be  present in cattle, not exhibiting clinical signs, but we are just getting underway with those studies to give us an idea of the opportunity for viremia either ahead of or after clinical signs. 
+> 
+> So we should have more information about that in the coming weeks.
+> 
+> ...
+> 
+> Sonja Olsen, CDC [00:42:07]
+> 
+> As of today, there are affected herds in 33 farms across eight states. And there are also six detections in cats confirmed on various dairy farms and also wild bird confirmations on some of the farms.
+> 
+> ...
+> 
+> Sonja Olsen, CDC [00:46:49]
+> 
+> I want to acknowledge that the situation in cattle is a little different than that in poultry.
+> 
+> If dairy cattle are ill and we have known exposure, though we know what the illness-- we know that the illness in cattle can go on for several weeks. So that puts workers at an ongoing risk. And thus, the period for monitoring will be longer.
+> 
+> In situations where the cattle are not showing signs of illness, but testing positive, it gets a little less clear on how to define this exposure period. So these are just examples of some of the challenges we're working through and highlights understanding why knowing the routes of transmission from cattle or the environment or milk is so important to be able to begin to make informed decisions about the risk to humans and how best to protect workers. 
+> 
+> ...
+> 
+> Vivien Dugan, CDC [01:07:25]
+> 
+> So when we dive down a little bit deeper and look at the sequence data, we did obtain sequence data from the conjunctival specimen, but not the nasopharyngeal specimen from this individual. 
+> 
+> And that to our experts suggest a lack of a respiratory infection. And it also aligned with the cycle threshold or CT values that were obtained by realtime RT PCR on the specimens for 18 CT value for the conjunctival specimen and 33 CT value for that nasopharyngeal specimen. 
+> 
+> ...
+
+
 # April 24, 2024
 
 ## HHS press briefing on avian influenza
