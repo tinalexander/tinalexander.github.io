@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 25, 2024
 
+## NIAID spokesperson on H5N1 testing in retail milk samples
+
+- **Source:** email
+- **Attribution:** Kathy Donbeck of the National Institute of Allergy and Infectious Diseases
+- **Date:** received April 25, 2024
+
+> Yes, NIAID can confirm that both Ohio State University and St. Jude's Research Hospital, affiliated with the NIAID-funded Centers for Excellence for Influenza Research and Response, performed those activities as described in pasteurized, retail milk samples, and no live H5N1 virus has been detected to date. Those findings were shared with the FDA, USDA, and CDC as part of their broader surveillance and national testing efforts in connection with the H5N1 outbreak in U.S. dairy cattle.
+
 ## Federal officials at ASTHO webinar on avian influenza in cattle
 
 - **Source:** [webinar](https://www.astho.org/education/hpai-scientific-symposium/)
