@@ -156,6 +156,24 @@ permalink: /notes/2024/04
 > Also, we remind that early work by the NIH investigators indicate an absence of viable virus in their studies of retail milk. So that's helpful. And then of course, we're following very closely CDC's food safety group, as well as its surveillance team to make sure that they're monitoring any emergency department data, flu testing data for any unusual trends in thus far. We haven't seen anything come up there. 
 > 
 > So overall, even with considering these results, we haven't seen anything that would change our assessment that the commercial milk supply is safe.
+>
+> ...
+>
+> Don Prater, FDA [00:43:28]
+> 
+> So what are the types of studies that FDA is participating in? There's a whole variety of studies that might be going on, some of which FDA are participating in. These benchtop pasteurization studies using spiked milk and milk from affected cows. Also the pasteurization validation studies that I mentioned, with a pilot scale pasteurizer. Determining viral load in raw milk that could be presented to processors. This might be different than what we see in a clinically infected animal. We would expect it to be. And then also a survey of avian influenza inretail products. As I mentioned before, followed by viral isolation in eggs. 
+> 
+> These are some of the studies that FDA is looking at in partnership with our colleagues at USDA Agricultural Research Service. Next slide. 
+> 
+> So the pasteurization validation studies, we are looking at some of the most common time and temperature pasteurization combinations, including a high temperature short time. This is a method that uses 72 degrees centigrade for 15 seconds.We're also looking at this in both spike milk samples, as well as samples from clinically infected cows. And then the other type of study that we're looking at, I mentioned before, involves say pilot scale, continuous flow pasteurizer, and it will be informed by some additional data that we are doing in a double blinded study. 
+> 
+> Let's move to the next slide. 
+> 
+> So, why do we need to determine that? Because there will likely be a different viral load that will be encountered by the pasteurizer. And so we are working on a double blinded study, utilizing some samples that are collected under our grade A program. They're sent to a third party lab and then ultimately for blinding, and then ultimately, they will go to the USDA ARS lab, where we will follow that same procedure looking at PCR detection, followed by quantification in live bags that will help us to generate the information that will inform our pasteurizer study. Next slide.
+> 
+> Retail dairy product sampling. So we are looking at retail samples of various milk and milk products. And again, hopefully the USDA ARS lab is conducting the quantitative PCR, looking for detection of genetic material and followed up by quantifying for any potential live virus via an egg culture. Next slide.
+> 
+> Might be the last slid. Also on this landscape. So I mentioned that FDA is working on this, our colleagues at NIH through their investigators are working on this. There are important questions to be answered, looking at viral levels and different fractions of milk. So the skim milk versus the cream, looking at potential ingestion of raw milk through, from effective cows and rodents, some work on pasteurization validation, very similar to the bench top test, there's other work ongoing at universities, and then importantly as have already been discussed, APHIS epidemiologic investigations and the CDC and state epidemiologic investigations of farm personnel will also provide important information. 
 
 # April 24, 2024
 
