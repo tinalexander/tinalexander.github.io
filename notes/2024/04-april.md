@@ -96,7 +96,66 @@ permalink: /notes/2024/04
 > And that to our experts suggest a lack of a respiratory infection. And it also aligned with the cycle threshold or CT values that were obtained by realtime RT PCR on the specimens for 18 CT value for the conjunctival specimen and 33 CT value for that nasopharyngeal specimen. 
 > 
 > ...
-
+> 
+> David Boucher, ASPR [00:09:22]
+> 
+> Just want to touch quickly on some of the prior efforts that we can leverage, specifically the procurement of personal protective equipment, PPE, and antivirals. 
+> 
+> Both of these are available in the strategic national stockpile, which is managed by ASPR. Regarding general availability, these products are obviously available on the commercial market, and this is the first avenue of sourcing. 
+> 
+> We are not tracking any supply chain issues for any of the items that I'll be discussing here. That said want to make you aware of a few safety nets we have in plac at the federal level.
+> 
+> Before that, personal protective equipment is often available also at the state and jurisdictional levels. So please be aware of that. 
+> 
+> At federal, my colleagues at the U.S. Department of Agriculture manage the food safety inspection service or FSIS and the national veterinary stockpile or the NVS, both of those also maintain a supply of PPE. Here at ASPR, we do have a significant supply of PPE in the SNS talking about goggles, face shields, gloves, a lot of other reserves that can be tapped into if we need to step in and supplement other sourcing channels. 
+> 
+> So all of this really to say simply that appropriate use of PPE right now really should not be unnecessarily limited by supply issues. 
+> 
+> Shifting over to antivirals, I think you've heard earlier in the discussion, from Dr. Dugan, that the virus that we're tracking right now does not carry any of the genetic markers that we would commonly associate with resistance to the available antivirals for influenza. What this means is that the use of these antivirals for seasonal influenza would also be available for the treatment of infections caused by the H5N1 clade that we've identified in wild birds, poultry, and some mammals, including of course here, the focus dairy cattle.
+> 
+> We do have several of these antivirals in the SNS. We have oseltamivir, the branded name of that when it's Tamiflu, we have a zanamivir or Relenza, baloxavir or Xofluza, and then lastly Rapivab or peramavir.
+> 
+> Oseltamivir is the most commonly prescribed antiviral for influenza, and thus it is the majority of the SNS inventory. As with the PPE, we're not seeing any supply chain issues associated with these antivirals, and of course we have identified just one human case of H5N1 associated with the spread among dairy cattle. 
+> 
+> We do, however, just want to make everybody aware, we have tens of millions of courses of Tamiflu that can be used to supplement commercial sources in alleviating any supply bottlenecks, if we need to do that.
+> 
+> ...
+> 
+> David Boucher, ASPR [00:15:04]
+> 
+> Regarding vaccine availability, spend a couple minutes just talking about that. As Dr. Dugan mentioned, we do have two CVVs that are well matched to the H5N1 virus that we're tracking in dairy cattle. Those are the two with the really long names. Commonly we'll call those Astrakhan American Widgeon. 
+> 
+> We have completed initial fill of some doses. We're working right now with our colleagues at FDA and our industry partners to determine if there's an appropriate regulatory pathway for use of these doses, if we need in the current response.
+> 
+> If there is, these doses would be the first wave of doses that would be used. At this level, we're talking about total quantities in the hundreds of thousands. This would most likely roll out in tranches of several hundreds of thousands at a time. 
+> 
+> I mentioned the bulk antigen manufacturing and adjuvant stockpiling. We have also completed that for these CVVs, if we needed additional vaccine above that hundreds of thousands that I mentioned, we could mix and fill this bulk material into final vials or syringes, and these doses would then be kind of that second wave of doses available.
+> 
+> In this part, we're talking about up to about 10 million doses. If we needed to move beyond this, we would be able to leverage existing contracts with manufacturers and enter into large scale production. This is where we would be able to build a supply and vaccine sufficient to provide doses to a wider swath of the country.
+> 
+> ...
+> 
+> David Boucher, ASPR [00:26:02]
+> 
+> So, I mentioned we partner with the manufacturers of the seasonal influenza vaccines. The great advantage that gives us is that we're using licensed platforms. We can quickly pivot to a different clade and plug it into that. It makes the regulatory path a lot of the manufacturing, a lot easier. 
+> 
+> The downside of that though is that it does leverage those same lines that are used for seasonal production. So, the things that we're weighing right now, when we make the-- when we're trying to evaluate the decision of when to go, it is obviously the situation on the ground. 
+> 
+> The risk to humans is first and foremost, the resourcing required to do it, and then the potential side effects, if we disrupt seasonal production. We would obviously not want to do anything that that causes shortages of the seasonal vaccine. So those are all the things that we're weighing right now. 
+> 
+> And it's a very-- you can see there's a lot of variables that go into making that decision.
+> 
+> ...
+> 
+> Don Prater, FDA [00:48:30]
+> 
+> We've just received some results a few minutes ago and we're still analyzing them, but at a top level, it looks like about one in five samples, maybe with some preponderance for areas from known herds. And so we'll have more to say about this as we complete our investigation. 
+> 
+> This is just coming in this morning, in fact, and just want to remind that the PCR positive results representing viral fragments would necessarily need to be analyzed to determine whether there represents any viable virus that pose a risk to consumers. It's important for us to get this information. 
+> 
+> Also, we remind that early work by the NIH investigators indicate an absence of viable virus in their studies of retail milk. So that's helpful. And then of course, we're following very closely CDC's food safety group, as well as its surveillance team to make sure that they're monitoring any emergency department data, flu testing data for any unusual trends in thus far. We haven't seen anything come up there. 
+> 
+> So overall, even with considering these results, we haven't seen anything that would change our assessment that the commercial milk supply is safe.
 
 # April 24, 2024
 
