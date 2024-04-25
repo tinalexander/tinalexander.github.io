@@ -21,7 +21,7 @@ permalink: /notes/2024/04
 > 
 > This slide has all the virus sequences lined out so that you can see that all the virus sequences in this genotype are highly similar. There are two distinct ancestral branches with three wild bird and one skunk that's in the red. 
 > 
-> The recent human detection in Texas is purple and then very closely related and ancestral to current dairy sequences, but it suggests an sampled population.
+> The recent human detection in Texas is purple and then very closely related and ancestral to current dairy sequences, but it suggests an unsampled population.
 > 
 > All dairy samples fall in a distinct branch together with minimal genetic variation. And those are all the green branches that form the flower. 
 > 
