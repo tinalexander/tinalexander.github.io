@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 26, 2024
 
+## American Heart Association statement on menthol cigarette ban delay
+
+- **Source:** emailed statement
+- **Attribution:** Nancy Brown, CEO of the American Heart Association
+- **Date:** received April 26, 2024
+
+> “Two full years after releasing proposed rules backed by extensive scientific evidence – and more than a decade since the FDA began examining menthol cigarettes – the administration has failed to take decisive action to remove these deadly, addictive products from the market. The administration’s inaction is enabling the tobacco industry to continue aggressively marketing these products and attracting and addicting new users.”
+
 ## CDC presentation on investigation of CRPA in New Jersey dogs
 
 - **Source:** presentation
