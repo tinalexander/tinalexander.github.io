@@ -11,6 +11,112 @@ permalink: /notes/2024/04
 
 # April 26, 2024
 
+## CDC presentation on investigation of CRPA in New Jersey dogs
+
+- **Source:** presentation
+- **Attribution:** 2024 Annual Epidemic Intelligence Service Conference by the Centers for Disease Control and Prevention
+- **Date:** occurred April 26, 2024
+
+> Emma Price, CDC [00:00:38]
+> 
+> The tears were contaminated with a bacteria: carbepenemase producing, carbapenem resistant, Pseudomonas aeruginosa. And this pattern of resistance had never before been found in the United States. 
+> 
+> And this was concerning because the bacteria is carbapenem resistant and carbapenems are a class of antimicrobials reserved for resistant infections. There are limited treatment options for patients that have carbapenem resistant infections. 
+> 
+> The second point of concern is that this bacteria produce carbapenemase. Carbapenamase are enzymes that degrade carbapenem antibiotics, and they're encoded on mobile genetic elements like this yellow circular plasmid here, and carbapenemase producing organisms or CPOs can spread these resistance genes easily. 
+> 
+> So this yellow plasmid can move to other bacteria in the environment, thus amplifying the spread of carbapenem resistance. 
+> 
+> So now that this bacteria has been introduced into the U.S. from the artificial tears, this resistance could spread.
+> 
+> ...
+> 
+> Emma Price, CDC [00:02:05]
+> 
+> During March to June of 2023, the New Jersey Department of Health was alerted of two additional outbreak linked cases. But oddly enough, these were not human cases. The outbreak strain was isolated from two dogs. We'll call them Watson and Crick.
+> 
+> The canine isolates were highly genetically related to the outbreak strain in people. 
+> 
+> Watson and Crick were separately owned and they had not interacted with each other, but they were hospitalized at the same small animal veterinary hospital. 
+> 
+> Watson was being worked up for a chronic cough. Her isolate came from a bronchial or an airway swab, and she lived with three other dogs at home. 
+> 
+> Crick's isolate came from an external air swab. He was being worked up for recurrent ear infections and he lived with no other pets. 
+> 
+> ...
+> 
+> Emma Price, CDC [00:03:01]
+> 
+> Both samples were sent to an academic veterinary diagnostic laboratory for culture and sensitivity testing and because the labs saw an uncommon resistance pattern, they sequenced the sample, which isn't routinely done by veterinary labs, and uploaded the results to a national database, which triggered an alert to CDC and then to us at New Jersey. 
+> 
+> So we wanted to understand how the strain got into the dogs so that we could stop further transmission events. And because both dogs were seen at the same veterinary hospital, that's where we focused our investigation.
+> 
+> ...
+> 
+> Emma Price, CDC [00:04:15]
+> 
+> So starting with the obvious, we asked if the owners used the outbreak associated brand of artificial tears on themselves or on their dogs, but neither dog owner recalled using the tears, although we do acknowledge the difficulty of recalling over the past year. 
+> 
+> We asked if the owners or dogs had been admitted to or visited human hospitals, but both owners were healthy and neither owner nor any of the household members had been hospitalized. And even the dogs had not visited as therapy animals. 
+> 
+> And because this pattern of resistance has been seen in other countries, we also asked about international travel and no one had traveled internationally since before March 2022. 
+> 
+> And then we wanted to see if the dogs or other patients at the veterinary hospital received artificial tears, But a review of the hospital purchase records showed that the hospital did not stock the outbreak associated brand. 
+> 
+> So then we also wanted to see if other tear products were used other than the outbreak associated brand. And we found that Crick was prescribed and received over the counter artificial tear product. It was not the outbreak associated brand, but it is possible that there's other products that are contaminated, that we hadn't identified. 
+> 
+> And we also looked at patient overlap at the facility to see if veterinary hospital transmission was possible such as through contaminated hands or equipment. And we found that was possible because Watson and Crick visited the surgery preparation area and the recovery area of the hospital, although on different days, and Crick and one of Watson's housemates also saw the ophthalmologist at the hospital. 
+> 
+> So it's possible that transmission happened in those areas. 
+> 
+> ...
+> 
+> Emma Price, CDC [00:06:21]
+> 
+> Our site visit uncovered gaps related to infection prevention and control. 
+> 
+> We found limited hand hygiene resources. Ideally there would be hand sanitizer in each room or treatment area mounted on the wall. There was also limited availability and just general lack of use of personal protective equipment, especially gloves.
+> 
+> Gloves, ideally, would be readily available for use, such as mounted on one of these walls in the treatment area and exam room. There was also storage of clean equipments and supplies within the splash zone of sinks, which could lead to contamination of these products. 
+> 
+> And then there was also visible soiling and dust accumulation on reusable shared equipment and devices. 
+> 
+> And I do just want to take a moment to note that these findings aren't specific to this vet hospital. This is part of a wider lack of emphasis of infection prevention and control in the veterinary setting.
+> 
+> ...
+> 
+> Emma Price, CDC [00:09:48]
+> 
+> So fortunately both dogs are doing well and we know of no other animals involved in this outbreak. 
+> 
+> However, we do know that it's time we start preparing for CPOs in the veterinary setting to prevent spread among animals and then also possibly back to humans. 
+> 
+> ...
+> 
+> Emma Price, CDC [00:12:00]
+> 
+> We did have concern just because of the close shared environment, sharing water balls, food balls, and dogs interact very closely licking each other as well. So certainly concern for transmission there. 
+> 
+> Fortunately Watson was doing well, but there is of course concern that she could have been colonized with this. So, we tried to balance our recommendations with what was feasible for the owners and also what would protect the owners as well. 
+> 
+> Fortunately, the owners were not immune compromised, but we did alert them to the fact that there could be potential transmission to them, and to alert their physicians as well for future healthcare visits. And ideally keep the dogs away from other dogs in the future, which we understand is a difficult thing to do.
+> 
+> ...
+> 
+> Emma Price, CDC [00:13:49]
+> 
+> The samples were actually sent to an academic veterinary diagnostic laboratory, not to the state laboratory. 
+> 
+> And because they had a grant and a veterinary microbiologist works there and he did his great due diligence and uploaded the results, that's how we got the notification because the strain matched the outbreak strain. 
+> 
+> So it was quite serendipitous in a way, but also really points to the one health connection and the needs to have surveillance of CPOs in veterinary settings. 
+> 
+> Right now, they are not reportable as CPOs are not reportable in animals, in New Jersey, but we are working on our protocols to include that.
+> 
+> I can't really speak to other states. I think it might differ. I know in Pennsylvania where the samples were sent, the lab did to then go and send out a letter about this. 
+> 
+> But certainly something that we are working on, because it's important that we start alerting people about this.
+
 ## Novavax statement responding to WHO strain selection
 
 - **Source:** emailed statement
