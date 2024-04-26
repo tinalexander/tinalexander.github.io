@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 26, 2024
 
+## Food and Drug Administration on menthol cigarette ban delay
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson James McKinney
+- **Date:** received April 26, 2024
+
+> The FDA remains committed to issuing the tobacco product standards for menthol in cigarettes and characterizing flavors in cigars. As we’ve made clear, these product standards remain at the top of our priorities.
+
 ## American Heart Association statement on menthol cigarette ban delay
 
 - **Source:** emailed statement
