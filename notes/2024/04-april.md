@@ -14,7 +14,7 @@ permalink: /notes/2024/04
 ## Novavax statement responding to WHO strain selection
 
 - **Source:** emailed statement
-- **Attribution:** John C. Jacobs, President, and Chief Executive Officer, Novavax:
+- **Attribution:** John C. Jacobs, President, and Chief Executive Officer, Novavax
 - **Date:** received April 26, 2024
 
 > “Novavax has been developing and manufacturing a monovalent protein-based JN.1 COVID-19 vaccine at-risk to ensure readiness for this fall. Today’s recommendation by the WHO Technical Advisory Group on COVID-19 Vaccine Composition is an important step to help ensure access to a non-mRNA protein-based vaccine option for those at highest risk globally.”
