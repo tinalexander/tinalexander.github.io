@@ -11,6 +11,74 @@ permalink: /notes/2024/04
 
 # April 29, 2024
 
+## FDA officials in call with reporters about LDT rule
+
+- **Source:** news briefing
+- **Attribution:** hosted by the Food and Drug Administration
+- **Date:** occurred April 29, 2024
+
+> Jeff Shuren, FDA [00:08:50]
+> 
+> While developing this final rule, the FDA considered the large volume of comments received on the notice of proposed rule making. And in light of that input, we adjusted the phase out policy in a manner that better serves the public health. 
+> 
+> This includes targeted enforcement discretion policies for certain categories of IVDs made by a laboratory. After this phases out, the FDA generally will expect IVDs manufactured by either a non laboratory or a laboratory to meet the same requirements, though certain IVDs manufactured by a laboratory may fall within one of the agency's target enforcement discretion policies. 
+> 
+> And through these target enforcement discretion policies, again, for certain categories of IVDs made by laboratory, we expect patients and healthcare professionals will continue to have access to these tests they need while having greater confidence that the tests they rely on are accurate.
+> 
+> ...
+> 
+> Jeff Shuren, FDA [00:11:49]
+> 
+> The agency's economic analysis estimates that the benefits of the phase out policy outweigh the costs. 
+> 
+> These benefits include an anticipated reduction in healthcare costs associated with unsafe or ineffective tests, including tests promoted with false or misleading claims and from therapeutic decisions based on the results of those tests. 
+> 
+> Today's action is a critical step toward helping to ensure the safety and effectiveness of LDTs while facilitating continued access to critical tests patients rely upon.
+> 
+> ...
+> 
+> Rachel Roubein, The Washington Post [00:14:07]
+> 
+> I was wondering if you'd be able to give some examples of tests, with what you described as sort of the second enforcement discretion, in a healthcare system where there's an unmet need of patients and there isn't currently an FDA authorized test. What are some examples of tests that would fall in that kind of jurisdiction?
+> 
+> Jeff Shuren, FDA [00:14:30]
+> 
+> Well, certainly, and we lay this out in the preamble for the rule. I'll mention it as well, we will also be issuing additional guidance to further expand upon the information that we're providing today. 
+> 
+> So, for an unmet need, we consider and LDT for an unmet need where there's no available FDA authorized IVD that meets the patient's needs. 
+> 
+> So this could be because there's no FDA authorized IVD for the disease or condition, and that could be for rare disease, for example. 
+> 
+> Second there is an FDA authorized IVD for the disease or condition, but it's not indicated for use on that patient or, there's a unique attribute that needs to be added to the LDT to meet the patient's need. 
+> 
+> Or there's an FDA authorized IVD but it's not available to that patient. So for example, you could have an LDT for use on pediatric patients when the FDA authorized IVD as indicator for use on adults only.
+> 
+> ...
+> 
+> Jeff Shuren, FDA [00:16:46]
+> 
+> We believe that the phase out policy, again, with these target enforcement discretion policies will sort of strike that right balance on better protecting the public health, assuring  safety and effectiveness of IVDs that are LDTs, but again, avoiding undue disruption to the testing market. 
+> 
+> So we received many comments on the notice of proposed rule making, including on the proposed phase out policy and the preamble. And we included these additional policies as a result. 
+> 
+> So what we did is we kind of determined, and this includes for IVDs offered as LDTs currently on the market, based on benefit risk consideration, we balanced the benefits of FDA oversight with other considerations specific to the test that would fall under the policy. 
+> 
+> So in the case for the enforcement discretion policy of currently marketed IVDs, first marketed before issuance of the rule, this was intended to address concerns that the perceived cost of compliance with the requirements otherwise in the rule could lead to widespread loss of access to beneficial IVDs on which patients currently have relied.
+> 
+> That said, if we identify problems with the tests, we can move forward to take action against them. And again, if modifications that-- certain modifications like modifying the intended use on that test are made, that also would trigger additional oversight on the test. 
+> 
+> So we think this overall strikes the right balance.
+> 
+> ...
+> 
+> Elizabeth Hillebrenner, FDA [00:28:40]
+> 
+> We did get many comments from the docket from different patient groups, including groups representing patients, caregivers, family members, and providers for those with rare diseases. And, this has been incredibly helpful in shaping some of the policies in the final rule-- in the preamble to the final rule. 
+> 
+> In particular, what we learned from the comments in the docket is that oftentimes these patients end up at integrated healthcare facilities to-- because they have these rare conditions that their needs are not being met elsewhere, and they end up in these integrated healthcare systems that then often will create a test in order to meet the needs of that patient that they are presented with, looking for answers. 
+> 
+> And that informed the development of the policy around LDTs for unmet needs and patients being treated within an integrated healthcare system. 
+
 ## USDA spokesperson on H5N1 in beef
 
 - **Source:** emailed statement
