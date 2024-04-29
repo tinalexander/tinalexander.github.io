@@ -9,6 +9,18 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 29, 2024
+
+## USDA on H5N1 in beef
+
+- **Source:** emailed statement
+- **Attribution:** on background from a USDA spokesperson
+- **Date:** received April 29, 2024
+
+> USDA is confident that the meat supply is safe. USDA has a rigorous meat inspection process, where USDA’s Food Safety and Inspection Service (FSIS) veterinarians are present at all federal livestock slaughter facilities. FSIS inspects each animal before slaughter, and all cattle carcasses must pass inspection after slaughter and be determined to be fit to enter the human food supply. While we have multiple safeguards in place to protect consumers, we recommend consumers properly handle raw meats and cook to a safe internal temperature. Cooking to a safe internal temperature kills bacteria and viruses in meat. (specific recommendations are available online at: Safe Minimum Internal Temperature Chart | Food Safety and Inspection Service (usda.gov).
+> 
+> To verify this in the context of H5N1, USDA is working on 3 separate beef safety studies related to avian influenza in dairy cattle: 1) sampling ground beef at retail in the affected states; 2) beef muscle sampling of cull dairy cows condemned at select FSIS-inspected slaughter facilities; and 3) ground beef cooking study. For the first, samples are being collected at retail outlets in the states in which dairy cow herds have tested positive for H5N1 influenza virus. The samples will be analyzed by APHIS using polymerase chain reaction (PCR), which indicates whether any viral particles are present. For the second sampling effort, FSIS is currently collecting muscle samples at FSIS-inspected slaughter facilities of cull dairy cattle that have been condemned for systemic pathologies. Similarly, the samples will be analyzed by APHIS using PCR to determine presence of viral particles. For both retail and at slaughter samples, any PCR positives will be evaluated for live virus by ARS. Finally, ARS will be conducting the beef cooking study and will using a virus surrogate in ground beef and cooking it at different temperatures to determine log-reduction of the virus. Results from these studies are forthcoming and we will share information as it becomes available.
+
 # April 26, 2024
 
 ## Food and Drug Administration on menthol cigarette ban delay
