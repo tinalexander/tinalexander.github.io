@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 29, 2024
 
+## NIAID spokesperson on testing retail beef for H5N1
+
+- **Source:** email
+- **Attribution:** spokesperson for the National institute for Allergy and Infectious Diseases
+- **Date:** received April 29, 2024
+
+> To our knowledge, no, none of the NIAID-funded CEIRRs are testing retail beef---just the USDA.
+
 ## FDA officials in call with reporters about LDT rule
 
 - **Source:** news briefing
