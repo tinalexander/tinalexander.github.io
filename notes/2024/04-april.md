@@ -11,7 +11,7 @@ permalink: /notes/2024/04
 
 # April 29, 2024
 
-## USDA on H5N1 in beef
+## USDA spokesperson on H5N1 in beef
 
 - **Source:** emailed statement
 - **Attribution:** on background from a USDA spokesperson
