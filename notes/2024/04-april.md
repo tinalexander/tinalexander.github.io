@@ -49,7 +49,7 @@ permalink: /notes/2024/04
 > 
 > And while we are starting to see a bit of an increase in reported cases as of 2023, we're still not back to pre pandemic levels, as you can see here. 
 > 
-> So in the box in the upper right, I've included case counts to date in 2024. And if we compare this to the same time period in 2023, we're up about 140%. So if this trend continues, we should surpass, 2023 case counts. 
+> So in the box in the upper right, I've included case counts to date in 2024. And if we compare this to the same time period in 2023, we're up about 140%. So if this trend continues, we should surpass 2023 case counts. 
 > 
 > So I will note while I'm talking about trends in the U.S. that you know, many countries now around the world are seeing increases in pertussis. And in fact, in Europe, they're actually seeing really large increases around many European countries right now. And it's interesting that a lot of these European countries are surging at a much quicker rate than we're seeing in the U.S. 
 > 
@@ -63,7 +63,7 @@ permalink: /notes/2024/04
 > 
 > However, in recent years, we've observed a pretty significant drop in disease in this age group, which we believe is a result of a successful maternal vaccination program during pregnancy.
 > 
-> The incidence of disease among the other age groups has been fairly comparable over time. However, I want to draw your attention to the mid 200s, where we saw an increasing burden of disease among children, seven to 10, and these are represented by the grade line. So this increase in this age group actually coincided with the aging of the first acellular vaccinated cohorts of children. 
+> The incidence of disease among the other age groups has been fairly comparable over time. However, I want to draw your attention to the mid 2000s, where we saw an increasing burden of disease among children, seven to 10, and these are represented by the grade line. So this increase in this age group actually coincided with the aging of the first acellular vaccinated cohorts of children. 
 > 
 > Again, this highlights this issue of waning immunity from acellular vaccines. 
 > 
