@@ -11,10 +11,20 @@ permalink: /notes/2024/04
 
 # April 30, 2024
 
+## Pennsylvania's agriculture department on H5N1 in milk
+
+- **Source:** emailed statement
+- **Attribution:** Pennsylvania Department of Agriculture spokesperson Ashley Fehr
+- **Date:** received April 30, 2024
+
+> HPAI has been detected in dairy cattle in 9 states, but there have been no cases in PA.  The Department, working with industry stakeholders, Centers of Excellence, PA Diagnostic Lab System, and USDA, are vigilant and working in real-time to respond to this situation as it continues to evolve.  PA is prepared to respond to any suspect or confirmed positive cases on dairy farms and has implemented additional import requirements to prevent movement of this virus into the state.
+> 
+> FDA is handling retail milk testing.  PA has not tested milk in a retail setting as milk that has undergone pasteurization is safe to drink. However, should a positive sample be detected, the state would be able to trace the origin of it and be able to implement proper protocols to keep that milk from entering the commercial supply.
+
 ## CDC official on rising pertussis rates in the U.S.
 
 - **Source:** [webinar](https://www.nfid.org/webinar/combating-the-resurgence-of-measles-and-other-preventable-diseases/)
-- **Attributed:** hosted by the National Foundation for Infectious Diseases
+- **Attribution:** hosted by the National Foundation for Infectious Diseases
 - **Date:** occurred April 30, 2024
 
 > Tami Skoff, CDC [00:04:08]
