@@ -11,7 +11,7 @@ permalink: /notes/2024/04
 
 # April 30, 2024
 
-## Texas health department on reported H5N1 illness around Amarillo
+## Texas health department on reported H5N1 symptoms around Amarillo
 
 - **Source:** emailed statement
 - **Attribution:** Texas Department of State Health Services spokesperson Lara Anton
