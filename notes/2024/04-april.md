@@ -11,6 +11,100 @@ permalink: /notes/2024/04
 
 # April 30, 2024
 
+## CDC official on rising pertussis rates in the U.S.
+
+- **Source:** [webinar](https://www.nfid.org/webinar/combating-the-resurgence-of-measles-and-other-preventable-diseases/)
+- **Attributed:** hosted by the National Foundation for Infectious Diseases
+- **Date:** occurred April 30, 2024
+
+> Tami Skoff, CDC [00:04:08]
+> 
+> So starting in the late 1940s, the U.S. began vaccinating with whole cell vaccines or DTP. However, in the 1990s, we transitioned away from whole cell vaccines to a safer version of the vaccine called an acelnlular or DTaP vaccine. DTaP is currently recommended as a three dose primary series with doses given at two, four and six months of age, and then two booster doses given at 15 to 18 months and four to six years of age before children start school.
+> 
+> In 2005, reduced dose dose Tdap vaccines were licensed in the U.S. for use among adolescents and adults. A single dose of Tdap is recommended at the preferred age of 11 to 12 years. And a dose of TD or Tdap can be given every 10 years for the decennial TD booster. 
+> 
+> Additionally, pregnant women should receive a dose of Tdap during every pregnancy preferably during the early part of 27 to 36 weeks gestation. This recommendation has actually been in place in the U.S. since 2012, and has been very effective at reducing the burden of infant pertussis.
+> 
+> ...
+> 
+> Tami Skoff, CDC [00:06:37]
+> 
+> In 2012, we had over 48,000 cases reported in the U.S., and this was the largest post vaccine introduction peak that we've observed. 
+> 
+> And this increasing slow, but steady increasing trend really continued right up until the start of the COVID 19 pandemic in 2020, after which of course we saw a large drop. And this is highlighted in the graph in the upper right hand corner. 
+> 
+> So there are likely many factors contributing to this increase that we're observing in the U.S., including changes in pertussis diagnostic tests and reporting, increased public and provider awareness. But we believe one of the driving factors and one of the largest contributors is waning protection from acellular pertussis vaccines. Numerous studies have shown that the duration of protection is shorter for acellular vaccines compared to the previous whole cell vaccines that were used in the U.S.
+> 
+> Next slide. So here, I just want to take a closer look at pertussis trends during the pandemic years. So as I noted on the previous slide, the increase in pertussis that we are observing continued right up through the start of the COVID 19 pandemic in 2020, after which we saw the dramatic decline in reported pertussis, which was similar to trends observed in other nationally notifiable diseases. 
+> 
+> And while we are starting to see a bit of an increase in reported cases as of 2023, we're still not back to pre pandemic levels, as you can see here. 
+> 
+> So in the box in the upper right, I've included case counts to date in 2024. And if we compare this to the same time period in 2023, we're up about 140%. So if this trend continues, we should surpass, 2023 case counts. 
+> 
+> So I will note while I'm talking about trends in the U.S. that you know, many countries now around the world are seeing increases in pertussis. And in fact, in Europe, they're actually seeing really large increases around many European countries right now. And it's interesting that a lot of these European countries are surging at a much quicker rate than we're seeing in the U.S. 
+> 
+> So we'll-- it will be important to continue to monitor trends moving forward. 
+> 
+> ...
+> 
+> Tami Skoff, CDC [00:08:52]
+> 
+> So this slide shows national pertussis incidence stratified by age group. And as you can see here, infant shown in dark green, have the highest burden of disease. 
+> 
+> However, in recent years, we've observed a pretty significant drop in disease in this age group, which we believe is a result of a successful maternal vaccination program during pregnancy.
+> 
+> The incidence of disease among the other age groups has been fairly comparable over time. However, I want to draw your attention to the mid 200s, where we saw an increasing burden of disease among children, seven to 10, and these are represented by the grade line. So this increase in this age group actually coincided with the aging of the first acellular vaccinated cohorts of children. 
+> 
+> Again, this highlights this issue of waning immunity from acellular vaccines. 
+> 
+> ...
+> 
+> Tami Skoff, CDC [00:09:45]
+> 
+> I just wanted to end on a slide showing pertussis mortality. Here, we present pertussis deaths by age group in the U.S.
+> 
+> The vast majority of pertussis related deaths in the U.S. continue to occur among infants less than three months of age shown in blue. And so this is really why we are promoting the maternal vaccination strategy. 
+> 
+> So moms should be getting a dose of Tdap during every pregnancy, as this has been shown to be a highly effective strategy at preventing disease in young infants. 
+> 
+> ...
+> 
+> Question [00:37:01]
+> 
+> In the pertussis presentation, you stated that pertussis has a high vaccination rate, but is poorly controlled. Is this because of different strains of pertussis that are circulating that the vaccine doesn't cover?
+> 
+> Tami Skoff, CDC [00:37:15]
+> 
+> So while there have been some changes to the Bordetella organism, such as the loss of pertactin, which is one of the antigens in some of the licensed vaccines in the U.S., studies have shown that that hasn't impacted the effectiveness of vaccines. 
+> 
+> And so I think one of the biggest challenges right now, and in what we think is driving, this is the waning immunity. So the acellular vaccines do not have the duration of protection that the whole cell vaccines had. And so we are seeing a lot of kids aged kids that are fully vaccinated, that are, you know, a few years out from vaccination are getting disease. 
+> 
+> With that said, I will say that the presentation of pertussis in vaccinated people is much less severe than in unvaccinated people. So even though these kids still get disease, it's not nearly as severe as in the unvaccinated. So waning immunity is a problem. And a lot of the pertussis research community is working to develop next generation pertussis vaccines that will really have a longer duration of protection.
+> 
+> ...
+> 
+> Question [00:49:48]
+> 
+> Will ACIP be rereviewing data about the waning of pertussis vaccine effectiveness?
+> 
+> Tami Skoff, CDC [00:49:55]
+> 
+> So that's a good question. So the ACIP was active between 2010 and 2012 when we had the large resurgence in the U.S. and we were first starting to identify this issue with the waning immunity from the acellular vaccinated cohorts. 
+> 
+> And at that time there was a lot of discussion about this. Should we be recommending additional vaccines for adolescents, additional boosters for school-aged kids? And the thought at that time was, with Tdap, we were only getting a good two to three years protection, and you would be vaccinating every couple of years. And given that these kids and these older kids are vaccinated, have less severe disease, our emphasis really from an ACIP perspective, was let's focus on developing vaccines with longer duration of protection, but in the meantime, really focusing on the maternal immunization strategy and providing protection to those at highest risk for severe morbidity and mortality, so the young infants.
+> 
+> So it has been discussed. I don't think there's any current plans to discuss it again. I think there are vaccines moving forward in the pipeline. Hopefully in the next few years, we'll have vaccines with longer duration of protection available.
+> 
+> ...
+> 
+> Tami Skoff, CDC [00:56:33]
+> 
+> The diseases are coming back, but also I think pertussis is a good example of, you know, the clinical presentation has evolved too. 
+> 
+> And I think in the setting of waning immunity and we are seeing more and older individuals and oftentimes I'll hear from clinicians, we don't think about pertussis in older individuals or they come to healthcare much later when some of the diagnostic tests aren't accurate. 
+> 
+> So I think also thinking about the evolving epidemiology and changes in clinical presentation is important as well.
+
 ## USDA on testing of dairy cattle for H5N1
 
 - **Source:** emailed statement
