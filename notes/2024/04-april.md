@@ -11,6 +11,14 @@ permalink: /notes/2024/04
 
 # April 30, 2024
 
+## Texas health department on reported H5N1 illness around Amarillo
+
+- **Source:** emailed statement
+- **Attribution:** Texas Department of State Health Services spokesperson Lara Anton
+- **Date:** received April 30, 2024
+
+> It’s important to remember that in the time period the veterinarian is talking about there were lots of respiratory viruses circulating in humans. DSHS tested dairy workers who had symptoms consistent with flu (both with and without conjunctivitis) and only the one person was positive for H5N1. The people tested volunteered to be tested. It’s likely there were other people with symptoms who did not want to be tested so we cannot say with absolute certainty that no one else contracted H5N1. We can say for sure that there were people sick with other respiratory viruses working on dairy farms.
+
 ## Pennsylvania's agriculture department on H5N1 in milk
 
 - **Source:** emailed statement
