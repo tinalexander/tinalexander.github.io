@@ -9,6 +9,16 @@ permalink: /notes/2024/04
 
 <br>
 
+# April 30, 2024
+
+## USDA on testing of dairy cattle for H5N1
+
+- **Source:** emailed statement
+- **Attribution:** on background from a USDA spokesperson
+- **Date:** received April 30, 2024
+
+> USDA has administered over 2000 tests on samples taken from cattle over the course of the past month. The testing numbers include multiple samples/tests on the same animal, pooled samples, or tests run multiple times on one sample – the number of tests is not a direct correlation with the number of animals tested nationwide. As of April 30, 34 dairy herds have been impacted by H5N1. For context, there are more than 26,000 dairy herds nationwide.
+
 # April 29, 2024
 
 ## NIAID spokesperson on testing retail beef for H5N1
