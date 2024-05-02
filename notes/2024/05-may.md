@@ -11,6 +11,30 @@ permalink: /notes/2024/05
 
 # May 2, 2024
 
+## New Mexico's health department on testing of symptomatic farm workers
+
+- **Source:** email
+- **Attribution:** New Mexico Department of Health spokesperson David Morgan
+- **Date:** May 2, 2024
+
+> From: Morgan, David, DOH
+> 
+> The New Mexico Department of Health (NMHealth) is among the many state agencies around the country coordinating with the Centers for Disease Control and Prevention on developing surveillance protocols to better understand the virus.   
+> 
+> NMHealth is offering no cost testing for symptomatic people at risk for avian influenza. To date, three people have been tested – all negative.  
+> 
+> ...
+> 
+> From: Tin, Alex <TinA@cbsnews.com>
+> 
+> Okay, thank you for getting back to me. Do you know if they tested positive for any other respiratory viruses?
+> 
+> ...
+> 
+> From: Morgan, David, DOH
+> 
+> Those tested did not test positive for any other respiratory viruses either.
+
 ## CDC spokesperson on H5N1 testing in ferrets
 
 - **Source:** email
