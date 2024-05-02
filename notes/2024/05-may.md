@@ -11,6 +11,14 @@ permalink: /notes/2024/05
 
 # May 1, 2024
 
+## North Carolina's agriculture department on asymptomatic cow
+
+- **Source:** email
+- **Attribution:** North Carolina Department of Agriculture and Consumer Services spokesperson Heather Overton
+- **Date:** received May 1, 2024
+
+> The herd remains asymptomatic for the disease being attributed to HPAI across the country. Asymptomatic for lactating cattle would mean that they are actively lactating.
+
 ## Ohio's agriculture department on H5N1 testing in milk
 
 - **Source:** email
