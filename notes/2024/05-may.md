@@ -11,6 +11,22 @@ permalink: /notes/2024/05
 
 # May 1, 2024
 
+## USDA spokesperson on H5N1 testing in ground beef
+
+> From: Tin, Alex <TinA@cbsnews.com>
+> 
+> Can you clarify which states the samples were from? 
+> 
+> Does USDA plan to test additional samples from future states with infections?
+> 
+> ...
+> 
+> From: SM.OC.Press <Press@usda.gov>
+> 
+> The samples were collected from 8 of the affected states - all except Colorado as the samples were collected prior to Colorado having any confirmed affected herds.
+> 
+> In regard to your second question, I would point you to the two additional studies and we will share results when we have them. 
+
 ## North Carolina's agriculture department on asymptomatic cow
 
 - **Source:** email
