@@ -9,6 +9,30 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 2, 2024
+
+## CDC spokesperson on H5N1 testing in ferrets
+
+- **Source:** email
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Jasmine Reed
+- **Date:** received May 2, 2024
+
+> From: Tin, Alex <TinA@cbsnews.com>
+> 
+> Two small follow ups about a line in the last situation update re: H5N1
+> 
+> https://www.cdc.gov/flu/avianflu/spotlights/2023-2024/avian-situation-update.htm
+> 
+> _Assess the severity of illness and transmissibility of the virus under different scenarios by infecting ferrets and assessing the outcome. Ferrets are used as a model for people because they get sick and spread influenza viruses in a manner similar to humans._
+> 
+> What's the best way to describe how long it will take until these experiments are completed? Will they be released as a preprint?
+> 
+> ...
+> 
+> From: Reed, Jasmine (CDC/IOD/OC) 
+> 
+> This process will take several weeks. We will share findings as quickly as we are able to and will follow-up with you once there is more information to share.
+
 # May 1, 2024
 
 ## USDA spokesperson on H5N1 testing in ground beef
