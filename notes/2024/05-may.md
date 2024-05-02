@@ -11,11 +11,19 @@ permalink: /notes/2024/05
 
 # May 2, 2024
 
+## USDA spokesperson on sampling of ground beef for H5N1
+
+- **Source:** emailed statement
+- **Attribution:** on background from a U.S. Department of Agriculture spokesperson
+- **Date:** received May 2, 2024
+
+> There is currently no evidence to suggest the virus is present in muscle tissue of dairy cattle that have tested positive for HPAI. The pathology of the virus has shown that it has an affinity for the mammary tissue. The retail ground beef testing was exploratory in nature. For the ground beef retail testing, FSIS identified the states that had herds affected with HPAI. The sampling was intended to provide an immediate answer about the safety of ground beef. As mentioned, it is being done in conjunction with other beef safety studies. Together these studies are meant to produce data and expand our knowledge related to H5N1 in cattle and beef, particularly in the interest of scientific inquiry. 
+
 ## New Mexico's health department on testing of symptomatic farm workers
 
 - **Source:** email
 - **Attribution:** New Mexico Department of Health spokesperson David Morgan
-- **Date:** May 2, 2024
+- **Date:** received May 2, 2024
 
 > From: Morgan, David, DOH
 > 
