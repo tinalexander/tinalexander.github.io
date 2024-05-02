@@ -37,7 +37,7 @@ permalink: /notes/2024/04
 
 > Tami Skoff, CDC [00:04:08]
 > 
-> So starting in the late 1940s, the U.S. began vaccinating with whole cell vaccines or DTP. However, in the 1990s, we transitioned away from whole cell vaccines to a safer version of the vaccine called an acelnlular or DTaP vaccine. DTaP is currently recommended as a three dose primary series with doses given at two, four and six months of age, and then two booster doses given at 15 to 18 months and four to six years of age before children start school.
+> So starting in the late 1940s, the U.S. began vaccinating with whole cell vaccines or DTP. However, in the 1990s, we transitioned away from whole cell vaccines to a safer version of the vaccine called an acellular or DTaP vaccine. DTaP is currently recommended as a three dose primary series with doses given at two, four and six months of age, and then two booster doses given at 15 to 18 months and four to six years of age before children start school.
 > 
 > In 2005, reduced dose dose Tdap vaccines were licensed in the U.S. for use among adolescents and adults. A single dose of Tdap is recommended at the preferred age of 11 to 12 years. And a dose of TD or Tdap can be given every 10 years for the decennial TD booster. 
 > 
