@@ -13,6 +13,10 @@ permalink: /notes/2024/05
 
 ## USDA spokesperson on H5N1 testing in ground beef
 
+- **Source:** email
+- **Attribution:** U.S. Department of Agriculture spokesperson
+- **Date:** received May 1, 2024
+
 > From: Tin, Alex <TinA@cbsnews.com>
 > 
 > Can you clarify which states the samples were from? 
