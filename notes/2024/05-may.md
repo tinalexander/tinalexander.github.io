@@ -9,6 +9,16 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 3, 2024
+
+## Texas health department spokesperson on inability to access dairy farm with H5N1
+
+- **Source:** email
+- **Attribution:** Texas Department of State Health Services spokesperson Lara Anton
+- **Date:** received May 3, 2024
+
+> The dairy worker came to one of DSHS’s field offices to get tested and did not disclose the name of their workplace.
+
 # May 2, 2024
 
 ## USDA spokesperson on sampling of ground beef for H5N1
