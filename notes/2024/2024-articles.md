@@ -11,9 +11,28 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-# March 2024
+# May 2024
 
 - ...
+
+# April 2024
+
+- [U.S. measles cases reach 125 this year, topping 2022's large outbreaks](https://www.cbsnews.com/news/measles-cases-reach-125-2024-topping-2022-outbreaks/)
+- [Chocolate milk can stay in school lunch program, Biden administration decides](https://www.cbsnews.com/news/flavored-milk-can-stay-in-school-lunch-biden-administration-decides/)
+- [U.S. orders cow testing for bird flu after grocery milk tests positive](https://www.cbsnews.com/news/milk-bird-flu-cow-testing/)
+- [U.S. birth rate drops to record low, ending pandemic uptick](https://www.cbsnews.com/news/us-birth-rate-drops-record-low-2023-after-pandemic-uptick/)
+- [Superbug from human eye drops outbreak spread to dogs](https://www.cbsnews.com/news/superbug-from-human-eye-drops-outbreak-spotted-in-dogs/)
+- [Menthol cigarette ban delayed due to "immense" feedback, Biden administration says](https://www.cbsnews.com/news/menthol-cigarette-ban-delay-fda-feedback-biden-administration/)
+- [Cats died after drinking raw milk from bird flu-infected cows](https://www.cbsnews.com/news/cats-died-after-drinking-milk-bird-flu-infected-cows/)
+  
+# March 2024
+
+- [Measles spread to at least 3 other states after trips to Florida](https://www.cbsnews.com/news/measles-spread-states-trips-to-florida/)
+- [U.S. measles cases rise to at least 64 so far in 2024 — more than all of 2023](https://www.cbsnews.com/news/measles-cases-states-2024-more-than-2023/)
+- [Going abroad? Time to check if you're up to date on measles immunity, CDC says](https://www.cbsnews.com/news/measles-vaccine-guidance-travelers-cdc/)
+- [U.S. measles cases rise to at least 45, as CDC tallies infections now in 17 states](https://www.cbsnews.com/news/what-we-know-about-the-measles-cases-reported-in-2024/)
+- [USPS will stop accepting orders for free COVID tests on March 8](https://www.cbsnews.com/news/some-free-covid-tests-and-paxlovid-programs-to-end-on-march-8/)
+- [CDC shortens 5-day COVID isolation, updates guidance on masks and testing](https://www.cbsnews.com/news/cdc-covid-recommendations-isolation-masks-tests/)
 
 # February 2024
 
