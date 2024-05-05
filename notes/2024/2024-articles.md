@@ -52,7 +52,3 @@ Here are some articles I've worked on for 2024. You can also find them [by Googl
 - [COVID variant JN.1 is not more severe, early CDC data suggests](https://www.cbsnews.com/news/covid-variant-jn-1-is-not-more-severe-early-cdc-data-suggests/)
 - [Possible Ozempic side effects, including hair loss, probed by FDA; no link found to suicidal thoughts](https://www.cbsnews.com/news/ozempic-possible-side-effects-hair-loss-suicidal-thoughts-fda/)
 - [Thousands of baby formula cans recalled after contamination found, FDA says](https://www.cbsnews.com/news/nutramigen-baby-formula-recalled-possible-bacterial-contamination-reckitt-mead-johnson/)
-
-# February 2024
-
-- ...
