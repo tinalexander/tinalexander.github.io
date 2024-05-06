@@ -11,6 +11,34 @@ permalink: /notes/2024/05
 
 # May 6, 2024
 
+## Colorado State University on H5N1 testing in dairy cattle
+
+- **Source:** email
+- **Attribution:** Kristy Pabilonia, executive director of clinical diagnostics for the CSU Veterinary Health System
+- **Date:** received May 6, 2024
+
+> _Do you have any figures on how many heads have been tested, or how many tests have been conducted so far?_
+>  
+> As a veterinary diagnostic laboratory, client confidentiality is of the utmost importance to us and is part of our operations policies. The USDA may be able to provide you with nationwide testing data. We report all of our test results to the USDA.
+>  
+> _What is the best way to describe the pace of samples needing to be tested? Is it increasing?_
+>  
+> Yes, our sample volume is increasing.
+>  
+> _What share of your tests are from suspect cases versus interstate travel requests?_
+> 
+> We receive samples for both situations - suspect clinical cases and Interstate movement.
+
+## New Mexico's agriculture department on H5N1 testing in dairy cattle
+
+- **Source:** email
+- **Attribution:** New Mexico Department of Agriculture Veterinary Diagnostic Services Division Director Dr. John Ragsdale
+- **Date:** received May 6, 2024
+
+> There have been 61 tests of dairy cattle;
+> The pace of samples is steady;
+> The testing that has been performed is for sick cows.
+
 ## EPI-WIN webinar by WHO regarding H5N1 detected in dairy cattle
 
 - **Source:** [webinar](https://www.who.int/news-room/events/detail/2024/05/06/default-calendar/who-epi-win-webinar--public-health-risk-of-avian-influenza-a(h5n1)-detected-recently-in-dairy-cattle)
