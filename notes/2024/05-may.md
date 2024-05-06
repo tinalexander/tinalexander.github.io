@@ -11,7 +11,7 @@ permalink: /notes/2024/05
 
 # May 6, 2024
 
-## CDC official and scientists at WHO webinar about H5N1 in dairy cattle
+## EPI-WIN webinar by WHO regarding H5N1 detected in dairy cattle
 
 - **Source:** [webinar](https://www.who.int/news-room/events/detail/2024/05/06/default-calendar/who-epi-win-webinar--public-health-risk-of-avian-influenza-a(h5n1)-detected-recently-in-dairy-cattle)
 - **Attribution:** broadcasted by the World Health Organization
