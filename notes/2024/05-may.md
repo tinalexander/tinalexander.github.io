@@ -11,7 +11,15 @@ permalink: /notes/2024/05
 
 # May 6, 2024
 
-## Wisconsin health department on measles case
+## West Virginia's health department on measles case
+
+- **Source:** email
+- **Attribution:** West Virginia Department of Health spokesperson Annie Moore
+- **Date:** received May 6, 2024
+
+> We have no additional confirmed cases.
+
+## Wisconsin's health department on measles case
 
 - **Source:** email
 - **Attribution:** Wisconsin Department of Health Services spokesperson Elizabeth Goodsitt
