@@ -11,7 +11,19 @@ permalink: /notes/2024/05
 
 # May 6, 2024
 
+## Kansas State University laboratory on H5N1 testing in dairy cattle
+
+- **Source:** email
+- **Attribution:** Jamie Retallick, director of the Kansas State Veterinary Diagnostic Laboratory
+- **Date:** received May 6, 2024
+
+> Currently, the Kansas State Veterinary Diagnostic Laboratory (KSVDL) has tested 163 samples, primarily for interstate movement, that have all been negative.   Twenty-one percent of these samples were from suspect cases; all were negative.   With the federal order enacted on April 29th, testing is increasing.
+
 ## Ohio's agriculture department on H5N1 testing in dairy cattle
+
+- **Source:** email
+- **Attribution:** Ohio Department of Agriculture spokesperson Meghan Harshbarger
+- **Date:** received May 6, 2024
 
 > _Do you have any figures on how many heads have been tested, or how many tests have been conducted so far?_
 > 
