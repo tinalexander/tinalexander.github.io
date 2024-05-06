@@ -9,6 +9,84 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 6, 2024
+
+## CDC official and scientists at WHO webinar about H5N1 in dairy cattle
+
+- **Source:** [webinar](https://www.who.int/news-room/events/detail/2024/05/06/default-calendar/who-epi-win-webinar--public-health-risk-of-avian-influenza-a(h5n1)-detected-recently-in-dairy-cattle)
+- **Attribution:** broadcasted by the World Health Organization
+- **Date:** occurred May 6, 2024
+
+> Todd Davis, CDC [00:40:01]
+> 
+> So the Centers for Disease Control and Prevention still considers the risk to public health to be low. You know, this is a virus that after sequencing now more than several hundred viruses from cattle, we don't see any molecular changes that would indicate increased possibilities of infection or transmission from person to person. 
+> 
+> So we still consider this public health risk to be quite low. I think some of the exceptions may be those that have prolonged unprotected exposure to infected dairy cattle. So I think there are some likely risk associated with occupational exposure. 
+> 
+> ...
+> 
+> David Swayne, OFFLU [00:42:07] 
+> 
+> I'll just start off saying that, just to make sure we all are on the same page. You know, the first cases that were diagnosed were in dairy cattle in Texas. This particular virus has already mentioned by Maria is a specific genotype. So it is the 2.3.4.4b, but it has reassorted in North America with our low path avian influenza viruses. So what we see in dairy cattle is the B3.13 genotype, which makes it, when you look at the eight gene constellations, a virus that is not identical to what is circulating other parts of the world. 
+> 
+> So in the risk assessment that would need to be taken that information need to be taken to account, that the risk may be different in other parts of the world, because it's not the exact same eight gene reassortant that we had in dairy cattle.
+> 
+> ...
+> 
+> David Swayne, OFFLU [00:43:55] 
+> 
+> The mechanism of the transmission between cows is currently unknown, but based upon field observations, it would suggest that the transmission probably occurs in the unique environment of the dairy parlor, either through the mechanical transmission, through the milking process, or because there's continual cleaning going on in the dairy parlor, there are large droplets produced from that washing down process. 
+> 
+> So those are two leading theories or hypotheses, but they are not at this point proven hypotheses of how that transmission occurs.
+> 
+> ...
+> 
+> Todd Davis, CDC [00:45:13]
+> 
+> So in the United States, when a confirmed dairy farm has been detected and that detection is done by the U.S. Department of Agriculture at the state level, the veterinarians will report those confirmed dairy farms to state public health departments, and then the state public health departments will take actions to monitor individuals on those farms where there have been confirmed dairy cattle. 
+> 
+> And so that can be in the form of active monitoring where the names of workers are provided to local or state public health departments. And then those individuals could be monitored for up to 10 days post exposure. And then there's also quite a lot of passive monitoring of individuals as well, where state or local public health departments provide information and educational materials to those dairy farm workers, to those dairy farms, that do have confirmed outbreaks of H5N1, so that they have information that would allow them to do self-monitoring. 
+> 
+> And so, we understand there's quite a lot of self-monitoring for illness, and from the U.S. CDC's perspective in working with state and local public health departments, we know that there's been more than 220 individuals monitored and more than 30 persons that have been tested for influenza A with only one person having been detected as positive for H5N1, among those more than 220 individuals that have been monitored. 
+> 
+> ...
+> 
+> Todd Davis, CDC [00:47:06]
+> 
+> So there obviously is a lot of interest in understanding the potential for seroprevalence studies.
+> 
+> Currently, the influenza division is working with state and local public health departments to initiate serology studies in farm workers. So we hope to have more information on this very soon. So those studies are being initiated shortly. 
+> 
+> ...
+> 
+> David Swayne, OFFLU [00:48:04]
+> 
+> So, up to my knowledge, there has not been any data released, but there is ongoing investigations looking at serology, both in the herds that have been affected, as well as outside those affected dairy herds, and also looking at serology in beef cattle to see if there has been any exposure or infections there. 
+> 
+> So currently that, as to my understanding, is ongoing work. Not only the USDA is involved, but also individual universities and individual state departments of agriculture, as they try to get a handle on the epidemiology.
+> 
+> There's a fairly large workforce. I know that from USDA and many of their partners, with epidemiologists on the ground, trying to figure out these issues, and serology is one of the most important components that's being investigated.
+> 
+> ...
+> 
+> Richard Webby, WHO CC (St Jude Children's) [00:48:59]
+> 
+> There's some evidence that, you know, that at least cows that have, I guess cleared this disease, they do produce an antibody response that's detectable by sort of the standard assays. So as David said, I'm not-- there's lots of work going on in this space, but it does appear that, at least the assays are fit for purpose in this particular case, which is of course a good thing. 
+> 
+> ...
+> 
+> Richard Webby, WHO CC (St Jude Children's) [00:49:28]
+> 
+> No evidence that swine are involved in this particular instance at all. A number of people have done some experimental infection of pigs with some of these 2.3.4.4b H5 viruses with the results sort of ranging from very little replication to reasonable replication, but transmission not being highly robust. So, right now, pigs don't seem to be playing a role in the 2.3.4.4b. Certainly not in terms of spread at any level.
+> 
+> ...
+> 
+> David Swayne, OFFLU [00:50:11]
+> 
+> Right now there is the HI, is of course our gold standard test for looking for antibodies against the  hemagglutinin, but it is not a common test used outside of reference laboratories. 
+> 
+> But there has been several groups that are looking at validation. I think some of them have actually completed their validation studies of using the ELISA, various different ELISA tests, as a surrogate for the HI test, and those results look pretty good. So it will probably be that most of the serology will be done using ELISA tests, as opposed to HI that will be the conducted in cow.
+
 # May 3, 2024
 
 ## Texas health department spokesperson on inability to access dairy farm with H5N1
