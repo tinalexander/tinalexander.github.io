@@ -11,6 +11,16 @@ permalink: /notes/2024/05
 
 # May 6, 2024
 
+## Wisconsin health department on measles case
+
+- **Source:** email
+- **Attribution:** Wisconsin Department of Health Services spokesperson Elizabeth Goodsitt
+- **Date:** received May 6, 2024
+
+> As of May 6, we have one confirmed case of measles in our state in 2024. And this is related to domestic travel.
+> 
+> I think our news releases DHS Confirms Case of Measles in Dane County and Measles Case Investigation Update will offer any additional details you may need.
+
 ## Colorado State University on H5N1 testing in dairy cattle
 
 - **Source:** email
