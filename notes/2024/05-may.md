@@ -11,6 +11,20 @@ permalink: /notes/2024/05
 
 # May 6, 2024
 
+## Ohio's agriculture department on H5N1 testing in dairy cattle
+
+> _Do you have any figures on how many heads have been tested, or how many tests have been conducted so far?_
+> 
+> As of May 2, 2024, the Ohio Department of Agriculture’s (ODA) Animal Disease Diagnostic Laboratory (ADDL) has tested 57 samples from cattle. This excludes the confirmed premises in Wood County.
+> 
+> _What is the best way to describe the pace of samples needing to be tested? Is it increasing?_
+> 
+> Yes. It is increasing due to the USDA-APHIS Federal Order requiring testing for interstate movement of lactating dairy cattle.
+> 
+> _What share of your tests are from suspect cases versus interstate travel requests?_
+> 
+> All samples tested as of May 2, 2024, have been for animal movement. This excludes the confirmed premises in Wood County.
+
 ## West Virginia's health department on measles case
 
 - **Source:** email
