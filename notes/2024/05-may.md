@@ -9,6 +9,24 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 7, 2024
+
+## Ohio health department on measles cases this year
+
+- **Source:** emailed statement
+- **Attribution:** Ohio Department of Health spokesperson
+- **Date:** received May 7, 2024
+
+> The Ohio Department of Health tracks more than 100 reportable conditions on its dashboard, Summary of Infectious Diseases in Ohio.
+> 
+> Click on “visualize” and then you can filter by date, condition you are looking for, and by county. In your case, select the date range beginning January 1, 2024 and to May 1, 2024 (the most recent data available, the dashboard is updated weekly).
+> 
+> Under reportable condition, unclick “all” and select “measles – imported from outside Ohio” and then “measles – indigenous to Ohio.” Make sure to hit “apply.”
+> 
+> You will see Ohio has had five total cases in 2024, four indigenous to Ohio and one imported, or travel-related. The travel was international.
+> 
+> You also can filter conditions by the epi curve and by demographics.
+
 # May 6, 2024
 
 ## Kansas State University laboratory on H5N1 testing in dairy cattle
