@@ -11,11 +11,22 @@ permalink: /notes/2024/05
 
 # May 7, 2024
 
-## Ohio health department on measles cases this year
+## Michigan health department on measles cases so far this year
+
+- **Source:** email
+- **Attribution:** Michigan Department of Health and Human Services spokesperson Chelsea Wuth
+- **Date:** received May 6, 2024
+
+> So far we have 5 cases this year. You would have to reach out to the LHDs for information on international travel. 
+> 2 Washtenaw, 1 Wayne, 1 Oakland, 1 Detroit
+> 
+> https://detroitmi.gov/news/one-case-measles-confirmed-detroit-resident This was the most recent case.
+
+## Ohio health department on measles cases so far this year
 
 - **Source:** emailed statement
 - **Attribution:** Ohio Department of Health spokesperson
-- **Date:** received May 7, 2024
+- **Date:** received May 6, 2024
 
 > The Ohio Department of Health tracks more than 100 reportable conditions on its dashboard, Summary of Infectious Diseases in Ohio.
 > 
