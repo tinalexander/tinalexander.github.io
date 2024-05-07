@@ -11,6 +11,132 @@ permalink: /notes/2024/05
 
 # May 7, 2024
 
+## Michigan State University laboratory on H5N1 testing in dairy cattle
+
+- **Source:** phone interview
+- **Attribution:** Kimberly Dodd, director of Michigan State University's Veterinary Diagnostic Laboratory
+- **Date:** occurred May 7, 2024
+
+> Kimberly Dodd, MSU VDL [00:06:58]
+> 
+> So we're a pretty big laboratory. We have about 150 faculty and staff, and we run a million tests a year. Now the vast majority of that is routine testing. 
+> 
+> So again, we're an animal health laboratory. We support the MSU Veterinary Medical Center, which is the teaching hospital for the College of Veterinary Medicine. But we also support veterinarians and veterinary clinics across the state, actually around the country, and in 25 countries. So we do a lot of routine diagnostic testing. 
+> 
+> One of our areas of specialty is endocrinology. You might be aware that dogs and cats often have thyroid disease, for example. And so that all sits in our wheelhouse. 
+> 
+> So that's the vast majority of what we do on a daily basis, but at the same time, we are part of the National Animal Health Laboratory Network or the NAHLN. That's a network of 63 academic state and federal laboratories that serves as the first line of defense in the case of incursion of a high consequence animal disease like high path AI. 
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:09:03]
+> 
+> So as members of the NAHLN, we are constantly preparing for potential disease outbreaks. We do tabletop and functional exercises in our state, in our region, and nationwide exercises as well. Our goal is always to understand what is the potential needs for diagnostic testing, going to be in the case of widespread outbreak and how do we ensure that we're prepared to ramp up that testing? 
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:09:54]
+> 
+> So we're constantly looking to be able to rapidly detect an emergence of, again, a high consequence disease threat.
+> 
+> When that does happen, and we detect it, that's when we move into sort of outbreak response, which for us is surge capacity. It means ramping up high throughput testing to be able to provide rapid diagnostic test results to veterinarians, state and federal officials, industry as quickly as possible. 
+> 
+> That outbreak testing includes not only identifying additional facilities or premises that might be infected, but also being able to do active surveillance. So for example, when we know we have a commercial flock that's infected with high path avian influenza, we perform surveillance of all facilities in that immediate area, just target our surveillance there, to detect any potential additional cases. 
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:11:40]
+> 
+> So I'm knocking on wood as I say this, but that we've really been very lucky in the last several years to have dealt with relatively small outbreaks of disease. 
+> 
+> The last biggest outbreak where we really ramped up testing was actually during COVID, where our laboratory, like veterinary diagnostic labs across the country, ramped up high throughput testing to support COVID testing in people.
+> 
+> We were also testing animals, but because public health laboratories were so overwhelmed, we really stepped in and I think that's a-- I'm a veterinarian and a virologist by training, and I'm really passionate about the work that veterinary diagnostic labs do. And I think we did a really great job of stepping in and supporting. We're built for that. 
+> 
+> We are built for big herd level or population level outbreaks, more so I think than probably some public health laboratories might be, and that's not meant to be a criticism. It's just our job is to look at animal health, population health at that level. And so we really are just set up to be able to provide high throughput testing.
+> 
+> Also because we're looking at things from a population perspective, sometimes we can use population level sample types to be able to get a read of an entire population rather than having to test every single person like you would in sure in a human health outbreak, if that makes sense, or we can pool samples from multiple animals because we know if they're all part of the same flock or same herd, that one, if one is positive, the herd or flock is positive. And that's really the question that we're asking. 
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:14:11]
+> 
+> What we do in these sorts of circumstances is that we have people who are cross trained, sort of within the infectious disease areas in the laboratory. They might not normally work on viruses, but in the case of an outbreak like this, they're trained to perform that required testing for high path AI. 
+> 
+> So we're really leveraging all of our people who are especially trained and require special approvals from USDA to perform this testing. We're leveraging all of the people across the laboratory who have this training to perform the testing. 
+> 
+> We're still able to maintain all of our routine diagnostic testing, at this point.
+> 
+> And again, this is one of the beautiful things about working in the National Animal Health Laboratory Network is that while we're responsible for our state, we have the opportunity to leverage additional capacity at other states within our region or across the country if needed. 
+> 
+> And I say that because Michigan is-- we're a little bit at the heart of this outbreak right now, along with a couple of other states, because we have recent detections in our commercial layer and turkey facilities, we have the dairy cattle situation. And then we also have-- we are also providing all of the testing for wild birds in this region. I think we're covering six or eight states at this point. 
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:16:54]
+> 
+> I feel like I can give you a question today that's going to be different than it will be tomorrow, and different than it would've been yesterday. 
+> 
+> So I'd say that we are seeing in terms of identification of new herds, or testing potential infections of herds, that stayed pretty consistent since it was first detected in dairy cattle in Michigan. So we're evaluating, if there are animals displaying clinical signs. 
+> 
+> And I think it's important to note that in this case, the dairy cattle have a drop in milk production. They go off feed. Maybe they have a fever, but on the whole they recover. So they are not-- the severity of the disease is very different than it is in poultry. And in these dairy cattle, there are a lot of things that can cause drops in milk production. 
+> 
+> So we are doing a lot of testing to evaluate whether or not those clinical signs in our dairy cattle is associated with high path avian influenza or not. 
+> 
+> I would say that the we're in week two of the new federal order for interstate movement testing. And so I think it's really too early to stay just how much testing that's going to be. 
+> 
+> It's been pretty steady for the first seven days of the order. But we'll see how that evolves with time. 
+> 
+> And then the worried well, what we sometimes refer to as worried well testing, or I think we're still sort of understanding what other requirements are going to be, so some sale barns, for example, are requiring testing before animals come to the sale. 
+> 
+> So it's sort of based on different circumstances, testing may be required. So at this point, I'll be honest, I think it's just still-- as this situation evolves and we collectively as a country get our arms around just how widespread this is, I think it will inform what our testing requirements, testing approaches are going to be. 
+> 
+> But I can say that at this point in our laboratory, we are-- we have people who are working very hard, but we are comfortably able to meet all of the testing demands we have.
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:19:34]
+> 
+> I'm thinking about the pre movement testing we've done. I'm thinking about some of the other testing. 
+> 
+> The other bit of testing that we're doing, actually, that I didn't mention is we're working with researchers at MSU,  in the College of Veterinary Medicine, with our department of agriculture and USDA, as well as some farmers to be able to track affected herds and better understand how long these animals are shedding for. 
+> 
+> Are they shedding solely in the milk or are there other ways, because we really want to try to better understand how this virus is being transmitted within and across different herds, so we can better put into place response measures. 
+> 
+> So I can tell you we've performed hundreds of high path avian influenza tests in dairy cattle, but it's covers a very broad spectrum of testing purposes, if that makes sense.
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:21:06]
+> 
+> So for dairy cattle, the preferred sample type is milk. So as long as they're lactating, the recommended sample type is milk and that can be for pre movement testing or that can be if the animals are sick. 
+> 
+> And samples come to us and in plastic tubes that we are then able to pull samples from and we bring those tubes into the laboratory and utilize a small portion of that sample to be able to start that testing process, which requires a series of PCRs. I think we're all familiar with PCR post COVID. 
+> 
+> We do three rounds of it. The first one is to identify that the animal is infected with an influenza A virus. The second one confirms that it's H5. And the third one confirms it's the specific strain in question. So we're performing three tests on every sample.
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:22:33]
+> 
+> So what we're doing is that, if animals meet the case definition or how the clinical disease has been described in dairy cattle, the first thing we do is test for high path avian influenza. 
+> 
+> Once we rule that out, the samples will then get rolled into downstream testing, whether it's culturing for potential causes of mastitis, for example. So we track it, we follow it in that way. 
+> 
+> We work closely with our veterinarians to get a sense of the clinical science they're seeing so that we can develop a diagnostic strategy that makes the most sense, and most efficiently gets us to the right answer. It would be, in a perfect world, great to be able to test every single sample for every single possibility. 
+> 
+> But obviously we want to be efficient and, and cost effective in the work we do.
+> 
+> ...
+> 
+> Kimberly Dodd, MSU VDL [00:23:52]
+> 
+> We are doing and like, we do sort of refer to it informally as worried well to some degree, but we are-- we do want to perform that testing to get an understanding of how many asymptomatic animals there are out there.
+> 
+> The problem is that, again, that sample type is milk. It seems the virus seems to really like mammary glands. And so that's where we find the highest level of virus in an infected animal is in the milk itself. 
+> 
+> So if we have animals that aren't lactating or beef cattle, for example, we don't necessarily have a great sample type to be able to definitively say whether-- we don't have the same. 
+
 ## Texas veterinary lab on H5N1 testing in dairy cattle
 
 - **Source:** email
