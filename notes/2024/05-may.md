@@ -11,6 +11,24 @@ permalink: /notes/2024/05
 
 # May 7, 2024
 
+## Texas veterinary lab on H5N1 testing in dairy cattle
+
+- **Source:** email
+- **Attribution:** Alexis Thompson, veterinary diagnostician at Texas A&M Veterinary Medical Diagnostic Laboratory, Canyon
+- **Date:** received May 6, 2024
+
+> _Do you have any figures on how many heads have been tested, or how many tests have been conducted so far?_
+> 
+> We have conducted approximately 600 influenza A tests on samples from cattle.
+> 
+> _What is the best way to describe the pace of samples needing to be tested? Is it increasing?_
+> 
+> Sample submissions have slowed since the Federal Order but we expect them to increase slightly and remain fairly consistent.
+> 
+> _What share of your tests are from suspect cases versus interstate travel requests?_
+> 
+> As one of the first states to have influenza A detected in cattle samples, most of our samples have been from suspect herds. Moving forward, we expect that most submissions will be a result of interstate movement. 
+
 ## Michigan health department on measles cases so far this year
 
 - **Source:** email
