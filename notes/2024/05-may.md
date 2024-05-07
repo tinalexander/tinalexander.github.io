@@ -11,6 +11,20 @@ permalink: /notes/2024/05
 
 # May 7, 2024
 
+## HHS spokesperson on DACA recipients in Mediciad
+
+- **Source:** emailed statement
+- **Attribution:** on background, from a Health and Human Services spokesperson
+- **Date:** received May 7, 2024
+
+> DACA recipients who would have been included in any change to Medicaid, will be covered under the Marketplace. As noted in the Fact Sheet released on May 3: “We expect that individuals who would have been eligible for Medicaid or CHIP under these proposals, including DACA recipients, will be eligible for Health Insurance Marketplace coverage with financial assistance or BHP coverage if they meet other eligibility requirements. The ACA allows noncitizens who are ineligible for Medicaid due to their immigration status to access financial assistance, such as Premium Tax Credits (PTC) and Cost Sharing Reductions (CSRs) through a Marketplace plan even if their income is below 100% of the federal poverty level (FPL).” 
+> 
+> In addition, as noted in the final rule, CMS received a large volume of comments, many in favor, and some opposed to a definition of “lawfully present” that includes DACA recipients. CMS is not finalizing a “lawfully  present” definition for Medicaid and CHIP at this time. Rather, CMS is taking more time to evaluate and carefully consider the comments regarding the proposal with respect to Medicaid and CHIP.
+> 
+> (See discussion, beginning on pg. 5 of this final rule: public-inspection.federalregister.gov/2024-09661.pdf)
+> 
+> Currently, CMS does not have a timeline to finalize changes to DACA eligibility in Medicaid and CHIP.
+
 ## Michigan State University laboratory on H5N1 testing in dairy cattle
 
 - **Source:** phone interview
