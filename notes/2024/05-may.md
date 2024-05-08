@@ -53,7 +53,7 @@ permalink: /notes/2024/05
 > 
 > Robert Califf, FDA [00:45:10]
 > 
-> We do have some hurdles. And I'lls just say, well, beyond that, you also know that the states play a huge role in the management of the safety of the food and farms in particular. 
+> We do have some hurdles. And I'll just say, well, beyond that, you also know that the states play a huge role in the management of the safety of the food and farms in particular. 
 > 
 > And so we're constantly in touch with all the regulators in the states and every state system is different in terms of how it's configured. So access to the farms, for example, is something that really has to be negotiated through the states, the farmers, and the owners of dairy farms are more comfortable with people that they know that are in their states. 
 > 
