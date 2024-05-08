@@ -11,6 +11,80 @@ permalink: /notes/2024/05
 
 # May 8, 2024 
 
+## FDA commissioner at Senate Appropriations Committee hearing
+
+- **Source:** [livestream](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fiscal-year-2025-budget-request-for-the-food-and-drug-administration)
+- **Attribution:** hosted by the Senate Committee on Appropriations
+- **Date:** broadcasted May 8, 2024
+
+> Robert Califf, FDA [00:30:01]
+> 
+> We've talked about one health for a long time. The fact that we all live in a world in a universe where animals and humans are more and more connected because of international transportation. The fact that more people are living closer to farms and on farms, but this is a real example of one health. 
+> 
+> Just roughly speaking. It's always a little more complicated than just the first take on it. But essentially the agriculture department regulates the cows. We regulate the milk at the FDA and the CDC has primary responsibility for the health of the workers, on the dairy farms. And so we all have to work together, across these organizations and agencies to take care of things. 
+> 
+> And, there's so many aspects I can't go through at all, but primarily from the FDA perspective today, we are accountable for the milk. So when we heard about the problem, we needed to launch a program of testing the milk to make sure that it was safe, knowing that it was likely that there were more infected herds than we initially knew. 
+> 
+> And in fact, that's what we found. As you well know when we looked at just milk before pasteurization, that is the raw milk coming into the into the bulk tanks, about 20% of a national sample turn out to have fragments of virus in it. And then the question was, is this infectious virus, or is it essentially, fragments of dead virus that had been taken care of by pasteurization? We had a good reason to believe pasteurization would work because of a hundred years of pasteurized milk. And in fact, it did, we found no evidence of live virus.
+> 
+> And I'm pleased to say, there are many NIH and agriculture department researchers around the country, universities who were also looking and we all found the same thing, but now, the other part that we're accountable for at HHS and within FDA is the countermeasures in case this does jump to humans. So we got to have testing, got to have antivirals, and we need to have a vaccine ready to go. 
+> 
+> So we've been busy getting prepared for, if the virus does mutate in a way that jumps into humans on a larger level.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:32:30]
+> 
+> Throughout all of this, because there's so many agencies involved, countless hours of phone calls and Zoom conferences to make sure that we're all coordinated all in an environment where, let's just say, it's not easy to get access to the farms because, you know, people are understandably protective of the environments in which they work. 
+> 
+> So, a lot of work across the agencies here, and I feel like it's been a good example of how one health can come together. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:39:38]
+> 
+> Unfortunately, there is no-- there's no absolute barrier that can be created, but there are elements of protection that are important, like farm workers, if they're on a farm with infected cattle, and one good thing here, the cattle don't die. The mortality rate of cows is with this virus is less than 1% from what we're told. So the cattle will recover.
+> 
+> But the workers need to be protected with PPE, just like, we all went through with hospital workers with COVID when you're around animals that are infected in the poultry industry, as you may know, they've already been through this. And the use of PPE is just routine in the poultry industry, but this is new for the cattle industry. 
+> 
+> And so there's a lot of work to be done to get to the right place there.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:45:10]
+> 
+> We do have some hurdles. And I'lls just say, well, beyond that, you also know that the states play a huge role in the management of the safety of the food and farms in particular. 
+> 
+> And so we're constantly in touch with all the regulators in the states and every state system is different in terms of how it's configured. So access to the farms, for example, is something that really has to be negotiated through the states, the farmers, and the owners of dairy farms are more comfortable with people that they know that are in their states. 
+> 
+> So all this has to be coordinated. I feel like we're doing a good job of that.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:46:15]
+> 
+> The pasteurized milk is absolutely no problem to test because we just have-- we have people that go to stores and buy milk off the shelves anyway, for all sorts of other testing.
+> 
+> As, as I'm sure you know, from the state that you're in, you have all these cows, the milk goes into bulk tanks, which is a mixture of a number of cows. And that's a very sensitive area because it does point if they're infected cows as to where the infections are.
+> 
+> And technically it's no problem, but we want to make sure that we have trust. And so, there's negotiation that needs to go on to make sure that there's a safe way to handle the data and that people are not gonna be castigated if they happen to have an infected herd. 
+> 
+> So we're working through all that state by state.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:47:22]
+> 
+> As you might imagine, we've expended a lot of resources in the absence of any additional funding and we're keeping track of that and looking at potential sources within, in our case within HHS, for example.
+> 
+> I think it's predictable that we're gonna be in a new environment for milk in particular because of this virus, the way it's affected other species as it sort of cycles around. 
+> 
+> And, one thing about, um, cattle, they don't-- there are always new cattle coming up, so they're always gonna be naive cattle that are susceptible to getting infected. 
+> 
+> So it's predictable there'll be a need for resources.
+> 
+> We're keeping track of things. And as we get a handle on what we need to do going forward, we'll keep you completely informed about where we stand, including the reserve opportunities within HHS.
+
 ## WHO press briefing on global health issues on 8 May
 
 - **Source:** [livestream](https://www.youtube.com/watch?v=NkMRAFZ2r2I)
