@@ -11,6 +11,14 @@ permalink: /notes/2024/05
 
 # May 8, 2024 
 
+## CDC spokesperson on KP.2 variants
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received May 8, 2024
+
+> CDC is tracking SARS-CoV-2 variants KP.2 and KP.1.1, sometimes referred to as “FLiRT,” and working to better understand their potential impact on public health. Currently, KP.2 is the dominant variant in the United States, but laboratory testing data indicate low levels of SARS-CoV-2 transmission overall at this time. That means that while KP.2 is proportionally the most predominant variant, it is not causing an increase in infections as transmission of SARS-CoV-2 is low. Based on current data there are no indicators that KP.2 would cause more severe illness than other strains. CDC will continue to monitor community transmission of the virus and how vaccines perform against this strain. 
+
 ## FDA commissioner at Senate Appropriations Committee hearing
 
 - **Source:** [livestream](https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fiscal-year-2025-budget-request-for-the-food-and-drug-administration)
