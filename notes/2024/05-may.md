@@ -13,7 +13,7 @@ permalink: /notes/2024/05
 
 ## WHO press briefing on global health issues on 8 May
 
-- **Source:** livestream
+- **Source:** [livestream](https://www.youtube.com/watch?v=NkMRAFZ2r2I)
 - **Attribution:** hosted by the World Health Organization
 - **Date:** broadcasted May 8, 2024
 
