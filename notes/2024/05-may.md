@@ -9,7 +9,119 @@ permalink: /notes/2024/05
 
 <br>
 
-# May 8, 2024
+# May 8, 2024 
+
+## WHO press briefing on global health issues on 8 May
+
+- **Source:** livestream
+- **Attribution:** hosted by the World Health Organization
+- **Date:** broadcasted May 8, 2024
+
+> Wenqing Zhang, WHO [00:17:05]
+> 
+> We do have a system in place, if human to human transmission occurs, and if a pandemic starts, the system will be triggered to have to take a serious response. 
+> 
+> As Maria said, that there's ongoing risk assessment and there's an update of candidate vaccine viruses. 
+> 
+> So for the current H5N1 in cows, we have two, but it will also need to bear into mind, there are also other place of H5 virus circulating, and we also have candidates for these other clades of H5 viruses. And it's not only H5. They could also be H7, H10. 
+> 
+> So all these candidate viruses are being updated by the system and being distributed to vaccine developers. So once the situation warrants, they will be triggered into action to scale up the production.
+> 
+> Also to add that this system also producing reagents to enable the release of the vaccines to add that, for the seasonal influenza, there's influenza program in place. So the deployment system also in place in countries that could be used for the pandemic response.
+> 
+> As Maria said, that if we look at the seasonal vaccine production capacity, we will be able to, of course, on the assumption of the similar antigen dose, as well as the egg supply, for example, all smooth, we will be able to have more than 8 billion doses. That's the best scenario of estimate. 
+> 
+> And this is only taking into consideration of the existing platform, licensed platform, there are also other novel platforms under development, and there are also vaccines in trials.
+> 
+> ...
+> 
+> Mike Ryan, WHO [00:19:14]
+> 
+> That global network of laboratories who work all around the world, including our colleagues at CDC Atlanta, are extremely vigilant in the way they've shared information and specimens through the PIP framework and to have candidate vaccines in place and to have manufacturers in place ready to produce vaccine. 
+> 
+> And you may ask out there, well, why don't we just produce a vaccine now? Well, first of all, we got to make sure it works against this clade, which we believe it does. And again, I think our colleagues at CDC in Atlanta are testing human sera of people previously vaccinated with H5 vaccines to look for that cross reactivity and make sure that the candidate vaccines would work. 
+> 
+> And secondly, we produce hundreds of millions of seasonal flu vaccines every year, and we would have to switch production. So it's not-- you can't just press the button and begin producing pandemic H5 vaccines. You have to stop producing your seasonal vaccine and all of you out there know how lifesaving that vaccine is both in the Northern and Southern hemisphere. 
+> 
+> So this is not a-- this requires a very careful consideration, as Wenqing said, to determine whether this virus does switch.
+> 
+> ...
+> 
+> Wenqing Zhang, WHO [00:36:42]
+> 
+> When we are talking about risk assessment, we need to be very specific. Risk on what? Risk associated with what? 
+> 
+> So here we are talking about that virus at moment, circulating detected in cows in the U.S. The risk of this virus to become human to human transmissibility, transmissible in humans, this is a risk assessment we were talking about, and we assess that the risk is low.
+> 
+> But at moment, this is this form of the virus. And we know influenza virus is constantly changing. So if for this virus to become a pandemic virus, it will undergo a lot of changes so that it could transmit easily among human to human. 
+> 
+> You also asked about whether the next pandemic could be harmless, or basically whether it'll be mild or severe. So first, as I mentioned, for the pandemic influenza virus, we need really need to take one step back, not just to that particular clade at moment in the U.S., B3.13, we also need to bear into mind, there are also other clades is called 2.3.2.1c is also circulating and infecting humans in Southeast Asia. That's H5. 
+> 
+> In addition to H5, I already mentioned we had H7, we have H10. So these are avian viruses. Aside from avian viruses, we also have swine viruses is called a variant, which caused the 2009 pandemic. 
+> 
+> So the global system, we basically keep all these virus under monitoring and continuing doing the risk assessment, continuing update the candidate vaccine virus, so that when situation warrants, the response could be triggered immediately.
+> 
+> ...
+> 
+> Helen Branswell, STAT [00:39:21]
+> 
+> Do you have a word yet whether the suspected Ebola case in Burundi is actually Ebola and, any details about, I think there's a suspected second case. And while we're talking, can you tell me, where is vaccine and can it be deployed quickly to the region if it's needed? Thank you,
+> 
+> ...
+> 
+> Abdi Mahamud, WHO [00:39:48]
+> 
+> Thanks, Helen. We are aware of two suspected viral hemorrhagic fever cases from southern (unclear), Democratic Republic of Congo, that were referred to Burundi. 
+> 
+> The first case that passed away was a nine year old child, passed on second May. Samples was collected from there, and immediately the government have started the investigation and collecting samples, on second May. 
+> 
+> So far, we received a few challenges with their flight in transporting to samples and the team, the country of this ministry was able to send us samples to DRC in Goma to be tested. As we speak the lab is conducting the test, and hopefully the government will announce whether it's negative or not.
+> 
+> But as you know, we have to also send us samples to a WHO reference lab for the final confirmation. 
+> 
+> Because of the detection of the suspected virus, the government increased the surveillance and announced and improved surveillance led to detection of several cases. We had the second child suspected eight year old, in a stable condition. Initial samples also taken by that child as we speak right now is in a stable condition. 
+> 
+> Contact tracing have started, almost 20 contacts for the first case, 25 contacts. But more importantly is the situation in DRC. As you're aware, DRC has been responding to multiple outbreak of Ebola. They do have the response capacity and they've started the investigation, send a multidisciplinary team there and contacting where the child came from, around 75 contact has been traced and the team is out in the field. 
+> 
+> So in summary, there's close collaboration between the two countries, our team there in the field office, regional office are supporting the government. And once we have, we will share with you. 
+> 
+> And we'll really like to appreciate the ministry of health in Burundi, which came out with all the information in a transparent way and all the teams that have been supporting this investigation. 
+> 
+> ...
+> 
+> Question [00:47:02]
+> 
+> On SARS-CoV-2, can you tell us more about KP.2 and vaccines, is anything being done to look at KP.2's mutations against antibodies or in vivo? 
+> 
+> And then on H5N1, can you expand a little bit on that kind of production ultimatum you were talking about earlier? You know, why is it not possible simply just to fold that CVV into a new seasonal quadrivalent? Thanks so much.
+> 
+> ...
+> 
+> Wenqing Zhang, WHO [00:47:45]
+> 
+> Yes. So with regards, why we cannot just click the button and put the virus, change the virus itself. So there are couple reasons here. 
+> 
+> First is that, as probably you know, that at moment, all the vaccine productions are ongoing to produce seasonal vaccines. And, there should be a situation that warrants that is there a need to stop the seasonal of vaccine production, switch to the pandemic vaccine production, and also in the vaccine production, the plants they would need to clean out, then would need to take certain procedures in order to start replacing with the pandemic CVVs itself. 
+> 
+> So this is a reason there's a process in place and also associated with that is a risk assessment, whether this situation really warrants a stop of seasonal vaccine production and switch to the pandemic, just to end up with every year seasonal influenza also kills more than 620,000 at least every year.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:49:01]
+> 
+> So the first part of the question asking about KP.2, so KP.2 is a descendant lineage of JN.1. JN.1 is dominant worldwide. Based on all of the sequences that are shared with online platforms like GISAID.
+> 
+> These are analyzed by our technical advisory group for virus evolution. So KP.2 has its descendant of JN.1 and has additional mutations in the spike protein. I won't read them out. And there are other emerging SARS-CoV-2 variants. 
+> 
+> I just want to point out that JN.1 and these continues to evolve. So we're going to keep seeing these other variants in circulation.
+> 
+> Based on the information that we have, and the sequences that have been shared, there's about 8% of the sequences globally that are this variant, this KP.2, and the prevalence varies by region for lots of different reasons, based on the other waves of infection that have happened, the other variants that have circulated, and the amount of circulation of this virus. 
+> 
+> The first sequences that were reported were in January this year. So it's been circulating for some time, and we expect these percentages to change. 
+> 
+> Just wanted to highlight that our technical advisory group for COVID 19 vaccine composition recommended that future formulations of vaccine do include JN.1, but also we state that countries should be using all available, safe and effective COVID 19 vaccines, according to SAGE recommendations, primarily focusing on people who are most at risk for developing severe disease. 
+> 
+> So it's one that we are watching. It's one that we are monitoring. And again, reiterate the need for continued surveillance of SARS-CoV-2 in people, around the world, so that we can monitor this evolution of this virus. The virus is circulating in all countries. It continues to evolve. And for us to do risk assessments on SARS-CoV-2 remains critically important.
 
 ## FDA spokesperson on postponing VRBPAC meeting
 
