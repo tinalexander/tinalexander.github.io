@@ -67,7 +67,7 @@ permalink: /notes/2024/05
 > 
 > As, as I'm sure you know, from the state that you're in, you have all these cows, the milk goes into bulk tanks, which is a mixture of a number of cows. And that's a very sensitive area because it does point if they're infected cows as to where the infections are.
 > 
-> And technically it's no problem, but we want to make sure that we have trust. And so, there's negotiation that needs to go on to make sure that there's a safe way to handle the data and that people are not gonna be castigated if they happen to have an infected herd. 
+> And technically it's no problem, but we want to make sure that we have trust. And so, there's negotiation that needs to go on to make sure that there's a safe way to handle the data and that people are not going to be castigated if they happen to have an infected herd. 
 > 
 > So we're working through all that state by state.
 > 
@@ -77,9 +77,9 @@ permalink: /notes/2024/05
 > 
 > As you might imagine, we've expended a lot of resources in the absence of any additional funding and we're keeping track of that and looking at potential sources within, in our case within HHS, for example.
 > 
-> I think it's predictable that we're gonna be in a new environment for milk in particular because of this virus, the way it's affected other species as it sort of cycles around. 
+> I think it's predictable that we're going to be in a new environment for milk in particular because of this virus, the way it's affected other species as it sort of cycles around. 
 > 
-> And, one thing about, um, cattle, they don't-- there are always new cattle coming up, so they're always gonna be naive cattle that are susceptible to getting infected. 
+> And, one thing about cattle, there are always new cattle coming up, so there are always going to be naive cattle that are susceptible to getting infected. 
 > 
 > So it's predictable there'll be a need for resources.
 > 
