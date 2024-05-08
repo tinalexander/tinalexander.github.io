@@ -9,6 +9,18 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 8, 2024
+
+## FDA spokesperson on postponing VRBPAC meeting
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received May 8, 2024
+
+> As announced, the May 16, 2024, meeting of the Vaccines and Related Biological Products Advisory Committee (VRBPAC) is being rescheduled to June 5, 2024. The FDA, along with its public health partners, carefully monitors trends in the circulating strains of SARS-CoV-2. As has happened since the emergence of COVID-19, we have recently observed shifts in the dominant circulating strains of SARS-CoV-2. 
+> 
+> The additional time will allow the agency to obtain more up-to-date surveillance data and other information on the circulating strains of SARS-CoV-2 to better inform the committee’s discussions and recommendations of which strain(s) to include in the 2024-2025 Formula for the approved and authorized COVID-19 vaccines intended for the U.S. market.
+
 # May 7, 2024
 
 ## HHS spokesperson on DACA recipients in Mediciad
