@@ -9,7 +9,7 @@ permalink: /notes/2024/05
 
 <br>
 
-# May 8, 2024 
+# May 9, 2024 
 
 ## Pfizer spokesperson FDA's new VRBPAC data
 
@@ -28,6 +28,8 @@ permalink: /notes/2024/05
 > _Has Pfizer generated any data regarding FLiRT strains like KP.2, either in terms of current vaccine or candidates?_
 > 
 > Yes
+
+# May 8, 2024 
 
 ## CDC spokesperson on KP.2 variants
 
