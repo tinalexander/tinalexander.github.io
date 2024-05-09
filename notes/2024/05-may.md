@@ -11,6 +11,24 @@ permalink: /notes/2024/05
 
 # May 8, 2024 
 
+## Pfizer spokesperson FDA's new VRBPAC data
+
+- **Source:** email
+- **Attribution:** Pfizer spokesperson
+- **Date:** received May 9, 2024
+
+> Hi Alex, not much we can share yet but see our company responses below your questions in blue
+>
+> ...
+> 
+> _Will FDA's later VRBPAC meeting affect Pfizer's ability to deliver a COVID-19 vaccine this fall?_
+> 
+> We are aware of the VRPBAC date change. We remain focused on working with the FDA on the composition of the 2024-2025 COVID-19 vaccine formula and fall vaccination planning in the US.
+> 
+> _Has Pfizer generated any data regarding FLiRT strains like KP.2, either in terms of current vaccine or candidates?_
+> 
+> Yes
+
 ## CDC spokesperson on KP.2 variants
 
 - **Source:** emailed statement
