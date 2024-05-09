@@ -11,6 +11,14 @@ permalink: /notes/2024/05
 
 # May 9, 2024 
 
+## Michigan's agriculture department on new H5N1 detections
+
+- **Source:** emailed statement
+- **Attribution:** Michigan Department of Agriculture and Rural Development spokesperson
+- **Date:** received May 9, 2024
+
+> "The herds detected in Michigan have been due to sick cows; relationships among herds are still being explored. In some cases, we have identified plausible paths of introduction from other positive herds in Michigan. In other cases, we have not identified any connections to other herds."
+
 ## Pfizer spokesperson FDA's new VRBPAC data
 
 - **Source:** email
