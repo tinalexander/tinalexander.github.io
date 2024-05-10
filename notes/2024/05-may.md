@@ -11,6 +11,92 @@ permalink: /notes/2024/05
 
 # May 10, 2024
 
+## HHS and USDA press conference on avian influenza
+
+- **Source:** Zoom conference call
+- **Attribution:** hosted by the U.S. Department of Agriculture
+- **Date:** occurred May 10, 2024
+
+> 12;26;59;14 XAVIER BECERRA, HHS
+> 
+> Nirav, am I correct that tomorrow we’re going to be hosting a call to reach out to folks who have contact with workers to again further inform them of these particular efforts?
+> 
+> 12;27;14;10 NIRAV SHAH, CDC
+> 
+> Indeed. Not just tomorrow, although even throughout this effort, we have been meeting regularly with farm worker groups, advocacy organizations, because they are a trusted linkage between us and public health, us and agriculture, us and the workers themselves. 
+> 
+> Indeed, our ask to state health departments in connection with the distribution of PPE was that they specifically work with farmworker advocacy and health organizations within their states because of that trusted linkage. 
+> 
+> ...
+> 
+> 12;29;29;13 TOM VILSACK, USDA
+> 
+> Well, what I think what we know is, and the concern obviously, is trying to contain the spread and eventually allow for specific herds ultimately to have the virus sort of peter out and eventually have that herd be virus free, and then over time, hopefully as we reduce the risk, ultimately have the dairy industry virus free.
+> 
+> In order to do that, the first step in the process, because of the fact that we saw spread because of the transmission and the transportation of cows from Texas to other states was to prevent that from occurring, which is why we issued the federal order. 
+> 
+> We don’t necessarily have jurisdiction today over what happens inside the state. States are now considering and thinking about the possibility of preventing movement of sick cows or movement of cows without negative tests.
+> 
+> We obviously encourage that and support that, and as we discussed with states, the nature of their interest in doing that will look for ways and opportunities for USDA to be helpful.
+> 
+> This is a state call. And to the extent that we can restrict as much movement as possible, we think that is a good idea. 
+> 
+> ...
+> 
+> 12;31;28;10 TOM VILSACK, USDA
+> 
+> Well I think first of all, we are working collaboratively with CDC. Many of the meetings that have been discussed and identified here during this call, we have been joint participants or had similar meetings with the same groups to convey the importance and necessity of cooperation. 
+> 
+> We’ve also encouraged the state veterinarians, who are a trusted source and state ag officials, who are also a trusted source, to be able to amplify to support and encourage producers to be open to this. And I think the key here is continued education. 
+> 
+> Producers obviously look at this circumstance and they see this as an animal health issue, an animal health issue that for most cows basically resolves itself over seven to ten days. So they may not fully appreciate and understand the approach that public health officials need to take in this circumstance.
+> 
+> So it is important for the public health officials at the state level, for the state veterinarians, for state ag officials, for us to essentially communicate that it is in the long term best interest of the industry and all of us to make sure that we have as much information as possible.
+> 
+> As I said before, the more we know, it informs what we do and what we need to do, as we learn more, we can expand the opportunities for assistance and help.
+> 
+> And so that is basically what we are doing now. We are having these conversations. I’ve had the opportunity to travel to Michigan for example and speak to producers there. So it’s an opportunity for ongoing continued dialog in making sure what we understand the point of view of producers and the point of view of public health officials in terms of this circumstance and situation and then looking for ways that we can provide encouragement. 
+> 
+> So that’s one of the reasons why we are suggesting a reimbursement for the PPE or the uniform laundering that some facilities, some operations may embrace, in exchange for their cooperation with CDC in a workplace study, in a farmworker study. We’ll look at continue to look for ways that we can build that bridge. 
+> 
+> ...
+> 
+> 12;38;56;19 TOM VILSACK, USDA
+> 
+> Well, we now know that there are 42 herds in 9 states. 
+> 
+> We essentially were trying to find ways in which we could speed up the process of testing and being able to provide information, so it — we found out that a change that we had incurred in the system wasn’t actually as efficient as we thought it would be. 
+> 
+> So it looks like this is a significant increase. Actually, this has been in the works for a while. It’s just basically us getting information out. 
+> 
+> It’s still 9 states. It’s still in the same 9 states. And that’s the most positive thing about where we are. 
+> 
+> And again, as we do the sequencing, we understand and appreciate that the key now is to make sure we’re restricting as much as we possibly can the movement of these lactating cows so that we can ultimately allow sort of the virus to peter out, eventually have that herd become virus free, eventually have the industry become virus free. 
+> 
+> ...
+> 
+> 12;39;57;28 NIRAV SHAH, CDC
+> 
+> With respect to your question about the enhanced epidemiological surveys and studies we’d like to do, the best way to think about this is this is a continuation of work that we’ve been doing. 
+> 
+> For example, a few years ago, we did a parallel or analogous study with respect to poultry workers and we published that study as well. We want to replicate that same methodology now with dairy farm workers.
+> 
+> And the way I think about this is in doing these studies we’re trying to do two things: we’re trying to look forward as well as look back. The look forward is to work with individual workers who are on farms with affected cattle and swab them on a serial basis, as well as conduct a deep dive interview to determine what types of occupational factors might predispose somebody to being later detected with H5.
+> 
+> For example, in the poultry world, we’ve seen and data from the U.K. has found that culling, individuals who are involved with the culling of the chickens, are at a higher risk than those involved with other activities. We’d like to develop the same body of knowledge with respect to dairy workers. 
+> 
+> That’s the looking forward piece. The looking backward piece involves conducting the same type of interview, but this time coupling it with serology studies. So look backward to see what types of work experiences might have predisposed somebody to having been exposed to H5 in the past. 
+> 
+> We are announcing and we are making compensation available to workers in the amount of $75 for participating in that interview as well as providing a nasal swab and a blood sample for serology. Workers can participate in any extent of that they wish. They need not do all in one. They can pick and choose, of course, we’d prefer that they participate in all of them. 
+> 
+> ...
+> 
+> 12;45;27;10 TOM VILSACK, USDA
+> 
+> We’ve had I think approximately 80 that have been tested up to this point. I don’t have the number of positives but we can— we’ll get back to you on the number of positives, but approximately 80.
+> 
+> But obviously, it’s taken a while for folks to basically understand the federal order and we’re going to get, I’m sure we’re going to continue to see a number of tests on a day to day basis. 
+
 ## Novavax spokesperson on COVID-19 vaccine for KP.2 
 
 - **Source:** emailed statement
