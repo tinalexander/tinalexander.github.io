@@ -11,6 +11,22 @@ permalink: /notes/2024/05
 
 # May 10, 2024
 
+## Colorado press conference on H5N1 in dairy cattle
+
+- **Source:** [livestream](https://www.youtube.com/watch?v=9OdVc4xxJJk)
+- **Attribution:** hosted by the Colorado Department of Agriculture
+- **Date:** published May 8, 2024
+
+> Maggie Baldwin, Colorado Department of Agriculture [00:23:30]
+> 
+> So we don't know the exact incubation period in dairy cattle, meaning we don't know exactly from the time dairy cattle are exposed to the time they become ill from the virus. 
+> 
+> We don't know the exact mechanism of transmission, so we don't know whether it's being shed and spread in the milk because there's high loads of virus in that milk, or whether maybe there's a short respiratory phase of this virus. We don't know what that mechanism of transmission and dairy cattle is, but there's a lot of really great people that are working on studying that to give us a better idea of that. 
+> 
+> And once we know that, we are hoping that that's gonna also help us stop the transmission. When you know the mechanism of transmission, you can put measures in place to prevent spread. 
+> 
+> We also don't know how long are the dairy cattle shedding this virus? So once they become infected, how long are they going to continue to shed that virus? And we also don't know yet the risk of this virus impacting non lactating dairy cattle, or other livestock species. We really don't know yet. And there's a lot of questions about that, and there's a lot of work going into that. 
+
 ## HHS and USDA press conference on avian influenza
 
 - **Source:** Zoom conference call
