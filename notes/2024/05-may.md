@@ -9,6 +9,16 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 10, 2024
+
+## Novavax spokesperson on COVID-19 vaccine for KP.2 
+
+- **Source:** emailed statement
+- **Attribution:** Novavax spokesperson
+- **Date:** received May 10, 2024
+
+> FDA's later VRBPAC meeting will not affect Novavax's ability to deliver a COVID-19 vaccine this fall.  We have data which demonstrates good cross-reactivity between our JN.1 vaccine and KP.2, which is a JN.1 variant. We have manufactured JN.1 consistent with the recommendations and are on track to deliver an updated vaccine this fall. Additional data is being presented as a part of today’s earnings presentation.
+
 # May 9, 2024 
 
 ## Michigan's agriculture department on new H5N1 detections
