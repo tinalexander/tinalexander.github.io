@@ -13,7 +13,7 @@ permalink: /notes/2024/05
 
 ## Colorado press conference on H5N1 in dairy cattle
 
-- **Source:** [livestream](https://www.youtube.com/watch?v=9OdVc4xxJJk)
+- **Source:** [recording](https://www.youtube.com/watch?v=9OdVc4xxJJk)
 - **Attribution:** hosted by the Colorado Department of Agriculture
 - **Date:** published May 8, 2024
 
