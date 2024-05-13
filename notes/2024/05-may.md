@@ -9,6 +9,16 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 13, 2024
+
+## USDA spokesperson on testing for H5N1 in cows
+
+- **Source:** email
+- **Attribution:** U.S. Department of Agriculture spokesperson
+- **Date:** received May 13, 2024
+
+> Secretary Vilsack misinterpreted the reporter’s question. From April 29-May 5, the first week of Federal Order implementation, NAHLN laboratories reported 905 PCR tests, of which 112 were presumptive positives. Non-NAHLN laboratories did not submit any testing numbers during this week. We estimate that at the current rate, the NAHLN laboratories are conducting approximately 80 more tests per day than prior to the implementation of the Federal Order. For awareness, since the start of this event, more than 7,500 tests have been run between the NAHLN and NVSL. However, because multiple samples may be collected from a single animal, those samples may be tested independently or pooled, and some samples may be tested more than once. This figure also includes testing for other purposes such as research studies. As such, it is difficult to use the number of tests conducted as a measure of animals tested. Counting tests provides a much less accurate picture than counting affected herds.
+
 # May 10, 2024
 
 ## Colorado press conference on H5N1 in dairy cattle
