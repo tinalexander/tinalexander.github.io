@@ -9,6 +9,24 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 14, 2024
+
+## Texas Animal Health Commission on additional H5N1 positive
+
+- **Source:** emailed statement
+- **Attribution:** Texas Animal Health Commission spokesperson
+- **Date:** received May 14, 2024
+
+> From: Tin, Alex <TinA@cbsnews.com>
+> 
+> _Are you able to share any details about the additional dairy cattle case that was confirmed by USDA for May 9 in Texas? For example, location and date of symptom onset. Wondering if it is accurate to say that the case reflects ongoing transmission within the state, or maybe just a sample that was bottlenecked at the lab, etc._
+>
+> ...
+> 
+> From: Texas Animal Health Commission <Public_Info@tahc.texas.gov>
+> 
+> The TAHC is unable to share specific case related information to protect the privacy of owners and producers. Overall, this case reflects that there is still virus present in the environment, detected in milk through ongoing testing efforts. The testing timeline was only slightly more lengthy than typical for these types of cases, and would not necessarily reflect “bottlenecking at the lab” or other related issues.
+
 # May 13, 2024
 
 ## USDA spokesperson on testing for H5N1 in cows
