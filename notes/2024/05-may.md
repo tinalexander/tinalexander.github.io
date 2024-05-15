@@ -11,6 +11,22 @@ permalink: /notes/2024/05
 
 # May 15, 2024
 
+## Illinois health department on H5N1 in livestock
+
+- **Source:** email
+- **Attribution:** Illinois Department of Public Health spokesperson Michael Claffey
+- **Date:** received May 15, 2024
+
+> From: Tin, Alex
+> 
+> Michael, wondering if you'd be able to tell me whether any suspect H5N1 dairy cattle herds have been identified or tested in the Kane County area.
+> 
+> ...
+> 
+> From: Claffey, Michael
+> 
+> Hi Alex, I checked with our folks – and the answer is no. I imagine you are familiar with this USDA page  which lists states where there are confirmed cases: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/livestock
+
 ## CDC spokesperson on end of the Bridge Access Program
 
 - **Source:** emailed statement
