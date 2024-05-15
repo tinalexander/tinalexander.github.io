@@ -9,6 +9,30 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 15, 2024
+
+## CDC spokesperson on end of the Bridge Access Program
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson David Daigle
+- **Date:** received May 15, 2024
+
+> Due to Congressional rescissions of COVID-19 funds in the FY 2024 Further Consolidated Appropriations Act, difficult decisions had to be made about the future of CDC activities supported by those funds.  
+> 
+> In August 2024, CDC’s Bridge Access Program for COVID-19 Vaccines will end.   
+> 
+> o   Since September 13, 2023, the Bridge Access program has provided over 1.4 million free COVID-19 vaccines to uninsured and underinsured adults through retail pharmacies, community health centers, and public health departments across the country.  
+> 
+> o   The Bridge Access Program demonstrated the importance of maintaining equitable access to free COVID-19 vaccines for adults that are uninsured and underinsured. 
+> 
+> o   CDC remains committed to supporting equitable access to vaccines regardless of insurance status. 
+> 
+> o   Built on the success of the Vaccines for Children program, which has provided more than 1.3 billion non-influenza vaccines to kids across the country, CDC’s Vaccines for Adults proposal, part of the FY 2025 President’s Budget, would give uninsured adults free access to recommended vaccines. If enacted by Congress, this program would reduce disparities, protect communities from vaccine-preventable diseases, and enhance and maintain the infrastructure needed for responding to future pandemics. 
+> 
+> o   The Bridge Access Program will provide free COVID-19 vaccines until August 2024 to people who are underinsured or uninsured. Until August, people can find where to locate a free COVID-19 Bridge vaccine at www.vaccines.gov. 
+> 
+> After August, there may be a small amount of free vaccine available through health department immunization programs, but supply would be very limited.  We don't yet know if the manufacturers will have patient assistance programs.
+
 # May 14, 2024
 
 ## Texas Animal Health Commission on additional H5N1 positive
