@@ -9,6 +9,16 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 16, 2024
+
+## HHS and USDA press briefing on avian influenza for May 16
+
+- **Source:** conference call
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred May 16, 2024
+
+
+
 # May 15, 2024
 
 ## Illinois health department on H5N1 in livestock
