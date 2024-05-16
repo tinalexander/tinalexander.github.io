@@ -17,7 +17,115 @@ permalink: /notes/2024/05
 - **Attribution:** hosted by the Department of Health and Human Services
 - **Date:** occurred May 16, 2024
 
-
+> Eric Deeble, USDA [00:18:02]
+> 
+> In the interest of scientific inquiry and to further reaffirm consumer confidence, USDA scientists initiated a series of studies on ground beef and beef muscle samples. 
+> 
+> While we have not detected virus particles in any of the beef samples that have been assessed, a study was conducted to determine at what cooking temperatures H5N1 could be killed in meat. Again, in the interest of scientific inquiry. 
+> 
+> To conduct the study, USDA researchers inoculated ground beef patties at a very high concentration of H5N1 virus surrogate. Once inoculated, the ground beef patties were cooked at different temperatures. Researchers found that there was no virus present in the burgers cooked to 145 degrees internal temperature, or roughly medium, or 160 degrees, which equates with a well done burger, which is the recommended cooking temperature.
+> 
+> USDA is also in the process of testing beef muscle samples from cull dairy cows condemned at select FSIS inspected slaughter facilities. These results are forthcoming, and we'll share them as soon as we're available. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:21:16]
+> 
+> From CDC, we've read those reports, although we've not received them firsthand. Suffice it to say, our longstanding recommendation against consumption of raw milk remains in place.
+> 
+> It is even more important, in the context of individuals who might be seeking raw milk, under the mistaken belief that it may provide some degree of protection against H5. Just the opposite is true.
+> 
+> Raw milk is unsafe at any speed. And the notion that you could protect yourself against H5 infection by consuming it is erroneous. There are much safer ways to protect oneself, namely avoiding raw milk.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:24:33]
+> 
+> Likewise we have not yet had any individual farm workers who have availed themselves of the $75 compensation that we've offered to participate in CDC studies. 
+> 
+> And that's largely because we have not yet, in the past week, identified any farms or farm workers that were willing to participate with us. 
+> 
+> We're not giving up hope. We are in constant conversation with a number of states. We're getting closer, but as of yet, nothing across the finish line.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:30:01]
+> 
+> The outreach to farm workers is through multiple facets. Some of it is through farm worker organizations, particularly those that specialize and focus on migrant farm worker health. We do that not alone, but in partnership with our USDA colleagues and particularly our colleagues at HRSA, because they often operate community health centers that are close to the proximity of where many of these farms are. 
+> 
+> So between CDC, USDA, and HRSA and partnership with farm worker and migrant health organizations, that's one large avenue for outreach. 
+> 
+> The other is that the state and local level, it's often state and local health departments, veterinarians, community health workers who have direct inroads, direct access to the farm workers themselves. And we we've been able to work with those groups to get them messages, one pagers around how to use PPE, what the risk is out there. 
+> 
+> So it's not any one particular approach, but we've used the federal angles with connection with HRSA, and then at the state and local level with the farm worker organizations on the ground.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:31:18]
+> 
+> The one cull carcass that was known to be infected, that had visible lesions in the lung, subsequent testing of that carcass revealed no virus present in any of the muscle tissue or tissues commonly consumed by humans. 
+> 
+> I know that ongoing, there are right now outstanding about, 75 additional samples that we are testing, in order to increase the degree of confidence that we have that even animals that may have contracted H5N1 and recovered continue to be safe to consume.
+> 
+> On the issue of the degree to which we understand the etiology of this disease and the way in which it moves from cow to cow, we still strongly suspect direct mechanical transmission, and that could include, teat cups, towels, wipes, spray bottles, milking heads, and some of the other mechanical aspects of dairy milk production that do come in direct contact with the animal. 
+> 
+> That's an area of very intense investigation right now as we try to give farmers the best information that we can about improving biosecurity within their own operations.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:37:11]
+> 
+> There were a variety of different cooking temperatures and different cooking time intervals that were used as part of this experimental study.
+> 
+> And cooking to, I believe it was 120 degrees, did show that there was virus still in the cooked hamburger patty, although at much, much reduced levels. 
+> 
+> However, again, just to reinforce the point, these are all experimentally infected burgers. We are doing this in the interest of determining the effectiveness of cooking on killing the virus, but we have not found in any of the samples taken at slaughter or from retail meat packaging to have any virus present.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:43:50]
+> 
+> We have gotten no concerns with the current level of testing capacity through the NAHLN system. Our folks are reporting that they're testing well below their capacity right now, with additional capacity for surge testing, should we ever to do a point where that's necessary.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:45:21]
+> 
+> So first I'm gonna caveat, and just say, as a reminder, the tests that are done at the NAHLN labs and then confirmed through the NVSL are complex, right? 
+> 
+> We were getting multiple samples that may be collected from a single animal. Those samples could be tested independently or pooled. Some of the samples are tested more than once. So that test numbers don't necessarily equate to the number of animals that are being tested, or even the number of animals that are positive. 
+> 
+> So with that caveat being made, from May 6th to the 12th, NAHLN labs reported 1,100 PCR tests of which 278 were non-negative. Non-NAHLN labs reported one positive sample during that same time.
+> 
+> About 600 of the PCR tests were conducted for pre movement testing, about 450 of the PCR tests were conducted on clinical animals, and about 44 PCR tests were conducted for health monitoring of animals known to be infected.
+> 
+> There were additionally five PCR tests that were conducted for other purposes, including quality control.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:48:09]
+> 
+> We certainly would like to be offering and conducting more testing on farm workers, particularly those who have been on or working with cows that have tested positive. It is not a requirement we would like to be doing more in partnership with the workers and the farm worker organizations.
+> 
+> But at this time, CDC does not have any such requirement in place. 
+> 
+> We have no plans at this time. We'd like to be doing this on a voluntary basis in close cooperation with the farms, the farmers, and the farm worker organizations. So we have no plans at this time.
+> 
+> ...
+> 
+> Unclear, FSIS [00:52:30]
+> 
+> The 75 muscles were taken, they were collected from dairy cows that went to slaughter and were condemned upon antimortem for pathologies that we thought might be similar to what you would see in a virus and virally infected cows. So pneumonia and other systemic conditions. 
+> 
+> And we targeted establishments that were in the states that have had herds that were positive.
+> 
+> Question [00:52:59]
+> 
+> So these animals were sick, but not definitely positive for H5N1?
+> 
+> Unclear, FSIS [00:53:05]
+> 
+> They were not definitely positive for H1. And they were exhibiting conditions on anti-- postmortem that our veterinarians who are out in the slaughter establishments thought might be a respiratory type issue or a flu-like symptoms in pathologies, when looking at pathology, not the actual animal. And they're all condemned for those reasons.
 
 # May 15, 2024
 
