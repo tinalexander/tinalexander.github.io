@@ -11,6 +11,24 @@ permalink: /notes/2024/05
 
 # May 17, 2024
 
+## California's agriculture department on H5N1 in dairy cattle
+
+- **Source:** email
+- **Attribution:** California Department of Food and Agriculture spokesperson Steve Lyle
+- **Date:** received May 17, 2024
+
+> From: Tin, Alex
+> 
+> Thanks for getting back to me.
+> 
+> Does that mean no suspect or presumptive cases too? Or just none confirmed?
+> 
+> ...
+> 
+> From: Lyle, Steve @ CDFA
+> 
+> No suspect or presumptive.
+
 ## USDA's Tavis Anderson at GVN webinar on H5N1 in dairy cattle
 
 - **Source:** meeting
