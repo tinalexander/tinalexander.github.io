@@ -17,6 +17,8 @@ permalink: /notes/2024/05
 - **Attribution:** hosted by the Global Virus Network
 - **Date:** occurred May 17, 2024
 
+[Screenshot from Tavis Anderson's presentation](https://tinalexander.github.io/notes/attachments/2024-05-17_usda_tavis-anderson_global-virus-network-webinar.png)
+
 > Tavis Anderson, USDA ARS [00:16:27]
 > 
 > So the next question was, how did this happen? We detected it with this National Animal Health Laboratory Network, but within that sort of March 25 to April 10 window, we went from a single confirmed case to hundreds. And if you work with viruses, you may not be surprised by this dynamic, how one case can spread really quickly. But in animals, we were sort of wondering what was driving this dynamic. 
