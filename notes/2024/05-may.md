@@ -9,6 +9,74 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 17, 2024
+
+## USDA's Tavis Anderson at GVN webinar on H5N1 in dairy cattle
+
+- **Source:** meeting
+- **Attribution:** hosted by the Global Virus Network
+- **Date:** occurred May 17, 2024
+
+> Tavis Anderson, USDA ARS [00:16:27]
+> 
+> So the next question was, how did this happen? We detected it with this National Animal Health Laboratory Network, but within that sort of March 25 to April 10 window, we went from a single confirmed case to hundreds. And if you work with viruses, you may not be surprised by this dynamic, how one case can spread really quickly. But in animals, we were sort of wondering what was driving this dynamic. 
+> 
+> In this case, we addressed it using some field epidemiology, and also some statistical techniques. And this is work conducted by the Epidemiologic Investigation Services. So they basically have a team in which when there's an outbreak, they get deployed. So folks from Colorado, California, all of a sudden get shipped to Texas, Michigan and wherever else, and they do contact tracing and diagnostics in the field. 
+> 
+> And one of the things that they worked out is, very early on, there was a single dairy location, this Texas 001.
+> 
+> The animals at that location had no clinical signs, asymptomatic infections, and so what happened, those dairy cattle then went out to three different locations, B, C and D. There was also circulation within a little sort of pod where Texas then was associated with New Mexico. And in this panhandle of Texas, the Texas farms, the New Mexico farms essentially are just a big blob. 
+> 
+> So even though they're labeled Texas and New Mexico, it's just a dairy cattle farming region. And those borders are just artificial constructs. And there was also a poultry premise that was linked into a little transmission chain up here on the right, but this B, C and D was seeded by animal movement, from the Texas location of asymptomatic animals. And then once it got into that, B, C and D locations are represented here left to right then there was additional animal movement. 
+> 
+> Again, this was movement of animals that were asymptomatic. Normally what you can expect is that in any given year, a dairy farm may restock up to 20% of its herd. And then on any given day, there could be a couple of, or tens of thousands of dairy cattle moving around from one location to the next. 
+> 
+> Now this is standard and modern agriculture, pigs do it, dairy cattle do it, beef cattle do it, animals move. And when they're moving, they're taking their viruses with them. In this case, this wasn't a deliberate choice from the producers. All of the animals were asymptomatic. And then once they got into these regions, you can start seeing they they're forming little transmission clusters between different premises. 
+> 
+> ...
+> 
+> Tavis Anderson, USDA ARS [00:28:25]
+> 
+> Now some ongoing work at the National Animal Disease Center. This has just been completed, with the results being processed now. And I think that there might be some sort of release of these data in a couple of weeks.
+> 
+> There was an inhalation study and an intra-mammary inoculation study in the containment facilities, the BSL-3 ag facilities we have here on campus. And all of that data is being processed to try and understand how this virus is being transmitted potentially. And once it's in the animal, what is it doing? 
+> 
+> We have samples taken every single day. So we can also detect evolution from day 1 to day 14. So hopefully we'll have some more answers there on the animal side for everybody shortly. 
+> 
+> ...
+> 
+> Tavis Anderson, USDA ARS [00:32:35]
+> 
+> Active surveillance has been occurring within the NIH CEIRR centers. So each of the different CEIRR centers has domestic and international influenza surveillance projects. 
+> 
+> So within our center, we're actively surveilling swine farms. We've got six to eight farms that we're going out and just taking samples every single month from pigs and people who are working on those farms. Obviously that's for pigs and wild birds and people, and that the interface specifically.
+> 
+> Dairy cattle are a unique host. And so it would require a similar type of strategy to establish relationships with farms, which could take a little bit of time to build the trust with the farm workers, which could potentially take even longer, and then get them to commit to long term passive sampling. 
+> 
+> So basically when they go to work, getting them to blow their nose into a tissue, bag it, when they leave work, blow their nose into a tissue, bag it, and submit that every day or once a week, and then also the sampling on the dairy cattle as well. 
+> 
+> So I'm optimistic. But in the short timeframe, it's tough because a lot of the farms are reluctant to do that type of surveillance without existing relationships.
+> 
+> ...
+> 
+> Andrew Pekosz, JH-CEIRR [00:34:01]
+> 
+> I think a lot of people believe that surveillance networks can just descend on any geographic area, on any particular location, and be up and running in a heartbeat because it's all about testing and sequencing and right? 
+> 
+> But the relationships that you have with institutions, with farms, with individuals are incredibly important for all of our existing surveillance networks that are established. And so, you know, I think, some of the comments about, we need more surveillance, which I completely agree with, but why aren't we doing it more right now, sort of minimizes the complexity of being able to do this in an effective way.
+> 
+> Because you can just as easily cause some place to shut down and not want to talk to you if you don't approach the surveillance efforts in the right way. So Tavis' last point was so important. All of our existing surveillance networks for flu all are based on years of interactions and trust and commonality built with these local organizations that can't be reproduced or set up in a day.
+> 
+> ...
+> 
+> Tavis Anderson, USDA ARS [00:35:43]
+> 
+> I think that what happens next is what our APHIS colleagues are working on. 
+> 
+> So if you were to detect HPAI that's associated with a sort of a point source, what do you do to then the region of dairy cattle farms around there? Do you go in and are you able to make any implementation and any change? 
+> 
+> And I think that's where they're trying to think about the downstream regulation.
+
 # May 16, 2024
 
 ## HHS and USDA press briefing on avian influenza for May 16
