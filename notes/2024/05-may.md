@@ -9,6 +9,100 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 21, 2024
+
+## NEJM interview with Jeanne Marrazzo about avian influenza
+
+- **Source:** [audio recording](https://www.nejm.org/doi/full/10.1056/NEJMe2406223)
+- **Attribution:** released by the New England Journal of Medicine
+- **Date:** published May 20, 2024
+
+> Jeanne Marrazzo, NIAID [00:10:46]
+> 
+> The conjunctivitis case in this current description or this current quote unquote outbreak in some ways is not new. 
+> 
+> There was an outbreak of conjunctivitis in the Netherlands about 20 years ago now, or so. 
+> 
+> Remember that you've got alpha two three sialic acid receptors in the conjunctiva. So conjunctiva technically is more receptive to these avian flu strains. 
+> 
+> So I think the, the question is, is that gonna be enough? No, I think other things are going to need to happen to make this particular virus, as Dr. Monto said, much more invasive for us, and that's going to involve probably not only sort of a more efficient binding through those sialic acid receptors, but additional changes in the polymerase, the PB two gene, you mentioned the human case had one change that is pretty typical of mammalian adaptation, but I think you're probably going to need some more for it to really efficiently get into the respiratory tract. 
+> 
+> The other thing is some people think that it's going to need to mutate more so that it is more efficiently transmitted in air droplets. There are some changes that happen to the confirmation of the virus, under shifting pH. And if that is modified at all, you may have more trouble transmitting it through aerosol. So I think those are a few things. 
+> 
+> And then we can't of course forget the hemagglutinin changes that I mentioned regarding carbohydrates. So it's possible that the mammary gland may provide more of that opportunity. 
+> 
+> ...
+> 
+> Jeanne Marrazzo, NIAID [00:12:27]
+> 
+> What I worry about a lot that we're, I don't think people are talking very much about, are the peri-domestic animals on the farms. 
+> 
+> So if you read that an emerging infectious disease paper that came out last week, they did a detailed analysis of at least one necropsy of a cat. The cat had very impressive central nervous system infection, disseminated infection. A number of cats on farms have had clearly had clinical encephalitis. Number of cats have died. 
+> 
+> So this concept that you're going to keep pigs separate on the farms from cows separate on the farms from the humans who go between them, I worry very much that with the animals, like the cats, possibly the dogs, whoever else running around, that's going to be very tough to do.
+> 
+> ...
+> 
+> Jeanne Marrazzo, NIAID [00:14:01]
+> 
+> I learned a lot about how cows are moved around the country. So it's not sort of the pastoral view that you have on the organic milk cartons of the little cow that stays in its pasture and is milked by the little children. 
+> 
+> In fact, cows are raised in a certain area to get to the point where they are milk able or likely to produce milk. They're often moved to large milking facilities, right? With a lot of transmission potential through infection at the udders, because of the milking parlors are big there's-- there's a lot of milk that goes on the floor. They use very high pressure hoses to wash the floor, which presents the opportunity for significant aerosolization. 
+> 
+> So it's not quite as controlled an environment. And then the cows are often shipped back, to other places for various other parts of their season or their lives. So when you look at the spread of many of these cows that have been detected in these herds, many of them have come from cows that probably were originally infected in the initial Texas outbreak. 
+> 
+> So you can trace them back. 
+> 
+> ...
+> 
+> Jeanne Marrazzo, NIAID [00:28:38]
+> 
+> The other thing we are really involved in, although it's in very early stages, and as Lindsley knows in particular, it's in an area that we are very invested in, is looking for monoclonal antibodies, especially in sera from people who've been vaccinated to those H5N1 strains to try to isolate what the most potent either monoclonal or even broadly neutralizing antibodies might be. 
+> 
+> So, that's been gearing up. Again, it's going to be a little bit more time of course than what we've got on the shelf, but I think it is important to go down that road depending on what's going to happen in the next six months.
+> 
+> ...
+> 
+> Arnold Monto [00:25:48]
+> 
+> A lot of work has been done by NIAID and other groups, again, because of the concern 20 years ago or so about spread. And that's why we have H5 vaccines in our stockpile. And we've had studies about antigen sparing and all sorts of things using adjuvants. 
+> 
+> We're also in the new era of mRNA and I haven't, as yet, seen very much in terms of a monovalent H5 vaccine. We've had experimental vaccines developed, which contain multiple hemagglutinins, including H5, but I think that's something we really need to be following. 
+> 
+> Part of the problem with a pandemic is you have to respond quickly and you've got to go what's on with what's on the shelf initially.
+> 
+> We were very lucky to get a vaccine in under a year with COVID. We may not be lucky again with another pathogen. With flu, it usually takes a while. 
+> 
+> In the 2009 pandemic, we were fortunate because FDA could use a strain replacement, and we didn't need an adjuvant, although it was adjuvanted vaccines were used in Europe for administrative reasons, more than scientific reasons.
+> 
+> ...
+> 
+> Jeanne Marrazzo, NIAID [00:30:35]
+> 
+> Can I ask you question, Dr. Monto, about treatment? 
+> 
+> So, a lot of people are very interested in whether nirmatrelvir, the half of Paxlovid, might be active against these viruses because we got a lot of Paxlovid in the stockpile. 
+> 
+> So do you have any thoughts about that? People are looking.
+> 
+> ...
+> 
+> Arnold Monto [00:32:02]
+> 
+> I wonder whether this is the first time we've had this occur. If there hadn't been a few things happening, we wouldn't have detected that this was just low milk production in dairy cattle, since this is a global virus, a global pathogen. 
+> 
+> If you're having human cases in Cambodia, I can't believe there haven't been cases that have been missed in dairy cattle or in cattle. 
+> 
+> That's the other thing, all the attention is being given to dairy cattle. There's no difference in terms of receptors in beef cattle. And they're often on the same farms and everything. 
+> 
+> All of these domestic animals are shipped around the country. A lot of work has been done to follow swine influenza and the pigs are shipped from North Carolina to Iowa because of the-- because it's easier to ship the cattle than to ship the feed that they're given and for other economic reasons. 
+> 
+> So we are dealing right now with a situation where we need both more information, more data, more concern about the problem, but a realization that this virus has been trying to get into humans and to spread in humans for at least 25 years. And it hasn't made it yet. 
+> 
+> We even had in the 2005 period, human infections from backyard flock and Egypt, and Southeast Asia, and cases didn't even spread when there were household infections. And the hypothesis never proven was that the receptors may be different individuals, because blood relations tend to get transmission, but not others in the same household. 
+> 
+> So we really don't understand a lot of this, but to agree with you, we shouldn't be panicked by this and to-- we need to remember that a wakeup call is only useful if you do something about it while you're awake.
+
 # May 17, 2024
 
 ## California's agriculture department on H5N1 in dairy cattle
