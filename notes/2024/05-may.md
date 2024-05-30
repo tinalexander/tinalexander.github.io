@@ -11,6 +11,14 @@ permalink: /notes/2024/05
 
 # May 30, 2024
 
+## FDA spokesperson on medetomidine 
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received May 23, 2024
+
+> [Medetomidine hydrochloride](https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-new-combination-drug-sedation-dogs) is a non-opioid sedative and analgesic that is the active ingredient in some FDA-approved drugs for use in dogs. The FDA does not currently have an import alert in place for medetomidine hydrochloride. For more information, visit: FDA Approves New Combination Drug for Sedation in Dogs  FDA
+
 ## Iowa agriculture department on H5N1 in Sioux County flock
 
 - **Source:** email
