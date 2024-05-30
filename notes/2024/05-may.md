@@ -11,6 +11,122 @@ permalink: /notes/2024/05
 
 # May 30, 2024
 
+## USDA and HHS press conference on avian influenza response
+
+- **Source:** press briefing
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred May 30, 2024
+
+> Eric Deeble, USDA [00:17:49]
+> 
+> In addition to this new funding, APHIS is also standing up a voluntary dairy herd status pilot program. 
+> 
+> The pilot program aims to create additional testing options for producers with herds that have tested negative for three weeks in a row to further reduce H5N1 virus dissemination, provide opportunities to test herds that are not known to be infected, and to expand our knowledge of the disease. 
+> 
+> This is how it's going to work. Producers from states enrolled in the first phase of this program who choose to enroll their herds and who test negative for H5N1 for three consecutive weeks, using on farm bulk milk or similar milk samples, will be able to establish that their herd is at negative status. Herds that continue to test negative weekly from their milk banks will maintain a monitored unaffected herd status and will be able to move their lactating cows without additional pre-movement testing. 
+> 
+> The main benefit for farmers who choose enroll in the H5N1 dairy herd status program, is that once they can demonstrate their herds are free of H5N1, they will be able ship their cows at the time they prefer, and without testing individual animals, knowing that their entire herd is free of the disease.
+> 
+> APHIS is working with state animal health officials to identify states to participate in the pilot phase of this program, which will begin the week of June 3rd, and we have a great deal of interest from a number of states.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:23:36]
+> 
+> This individual that we are reporting today did not have conjunctivitis. They did, however, and it's important to note, they did have watery eyes and eye discomfort. That is not pertaining to conjunctivitis, but it is important to note that these are all common and previously reported symptoms of influenza generally and novel influenza in particular.
+> 
+> ...
+> 
+> David Boucher, ASPR [00:30:49]
+> 
+> When we're looking at the timeline for fill and release of-- release testing for the 4.8 million dose equivalents, those will be-- the manufacturing will be complete later this summer. 
+> 
+> I do want to decouple availability and manufacturing completion, because there is of course that regulatory component that would be needed to either approve or authorize actual use of the doses. 
+> 
+> So just want to be clear on that point. 
+> 
+> ...
+> 
+> David Boucher, ASPR [00:31:21]
+> 
+> And again, on prioritization, at the moment, there is no recommendation for vaccination. If that changes in the future, we would be looking at the population for whom vaccination would be recommended and then making any decisions on prioritization at that time.
+> 
+> To be-- I think it would be premature to speculate on what that might be right now though, given it's not recommended at this time.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:31:50]
+> 
+> With respect to the contours of the timeline, as well as other particulars on this patient, I'd refer you back to Michigan. 
+> 
+> We at the CDC really follow and respect the state's call on what level of information we disclose and what level of information we go out with. And so I'd refer you back to Michigan on that one please.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:33:29]
+> 
+> Our scientists are working to ensure or determine whether there was enough genetic-- whether there were sufficient amounts of virus in the specimen that we received, such that we are able to do sequencing. 
+> 
+> We will know more about that probably in about a day or so, whether we'll be successful at sequencing, and again, that turns on whether the specimen we receive has sufficiently high levels of virus, or as what you know as a CT value, to enable and allow for sequencing.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:38:32]
+> 
+> We're really, really pleased that the state of Michigan has made progress with respect to understanding the serological history or the serology. Let me break all that down for everyone.
+> 
+> Right now, CDC has been working with states, state health departments, and state agriculture departments around a series of interconnected studies that would help us understand three questions. 
+> 
+> Question number one is what is the risk right now of an individual worker who's interacting with affected dairy cows? 
+> 
+> The other question is, what is the historical risk of whether somebody may have been infected previously on the farm? 
+> 
+> And then the third is what features occupationally lead to a higher likelihood that a worker who works with dairy cows may become infected with H5 virus. 
+> 
+> We use PCR tests to understand the first one of those. We use serology or antibody tests to understand the second one, looking backwards. And we use an interview questionnaire to understand the occupational risks that might predispose somebody who works with cows to being infected. 
+> 
+> We at CDC, our role in that is to prepare all of the methodologies, documents, study materials that any public health entity may need to actually carry out that study. And we're agnostic as to who is actually doing the study. 
+> 
+> In the case of Michigan, the state health department is taking the lead, and I commend them for that leadership. In other instances, we've had discussions with county health departments or in some cases having CDC come out.
+> 
+> What matters to us is getting the study done, not so much who's conducting it. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:43:47]
+> 
+> The one area in which we have zeroed in is in Kansas, which as folks may be aware, there's been a particular site that's been at a high level for two consecutive weeks. 
+> 
+> We've spoken with the state health department there to understand whether there's something, any contours that we're missing on the human side, thankfully, nothing to date. 
+> 
+> We've also worked with our agriculture colleagues to understand better what might be going on from an agriculture side. Ultimately, the analysis turns on the particulars of wastewater system.
+> 
+> You know, there's an old adage in the wastewater world, which is, if you've seen one water system, you've seen one water system. Every one of these is different with respect to how open they are to the sky, whether there might be wildlife material in them, whether the water tables or water systems are connected with runoff from processesors, and so on and so forth. 
+> 
+> So the investigation is underway. It's definitely shaping how we spend our public health energy. But there's more data to come still.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:47:51]
+> 
+> Let me be clear, we're still learning more about this patient's clinical and medical history. So I'm not ruling out that there may have been lower respiratory symptoms. 
+> 
+> What I'm saying is that that investigation clinically is underway. Thus, the symptoms that we are aware of are more typical of upper respiratory symptoms, things like cough, and so on and so forth. 
+> 
+> That said the emergence of respiratory symptoms, as I mentioned, is not atypical. We have seen them before with novel influenzas, including with H5.
+> 
+> But what the presence of respiratory symptoms tells us is that the exposure risk is higher. Simply put, someone who's coughing may be more likely to transmit the virus than someone who has an eye infection like conjunctivitis.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:49:41]
+> 
+> All indications are genetically right now, this is still an avian virus. It has not shown signs genetically or epidemiologically of mammalian adaptations that would facilitate greater transmission. 
+> 
+> We are on the lookout for those symptoms or changes, but the mere fact that this individual displayed some respiratory symptoms, again we should be alert, but in and of itself is not a cause to change course or suggest that we're at an inflection point. 
+> 
+> It is a cause and a reason to remain alert.
+
 ## Michigan spokesperson on additional case tied to bird flu outbreak in dairy
 
 - **Source:** email
