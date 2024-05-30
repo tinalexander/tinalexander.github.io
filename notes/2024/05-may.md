@@ -9,6 +9,24 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 30, 2024
+
+## Iowa agriculture department on H5N1 in Sioux County flock
+
+- **Source:** email
+- **Attribution:** Iowa Department of Agriculture and Land Stewardship spokesperson Don McDowell
+- **Date:** received May 30, 2024
+
+> From: Tin, Alex
+> 
+> Do you know if the Sioux County flock with H5N1 is linked to the B3.13 genotype that is circulating in dairy cattle?
+> 
+> ...
+> 
+> From: McDowell, Don
+> 
+> Sequencing efforts are ongoing at USDA’s National Veterinary Services Laboratory in Ames.
+
 # May 21, 2024
 
 ## NEJM interview with Jeanne Marrazzo about avian influenza
