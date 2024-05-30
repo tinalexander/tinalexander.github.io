@@ -11,6 +11,14 @@ permalink: /notes/2024/05
 
 # May 30, 2024
 
+## Michigan spokesperson on additional case tied to bird flu outbreak in dairy
+
+- **Source:** email
+- **Attribution:** Michigan Department of Health and Human Services spokesperson Chelsea Wuth
+- **Date:** received May 30, 2024
+
+> Beyond what is in this attached release, we are not disclosing additional information. The worker was not wearing PPE, and the symptoms were respiratory. We know the exposure was from an infected cow.
+
 ## FDA spokesperson on medetomidine 
 
 - **Source:** emailed statement
