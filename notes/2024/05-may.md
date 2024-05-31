@@ -11,6 +11,16 @@ permalink: /notes/2024/05
 
 # May 30, 2024
 
+## Texas spokesperson on apricot seeds poisoning
+
+- **Source:** emailed statement
+- **Attribution:** Texas Department of State Health Services spokesperson Lara Anton
+- **Date:** received May 30, 2024
+
+> The Pennsylvania Department of Agriculture notified DSHS in March that they had received a complaint about the apricot kernel product. The manufacturer of the products is located in Texas. DSHS collected samples at the food manufacturing facility in April. The DSHS Lab does not test for amygdalin, so we worked with the FDA to send the samples to the Virginia Division of Consolidated Laboratory Services for testing. Once we received the results from Virginia, we submitted a request to the FDA for a product/label safety assessment since there are no established action levels for amygdalin in food in the United States. FDA determined that the levels of amygdalin in the products can be harmful to consumers. DSHS referred the investigation to the FDA for enforcement action.
+> 
+> DSHS posted an alert on the DSHS Food Alerts and Recalls webpage: Food Alerts and Recalls Affecting Texas | Texas DSHS. You’ll want to check with the FDA on the status of their investigation.
+
 ## USDA and HHS press conference on avian influenza response
 
 - **Source:** press briefing
