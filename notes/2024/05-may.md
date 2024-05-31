@@ -9,6 +9,24 @@ permalink: /notes/2024/05
 
 <br>
 
+# May 31, 2024
+
+## FDA on greenlighting pandemic influenza vaccines
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received May 31, 2024
+
+> The FDA is actively engaged with federal partners, as well as industry, in assessing the currently U.S.-approved pandemic influenza vaccines, as well as the evaluation of potential vaccine candidates, should the need for vaccines arise.
+> 
+> The FDA has approved three H5N1 vaccines for use in the U.S. The manufacturers of those vaccines are Sanofi Pasteur Inc., ID Biomedical Corporation of Quebec, and Seqirus, Inc.
+> 
+> While CDC’s current risk assessment to the general public is low, if it is determined that the U.S. population needs to be vaccinated to prevent H5N1 influenza, then the FDA will use its regulatory pathways to take the appropriate steps to ensure vaccines are available in the timeliest manner possible.
+> 
+> Please refer to FDA’s Guidance for Industry Clinical Data Needed to Support the Licensure of Pandemic Influenza Vaccines.
+> 
+> As we always do during emergency responses, the FDA works with medical product sponsors to clarify regulatory and data requirements necessary to rapidly advance development and availability of medical countermeasures needed to support response efforts.
+
 # May 30, 2024
 
 ## Texas spokesperson on apricot seeds poisoning
