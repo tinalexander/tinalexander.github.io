@@ -11,6 +11,20 @@ permalink: /notes/2024/05
 
 # May 31, 2024
 
+## ASPR on pandemic influenza vaccine for H5N1
+
+- **Source:** email
+- **Attribution:** Administration for Strategic Preparedness and Response's David Boucher
+- **Date:** received May 31, 2024
+
+> _Are you able to clarify what the vaccines are being filled into, e.g. vials or pre-filled syringes?_
+> 
+> The existing bulk will be filled into vials.
+> 
+> _Is it accurate to say that the vaccines had already been produced as 'bulk' and are now just being filled and finished?_
+> 
+> That is accurate. The filled vials will leverage bulk antigen and adjuvant that has been manufactured and stockpiled as part of ASPR’s influenza preparedness efforts under our National Pre-pandemic Influenza Vaccine Stockpile (NPIVS) program.
+
 ## FDA on greenlighting pandemic influenza vaccines
 
 - **Source:** emailed statement
