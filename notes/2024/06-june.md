@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 3, 2024
 
+## Fauci at House Oversight Committee hearing about COVID-19 
+
+- **Source:** livestream
+- **Attribution:** hosted by the Select Subcommittee on the Coronavirus Pandemic
+- **Date:** broadcasted June 3, 2024
+
+
+
 ## CDC spokesperson on sick passengers in Houston airport
 
 - **Source:** emailed statement
