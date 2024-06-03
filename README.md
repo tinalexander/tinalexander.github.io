@@ -14,6 +14,7 @@ Built from a [Github repository](https://github.com/tinalexander/tinalexander.gi
     - [March](https://tinalexander.github.io/notes/2024/03)
     - [April](https://tinalexander.github.io/notes/2024/04)
     - [May](https://tinalexander.github.io/notes/2024/05)
+    - [June](https://tinalexander.github.io/notes/2024/06)
   - [2023](https://tinalexander.github.io/notes/2023/)
     - [Articles](https://tinalexander.github.io/notes/2023/articles)
     - [January](https://tinalexander.github.io/notes/2023/01)
