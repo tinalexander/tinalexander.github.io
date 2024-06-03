@@ -11,9 +11,20 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-# May 2024
+# June 2024
 
 - ...
+
+# May 2024
+
+- [U.S. to make millions of bird flu vaccine doses this summer, as cases grow](https://www.cbsnews.com/news/bird-flu-vaccine-doses-this-summer-cases/)
+- [The FDA is weighing whether to approve MDMA for PTSD. Here's what that could look like for patients.](https://www.cbsnews.com/news/the-fda-is-weighing-whether-to-approve-mdma-for-ptsd-heres-what-that-could-look-like-for-patients/)
+- [COVID "likely growing" in D.C. and 12 states, CDC estimates](https://www.cbsnews.com/news/covid-likely-growing-states-cdc-estimates/)
+- [Drowning deaths surged during the pandemic — and it was worse among Black people, CDC reports](https://www.cbsnews.com/news/accidental-drowning-deaths-surged-pandemic-worse-for-black-people/)
+- ["FLiRT" COVID variants are now more than a third of U.S. cases. Scientists share what we know about them so far.](https://www.cbsnews.com/news/flirt-covid-variants-us-cases/)
+- [CDC says bird flu viruses "pose pandemic potential," cites major knowledge gaps](https://www.cbsnews.com/news/bird-flu-pandemic-potential-cdc-investigation/)
+- [Ground beef tested negative for bird flu, USDA says](https://www.cbsnews.com/news/ground-beef-tests-negative-for-bird-flu-usda-says/)
+- [Pasteurization working to kill bird flu in milk and other dairy products, FDA tests find](https://www.cbsnews.com/news/pasteurization-kills-bird-flu-in-milk-early-fda-results-find/)
 
 # April 2024
 
