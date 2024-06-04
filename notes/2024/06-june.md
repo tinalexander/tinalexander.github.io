@@ -167,6 +167,25 @@ permalink: /notes/2024/06
 > 
 > The dispensation would have to happen at the certified healthcare setting.
 
+...
+
+Dr David Millis, FDA [11:28:25]
+
+However, in reviewing the clinical study reports submitted with the application, we noticed a striking lack of abuse related adverse events. 
+
+When we followed up with the applicant about their abuse potential assessment methodology, they clarified that they did not systematically collect abuse related adverse events, as advised in the guidance. Rather, they only documented events characterized as unfavorable. Next slide. 
+
+This lack of systematic collection of positive events is a major concern because this is key data that would help us characterize the central nervous system effects of the drug. As a result of not having this data, our ability to properly describe the expected frequency and severity of these events in product labeling is affected. 
+
+For instance, although we may be able to include a general description and warnings and precautions of known effects of  midomafetamine based on literature, we have no verbatim adverse event terms, so no descriptions of the  midomafetamine experience in participant's own words.
+
+This information could have helped us to determine the best language to describe these effects in the prescribing information. Further, there is no data to quantify the frequency of euphoria or other abuse related events in the adverse reaction section of the labeling. 
+
+We also don't know when participants began to feel the effects of midomafetamine, nor when those effects resolved. This data could help inform recommendations related to appropriate monitoring duration and assessment of discharge readiness after medication sessions. 
+
+...
+
+
 ## USDA spokesperson on sample from herd connected to Michigan human case
 
 - **Source:** emailed statement
