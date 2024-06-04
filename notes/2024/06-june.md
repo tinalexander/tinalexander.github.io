@@ -9,6 +9,16 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 4, 2024
+
+## USDA spokesperson on sample from herd connected to Michigan human case
+
+- **Source:** emailed statement
+- **Attribution:** U.S. Department of Agriculture spokesperson
+- **Date:** received June 4, 2024
+
+> Due to privacy concerns, USDA does not have information about which affected herd is associated with the reported human case. However, USDA continues to sequence all confirmed positive samples, posting sequences on NCBI.
+
 # June 3, 2024
 
 ## Fauci at House Oversight Committee hearing about COVID-19 
