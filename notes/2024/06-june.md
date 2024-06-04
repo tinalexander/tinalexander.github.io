@@ -31,6 +31,56 @@ Due to the seriousness of PTSD and the encouraging preliminary phase two data, M
 
 ...
 
+Amy Laverdiere, Lykos Therapeutics [09:13:40]
+
+MDMA is entactogen that has the potential to be a powerful disease modifier. While the specific mechanisms are not completely understood, this in the brain, MDMA is thought to be monoamine reuptake inhibitor and releaser. 
+
+We know psychotherapy can be effective, but only if patients are able to tolerate the treatment. The available data and mechanism of action suggest that MDMA catalyzes the effectiveness of psychotherapy by facilitating memory recollection and extending the patient's window of tolerance for revisiting distressing thoughts or experiences.
+
+Studies with MDMA show improved self awareness and prosocial effects that enhance the therapeutic alliance between the patient and their therapist. By leveraging the effects of MDMA, individuals are more open to the potential benefits of psychotherapy. This psychological intervention includes aspects of established therapeutic approaches. 
+
+This combination of MDMA plus psychological intervention provides patients with an acute treatment to reduce the symptoms associated with PTSD.
+
+...
+
+Dr Alia Lilienstein, Lykos Therapeutics [09:36:54]
+
+MDMA has a moderately high potential for abuse. Importantly, however, illicit MDMA use is known to be primarily episodic and rarely results in substance use disorders. 
+
+That is likely because MDMA is primarily serotonergic in action and it's unlikely produce physical dependence or withdrawal syndrome. This distinguishes it from typical psychostimulants, which primarily activates the dopamine system.
+
+The morbidity and mortality associated with illicit MDMA is considerably lower than methamphetamines, similar to amphetamines, and higher than methylphenidate. 
+
+While use of illicit MDMA cannot be completely prevented, approval of a controlled product provides the opportunity to regulate and monitor the field to a greater extent than what is currently possible. 
+
+We're working with FDA to develop a REMS program, to evaluate and mitigate the risk of serious harm resulting from patient impairment. According to the proposed REMS, MDMA will only be dispensed in certified healthcare settings, and only with evidence of safe use conditions. 
+
+This includes training for prescribers, pharmacists and therapists, and patients will be counseled to support safe use. 
+
+Patients will be monitored during and after the session and will be required to be enrolled in midomefetamine drug registry.
+
+Beyond the REMS, we're working with agency to develop a comprehensive plan to mitigate risk and translate the positive benefit risk of MDMA assisted therapy observed in the clinical trial setting to clinical care post approval. 
+
+The mitigation efforts address each of the identified or potential risks. They include patient monitoring, appropriate labeling, prescriber educating, including appropriate selection of patients, and therapist training on patient monitoring for these risks. 
+
+We also have additional efforts to support use in clinical practice. We plan to initially work with a limited number of sites that take specific steps to put the staff and processes in place to effectively and safely deliver MDMA assisted therapy. 
+
+The basic premise of this treatment approach is that the psychological component is important. To support MDMA use in clinical practice, we will provide training for therapists on the treatment approach used in the phase three clinical trials. 
+
+Furthermore, the medication for this acute treatment will be supplied in single dose packaging, further limiting nonmedical use and medication errors.
+
+To conclude, overall, three total doses of MDMA were well tolerated. The adverse events were consistent with the known safety profile of MDMA, with mostly mild to moderate and transient adverse events. No patients assigned MDMA died or experienced a serious adverse event in our pivotal studies. 
+
+In addition, the risk can be appropriately managed and mitigated with proposed labeling and REMS. 
+
+The favorable safety profile observed in the clinical program will translate to practice if approved due the inherent safeguards of an acute treatment with controlled distribution. 
+
+Lastly, we agree with the agency that additional postmarketing studies such as laboratory safety data collection can further inform patients and providers while the benefit risk of this treatment is well characterized our clinical development program. 
+
+We recognize more can be learned in a real world setting. We acknowledge the need to move forward with care and caution to bring this new tool to patients suffering from this serious and life-threatening condition.
+
+...
+
 
 
 ## USDA spokesperson on sample from herd connected to Michigan human case
