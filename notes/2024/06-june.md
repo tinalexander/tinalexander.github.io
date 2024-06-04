@@ -81,7 +81,57 @@ We recognize more can be learned in a real world setting. We acknowledge the nee
 
 ...
 
+Dr Kelley O'Donnell, NYU Langone (for Lykos Therapeutics) [09:41:39]
 
+This treatment is under a lot scrutiny right now. PTSD patients are a genuinely vulnerable population and some of the strengths of MDMA may also represent challenges moving forward.
+
+Careful screening, education, and monitoring patients and rigorous training of licensed providers will be essential for mitigating those risks. 
+
+But the complexity of this treatment, like the complexity of the PTSD population, should not preclude approval because it's clear that MDMA assisted therapy would be a welcome addition to the available options. 
+
+I've seen first hand how the intensive treatment can be lifesaving for some, including some who haven't benefited from conventional approaches at all. 
+
+This need is, of course, all the more urgent, because despite the seriousness of this disease, we haven't seen a new pharmacologic intervention for PTSD in decades. 
+
+...
+
+Question [10:30:31]
+
+So there was a recent, fairly high profile ICER review, with claims that there was a misconduct during the clinical trials. Lykos responded really quickly to that, with a public letter. 
+
+My question is number one, when was Lykos first made aware of these allegations and number two, what steps did Lykos take to investigate and rule out these occurred? Because your letter indicated there was any denial of such conduct. 
+
+Did you do an internal investigation? Did you hire a third party often to come into investigate? Can you can speak to that?
+
+Dr Alia Lilienstein, Lykos Therapeutics
+
+The company was initially made aware of this event in late 2018. And an investigation was undertaken internally in the company, to both understand what had happened and improve any processes within the company to prevent this in the future. 
+
+It's never okay for a care provider to cross boundaries. It's unethical behavior, and it's malpractice.
+
+We work with licensed healthcare providers now, only, and they're trained, in addition through our therapy training program, to understand how the drug may impact boundary setting for patients and to reinforce upholding boundaries on their part as well.
+
+Question
+
+So in addition to the boundary violations, I think that is going to be a big part of the conversation later on, but there were these allegations that some folks, subjects, were discouraged from participating in MPLONG, and based on your briefing document, it appears that patients either were enrolled in MPLONG or by themselves decided not to. 
+
+There was no suggestion that they were excluded by the principal investigators, but again, allegations from the ICER review, suggesting again, unsubstantiated claims of subjects stating that they were discouraged from participating in MPLONG study.
+
+Were those things investigated? 
+
+Dr Alia Lilienstein, Lykos Therapeutics
+
+Yes, those were investigated as well. 
+
+And all participants who were interested in participating were given the opportunity to review consent and some chose not to participate, after reviewing consent, but otherwise everyone was given the opportunity. 
+
+Question 
+
+Okay. So my understanding is that no subjects were excluded based off of one of the second criteria, which was, if there were any problems that the principal investigator identified, that would make participation in MPLONG problematic?
+
+Dr Alia Lilienstein, Lykos Therapeutics
+
+There was at least one participant I'm aware of who, because they were doing so poorly, felt like that participation in the study would be really negatively impacting for them, but they were-- a conversation was had.
 
 ## USDA spokesperson on sample from herd connected to Michigan human case
 
