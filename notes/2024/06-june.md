@@ -143,7 +143,7 @@ permalink: /notes/2024/06
 > 
 > Amy Laverdiere, Lykos Therapeutics
 > 
-> Based on the parameters of the proposed REM, which we're still developing with input from FDA, the dispensation would only take place in certified healthcare settings that also have demonstrated evidence of safe use conditions. 
+> Based on the parameters of the proposed REMS, which we're still developing with input from FDA, the dispensation would only take place in certified healthcare settings that also have demonstrated evidence of safe use conditions. 
 > 
 > So by controlled distribution, what we mean is that there would be a limited number of pharmacies. They would either have to be on site at the certified healthcare setting, or similar type of distribution approach. 
 > 
