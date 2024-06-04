@@ -278,6 +278,76 @@ permalink: /notes/2024/06
 > There isn't a lot that I can say with regard to specific details of what we're looking into related to the ICER report versus just our usual standard inspections. 
 > 
 > We're certainly, I think we're all aware of the report. We certainly take those allegations very seriously and are quite concerned by them. We do have inspections ongoing at this point, but can't really speak to the details because those are ongoing.
+> 
+> ...
+> 
+> Dr Tiffany Farchione, FDA [12:34:23]
+> 
+> Well, I mean, the difficult thing and something that you've just hit on very well is that we don't regulate psychotherapy and also, we don't really have any say in the design or the implementation of the particular therapy that is going to be used. 
+> 
+> We can say generally that this is something that would need to be administered in conjunction with a psychological intervention, but that's really the extent of what any labeling language would suggest.
+> 
+> And even when it comes to the parameters of the REMS, those are focused on safety and monitoring, not on the intervention that would occur at at the time. 
+> 
+> ...
+> 
+> Question
+> [12:35:48]
+> You mentioned earlier that inspections were ongoing into some of the claims about data manipulation and such. Is it possible if things were to be approved today that it could come out to market before those inspections are completed? 
+> 
+> ...
+> 
+> Dr Tiffany Farchione, FDA [12:36:08]
+> 
+> We would complete the inspections before taking action. 
+> 
+> ...
+> 
+> Dr Tiffany Farchione, FDA [12:41:57]
+> 
+> This is something unprecedented. So we certainly want to get as many opinions and as much input as we can on this product and on our decision making. 
+> 
+> ...
+> 
+> Dr Tiffany Farchione, FDA [12:46:07]
+> 
+> There is not a great answer to that question because again, even if there was a study looking specifically at the psychotherapy itself, that's not something that would fall under our purview. 
+> 
+> So in terms of approving a particular psychotherapy, that's not something that we would do.
+> 
+> ...
+> 
+> Dr Tiffany Farchione, FDA [12:49:30]
+> 
+> In the clinical trials, we've only required one of the two monitors to have a license. What we have asked for, for the second monitor is, at least a bachelor's level degree and some experience in a mental health setting and so on. It primarily has to do with the concerns of balancing access as well. 
+> 
+> Walter Dunn, PADAC [12:49:59]
+> 
+> So again, reminding folks that that transgression happened with the unlicensed therapist, in the phase two trial, and again, thinking about clinical rollout, I know the sponsor mentioned that they would allow therapists who are in training. But again, thinking about, how should I put this delicately, for profit operations, which may misrepresent the training status of people who are unlicensed that they're potentially in training when they're actually not just to use the least resourced intensive personnel for their treatment, but it may, perhaps there needs to be, or can be more delineated guidelines as far as what that second therapist can be. 
+> 
+> My personal feeling is that both should be licensed. But that's for further discussions, but thank you.
+> 
+> ...
+> 
+> Elizabeth Joniak-Grant, PDAC [12:51:02]
+> 
+> I actually wanted to comment as well on the licensure. I think it's for FDA and people to remember that oftentimes if you have one person who's licensed and another person who is not a patient, will tend to see it as that person is sort of their advocate. 
+> 
+> So if something is going wrong or awry, well, someone would speak up on my behalf. It's, person A is doing something wrong. Person B would speak up on my behalf.
+> 
+> When you don't have people of equal status in that relationship that can cause all kinds of problems when you get power imbalances and hierarchy. I'm thinking about what if you have, a senior professor and you have somebody who's a graduate student who's, you know, in the process, they're going to call them out. 
+> 
+> And there's tons of instances of residents and fellows calling out bad behavior by clinicians all over the U.S., and nothing being done and nothing being investigated for years and years and years. 
+> 
+> So I think we have to really think long and hard about that. I definitely hear what everyone is saying in terms of access, but we have to, you know, it is a balance.
+> 
+> ...
+> 
+> Dr Teresa Buracchio, FDA [12:57:26]
+> 
+> So we know that there is expectation bias and functional unblinding in this study. And it was something that we anticipated at the time of the review of these protocols. It was something that we actively discussed with the applicant during the special protocol assessment. 
+> 
+> And so, we are not surprised by the results of the functional unblinding study. It is something that was anticipated. So we have to consider, when we think about how to handle this, we know that there is bias to these studies. We have to consider, factor that into our consideration of the results and how we tend to think about the bias about how to handle bias when we're looking at the results is some of the things that were mentioned in the comments.
 
 ## USDA spokesperson on sample from herd connected to Michigan human case
 
