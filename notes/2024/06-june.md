@@ -133,6 +133,40 @@ Dr Alia Lilienstein, Lykos Therapeutics
 
 There was at least one participant I'm aware of who, because they were doing so poorly, felt like that participation in the study would be really negatively impacting for them, but they were-- a conversation was had.
 
+...
+
+Question [09:55:15]
+
+The first is related to the controlled distribution pathway, and I think I want a little bit more detail on if I'm a patient, how am I obtaining the medicine or controlled substance, and then how is it being administered? So that's the first question walking me through that controlled distribution pathway. 
+
+And then the second is under the mitigation strategies. There was a mention of limited rollout. And so can you walk me through what limited rollout means and what metrics of success you would use to then expand access, please? Thank you. 
+
+Amy Laverdiere, Lykos Therapeutics
+
+Based on the parameters of the proposed REM, which we're still developing with input from FDA, the dispensation would only take place in certified healthcare settings that also have demonstrated evidence of safe use conditions. 
+
+So by controlled distribution, what we mean is that there would be a limited number of pharmacies. They would either have to be on site at the certified healthcare setting, or similar type of distribution approach. 
+
+There are additional restrictions on compounds that are dependent on their ultimate scheduling by DEA. So there's still some details that need to be worked out in terms of what is completely compliant with both FDA expectations and DEA regulations, and that's something we're actively engaged on working on with both FDA and DEA. 
+
+So it's something that will follow all the requirements that apply, depending on how the scheduling goes.
+
+In terms of how the product is administered, this would only be administered in these certified healthcare settings that have the appropriate personnel and plans in place to conduct the patient monitoring, deliver the psychological intervention, and also have plans in place for medical escalation.
+
+And, in terms of the limited rollout, what we intended is that we would start out with a smaller number of commercial sites that were able to meet the requirements of this certified healthcare setting, safety conditions, in order to essentially pilot what our risk mitigation procedures are able to detect and submit reports to the agency for those REMS assessments on the required schedule.
+
+The metrics for how we would expand on patient access are something that we're also still developing. However, we strongly believe that patient access is very important. And as a result, we're envisioning this as a staged rollout. 
+
+So although we may start with limited number of sites initially, after demonstration of appropriate risk mitigation, we would plan to expand from there. 
+
+Question
+
+Thank you. So just as a follow up and knowing that the REMS program and logistics still need to be worked out a little bit, but it would be feasible or possible, in the sponsor's mind that you go to one of these pharmacies, be dispensed one dose, and then take that with you to the therapy session. Is that correct? 
+
+Amy Laverdiere, Lykos Therapeutics
+
+The dispensation would have to happen at the certified healthcare setting.
+
 ## USDA spokesperson on sample from herd connected to Michigan human case
 
 - **Source:** emailed statement
