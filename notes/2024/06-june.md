@@ -11,6 +11,28 @@ permalink: /notes/2024/06
 
 # June 4, 2024
 
+## FDA committee meeting on MDMA to treat PTSD
+
+- **Source:** [livestream](https://www.fda.gov/advisory-committees/advisory-committee-calendar/updated-meeting-time-and-public-participation-information-june-4-2024-meeting-psychopharmacologic)
+- **Attribution:** hosted by the Food and Drug Administration
+- **Date:** broadcasted June 4, 2024
+
+Amy Laverdiere, Lykos Therapeutics [09:24:54] 
+
+MDMA is not a new drug, and while it can misunderstood due to its illicit counterpart, it actually has a well documented history in the psychiatric field.
+
+In the 1970s and early 1980s, MDMA was used in conjunction with talk therapy by mental health providers since research suggested MDMA allowed patients with psychiatric disorders to access, process and communicate difficult emotions and experiences. 
+
+It's been documented about 4,000 people have been administered MDMA in earlier clinical practice. In addition, about 2,000 participants have been included in more recent research studies. This historical experience along with an extensive library of published literature, informs the design of our clinical program. 
+
+MDMA-AT has been studied across 17 clinical trials. Throughout clinical development, we've worked in collaboration with the FDA. A special protocol assessment for our two nearly identical pivotal studies, MAPP 1 and MAPP 2, was agreed in 2017.
+
+Due to the seriousness of PTSD and the encouraging preliminary phase two data, MDMA-AT received breakthrough therapy drug designation that same year and the NDA was submitted in 2023 and granted priorly review.
+
+...
+
+
+
 ## USDA spokesperson on sample from herd connected to Michigan human case
 
 - **Source:** emailed statement
