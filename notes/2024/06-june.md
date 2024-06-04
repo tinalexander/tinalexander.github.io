@@ -185,6 +185,71 @@ We also don't know when participants began to feel the effects of midomafetamine
 
 ...
 
+Dr David Millis, FDA [11:31:18]
+
+Finally, during our last few meetings with the applicant, we noticed some additional review concerns.
+
+During a breakthrough therapy advice meeting in September 2022, we noted that the safety database for the development program would be considered inadequate if the drug required chronic or chronic intermittent administration to maintain a treatment effect. 
+
+This question of durability is relevant here because PTSD is a chronic condition. Any proposed treatment for PTSD should take this factor into account. 
+
+The applicant proposed to address this question by providing the results of their exploratory follow up observational study MPLONG, which consisted of a single follow up assessment of participants from MAPP1 and MAPP2, at least six months after the last dosing session. 
+
+During the meeting with the applicant, we noted that MPLONG was likely inadequate to fully address the question of durability of effect, but the agency would review the results with an NDA submission. At the pre NDA meeting, the agency noted that a risk evaluation and strategy or REMS would likely be required if this drug were to be approved, but that the specific risks to be mitigated by any proposed REMS would be a matter of review. 
+
+...
+
+Dr David Millis, FDA [11:34:51]
+
+The three medication sessions lasted at least eight hours a piece. The psychological intervention during the medication sessions consisted of general psychological support, as well as observation for safety purposes. Direct therapy was minimal. 
+
+After each dosing session, there were three integrative sessions for a total of nine integrative sessions over the course of the study. The purpose of the integrative sessions was to help the participants describe their experience of the medication sessions, particularly the experience of remembering trauma. 
+
+These were the main sessions with a more primary psychotherapeutic interaction occurred.
+
+However, the content or approach of these integrated sessions was not standardized in the treatment manuals, and was mainly left up to the individual therapist. The manual provided general guidelines, orienting the therapist to an appropriate therapeutic stance towards the participants in setting, but not being directive or specific in terms of the content or approach of those therapy sessions. 
+
+The approach to therapy was not standardized and could vary considerably, from therapists to therapists. Next slide. 
+
+Overall, we know that is difficult then to assess how the psychological intervention provided by the applicant in the studies contributed to the overall treatment effect and results. 
+
+...
+
+Dr David Millis, FDA [11:36:49]
+
+And as noted already, we do not regulate therapy as a rule, in terms of its specific content or details. 
+
+Labeling regulations allow for specification that a drug should be used only in conjunction with another mode of therapy, but that generally requires evidence that the other mode of therapy is necessary to achieve a treatment effect.
+
+Under a REMS, we can require monitoring to ensure a patient's safety, but a REMS cannot dictate that a patient is offered or engages in psychotherapy. 
+
+...
+
+Olivia Morgan, FDA [11:50:00]
+
+One limitation of the study is the variable timing of the long term follow up visit one. The visit occurred at least six months, but up to two years, after the last dose in the parent study.
+
+MAPP1 was conducted before MAPP2, and there was a longer lag time between MAPP1 and MPLONG, so the long term follow up assessment was generally later for those participants. Next slide. 
+
+Another limitation of MPLONG is that some participants reported using non study drug interventions in the interim period between the parent study and MPLONG. Participants from MAPP 1 and MAPP 2 reported using ketamine, the psychedelic MEO DMT, or illicit MDMA.
+
+The number of participants entering MPLONG from MAPP 1 and MAPP 2 who reported use of these psychoactive substances in the interim period between parent study and MPLONG is shown in this table. There were 17 participants in the drug arm and 13 participants in the placebo arm who reported the use of at least one of these psychoactive substances. It is also possible that there may be additional unreported nonstudy drug use in the interim period. 
+
+...
+
+Dr David Millis, FDA [11:54:19]
+
+Although we do have two positive studies, these results are in the context of dramatic functional unblinding. We know that it is difficult to control the impact of functional unblinding in psychedelic clinical trials. And the applicant did use blinded central raters to attempt to mitigate the impact of unblinding. 
+
+Nonetheless, based on the results of the unblinding questionnaire in MAPP 2, it is clear that participants were aware of their treatment assignment, and that could impact their report of symptom control. 
+
+As Dr. Farchione noted in her opening comments, a study that is functionally unblinded may still be able to be considered as an adequate and well controlled study. However, the potential influence of bias needs to be factored into the interpretation of the study results. 
+
+It is important to consider if there were adequate methods to minimize bias, the magnitude of the treatment effects, the robustness of the study results, and what is known about the natural history of the condition. We also have some exploratory data suggesting that the effects of midomafetamine may be durable, but this is based on a single follow up assessment with a high degree of variability and time to visit.
+
+Further because the applicants who enrolled in MPLONG had fared better in the parent study than those who did not enroll, we have concerns about selection bias. There also remains an unresolved question of the impact of non study drug use between the parent studies and MPLONG. 
+
+Finally, the applicant has presented midomafetamine as an aid to psychotherapy. However, the role of psychotherapy and its contribution to the observed treatment response has not been formally evaluated. Also given the inherent flexibility in the therapy manual, there may have been considerable variability in therapeutic approach. However, there were no evaluations comparing whether these changes in therapeutic approach had any influence on efficacy. 
 
 ## USDA spokesperson on sample from herd connected to Michigan human case
 
