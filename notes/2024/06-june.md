@@ -11,6 +11,20 @@ permalink: /notes/2024/06
 
 # June 5, 2024
 
+## Pennsylvania's agriculture department on apricot kernels
+
+- **Source:** emailed statement
+- **Attribution:** Pennsylvania Department of Agriculture spokesperson
+- **Date:** received June 5, 2024
+
+> On February 20, 2024, the PA Dept. of Agriculture’s Bureau of Food Safety received a consumer complaint that “apricot kernels” were available for sale at Sonnewald Natural Foods in Spring Grove, York County Pennsylvania. Apricot kernels are known to contain amygdalin, which converts to cyanide in the body.
+> 
+> Department food safety inspectors visited the store on February 22 and photographed products on the store shelves, forwarding photos to the FDA and also alerting the Texas Department of Agriculture. Since the manufacturer is located in Texas, the investigation and testing that resulted in the FDA warning were led by Texas.
+> 
+> FDA officials indicated that the product was mislabeled, and PA officials had the products removed from the shelves, in advance of the test results.
+> 
+> The department is not aware of any other Pennsylvania locations carrying the products or of any consumers who have been sickened by the products.
+
 ## FDA advisory committee meeting on COVID-19 strain selection
 
 - **Source:** livestream
