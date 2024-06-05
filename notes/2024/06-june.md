@@ -114,6 +114,50 @@ permalink: /notes/2024/06
 > So we're always going to be in that situation of only knowing what we know now. And I would just finalize by saying we've really seen KP.3 increase a lot. And that 493 substitution from a glutamine to a glutamic acid is probably more impactful than the 456L substitution. 
 > 
 > So that would-- I would want to make sure we could the serum neutralizes within fourfold the variants that I know are important, which are KP.2 and KP.3
+> 
+> ...
+> 
+> Darin Edwards, Moderna [11:15:04]
+> 
+> In summary, our preclinical results suggest that both a JN.1 and a KP.2 new variant vaccine cross neutralizes JN.1, KP.2, KP.3, and other currently circulating JN sub variants.
+> 
+> Based on the FDA's recommendation, Moderna is prepared to submit a JN.1 or KP.2 new variant vaccine dossier for approval and is ready to supply the U.S. market with either vaccine composition by mid-August. 
+> 
+> ...
+> 
+> Sarah Meyer, CDC [11:19:38]
+> 
+> It looks like the antibody titers after JN.1 are a little bit higher than after KP.2 vaccination, but they're very similar. So I just want to confirm, is your interpretation of the data that they equally perform, or do you think that they, there is some slight advantage to the JN.1 vaccine? So that's my first question.
+> 
+> Darin Edwards, Moderna [11:20:01]
+> 
+> Yeah, no, thank you for that question. I'm actually showing back the JN.1 data and then in just a second, I'll share the KP.2 once again. That is our interpretation. It's very difficult to see significant differences in the performance of either the JN.1 or the KP.2 vaccine in this type of model, this boosting model, this model of boosting with these updated vaccines. So yes, I do confirm that's our interpretation.
+> 
+> ...
+> 
+> Sarah Meyer, CDC [11:20:40]
+> 
+> My question for that is the kind of volume or doses available at the start, because I think from a program perspective, it's helpful to have as much supply available at the start. I mean, people are seeking the vaccination versus like a trickle out over time. So my question is for either of those vaccines, would you expect a difference in terms of the amount of vaccine available in mid-August, and kind of, if there's any differences, what would be the magnitude of that?
+> 
+> Darin Edwards, Moderna [11:21:09]
+> 
+> So we are still in negotiations with some key retailers and pharmacy chains, for contracts for the fall. That said our projections are that either vaccine, we will have sufficient supply to supply, not only at the initiation of vaccination campaigns, but throughout the season for either vaccine composition.
+> 
+> ...
+> 
+> Kayvon Modjarrad, Pfizer [11:38:09]
+> 
+> The KP.2 vaccine, like the JN.1 vaccine, elicited a similar breath of neutralizing activity against all JN.1 sub lineages. We compared the magnitude of responses of the JN.1 and KP.2 vaccines relative to the XBB.1.5 vaccine. 
+> 
+> Whereas the JN.1 vaccine elicited two to fold higher responses than the XBB.1.5 vaccine, similar to that observed in the prior vaccine experience study, the KP.2 vaccine elicited between three and sevenfold higher responses against this broadly representative panel of JN.1 sub lineages. 
+> 
+> ...
+> 
+> Kayvon Modjarrad, Pfizer [11:39:20]
+> 
+> JN.1 and KP.2 adaptive vaccines confer improved neutralizing responses over XBB.1.5 vaccine against a broad panel of emerging variants. 
+> 
+> Finally, we are prepared to initiate supply of either JN.1 vaccine or KP.2 vaccine immediately upon approval, and we continue to work to meet public health needs in protecting against COVID 19 as per the committee's recommendation. 
 
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
