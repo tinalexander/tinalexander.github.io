@@ -17,21 +17,103 @@ permalink: /notes/2024/06
 - **Attribution:** hosted by the Food and Drug Administration
 - **Date:** broadcasted June 5, 2024
 
-Cody Meissner, VRBPAC [09:30:10]
-
-If the composition of the vaccine differs between the recommendation from, for example, the WHO and our recommendation today, what, how complex a problem is that for the pharmaceutical manufacturers and can they, could they deal with such a situation? It may not be a question to answer right now, but hopefully the manufacturers can address that as we move forward. Thank you.
-
-Jerry Weir, FDA 
-
-So I will give you the short answer, but you're right. The manufacturers are best suited to answer it specifically. 
-
-What you will hear though later today is most manufacturers have already done some at risk work, to try to be prepared for various choices. Obviously no one can be prepared for all the possible choices, but you'll hear that. 
-
-And you'll hear from each of the manufacturers about how the choice affects their particular timeline. And it's true that different manufacturing technologies may be affected more than other ones, depending on the choice.
-
-...
-
-
+> Cody Meissner, VRBPAC [09:30:10]
+> 
+> If the composition of the vaccine differs between the recommendation from, for example, the WHO and our recommendation today, what, how complex a problem is that for the pharmaceutical manufacturers and can they, could they deal with such a situation? It may not be a question to answer right now, but hopefully the manufacturers can address that as we move forward. Thank you.
+> 
+> Jerry Weir, FDA 
+> 
+> So I will give you the short answer, but you're right. The manufacturers are best suited to answer it specifically. 
+> 
+> What you will hear though later today is most manufacturers have already done some at risk work, to try to be prepared for various choices. Obviously no one can be prepared for all the possible choices, but you'll hear that. 
+> 
+> And you'll hear from each of the manufacturers about how the choice affects their particular timeline. And it's true that different manufacturing technologies may be affected more than other ones, depending on the choice.
+> 
+> ...
+> 
+> Peter Marks, FDA [09:32:02]
+> 
+> The manufacturers, we have seen the issue of having a potential JN.1 versus KP.2, discussion or KP variants now, other KP subvariants, coming for a while.
+> 
+> The manufacturers think are very well prepared to speak to their ability to address this. I would just encourage again, the committee today to focus on what makes the most sense from a scientific point of view. Because I think that as you'll hear from the manufacturers themselves, they have done the pre-work to ensure that they are most able to follow what is most appropriate from the scientific and medical standpoint.
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [09:44:32]
+> 
+> So we saw XBB.1.5 lineage viruses circulate through the summer last year and into November. And then in December much like December of 2022, we saw a strain replacement. This time the string replacement was JN.1 lik.
+> 
+> So again, like when we saw BA.5 to XBB.1.5, that was a shift, it was from a different phylogenetic lineage, the same thing occurred this winter, with that shift in JN.1-like viruses, and then much like last year, we have seen a parental lineage circulating in the early winter, and then we start to see diversification in the spring, which is what we're seeing now. 
+> 
+> And so you can see pink, some gray, some KQ.1 like, some KP.2 like, that is, some diversification that we are currently observing much like we did last late spring, early summer.
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:46:44]
+> 
+> There's a particular amount of uncertainty right now because we have a lower number of sequences in the weighted estimates than we have historically. And that's due to a combination of factors: testing practices, availability of specimens, because there's not a lot of community transmission, there just aren't lot of specimens to then sequence, and just, you know, limited laboratory capacities throughout the entire country, um, to maintain the level of sequencing that was maintained two or three years ago.
+> 
+> But we still feel we still feel fairly confident in lineages that are increasing and decreasing. The biggest might sort of ride one edge of those confidence intervals. 
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:23:46]
+> 
+> So, KP.2 and similar viruses are currently the most prevalent viruses in the United States. So there are several groups of viruses that actually have the same spike sequence. So I'm calling them KP.2 like viruses, and that includes KP.2, JN.1.16.1, and a few more. So those are the most prevalent circulating viruses, KP.2 and KP.2 like viruses.
+> 
+> And the second most prevalent viruses that we're predicting our KP.3 lineage viruses. Both of those sets of lineages are descendants from JN.1 and are very similar to JN.1. And I will show you that in a moment. But KP.2 and KP.3 lineages have evolved independently of each other, but both from JN.1.
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:25:52]
+> 
+> So, this is a summary of substitutions that are in the receptor binding domain for the most important part of this spike protein in comparison to XBB.1.5, the current vaccine formulation. I want you to look mostly on the bottom half of this table, where you see the most sort of substitutions pop up is the JN.1, that strain substitution. There were quite a lot of substitutions in the receptor binding domain and throughout the rest of spike protein in comparison to the vaccine strain. 
+> 
+> But then if you look at the bottom two rows, KP.2 like viruses, those, the lineages that all have the same spike protein, the different names, and KP.3, the bolded lineages means that right now we are predicting that they're increasing in proportion. 
+> 
+> And what I want you to notice is they're very, very similar to JN.1. There's not a lot of differences. We're really talking about two differences in receptor binding domain. And when you look at KP.2 and KP.3, they're nearly identical to each other with really one difference between the two of them. 
+> 
+> So it's two differences for each of those in comparison to JN.1, and one difference between KP.2 and KP.3.
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:28:15]
+> 
+> So the take home method I want you to see in this one is that the JN.1 viruses they're kinda all clustered together, on the right side, kind of a quarter of of the way or a third way up, up the Y axis. 
+> 
+> So, and JN.1, KP.2 like viruses, they're really, really on top of each other. And KP.3 is very close by not absolutely on top of it, but very, very close by. And they cluster away from XBB.1.5 viruses. And that is sort of like down into the left a little bit, those are the XBB.1.5 cluster viruses. 
+> 
+> So JN.1 descendant viruses, including KP.2 and KP.3 are antigenically technically similar, using this particular mouse model. 
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:30:04]
+> 
+> So the current circulation of SARS-CoV-2 is relatively low. JN lineages have replaced XBB.1.5 lineages during the winter of 2023 and 2024. 
+> 
+> The severity of JN.1 infections do not appear to be worse than earlier XBB.1.5 infections. JN.1 lineages are currently undergoing phylogenetic diversification. We're seeing convergent evolution of the spike occurring. So we're seeing similar substitutions in the spike, similar substitutions in different lineages of viruses, and KP.2 like lineages and KP.3 like lineages are currently predicted to increasing in proportion. 
+> 
+> Both of these lineages only have two substitution in the spike receptor binding domain in comparison to JN.1. And preliminary data indicate that JN.1 lineages are antigenically similar. 
+> 
+> ...
+> 
+> David Wentworth, CDC [10:48:11]
+> 
+> It's really challenging, right? Because I think the key is to have antisera to those viruses. And ideally you want human antisera to those viruses to better understand exactly what would happen. 
+> 
+> And as Dr Perlman mentioned, really the vast majority of the response is driven by cross reactive B cell memory responses that are to the new antigen. They're not all to the old antigen. There are things that cross-react with the new antigen.
+> 
+> And JN.1, we do have data for that from both animal models and humans. Whereas as a committee, we didn't have any data on KP.2. And what I was trying to get at with that fake cartography was, KP.2 may be better, but it could also be worse, right? 
+> 
+> And the reason it could be worse is multifactorial. It couldn't-- it could not create as high a titer when you immunize that's one of the issues, right? Or it creates a very mono specific titer where it really neutralizes KP.2 well, but it doesn't neutralize other variants as well. And this we saw with XBB.1.5 had a broader cross reactivity pattern than XBB.1, for example, last year. And part of the reason XBB.1.5 was kind of narrowed down as the monovalent recommended by the WHO committee. 
+> 
+> So kind of looking at the prior history, the limited history we have, that's the challenge.
+> 
+> And whether or not you have artificial intelligence, there are efforts in that space, but you really need the data to help inform either the human intelligence or the artificial intelligence, which is antisera to those newest variants, which when you have a variant like KP.3, that just popped up, it takes a month to make antisera. 
+> 
+> So we're always going to be in that situation of only knowing what we know now. And I would just finalize by saying we've really seen KP.3 increase a lot. And that 493 substitution from a glutamine to a glutamic acid is probably more impactful than the 456L substitution. 
+> 
+> So that would-- I would want to make sure we could the serum neutralizes within fourfold the variants that I know are important, which are KP.2 and KP.3
 
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
