@@ -11,6 +11,28 @@ permalink: /notes/2024/06
 
 # June 5, 2024
 
+## FDA advisory committee meeting on COVID-19 strain selection
+
+- **Source:** livestream
+- **Attribution:** hosted by the Food and Drug Administration
+- **Date:** broadcasted June 5, 2024
+
+Cody Meissner, VRBPAC [09:30:10]
+
+If the composition of the vaccine differs between the recommendation from, for example, the WHO and our recommendation today, what, how complex a problem is that for the pharmaceutical manufacturers and can they, could they deal with such a situation? It may not be a question to answer right now, but hopefully the manufacturers can address that as we move forward. Thank you.
+
+Jerry Weir, FDA 
+
+So I will give you the short answer, but you're right. The manufacturers are best suited to answer it specifically. 
+
+What you will hear though later today is most manufacturers have already done some at risk work, to try to be prepared for various choices. Obviously no one can be prepared for all the possible choices, but you'll hear that. 
+
+And you'll hear from each of the manufacturers about how the choice affects their particular timeline. And it's true that different manufacturing technologies may be affected more than other ones, depending on the choice.
+
+...
+
+
+
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
 - **Source:** emailed statement
