@@ -230,8 +230,28 @@ permalink: /notes/2024/06
 > As mentioned during the presentation, we are manufacturing JN.1 vaccine. 
 > 
 > We anticipate no constraints, that we would be able to meet to projected demand. And, we are projecting to have that available, as mentioned, September 1.
-
-...
+> 
+> ...
+> 
+> Ruth Link Gelles, CDC [02:11:37]
+> 
+> It's very difficult to talk about timing COVID 19 vaccines for the respiratory virus season.
+> 
+> For flu and for RSV, we have years and years of data with very similar trends over time. So, you know, you can't quite set your watch by when those seasons are gonna start, but you can do-- you can get close.
+> 
+> For COVID, that's not true at all. We've seen surges in the summer, in August, the last few years. And so I think it becomes a little bit of a difficult game to try to play to time COVID vaccine introduction at the same time, right before a surge. 
+> 
+> I think the other important point to keep in mind is that when we've seen COVID surges before, they're often, you know, with quite a peak, rather than sort of a large span of time. And so to put in place a recommendation of roll out vaccine and get people vaccinated in time, and then they need about a week to two weeks to really have the full benefit of the vaccine, we would risk kind of missing that peak. 
+> 
+> And so I, for those two reasons, I think it's very difficult to try to time COVID vaccine before an oncoming surge. And so I think what we're left with is trying to time it with a respiratory virus season, and think about uptake at the same time as folks are getting their flu vaccines.
+> 
+> ...
+> 
+> Jerry Weir, FDA [02:15:13]
+> 
+> Our ability to review and act on it will depend on when all of the necessary data is submitted and the manufacturers may or may not be able to submit the same amount and quality of data for one variant as another, at exactly the same time. 
+> 
+> That's what I meant about, you might have to ask them when they would be able to submit data to the FDA, but that would be the only limiting factor, but it would be relatively minor in the scheme of things as far as timing.
 
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
