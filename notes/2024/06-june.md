@@ -13,9 +13,9 @@ permalink: /notes/2024/06
 
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
-- **Source: **emailed statement
-- **Attribution: **Amy Emerson, CEO of Lykos Therapeutics
-- **Date: **received June 4, 2024
+- **Source:** emailed statement
+- **Attribution:** Amy Emerson, CEO of Lykos Therapeutics
+- **Date:** received June 4, 2024
 
 Today was an important day as the FDA Advisory Committee panel discussed MDMA-assisted therapy for PTSD. This meeting was unprecedented in many ways including that it is atypical for an Advisory Committee to review an application that combines a drug and psychological intervention. In addition, this would be the first psychedelic-assisted therapy, if approved. While we are disappointed in the vote, we are committed to continuing to collaborate with the FDA with their ongoing review of our NDA over the coming weeks. It is important to note that the FDA is not bound by PDAC’s guidance but takes its advice into consideration. Today’s discussion made clear that there is an urgent need for new, effective and accessible therapies to address this unmet need for those living with PTSD. We are in ongoing discussions with the FDA about a risk evaluation and mitigation strategy (REMS) program, however, that has not yet been fully defined. Part of the purpose of the meeting today was to help inform this REMS program so we can continue to collaborate with the FDA to define the key elements. We will also work with the FDA to determine the most appropriate post-marketing plans to address the outstanding questions raised today, including how best to support the responsible integration of MDMA-assisted therapy into the healthcare system. If FDA-approved, prescription MDMA-assisted therapy will be launched with careful consideration of its potential benefits and risks, in accordance with established medical guidelines, protocols and quality standards.
 
