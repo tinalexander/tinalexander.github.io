@@ -210,6 +210,28 @@ permalink: /notes/2024/06
 > At the time we make these decisions, there is a limited amount of critical nonclinical and clinical data available at the time we must make the recommendation. 
 > 
 > We still poorly understand how the differences in neutralization titer relate to clinical outcomes. The current non-clinical models, the animal models that we're using imperfectly reflect the human populations receiving the vaccine. And human post vaccination and post-infection serology panels are simply not available for distinct populations, such as pediatric adults, elderly who may respond differently to vaccination or infection.
+> 
+> ...
+> 
+> Bill Falstich, Pfizer [01:58:38] 
+> 
+> We have modeled demand based on our prior experience, based on our negotiations with customers and discussions with customers. And then based on analogs, such as flu uptake.
+> 
+> We project that based on the demand we have modeled, we'll be able to supply in all periods, starting as early as August or upon approval. We're preparing for an August approval, but of course that's subject to regulatory review and timelines. 
+> 
+> And we would maintain that supply for as long as it's needed. So through the end of the year and then into the 2025 season as well, is what we would anticipate doing.
+> 
+> Arnold Monto, VRBPAC
+> 
+> And Novavax? Please, go ahead.
+> 
+> Robert Walker, Novavax
+> 
+> As mentioned during the presentation, we are manufacturing JN.1 vaccine. 
+> 
+> We anticipate no constraints, that we would be able to meet to projected demand. And, we are projecting to have that available, as mentioned, September 1.
+
+...
 
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
