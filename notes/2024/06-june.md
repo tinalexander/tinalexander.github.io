@@ -159,6 +159,32 @@ permalink: /notes/2024/06
 > 
 > Finally, we are prepared to initiate supply of either JN.1 vaccine or KP.2 vaccine immediately upon approval, and we continue to work to meet public health needs in protecting against COVID 19 as per the committee's recommendation. 
 
+...
+
+Robert Walker, Novavax [12:00:09]
+
+Selecting a vaccine strain that is antigenically similar to a broad range of circulating strains, and not necessarily the currently dominating strain, may be an approach to de-risk the selection process. 
+
+Our vaccine also induces a conserved polyfunctional TH one biased T-cell response against JN.1 lineage sub variant viruses. Our data support a JN.1 lineage vaccine update for the 2024 2025 season aligned with WHO and EMA recommendations. 
+
+Our recommendation from this committee for a JN.1 vaccine will enable a protein based based vaccine option to be available to the U.S. population this fall. If the recommendation precludes use of a JN.1 vaccine, then a protein based option will not be available in the U.S. for the fall vaccination effort. 
+
+Finally, commercial manufacturing is ongoing and initial shipments of JN.1 vaccine are on track to be in U.S. warehouses in August. 
+
+...
+
+Robert Walker, Novavax [12:04:33]
+
+We are currently manufacturing JN.1 vaccine. That's correct. 
+
+So, in order to have a protein vaccine ready to go, September 1, we're prepared to provide the JN.1 vaccine. We think, based on the data I've shown you today, that the JN.1 vaccine is appropriate and has good cross neutralizing activity against all the subvariants that are currently circulating. 
+
+...
+
+Jerry Weir, FDA [12:28:45]
+
+A couple of observations about
+
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
 - **Source:** emailed statement
