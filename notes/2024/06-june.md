@@ -158,32 +158,44 @@ permalink: /notes/2024/06
 > JN.1 and KP.2 adaptive vaccines confer improved neutralizing responses over XBB.1.5 vaccine against a broad panel of emerging variants. 
 > 
 > Finally, we are prepared to initiate supply of either JN.1 vaccine or KP.2 vaccine immediately upon approval, and we continue to work to meet public health needs in protecting against COVID 19 as per the committee's recommendation. 
-
-...
-
-Robert Walker, Novavax [12:00:09]
-
-Selecting a vaccine strain that is antigenically similar to a broad range of circulating strains, and not necessarily the currently dominating strain, may be an approach to de-risk the selection process. 
-
-Our vaccine also induces a conserved polyfunctional TH one biased T-cell response against JN.1 lineage sub variant viruses. Our data support a JN.1 lineage vaccine update for the 2024 2025 season aligned with WHO and EMA recommendations. 
-
-Our recommendation from this committee for a JN.1 vaccine will enable a protein based based vaccine option to be available to the U.S. population this fall. If the recommendation precludes use of a JN.1 vaccine, then a protein based option will not be available in the U.S. for the fall vaccination effort. 
-
-Finally, commercial manufacturing is ongoing and initial shipments of JN.1 vaccine are on track to be in U.S. warehouses in August. 
-
-...
-
-Robert Walker, Novavax [12:04:33]
-
-We are currently manufacturing JN.1 vaccine. That's correct. 
-
-So, in order to have a protein vaccine ready to go, September 1, we're prepared to provide the JN.1 vaccine. We think, based on the data I've shown you today, that the JN.1 vaccine is appropriate and has good cross neutralizing activity against all the subvariants that are currently circulating. 
-
-...
-
-Jerry Weir, FDA [12:28:45]
-
-A couple of observations about
+> 
+> ...
+> 
+> Robert Walker, Novavax [12:00:09]
+> 
+> Selecting a vaccine strain that is antigenically similar to a broad range of circulating strains, and not necessarily the currently dominating strain, may be an approach to de-risk the selection process. 
+> 
+> Our vaccine also induces a conserved polyfunctional TH one biased T-cell response against JN.1 lineage sub variant viruses. Our data support a JN.1 lineage vaccine update for the 2024 2025 season aligned with WHO and EMA recommendations. 
+> 
+> Our recommendation from this committee for a JN.1 vaccine will enable a protein based based vaccine option to be available to the U.S. population this fall. If the recommendation precludes use of a JN.1 vaccine, then a protein based option will not be available in the U.S. for the fall vaccination effort. 
+> 
+> Finally, commercial manufacturing is ongoing and initial shipments of JN.1 vaccine are on track to be in U.S. warehouses in August. 
+> 
+> ...
+> 
+> Robert Walker, Novavax [12:04:33]
+> 
+> We are currently manufacturing JN.1 vaccine. That's correct. 
+> 
+> So, in order to have a protein vaccine ready to go, September 1, we're prepared to provide the JN.1 vaccine. We think, based on the data I've shown you today, that the JN.1 vaccine is appropriate and has good cross neutralizing activity against all the subvariants that are currently circulating. 
+> 
+> ...
+> 
+> Jerry Weir, FDA [12:28:45]
+> 
+> A couple obsewrvations about the future directions of this process.
+> 
+> I think we've all resigned ourself to the fact that updating the SARS-CoV-2 strain composition for vaccines is going to be a continuous process. But I think we've also, it's becoming clear that the ideal timing for a vaccine composition decision remains elusive. 
+> 
+> The virus continues to evolve without a well defined seasonality, vaccine production timelines differ depending on the manufacturing technology, and there is still uncertainty regarding the optimal timing for vaccine administration. 
+> 
+> In other words, trade offs are inevitable in the timing of the vaccine composition decision. 
+> 
+> And finally, I want to mention that this process, there's still many challenges that remain. And I think Dr. Wentworth mentioned some of these too, but I'll highlight them again. 
+> 
+> At the time we make these decisions, there is a limited amount of critical nonclinical and clinical data available at the time we must make the recommendation. 
+> 
+> We still poorly understand how the differences in neutralization titer relate to clinical outcomes. The current non-clinical models, the animal models that we're using imperfectly reflect the human populations receiving the vaccine. And human post vaccination and post-infection serology panels are simply not available for distinct populations, such as pediatric adults, elderly who may respond differently to vaccination or infection.
 
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
