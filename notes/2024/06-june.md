@@ -251,7 +251,49 @@ permalink: /notes/2024/06
 > 
 > Our ability to review and act on it will depend on when all of the necessary data is submitted and the manufacturers may or may not be able to submit the same amount and quality of data for one variant as another, at exactly the same time. 
 > 
-> That's what I meant about, you might have to ask them when they would be able to submit data to the FDA, but that would be the only limiting factor, but it would be relatively minor in the scheme of things as far as timing.
+> > That's what I meant about, you might have to ask them when they would be able to submit data to the FDA, but that would be the only limiting factor, but it would be relatively minor in the scheme of things as far as timing.
+> 
+> ...
+> 
+> Designated Federal Officer [02:49:39]
+> 
+> So out of these 16 total voting members for today's meeting, we have 16 yes votes and zero no votes. 
+> 
+> ...
+> 
+> Peter Marks, FDA [02:57:07]
+> 
+> I'm just a little concerned that perhaps the committee doesn't understand that if they choose to recommend or to make any comments about a KP.2 vaccine, that does not mean that there will not be availability of a JN.1 Novavax vaccine necessarily. It just may mean that there will be two different formulations available. 
+> 
+> Now you might say, how could that be? But that's precisely what happened two years ago, when Novavax had their original vaccine available, when we had bivalent available, and yes, there was some preference given towards an updated vaccine. 
+> 
+> I guess we could consider how we would word this now, but I do-- I would ask for the committee to comment a little bit on this concept. We're saying we will settle for JN.1. But I'd just kind of like to understand from a scientific standpoint, do we think there's some possibility that that KP.2 or KP.3 are potentially going to evolve back closer to JN.1, because all of the data seem to show that neutralization, and granted we're not saying that that's a big deal here except perhaps, in newly vaccinated individuals, if you look closely at that, do we really think that that we're-- are we really okay with this? 
+> 
+> And if this evolves further in the fall, will we regret not having been a little bit closer? I guess the point here being that, yes, we shouldn't be chasing-- we always say we shouldn't be chasing strains, but we're paying an incredibly high premium for mRNA vaccines to be able to have the freshest vaccines. 
+> 
+> The analogy that I would make here is that, at least for me, when I go to the milk case to buy milk, despite the fact that all the milk I buy is ultra pasturized and it's never going to go bad before I use it, I always tend to buy the most recent dating rather than an older dating. And that's just in case. 
+> 
+> So the question, I just would love the committee to comment a little bit more about this, knowing the full well that we might have a solution for the Novavax issue that we're not going to, our intention is not to take away choice, but it's to just accept that this is the nature of mRNA versus protein based vaccines over.
+> 
+> ...
+> 
+> Arnold Monto, VRBPAC [03:01:38]
+> 
+> One of the things that may be troubling a single choice is the schematic, which showed JN.1 in the middle, and KP.2 in one direction and KP.3 in the other direction. 
+> 
+> So, it becomes a little bit of a problem trying to come up with a unitary choice. 
+> 
+> ...
+> 
+> Peter Marks, FDA [03:25:39]
+> 
+> Thanks to all the members. Really appreciate the feedback today. It actually was very helpful. 
+> 
+> This was a good check.  
+> 
+> We wanted to make sure that we gave people the option to potentially make a choice of a KP.2 vaccine. We hear loud and clear from all of the members that they don't feel like that is necessary at this time. That a JN.1 vaccine for all is acceptable. We take that back. 
+> 
+> We really appreciate your feedback in that regard. 
 
 ## Lykos Therapeutics on FDA advisory committee meeting on MDMA-assisted therapy for PTSD
 
