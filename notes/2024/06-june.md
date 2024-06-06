@@ -11,6 +11,64 @@ permalink: /notes/2024/06
 
 # June 6, 2024
 
+## Infectious diseases society webinar on H5N1
+
+- **Source:** [webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-clinical-management-and-prevention-of-clade-ii-mpox-plus-hpai-update---jointly-hosted-with-hivma/)
+- **Attribution:** hosted by the Infectious Diseases Society of America
+- **Date:** occurred June 5, 2024
+
+> Jay Butler, CDC [00:10:01]
+> 
+> Very recently, a second case was identified in Michigan associated again with exposure to cattle on a different farm than the first first case in Michigan. 
+> 
+> This case was a little different because in addition to reporting burning eyes, this individual reported runny nose, sore throat, and a bit of cough. Again, the recovery was fairly rapid. 
+> 
+> And I wanted to stress that in each of these instances, there has been no documentation of human to human transmission. 
+> 
+> ...
+> 
+> Jay Butler, CDC [00:11:40]
+> 
+> So working with state and local health departments, we've been monitoring people who've been exposed to cattle for 10 days after exposure. I will be upfront to say the amount of follow up has been variable among the states that have been involved. 
+> 
+> But so far, nearly 400 people have been monitored from the affected farms. People who develop any symptoms are tested, and we have the three cases that have been confirmed. 
+> 
+> ...
+> 
+> Jay Butler, CDC [00:13:59]
+> 
+> This involves increasing the number of influenza virus specimens that are tested and subtyped to determine if they're H5N1 in public health laboratories across the U.S. We want to increase outreach to healthcare providers, which is one of the reasons we're having this discussion today to raise awareness so that patients with conjunctivitis or respiratory illness are screened and tested for novel influenza, if indicated. 
+> 
+> And finally the approach will maintain increased level of testing during the summer months when seasonal influenza activity is  typically low and therefore testing decreases.
+> 
+> What will happen in the fall when we begin to see seasonal influenza? That's still a few months off and it'll depend on how things evolve over the next couple of months. 
+> 
+> ...
+> 
+> Jay Butler, CDC [00:16:54]
+> 
+> We've sequenced the influenza virus from the conjunctival specimen collected from the first case in Michigan.
+> 
+> Attempts to sequence the virus in the clinical specimen from the second case in Michigan are underway, but are challenging because the CT values are high, suggesting a low viral load.
+> 
+> ...
+> 
+> Jay Butler, CDC [00:59:48]
+> 
+> A rapid influenza test likely would be positive. There is some evidence though that sensitivity is reduced with H5N1. 
+> 
+> And the important context for that is to realize that the rapid tests sometimes struggle with sensitivity to begin with. So if there is a high index of suspicion, getting a specimen that can get to a lab to perform nucleic acid testing, I think is an important step in making the diagnosis.
+> 
+> ...
+> 
+> Jay Butler, CDC [01:03:19]
+> 
+> I think it comes down to the relationship that we have between health and the workers, particularly government public health, or really any government agency. A number of the workers are immigrants. I can't say how many are documented, how many are undocumented, but there's certainly some resistance to having any kind of intervention that might potentially cause problems for the individuals that are being asked to participate in studies or in investigations. 
+> 
+> I think just like in clinical medicine, having a relationship with the patient is critical, same thing in public health. Having a relationship with the population is really critical. 
+> 
+> Some states have been able to really move forward in establishing that relationship. Real shout out to my public health colleagues in Michigan who have been able to be more aggressive in testing individuals that have been exposed to infected cattle.
+
 ## Iowa's agriculture department on detection of H5N1 in dairy herd
 
 - **Source:** emailed statement
