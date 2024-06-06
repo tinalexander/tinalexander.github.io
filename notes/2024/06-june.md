@@ -9,6 +9,16 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 6, 2024
+
+## Iowa's agriculture department on detection of H5N1 in dairy herd
+
+- **Source:** emailed statement
+- **Attribution:** Iowa Department of Agriculture and Land Stewardship spokesperson Don McDowell
+- **Date:** received June 6, 2024
+
+> The dairy reached out to us earlier this week reporting symptomatic cattle. We helped to coordinate testing. Iowa State Veterinary Diagnostic Laboratory detected the virus. NVSL has since confirmed them.
+
 # June 5, 2024
 
 ## Pennsylvania's agriculture department on apricot kernels
