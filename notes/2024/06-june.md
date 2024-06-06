@@ -251,7 +251,7 @@ permalink: /notes/2024/06
 > 
 > Our ability to review and act on it will depend on when all of the necessary data is submitted and the manufacturers may or may not be able to submit the same amount and quality of data for one variant as another, at exactly the same time. 
 > 
-> > That's what I meant about, you might have to ask them when they would be able to submit data to the FDA, but that would be the only limiting factor, but it would be relatively minor in the scheme of things as far as timing.
+> That's what I meant about, you might have to ask them when they would be able to submit data to the FDA, but that would be the only limiting factor, but it would be relatively minor in the scheme of things as far as timing.
 > 
 > ...
 > 
