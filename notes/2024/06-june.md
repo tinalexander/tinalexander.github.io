@@ -11,6 +11,22 @@ permalink: /notes/2024/06
 
 # June 6, 2024
 
+## Minnesota's animal health board on recent H5N1 case
+
+- **Source:** email
+- **Attribution:** Minnesota Board of Animal Health spokesperson Michael Crusan
+- **Date:** received June 6, 2024
+
+> From: Tin, Alex
+> 
+> Is it known if the infected dairy herd had received cattle from other farms or out of state recently?
+> 
+> ...
+> 
+> From: Crusan, Michael (BAH)
+> 
+> Great question! A little too early to answer. Whenever we detect a disease we conduct an epidemiological interview with the producer to determine recent animal movements or risk factors for disease to have been introduced. That is in process at the moment and our field veterinarians are meeting with the affected herd this afternoon.
+
 ## Infectious diseases society webinar on H5N1
 
 - **Source:** [webinar](https://www.idsociety.org/multimedia/clinician-calls/cdcidsa-clinician-call-clinical-management-and-prevention-of-clade-ii-mpox-plus-hpai-update---jointly-hosted-with-hivma/)
