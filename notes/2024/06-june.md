@@ -9,6 +9,24 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 7, 2024
+
+## South Carolina's health department on FDA's raw milk and H5N1 letter
+
+- **Source:** emailed statement
+- **Attribution:** South Carolina Department of Health and Environmental Control spokesperson
+- **Date:** received June 7, 2024
+
+> _Are there any plans to conduct surveillance of raw milk for H5N1?_
+> 
+> DHEC's Dairy program is working closely with the State Veterinarian at Clemson Animal Health to determine what, if any, surveillance may be necessary. Currently there have been no indications of any dairy cattle illness in South Carolina and no cattle from infected herds in other states have been imported into South Carolina.
+> 
+> _Are there any plans for restrictions on raw milk sales due to the outbreak?_
+> 
+> No; however, the Raw Milk for Human Consumption regulation requires that raw milk from ill cattle may not be sold, so if H5N1 was diagnosed in a milking cow at a permitted farm, that farm would be restricted from selling raw milk until then herd was cleared by the State Veterinarian.
+> 
+> People who work with or consume raw milk should be aware that there are potential health risks associated with the raw milk, including H5N1. All labels on raw milk for human consumption products in South Carolina are required to feature the following consumer advisory: "This is a raw milk product that is not pasteurized. Consuming raw milk products increases your risk of food borne illness."
+
 # June 6, 2024
 
 ## Minnesota's animal health board on recent H5N1 case
