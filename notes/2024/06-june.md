@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 7, 2024
 
+## Nevada's agriculture department on FDA's raw milk and H5N1 letter
+
+- **Source:** emailed statement
+- **Attribution:** Nevada Department of Agriculture spokesperson
+- **Date:** received June 7, 2024
+
+> Thanks for reaching out. Raw milk sales for human consumption are illegal in Nevada. For questions on raw milk, I recommend you reach out to California, Idaho, or Arizona agriculture departments, as they allow its sale.  The NDA is testing dairy cattle according to the requirements for cattle movement. There have been no reported cases of H5N1 in Nevada.  
+
 ## South Carolina's health department on FDA's raw milk and H5N1 letter
 
 - **Source:** emailed statement
