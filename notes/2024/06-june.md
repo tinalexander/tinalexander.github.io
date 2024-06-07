@@ -11,6 +11,22 @@ permalink: /notes/2024/06
 
 # June 7, 2024
 
+## CDC official at WHO webinar on H5N1 public health risk
+
+- **Source:** [recording](https://youtu.be/8zCkgj8XKts)
+- **Attribution:** hosted by the World Health Organization's EPI-WIN
+- **Date:** published June 7, 2024
+
+> Todd Davis, CDC [00:22:26]
+> 
+> The second human case that was identified from Michigan did have a relatively high CT value in the nasopharyngeal specimen that was collected from this individual. We were not able to isolate virus from that specimen. And we were only able to generate a partial HA, a full length neuraminidase, nd no internal gene sequences, from this case to date. 
+> 
+> So we've just recently, in fact, Monday of this week, posted the partial HA and full length neuraminidase sequences in both the GISAID and NCBI databases. So that data is now available publicly. 
+> 
+> But I'll mention that, you know, we also saw no amino acid changes in the HA of the second case from Michigan, relative to the first case from Michigan and the Texas virus. And so we see no changes that have been associated with receptor binding domain mutations that would impact infectivity or transmissibility among humans. We see no changes in angenic sites that would be expected to impact the candidate vaccine virus cross protection. 
+> 
+> So still no changes of note in the hemagglutinin gene of these viruses. And in addition, the neuraminidase sequence also confirmed that there were no changes associated with reduced susceptibility. 
+
 ## Nevada's agriculture department on FDA's raw milk and H5N1 letter
 
 - **Source:** emailed statement
