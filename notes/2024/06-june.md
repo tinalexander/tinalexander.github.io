@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## Texas health department on FDA's raw milk letter
+
+- **Source:** email
+- **Attribution:** Texas Department of State Health Services spokesperson Lara Anton
+- **Date:** received June 10, 2024
+
+> There are 53 licensed retail raw dairies in Texas and the majority are small herds. DSHS conducts routine testing of the raw milk for somatic cell count, standard plate count, coliform, antibiotics, added water and six common pathogens every three months. We have started testing raw milk from retail raw dairies that are near (in the same county or in a county adjacent to) a known outbreak of avian flu in commercial producer dairies. We are following USDA's surveillance plan, which entails testing the retail raw milk three weeks in a row to confirm HPAI is not present. DSHS is also looking into the state lab's ability to do additional testing if it becomes necessary in the future.
+
 ## Utah agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
