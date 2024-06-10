@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## Wyoming agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** Wyoming Department of Agriculture spokesperson Derek Grant
+- **Date:** received June 10, 2024
+
+> No. There are no plans to conduct surveillance of raw milk for H5N1 and there are no plans for restrictions on raw milk sales due to the outbreak. In Wyoming, raw milk is a product that is able to be sold under the Wyoming Food Freedom Act. Under that statute, there is no regulation of certain products (like raw milk) sold from producers directly to the informed end consumers. Because of this, foods sold under the Wyoming Food Freedom Act are not licensed or regulated by the WDA so there is no structure in place to conduct surveillance or place restrictions on sales.  
+
 ## FDA spokesperson on raw milk letter, H5N1 in raw cheese
 
 - **Source:** emailed statement
