@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## Ohio's agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** Ohio Department of Agriculture spokesperson
+- **Date:** received June 10, 2024
+
+> The sale of raw milk to the consumer is illegal in the state of Ohio.  Any raw milk leaving Ohio licensed dairy farms goes for further processing to regulated facilities with proper pasteurization, proved to effectively inactivate the virus.
+
 ## Iowa's agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
