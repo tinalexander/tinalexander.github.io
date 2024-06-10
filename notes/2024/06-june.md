@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## Massachusetts agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** Massachusetts Department of Agricultural Resources spokesperson
+- **Date:** received June 10, 2024
+
+> “The Massachusetts Department of Agricultural Resources is proactively monitoring the situation for Highly Pathogenic Avian Influenza in dairy cattle, urging local farmers to implement strict biosecurity measures. Working in collaboration with the Department of Public Health, we are conducting voluntary testing among dairy farmers to detect the virus and ensure the safety and confidence in the milk supply. While there are no current plans for the Department to impose restrictions on the sale of raw milk, we will continue to align our decisions with scientific evidence, data, and the guidance provided by the FDA and USDA.”
+
 ## Michigan agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
