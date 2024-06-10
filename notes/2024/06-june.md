@@ -11,6 +11,16 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## Iowa's agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** Iowa Department of Agriculture and Land Stewardship spokesperson Don McDowell
+- **Date:** received June 10, 2024
+
+> Iowa’s raw milk law explicitly precludes the Iowa Department of Agriculture and Land Stewardship from licensing and regulating raw milk dairies.
+> 
+> However, if dairy cattle within Iowa are experiencing clinical symptoms consistent with HPAI, they should contact the Iowa Department of Agriculture and Land Stewardship and we can work with them to collect samples for testing.
+
 ## New Hampshire agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
