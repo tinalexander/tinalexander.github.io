@@ -52,7 +52,8 @@ permalink: /notes/2024/06
 ## Connecticut agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
-- **Attribution:** 
+- **Attribution:** Connecticticut Department of Agriculture spokesperson
+- **Date:** received June 10, 2024
 
 > Connecticut Department of Agriculture is working closely with local, state, and federal partners to monitor the emerging H5N1 in dairy cattle issue to ensure the health of animals and the public, safeguard the state’s milk supply, and protect the wellbeing of farmworkers. Intrastate sales of raw milk are allowed in Connecticut. Producers of raw milk and raw milk cheese must register with Connecticut Department of Agriculture to obtain a permit to operate and undergo routine testing. We will continue to monitor the H5N1 situation and adjust as needed.
 
