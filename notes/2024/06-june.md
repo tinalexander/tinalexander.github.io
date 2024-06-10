@@ -9,6 +9,43 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 10, 2024
+
+## Michigan agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** Michigan Department of Agriculture and Rural Development Director Tim Boring
+- **Date:** received June 10, 2024
+
+> Retail sales of raw milk in Michigan is illegal. It is not sold in stores or other commercial settings. Consumers may currently only obtain raw milk if they are members of a herd-share agreement and they go directly to the farm to pick them up.
+> 
+> The Michigan departments of Agriculture and Rural Development and Health and Human Services continue to highlight the importance of only consuming pasteurized milk products.
+
+## Minnesota agriculture department on H5N1 in cattle
+
+- **Source:** email
+- **Attribution:** Minnesota Board of Animal Health spokesperson Michael Crusan
+- **Date:** received June 10, 2024
+
+> There were no interstate movements for that Benton County, Minnesota herd.
+
+## Connecticut agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** 
+
+> Connecticut Department of Agriculture is working closely with local, state, and federal partners to monitor the emerging H5N1 in dairy cattle issue to ensure the health of animals and the public, safeguard the state’s milk supply, and protect the wellbeing of farmworkers. Intrastate sales of raw milk are allowed in Connecticut. Producers of raw milk and raw milk cheese must register with Connecticut Department of Agriculture to obtain a permit to operate and undergo routine testing. We will continue to monitor the H5N1 situation and adjust as needed.
+
+## USDA official on background about H5N1 testing order
+
+- **Source:** email
+- **Attribution:** on background from a USDA official
+- **Date:** received June 10, 2024
+
+> No, the testing methods USDA has implemented in response to the detection of H5N1 in dairy cattle are not ineffective. As USDA has previously iterated since the implementation of the Federal Order, and as it underscored during its recent announcement on next steps to ensure the health and safety of the nation’s livestock and poultry: as additional testing measures take place, USDA anticipates that it will see an increase in testing and positive test results, which will add to our knowledge of the disease and how it may spread between herds. USDA is encouraging testing in every way possible and is providing more ways to do so, in addition to the Federal Order; this has led to an increase in producer confidence and the recognition of the importance of testing symptomatic herds and consequentially, the occurrence of more testing and therefore more positive cases. This shows that, in fact, our testing methods are working. More pertinently to your question: we are still conducting epidemiological work on the new detections in new states, but at this time we do not believe those cases are a result of interstate cattle movements.
+> 
+> In addition to testing, biosecurity is the key to containing this virus, and ultimately ensuring that it is eradicated so that producers do not have to deal with this virus in dairy cattle permanently. Good biosecurity – including cleaning and disinfection of vehicle and equipment – is critical to minimizing the risk of disease spread. USDA works closely with state animal health official, producers, and industry organizations to provide guidance and resources for cleaning and disinfection not only on affected farms but for all livestock producers as a part of practicing good biosecurity. APHIS has made available a number of biosecurity documents on its landing page: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/livestock.
+
 # June 7, 2024
 
 ## CDC official at WHO webinar on H5N1 public health risk
