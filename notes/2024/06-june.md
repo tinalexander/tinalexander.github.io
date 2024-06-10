@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## New Mexico's agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** New Mexico Department of Agriculture spokesperson
+- **Date:** received June 7, 2024
+
+> The New Mexico Department of Agriculture continues to be in communication with the state’s retail raw milk producers and their veterinarians to monitor herd health.
+
 ## Ohio's agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
