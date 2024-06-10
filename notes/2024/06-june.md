@@ -11,6 +11,18 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## New Hampshire agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** New Hampshire Department of Health and Human Services spokesperson
+- **Date:** received June 10, 2024
+
+> The New Hampshire Department of Health and Human Services (DHHS) does not recommend the consumption of raw milk. However, there are no current plans to restrict the sale of raw milk in New Hampshire, which is permitted under state law.
+> 
+> Pasteurization, which kills harmful germs that can cause illness, is crucial for milk safety. FDA testing has confirmed that pasteurization inactivates the H5N1 virus, and pasteurized dairy products remain the safest way for consumers to enjoy the benefits of milk. While DHHS is working with partners to assess the feasibility of testing raw milk samples, there are no immediate plans to do so.
+> 
+> DHHS continues to closely monitor for any H5N1-related developments that may impact public health in partnership with state agencies, including the Department of Agriculture, Markets, and Food, and federal agencies.
+
 ## Massachusetts agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
