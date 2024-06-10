@@ -11,6 +11,22 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## Minnesota agriculture department on FDA's raw milk letter and H5N1 in cows
+
+- **Source:** emailed statement
+- **Attribution:** Minnesota Department of Agriculture
+- **Date:** received June 10, 2024
+
+> “The Minnesota Department of Agriculture (MDA) is working with our partners at the Minnesota Board of Animal Health, Minnesota Department of Health, University of Minnesota Extension, and the dairy industry regarding a Minnesota dairy herd testing positive for H5N1 highly pathogenic avian influenza, and is providing any needed assistance to our dairy producers and workers.
+> 
+> While producers routinely isolate sick cows and divert milk away from the food chain, we know pasteurized milk products are safe to consume, and pasteurization effectively inactivates bacteria and viruses in milk.
+> 
+> Because state law allows consumers to purchase raw or unpasteurized milk in limited circumstances, the MDA advises dairy producers to follow state and federal protocols for sick animals and encourages producers to test sick cows. Consumers who choose to purchase unpasteurized milk should discuss biosecurity and testing measures with the dairy farmer.”
+
+> Dr. Nicole Neeser, MDA’s director of our Dairy and Meat Inspection Division:
+> 
+> “Minnesota law restricts sales of raw milk direct to consumers from farms on an occasional basis. Herds affected with the virus are not allowed to sell raw milk direct to consumers because that milk is likely to contain harmful pathogens. The MDA also continues to advise dairy producers to follow state and federal protocols for sick animals and encourages producers to test sick cows. Consumers who choose to purchase unpasteurized milk from unaffected farms should discuss biosecurity and testing measures with the dairy farmer.”
+
 ## New Mexico's agriculture department on FDA's raw milk letter
 
 - **Source:** emailed statement
