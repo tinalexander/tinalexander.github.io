@@ -11,6 +11,24 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## FDA spokesperson on raw milk letter, H5N1 in raw cheese
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received June 10, 2024
+
+> _1)How have states responded to FDA's letter?_
+> 
+> The FDA is actively and regularly meeting with its regulatory partners throughout the HPAI H5N1 virus response and has had multiple engagements with them on the topic of the intrastate sale of raw milk for human consumption.  The agency has ensured that our state regulatory partners are aware of our concerns and recommendations, including by sharing and communicating directly, and by making this letter available on our website.
+> 
+> The FDA will provide support to our regulatory partners that request assistance with the recommendations outlined in the letter.  The FDA appreciates the close coordination it continues to have with our state partners on the HPAI H5N1 virus response.  
+> 
+> _2) Does FDA plan to do any surveillance or restrictions for raw milk derived products that are sold interstate, like cheese?_
+> 
+> Any raw milk cheeses sold in interstate commerce for human consumption must comply with FDA requirements, including certain types of raw milk cheese must be aged at least 60 days in accordance with FDA regulations (21 CFR 133). The FDA is continuing to gather data, conduct testing, and support research related to the safety of dairy products and H5N1 HPAIV, including aged raw milk cheeses.  
+> 
+> The FDA has also recommended on our HPAI website that industry does not manufacture or sell raw milk or raw milk cheese products made with milk from cows showing symptoms of illness, including those infected with avian influenza viruses or exposed to those infected with avian influenza viruses. By exposure, we generally mean cattle located on a premises with cattle with suspected or confirmed HPAI A (H5N1). Given the variety of premises sizes and the potential for state requirements, the FDA recommends producers consult with state regulatory officials and their veterinarian for further guidance. The FDA also recommends that milk from exposed, asymptomatic cattle only be used for pasteurized milk and milk products whether for human or animal feed channels. The FDA recommends that premises test for HPAI viruses in pooled milk prior to resuming commerce in unpasteurized dairy products following apparent resolution of illnesses on the premises.
+
 ## Texas health department on FDA's raw milk letter
 
 - **Source:** email
