@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 10, 2024
 
+## Utah agriculture department on FDA's raw milk letter
+
+- **Source:** emailed statement
+- **Attribution:** Utah Department of Agriculture and Food spokesperson
+- **Date:** received June 10, 2024
+
+> There have been no confirmed cases of H5N1 in dairy cattle in Utah. Currently, there are no restrictions on the sale of raw milk in Utah related to H5N1. UDAF will maintain our existing testing requirements for all dairy products, including raw milk. Though UDAF doesn't specifically test for H5N1 in raw milk, if somatic cell counts exceed 400k, samples will be sent to a lab at Utah State University for additional testing. UDAF supports the FDA's recommendations and continues to advise individuals who choose to consume raw milk and raw milk products to heat these products to 165° for at least 15 seconds before consuming to reduce health risks associated with raw milk and raw milk products.
+
 ## Minnesota agriculture department on FDA's raw milk letter and H5N1 in cows
 
 - **Source:** emailed statement
