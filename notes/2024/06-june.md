@@ -25,6 +25,20 @@ permalink: /notes/2024/06
 - **Attribution:** hosted by the Institute for the Advancement of Food and Nutrition Sciences
 - **Date:** occurred June 4, 2024
 
+> Kevin Hall, NIH [01:16:53]
+> 
+> I find myself in this very interesting position where I am very much an advocate of understanding mechanisms, because if we have 60 to 70% of the food supply is being categorized in this way, if we don't understand what the potential mechanisms are by which foods in this broad category might lead to positive health outcomes, negative health outcomes, neutral health outcomes, then I think we're gonna make very limited progress.
+> 
+> At the same time, I also hear that, you know, we can't avoid this question and we can't avoid this terminology, given the mountain of epidemiological data that are out there. We have to answer the question. And I think if we purposely just try to let this play its course, we're going to run into the idea that we're just dodging it, right? We're not really trying to tackle this issue. And my view is we need to tackle the issue and we need to capitalize on this public awareness and this interest to generate the kinds of data that we actually need to make actionable changes. 
+> 
+> If it turns out at the end of the day that this concept adds nothing beyond what we already know about what makes up a healthy diet, we need the data to show that. And that would be, I think, a really important outcome of research in this area. If it turns out we're surprised and we find something is actually happening, that's beyond what we normally think about--
+> 
+> I mean, energy density is the stupidest example of that, right? It's something that's been out there forever, but it's not captured by the healthy eating index, right. It's below the radar, but it's a really simple idea that has been studied for a very, very long period of time. If it turns out in our study that we can create a diet that is 80% of calories from ultra processed food that has low energy density, that results in the similar degree of weight loss as the minimally processed diet, that's I think a super important piece of information that will go a long way to driving what it is about ultra processed foods that is in-- is not associated with some outcome, in this case energy intake. 
+> 
+> But yeah, I just don't want to be accused of dodging the question, which is, I think a lot of what the public pushback is and public health pushback is when you argue about definitions.
+> 
+> ...
+
 > Julie Hess, USDA [01;21;47] 
 > 
 > I'll echo a lot of what Dr. Hall has said already.
