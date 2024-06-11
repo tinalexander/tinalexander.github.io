@@ -11,6 +11,14 @@ permalink: /notes/2024/06
 
 # June 11, 2024
 
+## Colorado's health department on FDA letter about H5N1 in raw milk
+
+- **Source:** emailed statement
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson
+- **Date:** received June 11, 2024
+
+> The Colorado Department of Public Health and Environment received the letter from the FDA last week and shared it with the Colorado Department of Agriculture. Our two agencies have been working together closely to respond to cases of avian flu, and we will continue to do so. We are currently collaborating to implement USDA’s voluntary testing program and working to develop a voluntary testing program for producers. 
+
 ## Federal researchers at IAFNS session on ultra-processed foods
 
 - **Source:** meeting recording
