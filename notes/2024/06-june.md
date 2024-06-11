@@ -11,6 +11,34 @@ permalink: /notes/2024/06
 
 # June 11, 2024
 
+## Federal researchers at IAFNS session on ultra-processed foods
+
+- **Source:** meeting recording
+- **Attribution:** hosted by the Institute for the Advancement of Food and Nutrition Sciences
+- **Date:** occurred June 4, 2024
+
+> Julie Hess, USDA [01;21;47] 
+> 
+> I'll echo a lot of what Dr. Hall has said already.
+> 
+> I think one thing that we can benefit from this research on ultra processed foods, while I'm not personally convinced that it's a useful construct, I think if we get useful research on energy density, if we get useful research on eating rate and texture of foods, because we're investigating ultra processed foods, that's a win for public health.
+> 
+> So insofar as we could see benefits to public health from this research, I think it's worthwhile. Is there something to ultra processed foods? I think we will know hopefully soon enough.
+> 
+> ...
+> 
+> Kevin Hall, NIH [01;23;04]
+> 
+> I'll certainly say that there's a lot of resistance to the idea, especially among the team of folks who developed the Nova system, who seemed intentionally, even before a lot of the mountain of epidemiological data was in, was that the idea of a healthy ultra processed food was an oxymoron. 
+> 
+> I don't think it is. 
+> 
+> And the question is, you know, is there something beyond the dietary guidelines, healthy eating index, what factors beyond that might be driving some of the issues with some categories of ultra processed foods and not others? 
+> 
+> And obviously as Julie's study nicely showed, you can create a very highly ultra processed diet that's meeting the Dietary Guidelines for Americans. I guess that open question is, is that just mean that the Dietary Guidelines for Americans has a, a gaping hole in it? I think that's what a lot of the folks who push the ultra processed food narrative would say. 
+> 
+> But I think that until we understand the mechanisms by which these epidemiological associations are being, seeming to mount every day, that we just don't know the answer to that question. And so only by doing the kinds of trials that have started to occur will we have answers to those questions.
+
 ## North Carolina agriculture department on FDA's raw milk letter
 
 - **Source:** email
