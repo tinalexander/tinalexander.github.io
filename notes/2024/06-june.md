@@ -9,6 +9,16 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 11, 2024
+
+## North Carolina agriculture department on FDA's raw milk letter
+
+- **Source:** email
+- **Attribution:** North Carolina Department of Agriculture and Consumer Services spokesperson Heather Overton
+- **Date:** received June 11, 2024
+
+> We have received the letter and are looking at their recommendations, and raw milk sales for human consumption is not allowed in North Carolina.  Here is a link to the General Statute.   https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_106/gs_106-266.35.html
+
 # June 10, 2024
 
 ## Wyoming agriculture department on FDA's raw milk letter
