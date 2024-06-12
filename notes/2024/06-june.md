@@ -9,6 +9,20 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 12, 2024
+
+## CDC on new H1N1 dual mutants with reduced oseltamivir inhibition
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received June 12, 2024
+
+> This report discusses the concerns about a multicountry detection of influenza viruses named A(H1N1)pdm09. This virus has two mutations in the neuraminidase that occurred naturally and have not been seen together previously. In laboratory tests, these viruses were found to be about 13 to 16 times less sensitive to oseltamivir, than those without this combination of mutations. There are no established criteria for determining clinically relevant oseltamivir resistance based on laboratory testing. For perspective, another mutation called H275Y makes the virus 500 to 1000 times less sensitive to oseltamivir in the laboratory test.
+> 
+> These mutated viruses retained sensitivity to other anti-influenza medications, including a newer one, baloxavir marboxil. There are no immediate implications to change decisions for clinical care. Also, getting vaccinated against the flu can offer protection from illness caused by viruses with or without these mutations.
+> 
+> It is unknown how widely these mutated viruses will circulate in the upcoming season. It is important to continue monitoring the spread of these viruses and the evolution of these viruses as they may acquire other mutations that could further impact the usefulness of oseltamivir or other antiviral medications.
+
 # June 11, 2024
 
 ## Colorado's health department on FDA letter about H5N1 in raw milk
