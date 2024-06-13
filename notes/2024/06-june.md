@@ -53,7 +53,7 @@ permalink: /notes/2024/06
 > 
 > David Boucher, ASPR [00:23:54]
 > 
-> We, uh, announced a few weeks ago that we're moving forward with fill of about 4.8 million dose equivalents of bulk antigen. That is moving along well. 
+> We announced a few weeks ago that we're moving forward with fill of about 4.8 million dose equivalents of bulk antigen. That is moving along well. 
 > 
 > I think when we had announced that, we had talked about a three to four month timeline, we've been able to pull that into the left, and doses manufacturing should be complete starting mid-July, and then going through first couple of weeks of August. So on track there.
 > 
