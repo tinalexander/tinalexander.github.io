@@ -9,6 +9,108 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 13, 2024
+
+## HHS and USDA press briefing on H5N1 dairy outbreak
+
+- **Source:** conference call
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred June 13, 2024
+
+> Mark Lyons, USDA [00:15:38]
+> 
+> As far as knowing where we are in this outbreak, I don't know that we know that at this point, I think, again, as we have more of these programs come into play and everything, ultimately that'll help us kind of better understand kind of the full scope, the full extent, of what this outbreak is. As you do see as the numbers to kind of increase in some of these states. 
+> 
+> So we've seen increases in Michigan, Idaho, as disease does become present in these states. We do see it as kind of a naive population where we see those numbers go up that's expected. That's not necessarily alarming in the sense of we understand how this disease spreads.
+> 
+> However, to get really further ahead in this space. Again, it goes back to the biosecurity we're really wanting all industries all to really up their biosecurity, have those enhanced biosecurity plans. We do have through our funding mechanisms, again, options for unaffected, as well as affected herds to both be able to increase biosecurity plans on site to one, keep disease out of their herds. And two, to keep disease limited if it would get into their herds. 
+> 
+> So ultimately that's gonna be the thing that gets us through and gets this kind of out of this disease outbreak. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:19:43]
+> 
+> I'm hesitant to attribute the high CT value to anything on the collection side. It's just as possible that it was an individual who was, whose symptoms were so mild, such that there just wasn't much virus circulating, but we'll get back to you with additional details and discussion on that.
+> 
+> ...
+> 
+> Question [00:20:02]
+> 
+> I saw in the Michigan report, it talked about shared workers being that only transmission link between dairy and poultry. I mean, have you looked into the possibility that infected workers were the vector? Or is there a reason that you think contaminated clothing is more likely? Thanks.
+> 
+> Kammy Johnson, APHIS [00:20:22]
+> 
+> That's a great question. And thank you for bringing that up. 
+> 
+> When we look at those genetic sequences, we do see that there are relationships and between those viruses, and we are relying on our public health colleagues to tell us and have some indicator on whether or not people are infected. 
+> 
+> We do know from previous scientific work that shared workers, acting as inadvertent carriers, on clothing and boots, have been identified in outbreaks in prior outbreaks of this virus on poultry farms. 
+> 
+> So we just were relying again on inferring from previous experiences to know to know that that is an identified risk factor.
+> 
+> ...
+> 
+> David Boucher, ASPR [00:23:54]
+> 
+> We, uh, announced a few weeks ago that we're moving forward with fill of about 4.8 million dose equivalents of bulk antigen. That is moving along well. 
+> 
+> I think when we had announced that, we had talked about a three to four month timeline, we've been able to pull that into the left, and doses manufacturing should be complete starting mid-July, and then going through first couple of weeks of August. So on track there.
+> 
+> No plans at this time to manufacture, procure more doses. More to follow though, if that changes. 
+> 
+> ...
+> 
+> Mark Lyons, USDA [00:34:07]
+> 
+> So 11 herds have signed up and are participating in the financial support mechanisms for affected herds. So of the 94 affected herds, 11 of them have now signed up for that financial support mechanism. 
+> 
+> There are conversations happening with about 20 states. I think it is right now, where we've had conversations with states, conversations with herds, on enrolling in the voluntary HPAI dairy status program that was announced, and the pilot began on June 3rd.
+> 
+> ...
+> 
+> Kammy Johnson, APHIS [00:37:39]
+> 
+> I'll try to give you the nuances of what we know and don't know about the cats. 
+> 
+> We don't have any evidence that they are involved in spreading the virus further. And again, we lean on the genomic sequencing of the viruses to help us make that interpretation. 
+> 
+> But with that said, we do not fully understand whether or not they are capable of transmitting. They can obviously be very effective carriers on their fur and their feet, so they can act as fomites. So that is one possibility, of helping, if they're doing within herd spread. 
+> 
+> But again, most of these cats are, have very serious neurologic symptoms and very serious health outcomes because of that. So again, they don't, you know, unfortunately they a bit of a canary in a coal mine for some instances, and because of their early onset and their very serious outcomes. 
+> 
+> So I hope that's a long way of saying, we still don't have a very clear picture, but we don't have any evidence that they are capable of transmitting it. 
+> 
+> ...
+> 
+> Mark Lyons, USDA [00:40:46]
+> 
+> I don't know that I have those numbers either. I know it's a high percent, we've had a very high percentage that we're able to actually like get into sequencing and get good analyses out of. 
+> 
+> So, I like we have the best people possible in that space work and high confidence in their ability to kind of get those sequences pulled from the, a very large majority of all samples. 
+> 
+> And I would echo what Dr. Johnson said, as far as kind of the numbers again, with these programs, we're seeing increases in testing. That's what we're wanting to see. That's really working well.
+> 
+> ...
+> 
+> Kammy Johnson, APHIS [00:44:02]
+> 
+> I would like to remind folks that while we have seen spillover into those wild birds and peri-domestics, the rest of that story, that what you're seeing is the numerator side of that, right? The number that were positive. What we haven't put in this report specifically is the denominator and that those were of the, there was a significantly higher number of animals tested, in the hundreds on some of those farms when those animals were found. 
+> 
+> So again, small numbers, but significant, but not cause for alarm. So I think that's another way to put that in context of, you know, and again, we're not seeing that we don't have any evidence that they are going on and transmitting. It doesn't mean it isn't possible, but again, that's part of why we're why we're capturing the information.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:45:27]
+> 
+> That is one reason why we'd like to continue the ongoing work to study what you're referring to as the carriage or the likelihood of just having the virus somewhere in your body, but not actually having it be causing any type of illness. And so that's one of the aims of the studies that you've heard us here at CDC talk about that we'd like to really do and understand. 
+> 
+> And that gets to the heart of your question. It's not that there's a limitation on the amount of testing that we can be doing. We have ample amount and supply of testing, but we want to know what those tests mean. And if by testing somebody you're happening just to pick up a stray amount of virus from their nasal passage, but not actually detecting someone who's clinically ill who requires medication, who could pass it on to somebody else, then we've got to really kind of evaluate what we're doing or accomplishing by that testing.
+> 
+> To date, the data that we've seen suggests that testing gives us actionable data when it is not just someone who's been exposed, but rather someone who's exposed, but symptomatic. We are always looking to evaluate that view though. 
+> 
+> And if we were to generate data, to suggest that testing individuals who have just been exposed leads to a high number of positives, that we would then take subsequent clinical or public health action on, that's a discussion that would then cause a change in our testing approach, but thus far, the data that we've seen over the past few decades with influenza suggests that testing both for exposed and symptomatic folks gets us right in that sweet spot.
+
 # June 12, 2024
 
 ## CDC on new H1N1 dual mutants with reduced oseltamivir inhibition
