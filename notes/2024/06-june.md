@@ -9,6 +9,54 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 14, 2024
+
+## FDA spokesperson on NIH study of H5N1 in pasteurized milk
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received June 14, 2024
+
+> Topline:
+> 
+> To date, the totality of evidence continues to indicate that the commercial milk supply is safe. The FDA recognizes the importance of ensuring the continued safety of the commercial milk supply and remains committed to providing updates of its scientific findings. The FDA will continue to evaluate ongoing studies related to H5N1 in milk as part of our risk management decisions for public health.
+> 
+> While laboratory benchtop studies provide important, useful information, it is challenging to simulate real world commercial processing conditions on the benchtop. This is why the FDA is conducting a pasteurization study designed to better replicate real-world conditions testing of milk that is more representative of conditions encountered in actual processing facilities. Results from the FDA’s study will help further the agency’s understanding of pasteurization efficacy against anticipated concentrations of virus under real-world processing conditions.
+> 
+> Additional Background:
+> 
+> To be clear, the NIH has not confirmed the presence of active H5N1 virus in pasteurized milk but rather has released some preliminary data using benchtop equipment to approximate pasteurization conditions. The study reflected experimental conditions, and should not be used to draw any conclusions about the safety of the U.S. milk supply.
+> 
+> The FDA is using multiple data sources and research studies to build a strong body of evidence regarding the effectiveness of the milk safety system. The FDA conducted an initial survey of 297 retail dairy products collected at retail locations in 17 states that represented products produced at 132 processing locations in 38 states.  All of the samples were found to be negative for viable H5N1 virus.  These results underscore the opportunity to conduct additional studies that closely replicate real world conditions. The FDA, in partnership with USDA, is conducting pasteurization validation studies – including the use of a homogenizer and continuous flow pasteurizer. 
+> 
+> Generally, benchtop thermal inactivation studies provide data and information that help us understand the thermal stability of different pathogens. But there are numerous considerations that affect how results of these studies should be interpreted because laboratory equipment and commercial pasteurization systems can differ in important ways.  
+> 
+> · Laboratory benchtop equipment used in these thermal inactivation studies, such as thermal blocks in PCR machines, can be difficult to heat milk consistently and thoroughly to the process temperature.
+> 
+> · The sample types used can vary between studies and may not be representative of the milk typically entering pasteurization as part of commercial milk processing.  
+> 
+> To better understand relationships between viable viral loads over different times and temperatures, some benchtop studies start with very high viral loads, which may not be representative of what we expect to see in the real world.  
+> 
+> Because benchtop studies have limits in their ability to validate real-world pasteurization, the FDA is conducting a pasteurization validation study in a pilot scale system, utilizing a continuous flow pasteurizer and a homogenizer, as appropriate, to reproduce real-world processing conditions. 
+> 
+> At this time, the FDA has prioritized research using continuous flow pasteurization equipment because it is representative of a common industry system, rapidly heating milk to process temperatures and measuring the thermal inactivation that occurs in the holding tube. This work is currently underway, and we think it is the best way to model thermal inactivation that will be directly applicable to commercial scale pasteurization processes.  
+> 
+> Furthermore, a critical step in the scientific confirmation process includes testing of milk that is more representative of conditions encountered in actual processing facilities. Milk routed to commercial use is typically pooled in large amounts from numerous healthy cows and comingled from numerous farms before pasteurizing and processing. The FDA is continuing to test samples of pooled raw milk from individual farms. This information will be used as a basis to characterize potential virus levels that pasteurization may encounter – and will inform studies to further validate pasteurization efficacy.  
+> 
+> For the latest updates from the FDA visit: https://www.fda.gov/food/alerts-advisories-safety-information/updates-highly-pathogenic-avian-influenza-hpai#additionalresources 
+> 
+> Questions: 
+> 
+> 1)    Why hasn't FDA required longer or hotter pasteurization, to reduce the risk of H5N1 infection? 
+> 
+> All of the testing data available to the FDA indicates that the pasteurization processes currently used by commercial milk producers in the United States are effective at inactivating H5N1. Many processors use temperatures that are greater, often much greater than the minimum standards. However, excessive thermal processing can affect the quality of the product, such as resulting in fluid milk with a cooked flavor. Given the technical specifications of current manufacturing equipment in use by processors and the potential negative impact on the production of products such as cheese where higher temperatures may alter key components like proteins, the United States would hesitate to change pasteurization parameters without data to demonstrate a public health need.
+> 
+> 2) Why has FDA delayed releasing results from its pasteurization validation study? 
+> 
+> As previously communicated, the U.S. government partners have been working with deliberate speed on a wide range of studies looking at milk along all stages of production -- on the farm, during processing and on shelves - with well- established methodologies used previously to confirm pasteurization effectiveness for known pathogens. The FDA is committed to sharing further analyses and results from additional sampling and other surveillance activities in the near future.  The results when available will be posted here: Updates on Highly Pathogenic Avian Influenza (HPAI) | FDA. 
+> 
+> It is important to reiterate that this work is a top priority for the agency and we are proceeding in an efficient, methodical, stepwise, and scientific fashion to ensure the continued effectiveness of the federal-state milk safety system and reinforce our current assessment that the commercial milk supply is safe. Sound science is critical to informing public health decisions like those made by the FDA related to food safety and we take this current situation and the safety of the milk supply very seriously. We recognize the importance of releasing further, actionable information.  
+
 # June 13, 2024
 
 ## HHS and USDA press briefing on H5N1 dairy outbreak
