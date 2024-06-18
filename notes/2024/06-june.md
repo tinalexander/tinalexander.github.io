@@ -11,6 +11,52 @@ permalink: /notes/2024/06
 
 # June 18, 2024
 
+## HHS secretary on EMTALA at press conference
+
+- **Source:** press conference
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred June 18, 2024
+
+> Question [00:24:07]
+> 
+> Mr. Secretary, two questions on EMTALA. 
+> 
+> I'm wondering first, if you could give us a sense of how busy that work is keeping CMS, I mean, give us a sense of the scope of their investigations. 
+> 
+> And then second, I'm wondering if you can talk just a bit to us on how it relates to the other tools in your toolbox. What's at stake? Thanks.
+> 
+> Xavier Becerra, HHS [00:24:26]
+> 
+> And I'll answer that. And I will invite the senators to answer, because I know they've been doing work to try to ensure rights, regardless of whatever the Supreme Court does, with regard to EMTALA. 
+> 
+> CMS continues to request information from individuals who think they may have been deprived of their rights as they sought emergency healthcare. CMS will continue to follow up on any reports that we receive of people being discriminated against when it comes to receiving the healthcare they need in emergency circumstances. And we will take action where we can.
+> 
+> Obviously, the Supreme Court case was based on a report that we received and then acted on and the deprivation of access to healthcare, by a woman in Idaho. And so we'll continue to do that.
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:25:47]
+> 
+> It used to be that you wouldn't have to think twice.
+> 
+> If you were facing an emergency or someone you loved was facing an emergency, 9-1-1 you call, and you know that they're going to get access to the care that they need, likely in an emergency room, regardless of what your circumstance was. 
+> 
+> If you were in an emergency circumstance, a doctor would decide what your care would be to keep you alive or to stabilize you, not a politician, not even a judge, because in the moment of your need, that politician and judge are far away from you, it's the doctor who's in front of you. 
+> 
+> And we want to keep it that way, that doctors will decide the care you need, including in emergency circumstances. 
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:00:05]
+> 
+> It is a contract that runs one year and that can be renewed every year for up to nine years. 
+> 
+> And what we're simply doing is going through a process to make sure we have a contract that protects the interests of the tens of millions of Americans who rely on those call centers to get the information they need for Medicare, ACA health insurance coverage. 
+> 
+> We went through a request for information where we solicited information. We then submitted the request for proposals, and now we'll see if we received proposals, CMS will work through the process the way it's typically done, and they will see if there are bids and then hopefully by some point next year, we'll find out if we have a new contractor or we may remain with the same contractor.
+> 
+> Either way, what we want to do is make sure there's continuity in the operations at these call centers. So no American, whether for Medicare or for the ACA insurance coverage, finds disruption in accessing the care that they need.
+
 ## Dollar Tree spokesperson on FDA's warning letter
 
 - **Source:** emailed statement
