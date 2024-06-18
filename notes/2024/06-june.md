@@ -13,7 +13,7 @@ permalink: /notes/2024/06
 
 ## HHS secretary on EMTALA at press conference
 
-- **Source:** press conference
+- **Source:** [press conference](https://www.youtube.com/watch?v=qXkZmzrFx78)
 - **Attribution:** hosted by the Department of Health and Human Services
 - **Date:** occurred June 18, 2024
 
