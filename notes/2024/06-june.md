@@ -65,6 +65,56 @@ permalink: /notes/2024/06
 
 > Dollar Tree is committed to selling quality food and products, maintaining a safe environment for associates and customers, and complying with all laws and regulations. Under our new management team, we are on a journey to transform our business and continue to take steps to significantly enhance and strengthen our compliance and safety programs and capabilities, including our process for quickly and effectively executing product recalls. We are building and enhancing our efforts to prevent and detect violations, and when a compliance issue does occur, we work to remediate it promptly and fully. As previously disclosed, in October 2023 Dollar Tree took immediate action and began executing a recall of WanaBana’s Apple Cinnamon Fruit Puree Pouch upon being notified of the issue with the product. We continue to cooperate with FDA on this matter.
 
+# June 17, 2024
+
+## CDC laboratory call on H5N1 testing
+
+- **Source:** conference call
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** occurred June 17, 2024
+
+> Todd Davis, CDC [00:18:12]
+> 
+> This also includes making sure that commercial laboratories that are receiving and testing specimens are also able to subtype those viruses. 
+> 
+> So a routine part of the process with commercial laboratories of course, is anytime a sample tests influenza A positive, but as subtype negative, that those samples are quickly submitted to a state public health laboratory for additional subtyping, or if they get an interesting result, for example, if they detect influenza A(H1) but not (H1N1)pdm09 in their assays, that those are also subtyped or characterized with additional testing, to be sure that we're picking up those potential novel influenza A infections. 
+> 
+> So that's fairly routine procedures that are coordinated between commercial laboratories and state public health laboratories. And that includes submission of samples that can also be tested using CDC's H5 assay, upper respiratory specimens, lower respiratory tract specimens, and now paired nasopharyngeal and conjunctival specimens. I'll talk a little bit more about that in a minute. 
+> 
+> But in addition to that routine processing, we're also asking commercial laboratories to submit influenza A and influenza B positive specimens that have not undergone influenza subtyping, to be sure that we're not missing any novel influenza A infections in those types of samples. So CDC's currently working with commercial laboratories to determine what the appropriate number of samples would be for them to submit those to state public health laboratories,  NIRCs or ISCs for additional characterization, making sure that those samples meet established cutoffs for our testing algorithm and making sure that those are done in a timely manner so that we can get subtyping results on those samples. 
+> 
+> ...
+> 
+> Todd Davis, CDC [00:20:07]
+> 
+> One of the more recent things we have been able to do with FDA is to request and receive enforcement discretion to now allow state public health laboratories to use conjunctival swabs for a diagnostic test using CDC's H5 assay. 
+> 
+> These have to be paired with the nasopharyngeal swab, per the criteria of the enforcement discretion. And there also has to be in-house verification performance studies, per CMS guidelines, at the state public health laboratories that are performing this testing. 
+> 
+> But that's given us a number of additional samples, and a sample type, that previously was not permitted for testing using CDC's H5 assay. 
+> 
+> ...
+> 
+> Todd Davis, CDC [00:22:46]
+> 
+> We've had some requests from quite a few public health departments to provide recommendations and specific protocols on actually collecting conjunctival samples from individuals. And so working on some graphics and a specific SOP that we hope to be able to distribute very soon. 
+> 
+> And last but not least, also working with FDA to consider adding universal transport media as a sample collection matrix, as opposed to only virus transport media in order to use a broader subset of media for use use in CDCs H5 assay. 
+> 
+> So something that's in the works. And hope to be able to provide some more details on that soon.
+> 
+> ...
+> 
+> Question [00:23:52]
+> 
+> You spoke about it earlier with the 2022 outbreak, and you mentioned monitoring cases out to 10 days. What's-- how long do you monitor for this outbreak? How long are the cases being monitored for this outbreak?
+> 
+> Todd Davis, CDC [00:24:07]
+> 
+> Yeah, we follow the same monitoring strategy for 10 days. I think, keep in mind, in the case of poultry outbreaks, poultry flocks are culled, after they are detected. And so we have really a day one for those individuals that have been exposed to those flocks, after the culling has taken place.
+> 
+> It's a different scenario with the infected dairy cattle, where they're allowed to recover. And so it's a little bit harder to gauge exactly when that monitoring period begins.
+
 # June 14, 2024
 
 ## FDA spokesperson on NIH study of H5N1 in pasteurized milk
