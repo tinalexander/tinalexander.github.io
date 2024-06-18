@@ -11,6 +11,18 @@ permalink: /notes/2024/06
 
 # June 18, 2024
 
+## ASPR official at HHS advisory meeting on vaccines
+
+- **Source:** livestream
+- **Attribution:** National Vaccines Advisory Committee meeting
+- **Date:** broadcasted June 14, 2024
+
+> Kimberly Armstrong, ASPR [00:23:20]
+> 
+> On the smallpox vaccine front, the vaccine continues to be made available to jurisdictions for the ongoing mpox response. And this is expected to continue through August 2024.
+> 
+> And Bavarian Nordic is now making the vaccine available commercially. The SNS or the Strategic National Stockpile will continue to make the Jynneos vaccine available for uninsured and underinsured individuals in the United States.
+
 ## HHS secretary on EMTALA at press conference
 
 - **Source:** [press conference](https://www.youtube.com/watch?v=qXkZmzrFx78)
