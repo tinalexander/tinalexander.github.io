@@ -11,7 +11,71 @@ permalink: /notes/2024/06
 
 # June 18, 2024
 
-## CDC official at webinar on H5N1 
+## CDC official at webinar on H5N1 with RHIhub
+
+- **Source:** webinar
+- **Attribution:** hosted by the Rural Health Information Hub
+- **Date:** broadcasted June 18, 2024
+
+> Tim Uyeki, CDC [00:12:37]
+> 
+> Now, the virus infects the respiratory tract of cows, but is very much concentrated in the mammary, in raw cow milk, it infects the mammary tissues. 
+> 
+> So if one were to get exposed to respiratory secretions being up very, very close, for example, giving oral gastric tube fluid resuscitation to a cow, you're right in the cow's face close with nasal secretions, or if you were to get splashed by raw cow milk, or to get cow milk contaminated on your hands and then touch your mucus membranes, that could lead to infection. 
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:19:42]
+> 
+> So in the U.S., as I mentioned, we've had three human cases associated with dairy cow exposures this year, one in Texas, that person, you saw the figure on the other slide. It was bilateral conjunctivitis only. We had a case in Michigan only had unilateral conjunctivitis.
+> 
+> And then the most recent case in Michigan had upper respiratory tract symptoms without fever. Did report, about 10 days into the illness, some watery eyes for a couple of days. I think that was actually due to allergies. And the household contact also had seasonal allergies. 
+> 
+> So none of these individuals were hospitalized. They were all recommended for home isolation to be away from their household. 
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:24:47]
+> 
+> So influenza tests that are available in clinical settings cannot specifically identify H5N1 virus. There are many, many different kinds of influenza tests available in the outpatient setting, in emergency departments and also, for hospitalized patients, but they they're either detect influenza A or influenza B. And they can't tell you that a positive result for influenza A is H5N1 virus. 
+> 
+> So if you get a positive result for influenza A, it could be seasonal influenza A virus infection, right? 
+> 
+> So right now seasonal influenza A and B virus activity in the U.S. is low, but it's not zero. And we do have cases of seasonal influenza during the summer months. And occasionally there are people who are hospitalized with pneumonia due to seasonal influenza. 
+> 
+> ...
+> 
+> Tim Uyeki, CDC [00:50:50]
+> 
+> In terms of respiratory protection, the recommendation is an N95 respirator, not a surgical face mask. Definitely the recommendation is for eye protection. And, as I mentioned, we've had two cases of workers with conjunctivitis and so goggles or a face shield.
+> 
+> But as Dr Maderas recommended, this may not necessarily be practical given the environmental conditions. So throughout the U.S., every day, it's only getting warmer and more humid. And Dr Maderas mentioned even for healthcare personnel, the challenges of wearing goggles or face shield and fogging up and so forth. 
+> 
+> So, what we can say is what the recommendations are. We can post all of the PPE that are recommended. We can post the guidance from CDC and NIOSH in there.
+> 
+> But we also realize the reality is that workers may not comply. And so I think that we all have to work closely together, including with farm workers and farm owners and the dairy industry to see what might actually be possible, and who are those at most highest risk of exposure to this virus and infection. 
+> 
+> And it may be that it's people who are definitely working with cows that are symptomatic, that are sick, and that those who are working with-- who are doing milking in the milking parlor. And the reason is, again, we've had two cases of conjunctivitis. One of those cases was splashed in the eye with raw cow milk. And that resulted in conjunctivitis. We believe that was sort of the-- how transmission occurred. 
+> 
+> And so, I think we can make these recommendations, but I think all of us realize that this may be a bit challenging for workers to comply with that.
+> 
+> ...
+> 
+> Tim Uyeki, CDC [01:01:39]
+> 
+> I think that that's getting at the practical issues. Now, ideally for healthcare personnel, the recommendation is you want to be fit tested, and actually it's annual fit testing, right, for N95 because there are many, many different models of N95 respirators, there are many different sizes, and one model and one size does not fit all. 
+> 
+> However, the reality is that we've never made this recommendation for workers at dairy farms before. And my understanding is that typically on these dairy farms, nobody wears any kind of personal protective equipment, at least that's recommended until very recently. 
+> 
+> So when you implement that, that raises a good question. Now I think most people in the U.S. are pretty familiar with the last four years of the COVID 19 pandemic and many of  could purchase or actually could receive these KN95 respirators, right? So it's not formal fit testing, but you mold it to your face and you get a proper fit. And so that is much better.
+> 
+>  You get a proper fit, some kind of fit. Maybe it's not formal fit testing, compared to using no mask or using a surgical mask that maybe is not so well fitting. It's a very good question because formal fit testing is not done in the farm setting. It's not done with a portable fit testing equipment. 
+> 
+> So I don't have the answer. And, that's another thing where NIOSH can make these recommendations, but the practical implications of the reality at the farm setting level may not be actually be conducive to doing the formal fit testing. 
+> 
+> And so some kind of good approximate seal I think is going to be better than none.
+
+## CDC official at webinar on H5N1 with NFID
 
 - **Source:** webinar
 - **Attribution:** hosted by the National Foundation for Infectious Diseases
