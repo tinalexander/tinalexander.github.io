@@ -9,6 +9,16 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 18, 2024
+
+## Dollar Tree spokesperson on FDA's warning letter
+
+- **Source:** emailed statement
+- **Attribution:** Dollar Tree spokesperson
+- **Date**: received June 18, 2024
+
+> Dollar Tree is committed to selling quality food and products, maintaining a safe environment for associates and customers, and complying with all laws and regulations. Under our new management team, we are on a journey to transform our business and continue to take steps to significantly enhance and strengthen our compliance and safety programs and capabilities, including our process for quickly and effectively executing product recalls. We are building and enhancing our efforts to prevent and detect violations, and when a compliance issue does occur, we work to remediate it promptly and fully. As previously disclosed, in October 2023 Dollar Tree took immediate action and began executing a recall of WanaBana’s Apple Cinnamon Fruit Puree Pouch upon being notified of the issue with the product. We continue to cooperate with FDA on this matter.
+
 # June 14, 2024
 
 ## FDA spokesperson on NIH study of H5N1 in pasteurized milk
