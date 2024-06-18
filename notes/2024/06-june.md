@@ -11,6 +11,49 @@ permalink: /notes/2024/06
 
 # June 18, 2024
 
+## CDC official at webinar on H5N1 
+
+- **Source:** webinar
+- **Attribution:** hosted by the National Foundation for Infectious Diseases
+- **Date:** broadcasted June 18, 2024
+
+> Sonja Olsen, CDC [00:18:20]
+> 
+> There's the wastewater data. So this we recently started showing on our website. As I said, it is several hundred sites, it depends on who's reporting each week and the quality of the data, but right now we've set up an analytic tool to compare the levels we're currently seeing and those to the flu data that we were seeing during the influenza season in 2023 to 2024. And then we're flagging those that are at the 80th or higher percentile.
+> 
+> Once a state flags or a site, a wastewater site, flags, we do outreach to state and local partners in these high areas. And we also notify others in the interagency space, including USDA and FDA. 
+> 
+> So current wastewater methods in this system detect influenza A viruses, but don't distinguish the subtype or source of the influenza A. So it could be seasonal flu circulation in humans, or it could also reflect H5N1 in animals. 
+> 
+> We know that many different sources of waste often feed into these systems and we're learning more and more, as we work with states to understand some of the results. There are also groups that are currently testing directly for H5 in wastewater that you may have heard about, including one that I think now has a public dashboard.
+> 
+> And I'll just mention that CDC is in the process to begin to validate an H5 assay that could be used more broadly as part of wastewater surveillance throughout the United States. 
+> 
+> ...
+> 
+> Sonja Olsen, CDC [00:21:13]
+> 
+> So in addition to all those surveillance activities, we're also working with health and agricultural partners at the local, state and federal level, as well as the affected farms to conduct some epidemiologic studies. And why do we want to do this?
+> 
+> Well there's still a lot of important public health questions we want to answer. And those include, is there evidence of infection with these viruses in the exposed populations more broadly? If we find infections what's the spectrum of illness or the rate of asymptomatic infections? What are the types of exposure specific exposures on these farms that could help us more better tailor our guidance to workers? And specifically, are there behaviors associated with these infections, or protection from the virus, that we can learn. 
+> 
+> So to do this, we do an assess-- we're going to do an assessment for risk for both symptomatic and asymptomatic. And this is going to be done through collecting specimens, including serum, from populations of farm workers who have been exposed to infected cattle, and do that in conjunction with a survey to assess what are the specific exposures. 
+> 
+> So these will take a while to do, but I think will be very helpful for us to learn more about how best to really protect workers and what is the extent of the infection, if any.
+> 
+> ...
+> 
+> Sonja Olsen, CDC [00:51:28] 
+> 
+> I think that this is still an avian virus and so it's not well adapted to the receptors that we have in our respiratory tract. And, so that's a good thing. And I think the one or so adaptations we're seeing probably are more likely to do with the clinical course than the transmission. 
+> 
+> I think if we started to see mutations in the virus that were more associated with receptor binding, and ability to transmit, that would be concerning. 
+> 
+> But I think, it goes without saying, that any novel flu virus is a concern and we treat it as if it might be the next pandemic, which is why we take it seriously and sort of ramp up a response. 
+> 
+> I mean, this is still largely a disease in cattle. It's an animal problem. And, but we can't -- we don't have the luxury of letting our guard down. So I think that's why we're doing everything we're doing.
+
+
 ## ASPR official at HHS advisory meeting on vaccines
 
 - **Source:** livestream
