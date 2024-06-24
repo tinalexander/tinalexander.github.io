@@ -11,6 +11,20 @@ permalink: /notes/2024/06
 
 # June 24, 2024
 
+## CDC spokesperson on LB.1 variant 
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received June 24, 2024
+
+> **Has CDC identified any differences in severity from KP.3 or LB.1 infections?**
+> 
+> There is currently no evidence that KP.3 or LB.1 cause more severe disease. CDC will continue to track SARS-CoV-2 variants and is working to better understand the potential impact on public health. 
+>  
+> **Is it accurate to describe KP.3 and LB.1 as closely related?**
+> 
+> KP.3 and LB.1 variants can be described as closely related as they both are sublineages of JN.1
+
 ## FDA commissioner at American Diabetes Association keynote
 
 - **Source:** Scientific Sessions livestream
