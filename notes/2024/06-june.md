@@ -17,17 +17,74 @@ permalink: /notes/2024/06
 - **Attribution:** hosted by the American Diabetes Association
 - **Date:** occurred on June 21, 2024
 
-Robert Califf, FDA [00:09:00] 
-
-It's a great time to be FDA commissioner, because everywhere in the world I go, people say the U.S. is leading the world in technology, development, innovation, new gadgets of all types, new drugs, you name it, yet these advantages unfortunately are not resulting in superior health and outcomes for the U.S. population or for most individuals in the U.S. In fact, U.S. health outcomes are currently deteriorating. 
-
-The intersection of biomedical science, technology, and communication have handled with a different strategy, with good policies, investment, and collaboration and communication could usher in a new era. 
-
-There's an exception for type one diabetes, which I believe is on the verge of a major breakthrough in terms of the biology and biological therapies that could make an enormous difference for this special population of people with diabetes. 
-
-But on the other hand for the larger epidemic of type two diabetes, we're failing right now. And I don't say that lightly. I'll show you data, which I think supports that view and we need to change our strategy to do better.
-
-
+> Robert Califf, FDA [00:09:00] 
+> 
+> It's a great time to be FDA commissioner, because everywhere in the world I go, people say the U.S. is leading the world in technology, development, innovation, new gadgets of all types, new drugs, you name it, yet these advantages unfortunately are not resulting in superior health and outcomes for the U.S. population or for most individuals in the U.S. In fact, U.S. health outcomes are currently deteriorating. 
+> 
+> The intersection of biomedical science, technology, and communication have handled with a different strategy, with good policies, investment, and collaboration and communication could usher in a new era. 
+> 
+> There's an exception for type one diabetes, which I believe is on the verge of a major breakthrough in terms of the biology and biological therapies that could make an enormous difference for this special population of people with diabetes. 
+> 
+> But on the other hand for the larger epidemic of type two diabetes, we're failing right now. And I don't say that lightly. I'll show you data, which I think supports that view and we need to change our strategy to do better.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:29:15]
+> 
+> I think still underused in clinical care for the most part, with some add-on benefits shown at the bottom, but of course, the big new thing would be the GLP-1 receptor agonist and similar drugs, which are now approved for type two diabetes, weight management and cardiovascular risk reduction. And again, I think vastly underused.
+> 
+> But the amazing thing is the additional indications for which there's preliminary data. And we do have a saying at the FDA, in God we trust, all others must bring high quality evidence. 
+> 
+> So for these other indications, like alcohol, smoking, gambling, Parkinson's, Nash, and Alzheimer's get those trials done as quickly as you can. We need to know for which indications these drugs are beneficial and which are just a hope, which is not going to turn out to be true, once we have the data. 
+> 
+> And it's amazing. Once there's a hit in an area like this, the pipeline is enormous, with many variations on the theme. As I've said, it's not the FDA's job to figure out which one of these is best. That's something we really need you all to focus on and help figure out for your patients. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:30:33]
+> 
+> Now a slight diversion to type one diabetes. And mostly all I want to say here is to express the enthusiasm that we have about type one diabetes and the verge of success that we hope we're on, in terms of the advent of highly effective cell and tissue therapies and other approaches to type one diabetes. 
+> 
+> It is so a very complicated field with a lot of opportunity for people who think their treatments are effective to make mistakes. And so this balance of promoting innovation and protecting the safety is something that we're going to have to work on together. 
+> 
+> And I'd also point out that the short-term outcomes are crucial and very important, and we have to make a lot of our decisions based on short-term outcomes, but we're going to need systems driven by the clinical community of long term follow up of people. 
+> 
+> If we have a highly effective treatment, doesn't necessarily mean we know what's going to happen 10 to 20 years from now in this particular area. 
+> 
+> So we're back to in God we trust, all others bring high quality evidence. 
+> 
+> This is just some examples of what we're seeing now at the FDA. These are just examples, not meant to signal out any as being particularly effective at this point, but very much worth keeping an eye on. 
+> 
+> Then we get to type two diabetes and, I'm also enthusiastic, but it's a whole different game in my view of figuring out how we get technology to the right people and solutions to the right people at the right time.
+> 
+> ...
+> 
+> Question [00:45:05]
+> 
+> You shared with me, you have this little bit of a nightmare, that I think involved like your grandchildren coming to you and asking you about something--
+> Robert Califf, FDA
+> 
+> Robert Califf, FDA [00:45:15]
+> 
+> Oh yeah, well, yeah. It's-- it goes something like this. 
+> 
+> My great grandchildren are reading a history book and they read about this country called the United States that had a commissioner that was in charge of food and drugs called Dr. Califf. 
+> 
+> And he allowed the country to eat so much that they gained a pound per year on average as a country, and then encouraged people to develop a drug that costs $20,000 a year to reverse it. And the great grandchildren are saying what kind of idiot would do that?
+> 
+> So I hope we can deal with this proximal end. I'm all-- I love the GLP-1. You mentioned, the saliva story, and I was very involved in one of the first outcome trials in GLP-1s as an academic. I love it.
+> 
+> But we got to do something about what's happening to our children and teenagers. 
+> 
+> ...
+> 
+> Robert Califf, FDA [01:08:47]
+> 
+> Obviously this is a critical area. Our levers are actually limited. I introduced a couple of these things, which I think are sort of like the baseline state, like putting the label on the front of the pack. How can we not do that? But, there are a lot of people opposed to it. I got to tell you.
+> 
+> Giving people, like if it says healthy on the package and it actually means a constituent food groups that are actually healthy, if you eat them in combination, simple things that people can do.
+> 
+> But we got to really depend on the professional community because we sort of stop at the point at which there's a consensus in the professional community of things that Congress has given us authority to do. And beyond that, it's a matter of how you integrate all this.
 
 # June 18, 2024
 
