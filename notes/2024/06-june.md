@@ -28,6 +28,22 @@ permalink: /notes/2024/06
 > But on the other hand for the larger epidemic of type two diabetes, we're failing right now. And I don't say that lightly. I'll show you data, which I think supports that view and we need to change our strategy to do better.
 > 
 > ...
+>
+> Robert Califf, FDA [00:12:20]
+> 
+> I don't need to tell you this. And Dr. Bob told me not to bother with these slides, but I sort of have to show them to build a case I want to make, we got a lot of people with with both diagnosed and undiagnosed diabetes in the United States. 
+> 
+> The maps that you are all used to looking at are striking and continue to get darker and darker as more and more states develop very high rates of obesity and diabetes over time. 
+> 
+> You have now, at least according to some sources, surpassed cancer as the leading economic cost of healthcare in the United States. This is an honor I'm not sure I would want to have, but it does give you a lot of power to do things to make this better. 
+> 
+> And of course you're dealing with a chronic disease, which has all the same issues related to different outcomes in this country related to a number of factors, including race being an important factor, urban-rural status is one that's particularly advancing right now where people that live in rural areas are doing worse and worse relative to urban counterparts for a whole variety of reasons. And it's very much reflected in the data about diabetes.
+> 
+> And income does turn out to be an important factor. It's said that money can't make you happy, but not having enough money to subsist and to pay for your medicines definitely is a factor in the outcomes of chronic disease and in the incidence of diabetes in particular. 
+> 
+> And of course, this is not just a problem of people my age. It's a problem that's brewing around our society.   
+>
+> ...
 > 
 > Robert Califf, FDA [00:29:15]
 > 
