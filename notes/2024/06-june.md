@@ -56,6 +56,12 @@ permalink: /notes/2024/06
 > This is just some examples of what we're seeing now at the FDA. These are just examples, not meant to signal out any as being particularly effective at this point, but very much worth keeping an eye on. 
 > 
 > Then we get to type two diabetes and, I'm also enthusiastic, but it's a whole different game in my view of figuring out how we get technology to the right people and solutions to the right people at the right time.
+>
+> One of my favorite sayings was from Ed Yong in The Atlantic. It was about the pandemic, but he pointed out that technological solutions tend to rise in the society's penthouses and epidemics seep into its cracks.
+>
+> And the point here is that if you look at all the technology being developed in diabetes, and I saw this very much when I was working at Google or Alphabet, despite all the efforts, there was a great tendency for the best things to be taken up by people with PhDs and living in urban areas. Most of our people were left out and haven't caught on as much.
+>
+> So this is a thing that we really need to work on, uh, and figure out how to get effective technologies and interventions to people in rural areas and the underserved. And it's not going to be easy.
 > 
 > ...
 > 
