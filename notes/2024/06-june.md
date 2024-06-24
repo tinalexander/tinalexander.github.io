@@ -9,6 +9,26 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 24, 2024
+
+## FDA commissioner at American Diabetes Association keynote
+
+- **Source:** Scientific Sessions livestream
+- **Attribution:** hosted by the American Diabetes Association
+- **Date:** occurred on June 21, 2024
+
+Robert Califf, FDA [00:09:00] 
+
+It's a great time to be FDA commissioner, because everywhere in the world I go, people say the U.S. is leading the world in technology, development, innovation, new gadgets of all types, new drugs, you name it, yet these advantages unfortunately are not resulting in superior health and outcomes for the U.S. population or for most individuals in the U.S. In fact, U.S. health outcomes are currently deteriorating. 
+
+The intersection of biomedical science, technology, and communication have handled with a different strategy, with good policies, investment, and collaboration and communication could usher in a new era. 
+
+There's an exception for type one diabetes, which I believe is on the verge of a major breakthrough in terms of the biology and biological therapies that could make an enormous difference for this special population of people with diabetes. 
+
+But on the other hand for the larger epidemic of type two diabetes, we're failing right now. And I don't say that lightly. I'll show you data, which I think supports that view and we need to change our strategy to do better.
+
+
+
 # June 18, 2024
 
 ## CDC official at webinar on H5N1 with RHIhub
