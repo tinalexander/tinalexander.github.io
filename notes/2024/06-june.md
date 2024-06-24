@@ -98,7 +98,6 @@ permalink: /notes/2024/06
 > Question [00:45:05]
 > 
 > You shared with me, you have this little bit of a nightmare, that I think involved like your grandchildren coming to you and asking you about something--
-> Robert Califf, FDA
 > 
 > Robert Califf, FDA [00:45:15]
 > 
