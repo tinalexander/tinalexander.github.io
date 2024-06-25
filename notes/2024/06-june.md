@@ -137,7 +137,7 @@ permalink: /notes/2024/06
 > 
 > USDA issued two RFIs, one for feasibility and one for interest, to gauge sort of the technical capacity of the vaccine development community. 
 > 
-> We got very robustparticipation there. And we know that a number of folks are speaking directly with the research scientists at USDA as they continue to consider the development of this.
+> We got very robust participation there. And we know that a number of folks are speaking directly with the research scientists at USDA as they continue to consider the development of this.
 > 
 > This is going to take some time. I think I may have mentioned that there is a challenge study underway, and hopefully will be sharing out results with that, as soon as that study is completed.
 > 
