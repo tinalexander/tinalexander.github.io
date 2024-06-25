@@ -21,9 +21,7 @@ permalink: /notes/2024/06
 > 
 > We're pleased to announce the first four states that will be participating in the pilot program, and they are Texas, New Mexico, Nebraska, and Kansas.
 > 
-> The participation of the states in the pilot is an important step forward in USDA's efforts to further reduce H5N1 virus dissemination, provide further opportunities for farmers to test their herds that are known to be affected with H5N1,
-> 
-> improve surveillance and expand our knowledge of the disease, and support an overall national program to reduce the risk of H5N1 in dairy herds.
+> The participation of the states in the pilot is an important step forward in USDA's efforts to further reduce H5N1 virus dissemination, provide further opportunities for farmers to test their herds that are known to be affected with H5N1, improve surveillance and expand our knowledge of the disease, and support an overall national program to reduce the risk of H5N1 in dairy herds.
 > 
 > ...
 > 
