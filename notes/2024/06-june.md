@@ -43,7 +43,15 @@ The point of the study is to determine if there is asymptomatic infection with H
 
 ...
 
+Don Prater, FDA [00:22:55]
 
+Last week, the agency began a second sampling survey of dairy products available at retail locations nationwide to expand our knowledge of HPAI H5N1. 
+
+This retail sampling effort is intended to address remaining geographic and product gaps from the initial sampling of the commercial milk supply that FDA conducted between April and May of this year. 
+
+The FDA's second sampling survey is testing an expanded list of dairy products for H5N1 including products such as aged raw milk cheese, cream cheese, butter, and ice cream. 
+
+Importantly, additional samples are being taken from areas included in our previous survey to help provide a more representative picture based on the level of dairy products production that occurs in certain regions. 
 
 # June 24, 2024
 
