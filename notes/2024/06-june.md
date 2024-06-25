@@ -17,41 +17,159 @@ permalink: /notes/2024/06
 - **Attribution:** hosted by the Department of Health and Human Services and U.S. Department of Agriculture
 - **Date:** occurred June 25, 2024
 
-Eric Deeble, USDA [00:12:37]
-
-We're pleased to announce the first four states that will be participating in the pilot program, and they are Texas, New Mexico, Nebraska, and Kansas.
-
-The participation of the states in the pilot is an important step forward in USDA's efforts to further reduce H5N1 virus dissemination, provide further opportunities for farmers to test their herds that are known to be affected with H5N1,
-
-improve surveillance and expand our knowledge of the disease, and support an overall national program to reduce the risk of H5N1 in dairy herds.
-
-...
-
-Eric Deeble, USDA [00:13:41]
-
-This list of participating states is just the beginning.
-
-And we are in close conversation with about a dozen other states who are very interested in participating as well, but it was important for us to get these four states going so that other states could watch how the program works and gain additional confidence.
-
-...
-
-Demetre Daskalakis [00:17:09] 
-
-I'm also pleased to announce that CDC is providing technical assistance to the Michigan Department of Health and Human Services, which has launched an H5N1 seroprevalence study of people who are exposed to sick cows. So that means a study that couples surveys along with blood tests to look for exposure to H5N1.
-
-The point of the study is to determine if there is asymptomatic infection with H5N1 among people who have worked with cows who had HPAI or H5N1 infection.
-
-...
-
-Don Prater, FDA [00:22:55]
-
-Last week, the agency began a second sampling survey of dairy products available at retail locations nationwide to expand our knowledge of HPAI H5N1. 
-
-This retail sampling effort is intended to address remaining geographic and product gaps from the initial sampling of the commercial milk supply that FDA conducted between April and May of this year. 
-
-The FDA's second sampling survey is testing an expanded list of dairy products for H5N1 including products such as aged raw milk cheese, cream cheese, butter, and ice cream. 
-
-Importantly, additional samples are being taken from areas included in our previous survey to help provide a more representative picture based on the level of dairy products production that occurs in certain regions. 
+> Eric Deeble, USDA [00:12:37]
+> 
+> We're pleased to announce the first four states that will be participating in the pilot program, and they are Texas, New Mexico, Nebraska, and Kansas.
+> 
+> The participation of the states in the pilot is an important step forward in USDA's efforts to further reduce H5N1 virus dissemination, provide further opportunities for farmers to test their herds that are known to be affected with H5N1,
+> 
+> improve surveillance and expand our knowledge of the disease, and support an overall national program to reduce the risk of H5N1 in dairy herds.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:13:41]
+> 
+> This list of participating states is just the beginning.
+> 
+> And we are in close conversation with about a dozen other states who are very interested in participating as well, but it was important for us to get these four states going so that other states could watch how the program works and gain additional confidence.
+> 
+> ...
+> 
+> Demetre Daskalakis [00:17:09] 
+> 
+> I'm also pleased to announce that CDC is providing technical assistance to the Michigan Department of Health and Human Services, which has launched an H5N1 seroprevalence study of people who are exposed to sick cows. So that means a study that couples surveys along with blood tests to look for exposure to H5N1.
+> 
+> The point of the study is to determine if there is asymptomatic infection with H5N1 among people who have worked with cows who had HPAI or H5N1 infection.
+> 
+> ...
+> 
+> Don Prater, FDA [00:22:55]
+> 
+> Last week, the agency began a second sampling survey of dairy products available at retail locations nationwide to expand our knowledge of HPAI H5N1. 
+> 
+> This retail sampling effort is intended to address remaining geographic and product gaps from the initial sampling of the commercial milk supply that FDA conducted between April and May of this year. 
+> 
+> The FDA's second sampling survey is testing an expanded list of dairy products for H5N1 including products such as aged raw milk cheese, cream cheese, butter, and ice cream. 
+> 
+> Importantly, additional samples are being taken from areas included in our previous survey to help provide a more representative picture based on the level of dairy products production that occurs in certain regions. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:36:57]
+> 
+> USDA's Ag Research Service is conducting a study to investigate the ability to infect dairy cattle with HPAI, clade 2.3.4.4b in that experimental setting, in its labs in in Ames Iowa. 
+> 
+> The goal of the study is to evaluate the ability to mimic clinical signs observed in naturally infected animals in a laboratory setting so that we can conduct further epidemiological study of the virus. 
+> 
+> This initial study evaluated two routes of infection. One was an aerosol route, with yearling Holstein, and intramammary route with lactating Holstein cows.
+> 
+> Preliminary data shows that clinical signs observed in the field can be replicated in lactating Holsteins, utilizing an intrammammary route. 
+> 
+> The ARS scientists are conducting the study are going to publish the findings, when the studies are completed. And I think that we may have some additional data coming out in the not distant future. 
+> 
+> ...
+> 
+> Don Prater, FDA [00:39:03]
+> 
+> FDA included in our next round of retail sampling, we are including aged raw milk cheese, because that is a product that's in interstate commerce. So that's the one that we're focused on in that particular survey.
+> 
+> ...
+> 
+> Robert Johnson, ASPR [00:42:31]
+> 
+> So the first question, was around kind of really a policy decision at-- you know, at this point, from the ASPR perspective, we're in agreement with the CDC's assessment that H5N1 is currently a low public health risk. So any decision to change that would be, at a policy level, jointly across HHS and most likely with others. 
+> 
+> And also, I will just note, that would also be a regulatory decision of course, because we wouldn't be able to distribute product without the regulatory approval to do so.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:45:16]
+> 
+> USDA considers a single infection of a cow in a herd to be an infection for the entirety of the herd. 
+> 
+> The testing that we have been doing has been geared towards identifying those herds that have active H5N1 infections.
+> 
+> The way in which we do testing, which often involves pooled samples, can make it challenging to know the number of individual animals within a herd that is infected. 
+> 
+> However, we do know from the epidemiological work that we have accomplished that it seems that about 10% of the animals in any particular herd that is encountering this disease become infected. 
+> 
+> And of course, as we all know, go on to recover and generally reenter lactation after a few weeks of transient illness.
+> 
+> ...
+> 
+> Rosemary Sifford, USDA [00:46:41]
+> 
+> We have been working with some collaborators to look at serology in some of those herds, but we do not have final data from that work at this time. 
+> 
+> We are expecting that in the near future, and we'll be sure to share information from that work is available.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:47:55]
+> 
+> I think that we are definitely exploring all possibilities, like many options, in terms of testing from the perspective of H5N1. 
+> 
+> I think, the main focus of attention currently is really working toward identifying commercial routes where we can make testing more available, especially as we approach the traditional flu season.
+> 
+> In terms of rapid tests, again, all on the table. But, the main focus right now is really on lab-based testing, specifically to increase access beyond public health labs as we approach the regular flu season.
+> 
+> ...
+> 
+> Don Prater, FDA [00:50:01]
+> 
+> I'm not aware of any herds that have reported that, but they would probably-- I'll defer to USDA on that.
+> 
+> Eric Deeble, USDA [00:50:13]
+> 
+> We don't have any herds that are known to be infected that are contributing to raw milk supply off farm.
+> 
+> ...
+> 
+> Robert Johnson, ASPR [00:50:32]
+> 
+> In regards to the regulatory, I really have to defer to the FDA on that.
+> 
+> In general, they do the risk benefit analysis. And so it's a standard regulatory proces.
+> 
+> From an ASPR perspective, we don't influence that decision in any way. We just support the developers in terms of generating the data. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:51:11]
+> 
+> USDA issued two RFIs, one for feasibility and one for interest, to gauge sort of the technical capacity of the vaccine development community. 
+> 
+> We got very robustparticipation there. And we know that a number of folks are speaking directly with the research scientists at USDA as they continue to consider the development of this.
+> 
+> This is going to take some time. I think I may have mentioned that there is a challenge study underway, and hopefully will be sharing out results with that, as soon as that study is completed.
+> 
+> And the development of a vaccine, particularly one that we know well, but find in a new species, is challenging. And so we're working on the fundamental science and we believe that this will be an important tool for producers when it is available. 
+> 
+> We hope that through enhanced biosecurity and additional testing that will be undertaken as you know, subsequent to the implementation of the herd status verification program, as well as ELAP, that we will be able to eliminate this disease from the dairy herd in the absence of a vaccine, although that we believe that they may be helpful down the line.
+> 
+> ...
+> 
+> Don Prater, FDA [00:56:58]
+> 
+> We do plan to sample approximately 155 dairy products as part of this next round of sampling. 
+> 
+> I don't have the specific number of states, but these samples will include some different products than what we had sampled previously and also some different geographic regions. 
+> 
+> So hope that's helpful.
+> 
+> Question [00:57:20]
+> 
+> And how-- and the timeline for the results?
+> 
+> Don Prater, FDA [00:57:24]
+> 
+> I think it's probably still gonna be several weeks away for the results to be published. I don't have a precise time.
+> 
+> ...
+> 
+> Eric Deeble, USDA [01:02:49]
+> 
+> While it is H5N1 does appear to operate very differently in dairy cattle than it does in poultry. We have no evidence of respiratory transmission in any case involving dairy cattle.
 
 # June 24, 2024
 
