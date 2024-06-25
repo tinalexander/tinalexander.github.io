@@ -9,6 +9,16 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 26, 2024
+
+## HHS and USDA press briefing on H5N1 outbreak in dairy 
+
+- **Source:** press briefing
+- **Attribution:** hosted by the Department of Health and Human Services and U.S. Department of Agriculture
+- **Date:** occurred June 25, 2024
+
+
+
 # June 24, 2024
 
 ## CDC spokesperson on LB.1 variant 
