@@ -17,6 +17,32 @@ permalink: /notes/2024/06
 - **Attribution:** hosted by the Department of Health and Human Services and U.S. Department of Agriculture
 - **Date:** occurred June 25, 2024
 
+Eric Deeble, USDA [00:12:37]
+
+We're pleased to announce the first four states that will be participating in the pilot program, and they are Texas, New Mexico, Nebraska, and Kansas.
+
+The participation of the states in the pilot is an important step forward in USDA's efforts to further reduce H5N1 virus dissemination, provide further opportunities for farmers to test their herds that are known to be affected with H5N1,
+
+improve surveillance and expand our knowledge of the disease, and support an overall national program to reduce the risk of H5N1 in dairy herds.
+
+...
+
+Eric Deeble, USDA [00:13:41]
+
+This list of participating states is just the beginning.
+
+And we are in close conversation with about a dozen other states who are very interested in participating as well, but it was important for us to get these four states going so that other states could watch how the program works and gain additional confidence.
+
+...
+
+Demetre Daskalakis [00:17:09] 
+
+I'm also pleased to announce that CDC is providing technical assistance to the Michigan Department of Health and Human Services, which has launched an H5N1 seroprevalence study of people who are exposed to sick cows. So that means a study that couples surveys along with blood tests to look for exposure to H5N1.
+
+The point of the study is to determine if there is asymptomatic infection with H5N1 among people who have worked with cows who had HPAI or H5N1 infection.
+
+...
+
 
 
 # June 24, 2024
