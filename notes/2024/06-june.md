@@ -11,85 +11,141 @@ permalink: /notes/2024/06
 
 # June 26, 2024
 
+## Quotes from vaccines meeting about mpox 
+
+- **Source** recording
+- **Attribution:** meeting of the National Vaccines Advisory Committee
+- **Date:** published June 24, 2024
+
+> Jennifer McQuiston, CDC [00:11:53]
+> 
+> Clade II mpox is not over, it continues to circulate among cisgender men, especially those identifying as gay or bisexual. 
+> 
+> Most cases continue to be in people who are unvaccinated, meaning they've never presented for a vaccine, or maybe people who got one dose of vaccine and haven't achieved maximum levels of immune protection and could really benefit from getting that second dose, no matter how much time has passed since their first dose. 
+> 
+> We know that people with severe immunocompromise continue to have a much higher risk for severe and fatal outcomes. We continue to have deaths due to mpox in people who were infected months ago, but, because of their immune systems being so compromised, they've not been able to mount an immune response. And some of them do succumb to those infections, which is always tragic. 
+> 
+> There's a lot of local and regional spread that's happening. Most of our cases are not reporting international travel. So that suggests that these are homegrown, in the United States. 
+> 
+> And we have an emerging trend of some TPOXX resistant cases. We've had over 50 that have been detected, including 18 new cases in at least five states in the last couple months. So, monitoring this because TPOXX has been one of our primary investigational drugs that we've used to treat severe infections, and we don't want to really see resistant strains circulating in the United States. So monitoring that.
+> 
+> ...
+> 
+> Jennifer McQuiston, CDC [00:13:16] 
+> 
+> We continue to really recommend two doses of Jynneos, no matter how long it's been since the first dose. The new commercial availability of Geno, set's been since April 1st adds some complexity to this.
+> 
+> The supplies that are being sent out through the Strategic National Stockpile are available right now, but projected to be phased out by August, in which case accessibility shifts to commercially available resources. And there is some concern that this could increase access issues, equitability. And so some conversations around that I think are important to have. 
+> 
+> ...
+> 
+> Jennifer McQuiston, CDC [00:13:52] 
+> 
+> And then we get this question a lot. No booster is recommended at this time. We don't see epidemiologic signals of waning immunity, but we're continuing to monitor this and assess it. 
+> 
+> ...
+> 
+> Agam Rao, CDC [01:04:25]
+> 
+> In these cases, we've already had 58 deaths in the United States, the most deaths of any other country in the world. 
+> 
+> And these are almost all, I would say all, severely, severely immunocompromised patients, typically with advanced HIV, CD4 counts often in the single digits who are not connected to medical care, did not know they had HIV, did not get vaccinated. Almost all of them have not been vaccinated. 
+> 
+> So it is a really important thing that we have to work on because these consultations are just devastating. We get reconsulted and reconsulted. The patients were in the hospital for six months at a time or even longer.
+> 
+> They have very, very severe disease, nothing like-- I mean, the typical patient, I understand that they, that there's issues surrounding like having pigmentation and things like that. But, but these patients, my goodness, like it's just heartbreaking to see what they're going through. And so reaching those individuals is really important.
+> 
+> ...
+> 
+> Agam Rao, CDC [01:12:11]
+> 
+> It's on the routine immunization schedule now. So that is a pathway for reimbursement from insurance. 
+> 
+> And I also know that Bavarian Nordic has been working really closely with various pharmacy chains like CVS and Walgreens, and in states where pharmacists can give vaccines, it's already available in CVS. So pharmacies where, I mean states where pharmacists can get vaccine, like in New York state, for example, they cannot, but in other states they can, and CVS already has it available. You can book it online, and Walgreens will very soon make it available. There's also other, other pharmacies that they've told us about. They seem to think that a lot of pharmacies will have it available. 
+> 
+> I can understand the stigma issue. Our hope is that because it's part of the routine immunization schedule, that's similar to other vaccines that are given in STD clinics and at HIV clinics, but also primary care clinics that it will be given. 
+> 
+> I led the ACIP work group, and that's the Advisory Committee on Immunization Practices. I led that work group that reviewed all of the data on this. And we had on our work group, many STD clinicians and HIV providers as well, who all unanimously really said that when we asked, is it going to be difficult for you to administer vaccines in your clinic, once this is commercialized, they all said, no, we routinely are giving vaccines in clinic, including in STD clinics. We are also routinely giving, you know, therapeutics for STDs in STD clinic and HIV clinic. And so this would just be rolled in. 
+> 
+> They didn't seem to think it would be any different for them. And we're actually looking forward to commercialization. 
+> 
+> Even before commercialization, there had been a-- there was a trend away from health departments and more towards individual clinics providing the vaccine. And, and our hope also is that just now that it's on the routine immunization schedule, it's going to be something that clinicians think of when they have a patient with HIV in their office or a patient who's presenting for STDs. And they will routinely go through all of the other vaccines on the routine immunization schedule and think about whether their patient qualifies. 
+
 ## Quotes from vaccines meeting about H5N1 preparations
 
 - **Source:** [recording](https://youtu.be/DdXQlIr8xlI)
 - **Attribution:** meeting of the National Vaccines Advisory Committee
 - **Date:** published June 24, 2024
 
-Christine Oshansky, ASPR [00:33:52] 
-
-CDC monitors disease outbreaks, looking at surveillance across the surveillance in wild animals. And as well as in humans. Risk assessments are performed.
-
-Now concurrently, the WHO collaborating centers are generating candidate vaccine viruses, to make sure that the manufacturers hav those available if needed. And likewise, the WHO essential regulatory laboratories are making sure that potency reagents are ready to go if needed. 
-
-And then our partnerships with CSL Seqirus, GSK, and Sanofi, we work with them very closely to develop those seed lots, to manufacture bulk antigen, get those into final containers if we need. 
-
-And anything that is manufactured gets placed into stability programs. So they're always monitored at the manufacturing sites, so that they remain within specification.
-
-Clinical trials are sometimes performed. And any data that is generated gets placed into pre-emergency use authorization living documents. So these are living documents they're updated periodically, and they're on file with the FDA so that we can rapidly respond if we need to go. 
-
-And with all of these, all the, all of this data in place, we strive for it to lead to faster to first doses and faster to full immunization, if the need arises.
-
-...
-
-Lorna Meldrum, CSL Seqirus [00:44:39] 
-
-One of the areas that we are really proud of at CSL Seqirus is our partnership with BARDA at Holly Springs. 
-
-This has been a very long term partnership, 17 years, gone through several owners, but we have been responsible for that partnership for the past eight years. 
-
-The partnership began when the U.S. wanted to move away from its dependence on egg technology and was interested in new technology. So the objective for Holly Springs was to provide cell based vaccine and the adjuvant manufacturing capacity to be able to deliver 150 million doses of the vaccine in the event of a pandemic.
-
-And from the factory being built,or the ground broken in 2006, we are really proud that in May 2022, we were declared pandemic ready. 
-
-We had been awarded seven contracts to date by BARDA. 
-
-The first and foremost was the manufacturing infrastructure working together to build the facility at Holly Springs, and then subsequently adding to that the viral pilot plant and the small scale filling facilities. 
-
-Another really important thing was some contract awarded to improve the yield of the vaccine. 
-
-If you think that egg technology has been developed over 70 years, so 70 years of year on year improvements on yield, whereas this is a new technology. 
-
-So we had a process called 3.0 that really drove the yield from the facility when we first took over the facility, the yield for the seasonal vaccine was sitting at about 2 million, and now we can produce 60 to 70 million doses of seasonal vaccine. 
-
-...
-
-Lorna Meldrum, CSL Seqirus [00:47:36]
-
-So we have our cell culture technology at Holly Springs, because we don't use egg, we can show a greater match to the circulating strains, which leads to greater effectiveness. 
-
-It also reduces the dependence on egg-based vaccines, if there's a, a worry about the flock of chickens that are needed to produce vaccine, then we have the MF59 adjuvant, dose sparing to the antigen. Also adding breadth of protection across different strains.
-
-But also because this adjuvant is used in our seasonal vaccine worldwide, we have a very extensive database to date, over 300 million doses have gone into arms. 
-
-And then we look to the future, and this is very much potential, but what we want to show is higher effectiveness, longer durability, which is one of the issues with the current mRNA vaccines, multi pathogen, and of course speed.
-
-...
-
-Question [01:06:51]
-
-Should there need to be a vaccination response to the circulating H5N1 in birds or cattle, should we need to vaccinate humans, what impact would that have on the availability of seasonal influenza vaccine? I guess I'm asking if, if both pandemic vaccine and seasonal vaccine can be made at the same time.
-
-Julian Ritchey, Sanofi [01:07:18]
-
-I'm happy to offer perspective on that. So that's absolutely one of the key decision making factors that we bring forward in the consideration. So many of the points I mentioned in terms of the planning are looking at what impact does this have on manufacture of other products? 
-
-And many of these facilities are built in a manner where we can do this in a complementary fashion, but that's part of the close collaboration we have with our government partners in order to determine the priority and the timing of what's necessary. 
-
-And so fortunately our flu production is very far progressed. So this year, it wouldn't have that kind of impact. But it's also something we have to watch very closely in order to ensure anywhere in the process, from early stage down through fill finish, that that's taken into careful consideration.
-
-Lorna Meldrum, CSL Seqirus [01:08:13]
-
-I would also reiterate what Julian has said. And it's all to do with dialog with BARDA on when we have manufacturing.
-
-At the moment, the manufacturing window to produce more H5N1 or H5N8 is there because our seasonal production has finished.
-
-But if the demand was such that it was during seasonal production, then that decision would be made by BARDA, and probably based on a WHO pandemic call.
-
-...
-
-
+> Christine Oshansky, ASPR [00:33:52] 
+> 
+> CDC monitors disease outbreaks, looking at surveillance across the surveillance in wild animals. And as well as in humans. Risk assessments are performed.
+> 
+> Now concurrently, the WHO collaborating centers are generating candidate vaccine viruses, to make sure that the manufacturers hav those available if needed. And likewise, the WHO essential regulatory laboratories are making sure that potency reagents are ready to go if needed. 
+> 
+> And then our partnerships with CSL Seqirus, GSK, and Sanofi, we work with them very closely to develop those seed lots, to manufacture bulk antigen, get those into final containers if we need. 
+> 
+> And anything that is manufactured gets placed into stability programs. So they're always monitored at the manufacturing sites, so that they remain within specification.
+> 
+> Clinical trials are sometimes performed. And any data that is generated gets placed into pre-emergency use authorization living documents. So these are living documents they're updated periodically, and they're on file with the FDA so that we can rapidly respond if we need to go. 
+> 
+> And with all of these, all the, all of this data in place, we strive for it to lead to faster to first doses and faster to full immunization, if the need arises.
+> 
+> ...
+> 
+> Lorna Meldrum, CSL Seqirus [00:44:39] 
+> 
+> One of the areas that we are really proud of at CSL Seqirus is our partnership with BARDA at Holly Springs. 
+> 
+> This has been a very long term partnership, 17 years, gone through several owners, but we have been responsible for that partnership for the past eight years. 
+> 
+> The partnership began when the U.S. wanted to move away from its dependence on egg technology and was interested in new technology. So the objective for Holly Springs was to provide cell based vaccine and the adjuvant manufacturing capacity to be able to deliver 150 million doses of the vaccine in the event of a pandemic.
+> 
+> And from the factory being built,or the ground broken in 2006, we are really proud that in May 2022, we were declared pandemic ready. 
+> 
+> We had been awarded seven contracts to date by BARDA. 
+> 
+> The first and foremost was the manufacturing infrastructure working together to build the facility at Holly Springs, and then subsequently adding to that the viral pilot plant and the small scale filling facilities. 
+> 
+> Another really important thing was some contract awarded to improve the yield of the vaccine. 
+> 
+> If you think that egg technology has been developed over 70 years, so 70 years of year on year improvements on yield, whereas this is a new technology. 
+> 
+> So we had a process called 3.0 that really drove the yield from the facility when we first took over the facility, the yield for the seasonal vaccine was sitting at about 2 million, and now we can produce 60 to 70 million doses of seasonal vaccine. 
+> 
+> ...
+> 
+> Lorna Meldrum, CSL Seqirus [00:47:36]
+> 
+> So we have our cell culture technology at Holly Springs, because we don't use egg, we can show a greater match to the circulating strains, which leads to greater effectiveness. 
+> 
+> It also reduces the dependence on egg-based vaccines, if there's a, a worry about the flock of chickens that are needed to produce vaccine, then we have the MF59 adjuvant, dose sparing to the antigen. Also adding breadth of protection across different strains.
+> 
+> But also because this adjuvant is used in our seasonal vaccine worldwide, we have a very extensive database to date, over 300 million doses have gone into arms. 
+> 
+> And then we look to the future, and this is very much potential, but what we want to show is higher effectiveness, longer durability, which is one of the issues with the current mRNA vaccines, multi pathogen, and of course speed.
+> 
+> ...
+> 
+> Question [01:06:51]
+> 
+> Should there need to be a vaccination response to the circulating H5N1 in birds or cattle, should we need to vaccinate humans, what impact would that have on the availability of seasonal influenza vaccine? I guess I'm asking if, if both pandemic vaccine and seasonal vaccine can be made at the same time.
+> 
+> Julian Ritchey, Sanofi [01:07:18]
+> 
+> I'm happy to offer perspective on that. So that's absolutely one of the key decision making factors that we bring forward in the consideration. So many of the points I mentioned in terms of the planning are looking at what impact does this have on manufacture of other products? 
+> 
+> And many of these facilities are built in a manner where we can do this in a complementary fashion, but that's part of the close collaboration we have with our government partners in order to determine the priority and the timing of what's necessary. 
+> 
+> And so fortunately our flu production is very far progressed. So this year, it wouldn't have that kind of impact. But it's also something we have to watch very closely in order to ensure anywhere in the process, from early stage down through fill finish, that that's taken into careful consideration.
+> 
+> Lorna Meldrum, CSL Seqirus [01:08:13]
+> 
+> I would also reiterate what Julian has said. And it's all to do with dialog with BARDA on when we have manufacturing.
+> 
+> At the moment, the manufacturing window to produce more H5N1 or H5N8 is there because our seasonal production has finished.
+> 
+> But if the demand was such that it was during seasonal production, then that decision would be made by BARDA, and probably based on a WHO pandemic call.
 
 ## Michigan health department on serology survey with CDC
 
