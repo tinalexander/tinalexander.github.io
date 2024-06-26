@@ -11,9 +11,47 @@ permalink: /notes/2024/06
 
 # June 26, 2024
 
+## Quotes from vaccines meeting about respiratory viruses
+
+- **Source:** [recording](https://www.youtube.com/watch?v=4nteXf2OgVI)
+- **Attribution:** meeting of the National Vaccines Advisory Committee
+- **Date:** published June 26, 2024
+
+> Brendan Jackson, CDC [00:43:25]
+> 
+> So a little bit of learning from last season, was how we already covered a lot about some of the nirsevimab issues. And we're really looking to see what we can do to mitigate those, continue to mitigate those as much as possible. 
+> 
+> I think some of that was related to it being a new immunization. It's the first time we've sort of had a monoclonal, long acting monoclonal like this, in that space. 
+> 
+> And there was also the supply limitations that were going on at the time. So we think that those have been resolved. There's still some leftover supply from this year, more coming in for next season. So knock on wood. Things should be good in terms of that. 
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:47:45] 
+> 
+> In terms of communications last year, we were in a challenging situation overall where basically the remaining COVID funding was largely rescinded as part of a larger congressional budget deal. And so there was a larger campaign that was, that was pulled back and never released. 
+> 
+> So CDC pulled together what funding that we could, put together a small campaign that was called the everything campaign. 
+> 
+> Many people probably didn't see it because there, again, there was not a large budget behind us. 
+> 
+> We are excited this year that HHS has more funding and is planning a campaign right now. And we're doing what we can to support that, especially as they are targeting or not, or trying to really drive up coverage in groups at higher risk, like older adults, and including by working with healthcare providers as a core strategy there.
+> 
+> ...
+> 
+> Brendan Jackson, CDC [00:47:45] 
+> 
+> In terms of communications last year, we were in a challenging situation overall where basically the remaining COVID funding was largely rescinded as part of a larger congressional budget deal. And so there was a larger campaign that was, that was pulled back and never released. 
+> 
+> So CDC pulled together what funding that we could, put together a small campaign that was called the everything campaign. 
+> 
+> Many people probably didn't see it because there, again, there was not a large budget behind us. 
+> 
+> We are excited this year that HHS has more funding and is planning a campaign right now. And we're doing what we can to support that, especially as they are targeting or not, or trying to really drive up coverage in groups at higher risk, like older adults, and including by working with healthcare providers as a core strategy there.
+
 ## Quotes from vaccines meeting about mpox 
 
-- **Source** recording
+- **Source** [recording](https://www.youtube.com/watch?v=DdXQlIr8xlI)
 - **Attribution:** meeting of the National Vaccines Advisory Committee
 - **Date:** published June 24, 2024
 
