@@ -11,6 +11,86 @@ permalink: /notes/2024/06
 
 # June 26, 2024
 
+## Quotes from vaccines meeting about H5N1 preparations
+
+- **Source:** [recording](https://youtu.be/DdXQlIr8xlI)
+- **Attribution:** meeting of the National Vaccines Advisory Committee
+- **Date:** published June 24, 2024
+
+Christine Oshansky, ASPR [00:33:52] 
+
+CDC monitors disease outbreaks, looking at surveillance across the surveillance in wild animals. And as well as in humans. Risk assessments are performed.
+
+Now concurrently, the WHO collaborating centers are generating candidate vaccine viruses, to make sure that the manufacturers hav those available if needed. And likewise, the WHO essential regulatory laboratories are making sure that potency reagents are ready to go if needed. 
+
+And then our partnerships with CSL Seqirus, GSK, and Sanofi, we work with them very closely to develop those seed lots, to manufacture bulk antigen, get those into final containers if we need. 
+
+And anything that is manufactured gets placed into stability programs. So they're always monitored at the manufacturing sites, so that they remain within specification.
+
+Clinical trials are sometimes performed. And any data that is generated gets placed into pre-emergency use authorization living documents. So these are living documents they're updated periodically, and they're on file with the FDA so that we can rapidly respond if we need to go. 
+
+And with all of these, all the, all of this data in place, we strive for it to lead to faster to first doses and faster to full immunization, if the need arises.
+
+...
+
+Lorna Meldrum, CSL Seqirus [00:44:39] 
+
+One of the areas that we are really proud of at CSL Seqirus is our partnership with BARDA at Holly Springs. 
+
+This has been a very long term partnership, 17 years, gone through several owners, but we have been responsible for that partnership for the past eight years. 
+
+The partnership began when the U.S. wanted to move away from its dependence on egg technology and was interested in new technology. So the objective for Holly Springs was to provide cell based vaccine and the adjuvant manufacturing capacity to be able to deliver 150 million doses of the vaccine in the event of a pandemic.
+
+And from the factory being built,or the ground broken in 2006, we are really proud that in May 2022, we were declared pandemic ready. 
+
+We had been awarded seven contracts to date by BARDA. 
+
+The first and foremost was the manufacturing infrastructure working together to build the facility at Holly Springs, and then subsequently adding to that the viral pilot plant and the small scale filling facilities. 
+
+Another really important thing was some contract awarded to improve the yield of the vaccine. 
+
+If you think that egg technology has been developed over 70 years, so 70 years of year on year improvements on yield, whereas this is a new technology. 
+
+So we had a process called 3.0 that really drove the yield from the facility when we first took over the facility, the yield for the seasonal vaccine was sitting at about 2 million, and now we can produce 60 to 70 million doses of seasonal vaccine. 
+
+...
+
+Lorna Meldrum, CSL Seqirus [00:47:36]
+
+So we have our cell culture technology at Holly Springs, because we don't use egg, we can show a greater match to the circulating strains, which leads to greater effectiveness. 
+
+It also reduces the dependence on egg-based vaccines, if there's a, a worry about the flock of chickens that are needed to produce vaccine, then we have the MF59 adjuvant, dose sparing to the antigen. Also adding breadth of protection across different strains.
+
+But also because this adjuvant is used in our seasonal vaccine worldwide, we have a very extensive database to date, over 300 million doses have gone into arms. 
+
+And then we look to the future, and this is very much potential, but what we want to show is higher effectiveness, longer durability, which is one of the issues with the current mRNA vaccines, multi pathogen, and of course speed.
+
+...
+
+Question [01:06:51]
+
+Should there need to be a vaccination response to the circulating H5N1 in birds or cattle, should we need to vaccinate humans, what impact would that have on the availability of seasonal influenza vaccine? I guess I'm asking if, if both pandemic vaccine and seasonal vaccine can be made at the same time.
+
+Julian Ritchey, Sanofi [01:07:18]
+
+I'm happy to offer perspective on that. So that's absolutely one of the key decision making factors that we bring forward in the consideration. So many of the points I mentioned in terms of the planning are looking at what impact does this have on manufacture of other products? 
+
+And many of these facilities are built in a manner where we can do this in a complementary fashion, but that's part of the close collaboration we have with our government partners in order to determine the priority and the timing of what's necessary. 
+
+And so fortunately our flu production is very far progressed. So this year, it wouldn't have that kind of impact. But it's also something we have to watch very closely in order to ensure anywhere in the process, from early stage down through fill finish, that that's taken into careful consideration.
+
+Lorna Meldrum, CSL Seqirus [01:08:13]
+
+I would also reiterate what Julian has said. And it's all to do with dialog with BARDA on when we have manufacturing.
+
+At the moment, the manufacturing window to produce more H5N1 or H5N8 is there because our seasonal production has finished.
+
+But if the demand was such that it was during seasonal production, then that decision would be made by BARDA, and probably based on a WHO pandemic call.
+
+...
+
+
+
 ## Michigan health department on serology survey with CDC
 
 - **Source:** emailed statement
