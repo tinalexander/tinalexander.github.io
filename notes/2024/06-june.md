@@ -11,6 +11,16 @@ permalink: /notes/2024/06
 
 # June 26, 2024
 
+## Michigan health department on serology survey with CDC
+
+- **Source:** emailed statement
+- **Attribution:** spokesperson for the Michigan Department of Health and Human Services
+- **Date:** received June 26, 2024
+
+> The Centers for Disease Control and Prevention (CDC) is providing technical assistance to the Michigan Department of Health and Human Services (MDHHS) as the department conducts an H5N1 seroprevalence study of individuals exposed to sick cows. The study is completely voluntary for any participants and anonymous. Data collection has been completed for the first phase and we are in laboratory and epidemiology analysis phases. MDHHS looks forward to sharing its findings when those phases are complete. 
+
+# June 25, 2024
+
 ## HHS and USDA press briefing on H5N1 outbreak in dairy 
 
 - **Source:** press briefing
