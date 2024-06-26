@@ -168,6 +168,12 @@ permalink: /notes/2024/06
 > Eric Deeble, USDA [01:02:49]
 > 
 > While it is H5N1 does appear to operate very differently in dairy cattle than it does in poultry. We have no evidence of respiratory transmission in any case involving dairy cattle.
+>
+> ...
+> 
+> Rosemary Sifford, USDA [01:01:22]
+> 
+> I would just reiterate that point that in all of the herds that we have found to be affected, we have found epidemiological links to other herds, whether that be movement of people or equipment or vehicles, that there have been movements between these herds and other affected herds.
 
 # June 24, 2024
 
