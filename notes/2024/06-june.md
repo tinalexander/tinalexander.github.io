@@ -11,6 +11,68 @@ permalink: /notes/2024/06
 
 # June 26, 2024
 
+## Quotes from Becerra at reproductive healthcare event in Idaho
+
+- **Source:** livestream
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** broadcasted June 26, 2024
+
+> Xavier Becerra, HHS [00:00:10] 
+> 
+> This week is going to be pretty eventful for the state of Idaho and I hope that the courage that you and your colleagues on the council display, the courage that providers display, and certainly the courage that patients display will drive so much of what happens moving forward in the future in this country.
+> 
+> President Biden is fully behind what you're doing. I couldn't be more emphatic to say to you that the president has said to us, at the Department Health and Human Services, pull out all the stops to make sure that you are giving every American the access to the care that they need, regardless of what that might be, including abortion care. And so that's what we're going to do.
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:37:21]
+> 
+> The final point again here in Idaho. I don't know if any of you got the word I got the word because my folks in DC were in touch with me.
+> 
+> There's apparently a leak. Or report by a newspaper saying what the decision by the Supreme Court was going to be on this decision impacting Idaho and its treatment of emergency medical services. 
+> 
+> We don't-- nothing-- no one's confirmed it, so I'm not going to go out there and say what it was.
+> 
+> But what I will say is this. When these decisions by politicians start impacting the way doctors practice or the way patients can exercise reaching out for the care they need, there are consequences. 
+> 
+> And We're probably this week, maybe even today, going to get the decision on whether or not emergency care is still out there for every American. 
+> 
+> Certainly the issue that came up in this particular case, and we're the ones that sued the state of Ohio for denying a woman access to the emergency care that she needed.
+> 
+> But if anyone believes that in losing Roe versus Wade, in the Dobbs decision, that only abortion care was impacted, then now you're beginning to see whether it's in vitro fertilization or emergency care, all these decisions. 
+> 
+> Politicians don't make them while they're voting about whether or not your life is at risk or not. It's the doctors do and if they have they're not sure what they can do because they may get prosecuted in court, and find the consequences of not having done the care, as perhaps being labeled as malpractice and then also being in court it puts a really big burden on our doctors throughout the country. 
+> 
+> But here's where I think we have to recognize how important this is.
+> 
+> As much as President Biden has given us the tools to protect your privacy so your information as a patient your information as a provider we're doing everything we can to make sure that is not shared outside of that relationship.
+> 
+> So some prosecutor in some other state can't go out there and say, I want that information about what you, what the procedure you got, medical procedure you got in a particular state.
+> 
+> We're doing everything we can to make sure that we continue to provide access to, for example, contraception care.
+> 
+> There is now over the counter medication that you can take for contraception. We're going to fight to make sure that it's protected.
+> 
+> We're fighting to make sure that medication abortion is protected. And mifepristone, which a couple weeks ago the court decided, it's going to continue to stay on the market. It's been safe for over 20 years.
+> 
+> No reason why we should be taking that off. We're going to continue to do everything we can.
+> 
+> But there's nothing that replaced the protection we had under Roe versus Wade. And so I hope the more you all are willing to speak and tell your personal stories, maybe people will start to get it, that this has consequences for more than just that woman who needs abortion care.
+> 
+> It has consequences that go well beyond. And we should be trying to include everyone in getting access to care, not exclude people because of our politics.
+> 
+> ...
+> 
+> Xavier Becerra, HHS [00:42:00]
+> 
+> So I do think it's important to wait and not speculate much, but I'll simply repeat what we've always said and that is anyone America who is at risk of dying, or losing their health, their health status and needs to go to an emergency room, should be able to go to an emergency room. 
+> 
+> That's always been our position. Whether the care that a professional, a medical professional says you need to stabilize your health or to save your life is an abortion or not, bottom line is none of us wants to be denied access to an emergency room when we need it.
+> 
+> And that's where we believe the federal law, EMTALA, the emergency medical treatment law, protects all of us in getting medical treatment that we need and why I continue to say when Roe versus Wade was struck down it impacted more than just abortion care. It impacted access to care period. 
+> 
+> And so if indeed the Supreme Court upholds the very practiced principle that you are entitled to get the emergency care that you need based on what your medical professional, that doctor says you need, that would be a good thing.
+
 ## Quotes from vaccines meeting about respiratory viruses
 
 - **Source:** [recording](https://www.youtube.com/watch?v=4nteXf2OgVI)
