@@ -9,6 +9,34 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 27, 2024
+
+## ACIP meeting on COVID-19 vaccines
+
+- **Source:** [livestream](https://www.youtube.com/watch?v=DQslT3K9L8Y)
+- **Attribution:** meeting of the Centers for Disease Control and Prevention's Advisory Committee on Immunization Practices
+- **Date:** broadcasted June 27, 2024
+
+> Demetre Daskalakis, CDC [09:08:46]
+> 
+> Also important to talk about the Bridge Access Program. It did launch in Fall 2023 and provided no cost COVID-19 vaccines to adults who did not have health insurance and adults whose insurance did not cover all COVID-19 vaccine costs. 
+> 
+> About 1.5 million doses had been provided through that program from September 2023 through May 2024. 
+> 
+> This program, which was temporary, a bridge to somewhere I hope, will end in August 2024. 
+> 
+> ...
+> 
+> Lakshmi Panagiotakopoulos, CDC [10:47:31]
+> 
+> Free updated COVID-19 vaccines are available to most people living in the United States through private health insurance, Medicare, and Medicaid plans.
+> 
+> Eligible children are able to receive the COVID-19 vaccines through the existing Vaccines for Children program.
+> 
+> However, there are 25 to 30 million adults without health insurance and additional adults whose insurance does not cover all COVID-19 vaccination costs. 
+> 
+> The Bridge Access Program, which covers the COVID-19 vaccine for adults who are uninsured and underinsured, will end in August 2024 which will result in the inequities in vaccine access. 
+
 # June 26, 2024
 
 ## Quotes from Becerra at reproductive healthcare event in Idaho
