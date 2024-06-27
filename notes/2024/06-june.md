@@ -36,6 +36,96 @@ permalink: /notes/2024/06
 > However, there are 25 to 30 million adults without health insurance and additional adults whose insurance does not cover all COVID-19 vaccination costs. 
 > 
 > The Bridge Access Program, which covers the COVID-19 vaccine for adults who are uninsured and underinsured, will end in August 2024 which will result in the inequities in vaccine access. 
+> 
+> ...
+> 
+> Lakshmi Panagiotakopoulos, CDC [00:39:00]
+> 
+> As mentioned earlier by Dr. Daley, the work group began deliberations considering both universal and non universal policy options, but the non universal options had significant implementation challenges. 
+> 
+> Risk-based recommendations would not allow access to COVID 19 vaccines for those not in a defined risk group, the current list of conditions that increase risk for severe illness due to COVID 19 is extensive and includes the majority of the U.S. adult population. In addition, there are no groups without a risk of severe illness. 
+> 
+> Shared clinical decision making would create barriers to vaccination, may not effectively target those at highest risk, and would likely increase inequities in vaccine access. 
+> 
+> COVID 19 vaccine epidemiology remains uncertain and universal recommendations would need to be considered if there was an unexpected increase in burden, following a risk based or shared clinical decision making decision.
+> 
+> COVID 19 disease burden remains substantial and consistent recommendations may increase coverage over time. 
+> 
+> ...
+> 
+> James Loehr, ACIP [00:47:16]
+> 
+> I'm torn between the recommendation for universal versus risk based, especially for younger people where the burden of disease is lower and the cost effectiveness is much higher, as Dr. Long just noted. 
+> 
+> I came in here thinking that I was more in favor of risk based, and I want to say that because of your presentations today, I'm actually more in favor of universal. 
+> 
+> ...
+> 
+> James Loehr, ACIP [00:48:40]
+> 
+> On balance, I'm in favor of the universal recommendation, but if I'm just facing this individual decision right now, the cost effectiveness of the younger children is concerning to me. 
+> 
+> And as I mentioned earlier, the cost of the COVID vaccines are about five times, if not more, expensive than the flu vaccine that we're recommending on a regular basis. 
+> 
+> And so I guess I would still like to make another encouragement for the manufacturers to take that into consideration that we have a very good vaccine that protects against hospitalizations and deaths, and yet it's very expensive and a large portion of the population is going to have a hard time affording this in the future as the Bridge program goes away. 
+> 
+> ...
+> 
+> Denise Jamieson, ACIP [00:49:35]
+> 
+> I was really struck with the number of hospitalizations and deaths from COVID in the pediatric population compared to the annual rates of hospitalization and death for other vaccine preventable diseases prior to vaccine. 
+> 
+> And so I think it's really important that we not get too caught up in cost effectiveness currently, if we compare it to other vaccine preventable diseases, it seems like a really good investment.
+> 
+> ...
+> 
+> Matthew Daley, ACIP [00:51:14]
+> 
+> I think we need to take not a comparison to COVID vaccination in older adults, but a comparison to cost effectiveness of other vaccines. And in order for us to make decisions about whether it's an efficient use of resources, we would need essentially a cost effectiveness threshold that we apply equally across all vaccines. 
+> 
+> That comment should not be taken as sort of support of sort of profligate use of resources. I think what we need is vaccine costs go down, cost effectiveness goes up and we need to recognize the burden in pediatric age groups. 
+> 
+> ...
+> 
+> Matthew Daley, ACIP [00:52:05]
+> 
+> In August of 2023, brought to the work group, are you in favor of risk based strategy or are you in favor of universal strategy? And the work group at that time reached a consensus that they were in favor of a universal strategy. That's August of 23 voted on in September 23. 
+> 
+> And then that same question was brought to the work group in March of 2024. And the consensus of the work group was that they were in support of a universal strategy, but that is recognizing, integrating and interpreting all the data that Dr. Panagiotakopoulos just ran through for us.
+> 
+> And also putting into the context what Dr. Jamieson just said about burden in pediatric age groups, morbidity and mortality from COVID compared to other vaccines, which we willingly vaccinate against. 
+> 
+> So I'll just close with one with one comment, which is that I feel like because the burden was so high in the oldest age groups, we lost sight of the absolute burden in pediatric age groups. And that was coming through early 2020, 2021, 2022, when I think the message that got heard by parents of young children is COVID doesn't cause bad disease in children. And that was problematic. 
+> 
+> It does cause bad disease in children, just less frequently than it does in older groups. And I think that narrative, we need to change. We just need to remind all of us that there still is burden, vaccine prevental disease. And this is obviously my bias as a pediatrician as well, but there's significant burden in pediatric age groups that can be prevented through vaccination. 
+> 
+> ...
+> 
+> Helen Talbot, ACIP [00:54:52]
+> 
+> I think we are at a position where we still have a lot of morbidity and mortality in kids. And we feel compelled to make sure we protect them, which is the right thing to do. 
+> 
+> However, I'm not sure that the cost is sustainable. So it really needs to be taken into account that as we continue this program, it is a yearly program and has yearly high costs. And I anticipate as more and more of society is exposed either to vaccine or disease, it will become much less cost effective than it already is. 
+> 
+> So I think in the idea of keeping this a sustainable practice from year to year, we will need to have a less expensive vaccine to make this work. 
+> 
+> ...
+> 
+> Shannon Stokley, CDC [00:08:19]
+> 
+> WHO and FDA have already met to make the recommendations about the lineage to be included for the vaccine. And then of course we're meeting today at ACIP.
+> 
+> But after the FDA authorizes or approves the vaccine, then it will be available for ordering, shipment, and administration. And so we anticipate vaccine will be available in mid August to late September.
+> 
+> ...
+> 
+> Shannon Stokley, CDC [00:15:35]
+> 
+> We do know from, or between September of 2023, through May of 2024, um, over 830,000 doses were administered through our pharmacy partners in the Bridge program. And then we know over 630,000 doses have been ordered by our public health infrastructure partners for this program. 
+> 
+> And then we do know, you know, it is a challenge with this program going away. There is a limited amount of funding available for states to purchase vaccine for uninsured adults, but it surely won't cover the full cost. 
+> 
+> And as has been mentioned, several times, we have been proposing the Vaccines for Adults program because it will be critical to help serve this population
 
 # June 26, 2024
 
