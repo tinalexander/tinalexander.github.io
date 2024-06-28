@@ -9,6 +9,114 @@ permalink: /notes/2024/06
 
 <br>
 
+# June 28, 2024
+
+## FDA foods official at WSJ event
+
+- **Source:** [video](https://www.wsj.com/video/fdas-steps-to-improve-food-safety/2DC30282-55B9-425A-A58A-25ADE68714DB)
+- **Attribution:** published by The Wall Street Journal
+- **Date:** published June 26, 2024
+
+> Question [00:07:41]
+> 
+> The front of pack labels. These are labels that this is-- you're working on this proposal to mandate labels on the front of food packages that would flag items that are high in salt or sugar or saturated fat. These are some possibilities. We don't know exactly what's coming. 
+> 
+> But this idea has been kicking around FDA for over a decade. Why has it been so hard to bring these to life in the U.S. when they are already all over packages, the front of packages in other countries?
+> 
+> Jim Jones, FDA [00:08:05]
+> 
+> Well, you know, I've been at FDA for nine months and I really can't speak to what went before me, but I can tell you that since I've been there and actually for the year or so before I was there, this is a very high priority and it's moving, we're moving very expeditiously on this. 
+> 
+> And we hope to have a proposed rule on the street for public to comment on this fall.
+> 
+> Question [00:08:22]
+> 
+> So you're here now, and you know that the industry, many in the industry are not a huge fan a lot of the labels that have been proposed and that they're already warning of a first amendment challenge to potential labeling requirements. What are you doing to prepare for that response?
+> 
+> Jim Jones, FDA [00:08:36]
+> 
+> Well, so when we, and this is true of everyone in government, when we do a regulation, a big part of the development of a regulation is ensuring that we are legally compliant. 
+> 
+> And so our lawyers have been very actively involved from the get go so that we as program managers don't design something that is, out of the gate, got legal vulnerabilities associated. 
+> 
+> So we are writing a regulation that has included our attorneys from the beginning, and we are going to have a proposed regulation that we're confident would sustain a legal challenge.
+> 
+> ...
+> 
+> Question [00:10:24]
+> 
+> You also talked about the healthy labels. This is-- I'm sorry, the healthy definition. This is FDA's work to update its definition of this term. Essentially, a marketing term, healthy. 
+> 
+> FDA has also been working on this for nearly a decade. Can you give us a preview and tell us what's healthy now?
+> 
+> Jim Jones, FDA [00:10:41]
+> 
+> So what we're doing is updating a definition that has been on the streets for 30 years. The first definition was done in the 90s. 
+> 
+> We are updating it to make sure the definition of healthy is better aligned with the Dietary Guidelines for Americans. And that that's a final rule.
+> 
+> It is within days we'll be submitting to OMB. They give 90 days to review a rule. So we're hopeful to have a final rule early fall.
+> 
+> ...
+> 
+> Question [00:13:20]
+> 
+> Will foods that are widely considered to be ultra processed be able to use the term healthy,
+> 
+> Jim Jones, FDA [00:13:26]
+> 
+> You know, it's interesting what is widely considered. So I, to me, widely considered to be ultra processed would be, sorry if I, a Twinkie. I think nobody would disagree, right. 
+> 
+> Is a a frozen food that is chicken, peas, and mashed potatoes widely considered to be ultra processed? I would say no, but under many definitions, it is.
+> 
+> So it is possible there will be some foods that qualify. There won't be foods that I believe are widely considered to be ultra processed. As a matter of fact, I think most people consider they're not, and will be somewhat surprised to think, to find out that they are. 
+> 
+> But things that I, when you say, widely considered to be interesting, that what do you think is widely considered? And I'm guessing, and I'm thinking what your definition would be, would largely not be, well, perhaps almost a hundred percent not eligible.
+> 
+> ...
+> 
+> Question [00:14:30] 
+> 
+> Your boss, FDA Commissioner Robert Califf has said that this issue of ultra processed foods is something that FDA needs to urgently understand, better understand. So what are you doing to translate that idea into action? 
+> 
+> Jim Jones, FDA [00:14:43]
+> 
+> So, we think that there's a lot of data out there that shows an association between ultra processed food and bad health outcomes. But we do not think that the causality has been demonstrated.
+> 
+> And for us as a regulatory authority to be able to do anything, first you need definition, and then you have to have causality. 
+> 
+> So we're working with our colleagues at the National Institutes of Health, the principal research arm of the HHS on health issues, the government on health issues, on developing a research agenda to study the associations that have been seen to see whether or not there is causality. 
+> 
+> And so ultimately that research will inform what we do. It will also help inform what a definition is. But we think, and the Dietary Guidelines for Americans, their advisory council recently came out, their observation is there is limited evidence to support a connection between a causality between ultra process food. And they were only looking at obesity. 
+> 
+> So it's all the signals that we are picking up in the science community is that more research needs to be done to study whether or not there is causality. And that's what we're planning on doing.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:16:10]
+> 
+> What we have been saying, for at least the time that I've been at FDA, which is not very long as you know, that the overlap between the issues that we are focusing on front and center, saturated fat, added sugars, sodium the intersection between those things, that we have a clear line of sight in our regulatory and our voluntary programs, and ultra processed food, there's a high overlap. 
+> 
+> If you were to draw venn diagram, you see a high overlap. It's not going to be a hundred percent, but we actually, we won't know until we have a definition of ultra processed, but we're confident that there's a high overlap. 
+> 
+> And so focusing on what we do know, where we do have causality, we think we will actually be indirectly making a significant effect on ultra processed food, because there's so much overlap between these three ingredients and ultra processed foods.
+> 
+> ...
+> 
+> Question [00:21:13]
+> 
+> What sort of impact do you think Ozempic and other weight loss drugs are going to have on American diets 10 years from now?
+> 
+> Jim Jones, FDA [00:21:20]
+> 
+> Yeah, it's interesting. So, we are the Food and Drug Administration. So the people in the U.S. government who approved Ozempic and the other GLP-1 agonists work with me. 
+> 
+> And so we've met and we've talked about sort of the should, is there something we should be doing together, nutrition and drug approval evaluation people. 
+> 
+> And, and the thing that we have noodled about relates to just what you're saying, is that we really don't know. They don't know, we don't know, what will the effect of people on these drugs for a long time, what effect will it have on their diet, the nutritious element of their diet. 
+> 
+> And so we are talking about, is that something that we should collaborate on evaluating? Because it is an open ended question. But those conversations have been happening.
+
 # June 27, 2024
 
 ## ACIP meeting on COVID-19 vaccines
