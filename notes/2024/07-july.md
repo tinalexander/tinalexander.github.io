@@ -11,7 +11,7 @@ permalink: /notes/2024/07
 
 # July 1, 2024
 
-## CDC officials at mpox webinar 
+## CDC officials at mpox COCA webinar
 
 - **Source:** [recording](https://emergency.cdc.gov/coca/calls/2024/callinfo_062724.asp)
 - **Attribution:** Clinician Outreach and Communication Activity webinar by the Centers for Disease Control and Prevention
