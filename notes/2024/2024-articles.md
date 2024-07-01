@@ -11,9 +11,23 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-# June 2024
+# July 2024
 
 - ...
+
+# June 2024
+
+- [FDA says new study proves pasteurization process kills bird flu in milk after all](https://www.cbsnews.com/news/pasteurization-bird-flu-milk-fda-study/)
+- ["No evidence" new COVID variant LB.1 causes more severe disease, CDC says](https://www.cbsnews.com/news/covid-variant-lb-1-symptoms-no-evidence-more-severe/)
+- [COVID summer wave grows, especially in West, with new variant LB.1 on the rise](https://www.cbsnews.com/news/covid-summer-wave-grows-new-variant-lb-1/)
+- [Gun injuries in 2023 still at higher rates than before pandemic across most states, CDC reports](https://www.cbsnews.com/news/gun-injuries-2023-cdc-reports/)
+- [Infectious bird flu survived milk pasteurization in lab tests, study finds. Here's what to know.](https://www.cbsnews.com/news/bird-flu-milk-pasteurization-nih-study/)
+- [Drug-resistant "dual mutant" flu strains now being tracked in U.S., CDC says](https://www.cbsnews.com/news/drug-resistant-dual-mutant-flu-h1n1-us/)
+- [As FDA urges crackdown on bird flu in raw milk, some states say their hands are tied](https://www.cbsnews.com/news/bird-flu-raw-milk-fda-crackdown-wyoming-iowa-minnesota/)
+- [FDA approves first RSV vaccine for at-risk adults in their 50s](https://www.cbsnews.com/news/fda-approves-first-rsv-vaccine-for-adults-in-their-50s/)
+- [FDA rolls back Juul marketing ban, reopening possibility of authorization](https://www.cbsnews.com/news/fda-reopens-possibility-of-juul-authorization-rolls-back-marketing-ban/)
+- [Mexico reports fatal case from H5N2 avian influenza strain](https://www.cbsnews.com/news/mexico-reports-fatal-case-from-h5n2-avian-influenza-strain/)
+- [FDA panel votes against MDMA for PTSD, setting up hurdle to approval](https://www.cbsnews.com/news/fda-panel-mdma-ptsd-against/)
 
 # May 2024
 
