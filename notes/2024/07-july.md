@@ -11,6 +11,20 @@ permalink: /notes/2024/07
 
 # July 1, 2024
 
+## CMS spokesperson on coverage of donanemab if approved
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Medicare and Medicaid Services spokesperson
+- **Date:** received July 1, 2024
+
+> Alzheimer’s disease is a devastating illness that affects millions of Americans and their families. CMS is committed to helping people get timely access to treatments and improving care for people with Alzheimer’s disease and their families.
+> 
+> In July 2023, CMS began offering broader Medicare coverage for Leqembi (the brand name for lecanemab) under the National Coverage Decision (NCD) for Monoclonal Antibodies Directed Against Amyloid for the Treatment of Alzheimer’s Disease through the Anti-Aβ mAb Coverage with Evidence Development (CED) Study after the FDA granted traditional approval to the drug for the treatment of individuals with Alzheimer’s disease.
+> 
+> Under the NCD, to receive Medicare coverage for Leqembi, or any other anti-amyloid mAb that receives traditional approval from the FDA, people need to: 1) be enrolled in Medicare Part B; 2) be diagnosed with mild cognitive impairment or mild Alzheimer’s disease dementia; and 3) have a physician who participates in a qualifying study with an appropriate clinical team and follow-up care. The CMS National Patient Registry has been established where clinicians participating in the Anti-Aβ mAb CED Study will only need to complete a short, easy-to-use data submission. Individuals with Medicare should speak to their physician about whether this drug is right for them.
+> 
+> There have been three additional CED studies that have been approved by CMS that would qualify for coverage of anti-amyloid mAbs that have received traditional approval from the FDA. All information regarding these CED studies and the CMS National Patient Registry can be found at: cms.gov/medicare/coverage-evidence-development/monoclonal-antibodies-directed-against-amyloid-treatment-alzheimers-disease-ad.
+
 ## CDC officials at mpox COCA webinar
 
 - **Source:** [recording](https://emergency.cdc.gov/coca/calls/2024/callinfo_062724.asp)
