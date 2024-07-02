@@ -97,7 +97,7 @@ permalink: /notes/2024/07
 > 
 > Question [00:46:40]
 > 
-> Is there any talk about doing a financial assistance program for workers who may need to take leave if they are sick, or if they d
+> Is there any talk about doing a financial assistance program for workers who may need to take leave if they are sick, or if they do test positive?
 > 
 > I know that's a concern with $75 a day, for getting the test is one thing, but what if they test positive? Is there additional assistance for them? 
 > 
