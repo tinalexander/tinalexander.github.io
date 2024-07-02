@@ -9,6 +9,162 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 2, 2024
+
+## HHS and USDA press conference on bird flu vaccines and outbreak
+
+- **Source:** press briefing
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred July 2, 2024
+
+> Dawn O'Connell, ASPR [00:11:13] 
+> 
+> mRNA technology allows for accelerated initial vaccine development and complements current rapid production capabilities. 
+> 
+> Moderna's mRNA pandemic flu vaccine is currently in early clinical development. The timeline may change, but we anticipate starting phase three trials in 2025. 
+> 
+> This is a data driven process and requires collaboration with our industry partners and feedback from government partners. 
+> 
+> I also want to highlight that while the base award will support a vaccine for H5N1, the contract also supports development and procurement of a vaccine targeting new strains of influenza or other emerging infectious diseases. 
+> 
+> This approach enables flexibility to pivot to new threats in the ever changing global public health threat landscape. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:16:52]
+> 
+> Most importantly, we want to continue to reiterate in this forum and in every forum, just how critical enhanced biosecurity is to containing this virus and present preventing its spread among the nation's dairy herds.
+> 
+> Producers, whether their herds are affected or not, must take extra precautions to limit people coming on and off their farms take appropriate steps to clean and disect equipment, and clothing, and do all that they can in order to enhance biosecurity to limit the spread of this disease. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:23:41]
+> 
+> I'll start with an update on our current capacity for influenza testing in the United States.
+> 
+> Reassuringly, we have an ample number of H5 specific tests in the public health system for the current outbreak. 
+> 
+> As of right now, there are roughly 750,000 H5 specific tests available today. And another 1.2 million such tests coming online in the next two to three months. 
+> 
+> This is on top of a robust supply of influenza A test, the general tests, that are available at doctor's offices around the country.
+> 
+> Those influenza A tests, the more general tests, are the first tier in the approach to testing. And those influenza A tests are plentiful and widely available.
+> 
+> ...
+> 
+> Question [00:34:21]
+> 
+> Can you tell me what the capacity is for Moderna to manufacture? How many doses would they be able to do and in what sort of timeframe?
+> 
+> ...
+> 
+> Robert Johnson, BARDA [00:34:34] 
+>  
+> So at this point, it's too early to tell. We need to see the data around what the dosing will look like, and that's true, both for pandemic influenza, as well as for any emerging infectious disease where the ability to manufacture be really be dependent upon the data that we're waiting to see later this year.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:38:51]
+> 
+> We do know that the vast majority of farms practice biosecurity, and that includes dairy farms, practice biosecurity.
+> 
+> But this is a new and emerging disease that calls for a different set of biosecurity practices or enhancements of specific ones. 
+> 
+> So many dairies are already using what's called the FARM program, and that is a baseline biosecurity, and we're making recommendations that folks go beyond that and supporting them financially so that they can do so.
+> 
+> ...
+> 
+> Robert Johnson, BARDA [00:39:43]
+> 
+> So this, the shelf life, will actually be data driven. It hasn't been determined yet. 
+> 
+> And ultimately that will be an FDA decision on what type of shelf life to get that. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:40:04]
+> 
+> This is all under discussion right now. We are, as we always are as a scientifically driven set of organizations, always evaluating pros and cons of risks, benefits, upside and downside of any potential measure, including vaccination for farm workers.
+> 
+> In this situation, we're looking at partly the risk, but really, in addition to that, factors like what might demand be based on what the perception of severity is, and then also what what are we intending to vaccinate against?
+> 
+> Vaccines tend to be better at preventing severe disease, rather than transmission. If our goal here is to prevent transmission, for example, which is certainly one of our goals among humans, we're also analyzing whether there might be intermediate measures, for example, more widespread distribution of antivirals that may achieve that goal even more quickly. 
+> 
+> So it's not so much strictly what the downsides are, but it's also a question of what the potential uptake might be, as well as what the goal of the overall effort is.
+> 
+> ...
+> 
+> Question [00:46:40]
+> 
+> Is there any talk about doing a financial assistance program for workers who may need to take leave if they are sick, or if they d
+> 
+> I know that's a concern with $75 a day, for getting the test is one thing, but what if they test positive? Is there additional assistance for them? 
+> 
+> And relatedly, is there talk of a campaign for seasonal flu vaccines this fall thinking about reassortment and other concerns like that? Thank you so much.
+> 
+> Nirav Shah, CDC [00:47:11]
+> 
+> I will start with the latter of your questions. 
+> 
+> I referenced earlier that I've been having meetings with state health officials, epidemiologists, and state health directors to talk about near term, medium term, and long term planning. 
+> 
+> And both of the items that you discussed have been on the agenda for some of those meetings, we've talked about them with those groups, and we've talked about that internally as well. 
+> 
+> Again, we, we try to talk about everything that's a viable option, even if it's something that we're not able to actually do.
+> 
+> More to come certainly on the seasonal piece, because we acknowledge that there is both something that's -- it's important for a group of workers who may not have the steadiest access to healthcare to have a dedicated channel through which to obtain essential healthcare like seasonal flu shots. 
+> 
+> We also recognize that there's a-- they are in a particular place in the animal human interface, and may be coinfected, and that there may be epidemiological consequences. 
+> 
+> So, more to come, but that's been under active discussion.
+> 
+> Likewise, with respect to something akin to sick leave, no final decisions on either of those yet, but other than active discussions around both.
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:49:48]
+> 
+> They've got 4.8 million in bulk that they have begun fill finishing. And our expectation is that those first doses begin coming off the line in the middle of this month. 
+> 
+> Every indication is that timeline continues to hold, and we will begin seeing the doses middle of July continuing to roll off through August, which is very efficient from the perspective of our planning. 
+> 
+> It was faster than we had initially anticipated. So we're really pleased that that timeline continues to hold. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:51:21]
+> 
+> We, along with our partners both across the USG, but also with our colleagues, such as those on ACIP, we're thinking about sort of, as I noted with Alex's question, what the goal of vaccination might be, first and foremost, for farm worker health.
+> 
+> To reiterate for everyone, the risk that the general population right now remains low and CDC's assessment of that has not changed. 
+> 
+> But with respect to livestock worker vaccination, if our goal is to reduce the number of infections that may occur, we have to wonder whether vaccination is the best route for that, or whether there may be other routes that are faster or even more effective such as, as I mentioned, more widespread use of antivirals. 
+> 
+> So question number one is what is the goal we are aiming toward there and is vaccination the right tool to get us toward that goal. 
+> 
+> And then if so, then we engage in more of a discussion about the benefits, as well as what the uptake might be. 
+> 
+> If right now, H5 is not perceived as a pressing threat among farm workers, and I'm not speculating as to whether it is or not, but if that is the case, then uptake may not be robust.
+> 
+> Rather other mechanisms, again, may be better suited to achieve the goal that we want there. So that's the evaluation that's underway. 
+> 
+> As has been said before, no final decisions are made, but we are in the process of robust discussion, as we should be for any scientifically driven venture. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:55:36]
+> 
+> Today, we are not aware of any cases of H5 among humans in the area, nor are we aware of any markers of cases among humans, emergency department visits, reports from clinicians, any of those systems that we normally query to an understand what may be happening, none of those has signaled a possibility of H5 infection among humans. 
+> 
+> And so if it's not among humans, what might it be? And we are investigating different hypotheses. 
+> 
+> The San Francisco metropolitan area is not known for its dairy industry. So that's not high on our list of hypotheses. 
+> 
+> What is higher on the list is at least one or two live bird markets. Again, I want to stress, this is a hypothesis that is under investigation, but rather than the conclusion, we are working with the San Francisco Department of Public Health, as well as the California Department of Public Health, to better understand whether the timing of those bird markets and the subsequent cleaning of those markets aligns with the wastewater samples.
+> 
+> No conclusions as of yet. We are investigating, however.
+
 # July 1, 2024
 
 ## CMS spokesperson on coverage of donanemab if approved
