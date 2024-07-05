@@ -11,6 +11,14 @@ permalink: /notes/2024/07
 
 # July 5, 2024
 
+## CDC spokesperson on death investigated in Diamond Shruumz recall
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson 
+- **Date:** received July 5, 2024
+
+> North Dakota Health and Human Services, with the Poison Control Center, has identified a death that could potentially be associated with Diamond Shruumz products. Investigations are ongoing.
+
 ## Colorado's health department on H5N1 bird flu case
 
 - **Source:** emailed statement
