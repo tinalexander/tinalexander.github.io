@@ -9,6 +9,28 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 5, 2024
+
+## Colorado's health department on H5N1 bird flu case
+
+- **Source:** emailed statement
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson Sasha Geffen
+- **Date:** received July 2, 2024
+
+> _Have contacts of the case been identified? Have any reported symptoms or been tested?_
+> 
+> CDPHE and the local public health agency are conducting follow-up investigation activities with this case, including assessment of household contacts, and will conduct additional testing if needed. No household contacts have developed symptoms. 
+> 
+> There is no evidence of person-to-person transmission of this virus at this time.
+> 
+> _Why were testing results inconclusive at the state?_
+> 
+> Sometimes, a test result comes back borderline or inconclusive because there may not be enough virus in the sample to definitively detect the virus 100% of the time. Samples have to be tested more than once to confirm inconclusive results, and we partner with CDC to do that. It’s part of our quality assurance process.
+> 
+> _Is it known if the case was wearing PPE when working with dairy cows?_
+> 
+> CDPHE provided personal protective equipment to the facility where the individual worked. We are still gathering additional information about the worker’s exposures and PPE use.
+
 # July 2, 2024
 
 ## HHS and USDA press conference on bird flu vaccines and outbreak
