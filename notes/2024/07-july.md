@@ -9,6 +9,33 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 8, 2024
+
+## North Dakota spokesperson on Diamon Shruumz death
+
+- **Source:** emailed statement
+- **Attribution:** North Dakota Health and Human Services spokesperson Jecca Geffre
+- **Date:** received July 8, 2024
+
+> _Is it known which of the products the person ate, before they died?_
+> 
+> Yes, however, we are unable to comment on specific details regarding the specific Diamond Shruumz products regarding the ND case reported. There is a risk of serious illness after consuming any of the recalled Diamond Shruumz chocolate, cones, or gummies.
+>  
+> _Were they hospitalized with any specific symptoms?_
+> 
+> The individual was not hospitalized.
+> 
+> We cannot address the specific symptoms of the ND case reported. Nationally, reported symptoms can include:
+> seizures
+> loss of consciousness
+> confusion
+> sleepiness
+> agitation
+> abnormal heart rate
+> high or low blood pressure
+> nausea
+> vomiting
+
 # July 5, 2024
 
 ## CDC spokesperson on death investigated in Diamond Shruumz recall
