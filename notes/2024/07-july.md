@@ -11,7 +11,7 @@ permalink: /notes/2024/07
 
 # July 8, 2024
 
-## North Dakota spokesperson on Diamon Shruumz death
+## North Dakota spokesperson on Diamond Shruumz death
 
 - **Source:** emailed statement
 - **Attribution:** North Dakota Health and Human Services spokesperson Jecca Geffre
