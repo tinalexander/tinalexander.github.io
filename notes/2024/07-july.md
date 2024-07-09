@@ -9,6 +9,16 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 9, 2024
+
+## Georgia spokesperson on Diamond Shruumz investigation
+
+- **Source:** emailed statement
+- **Attribution:** Georgia Department of Public Health spokesperson Nancy Nydam
+- **Date:** received July 9, 2024
+
+> As of July 1, there are about a dozen suspect cases in Georgia. DPH is still in the process of reviewing medical records so that number is likely to change. As of now, we are not aware of any suspect cases in children.
+
 # July 8, 2024
 
 ## North Dakota spokesperson on Diamond Shruumz death
