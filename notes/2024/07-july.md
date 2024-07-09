@@ -11,6 +11,14 @@ permalink: /notes/2024/07
 
 # July 9, 2024
 
+## Pennsylvania spokesperson on Diamond Shruumz investigation
+
+- **Source:** emailed statement
+- **Attribution:** Pennsylvania Department of Health spokesperson Neil Ruhland
+- **Date:** received July 9, 2024
+
+> As of July 9, 2024, the Pennsylvania Department of Health has recorded two adults (no children) becoming sick due to the nationwide Diamond Shruumz product recall.   
+
 ## Georgia spokesperson on Diamond Shruumz investigation
 
 - **Source:** emailed statement
