@@ -11,6 +11,16 @@ permalink: /notes/2024/07
 
 # July 10, 2024
 
+## FDA spokesperson on Diamond Shruumz recall
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson Janell Goodwin
+- **Date:** received July 10, 2024
+
+> Diamond Shruumz-brand products have been recalled and should no longer be available for sale. We’re still in the process of conducting recall effectiveness checks to ensure these products are no longer being sold.  
+> 
+> We of course can’t comment on future compliance action.
+
 ## Banner Health spokesperson on Diamond Shruumz cases
 
 - **Source:** emailed statement
