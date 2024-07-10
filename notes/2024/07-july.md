@@ -9,6 +9,22 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 10, 2024
+
+## Banner Health spokesperson on Diamond Shruumz cases
+
+- **Source:** emailed statement
+- **Attribution:** Banner Health spokesperson Sean Logan
+- **Date:** received July 9, 2024
+
+> _Do you know how many cases have been linked to consumption of Diamond Shruumz in Arizona?_
+> 
+> 9 cases total, 6 meeting the health department case definition for reporting.
+> 
+> _Do you know if any have been in children?_ 
+> 
+> 2 children meeting case definition, 2 children with mild exposures not meeting case definition.
+
 # July 9, 2024
 
 ## Pennsylvania spokesperson on Diamond Shruumz investigation
