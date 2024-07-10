@@ -11,6 +11,84 @@ permalink: /notes/2024/07
 
 # July 10, 2024
 
+## CDC official on dengue risk at vector borne diseases webinar
+
+- **Source:** webinar
+- **Attribution:** hosted by Research America
+- **Date:** occurred July 9, 2024
+
+> Lyle Petersen, CDC [00:08:44]
+> 
+> So what's happening is with dengue? 
+> 
+> As I mentioned, it was brought into the Western hemisphere in the United States in the in the 1600s, but you can see from this slide, which shows dengue incidence in the Americas from 1980 onward, it's been going up and up and up.
+> 
+> And in 2023 was by far a record year for dengue. And then the bright red bar is what's happening in 2024, so far. 
+> 
+> And even though we're only halfway through the year, we've surpassed, we almost doubled or more than doubled what happened in 2023, which was the previous record. 
+> 
+> So you can see from this dengue is getting worse and worse and worse with more than 9.6 million cases already reported in the Americas through June 20th, next slide. 
+> 
+> And the-- and so now the, in the Caribbean, most of the cases that went in 2024 were in the Southern hemisphere, because that was their summer, but now we're entering summer in the Northern hemisphere and this is what's happening in Puerto Rico. 
+> 
+> And on this side, you'll see a gray line, which is the average incidence of dengue by week and in the squiggly blue line there near the gray line is what happened last year. And then the darker blue line is what's happening this year. 
+> 
+> So the same thing that's happening now in the Caribbean happened earlier in the year in South America. And that red line indicates what we call the epidemic threshold. 
+> 
+> So we're way above the epidemic threshold already. And we haven't even gotten anywhere near peak dengue season in the Caribbean, which generally occurs around September, October. 
+> 
+> ...
+> 
+> Lyle Petersen, CDC [00:10:45]
+> 
+> So with all of these cases of dengue occurring throughout the tropics in South America, you know that any traveler can bring dengue back into the United States. And we typically see about 1,600 to 1,800 imported dengue cases a year that we actually identify. 
+> 
+> And this year we've about tripled that number so far. 
+> 
+> So many more people are coming back with dengue into the continental United States and anywhere under where there is the vector mosquitoes, Aedes aegypti or Aedes albopictus, an imported case can then cause local mosquitoes to get infected. And then cause local cases of transmission of dengue. 
+> 
+> Fortunately outbreaks of dengue primarily happen in southern Texas, southern Florida, but as indicated on this map, they can happen anywhere. And most recently, occurred in California and in Arizona for the first time ever.
+> 
+> ...
+> 
+> Lyle Petersen, CDC [00:11:50]
+> 
+> So why is dengue going up so much? And there's a variety of factors.
+> 
+> Back in 2003, the Institute of Medicine developed this convergence model indicated on the right indicating that a variety of social, political, economic factors, genetic factors, physical, environmental factors, and ecological factors combine and interact with humans and microbes to cause these emerging events.
+> 
+> And many of the topics that they outlined as drivers for disease emergence are now happening with dengue. 
+> 
+> So for example, with climate and weather, we are experiencing heat waves, like none other right now, and warmer weather promotes viral transmission in mosquitoes. 
+> 
+> We're also changing ecosystems, but as I mentioned, we're also living in more crowded places and people are more traveling around which for a human mosquito human transmission cycle, if you want to spread dengue, have people move around and that's exactly what's happening.
+> 
+> Next slide. So, uh, this just illustrates what I've already mentioned previously. There's been a rapid increase in human travel. And so any airline passenger who picks up dengue one place, can go to another place and spread that virus, through mosquitoes that bite that that person.
+> 
+> Also increasing urban populations, as we mentioned. About more than half the population, now the planet, now lives in urban centers. 
+> 
+> And since this is a human mosquito human transmission cycle, when you start crowding people together, along with the Aedes aegypti mosquito, which likes to live in crowded urban environments, you have the perfect storm for spreading this virus in populations. 
+> 
+> ...
+> 
+> Lyle Petersen, CDC [00:39:02]
+> 
+> I think the one thing is that it's clear that the methods that may have worked in the past no longer work. 
+> 
+> And, I think this resurgence of dengue is a good example. 
+> 
+> At one point because of yellow fever, people tried to get rid of the Aedes aegypti mosquito in the Western hemisphere, which is an invasive mosquito, and they were actually pretty successful and they got rid of it in many countries around the world with DDT. And, obviously we don't want to use DDT anymore. There's widespread insecticide resistance, for example. 
+> 
+> So we really need new methods of control that will work in modern environments. And we've had some success with some of these.
+> 
+> For example, if you infect Aedes aegypti mosquitoes with a bacteria called Wolbachia, which is present in about 40% of all insects, so it's around anyway. And if you spread these mosquitoes with Wolbachia around, it's been shown that, for some reason that nobody really quite understands, when these mosquitoes are infected with Wolbachia, which is a parasite of mosquitoes, basically what happens is these mosquitoes are much less likely to transmit any viral infection, such as dengue, yellow fever, whatever. 
+> 
+> And so people, when they put these Wolbachia infected mosquitoes out in environments, like in Indonesia, we're doing this in El Salvador now. And in many other countries like Brazil.
+> 
+> What it shows is that dengue incidence goes way, way down. And so it's a-- and once Wolbachia is in those mosquitoes, it stays there and gets passed on from generation to generation. 
+> 
+> So once you do it, you can really reduce the rate of dengue. So that's one good example of how a brand new intervention that's environmentally friendly can really reduce incidence of some of many of these viral diseases. 
+
 ## FDA spokesperson on Diamond Shruumz recall
 
 - **Source:** emailed statement
