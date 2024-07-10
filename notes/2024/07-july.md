@@ -113,6 +113,12 @@ permalink: /notes/2024/07
 > 
 > 2 children meeting case definition, 2 children with mild exposures not meeting case definition.
 
+...
+
+> _For the children meeting case definition, do you know how they were classified and if they were hospitalized?_
+> 
+> Yes, those cases were identified as major and admitted.
+
 # July 9, 2024
 
 ## Pennsylvania spokesperson on Diamond Shruumz investigation
