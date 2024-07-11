@@ -9,6 +9,16 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 11, 2024
+
+## Indiana health department on Diamond Shruumz poisonings
+
+- **Source:** emailed statement
+- **Attribution:** Indiana Department of Health spokesperson Lisa Welch
+- **Date:** received July 11, 2024
+
+> Indiana has a total of 5 confirmed cases; there are no cases under 18 years of age.
+
 # July 10, 2024
 
 ## CDC official on dengue risk at vector borne diseases webinar
