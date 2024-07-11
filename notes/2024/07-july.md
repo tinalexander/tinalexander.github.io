@@ -11,6 +11,24 @@ permalink: /notes/2024/07
 
 # July 11, 2024
 
+## Montana health department on Diamond Shruumz poisonings
+
+- **Source:** emailed statement
+- **Attribution:** Montana Department of Public Health and Human Services spokesperson
+- **Date:** received July 11, 2024
+
+> Questions:  
+> 
+> Was the case in an adult or a child?
+> 
+> Have any additional cases been identified in Montana?
+>  
+> Responses:
+> 
+> The individual was an adult.
+> 
+> DPHHS’s investigation is ongoing.
+
 ## Indiana health department on Diamond Shruumz poisonings
 
 - **Source:** emailed statement
