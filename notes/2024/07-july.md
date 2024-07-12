@@ -11,6 +11,16 @@ permalink: /notes/2024/07
 
 # July 12, 2024
 
+## California's health department on counterfeit Botox
+
+- **Source:** emailed statement
+- **Attribution:** California Department of Public Health spokesperson
+- **Date:** received July 12, 2024
+
+> Questions: What counties where the patients who were sickened by the counterfeit Botox? Was the source of the counterfeit Botox in California ever identified? 
+>  
+> CDPH Response: One case occurred in San Diego County, where the patient allegedly sourced the counterfeit botox from an online international retailer. The second case occurred in Los Angeles County, and, in this case, no information was provided regarding the source of the counterfeit botox.
+
 ## New Mexico's agriculture department on H5N1 at raw milk dairy
 
 - **Source:** emailed statement
