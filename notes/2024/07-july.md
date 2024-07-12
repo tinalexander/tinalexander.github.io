@@ -9,6 +9,16 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 12, 2024
+
+## Texas health department on counterfeit Botox investigation
+
+- **Source:** emailed statement
+- **Attribution:** Texas Department of State Health Services spokesperson Lara Anton
+- **Date:** received July 11, 2024
+
+> A definitive source was not identified in this investigation. Texas cases resided in Collin and Harris counties.
+
 # July 11, 2024
 
 ## Montana health department on Diamond Shruumz poisonings
