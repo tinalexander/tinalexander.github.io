@@ -11,6 +11,16 @@ permalink: /notes/2024/07
 
 # July 12, 2024
 
+## New Mexico's agriculture department on H5N1 at raw milk dairy
+
+- **Source:** emailed statement
+- **Attribution:** New Mexico Department of Agriculture spokesperson Jenny Green
+- **Date:** received July 12, 2024
+
+> NMDA examined the claims of suspected HPAI-positive cases at a licensed raw dairy farm in the state. NMDA was only made aware of these claims last week, and we responded as soon as soon as we were made aware.
+> 
+> We have determined through follow-up with the herd veterinarian, that the livestock at the farm did not have symptoms of HPAI and therefore were not required to be tested during the timeframe that has been in question (early May). The cows were treated for an adverse reaction to a change in feed, which was not considered an illness. No further investigation is ongoing. 
+
 ## Texas health department on counterfeit Botox investigation
 
 - **Source:** emailed statement
