@@ -11,6 +11,16 @@ permalink: /notes/2024/07
 
 # July 15, 2024
 
+## ASPR spokesperson on H5 vaccines
+
+- **Source:** emailed statement
+- **Attribution:** Administration for Strategic Preapredness and Response spokesperson
+- **Date:** received July 15, 2024
+
+> The first doses are scheduled to roll off the line next week with the remaining doses following through August. There are multiple steps that need to occur as part of this process and so far, all remain target. However, other steps besides the fill and finish of the vaccine, such as policy and regulatory decisions, have to occur prior to product being released for public use.
+> 
+> At this time, CDC’s evaluation is that the overall risk to human health is low. Vaccination has not been recommended for any segment of the population and the U.S. government continues to monitor the situation. 
+
 ## CDC spokesperson on Colorado H5N1 cases
 
 - **Source:** emailed statement
