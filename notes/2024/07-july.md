@@ -9,6 +9,32 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 15, 2024
+
+## CDC spokesperson on Colorado H5N1 cases
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received July 15, 2024
+
+> **Attributable to a CDC Spokesperson**
+> 
+> Four human cases of highly pathogenic avian influenza (HPAI) A(H5) (“H5 bird flu”) virus infection in the state of Colorado have been confirmed by the Centers for Disease Control and Prevention (CDC). This includes all three presumptive-positive cases reported by that state on Friday, July 12 and a fourth specimen that was later found to be presumptive-positive by the state on Friday. CDC also is aware of an additional (fifth) presumptive-positive case in Colorado that will be confirmed at CDC once the specimen arrives. All cases were in farm workers who were involved in the depopulation of poultry at a poultry facility experiencing an outbreak of HPAI H5N1 virus. A CDC team is on the ground in Colorado, supporting their assessment of the poultry outbreak and associated human cases. Given current information, CDC believes that the risk to the public from this outbreak remains low. These cases again underscore the risk of exposure to infected animals. There are no unexpected increases in flu activity otherwise in Colorado, or in other states affected by H5 bird flu outbreaks in cows and poultry. 
+> 
+> **Background on Cases**
+> 
+> These workers reported symptoms after being exposed to H5N1 virus-infected poultry. All workers who tested positive reported mild illness. The workers reported conjunctivitis and eye tearing, as well as more typical flu symptoms of fever, chills, coughing and sore throat/runny nose. Additional cases may be reported and subsequently confirmed as monitoring and testing is ongoing. 
+> 
+> CDC has deployed a multidisciplinary bilingual field team of nine people including epidemiologists, veterinarians, clinicians and an industrial hygienist to Colorado to support their public health response to the outbreak among poultry farm workers. There is ongoing monitoring of workers as part of this assessment and additional specimens are being tested – work that is a continuation of the close partnership between human and animal public health officials at the local, state and Federal levels.
+> 
+> These are the first cases of H5 virus infection in poultry workers (as opposed to dairy workers) since 2022. The first ever U.S. case of H5 in a poultry worker was reported in Colorado during April 2022.  On July 3, 2024, Colorado also reported a case of H5 in a dairy worker on an affected farm, so that state is experiencing ongoing H5N1 outbreaks on dairy and poultry farms.  
+> 
+> The designation of the influenza virus neuraminidase (the N in the subtype) is pending influenza genetic sequencing at CDC. Attempts to sequence the virus in the clinical specimens are underway and will be made available within 1-2 days if successful. Additional analysis will look for any genetic changes to the virus that could alter the agency’s risk assessment. 
+> 
+> CDC’s recommendations related to H5 have not changed at this time. An assessment of these cases will help inform whether this situation warrants a change to the human health risk assessment.
+> 
+> CDC has more than 170 staff deployed to the agency’s H5N1 Response.  Updates will be provided as information becomes available.
+
 # July 12, 2024
 
 ## California's health department on counterfeit Botox
