@@ -11,6 +11,74 @@ permalink: /notes/2024/07
 
 # July 16, 2024
 
+## BD executive at CDC testing laboratories call
+
+- **Source:** webinar
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** occurred July 15, 2024
+
+> Chris Beddard, BD [00:27:38]
+> 
+> We initially expected this to be temporary in nature, but after working with the vendor and doing some additional investigation analysis, we determine that the issues were more complex, and limit our ability to supply blood culture vials to meet our global demand. 
+> 
+> We have been working very closely with the supplier and we have actions in place to improve production and output. We anticipate that to support us through the next two months as we move forward through the summer. 
+> 
+> We've been additionally managing our global supply throughout this challenge via a manual allocation process, improving our distribution transit times, and optimizing our production schedules to meet supplier shipments. 
+> 
+> We've also discussed, or we've also deployed, a strategy to work with our supplier previously of glass media vials. We're going to  be temporary sourcing the glass bottles for our BD BACTEC Lytic Anaerobic Culture vials. And as soon as we have the clarity on dates, we'll provide another supply update, by the September timeframe. 
+> 
+> So this is an active, evolving situation. Again, we'll be coming back out to our customers by September of 24. 
+> 
+> We are looking at this time because we expect to have the confirmed consistency in our output by our vendor, but also have timelines and volumes for glass bottles in the United States, and potentially other markets as we think about the challenges on a global basis.
+> 
+> I would like to also mention that we've been working very closely with the FDA throughout this challenge, exploring all options to  improve our supply, including providing our supplier with communication to their material vendors, to reinforce the need, the priority prioritization, and the availability of required components to help us with the BACTEC bottle production.
+> 
+> ...
+> 
+> Question [00:52:02]
+> 
+> What is the approximate percentage of blood culture bottles that will be unavailable? So for example, is there a 10% shortage of normal demand, a 50% shortage of normal demand? Any idea on that?
+> 
+> Chris Beddard, BD [00:52:14]
+> 
+> It's an evolving situation. We don't have percentages that we are supplying to the market right now. 
+> 
+> I would suggest that whoever asks that question, maybe directly work with their sales rep and we can have a one-on-one discussion on that. 
+> 
+> There are no broad communications as it relates to percentages. As I was saying, every week, we're managing this appropriately for what we are able to provide to our customers in the U.S. So there's not a overall percentage that we are stating overall.
+> 
+> ...
+> 
+> Chris Beddard, BD [00:53:15]
+> 
+> Once we have the consistency from our vendor, which with all of the work we're doing, we believe will be shortly in the August timeframe. That's really what our goal is. If not sooner, as soon as we believe that the consistency is there and we have a projection and an outlook, we'll communicate back to our customers.
+> 
+> The other piece with bringing the Lytic anaerobic media back in glass, we are accelerating that availability for our customers to do validation as required. As soon as I have the dates that I feel I can a hundred percent confirm to our customers, I will bring those out as well. 
+> 
+> ...
+> 
+> Question [00:54:37]
+> 
+> Is there any indication that this shortage will expand to other products or is it just unique to this?
+> 
+> Chris Beddard, BD [00:54:44]
+> 
+> I can't answer for any other company. All I can say is that this vendor is unique for BD BACTEC vials, the plastic vials. So, there are no other BD products that are impacted from this vendor. So it's unique to the BD BACTEC vial.
+> 
+> ...
+> 
+> Question [00:57:52]
+> 
+> Are there any studies being performed currently around extending expiration dates for the bottles that laboratories already have?
+> 
+> Chris Beddard, BD [00:58:02]
+> 
+> So we're working with FDA on certain SKUs to extend the timing. 
+> 
+> I don't mean to keep asking people to contact their sales rep, but the sales rep would then just would actually forward the questions to my team and myself that we can answer those questions individually for every customer. 
+> 
+> But we have talked to FDA about the ability to do that so more to come, but it's really based on an individual laboratory and the SKU or media type they have on hand.
+
 ## Colorado health department on H5N1 testing of symptomatic workers
 
 - **Source:** emailed statement
