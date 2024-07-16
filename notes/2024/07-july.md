@@ -11,6 +11,238 @@ permalink: /notes/2024/07
 
 # July 16, 2024
 
+## HHS and USDA press briefing on Colorado bird flu outbreak
+
+- **Source:** news conference
+- **Attribution:** hosted by the Department of Health and Human Services and U.S. Department of Agriculture
+- **Date:** occurred July 16, 2024
+
+> Nirav Shah, CDC [00:07:45]
+> 
+> CDC's assessment of the risk to the general population remains low, and CDC has not changed its recommendations. 
+> 
+> For example, CDC is not recommending H5 specific vaccines for livestock workers given the mild symptoms that have been noted thus far, and the absence of any changes to the virus's genetic makeup that would suggest that the risk to human health is increased. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:07:45]
+> 
+> CDC's assessment of the risk to the general population remains low, and CDC has not changed its recommendations. 
+> 
+> For example, CDC is not recommending H5 specific vaccines for livestock workers given the mild symptoms that have been noted thus far, and the absence of any changes to the virus's genetic makeup that would suggest that the risk to human health is increased. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:10:29]
+> 
+> Understanding why an outbreak occurs at a particular time and place is a key question in this situation. 
+> 
+> Environmental factors may have played a role.
+> 
+> At the time that transmission is thought to have occurred, Colorado was experiencing 104 plus degree heat. 
+> 
+> Now the barns in which culling operations occur were no doubt even hotter. All of this makes PPE use a challenge. 
+> 
+> Now there were large scale industrial fans that certainly helped keep the barns cool, but those fans also spread things like feathers around, which are known to carry the virus. 
+> 
+> In addition, the culling method that was used here entailed workers moving from chicken to chicken, increasing the degree of interaction with each potentially infected bird. 
+> 
+> This confluence of factors may play a role in explaining why this outbreak occurred, where it did, and when it did.
+> 
+> Though, I want to stress that our investigation is underway still, but these factors do highlight a pathway for prevention specifically through even more systematic use of PPE, as well as engineering controls to help reduce exposure risk. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:13:24]
+> 
+> USDA's Animal Plant Health Inspection Service, more commonly called APHIS, can confirm the poultry depopulation operation is in county with dairy herds that have tested positive for H5N1.
+> 
+> As Nirav mentioned, genomic sequencing of samples from the poultry operation confirms the same type of genotype of HPAI that is in the nearby dairy herds. 
+> 
+> The raw sequence will be uploaded to NCBI this week and should be available Friday. Publication of polished sequences with complete metadata will take an additional three to four weeks. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:14:10]
+> 
+> Affected workers have been isolated and poultry depopulation efforts continue in order to stop the virus production and mitigate further spread.
+> 
+> All decisions regarding this effort are being made while balancing human health and safety and animal health and welfare.
+> 
+> Right now, USDA considers it very important for depopulation to continue to stop virus amplification and shedding prevent further spread and to reduce the viral load in the environment. 
+> 
+> If depopulation were to be paused, workers would still be required to care for and feed animals, prolonging their exposure risk for the workers.
+> 
+> This is critical as depopulating the entire facility, given the ease of transmission of most poultry and the lack of treatment for HPAI in poultry.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:15:25]
+> 
+> We anticipate depopulation efforts at this facility will be completed over the next 10 to 14 days. 
+> 
+> Although as our colleagues from CDC mentioned, this work is ongoing. 
+> 
+> ...
+> 
+> David Boucher, ASPR [00:18:26]
+> 
+> Colorado placed an order for 500 courses of Tamiflu from the SNS this past weekend. Those were overnighted to Colorado and were delivered just before dawn Sunday morning. That concludes the updates. 
+> 
+> I want to add just a really quick note about numbers. You might hear two numbers, connected to Tamiflu. I want to kind of explain that really quick so that there's no confusion. 
+> 
+> Colorado ordered 500 courses. Our practice here at the SNS is to avoid shipping partial containers, so things don't bounce around a little too much. 
+> 
+> So again, just to, to be very crisp on the numbers, the request that we received was for 500 courses, we sent full cartons, so Colorado actually received 528 courses of Tamiflu. 
+> 
+> ...
+> 
+> David Boucher, ASPR [00:20:36]
+> 
+> No changes to those timelines that we reported. 
+> 
+> We do have, as we said before, a number of pre-filled syringes, and then we're doing fill of additional bulk. We had said that those would-- manufacturing would start to be completed later in July, on course for that, and then completion of all that manufacturing will happen in August. 
+> 
+> So no changes to that timeline. 
+> 
+> As we we've said, when we've reported this in the past, though, I do want to kind of just clarify that we're talking about manufacturing timelines to actually use doses. 
+> 
+> We would need to have a, a reason obviously, but then also a regulatory pathway to do that, some type of regulatory mechanism authorized or approved by the FDA.
+> 
+> ...
+> 
+> Julie Gauthier, APHIS [00:26:02]
+> 
+> We have approximately 160 people working on the farm on the depopulation activities. That includes the producers, employees, contractors, USDA employees, and the people working on depopulation are required to wear Tyvek suits, white paper suits, N95  respirators, goggles, boots and gloves.
+> 
+> The difficulty with wearing all that gear in that kind of heat, you can imagine. And it was made more difficult by those the fans pushing the air, made it hard to keep those goggles and N95 respirators in place. 
+> 
+> So the team out there is trying to find other solutions to improve their ability to keep their PPE on their faces.
+> 
+> ...
+> 
+> Julie Gauthier, APHIS [00:27:08]
+> 
+> The method that was chosen to depopulate this barn is CO2 gas using carts. The carts can hold several dozen chickens typically. 
+> 
+> And so it's a very, very manual, difficult, laborious process to pick up each chicken and place it in the cart. 
+> 
+> So there's a lot of hands on to do this.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:30:37]
+> 
+> There are 1.8 million birds at this facility, which makes it a large layer facility, not the largest one in the country, but a significant facility. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:30:56]
+> 
+> Our colleagues at the Colorado Department of Public Health and Environment there, the state public health agency, have been working on contact tracing. 
+> 
+> Many of the individuals as we've seen in other farms are together at work, but also together outside of work, which makes contact tracing a little bit more feasible, that they've made progress there. 
+> 
+> And as CDC recommends at the discretion of local health officials, close contacts of confirmed cases are also being offered Tamiflu where appropriate. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:32:23]
+> 
+> So with respect to this particular poultry farm in Colorado, the uptake of testing has been strong.
+> 
+> We've tested approximately-- obtained samples from approximately or close to 60 people from the farm who were symptomatic, all of whom were symptomatic. And those specimens have been processed either in Colorado or the ones that were positive in Colorado, that subsection have been sent to the CDC for confirmation. 
+> 
+> And so we've seen strong uptake of testing across this particular farm in Colorado.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:41:04]
+> 
+> The answer is yes, we do believe that we can eliminate this within the dairy herd. 
+> 
+> And there's a couple of things that we know about this virus from the epidemiological investigation that began in Michigan and has continued throughout. 
+> 
+> And that includes the fact that there is, as Nirav mentioned, movement with associated with a spread of the disease associated with the movement of cattle, and then within local communities, through the movement of individuals, vehicles and shared equipment. 
+> 
+> We're not seeing any indications of reintroductions from say wild birds or wild animals. And so we understand that this moves with the cattle and with the people that are closely associated with them. 
+> 
+> So enhanced biosecurity should get us to a point where we can arrest the spread and hopefully in the future, we may get a vaccine which can further facilitate the elimination of this disease from the national herd.
+> 
+> But all the signs that we have are, with good biosecurity, with good farmer participation, we will be able to eliminate this.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:45:45]
+> 
+> It's imperative that I mention it here, no milk from a sick animal was ever introduced into the human food chain.
+> 
+> But we do know that cows shed this virus over the course of about 30 days, and they eventually recover. 
+> 
+> But as they do, there is the potential that it can spread from cow to cow, either on milking equipment or on individuals or other types of shared equipment that are in and around dairy barns. 
+> 
+> We have seen no indication of respiratory transmission, and when we have studied this in a controlled environment, as part of our efforts to understand the science of this disease and the way in which it can spread, could potentially spread from an animal,  we've seen very, very poor, uh, respiratory transmission in scientific-- and so we have no indication that that's occurring in the field.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:51:22]
+> 
+> As part of any typical clinical investigation, in addition to the ongoing public health investigation, we would endeavor to figure out what's going on with them, what virus they have, and this has happened throughout this particular outbreak. 
+> 
+> Indeed, it happens in just about every respiratory outbreak, more broadly, not speaking of the Colorado case, because I haven't seen the full complement of testing data, but more broadly what we've seen in this outbreak, given the viruses that are circulating at this time of the year right now, when individuals have had a high index of suspicion for H5, but have eventually tested negative, what they've often had is another very commonly circulating respiratory virus like rhinovirus, which has come up quite a bit. 
+> 
+> Many of those tests would be done at the local clinical level. For example, your regular doctor's office can test for a lot of these common respiratory viruses and those data would not be regularly reported to CDC, but it may be something that local health officials or local conditions may have. 
+> 
+> But the short answer to your question is, yes, it's not just a simple binary. Do you have H5? And if not, then godspeed.
+> 
+> This is clinical care in addition to public health care and as a clinical matter, it's important to try to figure out what's going on because there indeed may be other treatments that are available.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:53:30]
+> 
+> It's not that mathematical. It's a number of factors that we are weighing on a series of essentially sliding scales. 
+> 
+> And so the factors in general involve changes to the virus, and changes to the way in which the virus exerts potential human disease. 
+> 
+> So for example, if we were to see significant changes in the ability of the virus to transmit from person to person, that would go in one direction. 
+> 
+> Another factor that we keep a close eye on going back to the earlier discussion is the severity of illness that the virus causes indeed because influenza vaccines in particular are really well suited to reduce severe illness, changes that suggest that for example, hospitalization rates were starting to increase because of H5 infection would move us in one direction. 
+> 
+> I want to stress that, for example, right now, in the cases that we've seen in the recent outbreak, both in bovines, associated with bovines, and associated with poultry, there have been no hospitalizations. 
+> 
+> And then finally, if we were to see genetic changes to the virus that may suggest a decreased susceptibility to medications like Tamiflu, that would take us in one direction. 
+> 
+> So as you can see, we're always weighing these factors and discussing how they land.
+> 
+> I do want to stress that these discussions are ongoing. We talk about this quite a bit. And that's what the American public should expect of a response that's fundamentally one that's rooted in science.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:56:14]
+> 
+> USDA is very interested in helping to facilitate the development of a vaccine. 
+> 
+> And we welcome, both the submissions from the research community, as well as from the commercial marketplace, in helping to develop a vaccine that is effective, that will help us to arrest the spread of this disease within the national herd.
+> 
+> ...
+> 
+> Nirav Shah, CDC [01:01:13]
+> 
+> It was not a hundred percent of people who had respiratory symptoms. About 70. 
+> 
+> Julie, we'll follow up with you with the exact data, but it was not a hundred percent.
+> 
+> ...
+> 
+> Nirav Shah, CDC [01:02:32]
+> 
+> Not a hundred percent of the individuals in Colorado had respiratory symptoms, not 100% of the individuals in Colorado had eye symptoms, either. 
+> 
+> It was only about 73% of the individuals in Colorado who had eye symptoms. 
+> 
+> So not uniformly respiratory, not uniformly eye related.
+
 ## BD executive at CDC testing laboratories call
 
 - **Source:** webinar
