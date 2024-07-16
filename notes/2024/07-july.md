@@ -9,6 +9,26 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 16, 2024
+
+## Colorado health department on H5N1 testing of symptomatic workers
+
+- **Source:** emailed statement
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson Annemarie Harper
+- **Date:** received July 16, 2024
+
+> Yesterday (July 15), the Colorado Department of Public Health and Environment distributed post-exposure prophylaxis (PEP) antiviral medication to more than 150 workers who had potential exposure to infected poultry at a commercial egg layer operation in Weld County. 
+> 
+> On Thursday, July 11, CDPHE mobilized a team to test seven symptomatic workers at the facility who had been exposed to infected poultry. On Friday, July 12, a larger team returned to the farm and tested an additional 46 symptomatic workers.
+> 
+> The testing process is as follows — CDPHE’s State Public Health Laboratory does initial testing and declares presumptive positives, then sends the sample to Centers for Disease Control and Prevention. There it is re-tested and confirmed as positive. To date, we have had four cases confirmed, and we have one outstanding presumptive positive awaiting CDC confirmation. We are continuing to test symptomatic workers as needed, including 16 symptomatic workers who were tested yesterday. The State Lab will run the samples, per the process described above. 
+> 
+> All of the workers who had been exposed to infected poultry and were symptomatic reported mild symptoms. They were instructed to isolate and offered Tamiflu. They are currently being monitored. CDPHE continues to follow CDC guidance, which is to test and provide antiviral treatment to anyone who reports symptoms and has recent exposure to infected animals. 
+> 
+> CDC continues to state that the risk to the general public is low. So far, we have not seen evidence of person-to-person transmission. However, as our response is ongoing, we continue to monitor for genetic variations in the virus and changes in transmission patterns. 
+> 
+> The State Emergency Operations Center, CDPHE, CDC, USDA, and the Colorado Department of Agriculture are working with the facility to assess use of personal protective equipment. We are working with the facility to come up with sustainable recommendations for their workforce during these summer months.
+
 # July 15, 2024
 
 ## ASPR spokesperson on H5 vaccines
