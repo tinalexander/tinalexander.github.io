@@ -445,6 +445,14 @@ permalink: /notes/2024/07
 
 # July 10, 2024
 
+## FOIA request to FDA about CSL Seqirus facility in North Carolina
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received July 10, 2024
+
+> [2024-07-10_fda_foia-2024-6002-seqirus-holly-springs.pdf](https://tinalexander.github.io/notes/attachments/2024-07-10_fda_foia-2024-6002-seqirus-holly-springs.pdf)
+
 ## CDC official on dengue risk at vector borne diseases webinar
 
 - **Source:** webinar
