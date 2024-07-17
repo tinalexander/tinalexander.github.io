@@ -9,6 +9,16 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 17, 2024
+
+## Iowa health department on Diamond Shruumz 
+
+- **Source:** emailed statement
+- **Attribution:** Iowa Department of Health and Human Services spokesperson Alex Murphy
+- **Date:** received July 17, 2024
+
+> The total number of cases identified in Iowa so far are 3; none of these cases are children.
+
 # July 16, 2024
 
 ## HHS and USDA press briefing on Colorado bird flu outbreak
