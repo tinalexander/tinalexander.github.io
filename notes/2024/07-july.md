@@ -283,7 +283,7 @@ permalink: /notes/2024/07
 
 > Chris Beddard, BD [00:27:38]
 > 
-> We initially expected this to be temporary in nature, but after working with the vendor and doing some additional investigation analysis, we determine that the issues were more complex, and limit our ability to supply blood culture vials to meet our global demand. 
+> We initially expected this to be temporary in nature, but after working with the vendor and doing some additional investigation analysis, we determined that the issues were more complex, and limit our ability to supply blood culture vials to meet our global demand. 
 > 
 > We have been working very closely with the supplier and we have actions in place to improve production and output. We anticipate that to support us through the next two months as we move forward through the summer. 
 > 
