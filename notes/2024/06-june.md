@@ -936,6 +936,14 @@ permalink: /notes/2024/06
 
 # June 17, 2024
 
+## State Department FOIA request about China COVID-19 testing requirement
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** State Department
+- **Date:** received June 17, 2024
+
+> [2024-06-17_cdc_state_foia-r-2024-00041.pdf](https://tinalexander.github.io/notes/attachments/2024-06-17_cdc_state_foia-r-2024-00041.pdf)
+
 ## CDC laboratory call on H5N1 testing
 
 - **Source:** conference call
