@@ -11,6 +11,16 @@ permalink: /notes/2024/07
 
 # July 17, 2024
 
+## NACS spokesperson on Diamond Shruumz awareness
+
+- **Source:** email
+- **Attribution:** National Association of Convenience Stores spokesperson Jeff Lenard
+- **Date:** received July 17, 2024
+
+> Here is a notice that we developed shared with members on June 28 to make them aware of FDA’s announcement. As an association, we don’t track who might be selling any specific product.
+> 
+> FDA Issues Alert for Diamond Shruumz Products After Illnesses Reported | NACS (convenience.org)
+
 ## FOIA request to FDA for Form 483 issued to Belcher Pharmaceuticals
 
 - **Source:** Freedom of Information Act request
