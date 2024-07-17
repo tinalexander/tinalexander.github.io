@@ -11,6 +11,16 @@ permalink: /notes/2024/07
 
 # July 17, 2024
 
+## FOIA request to FDA for Form 483 issued to Belcher Pharmaceuticals
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received July 17, 2024
+
+> [2024-07-17_fda_foia-2024-6213_belcher-2022-11-04.pdf](https://tinalexander.github.io/notes/attachments/2024-07-17_fda_foia-2024-6213_belcher-2022-11-04.pdf) 
+> 
+> [2024-07-17_fda_foia-2024-6213_belcher-2021-11-15.pdf](https://tinalexander.github.io/notes/attachments/2024-07-17_fda_foia-2024-6213_belcher-2021-11-15.pdf)
+
 ## Iowa health department on Diamond Shruumz 
 
 - **Source:** emailed statement
