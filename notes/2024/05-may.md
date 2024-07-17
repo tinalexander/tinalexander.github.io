@@ -1300,6 +1300,16 @@ permalink: /notes/2024/05
 
 # May 3, 2024
 
+## FOIA request from California's health department about COVID-19 isolation guidance
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** California Department of Public Health
+- **Date:** received May 3, 2024
+
+> [2024-05-03_cdc_cdph_public-records-act-021033-021624_part2.pdf](https://tinalexander.github.io/notes/attachments/2024-05-03_cdc_cdph_public-records-act-021033-021624_part2.pdf.pdf)
+> 
+> [https://tinalexander.github.io/notes/attachments/2024-05-03_cdc_cdph_public-records-act-021033-021624_part1.pdf](https://tinalexander.github.io/notes/attachments/2024-05-03_cdc_cdph_public-records-act-021033-021624_part1.pdf)
+
 ## FOIA request from CDC about COVID-19 isolation guidance
 
 - **Source:** Freedom of Information Act request
@@ -1317,6 +1327,14 @@ permalink: /notes/2024/05
 > The dairy worker came to one of DSHS’s field offices to get tested and did not disclose the name of their workplace.
 
 # May 2, 2024
+
+## CDC FOIA request about agency priorities from Mandy Cohen
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Centers for Disease Control and Prevention
+- **Date:** received May 2, 2024
+
+> [2024-05-02_cdc_foia_24-00680-ocr.pdf](https://tinalexander.github.io/notes/attachments/2024-05-02_cdc_foia_24-00680-ocr.pdf)
 
 ## USDA spokesperson on sampling of ground beef for H5N1
 
