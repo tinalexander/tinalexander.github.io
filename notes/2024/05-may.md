@@ -1300,6 +1300,14 @@ permalink: /notes/2024/05
 
 # May 3, 2024
 
+## FOIA request from CDC about COVID-19 isolation guidance
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Centers for Disease Control and Prevention
+- **Date:** received May 3, 2024
+
+> [2024-05-03_cdc_foia_2024-00681.pdf](https://tinalexander.github.io/notes/attachments/2024-05-03_cdc_foia_2024-00681.pdf)
+
 ## Texas health department spokesperson on inability to access dairy farm with H5N1
 
 - **Source:** email
