@@ -43,6 +43,14 @@ permalink: /notes/2024/05
 
 # May 30, 2024
 
+## FOIA request to CDC about Epi-X on H5N1 in Texas
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Centers for Disease Control and Prevention
+- **Date:** received May 30, 2024
+
+> [2024-05-30_cdc_foia-24-01067.pdf](https://tinalexander.github.io/notes/attachments/2024-05-30_cdc_foia-24-01067.pdf)
+
 ## Texas spokesperson on apricot seeds poisoning
 
 - **Source:** emailed statement
@@ -202,6 +210,16 @@ permalink: /notes/2024/05
 > Sequencing efforts are ongoing at USDA’s National Veterinary Services Laboratory in Ames.
 
 # May 21, 2024
+
+## FDA FOIA request about Hospira Zagreb and SGS Lab Simon
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received May 21, 2024
+
+> [2024-05-21_fda_foia-21005744_enc2_320.pdf](https://tinalexander.github.io/notes/attachments/2024-05-21_fda_foia-21005744_enc2_320.pdf)
+>
+> [2024-05-21_fda_foia-21005744_enc1_320.pdf](https://tinalexander.github.io/notes/attachments/2024-05-21_fda_foia-21005744_enc1_320.pdf)
 
 ## NEJM interview with Jeanne Marrazzo about avian influenza
 
@@ -560,6 +578,34 @@ permalink: /notes/2024/05
 > The TAHC is unable to share specific case related information to protect the privacy of owners and producers. Overall, this case reflects that there is still virus present in the environment, detected in milk through ongoing testing efforts. The testing timeline was only slightly more lengthy than typical for these types of cases, and would not necessarily reflect “bottlenecking at the lab” or other related issues.
 
 # May 13, 2024
+
+## FOIA request from FDA about Nestle bottled water from Perrier
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received May 13, 2024
+
+> [2024-05-13_fda_foia_2024-2510encl1.pdf](https://tinalexander.github.io/notes/attachments/2024-05-13_fda_foia_2024-2510encl1.pdf)
+
+## FOIA request from FDA about WanaBana investigation
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received May 13, 2024
+
+> [2024-05-13_fda_foia_2024-1767encl1.pdf](https://tinalexander.github.io/notes/attachments/2024-05-13_fda_foia_2024-1767encl1.pdf)
+
+## FOIA request from FDA about Abbott Laboratories inspection and reports
+
+- **Source:** Freedom of Information Act request
+- **Attribution:** Food and Drug Administration
+- **Date:** received May 13, 2024
+
+> [2024-05-13_fda_foia_2024-1227encl2.pdf](https://tinalexander.github.io/notes/attachments/2024-05-13_fda_foia_2024-1227encl2.pdf)
+> 
+> [2024-05-13_fda_foia_2023-8757encl4.pdf](https://tinalexander.github.io/notes/attachments/2024-05-13_fda_foia_2023-8757encl4.pdf)
+> 
+> [2024-05-13_fda_foia_2022-3666encl1.pdf](https://tinalexander.github.io/notes/attachments/2024-05-13_fda_foia_2022-3666encl1.pdf)
 
 ## USDA spokesperson on testing for H5N1 in cows
 
