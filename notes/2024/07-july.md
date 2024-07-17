@@ -19,7 +19,7 @@ permalink: /notes/2024/07
 
 > Here is a notice that we developed shared with members on June 28 to make them aware of FDA’s announcement. As an association, we don’t track who might be selling any specific product.
 > 
-> FDA Issues Alert for Diamond Shruumz Products After Illnesses Reported | NACS (convenience.org)
+> FDA Issues Alert for Diamond Shruumz Products After Illnesses Reported NACS (convenience.org)
 
 ## FOIA request to FDA for Form 483 issued to Belcher Pharmaceuticals
 
@@ -55,11 +55,13 @@ permalink: /notes/2024/07
 > 
 > ...
 > 
-> Nirav Shah, CDC [00:07:45]
+> Nirav Shah, CDC [00:09:42]
 > 
-> CDC's assessment of the risk to the general population remains low, and CDC has not changed its recommendations. 
+> Our preliminary analysis of the genetic sequence of the virus recovered from a patient from this poultry farm is reassuring, largely because it does not show concerning changes of the sort that I noted earlier. 
 > 
-> For example, CDC is not recommending H5 specific vaccines for livestock workers given the mild symptoms that have been noted thus far, and the absence of any changes to the virus's genetic makeup that would suggest that the risk to human health is increased. 
+> The sequence is very closely related to two sequences from infected chickens from the farm where the worker was likely exposed. And in addition to that, one of the virus's subunits was 100% identical to the Texas and the first human case from Michigan.
+> 
+> In addition, our analysis has not revealed any genetic changes to the virus that erode the effectiveness of medicines like Tamiflu. 
 > 
 > ...
 > 
