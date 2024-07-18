@@ -15,7 +15,7 @@ permalink: /notes/2024/07
 
 - **Source:** emailed statement
 - **Attribution:** Colorado Department of Agriculture spokesperson Olga Robak
-- **Date:** received July 18, 2024
+- **Date:** received July 17, 2024
 
 > Weld11 housed 1,790,800 chickens, all of which need to be depopulated to meet USDA requirements. 
 > 
