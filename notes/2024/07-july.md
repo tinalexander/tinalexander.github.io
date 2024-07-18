@@ -11,6 +11,14 @@ permalink: /notes/2024/07
 
 # July 18, 2024
 
+## FDA spokesperson on testing more Diamond Shruumz products
+
+- **Source:** email
+- **Attribution:** Food and Drug Administration spokesperson Courtney Rhodes
+- **Date:** received July 18, 2024
+
+> To answer your question, the FDA has initiated sample collection and analysis and more information will be provided in our advisory as it becomes available.
+
 ## Colorado agriculture department on Weld 11
 
 - **Source:** emailed statement
