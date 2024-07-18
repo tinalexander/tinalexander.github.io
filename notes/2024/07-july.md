@@ -9,6 +9,20 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 18, 2024
+
+## Colorado agriculture department on Weld 11
+
+- **Source:** emailed statement
+- **Attribution:** Colorado Department of Agriculture spokesperson Olga Robak
+- **Date:** received July 18, 2024
+
+> Weld11 housed 1,790,800 chickens, all of which need to be depopulated to meet USDA requirements. 
+> 
+> We received confirmation from USDA that this strain of HPAI is connected to the genotype circulating in dairy cattle. We don’t yet know how the transmission event occurred. We are requesting epidemiology support from USDA to determine if we can identify the mechanism of transmission
+> 
+> Yes, the workers who tested positive were responding to the avian flu outbreak at a commercial egg layer operation (Weld11).
+
 # July 17, 2024
 
 ## NACS spokesperson on Diamond Shruumz awareness
