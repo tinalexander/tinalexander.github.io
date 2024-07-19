@@ -11,7 +11,7 @@ permalink: /notes/2024/07
 
 # July 19, 2024
 
-## ASPR spokesperson on Becerra's bird flu declaration
+## HHS spokesperson on Becerra's bird flu declaration
 
 - **Source:** emailed statement
 - **Attribution:** Health and Human Services spokesperson
