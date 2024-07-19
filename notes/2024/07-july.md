@@ -9,6 +9,22 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 19, 2024
+
+## Colordao health department on update about bird flu testing
+
+- **Source:** email
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson AnneMarie Harper
+- **Date:** received July 19, 2024
+
+> **Just wanted to check in to see if you have updated figures to share on the number of people tested and positive? **
+> 
+> At this time, we have no updates regarding test results.
+> 
+> **Also specifically interested if any have been tested who were contacts, but not workers.**
+> 
+> CDPHE offers testing to anyone who has symptoms of avian flu and was exposed to infected or potentially infected animals or humans. We continue to test symptomatic workers as needed.
+
 # July 18, 2024
 
 ## FDA spokesperson on testing more Diamond Shruumz products
