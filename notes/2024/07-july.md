@@ -17,7 +17,7 @@ permalink: /notes/2024/07
 - **Attribution:** Colorado Department of Public Health and Environment spokesperson AnneMarie Harper
 - **Date:** received July 19, 2024
 
-> **Just wanted to check in to see if you have updated figures to share on the number of people tested and positive? **
+> **Just wanted to check in to see if you have updated figures to share on the number of people tested and positive?**
 > 
 > At this time, we have no updates regarding test results.
 > 
