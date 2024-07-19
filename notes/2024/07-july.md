@@ -11,6 +11,14 @@ permalink: /notes/2024/07
 
 # July 19, 2024
 
+## HHS spokesperson on Crowdstrike outage
+
+- **Source:** emailed statement
+- **Attribution:** Health and Human Services spokesperson
+- **Date:** received July 19, 2024
+
+> The U.S. Department of Health and Human Services, in coordination with federal, state, local, and private sector partners, is working to assess the impact of the Crowdstrike outage on patient care and HHS systems, services, and operations.
+
 ## HHS spokesperson on Becerra's bird flu declaration
 
 - **Source:** emailed statement
