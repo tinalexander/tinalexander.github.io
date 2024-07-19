@@ -23,7 +23,7 @@ permalink: /notes/2024/07
 > 
 > This amendment to the 2013 determination is being done as a part of HHS’ preparedness efforts and no changes have been made in the avian flu public health risk determination.
 
-## Colordao health department on update about bird flu testing
+## Colorado health department on update about bird flu testing
 
 - **Source:** email
 - **Attribution:** Colorado Department of Public Health and Environment spokesperson AnneMarie Harper
