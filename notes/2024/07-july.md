@@ -11,6 +11,18 @@ permalink: /notes/2024/07
 
 # July 19, 2024
 
+## ASPR spokesperson on Becerra's bird flu declaration
+
+- **Source:** emailed statement
+- **Attribution:** Health and Human Services spokesperson
+- **Date:** received July 19, 2024
+
+> HHS Secretary Xavier Becerra has amended the April 19, 2013, Determination of a Significant Potential for a Public Health Emergency pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act for Avian Influenza A.
+> 
+> The 2013 determination has been amended to include additional influenza type A strains that have the potential to cause a pandemic.
+> 
+> This amendment to the 2013 determination is being done as a part of HHS’ preparedness efforts and no changes have been made in the avian flu public health risk determination.
+
 ## Colordao health department on update about bird flu testing
 
 - **Source:** email
