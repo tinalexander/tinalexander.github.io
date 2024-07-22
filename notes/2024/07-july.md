@@ -11,6 +11,18 @@ permalink: /notes/2024/07
 
 # July 22, 2024
 
+## CDC spokesperson on SARS-CoV-2 wastewater surge
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Kristen Nordlund
+- **Date:** received July 19, 2024
+
+> CDC's wastewater team has confirmed that the rise in Wastewater Viral Activity Levels (WVAL) is genuine and not a result of the baseline recalculation. There is a slight increase in WVAL due to the recalculated baseline, along with a corresponding small increase in historical values; however, the sites did not go from low to high "overnight". The WVAL has been steadily increasing since mid-May. The July 4th holiday caused a delay in data reporting at many sites, so when this data was reported the following week, it may have created an impression of a sudden surge when it had been rising all along. 
+> 
+> Nationally, wastewater data has been showing increasing SARS-CoV-2 wastewater viral activity levels for the past few weeks. This week, the national level is high, but remains lower than the peak from this past winter respiratory season. Regionally, SARS-CoV-2 wastewater viral activity levels are highest in the West. 
+> 
+> CDC recommends that everyone take steps to protect themselves and others from COVID-19. It’s important to stay up to date with COVID-19 vaccines. CDC recommends everyone ages 6 months and older get an updated COVID-19 vaccine to protect against serious illness. Additionally, practice good hygiene by covering your coughs and sneezes, washing or sanitizing your hands often, and cleaning frequently touched surfaces. Also reduce the risk of germ spread by improving air quality. It helps to increase airflow by opening windows to bring in fresh outside air, purifying indoor air, or opting to gather outdoors.
+
 ## Colorado health department spokesperson on Tamiflu
 
 - **Source:** email
