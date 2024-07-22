@@ -9,6 +9,18 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 22, 2024
+
+## Colorado health department spokesperson on Tamiflu
+
+- **Source:** email
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson Kristin Richmann
+- **Date:** received July 22, 2024
+
+> **Were the two new Colorado bird flu cases among the workers who had been previously offered post-exposure prophylaxis with Tamiflu?**
+> 
+> They were recommended to isolate and offered Tamiflu at the time they were tested.
+
 # July 19, 2024
 
 ## HHS spokesperson on Crowdstrike outage
