@@ -11,6 +11,20 @@ permalink: /notes/2024/07
 
 # July 22, 2024
 
+## HHS spokesperson on alcohol guidelines
+
+- **Source:** emailed statement
+- **Attribution:** Health and Human Services spokesperson
+- **Date:** received July 22, 2024
+
+> Q: Regarding the ICCPUD and NASEM reviews of alcoholic beverages (https://www.dietaryguidelines.gov/alcohol/info#what-stage-is-the-process-in-now-), does DGA expect to publicly share and interpret the findings? If so, will that occur in December at a DGA meeting, or at another meeting or venue?
+> 
+> The scientific reviews on adult alcohol consumption and health are being conducted by a Department of Health and Human Services (HHS) Committee and the National Academies of Sciences, Engineering and Medicine (NASEM) working on complementary tracks. Both projects will include opportunities for public participation and will include external scientific peer review. These efforts are under way and slated to be completed by the end of December 2024. Each will result in a report with findings, not recommendations on alcohol consumption. These findings will be considered by HHS and USDA as the Departments develop the next edition of the Dietary Guidelines.
+> 
+> Q: I also saw the timeline on this page (https://www.stopalcoholabuse.gov/research-resources/alcohol-intake-health.aspx) but it wasn't clear to me when "DGA scientific report" will be published this fall and how it will relate to the findings in NASEM/ICCPUD.
+> 
+> A: The 2025 Dietary Guidelines Advisory Committee’s Scientific Report will be released later this year. The Committee’s report will provide the review of the current state of nutrition science and includes independent, evidence-based advice for HHS and USDA to consider as the Departments develop the next edition of the Dietary Guidelines. This report will be separate from the reports summarizing the findings of the ICCPUD and NASEM reviews of the evidence on alcohol. All will be considered by HHS and USDA as the two departments develop the Dietary Guidelines for Americans, 2025-2030.
+
 ## CDC spokesperson on SARS-CoV-2 wastewater surge
 
 - **Source:** emailed statement
