@@ -11,6 +11,36 @@ permalink: /notes/2024/07
 
 # July 23, 2024
 
+## CDC official at House hearing on agency priorities
+
+- **Source:** [hearing](https://www.youtube.com/watch?v=XANYiQ_J4-w)
+- **Attribution:** hosted by the House Committee on Energy and Commerce
+- **Date:** occurred July 23, 2024
+
+> DEMETRE DASKALAKIS, CDC [14:05:13]
+> 
+> Thank you for the question. I'll start by saying that it's the sort of quality systems that grew from the experiences in COVID that actually were able to detect an issue of manufacturing issue with the test.
+> 
+> Very importantly, the test, with its manufacturing issue, does not have any propensity towards false negatives or false positives, and in close collaboration with the FDA, we know that the tests that are out in the world are actually very usable to be able to detect avian influenza.
+> 
+> So I'll just go back and say, really, the quality systems that grew from the experience in COVID identified the issue.
+> And we have-- we are resolving the issue. And like, I said, the kits that are out there--
+> 
+> REP BRETT GUTHRIE
+> 
+> Can you share what the issue is?
+> 
+> DEMETRE DASKALAKIS, CDC
+> 
+> Sure. There are three components to the assay and two of the components work normally, and one of the components sometimes would result in an inconclusive test.
+> 
+> Any inconclusive test, or positive test, on those kits then come back to CDC for detect-- for confirmation. So this very rare issue was identified through the quality systems that we've developed.
+> 
+> And all of the tests that happened in the field were ultimately again checked at CDC and confirmed.
+> So that manufacturing issue is being resolved. We're replacing that component in the kit.
+> 
+> And again, those tests that are in the field are 100% usable and not prone to false negatives or false positives.
+
 ## Colorado's health department on new H5N1 case
 
 - **Source:** email
