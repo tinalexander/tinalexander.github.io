@@ -9,6 +9,18 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 23, 2024
+
+## Colorado's health department on new H5N1 case
+
+- **Source:** email
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson Kristin Richmann
+- **Date:** received July 22, 2024
+
+> Regarding the new case at the second poultry farm, are you able to confirm what symptoms they had?
+> 
+> Saturday’s presumptive positive case had conjunctivitis.
+
 # July 22, 2024
 
 ## HHS spokesperson on alcohol guidelines
