@@ -17,77 +17,111 @@ permalink: /notes/2024/07
 - **Attribution:** hosted by the National Association of County and City Health Officials
 - **Date:** occurred July 29, 2024
 
-Alexis Burakoff, CDPHE [00:00:23]
-
-Since late April, nearly half of Colorado's dairy farms have been affected by highly pathogenic avian influenza H5N1. 
-
-We've had one confirmed human case in a dairy worker, which was reported in early July. And we continue to see farms affected and have heard reports of previously symptomatic workers, but have not had any additional human illnesses associated with dairy farms confirmed as of today.
-
-Colorado's dairy industry and much of our agricultural industry is in the rural northeastern part of the state. 
-
-And on July 8th of poultry farm in northeastern Colorado was confirmed to have HPAI, which was subsequently found to be the bovine strain 3.13.
-
-On Thursday, July 11th, late in the morning, we learned that there were workers at the facility who had been exposed to infected poultry and were symptomatic. So we mobilized a team already in the field early that afternoon and tested seven symptomatic workers. 
-
-While on site, the symptomatic workers were offered Tamiflu. However, additional symptomatic workers were reported that we did not have capacity to test during that visit. 
-
-So on Friday, July 12th, the next day, a larger team returned to the farm and tested more than 40 additional symptomatic workers. The symptomatic workers were again offered Tamiflu, and we also supplied the facility with additional PPE, including goggles. 
-
-The most common symptom reported by workers on both days was red, tearing, and irritated eyes, but some workers also reported feeling feverish. Other symptoms reported included, nausea, headaches, sore throat, cough, congestion, and muscle aches. 
-
-But it's important to note that it had regularly been over 100 degrees in northeastern Colorado in the weeks before this event and around this time, and that may have contributed to worker symptoms and may have also impacted PPE use.
-
-...
-
-Alexis Burakoff, CDPHE [00:02:04]
-
-Public health, continued to visit the farm throughout depopulation and disposal to offer testing and distribute Tamiflu. 
-
-Ultimately Tamiflu is offered to all workers due to the high number of people reporting symptoms and the detection of those initial cases. 
-
-A total of six cases of H5N1 were confirmed in workers participating in depopulation at this site. Thankfully all had mild illness and none were hospitalized. 
-
-...
-
-Alexis Burakoff, CDPHE [00:02:57]
-
-On July 16th, a second poultry facility was confirmed.
-
-Public health sent teams to conduct screening of workers at this facility as well, and to test and provide Tamiflu when indicated.
-
-To date, three human cases of H5N1 have been confirmed associated with depopulation activities at this facility.
-
-Notably, the number of symptomatic people reported was lower at this facility, the second premises, and the decision was made not to offer post exposure prophylaxis or PEP widely, although Tamiflu was distributed to all symptomatic people during screening activities. 
-
-Again, in this case, all three cases reported conjunctivitis, in this case, without any other symptoms. 
-
-...
-
-Alexis Burakoff, CDPHE [00:03:37]
-
-Overall, as of July 25th, we have reported 10 confirmed human cases: that one associated with dairy and nine with poultry depopulation in 2024. And we have tested approximately 118 individuals since May of this year. 
-
-As I mentioned, all illness has been mild and all cases have had direct contact with infected cows or chickens. So there has been no evidence of person to person transmission at this time.
-
-Depopulation and disposal activities have finished at the two poultry facilities associated with human cases, but workers are still in the 10 day monitoring period after exposure.
-
-...
-
-Alexis Burakoff, CDPHE [00:04:25]
-
-We've also seen a number of cats testing positive for H5N1 in the same region of Colorado, and continue to follow up with their household contacts as well. 
-
-...
-
-Question [00:09:02]
-
-What are you recommending to pet owners in Colorado who allow their pets to roam freely, particularly in these areas?
-
-Alexis Burakoff, CDPHE [00:09:11]
-
-So I think our public messaging on the cat piece and the messaging to veterinarians is still underway. But I can absolutely circle back with our public health state vet and see if we have any examples that are shareable. 
-
-If not now, then I imagine we will soon.
+> Sonja Olsen, CDC [00:09:08]
+> 
+> So, although the focus is most heavily on the workers who are exposed to known infected birds or cattle, we also look at closely at these other systems to make sure that there's nothing, no other indicators, that would indicate that something is going on. 
+> 
+> So for example, as part of our routine public health laboratory monitoring, over 36,000 specimens have been tested since March using a protocol that would've detected H5N1 or other novel flu viruses, and no cases have been detected through that testing. 
+> 
+> So we've been in a position where since this outbreak started, we were sort of at the tail end of seasonal flu and going into the summer months when it's lower. 
+> 
+> And so it's been relatively easy, I think easier, I should say, to look at the indicators of national flu activity, which will change obviously, as we start to ramp up in the fall for more respiratory viruses, be it seasonal flu, or other viruses. 
+> 
+> ...
+> 
+> Sonja Olsen, CDC [00:12:01]
+> 
+> So we recently worked with Michigan to conduct a seroprevalence study, and our role was to help just provide technical assistance, but Michigan was leading this, so they took several dairy farms and enrolled people, 35 people on these farms. 
+> 
+> And these are people that were from a number of different counties, worked on these farms, and worked with sick cows. 
+> 
+> Most of them worked with sick cows directly and about half or fewer than half had reported using masks or goggles. 
+> 
+> And then we take the-- so they filled out a questionnaire and then took specimens and tested them for antibodies against H5N1, this specific clade 2.3.4.4b virus, as well as seasonal influenza viruses. And so what we found is that none of these participants showed neutralizing antibodies that were specific to H5N1 virus. 
+> 
+> And these are data, as I said, that are consistent with what we know about this virus in seroprevalence studies that even among workers with exposure, seropositivity is low. 
+> 
+> So, and I'll just say that we also tested them for seasonal virus and did find antibodies, which you would expect. 
+> 
+> So these findings suggest that asymptomatic infection and people is not occurring and provide support to the current testing approach that we collect specimens or recommend collecting specimens from people who are ill and have been exposed to animals-- to sick animals. 
+> 
+> Now keep in mind, this is a small study in a single state, so it's good to get additional data, and Michigan's collecting more data. And I think some other states are going to as well. 
+> 
+> But these are the type of type of data and type of information that are critical to continue to gather during the course of this response.
+> 
+> ...
+> 
+> Alexis Burakoff, CDPHE [00:00:23]
+> 
+> Since late April, nearly half of Colorado's dairy farms have been affected by highly pathogenic avian influenza H5N1. 
+> 
+> We've had one confirmed human case in a dairy worker, which was reported in early July. And we continue to see farms affected and have heard reports of previously symptomatic workers, but have not had any additional human illnesses associated with dairy farms confirmed as of today.
+> 
+> Colorado's dairy industry and much of our agricultural industry is in the rural northeastern part of the state. 
+> 
+> And on July 8th of poultry farm in northeastern Colorado was confirmed to have HPAI, which was subsequently found to be the bovine strain 3.13.
+> 
+> On Thursday, July 11th, late in the morning, we learned that there were workers at the facility who had been exposed to infected poultry and were symptomatic. So we mobilized a team already in the field early that afternoon and tested seven symptomatic workers. 
+> 
+> While on site, the symptomatic workers were offered Tamiflu. However, additional symptomatic workers were reported that we did not have capacity to test during that visit. 
+> 
+> So on Friday, July 12th, the next day, a larger team returned to the farm and tested more than 40 additional symptomatic workers. The symptomatic workers were again offered Tamiflu, and we also supplied the facility with additional PPE, including goggles. 
+> 
+> The most common symptom reported by workers on both days was red, tearing, and irritated eyes, but some workers also reported feeling feverish. Other symptoms reported included, nausea, headaches, sore throat, cough, congestion, and muscle aches. 
+> 
+> But it's important to note that it had regularly been over 100 degrees in northeastern Colorado in the weeks before this event and around this time, and that may have contributed to worker symptoms and may have also impacted PPE use.
+> 
+> ...
+> 
+> Alexis Burakoff, CDPHE [00:02:04]
+> 
+> Public health, continued to visit the farm throughout depopulation and disposal to offer testing and distribute Tamiflu. 
+> 
+> Ultimately Tamiflu is offered to all workers due to the high number of people reporting symptoms and the detection of those initial cases. 
+> 
+> A total of six cases of H5N1 were confirmed in workers participating in depopulation at this site. Thankfully all had mild illness and none were hospitalized. 
+> 
+> ...
+> 
+> Alexis Burakoff, CDPHE [00:02:57]
+> 
+> On July 16th, a second poultry facility was confirmed.
+> 
+> Public health sent teams to conduct screening of workers at this facility as well, and to test and provide Tamiflu when indicated.
+> 
+> To date, three human cases of H5N1 have been confirmed associated with depopulation activities at this facility.
+> 
+> Notably, the number of symptomatic people reported was lower at this facility, the second premises, and the decision was made not to offer post exposure prophylaxis or PEP widely, although Tamiflu was distributed to all symptomatic people during screening activities. 
+> 
+> Again, in this case, all three cases reported conjunctivitis, in this case, without any other symptoms. 
+> 
+> ...
+> 
+> Alexis Burakoff, CDPHE [00:03:37]
+> 
+> Overall, as of July 25th, we have reported 10 confirmed human cases: that one associated with dairy and nine with poultry depopulation in 2024. And we have tested approximately 118 individuals since May of this year. 
+> 
+> As I mentioned, all illness has been mild and all cases have had direct contact with infected cows or chickens. So there has been no evidence of person to person transmission at this time.
+> 
+> Depopulation and disposal activities have finished at the two poultry facilities associated with human cases, but workers are still in the 10 day monitoring period after exposure.
+> 
+> ...
+> 
+> Alexis Burakoff, CDPHE [00:04:25]
+> 
+> We've also seen a number of cats testing positive for H5N1 in the same region of Colorado, and continue to follow up with their household contacts as well. 
+> 
+> ...
+> 
+> Question [00:09:02]
+> 
+> What are you recommending to pet owners in Colorado who allow their pets to roam freely, particularly in these areas?
+> 
+> Alexis Burakoff, CDPHE [00:09:11]
+> 
+> So I think our public messaging on the cat piece and the messaging to veterinarians is still underway. But I can absolutely circle back with our public health state vet and see if we have any examples that are shareable. 
+> 
+> If not now, then I imagine we will soon.
 
 # July 23, 2024
 
