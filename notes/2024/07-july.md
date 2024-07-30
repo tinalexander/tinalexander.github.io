@@ -9,6 +9,286 @@ permalink: /notes/2024/07
 
 <br>
 
+# July 30, 2024
+
+## CDC and USDA officials on H5N1 response in poultry and livestock
+
+- **Source:** press conference
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred July 30, 2024
+
+> Nirav Shah, CDC [00:03:27]
+> 
+> First in Colorado, there are a total of nine human cases of H5N1 infection among poultry workers there, all of which have been mild, with conjunctivitis as the predominant symptom. 
+> 
+> This includes three cases that CDC confirmed last week from which the genetic sequences have been uploaded. 
+> 
+> As of right now, there are no tests awaiting confirmation here at CDC, though it's important to note that additional cases are a possibility either from this region of Colorado or from elsewhere in the U.S.. 
+> 
+> These nine infections do not change CDCs assessment of the risk of the general population from H5, which remains low at this time. 
+> 
+> That said these cases highlight that certain groups here, poultry workers who focus on depopulating, are at heightened risk of infection. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:04:22] 
+> 
+> first CDC is announcing a $5 million investment for partner organizations to focus on outreach and education efforts for farm worker health and safety.
+> 
+> Specifically, CDC is allocating $4 million to the National Center for Farm Worker Health, which they will in broad terms use for two goals. 
+> 
+> The first is to partner with community based organizations in impacted states to provide training and information sessions about H5N1, and then second to work with key partners in states to increase access to testing, treatment and PPE, and as we'll talk about in just a moment, the seasonal flu shot.
+> 
+> The relationship with NCFH predates the recent outbreaks of H5 in dairy cattle and serves to expand the breadth and death of NCFH's work across these communities, which takes me to our second announcement. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:05:26]
+> 
+> CDC is investing a separate $5 million for seasonal influenza vaccines for livestock workers for the upcoming respiratory season, seasonal influenza vaccine. 
+> 
+> The goal of this initiative is to protect the health and safety of livestock workers as seasonal respiratory viruses begin to circulate. 
+> 
+> Preventing seasonal influenza in these workers, many of whom are also potentially exposed to H5N1 viruses, may also reduce the risk of new versions of the influenza A virus emerging. 
+> 
+> Now I want to stress once again at the outset that this initiative is for seasonal influenza vaccine, not the H5 specific vaccine. 
+> 
+> The seasonal vaccine is the very same flu shot that each of us takes every fall and winter season. 
+> 
+> And although the seasonal flu vaccine will not prevent infection from H5 avian influenza, the enhanced effort that we are announcing today to reduce seasonal influenza among livestock workers is important for several reasons. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:07:57]
+> 
+> We've seen that livestock workers are at risk for H5 infection because of their exposure to animals. 
+> 
+> They are also at risk for infection with seasonal flu, just like everyone else in the community. 
+> 
+> As such, it's possible that they could be coinfected with both seasonal influenza viruses that they pick up from the community and with H5 virus, which they might pick up from animals.
+> 
+> Such dual infections while rare could potentially result in an exchange of genetic material between the two different influenza viruses seasonal and H5. 
+> 
+> This is a process that's known as reassortment. And in theory, reassortment could lead to a new influenza virus that could pose a significant public health concern, a virus that has the transmissibility of seasonal influenza and the severity of H5N1. 
+> 
+> We want to do everything we can to reduce the risk that the virus may change because of this co-infection and reassortment. 
+> 
+> Widespread seasonal influenza vaccine among livestock workers helps reduce this risk. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:09:24]
+> 
+> It remains the case that there is not a recommendation to use an H5N1 vaccine at this time. 
+> 
+> This is because of the lack of severe illness that we've seen thus far, the absence of person to person transmission, the absence of any changes to the virus and reassuringly, the absence of asymptomatic infection in light of the recent serology results from Michigan, where 35 bovine exposed workers all tested negative for any evidence of antibodies. 
+> 
+> ...
+> 
+> Question [00:19:10]
+> 
+> Why not apply the precautionary principle and at least vaccinate the ones that are really at high risk, like the poultry depopulation group?
+> 
+> Nirav Shah, CDC [00:19:18]
+> 
+> And again, we're not averse to that. There is active discussions going on. There hasn't been a decision to change our recommendation.
+> 
+> To your point about sort of what what's the harm, well one, I don't think we ought to look at introduction of a new vaccine through the lens of why not. 
+> 
+> There has to be a strong and compelling case to do something, particularly since this is a new vaccine where uptake may be unknown, and we also want to make sure we're really using a vaccine that actually achieves the purpose here. 
+> 
+> Given the low rates of infection overall, the mild symptoms, the lack of person to person, I don't think the question is why not do it? I think the question is why do it, given what may in fact be low uptake.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:27:16]
+> 
+> There are a couple things that make Colorado a unique set of circumstances. 
+> 
+> There is a high degree interest from the governor's office, as well as a very say unusual set of circumstances related to the geography of Weld County. 
+> 
+> There are a lot of dairies in Colorado, about 106 of them in the state, and almost all of them are in this one county and they are all in very close proximity to one another. 
+> 
+> And so, there is a lot of sharing of equipment, a lot of sharing of personnel, a lot of movement on and off farms to adjacent farms. 
+> 
+> This is just a quirk of history and geography that's contributed to this unique set of circumstances. 
+> 
+> It is also fact that the state veterinarian, and the producers in the state, have come together in what I'll just say is a remarkable spirit of cooperation and USDA commends everybody who has been working on the ground with both the CDC and USDA epidemiological teams and strike teams in order to help get a better sense of what's happening. 
+> 
+> And, as a result we're seeing a relatively high rate of testing, and getting really good answers, and really good insight, into the pattern of this disease.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:35:18]
+> 
+> We don't have great data on that. 
+> 
+> We've talked to a number of individuals who are very active in the migrant health community who have given us varying data points. 
+> 
+> Some suggest that it may be higher than the general population given that many agriculture and livestock workers come from countries where vaccination is very commonplace, well accepted, and rates are very high. 
+> 
+> And I think the implication of that is that to the extent that livestock workers in the United States have seasonal flu shot rates that are lower than the average population, the reason is access, not reticence. At least that's the theory that we're going on.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:38:49]
+> 
+> The depopulation efforts in the Weld County facilities were successfully completed, and some of those workers have moved on to other sites. 
+> 
+> I would say that we have not changed the recommendations that we have for the use of PPE in workers doing depopulation events, and the PPE recommendations that we have, and this is for caps, face shields, gloves, boots, Tyvex suits, are completely aligned with those recommendations made by CDC for individuals working in similar environments. 
+> 
+> I think perhaps I would actually defer to Dr. Shah on this point, there's a unique set of circumstances in the deep population of one facility in which we saw these human cases could have contributed to perhaps less than perfect adoption of PPE by the workers that were on site. 
+> 
+> And that is not to blame them for any action or inaction. It is just a challenge to wear at all times, in a place in which there is high volume fans moving a lot of air, as well as the type of depopulation exercise that was used here, which was the use of what we call CO2 carts, which not get too far into it, but it involved a lot of direct manipulation of birds as you're picking them up off the floor and placing them into a cart. 
+> 
+> And so it may be a combination of an unusual exposure profile coupled with the unique set of circumstances in these barns that led to an increased rate of detection of human illness. 
+> 
+> However, the recommendations for PPE remain unchanged. 
+> 
+> ...
+> 
+> Unclear, USDA [00:48:11]
+> 
+> We have been looking at the virus very specifically and monitoring it for any changes.
+> 
+> To date, we have not seen any mutations from the first version of B3.13 that we discovered back in November. 
+> 
+> So it has been very stable up to this point.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:49:13]
+> 
+> The circumstances and the timing of the exposures were very similar with one another. That is to say high heat conditions, things of that nature. 
+> 
+> So we are viewing them as part of the almost a contiguous set of infections, given that they occurred around the same time with similar climate conditions.
+> 
+> ...
+> 
+> Question [00:50:01]
+> 
+> I was curious your thoughts on maybe how common we'll see these additional cases and PPE lapses, because, as you know this is not the only heat wave we're probably going to see this year or in the coming years.
+> 
+> Unclear, USDA [00:50:14]
+> 
+> Certainly being on some of these facilities, and I haven't exactly visited either one of the facilities in question here, the heat in the area right now is certainly a concern. And if anyone's worked in PPE at all, they understand the difficulties. 
+> 
+> And certainly you've got to apply a number of sets, take breaks, but still there's a potential for breaks in biosecurity just with the amount of heat that's out there and with the very close work that's being done, along with the type of work.
+> 
+> Whenever we're doing depopulation we're handling those birds individually, of course using the CO2 carts and then in the process of doing cleaning, it does does cause a bit of dust. And certainly you're going to have to be concerned about again, taking those breaks, making sure you're managing your PPE in an appropriate manner, making sure it's intact throughout the day.
+> 
+> But very, very challenging with this time of year. And certainly with the heat as being demonstrated out there where these facilities are located.
+> 
+> Eric Deeble, USDA [00:51:18]
+> 
+> One bit of follow up here is that USDA is working to make PPE available to any producer who requests it through the national veterinary stockpile. 
+> 
+> And many of the states are similarly ensuring that producers and their workers have the PPE that are necessary. 
+> 
+> We have seen an increase in some of those fog free goggles or face shields that sort of work a little bit better for producers in high heat.
+> 
+> ...
+> 
+> Question [00:51:52]
+> 
+> Given the CDC's vaccination program, I'm wondering if this means you think it's no longer realistic to expect that the outbreak will be contained this year?
+> 
+> Eric Deeble, USDA [00:52:12]
+> 
+> Just on the animal side and all that Dr. Nirav speak to the human side, there's a lot about this disease that makes us feel as if we can arrest its progress. 
+> 
+> And we've actually seen some success demonstrated to date.
+> 
+> With this disease, it does not appear to move by respiratory transmission. We know that there are high viral loads in milk, and we've identified through close, collaborative research and epidemiological investigation in a variety of states, that we know this virus moves principally with the movement of cattle between herds and then within herds or within communities through the use of either hard or soft fomites, so this may be milk or contaminated clothing on an individual who's moving between facilities, or the use of hard surfaces like equipment used for feeding animals or milk trucks or other types of vehicles that are moving on and off multiple premises per day. 
+> 
+> Given that we have seen a real increase in awareness of producers and an increase in biosecurity, we believe that we can arrest the spread of this disease and ultimately eradicate it in dairy cattle on the farm. 
+> 
+> You know, we're not seeing reservoir populations of wildlife that may contribute to harbor for this disease. 
+> 
+> So we're still confident based on what we're seeing and the actions that the states and the producers are taking that we can be successful in this way.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:53:59]
+> 
+> I'll stress that no part about this seasonal livestock worker vaccination effort presupposes one way or the other what the viral levels among bovine and poultry may be. 
+> 
+> And particularly in poultry where we've seen it really take hold, there will still be livestock workers who are exposed and at risk. 
+> 
+> So-- but we need not even presuppose one way or the other, what it may be, because what we're doing here is preparedness. 
+> 
+> What we're doing here is planning. We want to be ready. 
+> 
+> I'd rather start planning this effort with states and health departments now, rather than find ourselves in October saying, gosh, you know, we should have probably really thought about offering seasonal vaccine in the summer. 
+> 
+> And so this is, this is just planning and preparedness 101.
+> 
+> ...
+> 
+> Question [00:55:14]
+> 
+> In the states with infected herds, are those farms able to sell their milk to processors?
+> 
+> Eric Deeble, USDA [00:55:27]
+> 
+> Lena, excellent question. the answer is an unequivocal yes.
+> 
+> We know that pasteurization effectively kills this virus and that herds that have cattle in them are selling their milk to processors and processors have been very clear in their signal to producers that they're going to continue to accept this milk because it is safe, and that's really the important part. 
+> 
+> I would make one clarification here: at no point are that are sick allowed to contribute to the human food supply. 
+> 
+> So while there are cows that are actively ill with H5N1, they are removed from the milk string, and their milk is not included in the milk that is shipped to processors for pasteurization and further use. 
+> 
+> ...
+> 
+> Question [00:58:24]
+> 
+> Colorado has mandated testing of bulk milk. What prevents USDA from doing that federally and could it have an executive order or some other mechanism to do that? 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:58:43]
+> 
+> There are a variety of authorities available to USDA, including the issuing of a federal order, which is an action that USDA took early on in the emergence of this disease in dairy cattle in order to limit the spread of a disease, or the movement of an animal interstate, in order to arrest the spread of a disease that's either of risk to animals, the food supply or humans.
+> 
+> There are additional authorities that USDA could choose to use, including an extraordinary emergency authority that would allow us to go further than the federal order. 
+> 
+> But quite frankly, we think that we are seeing very good participation from the states, and a very good action on the parts of the states that are affected, as well state animal health officials. So at this point, uh, that is not warranted. 
+> 
+> There are authorities, but we are confident in the work that the state has done. And the partnership between both the state and the federal authorities.
+> 
+> ...
+> 
+> Nirav Shah, CDC [01:00:37]
+> 
+> Even though there have been additional cases in humans, it's still a prevalence that is extremely low. 
+> 
+> And so I don't know that it is sufficiently prevalent there to warrant H5 specific vaccination.For example, in the serology series out of Michigan, 0 of the 35 bovine exposed workers that we tested had any evidence of prior infection. 
+> 
+> So I grant that there have been an increase in cases, but still not to a threshold where vaccination, H5 specific vaccinations might play a role in driving that down even further. 
+> 
+> I think that's distinct from seasonal flu where we know that exposure happens every single year and the possibility of seasonal exposure, coupled with the rare likelihood that an employee or a worker may have also H5, that's really the risk that we're guarding against. 
+> 
+> So don't disagree that there have been an increase, but I don't know that it meets the threshold quite yet for deploying H5 vaccine in a manner where that vaccine would achieve a purpose.
+> 
+> ...
+> 
+> Nirav Shah, CDC [01:02:36]
+> 
+> One of the reasons CDC recently amended or issued an emergency use instruction document was specifically to cover for an account for this scenario, John, which provided more regulatory leeway for individuals, as well as our colleagues at ASPR to use Tamiflu in this exact situation. 
+> 
+> So we completely agree, and Tamiflu in this respect is a really good intermediate step. And in fact, the data suggests it does an even better job than the vaccine would at reducing the risks of infection.
+> 
+> ...
+> 
+> Eric Deeble, USDA [01:04:08]
+> 
+> The answer is the epidemiological investigation in Colorado is active and ongoing. 
+> 
+> We don't have a definitive link between the poultry and dairy facilities. Although we do know that it is a similar clade B3.13 that was found in both.
+> 
+> The actual mechanism of potential transmission are all being considered. As I mentioned previously, there's a variety of hard and soft surfaces that can be implicated in transmission and importantly to note, the dairy facilities and the poultry facilities that are affected are in relatively close proximity, just just a mile or two away from one another, which increases the probability that there is going to be a movement across premises in a variety of different ways.
+
 # July 29, 2024
 
 ## Colorado and CDC officials on H5N1 response
