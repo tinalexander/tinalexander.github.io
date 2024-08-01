@@ -11,9 +11,21 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-# July 2024
+# August 2024
 
 - ...
+
+# July 2024
+
+- [Nearly a third of adolescents getting mental health treatment, federal survey finds](https://www.cbsnews.com/news/mental-health-treatment-samhsa-survey-teens/)
+- [Recalled Diamond Shruumz gummies contained illegal controlled substance, testing finds](https://www.cbsnews.com/news/magic-mushrooms-found-in-recalled-diamond-shruumz-poison-control-confirms/)
+- [FDA warns Diamond Shruumz still on shelves despite recall, hospitalizations](https://www.cbsnews.com/news/diamond-shruumz-on-shelves-recall-hospitalizations/)
+- [Map shows states where COVID levels are "high" or "very high" as summer wave spreads](https://www.cbsnews.com/news/map-covid-levels-states-summer-2024/)
+- [Multiple children hospitalized in Diamond Shruumz poisonings, as cases mount](https://www.cbsnews.com/news/diamond-shruumz-poisonings-multiple-children-hospitalized/)
+- [Florida sees COVID-19 surge in emergency rooms, near last winter's peaks](https://www.cbsnews.com/news/florida-covid-19-surge-emergency-rooms-july-2024/)
+- [Many tattoo ink and permanent makeup products contaminated with bacteria, FDA finds](https://www.cbsnews.com/news/tattoo-ink-permanent-makeup-ink-products-contaminated-bacteria-fda/)
+- [FDA approves new Alzheimer's treatment, donanemab from Eli Lilly](https://www.cbsnews.com/news/fda-approves-new-alzheimers-treatment-donanemab-eli-lilly/)
+- [COVID trend reaches "high" level across western U.S. in latest CDC data](https://www.cbsnews.com/news/covid-trend-high-western-us-cdc-data/)
 
 # June 2024
 
