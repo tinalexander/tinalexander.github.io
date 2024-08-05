@@ -9,6 +9,24 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 5, 2024
+
+## FDA spokesperson on shortage of tirzepatide
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson Amanda Hils
+- **Date:** received August 5, 2024
+
+> The FDA continues to actively monitor drug availability and work with the company to confirm the supply is stable and help ensure patient access to safe, effective drugs. The FDA is currently working to determine if the available supply of tirzepatide would meet our definition of a Resolved Shortage.
+> 
+> The Federal Food, Drug, and Cosmetic Act defines a drug shortage as a period of time when the demand or projected demand for the drug within the United States exceeds the supply of the drug. FDA tracks shortages at the national level and receives information from manufacturers about their ability to supply the market. We consider a drug to be in shortage when the total supply of all versions of a commercially available product cannot meet the current demand, and a registered alternative manufacturer will not meet the current and/or projected demands for the potentially medically necessary use(s) at the patient level.
+> 
+> The Drug Shortages Database lists product information as it is given to FDA by the manufacturers. This information can be helpful to pharmacies and other bulk purchasers when trying to source specific products, strengths, or vial sizes during a shortage. Although all dosages of a drug may currently be listed as available, the criteria for moving a drug off the Drug Shortages list must still be met. FDA will move a drug in shortage from Current Shortage status to a Resolved status when all the manufacturers are able to meet total national historical demand and the FDA will verify with each firm that they have built enough safety stock prior to resolving each shortage.
+> 
+> Additionally, FDA generally considers a shortage to be resolved and removes the product from the Current Shortage section of the list based on an evaluation of the entire market, assessing whether all backorders have been filled and supply is meeting or exceeding demand. In making this evaluation, FDA may consider, among other factors, affected market share, ability of alternate manufacturers to cover the demand, and confirmed market stabilization.
+> 
+> The FDA cannot provide a general timeline for when a drug may come off the shortage list because each drug shortage is assessed on a case-by-case basis. We work closely with the manufacturers throughout the duration of a shortage and will verify their ability to meet the national demand, as well as whether they have built enough safety stock, before considering it resolved.
+
 # August 1, 2024
 
 ## CDC official at NACCHO webinar on dengue
