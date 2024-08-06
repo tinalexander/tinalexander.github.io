@@ -13,7 +13,7 @@ permalink: /notes/2024/08
 
 ## CDC officials at AMA webinar on fall and winter respiratory virus season
 
-- **Source:** webinar
+- **Source:** [webinar](https://edhub.ama-assn.org/cdc-project-firstline/video-player/18898060)
 - **Attribution:** hosted by the American Medical Association
 - **Date:** occurred August 6, 2024
 
