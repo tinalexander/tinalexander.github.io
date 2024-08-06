@@ -9,6 +9,16 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 6, 2024
+
+## HHS spokesperson on new uninsured rate figures
+
+- **Source:** emailed statement
+- **Attribution:** Health and Human Services spokesperson
+- **Date:** received August 6, 2024
+
+> “The Biden-Harris Administrations is committed to making sure Americans have access to affordable, quality health care. We are using every tool at our disposal to protect and strengthen access to coverage so individuals and families can maintain access to the health care they need. Since 2021, we have seen a historic number of Americans get health care including a record-breaking 21.4 million people who signed up for coverage through the Affordable Care Act Marketplaces. This is a direct result of the Biden-Harris Administration’s health care policies, such as lowering health insurance premiums by an average of $800 for millions of Americans and expanding Medicaid. We have more work to do to lower health care costs, including by permanently extending enhanced premium tax credits and expanding Medicaid in every state to get more people affordable, quality health care coverage.”
+
 # August 5, 2024
 
 ## FDA spokesperson on shortage of tirzepatide and compounding
