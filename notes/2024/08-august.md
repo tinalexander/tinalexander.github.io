@@ -11,7 +11,7 @@ permalink: /notes/2024/08
 
 # August 5, 2024
 
-## FDA spokesperson on shortage of tirzepatide
+## FDA spokesperson on shortage of tirzepatide and compounding
 
 - **Source:** emailed statement
 - **Attribution:** Food and Drug Administration spokesperson Amanda Hils
@@ -26,6 +26,14 @@ permalink: /notes/2024/08
 > Additionally, FDA generally considers a shortage to be resolved and removes the product from the Current Shortage section of the list based on an evaluation of the entire market, assessing whether all backorders have been filled and supply is meeting or exceeding demand. In making this evaluation, FDA may consider, among other factors, affected market share, ability of alternate manufacturers to cover the demand, and confirmed market stabilization.
 > 
 > The FDA cannot provide a general timeline for when a drug may come off the shortage list because each drug shortage is assessed on a case-by-case basis. We work closely with the manufacturers throughout the duration of a shortage and will verify their ability to meet the national demand, as well as whether they have built enough safety stock, before considering it resolved.
+> 
+> ...
+> 
+> Federal law addresses compounding by a licensed pharmacist in a state-licensed pharmacy, federal facility, or by a physician (503A), as well as compounding by or under the direct supervision of a licensed pharmacist in an outsourcing facility (503B). A drug may be compounded for a patient when an FDA approved drug is not medically appropriate to treat them. In these situations, compounding can serve an important patient need. Generally, when an FDA approved drug is in shortage, compounders may prepare a compounded form it if they meet certain requirements in the Federal Food, Drug, and Cosmetic (FD&C) Act.
+> 
+> Section 503A of the FD&C Act restricts compounded drugs that are essentially copies of commercially available, but certain amounts are permissible under the law as long as the compounding is not done "regularly or in inordinate amounts." When an FDA approved drug is on the shortage list, it is not considered to be commercially available. All other conditions of section 503A would have to be met, including compounding pursuant to a valid prescription for an identified patient.
+> 
+> Outsourcing facilities operating under section 503B of the FD&C Act are generally prohibited from making essentially a copy of an FDA approved drug. However, this limitation is lifted in certain instances, such as when an FDA-approved drug appears on the FDA Drug Shortage list. In that case, an outsourcing facility can use a bulk drug substance, also known as an API, to make a drug product that is essentially a copy of what is on the FDA drug shortage page.
 
 # August 1, 2024
 
