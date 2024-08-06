@@ -11,6 +11,148 @@ permalink: /notes/2024/08
 
 # August 6, 2024
 
+## CDC officials at AMA webinar on fall and winter respiratory virus season
+
+- **Source:** webinar
+- **Attribution:** hosted by the American Medical Association
+- **Date:** occurred August 6, 2024
+
+> Mandy Cohen, CDC [00:09:13]
+> 
+> What about timing? 
+> 
+> We are going to see an updated COVID 19 and flu vaccine, here in just a few weeks.
+> 
+> Flu is actually starting to be available right now. So you can be ordering that, be getting that in to your practice already. 
+> 
+> The COVID 19 vaccine should be available within the next number of weeks, maybe the end of August, beginning of September, but right now is a great time to pre-order. 
+> 
+> And we'll have more on that that soon. And then the administration should continue through September, October, November. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:10:36]
+> 
+> So COVID vaccine available soon, then start giving those September, October, November.
+> 
+> Flu, already starting to be available. We want to ideally administer in the September, October timeframe.
+> 
+> RSV can be doing now or late summer, early fall. 
+> 
+> And then again, the infant and maternal, a little closer to the start of RSV season, in the more, in the late September, October timeframe here. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:20:01]
+> 
+> The last thing I wanted to bring up for you is as a campaign that you may see us running in your neck of the woods, we are going to be able to run some paid advertisement during the season to help folks get ready and then actually motivate to action to get vaccinated. 
+> 
+> It's a campaign called Risk Less, Do More, Get This Season's Vaccines. 
+> 
+> So,you are going to see some of that launch in a few weeks here. Obviously it's not time yet to get those COVID and flu vaccines. So you're going to see more of that campaign launched in a bit, but we'll start with focusing on RSV because, if someone comes in who's over 75 right now, they can get that one dose of the RSV vaccine and they're set into the future. 
+> 
+> We are going to be working through some paid media, including TV, radio, and print. So maybe you'll see this in your neck of the woods. 
+> 
+> The audiences on the next slide that we're focused on are not going to be surprising.
+> 
+> Who are the folks that are at highest risk and need to risk left to do more? It's older adults and folks in long-term care facilities, or our nursing home residents. We want to be making sure we're really targeting that highest risk group. 
+> 
+> So you'll see a lot of images like the one on the screen where we are making sure to have messages to our older adults and particularly those who are in long-term care facilities.
+> 
+> That all being said, we also want to make sure that we are recognizing that historically marginalized communities continue to see lower vaccination rates than others. 
+> 
+> And we make part of this campaign will be to reach out to all adult populations, specifically focusing on our Black, Latino, and rural audiences. 
+> 
+> And then lastly, we have a component that will be focused on you all, because we know how important a team member our clinical community is in making sure vaccination happens. 
+> 
+> So we're going to have some ability to do messaging. So you may see some ads and such again, reiterating a lot of what we are covering today.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:22:10]
+> 
+> Just a reminder that we've been talking about fall and winter, but we are having a fair amount of COVID circulating right now. 
+> 
+> And just a reminder that we have tools for you to know what's happening in your community. What is, how many folks are getting admitted to the emergency room based on COVID, what are, what is, are things looking like, so that you know how to potentially change or recommend things particularly for those higher risk patients. 
+> 
+> So just know that that COVID is circulating right now. 
+> 
+> What we are seeing is while there is a fair amount of COVID circulating, we're seeing lower levels of emergency rooms and hospitalizations than we've seen in the past, which is good. 
+> 
+> But we want to make sure we're continuing to protect each other, particularly those folks who are at highest risk. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:25:30]
+> 
+> So one of the ways in which we try to understand, get a little bit of a sense of what's going to happen for our flu season or our overall respiratory season is to look at the southern hemisphere where flu is circulating right now.
+> 
+> And what we, again, it's never a perfect marker, but what we are seeing, it's a pretty typical season, meaning it didn't start too early, they're seeing what is a pretty typical season. 
+> 
+> So not better, not worse, but pretty typical, didn't start early. So again, we're anticipating a typical start, which means later in the October timeframe.
+> 
+> However, coming out of the COVID pandemic, we are still recalibrating what these, the start times of these seasons are. So we want to be prepared now. That's why we're here at the beginning of August, having this conversation to get ready, get prepared as we get into the season.
+> 
+> We have the power in our own hands to know how bad of a season it's going to be, right? The more protection we get out there, the more mild the season can be.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:35:15]
+> 
+> For the vast majority of primary care docs, the risk in your patient population is extremely low. 
+> 
+> If you happen to work with folks who work on farms or have come into contact with cows or with poultry, you definitely want to have that as a heightened thing that you are looking for, but the-- we have not seen a case of human to human spread of avian flu. And that is good news, but we are taking this very seriously. 
+> 
+> We do know that farm workers are at risk and those who are exposed to the avian virus directly, but the larger population, the risk is very low. 
+> 
+> That all being said, I think it makes it even more important that we focus on getting folks the seasonal flu vaccine this year. 
+> 
+> We want to make sure folks have as much flu coverage as we can, right. To protect folks against the known thing that is spreading human to human, and that is seasonal flu. 
+> 
+> But we are working very hard to make sure we are protecting workers, that there is testing available. 
+> 
+> We-- it is a very different circumstance with avian flu than for COVID. 
+> 
+> For example, avian flu is something we have known about and been studying and preparing for, for decades. 
+> 
+> We have tests, we have treatment that is Tamiflu, and we even have vaccine candidates. 
+> 
+> So if we would see any escalation in what is presenting right now, we could also think about a vaccination campaign for farm workers, already, we have that available. 
+> 
+> So we have a lot of tools at our disposal, but for general folks in primary care, if you're not working with the farm community, that is unlikely to be something that you are seeing. 
+> 
+> But I do think it puts a bigger emphasis on us wanting to get both seasonal vaccinations for folks as well as our farm worker community,
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:38:58]
+> 
+> So we've been talking about everything we do can do to prepare, but once we're in the season, and once we think that there's a lot of virus circulating there, we we've all learned through the pandemic about a lot of different tools that can help us, to make sure that we are reducing our risk of getting those viruses circulating. 
+> 
+> So, as you may know, we redid our guidance on this back in the spring. So at the end of the winter season, we looked at our data and said, and simplified our guidance on this. 
+> 
+> And we also simplified it to focus on the thing that we know saves the most lives and that's vaccination. That's why we spent 90% of our time on this webinar talking about vaccination. It's what works at what keeps people out of the hospital. It's what saves lives.
+> 
+> But there are other ways we can also do things to protect ourselves. 
+> 
+> One is stay home when you're sick, right. And I-- which I know is hard, to miss that family party or that thing, that work event, but keep your germs to yourself and stay home when you're sick. 
+> 
+> But if you are out, doing things like hand sanitizing, wearing a mask, being, opening windows, improving ventilation, all of those are layers of protection, particularly if you were at higher risk or you are going to be around people who are at higher risk, you want to layer those things on top. 
+> 
+> So vaccination as a foundation, staying home, if you're sick, as a foundation, but then being outside, wearing a mask, using hand sanitizer, right? All of these things add layers of protection beyond that foundation. 
+> 
+> And this is the same guidance between COVID, flu or RSV, it's across any of these viruses. 
+> 
+> We did have specific guidance for quite some time around COVID because COVID was something new to us as humans. We hadn't had previous immunity to it.
+> 
+> Now that most of us have either had COVID, been vaccinated, we are in a-- we are different. 
+> 
+> The virus is still pretty, pretty transmissible. We're seeing right now in, in the summer, but we are different. And that is good. 
+> 
+> Meaning it is overall less severe than it was when we were first seeing the virus introduced to our communities. 
+> 
+> But it doesn't mean it's gone. And so we do have to remain vigilant again, vaccination, vaccination, still the best tool here to protect lives, as we go into the season.
+
 ## HHS spokesperson on new uninsured rate figures
 
 - **Source:** emailed statement
