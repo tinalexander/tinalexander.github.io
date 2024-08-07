@@ -11,6 +11,20 @@ permalink: /notes/2024/08
 
 # August 7, 2024
 
+## EPA statement on Wolbachia approvals for mosquitoes
+
+- **Source:** emailed statement
+- **Attribution:** Environmental Protection Agency spokesperson Jeff Landis
+- **Date:** received August 7, 2024
+
+> Wolbachia has been proposed to manage mosquitoes and the diseases they spread in two ways:  1) population suppression, in which an incompatible strain of Wolbachia is introduced into wild populations, and 2) pathogen interference, in which an introduced strain of Wolbachia directly inhibits pathogenic viruses within the mosquito, thereby suppressing virus transfer to humans where those viruses may cause diseases. 
+> 
+> The first approach (population suppression) is regulated by EPA under the Federal Insecticide, Fungicide and Rodenticide Act (FIFRA), as a pesticidal use of Wolbachia.  On the other hand, the second approach (pathogen interference) would be regulated by the Food and Drug Administration. 
+> 
+> Regarding Wolbachia population suppression tools, currently there are two Wolbachia based products that EPA has approved for commercial use, ZAP Males and WB1 Males. The ZAP Males product targets Aedes albopictus (Asian Tiger Mosquito) and was approved in 2017, with full use throughout the U.S. approved in 2023.  WB1 Males targets Aedes aegypti (Yellow Fever Mosquito) and was approved in April 2024.  Additionally, there is a second Wolbachia product for Aedes aegypti (DAB Males) presently under review (https://www.regulations.gov/document/EPA-HQ-OPP-2023-0070-0007). 
+> 
+> EPA is in the process of updating its webpage at https://www.epa.gov/regulation-biotechnology-under-tsca-and-fifra/emerging-mosquito-control-technologies to reflect the current status. 
+
 ## WHO statement on donated mpox vaccines 
 
 - **Source:** emailed statement
