@@ -9,6 +9,170 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 7, 2024
+
+## WHO officials on mpox clade Ib outbreak in Democratic Republic of Congo
+
+- **Source:** [press conference](https://youtu.be/gakLXTrSUqI)
+- **Attribution:** hosted by the World Health Organization
+- **Date:** occurred August 7, 2024
+
+> Rosamund Lewis, WHO [00:15:11]
+> 
+> Indeed, clade Ib has demonstrated some mutations, one of which you have mentioned, which suggests that the virus has been circulating explosively person to person, which is indeed what the evidence that is available as this particular--
+> 
+> These provinces and countries have not reported mpox before September of last year, in the case of south Kivu, earlier this year, in the case of north Kivu and just in the last few weeks, month, in the case of the, for eastern neighboring countries. 
+> 
+> So it is a virus that is transmitting explosively person to person, as far as we know. 
+> 
+> In addition to that, the virus has shown other mutations, which make it necessary to ensure that the correct laboratory protocol is in place to make sure that the clade can be discerned, if PCR is what is being used. 
+> 
+> PCR is the standard for laboratory diagnostics, and there are different protocols. And so WHO has some weeks ago put out new laboratory guidance on the protocols recommended by WHO for detection of this particular strain. So the countries are in a position to detect the strain that is -- that support is being provided, through the response of WHO with the support of the countries in support to the countries.
+> 
+> At the moment, there is no specific information that suggests that the virus, the clade Ib is more transmissible per se. 
+> 
+> It is transmitting through sexual networks, interlinked sexual networks. And we know from the global outbreak that transmission through sexual networks occurs more rapidly. 
+> 
+> It doesn't necessarily mean that the virus itself is more transmissible. However, as the virus does continue to spread, it is also spreading within families and through community contacts, through the other modes of transmission, which we are familiar with, which is direct physical contact, face to face contact, which may involve exchange of respiratory droplets, and of course, what we call fomites, which are things such as beddings and towels, which may be contaminated sharing a bed, for example, in a family setting would also be a high risk environment if someone in that family has mpox. 
+> 
+> So the virus is a new strain. It has been now confirmed and documented by scientists, a number of scientists by countries and by WHO, and these are the features that we are aware of so far of this particular new strain.
+> 
+> As to whether it is more severe, so we've talked about transmissibility, which we don't know that it's more transmissible, but it is transmitting through an efficient mode of transmission. 
+> 
+> And as to whether it is more severe, we also don't know.
+> 
+> It is definitely causing severe disease, and it is definitely causing some deaths, but most of the persons affected so far have been adults. And as you know, children are more vulnerable. 
+> 
+> So it is still difficult to say whether this particular strain is less or more severe than the standard clade I, if you will. So that is something that we are definitely looking out for at the moment. 
+> 
+> It seems to not be more severe than the standard clade I, but it's dependent on many factors on context in which it is currently circulating. 
+> 
+> So these two features are things that we don't yet have full information on, which is transmissibility and virulence .
+> 
+> ...
+> 
+> Rosamund Lewis, WHO [00:25:18]
+> 
+> This virus is spreading through sexual transmission and through sexual networks. 
+> 
+> The DRC, Democratic Republic of the Congo, has good data on the cadres of individuals, if you will, in terms of their profession that are being affected by this. 
+> 
+> And whereas there was one third of cases in the beginning of the outbreak were among sex workers, that proportion is now reducing as more people are being affected in the community. 
+> 
+> This includes, students, businessmen, people traveling across the borders for different reasons, and those whose whose occupation is not reported. 
+> 
+> So we do know that this is transmitting through sexual networks, and we do know that this includes sex workers, which obviously, there are commercial sex activities in the region, which include those necessary for survival for income generation. 
+> 
+> And so everything that, Dr Van Kerkhove has said about risk communication, community engagement, and increasing access to vaccines, all remains critical for this outbreak response. 
+> 
+> Some children have been affected already. At the moment that proportion is not very great. 
+> 
+> But there are cases in areas such as displaced internally displaced persons camps, as well as congregate settings. 
+> 
+> So it's a complex outbreak with myriad manifestations and the response has to be contextualized, localized, to identify those at risk, and provide the information and resources they need to respond to this outbreak.
+> 
+> ...
+> 
+> Deusdedit Mubangizi, WHO [00:28:43]
+> 
+> Now that the director general has launched the emergency use listing, we will be reaching out to the manufacturers and the applicants to submit applications for evaluation and the emergency use listing team has already been put in place already to review these applications. 
+> 
+> And we-- they will be screened within one week and the assessment should not take more than one week from acceptance, more than one month from acceptance into assessment. 
+> 
+> And thereafter, we shall convene the taking technical advisory group, or the TAG as we refer to it, within one week of the report being available. And the, the TAG will make a recommendation. 
+> 
+> Now, should that recommendation of the vaccine be positive, WHO is ready to share the assessment reports with member states to facilitate their authorization and acceptance into countries so that then they can be available for use.
+> 
+> Just to supplement what Maria and others have said, when these vaccines are available, we urge all clinicians, member states that are using them to continue gathering information so that we can actually gather all the information that is needed about the use of these vaccines. 
+> 
+> ...
+> 
+> Rosamund Lewis, WHO [00:33:55]
+> 
+> Two countries in the African region have already approved mpox vaccines for emergency use. 
+> 
+> That is Nigeria has approved the use of one vaccine, MVA-BN, and the Democratic Republic of the Congo has approved the emergency use of LC-16 vaccine and MVA-BN. 
+> 
+> This is just to note that those countries have moved ahead with their planning on securing vaccines and the discussions are underway to make that happen.
+> 
+> That will not in any way impede the process of the emergency listing, which is necessary, as multiple countries are now reporting cases at the same time. 
+> 
+> ...
+> 
+> Rosamund Lewis, WHO [00:35:38]
+> 
+> Risk is risk. WHO does have a method of assessing risk, which can be low, moderate, high, or very high. 
+> 
+> And, at the moment, the risk of further spread in the region is moderate for the general population high in the Democratic Republic of the Congo. 
+> 
+> And we are reviewing the risk assessment now to bring it up to date with the latest information. And so that will be made available, shortly in, in new communications. 
+> 
+> Having said that, we've already seen that the virus is now rapidly been documented in four new countries that had never reported before. And we've also seen what can happen in the global outbreak that began in 2022, where many countries were affected in a very short period of time. 
+> 
+> So, we can't predict for sure what will happen, but we can anticipate that there are different scenarios and need to be prepared for that risk, and for further spread, in the event that that does occur, which can occur, either in proximity to countries that already have the virus, or of course at further distance, through other modes of travel, whether it be road travel or rail travel, air travel, or foot travel. 
+> 
+> So all those modes of travel can of course continue to contribute to the outbreak. 
+> 
+> We just want to be also very clear that the standing recommendations that have been in place since August of 2023 do not recommend specific travel measures. 
+> 
+> What is recommended is information to travelers and cross-border collaboration between countries on surveillance and on case management.
+> 
+> Other specific travel measures, such as shutting down travel mechanisms or things like that are not being recommended at this time.
+> 
+> They have not been recommended since the beginning of the global outbreak. What we are looking for is supporting countries to support each other through cross-border work, which is necessary to stem the continuing spread of the outbreak.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:37:47]
+> 
+> I just want to highlight the urgency that we are trying to get across today, right? 
+> 
+> There's a lot of things that are happening with mpox. This is an outbreak that caused a global outbreak. We had a public emergency of international concern. There was some attention to this, that attention waned. 
+> 
+> There's an ongoing outbreak that's happening. We're talking about spread. 
+> 
+> This virus is being detected, particularly this clade Ib, which we know is more severe than clade II, is being detected in a number of additional countries. 
+> 
+> There are certainly increased awareness. There's increased readiness in countries, which is excellent, and there is increased reporting, but this is detecting circulation. And this is something we wanna act upon now.
+> 
+> All of the things that can be done and reiterate what Mike said, what Dr. Tedros has said, that this can be stopped, if we actually put a concerted effort into this.
+> 
+> We don't sit here and watch and wait. And we do not want the world to sit and watch and wait until whatever that until is to actually trigger some action. 
+> 
+> The time is now, the time was before, but let's talk where we are actually today and actually make the investment in mpox that is causing significant challenges in many of the countries across the African region. 
+> 
+> This is a-- we are living in an interconnected world and these pathogens do not respect borders. 
+> 
+> So I just want to get across the urgency that we're trying to say that the action is now, the time is now for us to take much more measures and provide much more support to the African region, to the countries that are affected across the entire spectrum from surveillance, to prevention, to risk communication, to clinical care, to infection prevention control, to R&D, to the use of vaccines. It's now.
+> 
+> ...
+> 
+> Rosamund Lewis, WHO [00:52:48]
+> 
+> We have good data insofar as we are able to secure that data for reported clinically compatible cases, versus confirmed laboratory confirmed cases. 
+> 
+> So overall the case fatality ratio of reported cases of the Democratic Republic of the Congo is currently 3.6% that is across all provinces and across all age groups. 
+> 
+> We do know that in endemic areas, which is the central north and west of the country, that the case fatality ratio is significantly higher than in the east at the moment. 
+> 
+> It is higher partly because many more children are affected. So three quarters of the cases are among children and 88% of the deaths are among children under 15 as well. And there's an age gradient in the case fatality ratio. 
+> 
+> So infants have a high case fatality ratio of over 5%, children under five, have a case fatality ratio, which is a bit lower, under 15 lower still. We have all this data online that you can also look for that there, we can provide that link. 
+> 
+> And in adults or children and adults over 15, the case fatality ratio is lower than 3%. So we do have that information.
+> 
+> In the eastern part of the country where it is clade Ib, the case fatality ratio at the moment, is just under 1%. And it remains lower than the other part of the country.
+> 
+> As I said earlier, we don't know yet if this is because the clade is perhaps less severe as opposed to more severe in terms of clade Ib versus clade I.
+> 
+> But it's also because it's almost exclusively, at the moment, most cases are among adults. So we don't have that demographic of children under 15, under five, and infants currently affected to the same extent. And therefore we don't have the same number of cases leading to deaths because those are the most vulnerable groups. 
+> 
+> However, there are also women who are pregnant, who have been reported to have mpox, that has led to death of the mother in rare cases, and also loss of the pregnancy in other cases. 
+> 
+> So there are a number of significant medical, clinical, and public health impacts that can arise as the virus continues to spread. 
+> 
+> At the moment, just to summarize, the case fatality ratio overall in the Democratic Republic of the Congo is around 3.6%, higher in endemic areas. And especially in infants in young children, and lower in the eastern part of the country at the moment where spread is more rapid through sexual transmission among adults.
+
 # August 6, 2024
 
 ## CDC officials at AMA webinar on fall and winter respiratory virus season
