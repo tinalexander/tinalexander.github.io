@@ -11,6 +11,18 @@ permalink: /notes/2024/08
 
 # August 7, 2024
 
+## WHO statement on donated mpox vaccines 
+
+- **Source:** emailed statement
+- **Attribution:** World Health Organization spokesperson
+- **Date:** received August 7, 2024
+
+> Indeed, the U.S. has made an offer of 50,000 doses of MVA-BN vaccines to the DRC. In addition to this, Bavarian-Nordic, the vaccine manufacturer, has also made an offer of 15,000 MVA-BN doses.
+>  
+> The government of the DRC is still in discussion with the governments of Japan and other Member States on vaccine donation, and updates on these shall be shared once these discussions are concluded.
+>  
+> Lastly, the vaccine doses already offered are not yet in the DRC, but work to get them there is already underway.
+
 ## WHO officials on mpox clade Ib outbreak in Democratic Republic of Congo
 
 - **Source:** [press conference](https://youtu.be/gakLXTrSUqI)
