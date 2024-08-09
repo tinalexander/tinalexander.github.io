@@ -9,6 +9,18 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 8, 2024
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received August 9, 2024
+
+> The FDA is responsible for ensuring drugs are both safe and effective. In order to approve a drug, we must determine that the research and data submitted by the sponsor show that the drug is safe and effective for the intended use. As discussed at the Advisory Committee meeting, there are significant limitations to the data contained in the application that prevent the agency from concluding that this drug is safe and effective for the proposed indication.
+>  
+> The agency recognizes that there is great need for additional treatment options for mental health conditions such as PTSD. We will continue to encourage research and drug development that will further innovation for psychedelic treatments and other therapies to address these medical needs.
+>  
+> The FDA may issue a Complete Response (CR) letter for an application for a number of reasons, depending on the content of the application. Under applicable disclosure laws and regulations, the FDA generally cannot disclose the reasons for issuing a CR without the sponsor’s consent. The sponsor may, of its own initiative, release the CR letter or consent for the FDA to do so, but the sponsor has not done so at this time.
+
 # August 7, 2024
 
 ## EPA statement on Wolbachia approvals for mosquitoes
