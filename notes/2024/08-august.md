@@ -11,6 +11,8 @@ permalink: /notes/2024/08
 
 # August 8, 2024
 
+## FDA spokesperson on declining to approve MDMA for PTSD
+
 - **Source:** emailed statement
 - **Attribution:** Food and Drug Administration spokesperson
 - **Date:** received August 9, 2024
