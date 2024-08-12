@@ -9,6 +9,43 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 12, 2024
+
+## CMS spokesperson on coverage of anelgesia for IUD placement
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Medicare and Medicaid Services spokesperson
+- **Date:** received August 12, 2024
+
+> Under the Affordable Care Act, all Health Insurance Marketplace® plans, as well as most other private health plans, are required to cover certain recommended preventive services, without imposing any cost-sharing requirements, such as a copayment, coinsurance or deductible.
+> 
+> The HRSA-supported Women’s Preventive Services Guidelines (HRSA-supported Guidelines), as updated on Dec. 30, 2021, recommend that adolescent and adult women have access to the full range of contraceptives and contraceptive care to prevent unintended pregnancies and improve birth outcomes. The HRSA-supported Guidelines also provide that contraceptive care includes screening, education, counseling, and provision of contraceptives, including in the immediate postpartum period.
+> 
+> Although CMS has not released guidance specific to the recent CDC announcement you reference, CMS, with the Departments of Labor and the Treasury (together, the Departments) has previously clarified that plans and issuers are required to cover, without cost sharing, items and services that are integral to the furnishing of the recommended preventive service, regardless of whether the item or service is billed separately. See FAQs About Affordable Care Act Implementation Part 54, Q1. In this guidance, the Departments highlighted that the requirement to cover, without cost sharing, items and services that are integral to the furnishing of a recommended preventive service applies to coverage of contraceptive services under the HRSA-supported Guidelines, including coverage for anesthesia for a tubal ligation procedure or pregnancy tests needed before provision of certain forms of contraceptives, such as an intrauterine device — also known as an IUD — regardless of whether the items and services are billed separately.
+> 
+> Contraceptive care also includes follow-up care — e.g., management, evaluation and changes, including the removal, continuation and discontinuation of contraceptives. The HRSA-supported Guidelines further recommend that the full range of U.S. Food and Drug Administration-approved, cleared, or granted contraceptives, effective family planning practices, and sterilization procedures be available as part of contraceptive care. The full range of contraceptives includes those listed in the FDA’s Birth Control Guide as posted on Dec. 22, 2021:
+> 
+> - Sterilization surgery for women.
+> - Implantable rods.
+> - Copper intrauterine devices.
+> - Intrauterine devices with progestin — all durations and doses.
+> - Injectable contraceptives.
+> - Oral contraceptives — combined pill.
+> - Oral contraceptives — progestin only.
+> - Oral contraceptives — extended or continuous use.
+> - Contraceptive patches.
+> - Vaginal contraceptive rings.
+> - Diaphragms.
+> - Contraceptive sponges.
+> - Cervical caps.
+> - Condoms.
+> - Spermicides.
+> - Emergency contraception (levonorgestrel).
+> - Emergency contraception (ulipristal acetate).
+> - Any additional contraceptives approved, cleared or granted by the FDA.
+>  
+> Thanks for contacting the Centers for Medicare & Medicaid Services.
+
 # August 8, 2024
 
 ## FDA spokesperson on declining to approve MDMA for PTSD
