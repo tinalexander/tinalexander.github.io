@@ -9,6 +9,204 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 13, 2024
+
+## HHS and USDA press conference on H5N1 response from August 13
+
+- **Source:** press conference
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred August 13, 2024
+
+> Eric Deeble, USDA [00:17:47] 
+> 
+> We are seeing a continued high levels of testing. We're just at about 40,000 individual tests that have been run through the NAHLN system, and understand that there are many more that have gone through the private lab networks. 
+> 
+> So we are confident that there is a good level of testing across the nation. Much of this has been associated with pre movement testing. 
+> 
+> We've also seen an uptick in testing for intrastate activities, often associated with producers who are interested in shipping animals to a state or county fair. 
+> 
+> So I will say that the testing remains high. 
+> 
+> The detection of new herds, we've seen a considerable uptick in Colorado, based in no small part of that state's excellent efforts to implement a state based bulk milk sampling program. 
+> 
+> But across the country, we are seeing a slow number of individual herds added to the total. And we've now started to see a small number of herds clear and exit the total of currently affected herds. 
+> 
+> So I don't want to say that we feel like we're ahead of this. 
+> 
+> This is an animal disease of significant concern, and obviously there's a great deal of concern on the potential and real impacts to human health. 
+> 
+> But I do feel like the response is adequate. And I do feel like we are supporting our producers to make it easy for them to test and make it easy for them to get the supports that they need, if in fact they are affected. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:27:01]
+> 
+> So there are challenges associated with closing a dairy premises to the degree that one would close a poultry flock or a swine herd. 
+> 
+> They're much larger animals, the way in which they are kept is quite different, and their degree of movement through the facility, as well as the number of individuals that are necessary to care for them, is significantly different. 
+> 
+> We are encouraging producers to adopt additional biosecurity measures, and have supported the updating of several materials that support that, to help producers understand the steps that they can take, things like establishing a clean-dirty line, the use of truck washing and vehicle washing stations, the way in which they can decontaminate potentially equipment that's moving back and forth, as well as making sure that their staff are using appropriate PPE. 
+> 
+> I think that as producers become aware of the way in which this disease is moving within communities, of dairy producers, they can now take better, more focused steps in order to protect their farms, their herds, themselves, and their workers together. 
+> 
+> We're going to be working over the course of the summer very hard to make sure that folks are aware of the steps that they can take to protect themselves.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:28:57]
+> 
+> There's no mandatory measures that farms need to take in biosecurity in any production system. 
+> 
+> So it is not that dairy farms are being held to a different standard than other farms. 
+> 
+> It is a recognition that enhanced biosecurity is appropriate in light of this new outbreak in dairy cattle.
+> 
+> ...
+> 
+> Steve Grube, FDA [00:30:55]
+> 
+> We are actively working on it, among all the studies that we're doing here, to confirm that pasteurization is effective.
+> 
+> That's our mandate here at FDA to help ensure the safety of our commercial milk supply. And we continue to do that with various studies and the bulk milk work is ongoing. 
+> 
+> And as soon as we have information that we can share, we will be pleased to share it with you.
+> 
+> Question [00:31:15]
+> 
+> But can you say, what are the roadblocks to it? Is it expensive? If we want to determine the scope of the spread of this virus, why not just test everything?
+> 
+> Steve Grube, FDA [00:31:27]
+> 
+> So everything is a lot. 
+> 
+> And so we're working with our state co-regulators to understand where in the processing chain does that make the most sense to begin the testing and to continue testing.
+> 
+> Again this is not a sprint, this is a marathon.
+> 
+> We need to understand as a nation how we can address this outbreak and bring it to the swiftest possible end.
+> 
+> And so we're working with our state partners to understand how best to integrate that into operations.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:33:13]
+> 
+> We have a high degree of confidence that the testing that we're doing is accurately capturing the status of those animals that are moving between states. 
+> 
+> I think that, uh, there are additional opportunities for states to explore intra-state testing. And of course, USDA is supportive of those efforts. 
+> 
+> I will say that because we have worked so hard to put in place a series of supports for producers, both to help them meet the risk that is associated with this disease coming onto their farm, as well as to deal with any potential income lost, should they have H5N1 affect their herds, we feel quite confident that producers, that we've done a good job of destigmatizing this, and de-risking this, for producers, so that we're hopeful that we have decreased the barriers to testing as much as we can. 
+> 
+> And of course, you know, those states that do choose either to implement their own programs within the state, or to create a process by which they can declare herds that have been affected free of the disease or clear that matches our herd status program, we're of course very supportive of those efforts as well.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:35:25]
+> 
+> The answer is, is yes, actually, typically during the warmest summer months, we see a decrease in the number of cattle that are being shipped, and this is due part to avoid the heat, but also because there tends to be a decrease in the amount of demand for fluid milk during the summer months, in part due to consumption patterns in part due to school being out of session. 
+> 
+> So there will be a period in the fall in which we anticipate an increase in intrastate cattle movement. 
+> 
+> Dr. Gauthier, anything to add here?
+> 
+> Julie Gauthier, USDA [00:36:05]
+> 
+> I'll just add that we do see a bit of a dip in the summertime, primarily due to the heat and the stress on the cattle being moved at that time. 
+> 
+> And there is a steady movement of dairy cattle interstate throughout the year. 
+> 
+> Commercial dairies are largely confinement operations. So they're not being moved from pasture to pasture like you would see with beef cattle. They're completely separate types of operations. 
+> 
+> And so, cattle, dairy cattle, are not being moved for the purposes of pasturing in different locations. 
+> 
+> They're being moved in order to, to add them to milking herds in different parts of the country, and that occurs year round, although there is a slow down in the summertime.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:40:28]
+> 
+> I think it's really important to bear in mind that to the best of our understanding and all of the epidemiological investigation that we have done so far, all of this illness in cattle can be traced back to a single spillover event in the Texas panhandle region, towards the end of last year or the beginning of this year, that we know we have a good understanding of how the disease is spread through cattle movement, and are gaining a better understanding about how it spreads within the communities with the ongoing epidemiological investigation that we're doing. 
+> 
+> So I don't want folks to conflate the concern with migratory bird movements in the fall as a potential for the spread of this particular strain of B3.13 dairy associated H5N1 in cattle with migratory bird patterns. 
+> 
+> I will say that, you know, we continue to work hard to protect poultry operations from H5N1. And we do know that migratory birds pose a risk to the domestic flock. 
+> 
+> And so, you know, we are certainly cognizant of and supportive of the efforts of our producers to ensure that there is no additional uptick in the fall, as H5N1 may move through the environment again with those migratory bird patterns. 
+> 
+> Although it is important to say that this particular H5N1 event in poultry has lingered for some time.
+> 
+> ...
+> 
+> Julie Gauthier, USDA [00:42:21]
+> 
+> We do expect the risk to increase for poultry flocks as Dr. Deeble said, because of the movement of migratory birds during the fall. 
+> 
+> But we're finding with this cattle outbreak that we've seen just a single spillover event from wild birds into the dairy cattle, and then the dairy cattle have spread it amongst them, the herds amongst themselves. 
+> 
+> So we're not expecting increased risk for the dairy herds. 
+> 
+> But we are expecting another upsurge in poultry high-path outbreaks as we have for the last two years.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:43:08]
+> 
+> Our bottom line is this: so long as livestock are at risk, workers are at risk, and therefore our work will continue. 
+> 
+> Let me zero in on the fall and winter respiratory season. The bottom line there is that the prevalence of things like seasonal influenza, RSV, etc, obscures the picture-- I'm sorry, it  muddies the picture, but it doesn't obscure it completely. 
+> 
+> First of all, it's important to note that there has been an overlap of H5 affecting poultry and other livestock with the following winter respiratory virus season before. So this won't be the first time.
+> 
+> The second, and I'd be remiss if I didn't note, that this is in part of the reason why two weeks ago, we made the announcement to offer and provide an enhanced channel for influenza vaccination for any and all livestock workers. Partly because of this potential muddying of diagnoses, in addition to the imperative to protect workers. 
+> 
+> And then the third thing, Alex, is that from a data perspective, when we look at increases in influenza, be it in waste water, or be it in an emergency department visits, we're not just looking at it in absolute terms. We're always looking at it relative to where we were in that particular region, 52 weeks prior. 
+> 
+> So we're trying to do year on year comparisons, which helps us spot something that's not just increased, but rather increased above the historical norm. And that's how we separate some of the signal noise there. 
+> 
+> So we have been thinking about these issues very carefully in light of the ongoing outbreak. And we feel confident, as we go into the fall winter season, that our antenna will continue to detect any changes.
+> 
+> Question [00:44:49]
+> 
+> And one quick follow up on that. You mentioned wastewater. 
+> 
+> Do you think there's a possibility we'll have H5 specific wastewater testing by that time, or are you still gonna be relying just on that big bundle altogether?
+> 
+> Nirav Shah, CDC [00:45:02]
+> 
+> It'll be a mixture of both. 
+> 
+> So right now there are a number of jurisdictions that are utilizing wastewater testing, are conducting wastewater testing. What we're doing right now is to consolidate all of those. So there's one unified view in all that, into all of that. 
+> 
+> But in parallel, we at CDC are also working to roll out more widespread H5 specific wastewater testing, in addition to influenza A testing. 
+> 
+> Now, the ultimate decision about what a jurisdiction opts to test for in their wastewater is up to that jurisdiction, but we are hoping to be able to work with as many as possible, so we have visibility, not just on influenza A, but as you note, specifically on H5.
+> 
+> It's too early to tell where that will land. But we're hoping we'll get more wastewater visibility as we move through the following winter season.
+> 
+> ...
+> 
+> Nirav Shah, CDC [01:01:05]
+> 
+> Given that this is something where we're starting from, again, not a lot of awareness because of the novelty and the newness of the situation, I don't want us to change course so quickly when we have a long road ahead. 
+> 
+> So what we're trying to do is balance the need for information to be disseminated, with the need, not to shift course, just because we haven't gotten to 100% awareness yet. 
+> 
+> We are very open to reevaluating that and making sure we're continuing to get to where we need to go, but we're using every single messenger that we can. 
+> 
+> Another one that has been very effective has been working with our colleagues at HRSA, both in migrant health clinics, as well as community health centers.
+> 
+> For many farm workers, those are the principal venues through which they receive all healthcare, as well as all health education. 
+> 
+> So we've worked with them to make sure that they know, when a worker comes in to test for the right things, as well as to get the message out into communities, so that workers know that that's a safe place to go. 
+> 
+> Another venue that we've partnered with a number of states on are churches.
+> 
+> In one particular state in the south, they found that churches and other meeting places, markets, things of that nature were a perfect opportunity to brief folks on where things go. 
+> 
+> The other option or the other approach where all this comes to head is when we think about fall worker vaccination for seasonal influenza, the same connections that we've built thus far will serve us well.
+> 
+> I don't mean to suggest that the job is done. It's going to take a lot more time, but we share your concern around the urgency.
+
 # August 12, 2024
 
 ## CMS spokesperson on coverage of anelgesia for IUD placement
