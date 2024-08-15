@@ -9,6 +9,162 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 15, 2024
+
+## Senior administration officials on Medicare Drug Price Negotiation Program
+
+- **Source:** press conference
+- **Attribution:** hosted by the Centers for Medicare and Medicaid Services
+- **Date:** hosted August 15, 2024
+
+> 00:01:41.180 QUESTION
+> 
+> How many of the 10 drugs now have prices that are lower than both the net price and the foregone discounts in Medicare Part D. So I'm asking if you add up both the net price and the 10 to 20% automatic discounts that they would have paid otherwise, how many of the 10 drugs are below both of those things together?
+> 
+> 00:02:01.737 SENIOR ADMINISTRATION OFFICIAL
+> 
+> Yeah, I can start, and then I'll turn it over to CMS and to ASPE.
+> 
+> So we are releasing the prices today alongside a few different sets of information. 
+> 
+> We're releasing the discounts relative to the list price. And the department is glad to announce that we achieved savings of 38% to 79% on these prescription drugs relative to list price.
+> 
+> We're announcing the 6 billion dollars in savings. So had the prices been in effect, in 2023, it would have resulted in 6 billion dollars in savings to the Medicare program overall, that is related to net prices as [official] shared.
+> 
+> And then the 1.5 billion dollars in projected savings for beneficiaries in out-of-pocket costs in 2026.
+> 
+> Medicare net prices is not a benchmark that we are able to release. That is based on proprietary information.
+> 
+> And so what we have made available today are the prices themselves. The discounts that we have secured relative to the list price. The savings in Medicare related to the net price as well as the projected out of pocket savings for Medicare beneficiaries.
+> 
+> ...
+> 
+> QUESTION 00:03:43.300 
+> 
+> I know that that's proprietary, but I'm wondering how many of the 10 drugs, if not all of them, have prices that are lower than the combination of the net price and the discounts that these drugs would normally have to pay Medicare Part D.
+> 
+> I'm not asking for the savings number, or you know, I'm not asking you to compare the amount of savings to the automatic discounts that they would pay in Part D. I'm just wondering how many of the 10 drugs come in under both of those things.
+> 
+> 00:04:22.320 SENIOR ADMINISTRATION OFFICIAL
+> 
+> Yeah, I understand. And I think there is certain there's certain information-- we've released everything today that we are able to release, under the constraints of the law and the guidance.
+> 
+> And there's certain information that we simply cannot share relative to some of that proprietary information. So what we've made available are the estimates and the information that we can share.
+> 
+> And we believe, you know very strongly, that this information demonstrates that we really secured a good deal for the Medicare program and tremendous savings for people with Medicare. 
+> 
+> They can expect to see lower prices overall, lower out of pocket costs overall. Individual beneficiaries will save in out of pocket costs, in addition, because of these negotiations.
+> 
+> ...
+> 
+> 00:06:00.021 SENIOR ADMINISTRATION OFFICIAL
+> 
+> So we have released information today about the negotiation process with the drug companies.
+> 
+> What CMS engaged in really was a true, thoughtful, and genuine back and forth with the participating drug companies.
+> 
+> CMS developed initial offers for each of the drugs, collected information from the pharmaceutical companies, collected information from the public and from patients, conducted their own very extensive evidence and literature review, and then held a series of meetings  with each of the companies.
+> 
+> We had an initial offer. The companies had a counteroffer. In some cases in the negotiations, we took the offer put on the table by the drug companies. In other cases we made a final offer to the company that they accepted.
+> 
+> So what what we believe we have achieved is a true back and forth with the manufacturers, a constructive and a transparent process, that really lays the foundation for negotiations in the future. 
+> 
+> So we have a strong process that we know we can build on in future cycles of the negotiations.
+> 
+> ...
+>  
+> 00:07:30.240 SENIOR ADMINISTRATION OFFICIAL
+> 
+> The negotiations were genuine back and forth with the participating drug companies, and we learned a lot of valuable information in the negotiation meetings.
+> 
+> Some of the topics discussed during those meetings were the information outlined in the law for the selected drug, including clinical benefit, and how a selected drug benefits people with Medicare and the Medicare program, as well as therapeutic alternatives for the selected drug and how they should inform the negotiated price.
+> 
+> Also we discussed the revised offer and counteroffer prices from Cms and the participating companies, and further steps for the negotiations.
+> 
+> And I'll say that at the forefront of CMS mind always was maintaining access and getting a better price for Medicare.
+> 
+> And so, you know, for 5 of the selected drugs, we reached an agreement on a negotiated price in association with one of those negotiation meetings, and for the remaining 5 selected drugs, we sent a written final offer to those drug companies, and each company accepted that written final offer.
+> 
+> And the last thing I'll say is that the statute requires that by March 1st of next year, 2025, that we publish explanations of the new negotiated prices. 
+> 
+> So we will have more to say about the prices, the data we receive, the exchange of offers, and counteroffers, and the negotiation meetings when we release those explanations by the statutory deadline.
+> 
+> ...
+> 
+> 00:11:39.310 QUESTION
+> 
+> Can you tell us why you aren't able to disaggregate that 1.5 billion dollar estimate by drug?
+> 
+> 00:11:55.430 SENIOR ADMINISTRATION OFFICIAL
+> 
+> So the 1.5 billion in out of pocket savings is a meaningful difference for people with all Medicare Part D coverage.
+> 
+> And this savings also, we wanted to emphasize, is in addition to savings from other cost saving provisions in the Inflation Reduction Act, such as the first ever cap on out of pocket drug costs for people with Medicare that goes into effect next year in 2025.
+> 
+> So this estimated 1.5 savings further enriches the generosity of the Part D benefit for Medicare Part D beneficiaries. 
+> 
+> But it is very hard to predict savings for certain drugs or groups of beneficiaries until Part D plans develop their plan design for 2026. And so that's why, today, we have a 1.5 billion in out of pocket savings across the program.
+> 
+> 00:12:43.210 QUESITON
+> 
+> And then so just to follow up on that, does that mean that it is possible there are some beneficiaries taking these drugs who will not see an out of pocket savings relative to what they're paying now.
+> 
+> 00:12:56.390 SENIOR ADMINISTRATION OFFICIAL
+> 
+> So each enrollee's specific out-of-pocket costs will vary based on their particular plan design. 
+> 
+> But the Inflation Reduction act is saving people costs in so many ways that we expect that people in Medicare are going to experience a real difference.
+> 
+> 00:13:12.650 SENIOR ADMINISTRATION OFFICIAL
+> 
+> And just to add to that, you know, I would just underscore the point that Megan made about the importance of understanding the effects for beneficiaries of the law in its entirety.
+> 
+> So we know, as of today, that people with Medicare can say-- will-- can expect to save an estimated overall 1.5 billion as a result of the negotiation program.
+> 
+> We know that beneficiaries who are paying tens of thousands of dollars on their prescription drugs every year will benefit from the $2,000 out-of-pocket cap, starting next year.
+> 
+>  We know that they're already benefiting from the $35 insulin cap, as well as free recommended vaccines.
+> 
+> I would also point you to some examples that we have shared today of potential lowered coinsurances on some of the highest cost prescription drugs.
+> 
+> So we have in the HHS press release an example for Stelara that demonstrates how, if a beneficiary paying a 25% coinsurance today on that prescription drug, then paid that same coinsurance when the maximum fair prices go into effect, they would see significant savings.
+> 
+> So overall, we believe that this law will tremendously benefit people with Medicare. They will see out of pocket savings as a result of the negotiations, and they will also see out of pocket savings as a result of the many provisions in the law that provide them a guarantee of lower prices.
+> 
+> ...
+> 
+> 00:16:27.777 SENIOR ADMINISTRATION OFFICIAL
+> 
+> It is important to us that people with Medicare can continue to choose among a variety of health plans that are affordable to them, whether or not that is through their premium or through the cost sharing and out of pocket savings that we're talking about today as a result of negotiations in the future as well as those that we've already discussed, the insulin cap, the $2,000 out of pocket cap, and more.
+> 
+> ...
+> 
+> 00:16:58.520 SENIOR ADMINISTRATION OFFICIAL
+> 
+> 12028176133: Regarding the voluntary demonstration program, this is consistent with past practice, when there have been major changes in the Medicare Part D program. 
+> 
+> And so this demonstration program is intended to help with the transition of the redesigned Part D benefit, which is so much more generous for people with Medicare now, and the program will improve premium stability for standalone prescription drug plans. 
+> 
+> So what we would say to beneficiaries is that they will have stable, affordable choices of Medicare plans while they are lower-- while they are seeing lower drug costs.
+> 
+> And though I would also want to point out that the savings for the negotiation program are only going to scale. This 6 billion is just for one year. But we will be continuing to negotiate, selecting more drugs and accruing savings from the drugs this year as well.
+> 
+> ...
+> 
+> 00:19:04.359 SENIOR ADMINISTRATION OFFICIAL
+> 
+> The short answer is that CMS has taken action on this issue through guidance, and intends, through its formulary review process, to monitor access to these prescription drugs which must be covered under the law. 
+> 
+> ...
+> 
+> 00:19:20.430 SENIOR ADMINISTRATION OFFICIAL
+> 
+> 12028176133: So just emphasize that access to affordable prescription drugs is our primary focus within the drug price negotiation program. 
+> 
+> The law requires that plans provide access to the selected drugs that remain in the Medicare program, and we expect that people with Medicare taking the selected drugs will benefit from the lower negotiated prices.
+> 
+> As [official] mentioned, we will ensure meaningful access to the selected drugs, using our formulary review process where we will be monitoring any practices that may undermine access to selected drugs for people with Medicare, and as part of the annual bid review process, we are requiring Part D sponsors provide a reasonable justification to support the submitted plan design that may include any practices that we've identified that may undermine access.
+
 # August 13, 2024
 
 ## HHS and USDA press conference on H5N1 response from August 13
