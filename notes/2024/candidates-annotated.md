@@ -112,3 +112,64 @@ permalink: /notes/2024/candidates-annotated
 > And you know Trump will do everything he can to ban abortion nationwide. Oh he will. 
 > 
 > You know, Kamala and Tim will do everything they possibly can, that's why have to elect the Senate and the House, to restore Roe v. Wade.
+
+## Harris in Raleigh on August 16
+
+- **Date:** August 16, 2024
+- **Location:** Raleigh, NC
+- **Source:** [livestream](https://youtu.be/IbhXnF2Jo94) by campaign
+
+> Kamala Harris [23;27]
+> 
+> As attorney general in California, I went after companies that illegally increased prices. Including wholesalers that inflated the price of prescription medication.
+> 
+> ...
+> 
+> Kamala Harris [26;02]
+> 
+> As president, I'll attack and take on the issue of the cost of health care. 
+> 
+> As attorney general, I took on insurance companies and big pharma and got them to lower their prices.
+> 
+> And together with President Biden, we've gone even further. 
+> 
+> We capped the price of insulin at 35 dollars a month and the total cost-- And the total cost of prescription drugs at 2,000 a year for seniors.
+> 
+> We let Medicare negotiate lower drug prices for seniors.
+> 
+> And just yesterday-- and just yesterday, we announced that we are lowering the price by up to 80% for 10 more life saving drugs.
+> 
+> And I pledge to continue this progress. 
+> 
+> I'll lower the cost of insulin and prescription drugs for everyone, with your support, not only our seniors, and demand transparency from the middlemen companies who use opaque practices to raise your drug prices and profit off your need for medicine.
+> 
+> Two months ago I announced that medical debt will no longer be used against your credit score. 
+> 
+> And I will work, as president, with states like here in North Carolina, Roy Cooper, thank you again, to cancel medical debt for more and more, millions more Americans.
+> 
+> As for Donald Trump, well he wants to repeal the Affordable Care Act, which 45 million Americans rely on.
+> 
+> 45 million Americans rely on it for health care. That would take us back to a time when insurance companies could deny people with pre-existing conditions. 
+> 
+> We all remember what that was. And we're not going back. We're not going back.
+> 
+> And remember-- and this is why we're not going back, because we do remember, he tried to cut Medicare every year he was president, threatening a program that tens of millions of seniors count on.
+> 
+> And according to his Project 2025 agenda, he intends to undo our work to bring down prescription drugs, the cost of prescription drugs, and insulin costs.
+> 
+> Well, we've come too far to let that happen. 
+> 
+> ...
+> 
+> Kamala Harris [37;33]
+> 
+> Two days ago, Donald Trump was here in North Carolina. 
+> 
+> He said he was going to talk about the economy. I think you all who watched, you know what I'm about to say.
+> 
+> But he offered no serious plans to reduce costs for middle class families. 
+> 
+> No plan to expand access to housing or health care. 
+
+
+
