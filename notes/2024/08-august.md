@@ -9,6 +9,40 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 20, 2024
+
+## Donald Trump on enforcing the Comstock Act
+
+- **Source:** [interview](https://youtu.be/dmfGRdlBq38?t=343)
+- **Attribution:** published by CBS News
+- **Date:** published August 19, 2024
+
+> Caitlin Huey-Burns [5;43]
+> 
+> As president, would you enforce the Comstock Act, which could prohibit the sale of-- or the distribution of medication abortion by mail?
+> 
+> Donald Trump 
+> 
+> No. We will be discussing specifics of it, but generally speaking, no, I would not.
+> 
+> Caitlin Huey-Burns 
+> 
+> You would not enforce the Comstock Act?
+> 
+> Donald Trump
+> 
+> I-- I would not do that.
+> 
+> Caitlin Huey-Burns 
+> 
+> Should medication abortion be widely available?
+> 
+> Donald Trump
+> 
+> Well, it's going to be available, and it is now, and as I know it, the Supreme Court has said, keep it going the way it is. 
+> 
+> I will enforce and agree with the Supreme Court. But basically, they've said, keep it the way it is now.
+
 # August 15, 2024
 
 ## Senior administration officials on Medicare Drug Price Negotiation Program
