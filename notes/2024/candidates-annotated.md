@@ -171,5 +171,48 @@ permalink: /notes/2024/candidates-annotated
 > 
 > No plan to expand access to housing or health care. 
 
+## Harris in Las Vegas on August 10
 
+- **Date:** August 10, 2024
+- **Location:** Las Vegas, NV
+- **Source:** [livestream](https://youtu.be/fDcXZp4Vi4Y) by campaign
 
+> Kamala Harris [35;55]
+> 
+> I will take on big corporations that engage in illegal price gouging, corporate landlords that unfairly raise rents on working famillies, and take on big pharma and cap the cost of prescription drugs for all Americans.
+> 
+> ...
+> 
+> Kamala Harris [40;35]
+> 
+> If he is elected, Donald Trump intends to give tax breaks to billionaires and big corporations.
+> 
+> He intends to cut Social Security and Medicare.
+> 
+> ...
+> 
+> Kamala Harris [41;12]
+> 
+> On top of this, if Donald Trump were to win in November-- he won't, but if he were to win in November, he intends to end the Affordable Care Act.
+> 
+> Think about that. To take us back to a time when insurance companies had the power to deny people with pre-existing conditions.
+> 
+> You remember what that was, like children with asthma, breast cancer survivors, grandparents with diabetes. 
+> 
+> Look, America has tried these failed policies before and we are not going back. 
+> 
+> ...
+> 
+> Kamala Harris [45;19]
+> 
+> We all know how we got here.
+> 
+> When he was president, Donald Trump handpicked three members of the United States Supreme Court, because he intended for them to undo the protections of Roe v Wade.
+> 
+> And as he intended they did. Now in more than 20 states, there is a Trump abortion ban, many with no exceptions even for rape and incest.
+> 
+> And be sure, if he were to win, he would sign a national abortion ban, which would outlaw abortion in every state, even Nevada.
+> 
+> But we are not going to let that happen. Because we trust women.
+> 
+> And when I am president, and Congress passes a bill to restore reproductive freedoms, I will sign it into law.
