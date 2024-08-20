@@ -43,6 +43,60 @@ permalink: /notes/2024/08
 > 
 > I will enforce and agree with the Supreme Court. But basically, they've said, keep it the way it is now.
 
+# August 19, 2024
+
+## CDC laboratory testing call from August
+
+- **Source:** webinar
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** occurred August 19, 2024
+
+> Natalie Thornburg, CDC [00:03:36]
+> 
+> So last year we reached a peak of percent positivity in the summer right around August 26 at just around 15%. And we're a bit higher than that right now. And we're sitting at about 18% test positivity in the national picture. 
+> 
+> There are some indicators that this may be hitting-- we may be hitting our peak. There are a couple of regions where we're starting to see decreases in percent positivity. 
+> 
+> So we're seeing decreases in percent positivity in regions two and region nine. So hopefully we'll be able to start seeing that in the national picture as well soon. 
+> 
+> So what does that mean for our hospitalization rate? So this is hospitalization rate per 100,000 people. This is from COVID-NET, surveillance system. The red line in the bottom is our current year. So 23, 24, starting in August or September last year. And here we are right now. 
+> 
+> We're a little higher than we were this time last year, but we're a little higher with percent positivity as well. And our-- this summer, the summer cases, started a little bit earlier this year than they did last year. But still relatively low in comparison to previous year. So last year, it's color, green color, this dark green color with circles, 21-22 is this sort of smooth green line. And then 2021 is the blue line here. 
+> 
+> So in comparison to 2021, 21-22, 22-23, generally low number of hospitalizations, although not zero hospitalizations. 
+> 
+> ...
+> 
+> Natalie Thornburg, CDC [00:06:45]
+> 
+> So our modeled Nowcast estimates are estimating the lineage KP.3.1.1 is predicted to be the most prevalent lineage, with somewhere between about 30 and 43% of circulating viruses are this viral lineage, this viral lineage descended from JN.1, which emerged last November-ish and all the viruses that have been circulating since December, January have been JN.1 lineage viruses. 
+> 
+> And the updated vaccines that will be released this year are JN.1 formulations. All of these viruses that are circulating currently, even though they have very different names are very, very similar to each other. So it is just a nomenclature issue, why you have these different sounding names like LB.1 and KP.3. 
+> 
+> And it's just because when you get a lot of numbers on the back side of a lineage, it becomes very difficult to say. And so they're assigned an alias, which is why they have sort of the different numbers.
+> 
+> But in reality, all of these viruses are JN.1 lineage viruses, and they're very similar to each other with a couple of amino acid differences between them. 
+> 
+> ...
+> 
+> Gilberto Santiago, CDC [00:29:31]
+> 
+> In the darker color, dark maroon color, you're going to see, where 2024 is looking, how is it looking so far compared to previous years, even record breaking numbers per week, therefore what this graph is telling us is that we should expect these numbers to continue this upward trends through the rest of the year, maybe next year as well. 
+> 
+> ...
+> 
+> Question [00:43:54]
+> 
+> How does the prevalence of dengue stereotype change over time and what affects the dominance of a specific stereotype?
+> 
+> Gilberto Santiago, CDC [00:44:02]
+> 
+> That is a very good question. 
+> 
+> That is actually something particular to every region that is endemic for dengue, of course, has also to do with epidemiological background of the population that influences and shapes the-- the susceptibility of the region. 
+> 
+> For example, we have in Puerto Rico, we have had experienced dengue one transmission for many, many years. And then all of a sudden, the population becomes resistant to dengue one and the transmission of dengue one, so it seeds and opens the gateway for the new serotype to come in. And that's when we see the resurgence of other stereotypes, it's just of dengue two and dengue three happened recently in the past few years, where the population is more susceptible for this virus and is open for transmission.
+
 # August 15, 2024
 
 ## Senior administration officials on Medicare Drug Price Negotiation Program
