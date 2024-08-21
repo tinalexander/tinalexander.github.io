@@ -211,6 +211,20 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > And understand, as a result of our negotiations, the government will also pay less, then, for prescription drugs.  And think about what that means in terms of paying — helping taxpayers save money, whether or not they take these medications.
 
+## Harris in San Francisco on August 11
+
+- **Date:** August 11, 2024
+- **Location:** San Francisco, CA
+- **Source:** [transcript](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/11/remarks-by-vice-president-harris-at-a-political-event-in-san-francisco-ca/) by White House
+
+> And now, in state after state, laws have been proposed and passed to punish women, to criminalize doctors. 
+> 
+> You know, in Texas that law provides prison for life.  Understand what’s happening in our country: laws with no exception, even for rape or incest.
+> 
+> ...
+> 
+> And the reality is that if Donald Trump were to win this election, he would sign a national abortion ban.  And if a national abortion ban is in play, California and many other states that have protected the right will not be immune. 
+
 ## Harris in Las Vegas on August 10
 
 - **Date:** August 10, 2024
