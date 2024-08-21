@@ -1,9 +1,9 @@
 ---
 title: Candidates Annotated
-permalink: /notes/2024/candidates-annotated
+permalink: /notes/2024/candidates-excerpts
 ---
 
-[tinalexander.github.io](https://tinalexander.github.io/) / [notes](https://tinalexander.github.io/notes/) / [2024](https://tinalexander.github.io/notes/2024/) / **candidates-annotated** /
+[tinalexander.github.io](https://tinalexander.github.io/) / [notes](https://tinalexander.github.io/notes/) / [2024](https://tinalexander.github.io/notes/2024/) / **candidates-excerpts** /
 
 **Learn more [about this site](https://tinalexander.github.io/notes/) and [how to get in touch](https://github.com/tinalexander#about-me).**  
 
