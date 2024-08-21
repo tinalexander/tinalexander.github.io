@@ -445,8 +445,19 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > And with Tim Walz by my side, when I am president of the United States, and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom and I will proudly sign it into law.
 
+## Harris in Houston on July 31
 
+- **Date:** July 31, 2024
+- **Location:** Houston, TX
+- **Source:** [transcript](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/31/remarks-by-vice-president-harris-at-sigma-gamma-rho-sorority-incorporateds-60th-international-biennial-boule/) by White House
 
+> When he was president, he gave tax breaks to billionaires and big corporations.  He tried to cut Social Security and Medicare every single year.  And he and his allies have tried more than 60 times to end the Affordable Care Act and to take us back to a time when insurance companies had the power to deny people with preexisting conditions. 
+> 
+> ...
+> 
+> And now, in the South, where the majority of Black women live, every state except for Virginia has an abortion ban, many with no exception even for rape and incest. 
+> 
+> And now, he intends to pass a nationwide abortion ban to ban access to fundamental health care in every state. 
 
 
 
