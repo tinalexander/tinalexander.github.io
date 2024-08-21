@@ -9,6 +9,40 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 21, 2024
+
+## Harris campaign on Walz family using IUI
+
+- **Source:** emailed statement
+- **Attribution:** Gwen Walz
+- **Date:** received August 21, 2024
+
+> “Like millions of families across the country, for years, Tim and I tried to start a family through fertility treatments. We followed the journey that is infertility -- the anxiety, the agony, and the desperation that can eat away at your soul.  
+> 
+> "Knowing that pain, I cannot fathom the cruelty of politicians who want to take away the freedom for couples to access the care they need. After seeing the extreme attacks on reproductive health care across the country – particularly, the efforts in Alabama that jeopardized access to fertility treatments -- Tim and I agreed that it was time to formally speak out about our experience. Our experience taught us that there is always hope and we hope other families find solace in our story. Since then, I have been greatly touched by the women who have shared their stories with me.
+> 
+> “Our fertility journey was an incredibly personal and difficult experience. Like so many who have experienced these challenges, we kept it largely to ourselves at the time – not even sharing the details with our wonderful and close family. The only person who knew in detail what we were going through was our next door neighbor. She was a nurse and helped me with the shots I needed as part of the IUI process. I’d rush home from school and she would give me the shots to ensure we stayed on track. Many of our closest family and friends were surprised when we shared these experiences so many years later.”
+> 
+> Beyond that, please see below for statements from the campaign and some additional context for your consideration. 
+
+- **Source:** emailed statement
+- **Attribution:** Harris-Walz campaign spokesperson Mia Ehrenberg
+- **Date:** received August 21, 2024
+
+> "The Trump campaign's attacks on Mrs. Walz are just another example of how cruel and out of touch Donald Trump and JD Vance are when it comes to women's healthcare. Infertility is a deeply personal journey, but the Governor and Mrs. Walz came forward to share their story because they know that MAGA attacks on reproductive rights are putting all fertility treatments at risk."
+>
+> ...
+> 
+> "Governor Walz talks how normal people talk. He was using commonly understood shorthand for fertility treatments."
+
+## CDC NCHS spokesperson on NSFG data
+
+- **Source:** emailed statement
+- **Attribution:** National Center for Health Statistics spokesperson
+- **Date:** received August 21, 2024
+
+> The data we currently have is the most recent available. We do have plans to update it in the future, but at this time, we do not have a specific release date.
+
 # August 20, 2024
 
 ## Donald Trump on enforcing the Comstock Act
