@@ -171,6 +171,46 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > No plan to expand access to housing or health care. 
 
+## Harris in Largo to overflow crowd on August 15
+
+- **Date:** August 15, 2024
+- **Location:** Largo, MD
+- **Source:** [transcript](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-and-vice-president-harris-to-overflow-crowd-largo-md/) by White House
+
+> Have you all seen that list that we published — (applause) — about the — what is going to be — anywhere from — I think it’s 40 to 80 percent reduction of cost for prescription medication.  (Applause.)  It’s extraordinary, and it has never happened before.
+
+## Harris in Largo to event on August 15
+
+- **Date:** August 15, 2024
+- **Location:** Largo, MD
+- **Source:** [transcript](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-and-vice-president-harris-on-the-progress-they-are-making-to-lower-costs-for-the-american-people-largo-md/) by White House
+
+> And why — we all know, but let’s ask — why are prescrips- — why are prescription drugs so expensive? 
+> 
+> AUDIENCE:  Why?
+> 
+> THE VICE PRESIDENT:  I will tell you.  (Applause.)  Well, one big reason is, for years, Big Pharma has often inflated the price of lifesaving medications —
+> 
+> AUDIENCE:  Booo — 
+> 
+> THE VICE PRESIDENT:  — often charging many times what it would cost to make, just to increase their profits.  And millions of Americans have suffered as a result. 
+> 
+> My entire career, I have worked to hold bad actors accountable and lower the cost of prescription drugs.  As attorney general of California, I took on pharmaceutical companies for deceptive marketing and illegally inflating the cost of drugs — (applause) — and we won billions of dollars. 
+> 
+> As a United States senator, I fought to pass laws that would make health care more affordable and accessible for all Americans. 
+> 
+> And as vice president, together with Joe Biden, our president — (applause) — we finally addressed the long-standing issue that for years was one of the biggest challenges on this subject, which was that Medicare was prohibited by law from negotiating lower drug prices, and those costs then got passed on to our seniors.  But not anymore.  (Applause.)
+> 
+> Two years ago, we gave Medicare the power to negotiate lower prescription drug prices for the first time in history.  (Applause.)  And here is why that matters: It is nearly impossible for a patient to negotiate lower prices by themselves.  Just think about that — somebody who needs the medication, who may be suffering from a serious illness, that they would by themselves be able to negotiate against a big drug company to lower their prices is virtually impossible.  It’s one person against a huge corporation. 
+> 
+> But Medicare represents more than 65 million people.  And so, Medicare has collective bargaining power.  And now Medicare can use that power to go toe-to-toe with Big Pharma and negotiate lower drug prices.  (Applause.)
+> 
+> ...
+> 
+> And this is to the benefit of not only tens of millions of people on Medicare but also millions of Americans on Medicare who have long-term disabilities.
+> 
+> And understand, as a result of our negotiations, the government will also pay less, then, for prescription drugs.  And think about what that means in terms of paying — helping taxpayers save money, whether or not they take these medications.
+
 ## Harris in Las Vegas on August 10
 
 - **Date:** August 10, 2024
