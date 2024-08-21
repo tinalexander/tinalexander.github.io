@@ -216,3 +216,95 @@ permalink: /notes/2024/candidates-excerpts
 > But we are not going to let that happen. Because we trust women.
 > 
 > And when I am president, and Congress passes a bill to restore reproductive freedoms, I will sign it into law.
+
+## Harris in Phoenix on August 9
+
+- **Date:** August 9, 2024
+- **Location:** Phoenix, AZ
+- **Source:** [livestream](https://youtu.be/9mUuY6USQKs) by campaign
+
+> Kamala Harris [1;08;18]
+> 
+> I will take on big pharma and cap the cost of prescription drugs for all Americans.
+> 
+> ...
+> 
+> Kamala Harris [1;10;32]
+> 
+> On top of all this, if Donald Trump wins in November, he intends -- he intends to end the Affordable Care Act. 
+> 
+> And take us back to a time when insurance companies had the power to deny people with pre-existing conditions. 
+> 
+> You remember what that was. Remember what that was?
+> 
+> ...
+> 
+> Kamala Harris [1;15;21]
+> 
+> Now in over 20 states in our nation, there is a Trump abortion ban.
+> 
+> Many like Arizona, with no exceptions even for rape or incest.
+> 
+> And just yesterday, in a press conference, we got a fresh reminder of what Donald Trump's Project 2025 agenda would do.
+> 
+> It would ban medication abortion in every state. But we are not going to let that happen because we trust women.
+> 
+> And when I am president of the United States, and when Congress passes a bill to restore reproductive freedoms for every woman in America, I will sign it into law.
+
+## Harris in Detroit on August 7
+
+- **Date:** August 7, 2024
+- **Location:** Detroit, MI
+- **Source:** [livestream](https://youtu.be/RL9xw5Arg3g) by campaign
+
+> Kamala Harris [34;07]
+> 
+> When I am president, it will be my day one priority to fight to bring down prices to take on the big corporations that engage in illegal price gouging, take on the corporate landlords that unfairly raise rents on working families, to take on big pharma and cap the cost of prescription drugs for all.
+> 
+> ...
+> 
+> Kamala Harris [36;49]
+> 
+> He intends to cut Social Security and Medicare. He intends to surrender our fight against the climate crisis. And he intends to end the Affordable Care Act.
+> 
+> ...
+> 
+> Kamala Harris [38;06]
+> 
+> We're not going back because we know what that would look like.
+> 
+> And again, understand, Donald Trump intends to end the Affordable Care Act and take us back to a time when insurance companies had the power to deny people with pre-existing conditions.
+> 
+> We all remember what that looked like and we're not going back.
+> 
+> ...
+> 
+> Kamala Harris [41;06]
+> 
+> We who are paying attention to the fact that now over 20 states in our country have a Trump abortion ban, many with no exceptions, even for rape and incest.
+> 
+> And we all know, if he wins, he would sign a national abortion ban to outlaw abortion in every state.
+> 
+> And that would include the great state of Michigan. But we're not going back.
+> 
+> ...
+> 
+> Kamala Harris [41;42]
+> 
+> There is a thing about who we are that is a bit different from the folks on the other side.
+> 
+> We trust women to know what is in their best interest and not have their government telling them what to do.
+> 
+> And when I am president of the United States, and Congress passes a bill to restore reproductive freedoms, I will sign it into law.
+
+## Harris in Detroit on August 7
+
+- **Date:** August 7, 2024
+- **Location:** Detroit, MI
+- **Source:** [livestream](https://youtu.be/RL9xw5Arg3g) by campaign
+
+
+
+
+
+
