@@ -297,11 +297,102 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > And when I am president of the United States, and Congress passes a bill to restore reproductive freedoms, I will sign it into law.
 
-## Harris in Detroit on August 7
+## Harris in Eau Claire on August 7
 
 - **Date:** August 7, 2024
-- **Location:** Detroit, MI
-- **Source:** [livestream](https://youtu.be/RL9xw5Arg3g) by campaign
+- **Location:** Eau Claire, WI
+- **Source:** [livestream](https://youtu.be/PDILPa5Tus4) by campaign
+
+> Kamala Harris [29;46]
+> 
+> I will take on big pharma and cap the cost of prescription drugs for all Americans.
+> 
+> ...
+> 
+> Kamala Harris [31;22]
+> 
+> He intends to cut Social Security and Medicare. He intends to surrender our fight against the climate crisis.
+> 
+> And he intends to end the Affordable Care Act. We understand what that means. 
+> 
+> That's about taking us back to a time when insurance companies had the power to deny people with pre-existing conditions. 
+> 
+> You remember that? We are not going back.
+> 
+> ...
+> 
+> Kamala Harris [32;15]
+> 
+> Let's remember the past and what that was like. Because we cannot forget.
+> 
+> On that point about the ACA, remember? People with pre-existing conditions being denied, children with asthma, breast cancer survivors, grandparents with diabetes. That was not joke.
+> 
+> And we cannot go back. Ours has to be a fight for the future.
+> 
+> ...
+> 
+> Kamala Harris [34;48]
+> 
+> And now, more than 20 states in our country have a Trump abortion ban. Many with no exceptions, even for rape and incest.
+> 
+> And if he wins, we all know he will sign a national abortion ban to outlaw abortion in every state. Even in Wisconsin.
+> 
+> But we are not going to let that happen, because we trust women.
+> 
+> And when I am president of the United States and when Congress passes  bill to restore the protections of Roe v Wade, I will sign it into law.
+
+## Harris in Philadelphia on August 6
+
+- **Date:** August 6, 2024
+- **Location:** Philadelphia, PA
+- **Source:** [livestream](https://youtu.be/wP5qOjgY88M) by campaign
+
+> Kamala Harris [48;57]
+> 
+> And he cast one of the critical votes to pass the Affordable Care Act, which of course gave health insurance to millions of Americans.
+> 
+> I'm going to tell you, when we win, Tim and I will continue to make the Affordable Care Act even stronger.
+> 
+> We will win.
+> 
+> ...
+> 
+> Kamala Harris [49;42] 
+> 
+> Now let's talk about what we're dealing with on the other side. 
+> 
+> So on that last topic, if Donald Trump gets the chance, he will end the Affordable Care Act and take us back to a time when insurance companies had  the power to deny people with pre-existing conditions, you remember what that was like?
+> 
+> Children with asthma, breast cancer survivors, grandparents with diabetes.
+> 
+> Well, Governor Walz and I will not let that happen, because we believe health care should be a right and not just a privilege for those who can afford it.
+> 
+> ...
+> 
+> Kamala Harris [52;17]
+> 
+> Now think about this, Donald Trump said he wants to punish women.
+> 
+> And as a result of his actions today, in America, one out of three women live in a state with a Trump abortion ban. One of out of three.
+> 
+> Some of these bans go back to the 1800s, even before women had a right to vote. Think about that.
+> 
+> Well, Tim and I have a message for Trump and other who want to turn back the clock on our fundamental freedoms. 
+> 
+> We're not going back.
+> 
+> ...
+> 
+> Kamala Harris [53;28]
+> 
+> So let me say about Tim Walz, he has shown up to stand up against these attacks long before he stood on the stage with me.
+> 
+> After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right.
+> 
+> And with Tim Walz by my side, when I am president of the United States, and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom and I will proudly sign it into law.
+
+
+
 
 
 
