@@ -9,6 +9,16 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 22, 2024
+
+## CDC spokesperson on Diamond Shruumz illnesses
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received August 22, 2024
+
+> As of Friday, August 16, 2024, there were 145 cases of illness among individuals ranging in age from 4 to 80 years old.
+
 # August 21, 2024
 
 ## Harris campaign on Walz family using IUI
