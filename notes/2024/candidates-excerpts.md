@@ -219,7 +219,7 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > ...
 > 
-> Kamala Harris [27;20
+> Kamala Harris [27;20]
 > 
 > We trust women. We trust women.
 > 
