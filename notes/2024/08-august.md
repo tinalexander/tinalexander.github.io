@@ -217,6 +217,28 @@ permalink: /notes/2024/08
 > 
 > So we're going to be working to get as many people vaccinated as possible, but what went into the forecast was based on historical vaccine uptake that we saw last season.
 
+> Mandy Cohen, CDC [00:01:27]
+> 
+> In terms of modes of transmission, we continue to see that there are two different versions of the mpox virus, clade I and clade II, but both versions of those virus continue to look like they are spread through very close contact, sexual contact, being the most likely.
+> 
+> We are seeing some household, very close contact spread, in places like DRC with clade I. But those dynamics are, we're still investigating those. We still have epidemiologists who are doing that work to understand it.
+> 
+> But we are not seeing transmission in places like churches or markets or others that would make us think that there's some other transmission dynamics other than very close contact.
+> 
+> So we continue to think that dynamic transmission here is very close contact, even with the more transmissible clade I. 
+> 
+> ...
+> 
+> David Boucher, CDC [00:02:31]
+> 
+> We've had 50,000 doses on the table for donation for a considerable amount of time right now.
+> 
+> I think a lot of the focus for us is taking some of those, and turning them actually into shots in arms, getting regulatory approval to import them into DRC. And then the implementation.
+> 
+> We're working quite a bit with our international partners. There are quite a few groups who have equities in this space and obviously want to be respectful to the in-country personnel, as this is their outbreak to manage. 
+> 
+> We want to make sure we give them assistance. That said, we are constantly looking at resources we might be able to bring to assist them in any way they need. 
+
 # August 22, 2024
 
 ## CDC spokesperson on Diamond Shruumz illnesses
