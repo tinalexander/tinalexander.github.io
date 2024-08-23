@@ -23,9 +23,6 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > And then they said, we'll give you health care. 
 
-
-
-
 ## Trump in York on August 19
 
 - **Date:** August 19, 2024
@@ -71,6 +68,58 @@ permalink: /notes/2024/candidates-excerpts
 > Good countries. Nothing wrong. But we want to do it ourselves. 
 > 
 > They make a tremendous amount of money and we lose our jobs. And we want to do it ourselves.
+
+## Trump in Wilkes-Barre on August 17
+
+- **Date:** August 17, 2024
+- **Location:** Wilkes-Barre, PA
+- **Source:** [livestream](https://www.youtube.com/watch?v=XlyL1Q5T2Aw&t=5312s) by campaign
+
+Donald Trump [45;40] 
+
+What they're doing is a communist takeover of our country.
+
+Her plan is very dangerous, because it may sound good politically, and that's the problem, and we have to be very careful.
+
+Because when somebody gets up and says we're going to give you everything, 25,000 for a house, we're going to give you all sorts of little goodies, free healthcare, we're going to give you everything, universal health care, sounds so beautiful.
+
+And I told my people, you got to be very careful. 
+
+...
+
+Donald Trump [1;09;45] 
+
+We did so many things, right to try, medically.
+
+Right to try, if you're terminally ill, you ahd no right to get medicine.
+
+Now you sign a document, they tried to get that for 58 years. 58 years they were unable to get it.
+
+I sat everybody down, the labs, the doctors, the insurance companies, and the country, because they didn't want to be sued, somebody's terminally ill, they take something, they die, and then the family sues them for killing the mother, the father, the sister, the brother.
+
+And I said, no you're going to sign a document, and you're not going to sue anybody, but you're going to go home and you're going to have the greatest drugs in the world that won't be approved for another four or five years, if terminally ill.
+
+And we have saved thousands and thousands of lives. Thousands. So we did a lot.
+
+...
+
+Donald Trump [1;10;39] 
+
+By the way, all of that great work done, we had the greatest lab technicians, the greatest doctors, the greatest laboratories in the world.
+
+All of that, under her system, gets wiped out.
+
+They're close to a lot of great cures. I worked very hard on that.
+
+I also worked very hard on the FDA, getting them to bring it down, bring it down, because it was going to take an average of 12 years to get something approved. I got it down to five.
+
+I want to get it-- I wanted to get it down to two, but things have to happen, but we got it way, way down and we came up with things and we have thousands of people that are living today that were considered terminally ill, just a short while ago.
+
+It's one of the things I'm most proud of, it's called right to try. And hopefully nobody in this room needs it, but if you do, you don't have to go to Asia, you don't have to go to Europe, or if you have no money, you go home and you die. That's what happens.
+
+You don't, mostly, people don't have any hope, they go home and die. Now you have right to try. And thousands of people are living right now that would not be living.
+
+...
 
 # Kamala Harris 
 
