@@ -9,6 +9,82 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 23, 2024
+
+## HHS officials at press conference on respiratory viru season
+
+- **Source:** press conference
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** occurred August 23, 2024
+
+> Mandy Cohen, CDC [00:05:42]
+> 
+> Our work to prepare for the fall and winter started even before last season was over. 
+> 
+> -- where clinicians needed more support, CDC worked with partners with deep reach into the most at risk populations. 
+> 
+> We certainly made it easier as we go into this season for clinicians to pre-order vaccines for the upcoming season, both from the Vaccines for Children program, and from manufacturers.
+> 
+> We created streamlined educational materials with our clinician partners.
+> 
+> And we worked with electronic health record scheduling platform and clinical decision support partners to make it easier for clinicians to get the information into their workflow that they need to vaccinate their patients. 
+> 
+> CDC also hosted a series of webinars with clinicians to help clinics prepare for the fall and winter respiratory season, including a recent webinar with the AMA that was viewed over 17,000 times in the first two days alone. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:06:49]
+> 
+> We, of course at CDC, continue to closely track the changes to the virus that cause COVID and make that information available to the public. 
+> 
+> The good news is, so far, that the updated vaccine closely matches the KP.3 family of viruses that continues to grow in dominance. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:10:37]
+> 
+> Finally, with the end of the bridge program, CDC has identified an additional 62 million dollars for state and local immunization programs to buy COVID vaccines this respiratory season, which will improve access to vaccines for the uninsured and underinsured adults. 
+> 
+> We anticipate additional funding coming to community based organizations to continue to help get the word out to populations that public health may not be able to reach.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:11:06]
+> 
+> In terms of what we expect from the flu, COVID, and RSV season coming up, CDC's Center for Forecasting and Analytics, otherwise known as CFA, pulled together a fall winter virus outlook, examining historical data and scenario modeling. 
+> 
+> And based on all of that information analyzed and consultation with experts, CDC projects that this respiratory season will have a similar or lower number of combined peak hospitalizations across COVID, flu, and RSV compared to last year.
+> 
+> Now that being said, there are a lot of assumptions that go into a projection like this.
+> 
+> -- disposal to prevent disease. If those assumptions prove wrong, say for example, the number of people who ultimately get vaccinated against flu COVID and RSV is lower than expected, then that could mean more hospitalizations, not fewer. 
+> 
+> So the power is in our hands. Changes to the virus that causes COVID 19 could also drive increased disease severity. 
+> 
+> So again, it's important to stay vigilant and to use the tools we have to keep ourselves safe and healthy. 
+> 
+> ...
+> 
+> Dawn O'Connell, ASPR [00:12:46]
+> 
+> I'm pleased to announce that ASPR's free at home COVID 19 test delivery program will reopen in late September as families start to move indoors this fall and begin spending time with their loved ones, both very old and very young. 
+> 
+> They will once again have the opportunity to order up to four new COVID 19 tests free of charge and have them sent directly to their homes. 
+> 
+> These tests will help keep families and their loved ones safe this fall and winter season. 
+> 
+> This is the seventh time over the last three years that the Biden Harris administration has given families the opportunity to order the over-the-counter COVID 19 test for free through COVID tests dot gov. 
+> 
+> These tests will detect the currently circulating COVID 19 variants. 
+> 
+> Since the program started in 2021, ASPR has provided more than 1.8 billion over the counter COVID 19 tests to Americans. 
+> 
+> So far more than 900 million at home tests have been distributed through the COVID tests dot gov program in partnership with our colleagues at the U.S. Postal Service. 
+> 
+> In addition, ASPR has distributed 900 million at home tests through community based access points. 
+> 
+> These tests have been sent to long-term care centers, food banks, libraries, and many other community based locations. 
+
 # August 22, 2024
 
 ## CDC spokesperson on Diamond Shruumz illnesses
