@@ -75,51 +75,109 @@ permalink: /notes/2024/candidates-excerpts
 - **Location:** Wilkes-Barre, PA
 - **Source:** [livestream](https://www.youtube.com/watch?v=XlyL1Q5T2Aw&t=5312s) by campaign
 
-Donald Trump [45;40] 
+> Donald Trump [45;40] 
+> 
+> What they're doing is a communist takeover of our country.
+> 
+> Her plan is very dangerous, because it may sound good politically, and that's the problem, and we have to be very careful.
+> 
+> Because when somebody gets up and says we're going to give you everything, 25,000 for a house, we're going to give you all sorts of little goodies, free healthcare, we're going to give you everything, universal health care, sounds so beautiful.
+> 
+> And I told my people, you got to be very careful. 
+> 
+> ...
+> 
+> Donald Trump [1;09;45] 
+> 
+> We did so many things, right to try, medically.
+> 
+> Right to try, if you're terminally ill, you ahd no right to get medicine.
+> 
+> Now you sign a document, they tried to get that for 58 years. 58 years they were unable to get it.
+> 
+> I sat everybody down, the labs, the doctors, the insurance companies, and the country, because they didn't want to be sued, somebody's terminally ill, they take something, they die, and then the family sues them for killing the mother, the father, the sister, the brother.
+> 
+> And I said, no you're going to sign a document, and you're not going to sue anybody, but you're going to go home and you're going to have the greatest drugs in the world that won't be approved for another four or five years, if terminally ill.
+> 
+> And we have saved thousands and thousands of lives. Thousands. So we did a lot.
+> 
+> ...
+> 
+> Donald Trump [1;10;39] 
+> 
+> By the way, all of that great work done, we had the greatest lab technicians, the greatest doctors, the greatest laboratories in the world.
+> 
+> All of that, under her system, gets wiped out.
+> 
+> They're close to a lot of great cures. I worked very hard on that.
+> 
+> I also worked very hard on the FDA, getting them to bring it down, bring it down, because it was going to take an average of 12 years to get something approved. I got it down to five.
+> 
+> I want to get it-- I wanted to get it down to two, but things have to happen, but we got it way, way down and we came up with things and we have thousands of people that are living today that were considered terminally ill, just a short while ago.
+> 
+> It's one of the things I'm most proud of, it's called right to try. And hopefully nobody in this room needs it, but if you do, you don't have to go to Asia, you don't have to go to Europe, or if you have no money, you go home and you die. That's what happens.
+> 
+> You don't, mostly, people don't have any hope, they go home and die. Now you have right to try. And thousands of people are living right now that would not be living.
+> 
+> ...
+> 
+> Donald Trump [1;20;39]
+> 
+> And I will always protect Social Security and Medicare for our great seniors, just as I did for four incredible years.
+> 
+> By contrast, Kamala Harris has a three step plan to destroy Medicare and Social Security.
+> 
+> She's going to destroy your Medicare, she's going to destroy your Social Security.
+> 
+> First, she has thrown open our borders. Second, she is flooding our country with millions and millions of low-wage migrants and giving them welfare, free health care, food stamps, public benefits.
+> 
+> And third, she wants to make them all citizens of the United States. 
+> 
+> Many of them coming from prison. Many of them coming from mental institutions. And many are terrorists.
+> 
+> She wants to make them citizens, dumping them onto Medicare, and dumping them into your beautiful Social Security program.
+> 
+> Remember, for four years, I saved Social Security. I never gave an increase. I never raised the age by five years, which is what they're going to end up doing.
+> 
+> With me, it's staying the way it is. We have a lot of ways we're making money, we don't need to take it away from our seniors.
+> 
+> ...
+> 
+> Donald Trump [1;28;34]
+> 
+> Kamala Harris wants to eliminate private health insurance and give free, taxpayer funded health care to every single illegal alien in the country.
+> 
+> They want to give -- and then you wonder why do they come up? You know why they come up?
+> 
+> Because guys like Newscum and others are saying come up, come to our country, we'll give you health care. 
+> 
+> ...
+> 
+> Donald Trump [1;29;19]
+> 
+> By contrast, I'm going to keep the Affordable Care Act, unless we can do something much better.
+> 
+> We'll keep it, but we can do much better. It's too expensive for the people, they can't afford it, it's lousy health care.
+> 
+> If we can do something better, we're working on it, if we can do something better.
+> 
+> But we will never let anybody touch it unless we have something better. 
+> 
+> We're going to deliver lower prices, lower drug costs, and new options that will dramatically reduce the crushing burden on all American patients.
+> 
+> And Kamala and crooked Joe, they try and take credit for 35 dollar insulin, but I was the one that did the 35 dollar insulin, not them.
+> 
+> Just kicked in during their administration. 
+> 
+> I remember, a couple of years, a few years ago, I said, boy oh boy, they said, sir this will kick in over the next two and a half, three years. I said, what about now? You couldn't do it. Just a process.
+> 
+> I said, you know, I hope I win the presidency, because I want to get credit for that. You know? 
+> 
+> He gets up there, and oh, we got 35 dollar-- I got it. 
+> 
+> Kamala Harris' Democrat party is the party of health care for illegals, the Republican Party is the party of common sense. We really are the party of common sense, ultimately.
 
-What they're doing is a communist takeover of our country.
 
-Her plan is very dangerous, because it may sound good politically, and that's the problem, and we have to be very careful.
-
-Because when somebody gets up and says we're going to give you everything, 25,000 for a house, we're going to give you all sorts of little goodies, free healthcare, we're going to give you everything, universal health care, sounds so beautiful.
-
-And I told my people, you got to be very careful. 
-
-...
-
-Donald Trump [1;09;45] 
-
-We did so many things, right to try, medically.
-
-Right to try, if you're terminally ill, you ahd no right to get medicine.
-
-Now you sign a document, they tried to get that for 58 years. 58 years they were unable to get it.
-
-I sat everybody down, the labs, the doctors, the insurance companies, and the country, because they didn't want to be sued, somebody's terminally ill, they take something, they die, and then the family sues them for killing the mother, the father, the sister, the brother.
-
-And I said, no you're going to sign a document, and you're not going to sue anybody, but you're going to go home and you're going to have the greatest drugs in the world that won't be approved for another four or five years, if terminally ill.
-
-And we have saved thousands and thousands of lives. Thousands. So we did a lot.
-
-...
-
-Donald Trump [1;10;39] 
-
-By the way, all of that great work done, we had the greatest lab technicians, the greatest doctors, the greatest laboratories in the world.
-
-All of that, under her system, gets wiped out.
-
-They're close to a lot of great cures. I worked very hard on that.
-
-I also worked very hard on the FDA, getting them to bring it down, bring it down, because it was going to take an average of 12 years to get something approved. I got it down to five.
-
-I want to get it-- I wanted to get it down to two, but things have to happen, but we got it way, way down and we came up with things and we have thousands of people that are living today that were considered terminally ill, just a short while ago.
-
-It's one of the things I'm most proud of, it's called right to try. And hopefully nobody in this room needs it, but if you do, you don't have to go to Asia, you don't have to go to Europe, or if you have no money, you go home and you die. That's what happens.
-
-You don't, mostly, people don't have any hope, they go home and die. Now you have right to try. And thousands of people are living right now that would not be living.
-
-...
 
 # Kamala Harris 
 
