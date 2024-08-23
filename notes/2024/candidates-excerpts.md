@@ -339,6 +339,87 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > She also voted to give them welfare, government health care, and let them raid Medicare and Social Security until there is nothing left.
 
+## Trump in Atlanta on August 3
+
+- **Date:** August 3, 2024
+- **Location:** Atlanta, GA
+- **Source:** [livestream](https://youtu.be/UN9UQ7uJeUA) by campaign
+
+> Donald Trump [1;17;01]
+> 
+> 40 or 50 million illegal aliens will invade our country during the next four years, if they're in. 40 or 50 million.
+> 
+> Medicare and Social Security, you know, she said she wants to put everybody on health care.
+> 
+> You know, that's wonderful, it's all wonderful.
+> 
+> First of all, they shouldn't be told to come here. 
+> 
+> Many of them were fine where they were. But no country can sustain this.
+> 
+> ...
+> 
+> Donald Trump [1;24;17]
+> 
+> Kamala pledged to give free taxpayer funded health care to all illegal aliens.
+> 
+> How do you like that idea?
+> 
+> ...
+> 
+> Donald Trump [2;35;09]
+> 
+> I will not cut one cent from Social Security or Medicare.
+> 
+> I kept that promise four years ago. And I will keep it again. 
+> 
+> ...
+> 
+> Donald Trump [2;36;31]
+> 
+> I will not give one penny to any school that has a vaccine mandate or a mask mandate.
+
+## Trump in Harrisburg on July 31
+
+- **Date:** July 31, 2024
+- **Location:** Harrisburg, PA
+- **Source:** [livestream](https://youtu.be/bw7qo1THgqo) by campaign
+
+> Donald Trump [18;30]
+> 
+> Kamala Harris co sponsored Bernie Sanders' 32 trillion dollar socialist take over of the entire U.S. health care system.
+> 
+> Think of this, U.S. health care, it would mean we're going to have to raise your taxes, bankrupt our country, and she supported outlawing all of the private health insurance.
+> 
+> A lot of people in this room have great-- some people want private health.
+> 
+> It's some of it's incredible. You got to these companies, they're doing an incredible job, they want to be able to--
+> 
+> She wants that banned and she wants that out, you can't buy that anymore, you're paying for it. But it's great stuff.
+> 
+> I mean, some of the companies have unbelievable, the golden plans and all that. And she wants it to be ended.
+> 
+> She pledged to give free taxpayer funded health care to all illegal aliens. Think of that.
+> 
+> ...
+> 
+> Donald Trump [1;22;12]
+> 
+> I will not cut one cent from Social Security or Medicare.
+> 
+> And I kept my promise for four years, and I will keep it again. 
+> 
+> ...
+> 
+> Donald Trump [1;22;43]
+> 
+> By contrast, Kamala cast a tie breaking vote to cut Medicare, you saw this, by 327 billion dollars. In a heartless betrayal of American seniors.
+> 
+> ...
+> 
+> Donald Trump [1;23;38]
+> 
+> And I will not give one penny to any school that has a vaccine mandate or a mask mandate.
 
 # Kamala Harris 
 
