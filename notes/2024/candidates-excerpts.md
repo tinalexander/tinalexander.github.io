@@ -177,9 +177,53 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > Kamala Harris' Democrat party is the party of health care for illegals, the Republican Party is the party of common sense. We really are the party of common sense, ultimately.
 
-
-
 # Kamala Harris 
+
+## Harris in Chicago on August 22
+
+- **Date:** August 22, 2024
+- **Location:** Democratic National Convention in Chicago, IL
+- **Source:** [video](https://youtu.be/saLT1JF4bRA) by CBS News
+
+> Kamala Harris [20;30]
+> 
+> We are not going back to when Donald Trump tried to cut Social Security and Medicare.
+> 
+> We are not going back to when he tried to get rid of the Affordable Care Act.
+> 
+> When insurance companies could deny people with pre-existing conditions.
+> 
+> ...
+> 
+> Kamala Harris [22;51]
+> 
+> I will bring together labor, and workers, and small business owners, and entrepreneurs, and American companies to create jobs, to grow our economy, and to lower the cost of every day needs like health care and housing and groceries.
+> 
+> We will provide access to capital for small business owners and entrepreneurs and founders and we will end America's housing shortage and protect Social Security and Medicare.
+> 
+> ...
+> 
+> Kamala Harris [25;33]
+> 
+> Stories of women miscarrying in a parking lot, developing sepsis, losing the ability to ever again have children, all because doctors are afraid they may go to jail for caring for their patients.
+> 
+> Couples just trying to grow their family, cut off in the middle of IVF treatment. Children who have survived sexual assault, potentially being forced to carry a pregnancy to term.
+> 
+> This is what's happening in our country because of Donald Trump. And understand he is not done.
+> 
+> As part of his agenda, he and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban, with or without Congress.
+> 
+> And get this, get this, he plans to create a national anti-abortion coordinator and force states to report on women's miscarriages and abortions.
+> 
+> Simply put, they are out of their minds.
+> 
+> ...
+> 
+> Kamala Harris [27;20
+> 
+> We trust women. We trust women.
+> 
+> And when Congress passes the bill to restore reproductive freedom, as president of the United States, I will proudly sign it into law.
 
 ## Biden in Chicago on August 20
 
