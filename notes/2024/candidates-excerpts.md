@@ -91,7 +91,7 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > We did so many things, right to try, medically.
 > 
-> Right to try, if you're terminally ill, you ahd no right to get medicine.
+> Right to try, if you're terminally ill, you had no right to get medicine.
 > 
 > Now you sign a document, they tried to get that for 58 years. 58 years they were unable to get it.
 > 
