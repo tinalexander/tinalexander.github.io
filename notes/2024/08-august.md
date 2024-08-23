@@ -85,6 +85,138 @@ permalink: /notes/2024/08
 > 
 > These tests have been sent to long-term care centers, food banks, libraries, and many other community based locations. 
 
+> Mandy Cohen, CDC [00:04:07]
+> 
+> Yes, you absolutely can get COVID, flu vaccines at the same time. It is a best practice. 
+> 
+> We want folks to get both the updated COVID vaccine and the updated flu vaccine. 
+> 
+> So yes, you can get them at the same time. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:04:26]
+> 
+> So our Center for Forecasting and Analytics looked at historical data, consulted with experts, and basically their outlook going forward is that this season we can expect a similar or slightly improved, in terms of peak hospitalizations that we saw last year, when you look at combined COVID, flu, and RSV together. 
+> 
+> But I do want to reiterate that there are a number of assumptions built into that, including that folks go and get vaccinated. And that's why you're hearing so much preparation on our part, both from the operations, the education, to make sure that folks do take the important and best defense that they can get going into this season.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:07:53]
+> 
+> Your point is very well taken about a virus that continues to evolve. And we obviously, in conjunction with our CDC colleagues, keep track of its evolution were there to be some tremendous evolution of this virus, such that we thought that the protection provided by the vaccine was no longer present. 
+> 
+> We might obviously consider, at something other than an annual update, but the current problem is not that the virus is evolving so much. In, at least in terms of my estimation.
+> 
+> It's that we don't have the benefits of the vaccine, which is that, it's not vaccines that prevent disease, it's vaccination, it's getting vaccines in arms. 
+> 
+> And so I think the point of this campaign is that, if you have someone in the office and you can get them to get a COVID 19 vaccine while they're getting their flu vaccine, and we get that immunity into them, that is probably better even than what we have now, which is people who haven't had a COVID 19 vaccine for one or two years. 
+> 
+> So, I think that is the point here, I think of kind of, even though COVID is not the flu, being able to get that shot in the arm is what we really need to have happen. I think that's the point of this campaign here, and you have our word that we're gonna continue to monitoring this. 
+> 
+> And if something were to, if there were a new mutation in this virus that were really concerning, we would have a conversation with the manufacturers about whether we needed to produce another vaccine or whether we'd have a conversation with CDC about whether an additional dose of the existing vaccine could be beneficial. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:09:54]
+> 
+> We continue to see the highest amount of hospitalizations and death from COVID happening in the winter months. 
+> 
+> And so getting that most updated vaccine, prior to those months, continues and recommending, and second, we already recommend a second dose or a boost up dose with the same version of that vaccine six months after first, if you were at higher risk.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:11:55]
+> 
+> Unfortunately the Bridge program was sunset because of rescissions, but we were able to identify an additional 62 million that we put into what's called the 317 program and allows our state and local immunization programs to purchase COVID vaccines for the uninsured and the underinsured. 
+> 
+> But so-- I would encourage folks to be reaching out to their local public health departments, their state public health departments, but in addition, also their federally qualified health centers as well. 
+> 
+> So those are opportunities.
+> 
+> Again, those with insurance, Medicare, Medicaid, private insurance continue to have these vaccines covered. Of course, the Vaccines for Children program covers vaccines for all children. But we do not have that corresponding for adults. So adults should be getting in touch with their local and state public health departments and with federally qualified health centers.
+> 
+> ...
+> 
+> David Boucher, ASPR [00:13:21]
+> 
+> Typically in our prior rounds for COVID test dot gov, we range anywhere from about 50 to 75 million tests. 
+> 
+> We have quite a bit of supply in the Strategic National Stockpile available to support that. So we won't have any inventory issues. 
+> 
+> We'll be able to supply those when people log into COVID test dot gov, they'll be able to order four tests at a time.
+> 
+> ...
+> 
+> David Boucher, ASPR [00:17:31]
+> 
+> I think with the resources we have available for COVID, we need to be a little bit strategic. 
+> 
+> When we thought about when to launch round seven of COVID tests dot gov, we thought it's the right time as people start to travel, as they start to get together with friends and family through the holidays, want them to have those four tests available to them at that time. 
+> 
+> It's a great opportunity also for me to mention that we've sent out just under 2 billion tests, since we started doing this. Only about half of them go out through COVID tests dot gov. 
+> 
+> We have several other distribution channels. The tests that you see in schools, libraries, long term care facilities, food banks, community centers, that type of thing, where they're close to people's homes, those distribution channels, don't pause, they've been active since we started, they go year round.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:18:52]
+> 
+> We are recommending folks September, October, those are a good time to get vaccinated. The important part is getting it done. 
+> 
+> So we want folks to do it. If September from a calendar perspective works better for folks, great. October gets you closer to the winter season, but the important part is getting it done. 
+> 
+> ...
+> 
+> Peter Marks, FDA [00:19:34]
+> 
+> Getting vaccinated now probably gives you the maximum amount of protection that you can get against what's currently circulating. 
+> 
+> And that will last for several months, at least. 
+> 
+> I think it is a matter of personal choice, , but at least Dr. Cohen noted, and I can tell you, I already have my appointment.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:20:32]
+> 
+> I think there is-- the data that we have, is honestly soft. 
+> 
+> I think whether it's a JN.1 or a KP.2 vaccine, getting either one of those in your arm is a good idea. 
+> 
+> There are a small amount of that have come out from laboratories, it's serology data, not clinical trial data, that suggests that perhaps the KP.2 vaccine may provide a modest additional amount of protection, but we'll have to gather those data as the season goes on. 
+> 
+> And I, at this point, I know some of our European colleagues are going to be receiving, in much of Europe, they may be using JN.1. 
+> 
+> We will have both JN.1 and KP.2 targeted vaccines here in the United States, ultimately. And I think it just is a matter of getting one of them in your arm.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:21:42]
+> 
+> So if you look at our wastewater data and our test data, it does look like it is there is a slowing increase or that we are just either at the peak or just past the peak, depending on where you look across the country.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:22:05]
+> 
+> In close collaboration with our Center for Forecasting and Analytics, we also include an RT estimate of what's happening in the country and sort of syncing to what Dr. Cohen said, about 24 states in the country are showing growth still, while other areas seem to be plateauing or decreasing. 
+> 
+> And so that actually compares about 49 states sort of in the weeks before that we're showing a growth estimate. 
+> 
+> So we're not out of the woods yet. We're tracking all of the indicators really closely. You heard about wastewater and test positivity. 
+> 
+> But I think we are potentially seeing some indication of a plateauing of the summer increase in COVID 19. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:22:49]
+> 
+> So if you look for the Center for Forecasting and Analytics will put out a more detailed piece on all of what went into their assumptions, but essentially they looked at historical vaccination rates, and you know our vaccination rates are, continued to be lower than I want to see. 
+> 
+> So we're going to be working to get as many people vaccinated as possible, but what went into the forecast was based on historical vaccine uptake that we saw last season.
+
 # August 22, 2024
 
 ## CDC spokesperson on Diamond Shruumz illnesses
