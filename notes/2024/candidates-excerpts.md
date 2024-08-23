@@ -177,6 +177,144 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > Kamala Harris' Democrat party is the party of health care for illegals, the Republican Party is the party of common sense. We really are the party of common sense, ultimately.
 
+## Trump in Asheville on August 14
+
+- **Date:** August 14, 2024
+- **Location:** Asheville, NC
+- **Source:** [livestream](https://youtu.be/AfEMtpghYgI) by campaign
+
+> Donald Trump [35;11]
+> 
+> We will target everything, from car affordability to housing affordability to insurance costs to supply chain issues.
+> 
+> We have the worst supply chain we've ever had in the history of hte country.
+> 
+> To the price of prescription drugs.
+> 
+> I will instruct my cabinet that I expect results within the first 100 days, or much sooner than that.
+> 
+> ...
+> 
+> Donald Trump [47;44]
+> 
+> By the way, more people died from COVID in the Biden administration than the Trump administration. 
+> 
+> And he got it when it was ending all over the world. It was pretty much ending.
+> 
+> So we never really got the credit we deserved for that, with the ventilators and all of the different things that we did, the outfits, a lot of things, we were producing in New Hampshire and different places, masks, we had mask factories opening up, we had everything, and we did a good job.
+> 
+> ...
+> 
+> Donald Trump [54;00]
+> 
+> And I will always protect Social Security and Medicare for our great seniors, just as I did for four incredible years. There was never any talk about doing anything.
+> 
+> By contrast, Kamala Harris has a three step plan to destroy Medicare and to destroy Social Security.
+> 
+> ...
+> 
+> Donald Trump [55;01]
+> 
+> She's flooding our country with millions and millions of low-wage migrants and giving them welfare, free health care, food stamps, public benefits.
+> 
+> ...
+> 
+> Donald Trump [56;03]
+> 
+> She wants to make them all citizens, dumping them into Medicare and Social Security until those programs buckle and collapse.
+> 
+> And that's what's going to happen under them. Social Security, Medicare, and other programs will collapse.
+> 
+> ...
+> 
+> Donald Trump [1;00;08]
+> 
+> Kamala migrant invasion is also a major factor in crushing your wages and driving up the cost of health care and the cost of all of your goods.
+> 
+> Millions of uninsured illegal aliens are getting billions and billions of dollars in free health care, paid for by American citizens on your medical bills. It's right on your medical bills.
+> 
+> ...
+> 
+> Donald Trump [1;00;59]
+> 
+> They come up because we have very stupid people here that say, if you come up, we will give you health care, social security, medical, school.
+> 
+> ...
+> 
+> Donald Trump [1;01;30]
+> 
+> The hospitals, a person told me the other day from San Diego, they can't get into a hospital anymore. The hospitals are being occupied by the illegal aliens. Somebody's got to take care. They're being occupied.
+> 
+> And the reason they're coming is because people like Gavin Newscum and people like Kamala are saying come, come.
+> 
+> ...
+> 
+> Donald Trump [1;02;12]
+> 
+> Kamala Harris wants to eliminate private health insurance.
+> 
+> Does anybody have private health insurance here? A lot of people?
+> 
+> Yeah, a lot of people, they want it. That's what they want. 
+> 
+> Now, if you want to have other, you have other. But they want to take it, and they want to turn it off. It doesn't cost our country anything. 
+> 
+> They want to turn it off. This is what people, they work hard, they make enough money, they want to have a private plan, it's a more luxurious plan, that's okay.
+> 
+> But they want to give free taxpayer funded health care to every single illegal alien in this country.
+> 
+> ...
+> 
+> Donald Trump [1;04;08]
+> 
+> Far more liberal than crazy Bernie.
+> 
+> By contrast, I'm going to keep the Affordable Care Act, unless we can do something much better.
+> 
+> We'll keep it. It stinks. It's not good.
+> 
+> If we can do something better, we're going to do something with it, if we can do better.
+> 
+> Meaning less expensive, and better health care for you. Less expensive, and better health care for you, then we'll do it.
+> 
+> We're not looking better for the government, we're looking better for you.
+> 
+> She goes around saying, he's going to get rid of the-- the health-- no, no.
+> 
+> I'm going to keep it, unless we can come up with something that's better for you and less expensive for you, otherwise we're not doing it.
+> 
+> ...
+> 
+> Donald Trump [1;06;06]
+> 
+> We're going to deliver lower prices, lower drug costs, new options that will dramatically reduce th crushing burden of American patients.
+> 
+> Kamala and Joe tried to take credit for 35 dollar insulin. You know who did that. I did that. I did that.
+> 
+> I did the insulin, and it kicked in, and you know I remember, when I did it, it had to be a statute, it was a certain statute that took a certain period of time.
+> 
+> I said, I hope I'm elected, because somebody's going to get a lot of credit for doing what I got done. I got it done. 35 dollar insulin, and now they take credit for it, it's terrible.
+> 
+> They take credit for a lot of things they shouldn't be taking credit for.
+> 
+> You know, if they said, congratulations, he did a good job in insulin, that would be nice. And nobody's going to go crazy about that.
+> 
+> Congratulations, because insulin was impossible for people to afford, they were dying, they didn't-- the expense was-- I got it for 35 dollars. 
+> 
+> Nobody thinks it's like even possible, but they could say like, you did a great job. Thank you very much.
+> 
+> Or, you did a good job. But instead, they say we brought insulin in at 35 dollars. It's a lie.
+> 
+> ...
+> 
+> Donald Trump [1;07;07]
+> 
+> Kamala is fighting for health care for illegal aliens and fighting for health care for-- and think of this.
+> 
+> he's fighting for health care for people that are destroying our country.
+> 
+> I'm fighting for health care for the American people, the people that are supposed to have the health care.
+
 # Kamala Harris 
 
 ## Harris in Chicago on August 22
