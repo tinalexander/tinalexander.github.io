@@ -315,6 +315,31 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > I'm fighting for health care for the American people, the people that are supposed to have the health care.
 
+## Trump in Bozeman on August 9
+
+- **Date:** August 9, 2024
+- **Location:** Bozeman, MT
+- **Source:** [livestream](https://youtu.be/taHu_CYwv8g) by campaign
+
+> Donald Trump [55;08] 
+> 
+> We have some great doctors in the VA. But you couldn't get to them.
+> 
+> It would take sometimes months. People would be a little bit ill, and they'd end up becoming terminally ill, because you couldn't get to the doctors.
+> 
+> If you had to wait more than one day for a doctor, I allowed you to go out, get a local doctor, get yourself taken care of, and we pay for the bill. 
+> 
+> ...
+> 
+> Donald Trump [1;09;48]
+> 
+> If you elect Jon Tester, you are approving the Harris plan to make the 20 million Biden illegals into voting citizens.
+> 
+> She said today she wants to give them the right to vote. Many of these people are killers and criminals. They're not going to have the right to vote and they're not going to destroy our country.
+> 
+> She also voted to give them welfare, government health care, and let them raid Medicare and Social Security until there is nothing left.
+
+
 # Kamala Harris 
 
 ## Harris in Chicago on August 22
