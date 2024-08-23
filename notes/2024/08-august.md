@@ -11,7 +11,7 @@ permalink: /notes/2024/08
 
 # August 23, 2024
 
-## HHS officials at press conference on respiratory viru season
+## HHS officials at press conference on respiratory virus season
 
 - **Source:** press conference
 - **Attribution:** hosted by the Centers for Disease Control and Prevention
