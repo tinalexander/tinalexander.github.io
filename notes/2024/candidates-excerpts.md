@@ -11,6 +11,21 @@ permalink: /notes/2024/candidates-excerpts
 
 # Donald Trump 
 
+## Trump in Asheboro on August 21
+
+- **Date:** August 21, 2024
+- **Location:** Asheboro, NC
+- **Source:** [livestream](https://www.youtube.com/watch?v=VnFeUI3HTNA) by the campaign
+
+> Donald Trump [1;01;07] 
+> 
+> I hear they want open borders. And I thought they were kidding. Who the hell wants open borders?
+> 
+> And then they said, we'll give you health care. 
+
+
+
+
 ## Trump in York on August 19
 
 - **Date:** August 19, 2024
