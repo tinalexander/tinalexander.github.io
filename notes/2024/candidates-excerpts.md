@@ -11,6 +11,20 @@ permalink: /notes/2024/candidates-excerpts
 
 # Donald Trump 
 
+## Trump in Falls Church on August 26
+
+- **Date:** August 26, 2024
+- **Location:** Falls Church, VA
+- **Source:** [livestream](https://youtu.be/MXVTRQZLDbc?t=137) by Forbes
+
+> Question [2;18] 
+> 
+> Are you considering RFK Jr. as your health secretary, if you're re-elected?
+> 
+> Donald Trump
+> 
+> Well, we haven't talked about it, but he knows a lot about the subject, and he's really been well received by the party, I will tell you. He's a great guy, very well received by the party.
+
 ## Trump in Asheboro on August 21
 
 - **Date:** August 21, 2024
