@@ -177,6 +177,50 @@ permalink: /notes/2024/candidates-excerpts
 > 
 > Kamala Harris' Democrat party is the party of health care for illegals, the Republican Party is the party of common sense. We really are the party of common sense, ultimately.
 
+## Trump in New Jersey on August 15
+
+- **Date:** August 15, 2024
+- **Location:** Bedminster, NJ
+- **Source:** [livestream](https://www.youtube.com/watch?v=l5PlcSqzY8s) by Associated Press
+
+> Donald Trump [13;53]
+> 
+> She co-sponsored legislation to abolish very popular private health insurance, which 150 Americans rely on, dumping everyone onto inferior socialist government run health care systems with rationing and deadly wait times, while massively raising your taxes.
+> 
+> She wants to take away your private healthcare. There are many people in this country who spend a lot of money on private health care.
+> 
+> It's the best health care in the world, by the way. 
+> 
+> But they want to do it. They worked hard to make money. And they want to do it.
+> 
+> Under her, you're not going to have private health care plans anymore. And you can be a wealthy person or a middle income person, and you want to spend on a really good plan, better than a government plan, could be far better, and you're not going to be allowed.
+> 
+> You're all going to be thrown into a communist system. You're going to be thrown into a system where everybody gets health care. 
+> 
+> It's-- you wait for your doctor like 10 months, 12 months, 11 months, you got to see some of these plans, how they work in other countries, it's disgraceful.
+> 
+> So private health care is gone. She wants it out. 
+> 
+> Now she could change on that. And she might change on that. She has changed on everything. 
+> 
+> As to why she was changing, I actually was asking somebody that knows her, why is she changing?
+> 
+> She had these policies and ideas for years and years and years and very solid on them. All you have to do is go back and look at your tapes, which many have been discarded, because they don't want-- discarded by the fake news, because they don't want people to see what she said just a year ago and two years ago. I've never seen anything like it.
+> 
+> ...
+> 
+> Donald Trump [19;07] 
+> 
+> She allowed at least 20 million people to invade our country and she wants to give them all citizenship and free government health care and let them raid Medicare and Social Security, which will again-- she will destroy Medicare, she will destroy Social Security.
+> 
+> And frankly, there's nothing she can do about it, once this happens. There's nothing she can do about it.
+> 
+> ...
+> 
+> Donald Trump [36;47]
+> 
+> We're going to bring down the cost of health care and housing.
+
 ## Trump in Asheville on August 14
 
 - **Date:** August 14, 2024
