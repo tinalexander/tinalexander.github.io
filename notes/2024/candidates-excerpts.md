@@ -379,6 +379,12 @@ permalink: /notes/2024/candidates-excerpts
 - **Location:** Bozeman, MT
 - **Source:** [livestream](https://youtu.be/taHu_CYwv8g) by campaign
 
+> Donald Trump [33;28]
+> 
+> He signed a law letting the state kidnap children to change their gender, so that they go home, and-- but I'm not talking about him, I'm talking about her, this is her ideology. That's why she picked him.
+> 
+> ...
+
 > Donald Trump [55;08] 
 > 
 > We have some great doctors in the VA. But you couldn't get to them.
