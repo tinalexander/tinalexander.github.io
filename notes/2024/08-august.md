@@ -11,6 +11,18 @@ permalink: /notes/2024/08
 
 # August 28, 2024
 
+## Boar's Head on records of USDA non-compliances at Jarratt plant
+
+- **Source:** emailed statement
+- **Attribution:** Boar's Head spokesperson Elizabeth Ward
+- **Date:** received August 28, 2024
+
+> We deeply regret the impact this recall has had on affected families. No words can fully express our sympathies and the sincere and deep hurt we feel for those who have suffered losses or endured illness.
+> 
+> Food safety is our absolute priority, as is the health and well-being of our consumers. As a USDA-inspected food producer, the agency has inspectors in our Jarratt, Virginia plant every day and if at any time inspectors identify something that needs to be addressed, our team does so immediately, as was the case with each and every issue raised by USDA in this report.
+> 
+> Since our voluntary recall in July 2024 all operations at our Jarratt, Virginia plant have been paused. During this time, we have partnered with the industry’s leading global food safety experts to conduct a rigorous investigation to get to the bottom of the events leading to this recall. We are also taking this time to conduct deep disinfection, enhance policies and procedures where needed, and provide additional training to employees. We want to assure consumers that no product will be released from this facility until it meets the highest quality and safety standards that you deserve and expect.
+
 ## South Carolina's health department on listeria deaths
 
 - **Source:** emailed statement
