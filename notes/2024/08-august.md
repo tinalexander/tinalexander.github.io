@@ -9,6 +9,16 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 28, 2024
+
+## South Carolina's health department on listeria deaths
+
+- **Source:** emailed statement
+- **Attribution:** South Carolina Department of Public Health spokesperson
+- **Date:** received August 28, 2024
+
+> Due to the recommended shelf-life, recalled products may have remained in people's homes. Consumers who were unaware of the recall may have eaten recalled products. People may also have a prolonged course of illness. If deaths occur, it takes time for DPH to be made aware of cases and investigate potential causes. DPH shares information as soon as possible when there is a public benefit, such informing people of recalled products they may still have in their refrigerators that should not be eaten. The list of recalled products can be found here.
+
 # August 23, 2024
 
 ## HHS officials at press conference on respiratory virus season
