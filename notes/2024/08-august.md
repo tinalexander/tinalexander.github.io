@@ -9,6 +9,16 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 29, 2024
+
+## Response by FDA about drugmakers using Synapse data
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson Cherie Duvall Jones
+- **Date:** received August 28, 2024
+
+> The FDA is not able to provide a number because an applicant’s future business plans, and the identity of its contract labs, are considered confidential commercial information that is exempt from disclosure under FOIA and FDA’s regulations.
+
 # August 28, 2024
 
 ## Boar's Head on records of USDA non-compliances at Jarratt plant
