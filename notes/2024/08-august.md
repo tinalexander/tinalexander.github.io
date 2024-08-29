@@ -11,6 +11,14 @@ permalink: /notes/2024/08
 
 # August 29, 2024
 
+## Response by USDA about noncompliances at Boar's Head plant in Virginia
+
+- **Source:** emailed statement
+- **Attribution:** U.S. Department of Agriculture spokesperson
+- **Date:** received August 29, 2024
+
+
+
 ## Response by FDA about drugmakers using Synapse data
 
 - **Source:** emailed statement
