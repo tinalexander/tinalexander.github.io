@@ -17,7 +17,7 @@ permalink: /notes/2024/08
 - **Attribution:** U.S. Department of Agriculture spokesperson
 - **Date:** received August 29, 2024
 
-
+> FSIS has suspended inspection at the Boar’s Head establishment in Jarratt, Virginia, which means that it remains closed until the establishment is able to demonstrate it can produce safe product. This facility is inspected by the Virginia Department of Agriculture and Consumer Services (VDACS) as part of the Talmadge-Aiken Cooperative Inspection Program, where some states provide federal inspection services. As the FOIA documents demonstrate, between August 1, 2023, and July 27, 2024, VDACS inspectors found instances of noncompliance, and the establishment implemented corrective actions in keeping with FSIS regulations. FSIS is working closely with VDACS to ensure the establishment has an effective system in place to produce safe food for the public.
 
 ## Response by FDA about drugmakers using Synapse data
 
