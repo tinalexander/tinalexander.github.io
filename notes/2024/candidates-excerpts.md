@@ -11,6 +11,92 @@ permalink: /notes/2024/candidates-excerpts
 
 # Donald Trump 
 
+## Trump in Potterville on August 29
+
+- **Date:** August 29, 2024
+- **Location:** Potterville, MI
+- **Source:** [livestream](https://youtu.be/MujW2ONe6HM?t=532) by campaign
+
+> Donald Trump [8;48] 
+> 
+> They're the radical.
+> 
+> Kamala is promising communist style price controls. Free taxpayer funded healthcare, not that you are going to want -- nobody in this room is going to want it. 
+> 
+> ...
+> 
+> Donald Trump [9;10] 
+> 
+> We want people to come into this country, but they have to come in legally, right? They have to come in legally.
+> 
+> We're taking people that are murderers, and drug dealers, and she wants to give them amnesty. 
+> 
+> I'll tell you, I don't get it. 
+> 
+> But all of this will destroy Medicare and will destroy your Social Security.
+> 
+> ...
+> 
+> Donald Trump [10;24] 
+> 
+> Kamala sponsored a bill to blow up the entire U.S. health care system and force every American into a socialist government run program, with rationing and deadly wait times.
+> 
+> You go there, and they say, yeah, that's good, we're going to be all set for you, come back in three months.
+> 
+> ...
+> 
+> Donald Trump [31;24] 
+> 
+> Once COVID came in, that was the end of China.
+> 
+> Once they did that to the world, not to us, to the whole world, 59 trillion dollars of damages and millions and millions of people.
+> 
+> And it should have -- and it came out of Wuhan, the lab, it came out of the labs, that's where I said it came from.
+> 
+> And it was incompetence. It was a mistake. I believe it was a mistake. 
+> 
+> A lot of people don't think so. A lot of people think they did it because I was getting hundreds of billions of dollars in tariffs from China.
+> 
+> ...
+> 
+> Donald Trump [47;18]
+> 
+> I'm announcing today, in a major statement, that under the Trump administration, your government will pay for, or your insurance company will be mandated to pay for, all costs associated with IVF treatment, fertilization for women, IVF treatment.
+> 
+> Because we want more babies, to put it very nicely. And for the same reason, we will also allow new parents to deduct major newborn expenses from their taxes, so that parents have a beautiful baby, will be able.
+> 
+> So we're pro-family. Nobody has ever said that before.
+> 
+> But the IVF treatments are expensive, it's very hard for many people to do it, and to get it.
+> 
+> But I've been in favor of IVF right from the beginning. You know, if you talk to them, they'll say oh, he really doesn't like, they have ads like I'm against it.
+> 
+> It's just the opposite. By comparison, they're against it. But I'm totally in favor of it.
+> 
+> But we're going to do what I just said, we're going to pay for it. And it'll help families, cause a lot of families can't use it, and a lot of these same families have been hurt so badly by their inflation. They caused the inflation, and we're going to pay for the IVF treatments, fertilization.
+> 
+> They're going to pay for it, we're going to take care of it.
+> 
+> ...
+> 
+> Donald Trump [56;55]
+> 
+> She wants to destroy your private health care, even if you like it, even if your employer contributes to it, and she wants Washington, D.C. to make your medical decisions.
+> 
+> She wants Washington to decide what procedures, medicines, and care you should receive.
+> 
+> Whether you like it, or whether you don't, she doesn't care.
+> 
+> ...
+> 
+> Donald Trump [1;12;01]
+> 
+> Then we had the COVID disaster coming from-- and we did a great job, never got credit for it.
+> 
+> The ventilators, the therapeutics that we did, the robes, the gogg-- everything.
+> 
+> But, what China did was very bad, very bad, but we're going to bring it all back to this state.
+
 ## Trump in Falls Church on August 26
 
 - **Date:** August 26, 2024
