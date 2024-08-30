@@ -633,6 +633,14 @@ permalink: /notes/2024/candidates-excerpts
 
 # Kamala Harris 
 
+## Harris to CNN on August 29
+
+- **Date:** August 29, 2024
+- **Location:** Savannah, GA
+- **Source:** [transcript](https://www.cnn.com/2024/08/29/politics/harris-walz-interview-read-transcript/index.html) by CNN
+
+
+
 ## Harris in Chicago on August 22
 
 - **Date:** August 22, 2024
