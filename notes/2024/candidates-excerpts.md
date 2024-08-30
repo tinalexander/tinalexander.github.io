@@ -17,7 +17,59 @@ permalink: /notes/2024/candidates-excerpts
 - **Location:** La Crosse, WI
 - **Source:** [livestream](https://youtu.be/IerS_nWcCPY) by campaign
 
-
+> Donald Trump [5;20]
+> 
+> We are doing something with IVF, because IVF, as you know, from friends, people you know, it's really worked out very well for a lot of people. 
+> 
+> It gave them a child when they would not have had a child, and I told my people I wanted to look at this a couple of weeks ago.
+> 
+> ...
+> 
+> Donald Trump [5;54]
+> 
+> I've been seeing a lot of IVF, and I kept hearing that I'm against it, and I'm actually very much for it.
+> 
+> In fact, in Alabama, where the judge ruled against it, and I countered the judge and came out with a very strong statement for it.
+> 
+> And the Alabama--
+> 
+> ...
+> 
+> Donald Trump [6;18]
+> 
+> They were amazing, the legislature approved virtually my statement, I'm in full IVF.
+> 
+> And it's really gone-- it's terrific.
+> 
+> ...
+> 
+> Donald Trump [6;35]
+> 
+> I've been looking at it, and what we're going to do is, for people that are using IVF, which is fertilization, we are-- the government is going to pay for it, or we're going to get, or mandate your insurance company to pay for it.
+> 
+> [inaudible]
+> 
+> We're going to do that.
+> 
+> ...
+> 
+> Donald Trump [7;08]
+> 
+> Well it's big, and you know what, we want to produce babies in this country, right? We want to produce babies.
+> 
+> So I think it's going to be something. 
+> 
+> We told-- we sort of announced it a little bit.
+> 
+> ...
+> 
+> Donald Trump [16;30]
+> 
+> Her belief is doing all of these plans, like for health insurance, where you have one big government run mess.
+> 
+> And if you have private plans, a lot of the people in this room have private plans, they're incredible plans, they worked hard to get those plans, and that's what they want.
+> 
+> But with her, she wants to have, it's really a communist type of government.
 
 ## Trump in Potterville on August 29
 
