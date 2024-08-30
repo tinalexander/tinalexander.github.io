@@ -11,11 +11,19 @@ permalink: /notes/2024/candidates-excerpts
 
 # Donald Trump 
 
+## Trump in La Crosse on August 29
+
+- **Date:** August 29, 2024
+- **Location:** La Crosse, WI
+- **Source:** [livestream](https://youtu.be/IerS_nWcCPY) by campaign
+
+
+
 ## Trump in Potterville on August 29
 
 - **Date:** August 29, 2024
 - **Location:** Potterville, MI
-- **Source:** [livestream](https://youtu.be/MujW2ONe6HM?t=532) by campaign
+- **Source:** [livestream](https://youtu.be/MujW2ONe6HM) by campaign
 
 > Donald Trump [8;48] 
 > 
