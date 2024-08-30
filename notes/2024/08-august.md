@@ -9,6 +9,24 @@ permalink: /notes/2024/08
 
 <br>
 
+# August 30, 2024
+
+## Response by VDACS about noncompliances at Boar's Head plant
+
+- **Source:** emailed statement
+- **Attribution:** Virginia Department of Agriculture and Consumer Services spokesperson
+- **Date:** received August 30, 2024
+
+> The Boar’s Head establishment in Jarratt, Va., operates under inspection as part of a cooperative regulatory program, known as the Talmadge-Aiken program, between the Virginia Department of Agriculture and Consumer Services (VDACS) and the US Department of Agriculture Food Safety and Inspection Service (FSIS).   
+> 
+> Under the cooperative regulatory program, inspection assignments and records are maintained using the federal Public Health Information System (PHIS). VDACS inspectors conduct inspections every operating day and receive daily inspection tasks through PHIS. Between August 1, 2023, and July 27, 2024, VDACS inspectors conducted 2,127 tasks assigned by PHIS. Published records demonstrate that there were 69 instances of noncompliance out of those tasks.  
+> 
+> Noncompliances identified by VDACS inspectors are handled in accordance with federal regulations. When a noncompliance is documented, the food establishment is required to implement corrective actions that meet the standards of FSIS regulations and VDACS inspectors verify the corrective actions were taken before closing the noncompliance in PHIS. Out of the 69 noncompliances at the Boar’s Head facility, 66 were closed following corrective action. The remaining three are noncompliances documented once the traceback investigation had been initiated, and the shutdown of the facility has prevented any further VDACS inspections to record compliance while federal authorities continue their investigation.  
+> 
+> Product sampling, including testing for Listeria, is assigned through PHIS. Between Aug. 1, 2023, and the start of the federal traceback investigation in July 2024, VDACS was assigned the collection of 12 samples from the Boar’s Head facility that were sent to a USDA laboratory for testing. All of those routine samples tested negative for Listeria.  
+> 
+> Following the recent traceback investigation, FSIS has suspended inspection at the Boar’s Head establishment while working with plant officials to ensure the facility has an effective system in place to reestablish production in a safe manner.
+
 # August 29, 2024
 
 ## Response by USDA about noncompliances at Boar's Head plant in Virginia
