@@ -9,6 +9,18 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 10, 2024
+
+## Missouri spokesperson on testing of H5 case 
+
+- **Source:** email
+- **Attribution:** Missouri Department of Health and Senior Services spokesperson Lisa Cox
+- **Date:** received September 9, 2024
+
+> _Do you know if any of the contacts of the H5 case that was announced last week were also symptomatic? Were any tested for H5N1 as well?_
+> 
+> All contacts remained asymptomatic throughout the observation period. 
+
 # September 9, 2024
 
 ## FDA advisory committee meeting discussing sulopenem from Iterum Therapeutics
