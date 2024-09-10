@@ -11,6 +11,20 @@ permalink: /notes/2024/09
 
 # September 10, 2024
 
+## Abbott CEO to CNBC on litigation
+
+- **Source:** [recording](https://archive.org/details/CNBC_20240718_130000_Squawk_on_the_Street/start/5220/end/5280)
+- **Attribution:** CNBC's "Squawk on the Street" clipped by archive.org
+- **Date:** broadcasted July 18, 2024
+
+> Robert Ford, Abbott Laboratories
+> 
+> These are medically necessary products that save lives, and Jim, we have a history of developing products for premature babies across all of our portfolio for decades, not just in nutrition, but in medical devices. We develop cardiovascular devices for congenital heart failure, in our medicine business, we do it. 
+> 
+> So the decision to pull a product is not an easy one, but if the system that's in place today is not going to value the science and the data, if the system is not going to value what health care professionals that spend their lives treating these babies, if those aren't going to be respected and taken into account, then yeah, we have to think about at least what is the implication of removing a product. 
+> 
+> Now, I'm hopeful I don't have to do that. I'm hopeful those that can make decisions to ensure that there's a reliable and consistent supply of this product, that they take action, but it's something we've had to contemplate. 
+
 ## FDA officials at House hearing on tobacco and foods programs
 
 - **Source:** [livestream](https://youtu.be/yK8y5bO-2ik)
