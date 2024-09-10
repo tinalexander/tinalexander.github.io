@@ -90,6 +90,38 @@ permalink: /notes/2024/09
 > Secretary Becerra has asked our colleagues at the NIH to pull together a group of experts, neonatologists and others, to give him a report about the risks and the benefits associated with these products. 
 > 
 > That report is due to the secretary, next week.
+> 
+> ...
+> 
+> Brian King, FDA [02:01:43]
+> 
+> I just want to start and reinforce that FDA has not abandoned the menthol product standard. 
+> 
+> Indeed, we remain, it's a priority for us. We followed through rule making processes and it's presently with the White House and it continues to be a priority for us.
+> 
+> ...
+> 
+> Jim Jones, FDA [02:29:12]
+> 
+> We have been pretty clear, I think, in the last year or so that, that we think that there is, there are a number of studies that shown an association between ultra processed foods and some adverse health outcomes, but an association, we do not think there, the data right now is robust enough to demonstrate causality. 
+> 
+> And that, therefore what we need is more research to more definitively answer that question one way or another. We're not saying it does, there is causality. We need better research to inform the question of causality between ultra processed foods and a range of chronic disease associated with diet.
+> 
+> So at this workshop, what we are going to be doing is to begin to build out what would the research agenda look like to answer the question related to causality? 
+> 
+> So ultimately we will need this research if we're going to be able to answer the question of what do ultraprocessed foods do as it relates to a range of diet related chronic diseases.
+> 
+> ...
+> 
+> Brian King, FDA [02:37:28]
+> 
+> I think one important thing to consider is whether the products are accurately declared or not. 
+> 
+> And what we know, particularly through our recent seizure action we did at the border at LAX airport, of 18 million dollars of illicit products, is 99% of them were misdeclared, which means that we've got to open boxes.
+> 
+> And it's not just import alerts, for accurately declared content. That said, if you want to open boxes, you need resources and you need people. And that's also why we need Customs and Border Protection as a key partner here. 
+> 
+> So we've-- we've had some actions already. I'm hopeful there'll be more with a new task force. But we are unresourced given the magnitude of the situation and we also have to make sure that all the key players in this space are committed to making it a priority as well.
 
 ## Missouri spokesperson on testing of H5 case 
 
