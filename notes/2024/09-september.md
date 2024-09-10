@@ -31,56 +31,65 @@ permalink: /notes/2024/09
 - **Attribution:** hearing by the House Energy & Commerce Committee
 - **Date:** broadcasted September 10, 2024
 
-
-Jim Jones, FDA [00:44:41]
-
-We say this routinely, that the food safety system in the United States is based on both the government and the industry following the rules. 
-
-And so, if the industry, if a manufacturer is going to choose not to follow the rules, they're going to likely have some opportunity to get away with it until they're caught. 
-
-It's sort of like in any laws we have in the United States, if there's someone who's just choosing, I'm not going to follow the rule, whether it's about speeding or jaywalking or any rule, there will be a period of time where they're going to get away with it. 
-
-Obviously that's not what we're looking for, but we need everybody in the system to be playing their role and for the manufacturing community, it's about following the rules that have been created. And for us, it's about setting clear and enforceable rules and then also doing enforcement.
-
-...
-
-Jim Jones, FDA [00:47:10]
-
-It would be a pretty egregious violation for us to go straight to some form of civil penalty, which is what you're referring to, where there's a dollar amount associated with it.
-
-And then, the scope of the violation would inform the size of the penalty. 
-
-...
-
-Jim Jones, FDA [01:05:56]
-
-We do not even remotely the same presence in communities as local law enforcement do.
-
-These products, these ingredients used in food, make the food adulterated. 
-
-We have the opportunity periodically to take them off the market. But again, we're not going to have nearly the presence in communities that local law enforcement would have.
-
-...
-
-Question [01:08:32]
-
-Why do thousands of illegal products remain on the market? Even though FDA has only authorized a sale of roughly three dozen e-cigarette products.
-
-Brian King, FDA [01:08:41]
-
-So very succinctly there's three major factors. One is the sheer size of this marketplace, which is unprecedented. 
-
-We alone have received applications for 27 million products. 
-
-We also need time to conduct investigations, which requires resources, which why we need more. 
-
-The latter is also the legal implications and in order for us to seize products that would require thousands and thousands of individual seizures that would then result in thousands and thousands of cases in federal district courts across the country, which would be untenable. 
-
-And so the realities are that we continue to make progress. We're making a dent, we've done a lot of first of their kind actions, but we need more resources and we need other agencies to step to the table as well.
-
-...
-
-
+> Jim Jones, FDA [00:44:41]
+> 
+> We say this routinely, that the food safety system in the United States is based on both the government and the industry following the rules. 
+> 
+> And so, if the industry, if a manufacturer is going to choose not to follow the rules, they're going to likely have some opportunity to get away with it until they're caught. 
+> 
+> It's sort of like in any laws we have in the United States, if there's someone who's just choosing, I'm not going to follow the rule, whether it's about speeding or jaywalking or any rule, there will be a period of time where they're going to get away with it. 
+> 
+> Obviously that's not what we're looking for, but we need everybody in the system to be playing their role and for the manufacturing community, it's about following the rules that have been created. And for us, it's about setting clear and enforceable rules and then also doing enforcement.
+> 
+> ...
+> 
+> Jim Jones, FDA [00:47:10]
+> 
+> It would be a pretty egregious violation for us to go straight to some form of civil penalty, which is what you're referring to, where there's a dollar amount associated with it.
+> 
+> And then, the scope of the violation would inform the size of the penalty. 
+> 
+> ...
+> 
+> Jim Jones, FDA [01:05:56]
+> 
+> We do not even remotely the same presence in communities as local law enforcement do.
+> 
+> These products, these ingredients used in food, make the food adulterated. 
+> 
+> We have the opportunity periodically to take them off the market. But again, we're not going to have nearly the presence in communities that local law enforcement would have.
+> 
+> ...
+> 
+> Question [01:08:32]
+> 
+> Why do thousands of illegal products remain on the market? Even though FDA has only authorized a sale of roughly three dozen e-cigarette products.
+> 
+> Brian King, FDA [01:08:41]
+> 
+> So very succinctly there's three major factors. One is the sheer size of this marketplace, which is unprecedented. 
+> 
+> We alone have received applications for 27 million products. 
+> 
+> We also need time to conduct investigations, which requires resources, which why we need more. 
+> 
+> The latter is also the legal implications and in order for us to seize products that would require thousands and thousands of individual seizures that would then result in thousands and thousands of cases in federal district courts across the country, which would be untenable. 
+> 
+> And so the realities are that we continue to make progress. We're making a dent, we've done a lot of first of their kind actions, but we need more resources and we need other agencies to step to the table as well.
+> 
+> ...
+> 
+> Question [01:51:53]
+> 
+> I was wondering if you could just talk about the impact to clinical care for these very low birth weight, extremely premature babies, if these, one of these two cow milk based preterm infant nutritional products were to leave the U.S. market. And then also if you could touch on it, are there FDA barriers to getting donor breast milk to these high risk infants?
+> 
+> Jim Jones, FDA [01:52:20]
+> 
+> Thanks for that question. We are very concerned about the potential for, we do not know that it will happen, but the potential for one or both of the manufacturers to leave that market, for business reasons. So that's very concerning to us. 
+> 
+> Secretary Becerra has asked our colleagues at the NIH to pull together a group of experts, neonatologists and others, to give him a report about the risks and the benefits associated with these products. 
+> 
+> That report is due to the secretary, next week.
 
 ## Missouri spokesperson on testing of H5 case 
 
