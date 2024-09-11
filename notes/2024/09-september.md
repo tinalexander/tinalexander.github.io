@@ -11,7 +11,7 @@ permalink: /notes/2024/09
 
 # September 11, 2024
 
-## NIAID director on H5N1 case in Missouri
+## NIAID director on bird flu case in Missouri
 
 - **Source:** [recording](https://videocast.nih.gov/watch=55053)
 - **Attribution:** meeting of the National Institute of Allergy and Infectious Diseases Advisory Council
