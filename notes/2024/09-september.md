@@ -9,6 +9,50 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 11, 2024
+
+## NIAID director on H5N1 case in Missouri
+
+- **Source:** [recording](https://videocast.nih.gov/watch=55053)
+- **Attribution:** meeting of the National Institute of Allergy and Infectious Diseases Advisory Council
+- **Date:** aired September 9, 2024
+
+> Jeanne Marrazzo, NIAID [00:28:31]
+> 
+> We heard that there was another case of H5N1 in Missouri.
+> 
+> I'm actually quite nervous about that case. I think that, from what we know, as you probably heard in the news, this case had no known link to exposure to H5N1. 
+> 
+> It was a person with underlying predisposition to pulmonary infection, but no contact to anything that could remotely be linked back to a likelihood of H5N1 exposure. 
+> 
+> The CDC, I was on a call this morning, is continuing to try to sequence the relative relevant parts of what they got. 
+> 
+> Unfortunately, the CT value for the isolate that was retrieved was 38. So they're really not gonna be able to probably assemble very much of the genome.
+> 
+> That said, it's almost certainly consistent with the bovine strain. So it is not a mistake it's real. 
+> 
+> And you know, there are no herds infected with H5N1 in Missouri, which further contributes I think to the mystery.
+> 
+> ...
+> 
+> Jeanne Marrazzo, NIAID [00:29:58]
+> 
+> It'll be interesting to see now that birds are migrating back from the Arctic, what their situation is. 
+> 
+> It looks like the mortality rate in migrating birds has probably leveled off a bit, which gives us some hope. 
+> 
+> I think that they're not gonna be perhaps as contagious, perhaps, we don't really know, maybe that'll decrease the likelihood of a spill over event. We really don't know.
+> 
+> ...
+> 
+> Jeanne Marrazzo, NIAID [00:45:40]
+> 
+> I can tell you the H5N1, I do have more details, some I can't share, but I will say that if there was suspicion of human to human transmission, the threat level would be elevated considerably. 
+> 
+> So there is at this time, no evidence to suggest human to human transmission. 
+> 
+> But that is of course our worst fear, because once you go there, then obviously all bets are off. 
+
 # September 10, 2024
 
 ## Abbott CEO to CNBC on litigation
