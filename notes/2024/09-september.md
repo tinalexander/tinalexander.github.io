@@ -79,7 +79,7 @@ permalink: /notes/2024/09
 > 
 > ...
 > 
-> Question [01:51:53]
+> Rep Kim Schrier [01:51:53]
 > 
 > I was wondering if you could just talk about the impact to clinical care for these very low birth weight, extremely premature babies, if these, one of these two cow milk based preterm infant nutritional products were to leave the U.S. market. And then also if you could touch on it, are there FDA barriers to getting donor breast milk to these high risk infants?
 > 
@@ -122,6 +122,50 @@ permalink: /notes/2024/09
 > And it's not just import alerts, for accurately declared content. That said, if you want to open boxes, you need resources and you need people. And that's also why we need Customs and Border Protection as a key partner here. 
 > 
 > So we've-- we've had some actions already. I'm hopeful there'll be more with a new task force. But we are unresourced given the magnitude of the situation and we also have to make sure that all the key players in this space are committed to making it a priority as well.
+> 
+> ...
+> 
+> Jim Jones, FDA [02:56:47]
+> 
+> We are working very diligently on our proposed rule that would require front of pack labeling as you've described.
+> 
+> It is within a relatively short period of time before it'll be submitted to the Office of Management and Budget for their review. 
+> 
+> So we are very confident that by the end of this calendar year, we will have a proposed rule.
+> 
+> Rep Jan Schakowsky [02:57:07]
+> 
+> So when do you think-- what's the deadline now?
+> 
+> Jim Jones, FDA [02:57:10]
+> 
+> We are hoping to have this package submitted to OMB with the next couple of weeks and they have a 90 day review period, which would have us, so with a proposed--
+> 
+> Rep Jan Schakowsky [02:57:17]
+> 
+> What was the problem?
+> 
+> Jim Jones, FDA [02:57:20]
+> 
+> I wouldn't say that there's been a problem. 
+> 
+> The amount of analysis necessary to support this rule making is quite extensive. 
+> 
+> And so it's really been grinding through all of the work to pull this package together for the proposed rule.
+> 
+> ...
+> 
+> Jim Jones, FDA [03:00:13]
+> 
+> Within the next couple of months, we should have a proposed announcement related to red dye number three.
+> 
+> But as it relates to other chemicals that are authorized for use in food, or there as contaminants again, I go back to, we are going to be having a public meeting in a couple of weeks. 
+> 
+> That's again going to describe how we propose to select chemicals for review. 
+> 
+> We want to make sure we're working on those that have the potentially the greatest risk and the process that we will use to evaluate those chemicals. 
+> 
+> So again, we are very interested in having a much more ambitious post-market chemical review program at the FDA.
 
 ## Missouri spokesperson on testing of H5 case 
 
