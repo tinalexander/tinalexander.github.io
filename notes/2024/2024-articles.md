@@ -11,9 +11,20 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-# August 2024
+# September 2024
 
 - ...
+
+# August 2024
+
+- [Bugs, mold and mildew found in Boar's Head plant linked to deadly listeria outbreak](https://www.cbsnews.com/news/bugs-mold-mildew-inspection-boars-head-plant-listeria/)
+- [FDA OK's new COVID vaccine shots for fall 2024 from Pfizer and Moderna](https://www.cbsnews.com/news/covid-vaccine-fall-2024-fda/)
+- [What are the differences between IVF and IUI, the fertility treatment used by Tim Walz's family?](https://www.cbsnews.com/news/ivf-vs-iui-tim-walz-gwen-waltz-fertility-treatment/)
+- [Whooping cough wave is still accelerating nationwide. Here's what to know about symptoms and treatment.](https://www.cbsnews.com/news/whooping-cough-pertussis-cases-cdc-symptoms/)
+- [What to know about pain relief for IUD insertion, after CDC updates recommendations](https://www.cbsnews.com/news/what-to-know-about-pain-relief-iud-insertion-options-insurance/)
+- [FDA rejects MDMA for treating PTSD, calls for redo of study, drugmaker says](https://www.cbsnews.com/news/fda-rejects-mdma-treatment-for-ptsd-lykos/)
+- [COVID-19 drops to 10th leading cause of death in 2023](https://www.cbsnews.com/news/covid-drops-to-10th-leading-cause-of-death-in-2023/)
+- [Number of Americans without health insurance rises in 2024, breaking streak of record-low figures](https://www.cbsnews.com/news/share-of-uninsured-americans-climbs-cdc-survey/)
 
 # July 2024
 
