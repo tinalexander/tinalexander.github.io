@@ -9,6 +9,288 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 12, 2024
+
+## HHS and USDA press call after Missouri bird case
+
+- **Source:** press briefing
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred September 12, 2024
+
+> Nirav Shah, CDC [00:07:05]
+> 
+> The individual, who had significant underlying medical conditions, presented with acute symptoms of chest pain, nausea, vomiting, diarrhea, and weakness, and was hospitalized for reasons related to those underlying medical conditions. 
+> 
+> The individual was not severely ill, nor were they in the ICU. They were treated with antiviral medications, subsequently discharged and have recovered. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:08:43]
+> 
+> Our investigation is looking to other aspects of this case. For example, characterizing the virus's genetic sequence, which is underway at CDC.
+> 
+> That said, the concentration of viral RNA in this person, or what's called the CT value was extremely low. And because of this, we have not been able to generate a full flu genome, including the neuraminidase or the N part of the virus. That's why we're just calling this H5 at this juncture. 
+> 
+> Now we're throwing everything we've got at this, but ultimately a full sequence may not be technically feasible because of the low concentration of viral RNA. 
+> 
+> The data that we do have, and that have been generated thus far, show an H5 virus that is closely related to the H5 virus circulating among dairy cows. 
+> 
+> We are continuing to look for evidence of genetic changes that would suggest, for example, an increased potential for spread. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:11:23]
+> 
+> Now, while while Missouri continues its investigation, it's important to note that their state epidemiologists and their hospital staff took immediate action when the presumptive H5 positive was identified by the state lab.
+> 
+> They swiftly initiated contact tracing of potentially exposed individuals in all relevant settings. And as of right now, no additional cases have been identified. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:11:50]
+> 
+> Our influenza surveillance system is designed to find needles in haystacks and as this case and others show it is working. 
+> 
+> But here in this case, we found such a needle, but we don't know how it got there. Our investigation is continuing and we will keep everyone updated as we learn more.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:12:20]
+> 
+> As you all are aware back in July, we announced an opportunity for agricultural workers to receive seasonal influenza vaccines. 
+> 
+> We are focused on states with positive dairy herds. And right now we're working with 12 jurisdictions on their approach to outreach education and vaccination of agricultural workers. 
+> 
+> We anticipate that this effort will kick off in October and we'll have more updates as we proceed. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:15:03]
+> 
+> Surge testing, early in an emergency, we should be moving testing to commercial labs since that's where most of us get tests for everyday health concerns anyways.
+> 
+> This new arrangement helps CDC do just that, to scale up test availability more quickly and earlier, rather than in an emergency and third pay for those tests. 
+> 
+> Often commercial diagnostic testing gets hung up on things like billing codes and insurance status and reimbursement rates. 
+> 
+> This new arrangement allows CDC to pay for diagnostic testing in emergencies, making it seamless for individuals to be tested. 
+> 
+> Now we know that when the next response with laboratory needs arises and nowadays that's all responses, we'll need to have contracts in place with commercial labs.
+> 
+> Today's announcement does that now, rather than in the middle of an emergency, we're doing what we should do on the front end, rather than in the midst of a crisis. 
+> 
+> We anticipate putting at least 5 million dollars on this contract by the end of this month. And we can scale that to up to 118 million dollars over the next five years, if needed.
+> 
+> Fundamentally, what this approach does is add the commercial laboratories to the CDC team in a sense they are all wearing the CDC jersey now.
+> 
+> In the past, we added them to the team too late in the game, that changes today. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:23:43]
+> 
+> Missouri has not invited CDC. That said, CDC has been in very close contact with health officials in Missouri, on an almost daily basis by phone, by video conference to provide technical assistance, support, direction. 
+> 
+> And then of course our laboratory folks have also been working with their team. 
+> 
+> So they have not invited us on site. But again, we are very closely connected with them on a daily basis of the investigation is unfolding. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:26:45]
+> 
+> No, this is not a situation where we think that their influenza manifested in these particular symptoms. 
+> 
+> However, the symptoms that are present here were perhaps caused by other underlying medical conditions. 
+> 
+> And then upon evaluation by medical personnel, became apparent that influenza and respiratory testing was also warranted. 
+> 
+> So this is not a new presentation of the flu.
+> 
+> Those that I noted, the chest pain, the nausea, vomiting and diarrhea, which can be caused by any type of respiratory illness, were probably more caused by other underlying medical conditions. 
+> 
+> And so, again, I'm not trying to be cryptic, but I want to balance that line between not compromising patient confidentiality. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:30:21]
+> 
+> We've not seen any evidence of person to person transmission.
+> 
+> None of this individual's close contacts have any evidence of onward transmission.
+> 
+> None of the individuals that this individual came into contact with have developed any signs and symptoms. 
+> 
+> So we haven't seen any evidence of it at this time.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:31:46]
+> 
+> We've discussed obtaining serology specimens from this individual, as well as any and all of their close contacts where they consent to do so.
+> 
+> We are not quite in the window for when serum or serology would, where a patient's body would have developed the antibodies that would be detectable by serology tests. 
+> 
+> It usually takes a little bit more time for the body to develop those antibodies in response to having been exposed. 
+> 
+> So this is something that is on the table when the timing is right. We're not quite there yet.
+> 
+> Now with respect to, but again, we've discussed it with Missouri and they're ready and equipped to do so provided the patients and the individuals who are close contacts consent. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:33:20]
+> 
+> It's a theory under investigation, but we don't have any evidence that it was direct contact with animals here, but more broadly as more animal species exhibit and harbor H5, the possibility of animal human interaction goes up and thus the possibility of human cases goes up.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:36:26]
+> 
+> We do know from the three sequences that have been completed, and again, we expect to be able to complete the additional five sequences sometime towards the end of this week or over the weekend, that this B3.13 variant is very closely related to what we're seeing in other herds. 
+> 
+> And additionally, there's nothing in the sequencing that we've done on those initial three samples that would lead us to believe that it was transmitted in a novel way. 
+> 
+> And again, this variant is unique in that it has only to our knowledge been transmitted between herds through the movement of animals or individuals and equipment. 
+> 
+> So we don't see anything in the sequence that would indicate that it was spread by wildlife or migrating birds or similar. 
+> 
+> So while we don't know the answer yet, we do know that CDFA is working very hard to trace this back, as they have discovered additional affected premises. 
+> 
+> And again, they're up to eight now, it becomes increasingly complex to figure out what, or who, or how the virus might have been introduced into California and where it might have come from. But they are working on that now. 
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:43:31]
+> 
+> The CDC asked and recommended that state public health laboratories keep that normal process of influenza subtyping. That's the term for it. That they keep that rolling through the summer because of the-- because of what was happening with H5. 
+> 
+> And so every one of those results, , if it sends up a flag that it's not the typical seasonal flu, every one of those results gets immediately flagged, scrutinized, investigated, and sent to CDC. That's exactly what happened here. And that's how we came to know about this case. 
+> 
+> That machinery does not, did not stop over the summer because of CDCs recommendation.
+> 
+> ...
+> 
+> Nirav Shah, CDC [00:50:29]
+> 
+> Dr. Daskalakis and I, I'd say 50% of our time speaking with one another is about the, what ifs and where do we go from here? 
+> 
+> And that's what folks should expect happens at the CDC. Again, we're not prognosticating we're planning. 
+> 
+> And in this particular situation, if we were to detect some, any degree of human to human transmission in this case, or more generally in any situation, there are a number of things that we'd want to consider. 
+> 
+> Of course, the first is understanding what that risk group is, because if we want to give advice, say for folks to get tested or to start taking antivirals, we need to be able to characterize what that risk group is. Are they a particular type of worker? Do they have a particular medical condition? So that's a continuation of the shoe leather epidemiology that we would continue to do to characterize what's happening. 
+> 
+> But then we have other levers available to us. If we were to see a high degree or any degree of human to human transmission, for that matter, we would start thinking about prophylaxis using medications like Tamiflu. 
+> 
+> And then if we were really to see an explosion of that sort of thing, that's when we start down the process of vaccination. 
+> 
+> Now, whether it's targeted vaccination, say to a group of workers or more broad scale vaccination as was contemplated back in 1976 with a swine flu outbreak, that's very situation dependent. 
+> 
+> The other thing we look at is not just the transmission as you asked, but also the severity, so that also plays into it. 
+> 
+> So there's a lot of moving pieces on that sliding scale. 
+> 
+> ...
+> 
+> David Boucher, ASPR [00:59:53]
+> 
+> As you all have seen, in the recent months, we've talked about two different actions we've taken under the national pre pandemic influenza vaccine stockpiling program. 
+> 
+> We have labeled prefilled syringes, that we have available, and we have also filled existing bulk and antigen. 
+> 
+> Those actions are just about complete. We're doing a little bit work on the last lot of the bulk fill. 
+> 
+> But those multidose vials, prefilled syringes, have cleared company release testing and are now back in the stockpile. 
+> 
+> They're vendor managed stockpile. 
+> 
+> Again, I want to just emphasize that these vaccines have not been approved or authorized by the FDA. 
+> 
+> So while manufacturing is complete, they've cleared all of the release testing those specs, we would need regulatory action to actually use these vaccines. 
+> 
+> ...
+> 
+> Question [01:00:49]
+> 
+> It sounds like the Missouri patient and their contacts have been cooperative with the investigation. Is that a fair way to put it?
+> 
+> Nirav Shah, CDC [01:00:56]
+> 
+> Yes, I think that's right.
+> 
+> ...
+> 
+> Nirav Shah, CDC [01:01:10]
+> 
+> So these questionnaires, they really cover the waterfront of what potential exposures might look like. 
+> 
+> So the initial interviews, the initial questionnaires look at things like direct contact with wild birds, livestock, poultry, pigs, milk consumption, household, travel attendance at public gatherings. 
+> 
+> Then the follow up ones really dive even more deeply into things like potential environmental exposures around the house and around the yard. 
+> 
+> So any wild birds or animals that have been seen around the yard, use of birds eaters, recent yard work, gardening, lawn mowing, detailed questions about the types and sources of dairy products and meats that have been handled, prepared, eaten. 
+> 
+> And then of course, we talked a little bit earlier about just overall exposures at things like fairs, petting zoos. 
+> 
+> So they really cover the waterfront. 
+> 
+> Administering these questionnaires, I will say, takes takes a while. And so we've been really pleased with the cooperation of both our colleagues in Missouri, as well as this particular individual.
+> 
+> Question [01:02:16]
+> 
+> And so were infected pets or undercooked me part of those questionnaires. Can you just specifically address those two theories? Thanks.
+> 
+> Nirav Shah, CDC [01:02:22]
+> 
+> Meat is. Let me turn to Dr. Daskalakis, to see if he knows offhand. If not, we'll get back to you, Alex.
+> 
+> Demetre Daskalakis, CDC [01:02:34]
+> 
+> I'm sorry. Didn't hit the mute button right. 
+> 
+> I can tell you that the questionnaire does include questions around domestic animals and pets, as well as wild animal exposures. 
+> 
+> And on meat, we'll have to get back to you. 
+> 
+> I believe that it does include a pretty thorough rundown of food exposures, including raw milk and meat, but, well, I'll have to confirm that for a fact.
+> 
+> Nirav Shah, CDC [01:03:01]
+> 
+> I can confirm that one, Demetre I've got that one here in front of me. And so yes, Alex, we can confirm it does go deep on meat products that have been handled prepared or eaten from a variety of different protein sources.
+> 
+> Question [01:03:14]
+> 
+> And then, I'm sorry, just one last question on this. 
+> 
+> So can you, of that questionnaire you're talking about, when you say there's no evidence, does that mean that you are still investigating some of these avenues and you just haven't finished it yet? 
+> 
+> Or, I mean, have you been able to rule out all of these avenues so far? Thanks.
+> 
+> Nirav Shah, CDC [01:03:31]
+> 
+> Demetre, I'll let you characterize where Missouri is, or where we are with Missouri on that.
+> 
+> Demetre Daskalakis, CDC [01:03:38]
+> 
+> Sure. So I think, you know, like any epi investigation, if there's no clear answer, people go deeper and so I think there's questionnaires that you ask and then there's also additional sort of information that could be potentially important, like really tracking where people's food sources were if they had any food from any other source restaurant, other facility. 
+> 
+> So I think that that's sort of where we are, that the couple first couple of passes are that there's no overt exposure.
+> 
+> But I think Missouri is working really hard to go deeper into the epi to see if there are any unperceived exposures that are possible.
+> 
+> ...
+> 
+> Eric Deeble, USDA [01:05:08]
+> 
+> The rate of spread amongst herds within states and the spread between states seems to have slowed considerably. And we attribute that primarily to a greater understanding amongst producers, and state animal health professionals, about the need for biosecurity, as well as the implementation of the federal order, which restricts the movement of lactating dairy cattle between states. 
+> 
+> There are states that have chosen to take more robust postures, as it relates to bulk milk sample testing. And we're seeing this, again in California as they continue with their investigation, at this point we feel quite comfortable with the way in which the testing is being done. 
+> 
+> We have excellent partnerships, with the states that are affected, and those states that are unaffected. And at this point, we feel that things are progressing quite well. We do not understand how H5N1 got into the affected premises in California. But I have a high degree of confidence in the CDFA, and the work that they're doing, to help uncover that. 
+> 
+> And if there is a novel way in which it was introduced beyond the movement of an animal, or individuals and equipment, we'll be certain to address that in additional recommendations to producers. 
+
 # September 11, 2024
 
 ## NIAID director on bird flu case in Missouri
