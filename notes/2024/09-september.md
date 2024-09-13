@@ -9,6 +9,44 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 13, 2024
+
+## HHS meeting on vaccines 
+
+- **Source:** livestream
+- **Attribution:** National Vaccines Advisory Committee hosted by the Department of Health and Human Services
+- **Date:** occurred September 13, 2024
+
+> Kim Armstrong, BARDA [00:37:20]
+> 
+> In terms of influenza, the BARDA team has been working really hard to prepare the nation for anything that might come from the recent H5N1 infections that have been encountered zoonotically in the United States. 
+> 
+> So we continue preparedness activities under the NPIVS to be ready -- NPIVS is the National Pre-pandemic Vaccine Stockpile -- to be ready for potential public health interventions against H5N1, if vaccine recommendations change, but the risk to human health is low and vaccination is not recommended for any segment of the population at this time.
+> 
+> As part of its preparedness efforts, BARDA is filling approximately 4.8 million doses of previously manufactured bulk vaccine. This equates to 2.4 million courses as this is a two dose vaccine. 
+> 
+> There was a BARDA sponsored phase two randomized double blind clinical trial to assess safety and immunogenicity of Sanofi's H5 inactivated monovalent influenza vaccines at different antigen dose levels adjuvanted with both ASO3 and MF59. And enrollment has just started in August.
+> 
+> In addition to ongoing support of currently approved recombinant cell and egg based influenza vaccines, BARDA is continuing to support development of platforms that may further accelerate the response to an influenza pandemic, such as mRNA. 
+> 
+> So BARDA under the rapid response part partnership vehicle has awarded an other transaction agreement to Moderna. 
+> 
+> So they released the solicitation in the first quarter of FY 24, calling for proposals for accelerating and development and licensure of mRNA based pandemic influenza vaccines. 
+> 
+> So a project was awarded under this agreement to Moderna to rapidly develop and license mRNA based pandemic influenza vaccines by leveraging Moderna's mRNA seasonal influenza vaccine candidate in late stage development and existing capabilities. 
+> 
+> The project will focus on phase three clinical trials to collect data, supporting regulatory approval of the vaccines and establish a mechanism for rapid response to a public health emergency. 
+> 
+> ...
+> 
+> Karin Bok, FDA [00:45:39]
+> 
+> Next week we have a new VRBPAC meeting coming up. 
+> 
+> We are interested in discussing next generation pertussis vaccines and how we can think about regulatory pathways for a vaccine that hopefully is as effective as the whole cell pertussis with a safety profile, as good as or better, as the acellular pertussis. 
+> 
+> So we're gonna discuss specifically CHIM models, control human infection models, as a possibility to evaluate these vaccines in the future. 
+
 # September 12, 2024
 
 ## HHS and USDA press call after Missouri bird case
