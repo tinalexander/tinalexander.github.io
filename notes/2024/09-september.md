@@ -11,6 +11,14 @@ permalink: /notes/2024/09
 
 # September 13, 2024
 
+## Missouri spokesperson on symptomatic close contact of bird flu case
+
+- **Source:** emailed statement
+- **Attribution:** Missouri Department of Health and Senior Services spokesperson Lisa Cox
+- **Date:** received September 13, 2024
+
+> The timeline plays a large factor in this. This close (household) contact of the single H5 case would not have been detectable through our routine flu surveillance system like the case was. The case was hospitalized and tested during hospitalization, unlike this close contact who was never hospitalized or tested. We then learned of the case because our state laboratory received the specimen for initial testing and subsequently learned of this patient’s close contact and their symptoms, which was, at this point, too late for PCR testing to occur effectively. The onset of symptoms for both the case and the case’s household contact occurred on the same day. The possible opportunities of exposures for this close contact were also evaluated as part of the investigation.
+
 ## HHS meeting on vaccines 
 
 - **Source:** livestream
