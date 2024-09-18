@@ -11,11 +11,21 @@ permalink: /notes/2024/09
 
 # September 18, 2024
 
+## New Jersey health department on Oropouche
+
+- **Source:** emailed statement
+- **Attribution:** New Jersey Department of Health spokesperson Nancy Kearney
+- **Date:** received September 18, 2024
+
+> There are no reported Oropouche cases in NJ.
+
+# September 17, 2024
+
 ## Novo Nordisk spokesperson on Wegovy availability
 
 - **Source:** emailed statement
 - **Attribution:** Novo Nordisk spokesperson
-- **Date:** received September 18, 2024
+- **Date:** received September 17, 2024
 
 > Novo Nordisk continues to supply all Wegovy® dose strengths to the U.S. market.
 > 
