@@ -11,6 +11,16 @@ permalink: /notes/2024/09
 
 # September 18, 2024
 
+## Missouri spokesperson on symptoms and investigation of bird flu
+
+- **Source:** emailed statement
+- **Attribution:** Missouri Department of Health and Senior Services spokesperson Lisa Cox
+- **Date:** received September 18, 2024
+
+> The close contact’s onset of illness was the same day as the case’s. The symptoms reported were weakness and dizziness, followed by mild nausea and diarrhea. 
+> 
+> The possible opportunities of exposures for close contacts were also evaluated as part of the investigation. There was no known direct or indirect contact with wild birds, domestic poultry, cats, cattle (including no consumption of raw dairy products), or other wildlife by the case and close contacts.
+
 ## CDC spokesperson on new XEC variant
 
 - **Source:** emailed statement
