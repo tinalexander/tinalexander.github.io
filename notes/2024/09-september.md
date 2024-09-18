@@ -9,6 +9,22 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 18, 2024
+
+## Novo Nordisk spokesperson on Wegovy availability
+
+- **Source:** emailed statement
+- **Attribution:** Novo Nordisk spokesperson
+- **Date:** received September 18, 2024
+
+> Novo Nordisk continues to supply all Wegovy® dose strengths to the U.S. market.
+> 
+> Four of the five dose strengths (0.5 mg, 1 mg, 1.7 mg and 2.4 mg) are now available but we will continue to manage shipments of the 0.25 mg starting dose of Wegovy®, to responsibly initiate patients on treatment consistent with our commitment to patients and focus on continuity of care.
+> 
+> We have served over one million U.S. patients with Wegovy® and total weekly prescriptions have more than doubled since January 2024. We take our responsibility to meet the needs of people living with obesity and the healthcare professionals who treat them very seriously. We have made significant progress improving Wegovy® supply while maintaining a clear focus on supporting patients who require care to start and stay on this medicine. We continue to expand our global production capacity, which has been running 24 hours a day, seven days a week. ​We will invest DKK 45 billion in capital expenditures this year, compared to DKK 25 billion in 2023.
+> 
+> We are here to drive change for people living with this misunderstood, stigmatized disease, and partner broadly to break down barriers to obesity care. Detailed information about U.S. Wegovy® supply is available on WegovySupply.com, which is updated as new information becomes available.
+
 # September 13, 2024
 
 ## Missouri spokesperson on symptomatic close contact of bird flu case
