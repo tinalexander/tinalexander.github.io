@@ -11,6 +11,43 @@ permalink: /notes/2024/09
 
 # September 18, 2024
 
+## CDC spokesperson on new XEC variant
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received September 18, 2024
+  
+> **What is the CDC’s awareness of the XEC strain?**
+> 
+> XEC is the proposed name of a recombinant, or hybrid, of the closely related Omicron lineages KS.1.1 and KP.3.3. Please continue to check the COVID Data Tracker for updated information on the common variants we’re seeing in the U.S.
+> 
+> **Does the CDC have numbers on if the XEC strain has been recorded yet in the U.S. and, if so, how many cases?**
+> 
+> While specific cases cannot be associated with specific variants, CDC continues to monitor the emergence of variants in the population. Please continue to check the COVID Data Tracker for updated information on the common variants we’re seeing the U.S.
+> 
+> **Is the CDC aware of any symptoms outside of the usual COVID symptoms?**
+> 
+> CDC is not aware of any specific symptoms associated with XEC or any other co-circulating SARS-CoV-2 lineage.
+> 
+> **And, as always, how does the CDC best recommend preventing against COVID and the XEC strain?**
+> 
+> CDC recommends that everyone ages 6 months and older should get a 2024–2025 COVID-19 vaccine.
+> 
+> Getting the 2024–2025 COVID-19 vaccine is important because:
+> 
+> Protection from the COVID-19 vaccine decreases with time.
+> COVID-19 vaccines are updated to give you the best protection from the currently circulating strains.
+>  
+> At this time, we anticipate that COVID-19 treatments and vaccines will continue to work against all circulating variants. CDC will continue to monitor the effectiveness of treatment and vaccines against circulating variants. There are other actions you can take to help protect yourself and others from health risks caused by COVID-19 and other respiratory viruses.
+> 
+> Immunizations are available for all three major fall and winter respiratory diseases – flu, COVID-19, and RSV (for groups eligible for RSV immunization).  
+> Washing hands and improving airflow in the places where people live and work are important to lowering risk from respiratory viruses.
+> Effective treatments are available for those who get flu or COVID-19 and are recommended for those at higher risk for severe illness. Treatment can reduce severe illness, hospitalization and death.
+> If you have symptoms of a respiratory virus, stay home and away from others until at least 24 hours after both your symptoms are getting better overall, and you have not had a fever (and are not using fever-reducing medication). Resume normal activities and use added prevention strategies over the next five days.
+> Everyday actions like masking and physical distancing can provide an additional layer of protection.
+> Tests are available that can quickly detect these respiratory viruses so patients don’t delay treatment and other actions that can protect their family, friends, and coworkers.
+> About Respiratory Illnesses | Respiratory Illnesses | CDC
+
 ## New Jersey health department on Oropouche
 
 - **Source:** emailed statement
