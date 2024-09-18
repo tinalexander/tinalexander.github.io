@@ -11,6 +11,20 @@ permalink: /notes/2024/09
 
 # September 18, 2024
 
+## Virginia Tech lab on XEC cases sequenced earlier this year
+
+- **Source:** emailed answers
+- **Attribution:** Carla Finkielstein, director of the Virginia Tech Molecular Diagnostics Lab at the Fralin Biomedical Research Institute
+- **Date:** received September 18, 2024
+
+> **What's the best way to describe the population that VT's samples come from? For example, are they hospitalizations from the local community, or another demographic?**
+> 
+> The majority of our SARS-CoV-2 samples come from hospitals located in the southwestern region of the Commonwealth of Virginia including Augusta Health, Centra Lynchburg General Hospital, and Carilion Roanoke Memorial Hospital. Unfortunately, we do not have demographic data on these patients, so we don't know whether the patients were hospitalized or, for example, if their samples were collected during an emergency department visit. 
+> 
+> **How does XEC compare with the other strains that have been detected in your lab? I've seen some talk online that it's closely related to KP.3.1.1, which has been dominant for a while.**
+> 
+> XEC appears to be a recombinant virus consisting of two circulating variants KP.3.3 and KS.1.1. In particular, XEC has a number of specific lineage-defining mutations that help us with its classification as compared to other lineages including KP.3.3, KP.3.1 and KS.1.1.  We do not see a particular trend. We should keep on eye on the samples coming and continue genomic screening more broadly.
+
 ## Missouri spokesperson on symptoms and investigation of bird flu
 
 - **Source:** emailed statement
