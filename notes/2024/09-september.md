@@ -35,6 +35,92 @@ permalink: /notes/2024/09
 > 
 > We are here to drive change for people living with this misunderstood, stigmatized disease, and partner broadly to break down barriers to obesity care. Detailed information about U.S. Wegovy® supply is available on WegovySupply.com, which is updated as new information becomes available.
 
+# September 16, 2024
+
+## HHS briefing on mpox for providers
+
+- **Source:** [recording](https://www.youtube.com/watch?v=-owtNxcqSMI)
+- **Attribution:** published by the Department of Health and Human Services
+- **Date:** published September 13, 2024
+
+> Agam Rao, CDC [00:14:30]
+> 
+> We do have modelers at CDC who are looking at data and they've deduced that the risk is low to the general U.S. population. 
+> 
+> And even in their extreme scenario where the household secondary attack rate could be 30%, so that's double the previously considered worst case scenario, that most simulated outbreaks in the U.S. would be small. 
+> 
+> 66% had less than or equal to five cases. And 73% had less than or equal to 10 cases. 
+> 
+> Both simulated outbreaks had minimal spread between households. 72% affected less than or equal to three households. 
+> 
+> So modeling suggests even with extremely high secondary attack risk, household transmission, including cases in children, most likely involve 10 or fewer MPXV clade I cases with minimal spread between households. 
+> 
+> And just as a caveat, you all know that there's modeling data in general when it comes to complicated situations abroad countries that involve conflict regions countries, as large as the Democratic Republic of Congo, data's imperfect, but based on the information that we have so far, including via some of our colleagues who are in these countries who are trying to collect data, this is what we are recommending. And this is what we are concluding at this time. 
+> 
+> If there's more data that becomes available, that could change, of course, but this is what we feel at this time.
+> 
+> ...
+> 
+> Agam Rao, CDC [00:17:55]
+> 
+> Although there's been spread of clade Ib cases outside of DRC, these appear to be limited at this time. Mortality has been low. Cases appear to predominantly be associated with sex in countries with sustained transmission, particularly with sex workers. 
+> 
+> The risk in the U.S., including to children is expected to be low for a lot of different reasons, but we are actively monitoring this situation, and will revise estimates if for some reason that changes.
+> 
+> And the risk to travelers at this time primarily seems to be associated with sexual behaviors while traveling. And we want people to be aware of that. 
+> 
+> ...
+> 
+> Agam Rao, CDC [00:21:29]
+> 
+> So we are waiting to receive the final data from NIH's study involving 12 to 17 year olds, which will possibly be completed at the end of next month. 
+> 
+> And, we are hoping to reconvene the ACIP work group to discuss that data. And, to perhaps discuss it more with the ACIP during the February ACIP meeting.
+> 
+> This is a vaccine that was only licensed for for adults, because it was intended for occupational risk. And, and that's preceding this entire global outbreak. It was intended for occupational risk. 
+> 
+> All of the studies, all the data was in 18 and over. 
+> 
+> And so now this NIH study is there. It will help us understand, but regardless of that, um, as Dr. Wina has pointed out there, isn't-- there hasn't been any safety concerns with the younger children who have received it as post exposure prophylaxis. 
+> 
+> And since 2022, CDC has recommended it for adolescents who might have the same sexual risk factors for which the adults are recommended to be vaccinated as part of the ongoing global outbreak of clade IIb.
+> 
+> ...
+> 
+> Agam Rao, CDC [00:34:36]
+> 
+> We know that there's been a lot of questions and concerns about whether protection is waning. 
+> 
+> And, that's somewhat based, it sounds like, on lab research that has showed antibody levels to decrease within six months after the initial primary series is administered. 
+> 
+> And we at CDC have also seen that in our data, but the real world data that we have access to doesn't seem to show that that's the case. 
+> 
+> And Sathesh also has done some studies that indicates that perhaps it's more than antibody levels, it's cell mediated immunity, innate immunity, other other aspects that might play a role in providing protection mpox. And I'll let him speak to that because that's not my area of expertise.
+> 
+> But long story short, we're not sure the clinical significance of those antibody titers waning. 
+> 
+> ...
+> 
+> Agam Rao, CDC [00:37:17]
+> 
+> We have unpublished data from a study that we lead in the Democratic Republic of Congo that Sathesh could speak to more if there's more questions, but that also seems to suggest that at least five years there seems to be an anamnestic response to exposures when they occur. 
+> 
+> But there's more that needs to be done to analyze that data a bit more. And we are evaluating a seven year time point as well. 
+> 
+> But all of this together is to say that we just are not seeing a signal to suggest that there needs to be a booster dose right now. And so we are not recommending booster doses except for those people at occupational risk. 
+> 
+> ...
+> 
+> Peter Weina, FDA [00:39:27]
+> 
+> This vaccine is not a vaccine that causes sterile immunity. This is something that is probably more appropriate to label as disease modifying. 
+> 
+> We don't have really good data to support the fact that it absolutely positively stops all presence of the virus in the body. 
+> 
+> And the breakthrough, the vast majority of the breakthrough infections that have happened have been relatively mild cases. 
+> 
+> So, remember that just because you have an antibody level doesn't necessarily mean that you're going to have sterile immunity and getting boosters isn't necessarily going to increase that vaccine efficacy across the board.
+
 # September 13, 2024
 
 ## Missouri spokesperson on symptomatic close contact of bird flu case
