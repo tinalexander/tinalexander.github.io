@@ -25,7 +25,7 @@ permalink: /notes/2024/09
 > Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024
 > 
 > | Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024 |
-> | -------------------------------------------------------------------------------------- |
+> | -------------------------------------------------------------------------------------- | --- | --- |
 > | Age (yrs)                                                                              | Number of cases | Percent of cases |
 > | <1                                                                                     | 80 | 7 |
 > | 4-Jan                                                                                  | 130 | 12 |
