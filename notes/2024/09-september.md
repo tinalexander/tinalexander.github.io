@@ -17,6 +17,10 @@ permalink: /notes/2024/09
 - **Attribution:** Virginia Department of Agriculture and Consumer Services spokesperson Amanda Thompson
 - **Date:** received September 19, 2024
 
+> **1. Has the number or kinds of tasks conducted at the plant changed over the past decade? Or was it routine for 2,127 tasks to be conducted there in a year?**
+> 
+> **2. How long had VDACS been inspecting this location for Talmadge-Aiken?**
+
 > As the details of these ten years of data would be held within the USDA FSIS records system, we recommend you contact FSIS with this request. The Jarratt facility has operated under the Talmadge-Aiken program for several decades.
 
 # September 18, 2024
