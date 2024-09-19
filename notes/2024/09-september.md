@@ -11,6 +11,14 @@ permalink: /notes/2024/09
 
 # September 19, 2024
 
+## National Academies spokesperson on alcohol and health committee
+
+- **Source:** email
+- **Attribution:** National Academies of Sciences, Engineering and Medicine spokesperson Megan Lowry
+- **Date:** received September 19, 2024
+
+> The final report is expected to be completed around the end of 2024 or early 2025. No additional open meetings are planned for this project.
+
 ## Virginia agriculture department on Talmadge-Aiken
 
 - **Source:** email
