@@ -11,6 +11,50 @@ permalink: /notes/2024/09
 
 # September 19, 2024
 
+## New York state's health department on pertussis increase
+
+- **Source:** email
+- **Attribution:** New York State Department of Health spokesperson
+- **Date:** received September 19, 2024
+
+> “The Department has been tracking a number of pertussis cases across the state and is monitoring the situation in coordination with local health departments. Pertussis, also called whooping cough, is a serious lung infection caused by bacteria that is very contagious and causes coughing fits. Complications are more common in infants and young children. The best way to prevent pertussis is to get vaccinated. Those who are unsure of their vaccination status or the vaccination status of their child should contact a health care provider.”
+> 
+> Additional Information:
+> 
+> Please see the following breakdown of cases by age in New York State (excluding New York City) from our communicable disease system, through the Centers for Disease Control and Prevention’s Morbidity and Mortality Weekly Reports (latest data available from here.) Forty percent of the pertussis cases this year in New York State (excluding New York City) have occurred among individuals 15-19 years of age. The Department has not identified any pediatric pertussis-related deaths this year.
+> Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024
+> 
+> | Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024 |
+> | -------------------------------------------------------------------------------------- |
+> | Age (yrs)                                                                              | Number of cases | Percent of cases |
+> | <1                                                                                     | 80 | 7 |
+> | 4-Jan                                                                                  | 130 | 12 |
+> | 9-May                                                                                  | 93 | 8 |
+> | 14-Oct                                                                                 | 201 | 18 |
+> | 15-19                                                                                  | 448 | 40 |
+> | 20-29                                                                                  | 45 | 4 |
+> | 30-39                                                                                  | 18 | 2 |
+> | 40-50                                                                                  | 33 | 3 |
+> | 50-59                                                                                  | 17 | 2 |
+> | 60+                                                                                    | 47 | 4 |
+> 
+> For New York City data, please reach out to the New York City Department of Health and Mental Hygiene directly at PressOffice@health.nyc.gov.
+> 
+> Regarding your question about whether the infections are from a specific cluster, we are not seeing evidence of a specific cluster or location or event. Cases have been identified all over the state and among children and adolescents in various settings.
+> The State Health Department recommends the following steps to protect against pertussis infection:   
+> 
+> Follow appropriate vaccination guidelines and consult with a health care provider to ensure immunizations are up to date.   
+> 
+> Get tested and seek treatment at the first signs of pertussis symptoms, especially if you have young children at home or come in contact with children in other situations (e.g., work, recreational activities).  
+> 
+> If possible, avoid close contact with others if you or your child is sick. Stay home, and follow good cough hygiene techniques, including hand washing and covering your mouth when you cough.   
+> 
+> Keep infants under the age of one away from anyone who has a cough or other symptoms of pertussis, if possible.   
+> 
+> Be prepared to cooperate with the local health department to help them track the disease and contact friends, schoolmates, and others who may benefit from preventive medicine.    
+> 
+> For additional information about pertussis, visit the State Health Department web site at: http://www.health.ny.gov/diseases/communicable/pertussis/fact_sheet.htm
+
 ## National Academies spokesperson on alcohol and health committee
 
 - **Source:** email
