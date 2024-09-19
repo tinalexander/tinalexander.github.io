@@ -23,6 +23,20 @@ permalink: /notes/2024/09
 
 > As the details of these ten years of data would be held within the USDA FSIS records system, we recommend you contact FSIS with this request. The Jarratt facility has operated under the Talmadge-Aiken program for several decades.
 
+## Georgia's Medicaid program on Pathways to Coverage
+
+- **Source:** emailed statement
+- **Attribution:** Georgia Department of Community Health spokesperson Fiona Roberts
+- **Date:** received September 18, 2024
+
+> **Are you able to share an updated figure on enrollment in Pathways to Coverage?**
+> 
+> Current active enrollment number is 4,923 as of 9/13/2024.
+> 
+> **Is there a comment or statement to share on whether DCH is currently planning to apply for an extension for Pathways to Coverage?**
+> 
+> Georgia intends to review all options available to ensure the continuation of the Pathways program.
+
 # September 18, 2024
 
 ## FDA spokesperson on reverifying drug shortages
