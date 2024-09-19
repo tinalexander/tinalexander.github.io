@@ -9,6 +9,16 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 19, 2024
+
+## Virginia agriculture department on Talmadge-Aiken
+
+- **Source:** email
+- **Attribution:** Virginia Department of Agriculture and Consumer Services spokesperson Amanda Thompson
+- **Date:** received September 19, 2024
+
+> As the details of these ten years of data would be held within the USDA FSIS records system, we recommend you contact FSIS with this request. The Jarratt facility has operated under the Talmadge-Aiken program for several decades.
+
 # September 18, 2024
 
 ## Virginia Tech lab on XEC cases sequenced earlier this year
