@@ -25,18 +25,18 @@ permalink: /notes/2024/09
 > Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024
 > 
 > Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024 
-> | ---------- |
-> | Age (yrs) | Number of cases | Percent of cases |
-> | <1 | 80 | 7 |
-> | 4-Jan | 130 | 12 |
-> | 9-May | 93 | 8 |
-> | 14-Oct | 201 | 18 |
-> | 15-19 | 448 | 40 |
-> | 20-29 | 45 | 4 |
-> | 30-39 | 18 | 2 |
-> | 40-50 | 33 | 3 |
-> | 50-59 | 17 | 2 |
-> | 60+ | 47 | 4 |
+> |Age (yrs)|Number of cases|Percent of cases|
+> |---------|---------------|----------------|
+> |<1       |80             |7               |
+> |4-Jan    |130            |12              |
+> |9-May    |93             |8               |
+> |14-Oct   |201            |18              |
+> |15-19    |448            |40              |
+> |20-29    |45             |4               |
+> |30-39    |18             |2               |
+> |40-50    |33             |3               |
+> |50-59    |17             |2               |
+> |60+      |47             |4               |
 > 
 > For New York City data, please reach out to the New York City Department of Health and Mental Hygiene directly at PressOffice@health.nyc.gov.
 > 
