@@ -24,7 +24,7 @@ permalink: /notes/2024/09
 > Please see the following breakdown of cases by age in New York State (excluding New York City) from our communicable disease system, through the Centers for Disease Control and Prevention’s Morbidity and Mortality Weekly Reports (latest data available from here.) Forty percent of the pertussis cases this year in New York State (excluding New York City) have occurred among individuals 15-19 years of age. The Department has not identified any pediatric pertussis-related deaths this year.
 > Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024
 > 
-> | Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024 |
+> Pertussis cases, New York State, excluding New York City, Week 1 through Week 37, 2024 
 > | -------------------------------------------------------------------------------------- | --- | --- |
 > | Age (yrs)                                                                              | Number of cases | Percent of cases |
 > | <1                                                                                     | 80 | 7 |
