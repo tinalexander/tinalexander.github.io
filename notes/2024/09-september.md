@@ -25,6 +25,18 @@ permalink: /notes/2024/09
 
 # September 18, 2024
 
+## FDA spokesperson on reverifying drug shortages
+
+- **Source:** email
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received September 19, 2024
+
+> **When the database lists that a drugmaker was "Reverified 09/16/2024" like it does for semaglutide (https://dps.fda.gov/drugshortages/activeingredient/semaglutide-injection) does that mean that FDA has "reverified" the manufacturer's claims about availability?** 
+> 
+> **Is it accurate to say that FDA, on that date, also reverified that the product overall was still "currently in shortage"?**
+
+> “Reverified” by our definition means no change in the information and applies to all the presentations listed under a certain company. So, yes to both.
+
 ## Virginia Tech lab on XEC cases sequenced earlier this year
 
 - **Source:** emailed answers
