@@ -11,6 +11,68 @@ permalink: /notes/2024/09
 
 # September 20, 2024
 
+## CDC officials on encouraging COVID vaccination in long-term care
+
+- **Source:** webinar
+- **Attribution:** hosted by the Centers for Disease Control and Prevention's Division of Healthcare Quality Promotion
+- **Date:** occurred September 16, 2024
+
+> Erika Wallender, FDA [00:08:26]
+> 
+> Although nursing home and assisted living residents make up just 2% of the U.S. population that's over 65 years of age at any given time, last respiratory virus season, nearly 20% of hospital admissions captured in our COVID and RSV surveillance systems were among long term care residents. 
+> 
+> And in the National Health Surveillance Network data, nursing home residents had up to eight times greater rate of COVID 19 related hospitalizations compared to U.S. residents 70 years of age and older. 
+> 
+> We also know that individuals over 65 years of age have the highest risk of influenza hospitalization. 
+> 
+> What is contributing to this disproportionate risk?
+> 
+> While we know long term care residents are at high risk of respiratory virus infection, due to living in group settings with communal activities and long term care residents, more commonly have risk factors for severe respiratory illness, such as older age in particular those over 75, diabetes, chronic kidney disease, chronic lung disease, coronary artery disease, and stroke. 
+> 
+> Based on the data available, we are able-- we are predicting a U.S. respiratory virus season for 2024 to 2025 to have a similar severity to last year. 
+> 
+> Since COVID 19 continues to circulate, we expect the burden of severe disease due to respiratory viruses to continue to exceed the levels of the pre pandemic years. 
+> 
+> And as we still have regularly reported data on COVID 19 related hospitalizations among nursing home residents, we do see that similarly to last year, hospitalizations among residents with a positive SARS-CoV-2 test have already begun increasing this year with similar to higher numbers of hospitalizations in July and August of this year, compared to the same months last year.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:13:38]
+> 
+> This slide shows you the recommended timing for each of these vaccines, but let me give you just the headline here: for older adults, the time for COVID, influenza, or RSV vaccines is now.
+> 
+> Go time is now to get our older adult residents protected against these viruses. 
+> 
+> If you have residents that either can't or won't be vaccinated now, or as you admit new residents who haven't had these vaccines, do continue to offer them throughout the year. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:19:49]
+> 
+> If you're a healthcare provider working in a long-term care facility or otherwise serving long-term care facility residents, just know that you are your resident's most trusted source of information on vaccines. They care what you think, and we know that you care about them because you're here today. So thank you for everything that you are doing to encourage their vaccination. Next slide, please.
+> 
+> Strong provider recommendations. In other words, recommendations from you, can increase resident confidence in vaccines. In making your recommendations, you can be specific, be clear, be attentive to their concerns. And if they don't accept vaccination after one discussion, don't give up, try again later. 
+> 
+> If a resident or family member declines vaccines once it doesn't guarantee they always will. Continue the conversation. Next slide, please. 
+> 
+> Here, we're showing you the benefit of continuing the conversation. This study that we're showing you right here showed that some patients needed to be offered the COVID 19 vaccine up to 11 times before they decided to be vaccinated. So don't give up, continue that conversation and it can have benefit for your residents. 
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:52:51]
+> 
+> People may wait up to three months after their symptoms of active COVID 19 disease resolve, or up to three months after a test, a positive test, if they didn't have symptoms at all. 
+> 
+> Now that's not a requirement. So no worries if a person, if a resident, wants to be vaccinated sooner, but we do know that history of recent infection is associated with some protection against additional infections. 
+> 
+> So those are our recommendations right now.
+> 
+> ...
+> 
+> Evelyn Twentyman, CDC [00:57:04]
+> 
+> For most people, the minimum interval between their last, 2023-2024 COVID 19 vaccine, and this new one that has just been recommended is two months. However, there are some important exceptions, including for those with moderate or severe immunocompromise.
+
 ## AstraZeneca spokesperson on FluMist self-administered
 
 - **Source:** emailed statement
