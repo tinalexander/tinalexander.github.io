@@ -11,6 +11,20 @@ permalink: /notes/2024/09
 
 # September 20, 2024
 
+## Oklahoma's health department on pertussis increase
+
+- **Source:** emailed statement
+- **Attribution:** Oklahoma State Department of Health spokesperson Erica Rankin-Riley
+- **Date:** received September 19, 2024
+
+> **Does the state believe the infections are from a specific cluster? Wondering if the recent increase is linked to a specific location or event.**
+> 
+> Since January 1, 2024, there have been 162 cases of whooping cough in Oklahoma, which is the highest number of cases since 2017 when 207 cases were reported. Of those 162 cases in 2024, 60 have occurred in Health District 4 of the state.
+> 
+> **Can you describe the age distribution of the cases? Wondering how many of them are school-age children or teenagers.**
+> 
+> Age range for cases statewide have ranged from 1 day to 86 years with the median age being 9 years.
+
 ## California's health department on response to Oropouche virus
 
 - **Source:** emailed statement
