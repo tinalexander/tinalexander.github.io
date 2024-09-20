@@ -11,11 +11,27 @@ permalink: /notes/2024/09
 
 # September 20, 2024
 
+## California's health department on response to Oropouche virus
+
+- **Source:** emailed statement
+- **Attribution:** California Department of Public Health spokesperson
+- **Date:** received September 19, 2024
+
+> QUESTION 1: How many Oropouche virus cases have been confirmed in the state?
+> 
+> ANSWER: One travel-associated case of Oropouche virus (OROV) has been identified in California, but the risk of transmission in California is low. The biting midge species that is primarily responsible for the spread of OROV in humans is not present in the western U.S. Preliminary data suggest other potential vectors of the virus, including a widespread mosquito species that is present in California, have lower transmission potential. The CDC has reported this case via the national arboviral surveillance system.
+> 
+> There are currently outbreaks of OROV in Latin America and the Caribbean. Individuals traveling to those regions should take precautions to prevent insect bites. Please see the CDC Oropouche website for more information.
+> 
+> QUESTION 2: Have any been hospitalized or diagnosed in pregnant women?
+> 
+> ANSWER: The individual was hospitalized and not pregnant.
+
 ## Los Angeles County on response to local dengue cases
 
 - **Source:** emailed statement
 - **Attribution:** Los Angeles County Department of Public Health spokesperson
-- **Date:** received September 20, 2024
+- **Date:** received September 19, 2024
 
 > For your second question, Public Health is conducting door-to-door information outreach with local vector control agencies to enhance surveillance and engage residents in the immediate vicinity where cases have been identified. Outreach teams have been visiting residents in the neighborhood of the identified case to share information about dengue risk in English and Spanish – and other languages as needed - and encourage residents to take protective measures against mosquitoes. Our teams are also offering free dengue testing to all visited residents. With the detection of two additional cases in the region, Public Health will expand our outreach response to additional households within a 150-meter radius of the newly identified cases, which is the typical flight range of mosquitoes that transmit this virus. We ask residents who are visited by our Public Health outreach teams to allow our staff to share information with them and help us by responding to a short survey to assess if anyone in the household has symptoms or a recent history of travel. Public Health is also sharing information with providers and encouraging them to stay vigilante for dengue fever and test for and report suspect cases of mosquito-borne diseases. 
 >  
