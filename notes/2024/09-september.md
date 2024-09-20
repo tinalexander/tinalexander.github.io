@@ -11,6 +11,16 @@ permalink: /notes/2024/09
 
 # September 20, 2024
 
+## AstraZeneca spokesperson on FluMist self-administered
+
+- **Source:** emailed statement
+- **Attribution:** AstraZeneca spokesperson
+- **Date:** received September 20, 2024
+
+> We’re working diligently to bring this ‘first-of-its-kind’ innovative and convenient self-administrated flu vaccine to consumers and look forward to launching FluMist Home as soon as next flu season. We will plan to share further details closer to launch.
+> 
+> This will be the first influenza vaccine available for delivery and administration at home. To ensure a seamless customer experience and proper public roll-out of the first flu vaccine given outside of the medical home, it requires extensive collaboration across a variety of external stakeholders and partners.
+
 ## Oklahoma's health department on pertussis increase
 
 - **Source:** emailed statement
