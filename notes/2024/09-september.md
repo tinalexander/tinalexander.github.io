@@ -9,6 +9,18 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 20, 2024
+
+## Los Angeles County on response to local dengue cases
+
+- **Source:** emailed statement
+- **Attribution:** Los Angeles County Department of Public Health spokesperson
+- **Date:** received September 20, 2024
+
+> For your second question, Public Health is conducting door-to-door information outreach with local vector control agencies to enhance surveillance and engage residents in the immediate vicinity where cases have been identified. Outreach teams have been visiting residents in the neighborhood of the identified case to share information about dengue risk in English and Spanish – and other languages as needed - and encourage residents to take protective measures against mosquitoes. Our teams are also offering free dengue testing to all visited residents. With the detection of two additional cases in the region, Public Health will expand our outreach response to additional households within a 150-meter radius of the newly identified cases, which is the typical flight range of mosquitoes that transmit this virus. We ask residents who are visited by our Public Health outreach teams to allow our staff to share information with them and help us by responding to a short survey to assess if anyone in the household has symptoms or a recent history of travel. Public Health is also sharing information with providers and encouraging them to stay vigilante for dengue fever and test for and report suspect cases of mosquito-borne diseases. 
+>  
+> Lastly, we suggest you reach out to the San Gabriel Valley Vector Control District to learn more about what they are doing in the community. Here is their website: https://www.sgvmosquito.org/
+
 # September 19, 2024
 
 ## New York state's health department on pertussis increase
