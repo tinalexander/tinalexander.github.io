@@ -11,6 +11,14 @@ permalink: /notes/2024/09
 
 # September 24, 2024
 
+## Pfizer spokesperson on supplying COVIDTests.gov
+
+- **Source:** email
+- **Attribution:** Pfizer spokesperson Kit Longley
+- **Date:** received September 25, 2024
+
+> No, Lucira by Pfizer is not contracted for this initiative.
+
 ## InBios spokesperson on supplying COVIDTests.gov
 
 - **Source:** email
