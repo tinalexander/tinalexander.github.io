@@ -11,6 +11,16 @@ permalink: /notes/2024/09
 
 # September 25, 2024
 
+## iHealth on supplying COVIDTests.gov
+
+- **Source:** email
+- **Attribution:** iHealth spokesperson Shirley Ng
+- **Date:** received September 25, 2024
+
+> 1) Yes, iHealth is supplying COVID-19 tests to HHS for this season. The tests are part of the remaining quantity from the specific number agreed upon in our previous contract with HHS. More details about the contract can be found here: https://www.hhs.gov/about/news/2023/09/20/biden-harris-administration-awards-600-million-bolster-us-manufacturing-covid-19-tests-announces-re-opening-covidtestsgov.html
+> 
+> 2) While we are actively supplying tests, we do not have the exact number of remaining tests being delivered at this time-- as they are supplied incrementally over the course of the contract.
+
 ## Aptitude Medical Systems on supplying COVIDTests.gov
 
 - **Source:** email
