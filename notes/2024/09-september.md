@@ -9,6 +9,28 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 24, 2024
+
+## InBios spokesperson on supplying COVIDTests.gov
+
+- **Source:** email
+- **Attribution:** InBios spokesperson Wendy Bagnato
+- **Date:** received September 25, 2024
+
+> Yes, we are currently supplying 8 million Covid-19 rapid antigen tests to HHS. We manufacture everything here in the US. We are also one of the lowest priced tests via Amazon.com and Walmart.com. We recently received our FDA 510(k) for our Covid-19 Rapid Point of Care test.
+
+## CMS spokesperson on Georgia Pathways to Coverage
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Medicare & Medicaid Services spokesperson
+- **Date:** received September 24, 2024
+
+> The Georgia Pathways to Coverage demonstration expires Sept. 30, 2025. Therefore, the state of Georgia has time before the expiration of the currently approved demonstration authorities to meet the regulatory requirements to request an extension, if the state intends to do so. Should the state choose to seek an extension of the Pathways to Coverage demonstration, CMS will work with the state and review any request in accordance with federal rules. CMS does not provide comment before or during the review process. We refer you to the state Medicaid agency for questions about Georgia's application plans.
+> 
+> CMS has been working with the state to develop and execute a Monitoring Protocol and an Evaluation Design, per the approved terms and conditions for the demonstration. Additionally, CMS and the state have worked together to develop monitoring and evaluation activities to allow CMS and the public to understand better the demonstration’s implementation progress, as well as its effects on beneficiary enrollment and coverage, using as complete and up-to-date information as possible from the state’s experience implementing the demonstration. CMS remains committed to meaningful monitoring and evaluation to inform its understanding of the coverage received through the demonstration and early health care utilization patterns. CMS and the state continue to work toward finalizing the demonstration’s Monitoring Protocol and Evaluation Design and collecting meaningful data on the demonstration’s effects.
+> 
+> More information about the current demonstration, including monitoring reports, can be found here: medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/81441.
+
 # September 20, 2024
 
 ## CDC officials on encouraging COVID vaccination in long-term care
