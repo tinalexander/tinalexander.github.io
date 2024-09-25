@@ -9,6 +9,118 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 25, 2024
+
+## CDC officials at NFID event on vaccination rates
+
+- **Source:** [livestream](https://www.nfid.org/2024-nfid-annual-news-conference-preventing-respiratory-disease-this-fall-and-winter/)
+- **Attribution:** hosted by the National Foundation for Infectious Diseases
+- **Date:** occurred September 25, 2024
+
+> Mandy Cohen, CDC [00:11:19]
+> 
+> You're gonna hear a lot of numbers and data, and those are very important to tell you about why these vaccines work, to make sure that you are risking less severe disease. 
+> 
+> But let me talk to you as a mom, a wife and a daughter. 
+> 
+> I wouldn't recommend something for the American people that I wouldn't recommend for my own family. You're going to see me get my flu vaccine today. And my daughters who are 10 and 12, we have an appointment for them to get their flu vaccines. They're going to get their updated COVID vaccine. I'm getting my updated COVID shot next day. I could have gotten both today. I'm just choosing to get them on different days, whatever works best for you. My husband's getting vaccinated.
+> 
+> But I want to want to also remind that my parents who are both over 70, I want to make sure we're celebrating the holidays together. They are both getting their vaccines again. 
+> 
+> I wouldn't recommend something for the American people that I wouldn't do for myself and for those that I love. 
+> 
+> So I hope as we head into the season, which again, we predict to be similar to last year, we know the power is in our hands, and so we want to make sure we're doing everything we can to get folks vaccinated. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:35:01]
+> 
+> I want to lead by example. It's why I got vaccinated today with my flu shot. 
+> 
+> I want to encourage folks that you can get your flu and COVID on the same day. I happen to be getting my COVID shot next week, but feel free to get both in the same day. 
+> 
+> And I think we all as leaders want to lead by example. And that includes all elected officials. 
+> 
+> And I know I want to make sure the president and the vice president are well protected as we go into this season. So I look forward for them getting their vaccines as well.
+> 
+> ...
+> 
+> Natalie Brand, CBS [00:38:23]
+> 
+> First of all, since we saw this COVID surge this summer, what are we expecting for caseload in the fall? I know that you said we're expecting a typical year, but COVID specifically given this summer surge.
+> 
+> Mandy Cohen, CDC [00:38:35]
+> 
+> Sure. I'll start and then I'll turn it over to Dr Daskalakis. 
+> 
+> But we are, right now we saw an increase in cases or I should say viral transmission of COVID over the summer, similar to what we saw last summer. 
+> 
+> But what we're seeing now is per case that we're seeing is less hospitalizations and less death, which is good. 
+> 
+> It tells us that we have underlying immunity. It's not that this virus isn't changing, because it is, and is actually changing faster than flu, but it does tell us we have some underlying immunity that is decreasing the amount of hospitalizations and death. 
+> 
+> But if you ask me to stack rank COVID next to flu, COVID is still causing more hospitalizations and death than flu. 
+> 
+> And so if you are someone who has regularly gotten their flu shot, you want to add COVID to that because COVID is still causing more hospitalization and death, even though it's lower. 
+> 
+> So we're seeing summer waves and it's telling us that COVID is not confined to the winter like flu and RSV are, it can be a year round disease, even more important for us to stay updated on our vaccine, and doing it now ahead of the winter, when we do expect more hospitalization and more death from both COVID and flu, now is the right time to get vaccinated. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:40:08]
+> 
+> When you think of a vaccine that we use the word match often, it's really about sort of the depth and breadth of the immune response that the vaccine generates. 
+> 
+> And so, the selection of in COVID of a JN.1 lineage antigen in the vaccine really looks forward into what could happen with variants, but also looks back in terms of our immune history. 
+> 
+> So, I think given what circulating, even some of the new variants that are Twitter stars, though not stars in our Nowcast yet, I think we are forecasting that the current COVID vaccine will be really good in terms of, in terms of depth and breadth, at preventing some of the worst complications of COVID.
+> 
+> Flu, same, I think that again, every year, um, one of the important things that we do is monitor what's circulating and based on what we're seeing today and what we're seeing in other parts of the world, we think that this-- that the flu vaccine will also provide the depth and breadth to protect the population.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:41:11]
+> 
+> We worked very hard with manufacturers to make sure that we weren't in that same place going into this year. And the good news is we're not. 
+> 
+> So we see a very ample supply of the monoclonal vaccine for infants. So again, recommending, starting, right now for our for our babies under eight months to get that RSV immunization.
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:42:29]
+> 
+> Right now is the best time to get your updated flu shot, your updated COVID shot. We are here at the end of September, but through October, but it's also not too late. 
+> 
+> Say you missed the October window, get it in November. The important part is getting these vaccines. 
+> 
+> They're the single most effective thing you can do to protect yourself and your family, your community.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:43:03]
+> 
+> One of them I'll start with the sort of most common thing that we do is a lot of engagement. 
+> 
+> So making sure that we talk to organizations and populations that we serve to really understand better how we can provide the information that they need so they can make informed decisions about their health. 
+> 
+> I think the other part is that we have a lot of different survey tools, and I think that we do get a lot of different sort of answers as to why people are less frequently getting the flu vaccine. 
+> 
+> One that sticks out to me is convenience. And so I think that there's a lot of sort of conversation about how effective it is, what are the side effects? So those are also players, but one of the big ones is it's just not convenient. 
+> 
+> And so I think we're here to make the point that there's a lot of places where you can get a flu vaccine and a COVID vaccine, including your clinicians' office, including pharmacies. 
+> 
+> And so if we can sort of expand people's vision that, if they're able to go to the grocery store with the pharmacy or the pharmacy to pick up their toothpaste, if there's an opportunity to get vaccinated, I think that since COVID so many opportunities have emerged to address some of those issues.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:48:37]
+> 
+> In in fact, today we'll be posting our first national immunization survey data that will give you the very earliest view in terms of what's happening with flu, COVID and RSV vaccination. 
+> 
+> Additionally, we will continue to publish data around our emergency department visits. This is one to watch the space. We have some very exciting innovations coming in terms of how we're sharing about the respiratory season. And so really watch that respiratory virus channel for some really new and exciting changes. 
+> 
+> Additionally, we'll continue to report on hospitalizations, and will continue to publish our forecasts. That both includes a forecast for the season, which I think Dr. Cohen really summarized very well, but then also a estimate of where we are in terms of progress for COVID during the COVID season publishing, a view into what our near future will be based on what we're seeing today. 
+
 # September 24, 2024
 
 ## Pfizer spokesperson on supplying COVIDTests.gov
