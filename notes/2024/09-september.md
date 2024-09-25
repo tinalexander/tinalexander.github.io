@@ -11,6 +11,16 @@ permalink: /notes/2024/09
 
 # September 25, 2024
 
+## Aptitude Medical Systems on supplying COVIDTests.gov
+
+- **Source:** email
+- **Attribution:** Aptitude Medical Systems CEO B. Scott Ferguson
+- **Date:** received September 25, 2024
+
+> Aptitude is not supplying HHS tests this season and ASPR has not reached out about participating in the program.
+> 
+> As an element of your story, it's pity that HHS is not offering people access to high quality at-home molecular tests at this time, despite availability.  I'd be happy to talk with you more about this.
+
 ## CDC officials at NFID event on vaccination rates
 
 - **Source:** [livestream](https://www.nfid.org/2024-nfid-annual-news-conference-preventing-respiratory-disease-this-fall-and-winter/)
