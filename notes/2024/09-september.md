@@ -9,6 +9,20 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 26, 2024
+
+## USDA spokesperson on investigation of Boar's Head plant
+
+- **Source:** emailed statement
+- **Attribution:** Food Safety and Inspection Service spokesperson
+- **Date:** received September 26, 2024
+
+> “As previously shared, in July FSIS suspended inspection by the Virginia Department of Agriculture and Consumer Services at the Boar’s Head facility in Jarratt, Virginia, which meant the facility must remain closed until and unless we were confident they could produce safe food for their customers. On September 13, the company announced its decision to indefinitely close the facility. Despite the closure, FSIS’ investigation into factors that contributed to this outbreak, including but not limited to an in-depth look at other Boar's Head facilities, will continue in the interest of best protecting public health.
+> 
+> We take very seriously matters of public health and corporate accountability, and an investigation into this matter remains underway and ongoing. We are also placing particular focus on state inspection models, including where policy changes are needed to prevent oversight gaps.
+> 
+> In addition to taking a holistic look at Boar’s Head establishments across the country, our investigation will include a top-to-bottom review to determine contributing factors that led to the outbreak at this particular facility, what needs to be improved, and if there are lessons learned that could be more broadly applied to ready-to-eat meat and poultry facilities.”
+
 # September 25, 2024
 
 ## iHealth on supplying COVIDTests.gov
