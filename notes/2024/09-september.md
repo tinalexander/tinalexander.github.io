@@ -11,6 +11,16 @@ permalink: /notes/2024/09
 
 # September 27, 2024
 
+## EPA on TSCA fluoride court ruling
+
+- **Source:** emailed statement
+- **Attribution:** Environmental Protection Agency spokesperson
+- **Date:** received September 27, 2024
+
+> As a part of our work to protect human health and the environment, EPA assesses safe levels of certain chemicals in drinking water and sets standards to protect communities. Fluoride is one such chemical. Fluoride is an element that in some places can be found naturally in water and may also be added to the water by drinking water systems to promote strong teeth and prevent tooth decay, especially in children. Under the Safe Drinking Water Act, EPA sets limits on what is allowed and what is recommended. EPA’s maximum contaminant level goal (MCLG) and enforceable maximum contaminant level (MCL) for fluoride are 4.0 mg/L.  EPA’s secondary maximum contaminant level (a non-enforceable standard) is set at 2.0 mg/L. These levels were developed to prevent potential negative impacts of too much fluoride to bones and teeth in young children. EPA’s standards apply to all drinking water systems and limit the amount of fluoride present in drinking water from either added fluoride or naturally occurring sources.  
+> 
+> EPA is in the process of reviewing the district court’s decision. While the decision finds a risk sufficient to trigger regulation under the Toxic Substances Control Act, it is important to note that the court does not “conclude with certainty that fluoridated water is injurious to public health,” and defers to EPA’s expertise as to how to evaluate and regulate fluoride appropriately moving forward. The agency, in coordination with the Department of Justice, will consider all options going forward to determine next steps. From day one, this Administration has taken actions to protect people’s health that follow the science and the law. EPA staff includes some of the best experts and scientists in the world and they will be crucial to whatever next steps the agency takes.
+
 ## ASPR spokesperson on COVIDTests.gov accuracy
 
 - **Source:** emailed statement
