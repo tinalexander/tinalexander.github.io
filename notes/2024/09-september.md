@@ -9,6 +9,16 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 27, 2024
+
+## ASPR spokesperson on COVIDTests.gov accuracy
+
+- **Source:** emailed statement
+- **Attribution:** Administration for Strategic Preparedness and Response spokesperson
+- **Date:** received September 27, 2024
+
+> All tests distributed through COVIDTests.gov and ASPR programs meet sensitivity and specificity requirements established by the FDA. ASPR has prioritized procuring tests that are affordable, accurate, and manufactured domestically. COVID-19 tests from ASPR’s last procurement in September 2023 are now being distributed directly to health centers, long-term care facilities, food banks, other community hubs
+
 # September 26, 2024
 
 ## USDA spokesperson on investigation of Boar's Head plant
