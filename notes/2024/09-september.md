@@ -11,6 +11,54 @@ permalink: /notes/2024/09
 
 # September 27, 2024
 
+## CMS officials on Medicare Part D premiums
+
+- **Source:** press conference
+- **Attribution:** senior Centers for Medicare & Medicaid Services official
+- **Date:** occurred September 27, 2024
+
+> [00;05;09] 
+> 
+> Based on elections of Part D plan, sponsors, approximately 99% of people with Medicare enrolled in a standalone part D plan in 2024 are currently enrolled in a standalone part D plan offered by a plan sponsor that opted into the demonstration for 2025. I know that's a mouthful. 
+> 
+> But in terms of your question about exact plans. 
+> 
+> So there's 818 standalone part D plans in 2025, and 782 are participating in the demo, and the 36 plans that did not opt into the demo were all standalone part D employer plans, also called part D employer group waiver plans or EGWPs, and as a reminder, EGWPs are not part of open enrollment, and employers negotiate premiums with plans. 
+> 
+> But yes, 782 out of 818.
+> 
+> ...
+> 
+> [00;06;06]
+> 
+> We had projected that the demonstration would cost about 5 billion dollars, and that is still the case. 
+> 
+> As [official] said, the vast majority of plans are participating, and so we expect the demonstration to cost about 5 billion dollars, which is about 3% of total expected part D spending
+> 
+> ...
+> 
+> [00;13;25]
+> 
+> So the IRA premium stabilization has really been effective in its intent, and I think that the one thing that we were seeing was additional variation in the PDP market, so the way that the IRA stabilization worked is it really
+> stabilized across markets. 
+> 
+> So it was both the average of the MA PD and the PDP premiums. 
+> 
+> And, as we've said, we saw additional variation in the PDP market. 
+> 
+> So the demonstration we put in place was to address that variation which we think that, as you can see, it is addressing that that variation. 
+> 
+> 
+> We are-- This is consistent with prior transition periods where CMS also implemented demonstration programs. And I think, as you can see, there continues to be stable premiums and choice in that market.
+> 
+> ...
+> 
+> [00;15;15]
+> 
+> But again, I think the more important thing that's in the fact sheet is that represents 99% of enrollment. 
+> 
+> So that's why it's essentially the entire market.
+
 ## EPA on TSCA fluoride court ruling
 
 - **Source:** emailed statement
