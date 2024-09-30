@@ -9,6 +9,24 @@ permalink: /notes/2024/09
 
 <br>
 
+# September 30, 2024
+
+## NIAID director at COVID-19 special interest lecture
+
+- **Source:** recording
+- **Attribution:** published by the National Institutes of Health
+- **Date:** 
+
+> Jeanne Marrazzo, NIAID [00:15:13]
+> 
+> We've all been hearing about this summer wave. I personally know about four people who are down with COVID this week. It seems like it's really pretty much everywhere you look. 
+> 
+> The data suggests that after this summer wave, which again continues to be offspring of the Omicron family, we're probably seeing a little downturn, but I don't think we really know what's going to happen. 
+> 
+> This is a very, very, in some ways predictable, as you can see from those peaks and valleys, but in some ways, very unpredictable virus.
+> 
+> We've been fortunate not to see escape variants, mutants that are not going to be covered probably by the current booster recommendation, and certainly not resistant to Paxlovid, as far as we know, or Remdesivir, but you know, it is still something that we have to worry about. 
+
 # September 27, 2024
 
 ## CMS officials on Medicare Part D premiums
