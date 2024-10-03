@@ -39,6 +39,24 @@ permalink: /notes/2024/10
 > We don't know everything that we would like to about this disease, and we're continuing to study it as vigorously as we can. We're particularly interested at this point at the manner in which the disease is transmitted from individual cow to individual. We know that it is not respiratory. We do know that it is associated with milk. We believe that milking equipment, and other environmental surfaces or milking practices are implicated, but it is challenging to get the definitive answer that we want, even as we continue to explore that we do know the best way to address that. 
 > 
 > And that is to make sure that folks understand the risk to their herd, and are able to implement biosecurity, in order to mitigate the risk of the spread. 
+> 
+> ...
+> 
+> Lizette Durand, CDC [00:39:30]
+> 
+> CDC is also collaborating with state health departments on H5N1 seroprevalence studies to determine if there is asymptomatic infection among people who have worked with sick cows.
+> 
+> Sero prevalence studies can help to answer important public health questions about whether there is evidence of asymptomatic infections and what behaviors are associated with greater or lower risk to infection. 
+> 
+> The Michigan health department released negative results from first round of data collection last month, additional data collection is ongoing. 
+> 
+> Colorado has completed enrollment in their study, and CDC has test and specimens in our lab. 
+> 
+> Additionally, a CDC team of epidemiologists, veterinarians and health communications specialists worked with the Ohio department of health to conduct a serosurvey that will assess past exposures to H5 viruses among a national network of veterinarians and other veterinary professionals. Next slide, please. 
+> 
+> As I mentioned on the previous slide, CDC collaborated with the Ohio department of health at the American Association of Bovine Practitioners or AABP annual conference to conduct a sero survey. 
+> 
+> The study enroll at about 150 attendees who have worked closely with cattle in the past three months. 
 
 # October 2, 2024
 
