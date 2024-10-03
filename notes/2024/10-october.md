@@ -35,7 +35,7 @@ permalink: /notes/2024/10
 > 
 > A couple of things that folks often are interested in is the way in which this disease has spread and whether or not say the fall migration and birds moving back through the environment pose a risk to dairy cattle in the same way that they do to avian flock, typically poultry houses. 
 > 
-> And the answer is, is no. We have quite definitive evidence that H5N1 is spreading between states through cattle movement, which I mentioned earlier, and then spread between dairies, and sometimes, within dairies and sometimes to other dairies through the movements of individuals and equipment. 
+> And the answer is no. We have quite definitive evidence that H5N1 is spreading between states through cattle movement, which I mentioned earlier, and then spread between dairies, and sometimes, within dairies and sometimes to other dairies through the movements of individuals and equipment. 
 > 
 > We don't know everything that we would like to about this disease, and we're continuing to study it as vigorously as we can. We're particularly interested at this point at the manner in which the disease is transmitted from individual cow to individual. We know that it is not respiratory. We do know that it is associated with milk. We believe that milking equipment, and other environmental surfaces or milking practices are implicated, but it is challenging to get the definitive answer that we want, even as we continue to explore that we do know the best way to address that. 
 > 
