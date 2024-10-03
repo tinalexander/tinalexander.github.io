@@ -16,6 +16,12 @@ permalink: /notes/2024/10
 - **Attribution:** hosted by the Centers for Disease Control and Prevention
 - **Date:** occurred October 2, 2024
 
+> Eric Deeble, USDA [00:17:35]
+> 
+> We are wrapping up now the third round of experiments in BSL 3 facilities, in order to help us better understand how this disease manifests in animals, and how we can address it.
+> 
+> ...
+
 > Eric Deeble, USDA [00:17:59]
 > 
 > I will mention that we are also sampling beef that is derived from culled dairy cows, through our national residue monitoring program, to make sure that we have as much visibility into H5N1 in the herd as possible. 
