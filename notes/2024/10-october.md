@@ -21,12 +21,12 @@ permalink: /notes/2024/10
 > We are wrapping up now the third round of experiments in BSL 3 facilities, in order to help us better understand how this disease manifests in animals, and how we can address it.
 > 
 > ...
-
+> 
 > Eric Deeble, USDA [00:17:59]
 > 
 > I will mention that we are also sampling beef that is derived from culled dairy cows, through our national residue monitoring program, to make sure that we have as much visibility into H5N1 in the herd as possible. 
 > 
-> To date, we have detected no H5N1 in these samples, but out of an abundance of concern, both for public health, public safety,trading relationships and opportunities, we're going to continue to do this for the foreseeable future. 
+> To date, we have detected no H5N1 in these samples, but out of an abundance of concern, both for public health, public safety, trading relationships and opportunities, we're going to continue to do this for the foreseeable future. 
 > 
 > ...
 > 
