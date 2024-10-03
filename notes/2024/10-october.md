@@ -50,7 +50,7 @@ permalink: /notes/2024/10
 > 
 > The Michigan health department released negative results from first round of data collection last month, additional data collection is ongoing. 
 > 
-> Colorado has completed enrollment in their study, and CDC has test and specimens in our lab. 
+> Colorado has completed enrollment in their study, and CDC is testing specimens in our lab. 
 > 
 > Additionally, a CDC team of epidemiologists, veterinarians and health communications specialists worked with the Ohio department of health to conduct a serosurvey that will assess past exposures to H5 viruses among a national network of veterinarians and other veterinary professionals. Next slide, please. 
 > 
