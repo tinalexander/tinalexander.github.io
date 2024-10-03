@@ -8,6 +8,32 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 3, 2024
+
+## CDC One Health webinar on H5N1 in cattle
+
+- **Source:** webinar
+- **Attribution:** hosted by the Centers for Disease Control and Prevention
+- **Date:** occurred October 2, 2024
+
+> Eric Deeble, USDA [00:17:59]
+> 
+> I will mention that we are also sampling beef that is derived from culled dairy cows, through our national residue monitoring program, to make sure that we have as much visibility into H5N1 in the herd as possible. 
+> 
+> To date, we have detected no H5N1 in these samples, but out of an abundance of concern, both for public health, public safety,trading relationships and opportunities, we're going to continue to do this for the foreseeable future. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:18:41]
+> 
+> A couple of things that folks often are interested in is the way in which this disease has spread and whether or not say the fall migration and birds moving back through the environment pose a risk to dairy cattle in the same way that they do to avian flock, typically poultry houses. 
+> 
+> And the answer is, is no. We have quite definitive evidence that H5N1 is spreading between states through cattle movement, which I mentioned earlier, and then spread between dairies, and sometimes, within dairies and sometimes to other dairies through the movements of individuals and equipment. 
+> 
+> We don't know everything that we would like to about this disease, and we're continuing to study it as vigorously as we can. We're particularly interested at this point at the manner in which the disease is transmitted from individual cow to individual. We know that it is not respiratory. We do know that it is associated with milk. We believe that milking equipment, and other environmental surfaces or milking practices are implicated, but it is challenging to get the definitive answer that we want, even as we continue to explore that we do know the best way to address that. 
+> 
+> And that is to make sure that folks understand the risk to their herd, and are able to implement biosecurity, in order to mitigate the risk of the spread. 
+
 # October 2, 2024
 
 ## FDA spokesperson on OMOR sunscreen submission 
