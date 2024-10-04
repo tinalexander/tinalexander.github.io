@@ -50,6 +50,128 @@ permalink: /notes/2024/10
 > We are aware of household contacts who are also dairy workers and who have been contacted by county public health departments, or who will be contacted today. Thus, the public health investigation is very much underway at this time. 
 > 
 > ...
+> 
+> Demetre Daskalakis, CDC [00:17:46]
+> 
+> Serology is one tool public health leverages when we identify close contacts retrospectively, when they no longer have respiratory symptoms.
+> 
+> A flu serology test is done by drawing blood or sticking a patient's finger for a blood sample. 
+> 
+> Although some commercial laboratories can test for seasonal influenza A or B antibodies, there is rarely a clinical reason to conduct such testing.
+> 
+> Antibody tests for H5 are not commercially available. The CDC laboratory is an influenza WHO collaborating center and can perform serology testing of novel flu viruses in its BSL-3 labs. And we do this routinely. 
+> 
+> This test is not like other clinical serologies, which is a test a clinician would order for HIV or hepatitis B or C. It's a research test we use for surveillance that provides supportive evidence that someone was or was not infected with H5. 
+> 
+> Testing for an H5 antibody is more complex than the clinical serology that I listed above, requiring both the appropriate viruses needed to detect specific antibodies, and in many cases, high containment laboratories to perform the testing because the methods require working with infectious viruses. 
+> 
+> That means that it may take an additional two weeks for us to report the result of the seven serology specimens obtained from individuals in Missouri. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:19:10]
+> 
+> I will briefly walk you through the steps that CDC is taking to test these samples. 
+> 
+> As we previously reported, CDC was able to perform partial sequencing of the avian influenza H5 virus from the case in Missouri, despite a nearly undetectable level of viral RNA in the patient sample. 
+> 
+> This showed that the virus had two potentially important mutations, meaning two amino acid differences, in comparison with the virus is previously characterized during this event that could affectantigenicity.
+> 
+> Antigenicity is a property of being able to induce a specific immune response, such as creation of specific antibodies. So for serology testing, to be conclusive, it needs to be done using a virus that is genetically identical to the one obtained from the human case from Missouri or else there is a risk of a false negative test. 
+> 
+> Since this H5 virus was not recoverable, we could not grow it because there was not enough from the Missouri specimen, CDC needed to create the right virus for the test using reverse genetics to match the one from Missouri so that we can use it in these serology tests. 
+> 
+> This requires additional time and involves multiple steps. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:20:26]
+> 
+> So we've been working on this since we sequenced the virus from the Missouri patient in mid-September. 
+> 
+> It took about three weeks, to rescue the Missouri virus using reverse genetics, and complete the quality control steps that ensure we have the right virus.
+> 
+> This process will conclude by Monday and serology testing on the samples will begin.
+> 
+> At this point in time, CDC expects that conclusive serology testing results will be available in mid to late October. 
+> 
+> We realize people including all of us at CDC are anxious to see results from this testing. CDC is moving at a very accelerated pace while conducting rigorous science to assure the validity of these results.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:22:59]
+> 
+> USDA has confirmed that the virus present in California is the B3.13 strain that was detected in the first three affected California premises and has been detected in dairy herds in other states. 
+> 
+> This is the same virus that we've been detecting in herd since the very beginning of the emergence of H5N1 in dairy cows back in March.
+> 
+> CDFA has been conducting a very thorough trace back, and the initial cluster of detections, that were noted, were found through this trace back activity.
+> 
+> Subsequently, CDFA has established a 10 kilometer zone around each of the affected dairies and begun testing bulk milk at the dairies in those zones, every week, for H5N1.
+> 
+> This bulk milk tank sampling has been the source of all of the recent detections that we've seen out of California. 
+> 
+> CDFA is also evaluating additional strategies for milk, collecting milk samples from unaffected areas that are not located in the surveillance zone, which may include utilizing state, federal regulatory animal health personnel, county, or state milk inspectors, or milk processors to give them a more comprehensive picture of the emergence of H5N1 in California. 
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:25:54]
+> 
+> As many of you may be aware, the state initiated a mandatory bulk milk testing program, in an effort to clear the virus from Colorado in July 2024, (inaudible) and it has proven to be very successful. 
+> 
+> The state's surveillance was in response to ongoing detections, in individual premise. Initially this revealed a significant local prevalence about 72% of dairies, centered in Weld county. 
+> 
+> Colorado has seen excellent compliance with the mandatory bulk milk testing. And right now we can report that there is only one positive herd, out of the state total of 86 herds that is currently affected by H5N1.
+> 
+> Mandatory surveillance in the state allows for continuous monitoring of herds and helps to detect any instances of non-negative results early on ensuring timely intervention. 
+> 
+> This decrease in the Colorado cases, even in the absence of a vaccine, gives us further confidence that H5N1 can be eliminated in the national herd, even in states where we have seen an initial rapid increase in cases. 
+> 
+> ...
+> 
+> Steve Grube, FDA [00:32:19]
+> 
+> Foremost, we wanted to address concerns from dairy producers that commercial milk processors might reject milk from dairy premises identified as having or possibly having H5N1 infections in their herds. 
+> 
+> We have received no reports that this has happened anywhere. But we wanted to emphasize that there's no reason for it to happen.
+> 
+> Left unaddressed, that concern could discourage robust participation in voluntary surveillance and sampling programs, which are critical to expand knowledge of the disease and inform programs to reduce H5N1 circulation. 
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:48:09] 
+> 
+> There have been extensive questionnaires that were conducted with this individual, and they included, sort of a review of food exposure. 
+> 
+> So again, no raw milk exposure. 
+> 
+> The individual did report using dairy and eating dairy, but we don't have anything that would implicate an immediate dairy exposure. 
+> 
+> Certainly not raw given the fact that they reported no raw milk exposure, but nothing that sort of directly implicates the dairy exposure at all.
+> 
+> Again, I think it's fair to say that we, despite a lot of work on Missouri's part, supported by us, in thorough investigation through survey, we have not been able to detect an animal or animal product exposure, based on that on those conversations.
+> 
+> ...
+> 
+> Eric Deeble, USDA [00:55:19]
+> 
+> I actually don't think that it is out of place.
+> 
+> In those states that have had a really robust response and begun bulk milk testing very rapidly, I'd point to Colorado and Michigan in particular. 
+> 
+> We've seen a very rapid phase of initial detections, and a subsequent diminishment over time, sort of a long tail as the disease is eliminated from herds within the region. 
+> 
+> I think what we're doing now is seeing that very steep initial run up in detections caused by the state's very thorough testing program. 
+> 
+> ...
+> 
+> Steve Grube, FDA [00:56:32]
+> 
+> So as soon as we heard about this case, we worked with our state co-regulatory partners to identify any potential pasteurization failures in any state that supplied milk from Missouri and working with our partners, we found that there were no pasteurization failures in a recent timeframe, where it might be a reason for this person to be exposed. 
+> 
+> Again, there were no pasteurization failures in any state that were supplying dairy products to Missouri. 
+> 
+> And in addition, the amount of virus killed by pasteurization provides a many log order of magnitude safety barrier, safety margin, that ensures that the milk supply remains safe.
 
 # October 3, 2024
 
