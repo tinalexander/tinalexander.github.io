@@ -167,9 +167,9 @@ permalink: /notes/2024/10
 > 
 > Steve Grube, FDA [00:56:32]
 > 
-> So as soon as we heard about this case, we worked with our state co-regulatory partners to identify any potential pasteurization failures in any state that supplied milk from Missouri and working with our partners, we found that there were no pasteurization failures in a recent timeframe, where it might be a reason for this person to be exposed. 
+> So as soon as we heard about this case, we worked with our state co-regulatory partners to identify any potential pasteurization failures in any state that supplied milk for Missouri and working with our partners, we found that there were no pasteurization failures in a recent timeframe, where it might be a reason for this person to be exposed. 
 > 
-> Again, there were no pasteurization failures in any state that were supplying dairy products to Missouri. 
+> Again, there were no pasteurization failures in any states that were supplying dairy products to Missouri. 
 > 
 > And in addition, the amount of virus killed by pasteurization provides a many log order of magnitude safety barrier, safety margin, that ensures that the milk supply remains safe.
 
