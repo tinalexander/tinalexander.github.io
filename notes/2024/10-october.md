@@ -9,6 +9,48 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 4, 2024
+
+## ASPR spokesperson on response to Marburg in Rwanda
+
+- **Source:** emailed statement
+- **Attribution:** Administration for Strategic Preparedness and Response spokesperson
+- **Date:** received October 4, 2024
+
+> As part of ASPR’s preparedness mission, the agency has invested approximately $365 million dollars into medical countermeasures - a vaccine and antibody treatment - for filoviruses, such as Marburg.
+> 
+> We have invested over $235 million into the development of Sabin’s ChAd3-based filovirus vaccines that target Marburg virus and Sudan ebolavirus.
+> 
+> Another $129 million has been invested into the development of Mapp Biopharmaceutical’s MBP-091 monoclonal antibody for treatment of infected individuals.
+> 
+> These investments, coupled with ASPR’s expertise, have advanced the two countermeasures through preclinical safety and efficacy and Phase I clinical trials.
+> 
+> Doses of the ChAd3-SUDV were shipped to Uganda in preparation for a ring vaccination study just prior to the end of the latest Sudan ebolavirus outbreak and both ChAd3-SUDV and ChAd3-MARV are currently in Phase 2 trials in Uganda and Kenya.
+> 
+> In partnership with the Rwanda Ministry of Health and international colleagues, ASPR has made an initial quantity of MBP-091 and ChAd3-MARV available in Rwanda to enable patient treatment and vaccination of contacts and healthcare workers.
+> 
+> Those investigational therapeutics and vaccines will be used under clinical trial protocols approved by Rwandan Regulatory and Ethics Authorities.
+
+## HHS and USDA press briefing after California dairy worker bird flu cases
+
+- **Source:** conference call
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred October 4, 2024
+
+> Nirav Shah, CDC [00:06:24]
+> 
+> Both individuals are dairy workers at two different dairy farms in California, both of which again are known to have cows that have tested positive. 
+> 
+> The state of California in conjunction with their local county health departments have been conducting active symptom monitoring of exposed workers on these farms. As a reminder, this is the process whereby individuals or farm owners report any symptoms, and then are followed up by public health officials at the state or the county level for things like testing, therapeutics, etc.
+> 
+> Health officials in California identified both of these cases through that process. Both individuals experienced mild symptoms, including conjunctivitis and neither reported respiratory symptoms. Neither individual was hospitalized. One individual reported that they thought that they might have had a fever. 
+> 
+> Both individuals were tested, offered antiviral treatment and are recovering. California is following up with potential close contacts. 
+> 
+> We are aware of household contacts who are also dairy workers and who have been contacted by county public health departments, or who will be contacted today. Thus, the public health investigation is very much underway at this time. 
+> 
+> ...
+
 # October 3, 2024
 
 ## CDC One Health webinar on H5N1 in cattle
