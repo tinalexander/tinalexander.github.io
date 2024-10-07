@@ -57,9 +57,9 @@ permalink: /notes/2024/10
 
 > Robert Califf, FDA [00:18:29]
 > 
-> It turns out, a huge part of my time has been taken up, including today, on very basic supply chain issues across every commodity that we regulate in an increasingly complex global, inter-digitated supply chain consumed by just in time low inventory thinking.
+> It turns out, a huge part of my time has been taken up, including today, on very basic supply chain issues across every commodity that we regulate in an increasingly complex global, inter-digitated supply chain consumed by just in time low inventory thinking to reduce cost.
 > 
-> To reduce cost, we are seeing shortages and supply chain interruptions, often due to climate change or international strife. 
+> We are seeing shortages and supply chain interruptions, often due to climate change or international strife. 
 > 
 > And it's a very combustible mix.
 > 
