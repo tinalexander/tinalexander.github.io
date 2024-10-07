@@ -11,6 +11,44 @@ permalink: /notes/2024/10
 
 # October 7, 2024
 
+## HHS officials at press conference on Baxter IV shortage
+
+- **Source:** recording
+- **Attribution:** published by the Department of Health and Human Services
+- **Date:** dated October 5, 2024
+
+> Dawn O'Connell, ASPR [00:31:02]
+> 
+> One of the concerns we have at ASPR is on the medical health supply chain. 
+> 
+> As soon as we heard that there was a situation, with the Baxter plant in Marion, we reached out and spoke to the CEO Saturday night. We had our teams meeting for the first time Sunday morning, and we've been meeting daily since then. 
+> 
+> I think folks know Baxter, has been-- they provide 60% of the nation's IV fluids and we are working to, and they are working and have been a terrific partner in trying to find additional supply. 
+> 
+> They have fortunately plants across the world that they are looking to access supply from and bring in to be able to staunch which is the difficulty right now for them of being able to access their plant. 
+> 
+> There was a bridge that went out and that was the bridge that would bring things back and forth. 
+> 
+> They've been able to for their industry, they've invested in this, on their own, put a rock bridge in to begin to get some of the machines in to help augment and begin to clean up and get it back online. They also had some supply in their plant that they thought was salvageable. They're looking at that to try to get that into the supply chain.
+> 
+> But from the federal perspective, we've been in lockstep with them helping to secure whatever bridge access they needed, and also to look around for additional suppliers who could fill the gap while they begin to ramp back up. 
+> 
+> But I will say, it's a concern of ours, but Baxter's been a wonderful partner in trying to minimize the impact on the supply chain. 
+> 
+> Of course, we saw the east coast port situation get resolved overnight. That was an additional pinch that we were worried about. 
+> 
+> But that's now less of a concern and we're focused on getting Baxter back up and ready to go. And they've been a terrific partner in all of us and are very concerned about this as well, but we continue to meet regularly to assist.
+> 
+> ...
+> 
+> Andrea Palm, HHS [00:32:59]
+> 
+> I would just say to that end, the Food and Drug Administration, also a member of the HHS family of agencies, and as Dawn noted, there are a couple of other domestic manufacturers for some of these products. 
+> 
+> And we through our colleagues at FDA are in touch with those manufacturers about the opportunity for them to ramp up as Baxter is getting itself square and assessing their situation and getting back online and back up to full capacity. 
+> 
+> But we're again, pulling all the levers we have at HHS to make sure we're leaning in to support this work more broadly, including our colleagues at FDA.
+
 ## FDA commissioner on Baxter IV shortage 
 
 - **Source:** livestream
