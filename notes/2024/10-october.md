@@ -11,6 +11,16 @@ permalink: /notes/2024/10
 
 # October 7, 2024
 
+## CDC spokesperson on Marburg virus screening
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson David Daigle
+- **Date:** received October 7, 2024
+
+> Today the Biden-Harris Administration is announcing a plan to begin public health entry screening at three U.S. airports for people coming from the Republic of Rwanda to reduce the risk of importation of Marburg virus disease (Marburg) into the United States. Starting mid October, airline passengers who have been in Rwanda in the last 21 days will have their travel to the United States rerouted to Chicago (ORD), New York (JFK), and Washington DC (IAD) where these travelers will undergo public health entry screening upon arrival.
+> 
+> Currently, Rwanda is experiencing an outbreak of Marburg, a rare, severe viral hemorrhagic fever similar to Ebola. The risk of Marburg in the U.S. remains low, however, these measures are being taken out of an abundance of caution given the ongoing outbreak in Rwanda. 
+
 ## HHS officials at press conference on Baxter IV shortage
 
 - **Source:** [recording](https://www.youtube.com/watch?v=cS9IdDMlDSE)
