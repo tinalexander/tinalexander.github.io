@@ -13,7 +13,7 @@ permalink: /notes/2024/10
 
 ## HHS officials at press conference on Baxter IV shortage
 
-- **Source:** recording
+- **Source:** [recording](https://www.youtube.com/watch?v=cS9IdDMlDSE)
 - **Attribution:** published by the Department of Health and Human Services
 - **Date:** dated October 5, 2024
 
