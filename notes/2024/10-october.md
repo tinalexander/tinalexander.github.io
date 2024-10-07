@@ -99,7 +99,7 @@ permalink: /notes/2024/10
 > 
 > In the meanwhile we have a huge effort every day and we're doing it right now with regard to basic normal.
 > 
-> Who would thought we wouldn't have enough normal saline and Ringer's lactate for the country?
+> Who would have thought we wouldn't have enough normal saline and Ringer's lactate for the country?
 > 
 > They were already in shortage. And now this plant went down in Asheville, due the hurricane. 
 > 
