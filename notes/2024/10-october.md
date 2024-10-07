@@ -9,6 +9,66 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 7, 2024
+
+## FDA commissioner on Baxter IV shortage 
+
+- **Source:** livestream
+- **Attribution:** [meeting](https://www.fda.gov/advisory-committees/advisory-committee-calendar/october-7-2024-meeting-science-board-food-and-drug-administration-10072024) of the Science Board to the Food and Drug Administration
+- **Date:** occurred October 7, 2024
+
+> Robert Califf, FDA [00:18:29]
+> 
+> It turns out, a huge part of my time has been taken up, including today, on very basic supply chain issues across every commodity that we regulate in an increasingly complex global, inter-digitated supply chain consumed by just in time low inventory thinking.
+> 
+> To reduce cost, we are seeing shortages and supply chain interruptions, often due to climate change or international strife. 
+> 
+> And it's a very combustible mix.
+> 
+> ...
+> 
+> Robert Califf, FDA [00:27:21]
+> 
+> If you look underneath it all, whenever you say government agencies, there's a negative reaction by a large part of our society. 
+> 
+> Unfortunately, a lot of that's driven by politics and the cultural divide, very hard to deal with. 
+> 
+> But if you look at people's individual interactions with people that work in these spheres, they're not so negative. 
+> 
+> And I think you see that right now, going on with Helene, if you're on the ground in the Asheville area, there's a lot of good collaboration and hard work going on. 
+> 
+> And yet still, if you ask the question is government response adequate, it would break down according to political lines. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:43:13]
+> 
+> We have hundreds of shortages of drugs, and there's an inverse relationship between the price of the drug and the probability of a shortage with the one exception of the weight loss drugs, which I won't talk about. That's a whole different set of issues.
+> 
+> And what's happened, it's been called a race to the bottom, as generic drugs, over 90% of our prescriptions have become commoditized, the price has gotten so low that you can't afford to make them and distribute them with U.S. labor costs at the current price. 
+> 
+> And unfortunately, in my view, the purchasers driven by our own U.S. health systems are so interested in the lowest price, they don't build resilience criteria into the contracting. And so, this is a real mess. 
+> 
+> And something that's talked about a lot less is that on the device side, the very low cost devices, syringes, stop cocks, we're down to one syringe maker now in the U.S., it's all-- and PPE, you remember when there was all the upset about gowns and gloves and masks, that's all moved back to China now. 
+> 
+> So, we're working, uh, with Congress to try to get fixes to the system that would require resilience as part of the effort and bring back. 
+> 
+> We don't need it all manufactured in the U.S., but we need enough in the U.S. and so-called friend-shored that we're not susceptible to these lapses that occur, that create real hardship in problems in the clinical care community. 
+> 
+> ...
+> 
+> Robert Califf, FDA [00:45:01]
+> 
+> In the meanwhile we have a huge effort every day and we're doing it right now with regard to basic normal.
+> 
+> Who would thought we wouldn't have enough normal saline and Ringer's lactate for the country?
+> 
+> They were already in shortage. And now this plant went down in Asheville, due the hurricane. 
+> 
+> So in the meanwhile, we try to fix it up without having access to the data we need, because that's been blocked.
+> 
+> But, you know, so far we're mostly getting by okay. But as you point out, I think it's a tremendous amount of hardship that could be averted.
+
 # October 4, 2024
 
 ## ASPR spokesperson on response to Marburg in Rwanda
