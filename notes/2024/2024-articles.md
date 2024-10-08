@@ -11,9 +11,24 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
-# September 2024
+# October 2024
 
 - ...
+
+# September 2024
+
+- [Free COVID tests are back. But there are more accurate tests for sale.](https://www.cbsnews.com/news/free-covid-tests-accuracy/)
+- [USDA cut back on listeria testing nationwide, ahead of deadly Boar's Head outbreak](https://www.cbsnews.com/news/usda-listeria-testing-deadly-outbreak/)
+- [Boar's Head plants nationwide now part of law enforcement investigation, USDA says](https://www.cbsnews.com/news/boars-head-plants-nationwide-now-part-of-law-enforcement-investigation-usda-says/)
+- [Federal court rules against EPA in lawsuit over fluoride in water](https://www.cbsnews.com/news/epa-fluoride-drinking-water-federal-court-ruling/)
+- [Obesity rate in U.S. adults no longer growing, new CDC data suggests](https://www.cbsnews.com/news/obesity-rate-us-adults-cdc-data-map/)
+- [FDA approves first self-administered flu vaccine spray](https://www.cbsnews.com/news/fda-approves-first-self-administered-flu-vaccine/)
+- [New COVID variant XEC now in half of states. Here's what to know.](https://www.cbsnews.com/news/xec-covid-variant-symptoms-states-what-to-know/)
+- [Whooping cough wave now worst in almost a decade amid back-to-school surge](https://www.cbsnews.com/news/whooping-cough-pertussis-back-to-school-surge/)
+- [Drugmakers to stop making controversial fentanyl lollipops, FDA says](https://www.cbsnews.com/news/drugmakers-to-stop-making-controversial-fentanyl-lollipops-fda-says/)
+- [Opioid deaths now lowest in 3 years, but still worse than pre-pandemic](https://www.cbsnews.com/news/opioid-overdose-deaths-3-year-low-worse-than-before-pandemic/)
+- [Will 988 call the police? Data suggests 1% of mental health crisis calls get "involuntary" rescues](https://www.cbsnews.com/news/will-988-call-the-police-data-suggests-rarely/)
+- [Biden administration still wants to ban menthol cigarettes, official says](https://www.cbsnews.com/news/menthol-cigarette-ban-biden-administration-timeline/)
 
 # August 2024
 
