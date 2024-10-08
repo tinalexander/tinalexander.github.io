@@ -9,6 +9,20 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 8, 2024
+
+## FDA spokesperson on monograph forecast
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson Cherie Duvall-Jones
+- **Date:** received October 7, 2024
+
+> The monograph forecast is a nonbinding document and does not mean with certainty that the FDA will propose action within the next three years; however, it does reflect what the FDA is currently considering a priority over the next three years.
+> 
+> A proposed order addressing the generally recognized as safe and effective (GRASE) status of codeine and related salts as antitussive active ingredients is currently listed on the monograph forecast. Codeine, codeine phosphate, and codeine sulfate, when used in combination with other cough-cold active ingredients, are currently considered GRASE when they are (1) indicated for OTC use as antitussives in adults and children 6 years of age and older and (2) marketed consistent with all applicable antitussive monograph conditions and other applicable requirements. With respect to whether the concern is safety or effectiveness, both can be intertwined and the FDA is re-evaluating the GRASE status in light of the risks associated with codeine-containing cough medicines.
+> 
+> The proposed order to address the GRASE status of OTC phenylephrine as an oral decongestant is also listed on the monograph forecast. Oral phenylephrine is currently considered GRASE for use as a nasal decongestant in adults and children ages 2 years of age and older. In September 2023, FDA held a Non-prescription Drug Advisory Committee meeting to discuss the effectiveness of oral phenylephrine as an active ingredient in OTC cough-cold products that are indicated for the temporary relief of congestion, both as a single ingredient product and in combination with other ingredients. The committee discussed new data on the effectiveness of oral phenylephrine and concluded that the current scientific data do not support that the recommended dosage of orally administered phenylephrine is effective as a nasal decongestant. Please read the CDER Statement for more information about the results and next steps related to the FDA’s advisory committee meeting on the GRASE status of oral phenylephrine in nasal decongestant drug products.
+
 # October 7, 2024
 
 ## CDC spokesperson on Marburg virus screening
