@@ -9,6 +9,16 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 9, 2024
+
+## B. Braun spokesperson on Politico article
+
+- **Source:** emailed statement
+- **Attribution:** B. Braun Medical spokesperson Alli Longenhagen
+- **Date:** received October 9, 2024
+
+> As of 9PM last night, 60 truckloads of product were shipped from B. Braun’s distribution center in Daytona Beach. They contained a total of 1,400 pallets and 70,000 cases of product.
+
 # October 8, 2024
 
 ## FDA spokesperson on monograph forecast
