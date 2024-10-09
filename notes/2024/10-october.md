@@ -11,7 +11,7 @@ permalink: /notes/2024/10
 
 # October 9, 2024
 
-## B. Braun spokesperson on Politico article
+## B. Braun spokesperson on [Politico article](https://www.politico.com/newsletters/politico-pulse/2024/10/09/the-race-to-save-iv-fluid-ahead-of-milton-00182975)
 
 - **Source:** emailed statement
 - **Attribution:** B. Braun Medical spokesperson Alli Longenhagen
