@@ -9,6 +9,20 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 10, 024
+
+## B. Braun spokesperson on aftermath of Milton
+
+- **Source:** emailed statement
+- **Attribution:** B. Braun Medical spokesperson Alli Longenhagen
+- **Date:** received October 10, 2024
+
+> Our Daytona Beach IV solutions manufacturing site and distribution center were not seriously impacted by Hurricane Milton and will resume operations as planned on Friday morning, October 11. We understand from discussions with employees that there have been no reported injuries, but many are still without power. We are especially thankful to the employees who remained at the site to provide updates throughout the storm.
+> 
+> To safeguard the supply of finished products, we worked closely with the federal government, specifically the Administration for Strategic Preparedness and Response (ASPR), to leverage their resources which allowed us to move more than 60 truckloads of IV solutions inventory from our Daytona Beach distribution center to a secure, temperature-controlled facility, north of Florida. The product will now be returned to our distribution site.
+> 
+> We are in daily contact with officials from ASPR, the Drug Shortage staff at CDER (Center for Drug Evaluation and Research) and the Department of Health and Human Services to address this issue and help alleviate any impact on patient care.
+
 # October 9, 2024
 
 ## B. Braun spokesperson on [Politico article](https://www.politico.com/newsletters/politico-pulse/2024/10/09/the-race-to-save-iv-fluid-ahead-of-milton-00182975)
