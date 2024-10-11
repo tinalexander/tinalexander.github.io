@@ -9,7 +9,43 @@ permalink: /notes/2024/10
 
 <br>
 
-# October 10, 024
+# October 11, 2024
+
+## FDA webinar on voluntary sodium reduction
+
+- **Source:** [recording](https://www.youtube.com/watch?v=wPz-J02-yFM)
+- **Attribution:** published by the Food and Drug Administration
+- **Date:** posted October 10, 2024
+
+> Quesiton [00:23:00]
+> 
+> Our first question is why are these sodium reduction goals voluntary and not mandatory?
+> 
+> Robin McKinnon, FDA [00:23:09]
+> 
+> I can take that one, Janesia.
+> 
+> So at this time, we're not exploring mandatory sodium targets. We're focused on the implementation of the voluntary targets. 
+> 
+> Currently, we believe that a voluntary, iterative approach is the most effective and appropriate approach. And we're pleased to be seeing some initial progress already.
+> 
+> Voluntary targets for a broad array of food categories have shown success in other parts of the world, as I mentioned in Canada and the United Kingdom. So this is a reasonable approach for now. 
+> 
+> We think that the real value lies in allowing both the FDA and the food industry to have a common system for defining and measuring progress in reducing sodium in the food supply. And we'll certainly continue to engage with industry to learn about their successes, potential challenges in achieving the targets.
+> 
+> As palates adjust to lower sodium a company's product could taste overly salty by comparison. So we certainly encourage all industry groups to work towards the targets.
+> 
+> ...
+> 
+> Lauren Zhovmer, FDA [00:30:16]
+> 
+> Our analysis of the food supply using the 2022 data is, again, it's preliminary. We don't know yet the full extent of the progress towards the phase one goals, but regarding the preliminary analysis, there's various reasons why we might see some categories increase in sodium.
+> 
+> There's-- this mainly includes shifting sales at the top sellers, which may have been reformulated with lower sodium or even higher sodium, there's new product introductions into the category, or even discontinuations of products. And also just the availability of data to us for the category. 
+> 
+> These can all impact measured category levels.
+
+# October 10, 2024
 
 ## B. Braun spokesperson on aftermath of Milton
 
