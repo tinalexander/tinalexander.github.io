@@ -11,6 +11,20 @@ permalink: /notes/2024/10
 
 # October 15, 2024
 
+## UVA Health on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** UVA Health spokesperson Eric Swensen
+- **Date**: received October 15, 2024
+
+> Our supply is roughly the same. Full statement below.
+> 
+> UVA Health University Medical Center will proceed with most scheduled elective procedures through Wednesday, Oct. 16. However, given the continued constraint on irrigation fluids, the health system has partnered with surgeons to scale back procedures with high-volume irrigation fluid use. University Medical Center is reassessing the situation to determine what is feasible for the remainder of the week.
+> 
+> At UVA Health’s hospitals in Culpeper, Haymarket and Manassas, elective surgeries resumed Tuesday, Oct. 15.
+> 
+> UVA Health representatives are contacting patients if their elective surgeries need to be postponed and will continue to monitor the supply situation in the coming days. Any postponed surgeries will be rescheduled as soon as possible once the critical IV supplies become more available.
+
 ## Children's Minnesota on IV shortage update
 
 - **Source:** emailed statement
