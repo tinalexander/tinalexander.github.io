@@ -11,6 +11,14 @@ permalink: /notes/2024/10
 
 # October 15, 2024
 
+## M Health Fairview on IV shortage update
+
+- **Source:** email
+- **Attribution:** M Health Fairview spokesperson Hannah Fox Schultz
+- **Date**: received October 15, 2024
+
+> M Health Fairview postponed some elective surgeries last week due to the IV fluid shortage, however, as of Friday, 10/11, we we are scheduling all services as usual, including surgical cases, catheterization lab, interventional radiology, and more. We are not postponing or rescheduling any procedures.
+
 ## Temple Health on mycoplasma pneumonia increase
 
 - **Source:** email
