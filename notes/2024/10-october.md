@@ -11,6 +11,16 @@ permalink: /notes/2024/10
 
 # October 15, 2024
 
+## Allina Health on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** Allina Health spokesperson Jennifer Steingas
+- **Date:** received October 15, 2024
+
+> Due to our effective conservation efforts, Allina Health resumed clinical operations at all sites across our system late last week. This does not mean the shortage of IV fluid supplies is over. Allina Health anticipates continuing to receive less than normal amounts of IV fluid resources through the end of the year. We will continue many of our conservation efforts and monitor and assess our supplies daily for the foreseeable future.  
+> 
+> This has been an especially difficult time for some of our patients who had their surgeries or procedures impacted. We are quickly working to reschedule them in a prioritized manner and thank them for their understanding and patience. We also express our gratitude to the state and federal officials and hospital associations who continue to help us raise the urgency of the IV fluid shortage.
+
 ## M Health Fairview on IV shortage update
 
 - **Source:** email
