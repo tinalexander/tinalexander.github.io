@@ -9,6 +9,54 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 15, 2024
+
+## HHS official on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** Department of Health and Human Services official
+- **Date:** received October 15, 2024
+
+> “Ensuring people have medical supplies they need is a top priority of the Administration. It’s exactly why we are working closely with Baxter to support cleanup and restoration of the facility, including invoking the Defense Production Act to help production resume as quickly as possible. The Administration also moved quickly to open up imports from five facilities around the world and make it easier for hospitals to produce their own IV fluid during the shortage. As a result of these actions, 50% more IV fluid is available now compared to right after the hurricane. HHS is using all necessary authorities to bolster supply and mitigate impact to patients over the coming weeks.”
+
+## Main Line Health on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** Jonathan Stallkamp, MD, Chief Medical Officer, Main Line Health
+- **Date:** received October 15, 2024
+
+> Main Line Health continues to experience a shortage of IV fluids. Despite maximizing our conservation strategies, unless supplies arrive, we may be forced shortly to cancel some elective surgeries. Although Baxter has increased allocations of some fluids, it has further restricted others. One-liter bags of 0.9% saline — our most commonly used fluids — are on back order, with no shipments expected for at least 3½ weeks. If so and alternate supplies cannot be obtained, we may have to curtail other services. 
+
+## Mount Sinai Health System on IV shortage update
+
+- **Source:** email
+- **Attribution:** Mount Sinai Health System spokesperson Elizabeth Dowling
+- **Date:** received October 14, 2024
+
+> Because Mount Sinai uses a Baxter competitor for IV fluids, we are not as affected as others. With that being said, our supply team has been having regular conversations with our vendor to discuss the allocations that have been placed to ensure there is not a run on product. Mount Sinai has also been preparing for these types of situations by having safety stock set aside.
+
+## Cleveland Clinic on IV shortage update
+
+- **Source:** email
+- **Attribution:** Cleveland Clinic spokesperson Katrina Healy
+- **Date:** received October 15, 2024
+
+> We have not cancelled or postponed any surgeries or procedures. 
+> 
+> We are closely monitoring this situation and have been implementing conservation strategies while continuing to care for all patients.  All patient needs are being met.
+
+## FDA spokesperson on IV shortage update
+
+- **Source:** email
+- **Attribution:** Food and Drug Administration spokesperson Chanapa Tantibanchachai
+- **Date:** received October 15, 2024
+
+> We just added three new parenteral drug products to the drug shortages database. The FDA now considers Dextrose 70% IV solution, Lactated Ringers IV solution, and Peritoneal Dialysis solution to not be commercially available in adequate supply to meet national demand.
+> 
+> You’ll have to ask Baxter regarding the second point. And the importations are from Baxter’s facilities.
+> 
+> You’re obviously already keeping an eye on our website, but please continue to do so! We’ll post updates there: https://www.fda.gov/drugs/updates-2024-hurricane-season/hurricane-helene-baxters-manufacturing-recovery-north-carolina
+
 # October 11, 2024
 
 ## FDA webinar on voluntary sodium reduction
