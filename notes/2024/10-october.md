@@ -11,6 +11,14 @@ permalink: /notes/2024/10
 
 # October 15, 2024
 
+## Mount Nittany Health on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** Mount Nittany Health spokesperson Tania Luciow
+- **Date:** received October 15, 2024
+
+> At Mount Nittany Health, we are closely monitoring our supply of IV fluids and have implemented conservation measures to ensure continued availability. We have not had to postpone, delay, or cancel any procedures as of yet thanks to the diligence of our team members. We have had some of our allocations increased over the past week, but anticipate the need to sustain conservation efforts for the next few months. We will continue to work with physicians and front line staff to evaluate alternative delivery methods of these fluids, and other ways of handling clinical needs without impacting the quality of care for our patients.
+
 ## UVA Health on IV shortage update
 
 - **Source:** emailed statement
