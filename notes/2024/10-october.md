@@ -11,6 +11,14 @@ permalink: /notes/2024/10
 
 # October 15, 2024
 
+## Temple Health on mycoplasma pneumonia increase
+
+- **Source:** email
+- **Attribution:** Temple Health spokesperson Jeremy Walter
+- **Date:** received October 15, 2024
+
+> Thanks for reaching out. I checked with our team about this and our team is not seeing any increase in Mycoplasma pneumoniae at our campuses.
+
 ## Mount Nittany Health on IV shortage update
 
 - **Source:** emailed statement
