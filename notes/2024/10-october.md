@@ -11,6 +11,26 @@ permalink: /notes/2024/10
 
 # October 15, 2024
 
+## Mass General Brigham on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** Mass General Brigham spokesperson Michael Morrison
+- **Date:** received October 15, 2024
+
+> I wanted to point out that we are not cancelling all elective procedures, but some that require certain specific IV fluids. I can also let you know that we have not yet seen an increase in our regular allocation from Baxter but do expect an additional one-time shipment this week to address urgent concerns.
+> 
+> Statement from Mass General Brigham re: deferring certain procedures due to IV fluid shortage  
+> 
+> As healthcare providers across the country continue to confront the national IV fluid shortage following the devastating effects of Hurricane Helene, Mass General Brigham has made the difficult decision to defer some non-emergent, elective procedures requiring certain IV fluids from Sunday, October 13, through at least Wednesday, October 16. While we strive to minimize any impact on patients, these measures will ensure we are able to care for those in immediate need. Due to the unpredictable nature of this situation, we do not know when our supply of IV fluids will improve but we are closely monitoring and will continuously evaluate to ensure we can return to normal operations as soon as possible. We are contacting affected patients and will work to reschedule them as soon as we are able. 
+
+## Veterans Affairs on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** Veterans Affairs Press Secretary Terrence Hayes:
+- **Date:** received October 15, 2024
+
+> “At this time, VA has not identified any procedure cancelations as a result of this shortage. VA is closely tracking inventory, shipments, cross-leveling supply between facilities when appropriate, and following general conservation guidance to maximum use of existing supplies. We will continue to take all necessary actions to serve Veterans, maintain continuity of care, and ensure patient safety.”
+
 ## HHS official on IV shortage update
 
 - **Source:** emailed statement
