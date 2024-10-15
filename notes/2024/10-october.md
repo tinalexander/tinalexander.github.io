@@ -11,6 +11,26 @@ permalink: /notes/2024/10
 
 # October 15, 2024
 
+## Children's Minnesota on IV shortage update
+
+- **Source:** emailed statement
+- **Attribution:** Children's Minnesota
+- **Date:** received October 15, 2024
+
+> Children's Minnesota is encouraged to see the progress made by Baxter International as it recovers from the devastating effects of Hurricane Helene. Last week, we received news that as a pediatric health system caring for vulnerable patient populations, we are among the systems that will be receiving increased allocation of product from Baxter Healthcare based on our usage between March and Aug. 2024. We have not seen the full allocation (all fluids, all sizes) yet as Baxter continues to recover from Hurricane Helene, but we are receiving some of the ordered shipments of fluids weekly and will continue to work closely with Baxter as we work through this time of shortage.    
+> 
+> Like other health systems, Children's Minnesota is still taking extra precautions to conserve IV fluid product because those allocations don't take into consideration the increase in patients due to the limited supply at other systems, and the annual anticipated increase in fall patient volumes due to respiratory illness. 
+> 
+> Some examples of conservation efforts include:   
+> 
+> Actively assessing patients and immediately discontinuing all non-essential use of IV solutions and irrigation solutions in the ED.  
+> 
+> Clinically evaluating each patient prior to initiating IV fluids.  
+> 
+> Emergency departments, surgical units, intensive care units, med/surg, hospital medicine, pharmacy and other areas have very specific conservation efforts.  
+> 
+> While we have not yet delayed any procedures, this is a serious, fast-moving situation that requires real-time decision-making. Leaders across our organization are meeting daily to monitor the situation and take action. Our patients are our number one priority and every decision we make is in service of their best possible care.
+
 ## Mass General Brigham on IV shortage update
 
 - **Source:** emailed statement
