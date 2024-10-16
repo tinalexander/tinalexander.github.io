@@ -26,10 +26,15 @@ permalink: /notes/2024/10
 > As of September 21, 2024, the percentages of pneumonia-associated ED visits with an M. pneumoniae-related diagnostic were 1.8% among people of all ages. Specifically:
 > 
 > ·       4.8% (53/1117) among persons aged 0–1-year
+> 
 > ·       6.8% (133/1956) among persons aged 2–4-years
+> 
 > ·       6.7% (418/6241) among persons aged 5–17-years
+> 
 > ·       1.6% (126/8121) among persons aged 18–44-years
+> 
 > ·       0.4% (38/9130) among persons aged 45–64-years
+> 
 > ·       0.2% (37/19028) among persons aged 65 years or older
 
 ## Lincoln Hospital and Clinics on IV shortage update 
