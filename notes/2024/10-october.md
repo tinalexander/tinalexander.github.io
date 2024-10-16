@@ -9,6 +9,18 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 16, 2024
+
+## Lincoln Hospital and Clinics on IV shortage update 
+
+- **Source:** email
+- **Attribution:** Lincoln Hospital and Clinics spokesperson Tyson Lacy
+- **Date:** received October 16, 2024
+
+> We are still seeing a shortage of fluids on all sizes of bags.  Baxter has increased their allocations, but as of today, we have still not received orders from our allocation.  We receive orders once per week from Baxter and anticipate some sort of allocation order tomorrow (Thursday).  Baxter has indicated what our allocations should be, but we won't know with 100% certainty until we received them. 
+> 
+> I don't believe it has had an impact on patient care as of this point.  We have asked our physicians and providers to determine what fluids are needed based on the patient's needs at the time of presentation.  We have temporarily halted our elective procedures that require IV fluids, prioritizing hospitalized and emergency patients.  We will re-evaluate our pause on procedures next week after we see what allocations of fluids materialize. 
+
 # October 15, 2024
 
 ## Allina Health on IV shortage update
