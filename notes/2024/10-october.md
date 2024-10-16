@@ -11,6 +11,27 @@ permalink: /notes/2024/10
 
 # October 16, 2024
 
+## CDC spokesperson on Mycoplasma pneumoniae
+
+> **Is mycoplasma continuing to trend up in children ages 2 to 4 years old?**
+> 
+> In August 2024, the percentage of pneumonia-associated emergency department (ED) visits with an M. pneumoniae-related diagnostic code peaked at 10.7% for those by persons aged 2–4-years and 9.8% for those by persons aged 5–17 years. Since then, the percentage has dropped slightly for 2–4-year-olds.
+> 
+> **Are there some regions currently seeing higher mycoplasma rates than others?**
+> 
+> Though we have seen an increase in every region, the highest levels are in HHS Regions 6 and 7, while the lowest are in HHS regions 9 and 10. It is important to note that while the National Syndromic Surveillance Program (NSSP) collects data from the vast majority of emergency departments, it isn’t 100% so there may be regions of the country with more or less reporting.
+> 
+> **What share of pneumonia diagnoses right now are mycoplasma?**
+> 
+> As of September 21, 2024, the percentages of pneumonia-associated ED visits with an M. pneumoniae-related diagnostic were 1.8% among people of all ages. Specifically:
+> 
+> ·       4.8% (53/1117) among persons aged 0–1-year
+> ·       6.8% (133/1956) among persons aged 2–4-years
+> ·       6.7% (418/6241) among persons aged 5–17-years
+> ·       1.6% (126/8121) among persons aged 18–44-years
+> ·       0.4% (38/9130) among persons aged 45–64-years
+> ·       0.2% (37/19028) among persons aged 65 years or older
+
 ## Lincoln Hospital and Clinics on IV shortage update 
 
 - **Source:** email
