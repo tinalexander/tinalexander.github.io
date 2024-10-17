@@ -13,6 +13,10 @@ permalink: /notes/2024/10
 
 ## CDC spokesperson on Mycoplasma pneumoniae
 
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received October 16, 2024
+
 > **Is mycoplasma continuing to trend up in children ages 2 to 4 years old?**
 > 
 > In August 2024, the percentage of pneumonia-associated emergency department (ED) visits with an M. pneumoniae-related diagnostic code peaked at 10.7% for those by persons aged 2–4-years and 9.8% for those by persons aged 5–17 years. Since then, the percentage has dropped slightly for 2–4-year-olds.
