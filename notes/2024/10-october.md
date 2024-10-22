@@ -9,6 +9,16 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 22, 2024
+
+## CDC spokesperson on decreases in pneumonia
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received October 21, 2024
+
+> We are not seeing general decreases in pneumonia over the last few months.
+
 # October 16, 2024
 
 ## CDC spokesperson on Mycoplasma pneumoniae
