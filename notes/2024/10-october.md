@@ -9,6 +9,76 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 28, 2024
+
+## Dietary Guidelines Advisory Committee final meeting highlights for day 1
+
+- **Source:** [recording](https://videocast.nih.gov/watch=55225)
+- **Attribution:** published by the National Institutes of Health
+- **Date:** dated October 21, 2024
+
+> Sameera Talegawkar, DGAC [02:11:05]
+> 
+> So we did have this question and, can you describe the limitations of the data, because it was a bit frustrating, like after looking at everything and there was a lot of public comments that we received on this particular question. So I was wondering if you could just talk a little bit about that and if you have any specific research recommendations, regarding this question, like for future committees, you know, just to consider for the research community in general so that their body of evidence can be considered by future committees.
+> 
+> Deanna Hoelscher, DGAC [02:11:40]
+> 
+> So, when we started that systematic review, one of the issues was how do you classify ultra processed foods because there's several classification schemes right now. 
+> 
+> So Nova is the most well known, but there's others as well. And so we wanted to be more inclusive. 
+> 
+> So we let the authors of the study determine what they meant by ultra processed foods. So when you got that, you had some kind of, you had consistent types of foods show up, but it was hard for us to come up with a succinct definition for ultra processed foods. And that's not available in the literature now, although several groups are working toward that right now.
+> 
+> So I think until we get a better definition for what we mean as ultra processed foods, it's going to be difficult to look at this. 
+> 
+> The other issue was a lot of these studies that we reviewed were from other countries. So what they had as ultra processed food might be different than what you would find here. So there were several issues associated with that.
+> 
+> ...
+> 
+> Edward Giovannucci, DGAC [02:13:07]
+> 
+> It's obviously an important issue, but, you know, I think it's more a question of how it's been studied or is being studied and it's a relatively new area of research. 
+> 
+> But you know, it's also important to note that like the foods, like all the foods that are recommended as part of a healthy dietary pattern, would generally not be considered ultra processed foods by any standard definition. 
+> 
+> And, we do mention sugar sweetened beverages, items like that, that would be likely considered ultra processed foods. 
+> 
+> So I think it's the-- the pattern somewhat covers ultraprocesed foods indirectly, because you know, part of nutrition is, or part of the pattern rationale is, you know, it's not just what you're eating, but at the same time what you're not eating. 
+> 
+> So, I think it, it kind of covers ultra processed foods indirectly, but I mean, I think it's certainly something that as more research is coming out, hopefully in the future we will be able to make more direct statements regarding it.
+> 
+> ...
+> 
+> Christopher Gardner, DGAC [02:14:56]
+> 
+> There's a-- the public is very interested in this because it's all over the media, right? And it just seems like such a timely opportunity to address this, given that we're revising the Dietary Guidelines for Americans. 
+> 
+> But the reality here is most of the publications are observational epi studies. These prospective cohort studies that have data from 30 and 40 years ago. And so we have two issues. 
+> 
+> One is we didn't have that level of ultra processed foods 30 or 40 years ago. So they were, they weren't actually even there. And the second one is the most current definition is clearly Nova. Nova actually isn't as much nutrients as it is the purpose of the ingredients that were added. And the main categories there is called cosmetic additives. And there's another really bizarre category that's called of no or rare culinary use, which means it's only used in industrial settings. You wouldn't find it in a restaurant. You wouldn't find it usually at home. And it's an extensive list. 
+> 
+> It's really, really, it's so extensive that nobody's ever had the time to look at each one of these additives one at a time they're sort of all grouped together. They're not in the data sets. So as people move forward with these studies, they are saying, okay, I'm looking at what items are in the food frequency questionnaire data that we collected. And I'm kind of assuming the ultra processed ones are in this group and in this group, but there's a huge limitation in the assessment of that and the conclusions that you can draw. 
+> 
+> And so unfortunately as much as the public is seeing this in the headlines and as much as the papers are coming out, until we have better tools for not only defining it, but even after we've defined it, finding those foods that we know have the cosmetic additives that, oh my gosh, that that's really a long way off. 
+> 
+> So we can make some very practical recommendations at this time. But the level of evidence can't get anywhere further than limited because of the difficulties with assessment would be my comment.
+> 
+> ...
+> 
+> Deirdre Kay Tobias, DGAC [02:20:36]
+> 
+> I think in five years from now, that's not going to be an issue that goes away. And we'll have a lot more clinical, experimental and epi evidence.
+> 
+> The definition, you know, as we know, hasn't been intended to capture like a health outcome. It's for like exclusively delineating by processing techniques. 
+> 
+> So its intent is, what it is, but I think for the next five years, the research is going to explode. So revisiting, it will probably be if anything, even more of a priority. 
+> 
+> And then the other aspect of that was, you know, as we move towards a more, I don't know, acceptable definition if one's actually needed or a one that can be more easily communicated if that's necessary in the end, is one consideration. 
+> 
+> But I think we really felt it was more the volume of literature being sparse than the definition alone explaining that because we ran into that same issue with all the patterns we looked at being vague or not quantitative. 
+> 
+> So in five years, hopefully this isn't sort of punted again for another five.
+
 # October 22, 2024
 
 ## CDC spokesperson on decreases in pneumonia
