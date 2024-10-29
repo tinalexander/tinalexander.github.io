@@ -11,6 +11,16 @@ permalink: /notes/2024/10
 
 # October 29, 2024
 
+## California's health department on McDonald's E. Coli outbreak
+
+- **Source:** emailed statement
+- **Attribution:** California Department of Public Health spokesperson
+- **Date:** received October 29, 2024
+
+> CDPH continues to monitor and investigate the current outbreak of E. coli in a number of states. Federal investigators from the FDA indicate onions may be a source of this outbreak, and Taylor Farms, a California farm and the supplier of slivered onions for affected McDonald’s locations, initiated a recall of yellow onions. A thorough investigation update is available from the CDC. At this time, there have been no reported cases of E. coli in California linked to this outbreak.
+> 
+> CDPH is unable to release additional investigative details or records at this time, as these are exempt from public disclosure under the California Public Records Act (Government Code 7923.600-7923.620).
+
 ## Dietary Guidelines Advisory Committee final meeting highlights for day 2
 
 - **Source:** [recording](https://videocast.nih.gov/watch=55226)
