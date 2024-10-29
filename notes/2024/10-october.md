@@ -11,6 +11,92 @@ permalink: /notes/2024/10
 
 # October 29, 2024
 
+## Dietary Guidelines Advisory Committee final meeting highlights for day 2
+
+- **Source:** [recording](https://videocast.nih.gov/watch=55226)
+- **Attribution:** published by the National Institutes of Health
+- **Date:** dated October 22, 2024
+
+> Christopher Gardner, DGAC [01:31:45]
+> 
+> If we're trying to get Americans to lower their saturated fat intake, here are some things that could might or should work. We'll start with strong. 
+> 
+> And this is really old news. Butter is not back. Butter is worse for your LDL cholesterol than all kinds of oils and spreads, higher in unsaturated fat. This really isn't new news. It's just reinforcing what there's a large database for.
+> 
+> This isn't morbidity or mortality, but certainly the RCTs looking at blood lipids in particular blood lipids, and LDLC in particular, suggest that you would do better swapping out your butter for those unsaturated plant oils and spreads. 
+> 
+> ...
+> 
+> Christopher Gardner, DGAC [01:32:30]
+> 
+> Five of the conclusions were moderate. And the first bullet point that's listed here is a little bit of a head scratcher, but it was pretty stunning when we looked at it, how consistent it was. 
+> 
+> These are all prospective cohort studies looking at CVD morbidity. 
+> 
+> And if you take processed and red meat versus dairy products, swapping out the red meat for the dairy products was consistently associated with lower risk. 
+> 
+> So what does that mean, if I'm trying to decide if I should have a steak or a glass of milk tonight that doesn't really seem like a practical substitution, but could have been yogurt could have been cheese. 
+> 
+> What was really more stunning was how consistent and how many perspective cohort studies had looked at that question and it ended up with a moderate grade. So I think that merits looking into a little bit more of the details of what that practical swap would be, but it ended up in our moderate favorable difference list. 
+> 
+> The next bullet point there is substituting processed or unprocessed red meat. So we had total, we had processed, we had unprocessed and this was strikingly consistent for plant sources of protein. 
+> 
+> That would be our beans, peas, lentils, legumes, nuts, or whole grains or vegetables. And actually there were enough, in each of those separate categories that they generated separate conclusions. 
+> 
+> At one point it was just gonna be plant foods, but there were enough that we separated them out. Each one warranted a moderate conclusion. 
+> 
+> Again, the outcome is these are prospective cohort studies, CVD morbidity. And the big thing to think about here is the twofer. So for this difference that you're getting not only are the plant sources of protein, whole grains and vegetables, much lower in saturated fat than processed or unprocessed or total red meat, but they also have fiber. And we weren't looking specifically at what those separate constituents were. That was not part of the question. 
+> 
+> When you're looking at food based sources, you're just taking it for what it is. It may have more antioxidants, it may have other differences. Fiber would be the obvious one for a mechanism for lowering LDL cholesterol, but that's not what we're looking at. We're only looking at the associations of the food sources. 
+> 
+> ...
+> 
+> Christopher Gardner, DGAC [01:37:01]
+> 
+> Almost as interesting were some of the differences, some of the comparisons where there was no difference. So we have five conclusion statements with a moderate grade where we didn't see a difference. 
+> 
+> So look what these bullet points are. So swapping one form of dairy for another form of dairy and this is prospective cohort studies. And think now that you know, these are, those are both sources of saturated fat. 
+> 
+> So the magnitude of the saturated fat difference, isn't going to be as large as swapping out some form of animal source of saturated fat for a plant source where the plant source would be much, much lower.
+> 
+> No association between processed or unprocessed red meat with other kinds of animal sources, white meat, or eggs, again, less of a difference there, and no fiber included in the white meat or eggs. So maybe less of an opportunity for that shift. 
+> 
+> The last one is a little odd. We were looking at substituting white meat for other sources. So I don't know if you caught this, but in the beginning we were talking about dairy and red meat and tropical oils. 
+> 
+> But because we were looking at all the comparisons where data were available, we also were able to look at white meat versus plant-based foods or fish seafood. And that wasn't enough of a shift in saturated fat to see a difference. 
+> 
+> So that was a moderate conclusion for no difference there. So yes, for red meat and swapping out, but not so much for white meat. 
+> 
+> ...
+> 
+> Christopher Gardner, DGAC [01:46:46]
+> 
+> So picture someone eating fewer hamburgers and one set of people replaces the hamburgers with french fries and another one replaces it with lentils. Right? 
+> 
+> And so if all you're doing at look is looking to see who eats fewer burgers or some source of saturated fat, the comparison group is everyone else. And so some of them might have been a beneficial change and some of them might have been a worse change. And what you're getting is no change. 
+> 
+> And so by doing this substitution model, you're saying, wait, let's separate the folks who are substituting refined grains for red meat, from the ones who are doing beans, peas and lentils for red meat. Oh my gosh. 
+> 
+> Now that we've separated those out, we can see and do some statistical analyses that there is an impact, but you can't just lump them all together as the low red meat eaters, you have to see what other, what they were replace-- if you're eating less red meat, you're eating more of something and they don't all have the same effect on your health.
+> 
+> ...
+> 
+> Christopher Gardner, DGAC [02:03:25]
+> 
+> In our world of food science, the more rigorous studies are the easier ones to make clean. So if it's just a swap of saturated fat for polyunsaturated fat, that's very clean. You don't have to change carbs, you don't have to change calories. You don't have to change anything else who, what we're seeing is four fifths of the country isn't meeting the saturated fat guideline. 
+> 
+> So how could you get a bigger shift and how could you get a bigger health benefit if you're restricting yourself to something where it can be very rigorously compared without changing other variables, you're selling yourself short. 
+> 
+> What if you got rid of some of the saturated fat and added fiber and had fewer calories and had something else, if you really want to see a health benefit, it's going back to the patterns, right? 
+> 
+> So a lot of our talk for the whole 20 months has been on patterns. And this is a portion of that pattern. 
+> 
+> It fully supports the patterns that we've been finding that healthy pattern. It's more beans, peas, and lentils and less red meat, less sugar sweetened beverages, more whole foods. 
+> 
+> It ties in, but when you put it together, that's been the beauty of the patterns, it's all these things together. So in this particular comparison of saturated fat, it really has been important to move past just the swap of one type of fat for another type of fat, without appreciating the benefit of putting that in the larger context of food choices of swapping things out. 
+> 
+> If we want to make a meaningful difference, some of those smaller choose leaner, choose the lower fat version, isn't going to get us there, is what I would suggest we're seeing from the evidence base that we reviewed.
+
 ## Colorado's agriculture department on onions in E. Coli outbreak
 
 - **Source:** email
