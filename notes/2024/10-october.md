@@ -9,6 +9,22 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 29, 2024
+
+## Colorado's agriculture department on onions in E. Coli outbreak
+
+- **Source:** email
+- **Attribution:** Colorado Department of Agriculture spokesperson Olga Robak
+- **Date:** received October 29, 2024
+
+> _I wanted to follow up with a clarification regarding this statement: https://ag.colorado.gov/press-release/colorado-grown-onions-not-linked-to-e-coli-outbreak
+> 
+> Does that mean that the Taylor Farms facility in Colorado that was linked to the E. Coli outbreak was only supplying onions grown in other states? Do you know what states those were?_
+> 
+> That is correct. The onions under investigation from the Taylor Farms processing facility in Colorado Springs were not grown in Colorado. The FDA is continuing the traceback investigation. I do not have information on what other states they source their onions from.
+>  
+> For the most up-to-date info on where the onions were grown, please contact the lead agency – the FDA. They are leading the recall investigation. You can contact the FDA Office of Media Affairs at FDAOMA@FDA.HHS.GOV for more information
+
 # October 28, 2024
 
 ## Dietary Guidelines Advisory Committee final meeting highlights for day 1
