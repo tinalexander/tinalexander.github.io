@@ -11,10 +11,32 @@ permalink: /notes/2024/10
 
 # October 29, 2024
 
+## Washington's health department on McDonald's E. Coli outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Washington State Department of Health spokesperson Mark Johnson
+- **Date:** received October 29, 2024
+
+> Short answer:
+> 
+> We haven’t heard of a Washington association with the currently implicated ingredients, but you may consider also asking WSDA as well – as they would know more about Washington-grown commodities. The current case we have in the state is associated with consumption of a Quarter Pounder in Colorado, so we haven’t identified a case from eating foods in Washington.
+> 
+> Long answer:
+> 
+> Preliminary traceback by FDA indicated that slivered onions served on Quarter Pounders are the likely source of contamination.
+> 
+> We also asked corporate McDonald’s office if stores in Washington received any of the implicated ingredients, but they indicated none of the slivered onions used in Colorado were distributed to McDonald’s locations in the state.
+> 
+> We are watching for additional details from FDA to see if the onions are confirmed as the cause and if they had additional distribution, such as to other products or retailers. We have not had any indication from federal investigators or any partners in the state that Washington is directly affected.
+> 
+> FDA is still working to confirm the source and to determine if the contaminated ingredients were distributed to other businesses.
+> 
+> Taylor Farms, the supplier of slivered onions for affected McDonald's locations, initiated a recall of yellow onions associated with Colorado (Taylor Farms Colorado Foodservice Voluntary Yellow Onion Recall - Taylor Farms). We haven’t identified any Washington locations that received the recalled products.
+
 ## Washington's agriculture department on McDonald's E. Coli outbreak
 
 - **Source:** emailed statement
-- **Attribution:** Washington State Department of Agriculture
+- **Attribution:** Washington State Department of Agriculture spokesperson Amber Betts
 - **Date:** received October 29, 2024
 
 > _Do you know if any of the onions linked to the McDonald's E. Coli outbreak this year were grown or stored in Washington state? If so, has the state been able to test any of those onions for E. Coli?_
