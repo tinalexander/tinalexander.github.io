@@ -11,6 +11,14 @@ permalink: /notes/2024/10
 
 # October 29, 2024
 
+## Washington's agriculture department on McDonald's E. Coli outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Washington State Department of Agriculture
+- **Date:** received October 29, 2024
+
+> The WSDA is investigating the E. coli onion outbreak in collaboration with the FDA. We can confirm we are investigating a farm in Washington state linked to this outbreak. Additional information is unavailable at this time.
+
 ## California's health department on McDonald's E. Coli outbreak
 
 - **Source:** emailed statement
