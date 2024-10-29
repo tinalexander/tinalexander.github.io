@@ -17,6 +17,10 @@ permalink: /notes/2024/10
 - **Attribution:** Washington State Department of Agriculture
 - **Date:** received October 29, 2024
 
+> _Do you know if any of the onions linked to the McDonald's E. Coli outbreak this year were grown or stored in Washington state? If so, has the state been able to test any of those onions for E. Coli?_
+> 
+> ...
+> 
 > The WSDA is investigating the E. coli onion outbreak in collaboration with the FDA. We can confirm we are investigating a farm in Washington state linked to this outbreak. Additional information is unavailable at this time.
 
 ## California's health department on McDonald's E. Coli outbreak
