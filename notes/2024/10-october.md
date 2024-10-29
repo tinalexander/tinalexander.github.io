@@ -94,6 +94,144 @@ permalink: /notes/2024/10
 > But I think we really felt it was more the volume of literature being sparse than the definition alone explaining that because we ran into that same issue with all the patterns we looked at being vague or not quantitative. 
 > 
 > So in five years, hopefully this isn't sort of punted again for another five.
+> 
+> ...
+> 
+> Sarah Booth, DGAC [04:34:01]
+> 
+> So moving on the assumption that we go to a more inclusive, flexible dietary pattern, next slide, please. 
+> 
+> First we really want to modify the order of the protein food subgroups to emphasize plant sources. And this was discussed in a number of the subcommittees. 
+> 
+> So when we talk about protein foods, instead of starting with meat, poultry, and eggs, to seafood, to the plant based, we would flip it.
+> 
+> We're proposing to flip it so that the nuts seeds and soy products are listed first, then seafood, and then meat, poultry, and eggs. 
+> 
+> I wanted to stop there because there've been different discussions in different subcommittees about even the internal order within those food subgroups. But I wanted to see if people were comfortable with this. And if there were any changes within the protein foods that we're listing here, because there's another big change coming up.
+> 
+> ...
+> 
+> Christopher Gardner, DGAC [04:36:15]
+> 
+> So for the meats, poultry and eggs. So part of what we saw in all of our analyses were that the red meats, whether they were processed or not, were the ones to reduce more than the poultry or the eggs. So I would've put them very last. 
+> 
+> So last category, I would've put the meats last within that category.
+> 
+> Sarah Booth, DGAC [04:36:40]
+> 
+> So eggs, poultry, and meat. Does anybody have any objection to that? 
+> 
+> And so Christopher, just so I'm clear, I'm understanding this is really being driven by the systematic review evidence?
+> 
+> Christopher Gardner, DGAC [04:36:56]
+> 
+> Yes. So what we did for sources of saturated fat, what we did for patterns, it was most often what you needed to reduce were the red meats, whether they were processed or unprocessed.
+> 
+> ...
+> 
+> Sarah Booth, DGAC [04:37:24]
+> 
+> So this is where communication is going to come in. As we know, as everyone knows, we've had a great deal of discussion among the committee members in our public meetings about where do you house beans, peas, and lentils. And this becomes really challenging. 
+> 
+> For example, when you're looking at the healthy vegetarian pattern where you have beans, peas, and lentils, both in vegetables and protein foods in the healthy U.S. style, it's all in the vegetables. Please note there are different units associated with the different food groups. 
+> 
+> So when beans, peas and lentils are in the vegetable group, those are cup equivalents per week when they are in the protein foods, they're ounce equivalent a week, which has perhaps been quite confusing as well. 
+> 
+> When people were thinking about substitution, we are proposing, and this is again proposing for reaction, that beans, peas, and lentils be taken from the vegetable group and entirely housed in the protein foods. Again, aligned with the systematic evidence to encourage plant sources. 
+> 
+> And it will go first, then the nuts and seeds, then the seafood. Oh, and we've already see, we've already got eggs, poultry, and meats. 
+> 
+> ...
+> 
+> Sarah Booth, DGAC [04:39:05]
+> 
+> The implications of this, I want to draw your attention to, it looks like we're recommending Americans eat less vegetables because you're pulling a food, a sub food group or a subgroup out of vegetables and putting it into protein foods. 
+> 
+> And we're telling Americans, they need to eat-- It looks like we need to eat more protein foods. 
+> 
+> I think the most important thing to realize is people do not eat enough vegetables already. We're not instructing-- we're not saying that people eat need to eat less. It's just the beans, peas, and lentils would be put in protein foods. There would have to be a very strong emphasis on how to communicate that to the U.S. public. 
+> 
+> ...
+> 
+> Angela Odoms-Young, DGAC [04:40:04]
+> 
+> I really don't like this. I know I sounded really strongly about it, but I don't. 
+> 
+> I think it's trying to prescribe something. I actually don't like the label protein foods, I think it is somewhat confusing in itself, but that's-- I know that there's been, you know, focus groups and other things because of that people liked the idea. It was changed for a reason. 
+> 
+> I actually think beans, peas and lentils should be in its own group, but that's another story. I think there should be a group that's beans, peas, and lentils. 
+> 
+> But, to me, it's almost like in the translation, let people put-- we are trying to force people in-- we're going to move it. And we are going to force people to make it a protein food. 
+> 
+> My preference, as I said, would be to make it its own group. But I think it's okay to be in the vegetables, because we still do want to reinforce that there are some cultures that eat beans, peas and lentils as vegetables, you know? So I think it's okay to be in the vegetable group. I actually like it in the vegetable group.
+> 
+> ...
+> 
+> Edward Giovannucci, DGAC [04:46:40]
+> 
+> From a strictly scientific perspective, I don't like distinguishing protein, I mean, animal and plant protein. Because you know, probably the health effects have actually very little to do with the protein, but what comes along with it or doesn't so like it's like the fiber and all the micronutrients that are important. 
+> 
+> So protein is really not an important issue from, from that perspective, but a lot of people feel that protein is important. I think it's one of the few items that people were exceeding and a lot of people think at least, people that I talk to, well, you have to eat meat and you have, you know, that's where you get your protein. 
+> 
+> So I think a lot of people don't even think of like beans and peas as accounting for protein. So I think that would be a potential advantage of including it as a protein food. 
+> 
+> ...
+> 
+> Deirdre Kay Tobias, DGAC [04:48:23]
+> 
+> I think one thing that surprised me from our modeling was the amount of protein in the diet comes only half from the protein food group, that a lot of the actual nutrient protein comes from all the other groups together. 
+> 
+> So putting more protein sources in the protein category makes a little bit of sense just to have it more of an actual, here are your main protein sources, behaviorally, because the calculus at the end of the day is the same, but behaviorally, I think there is sort of a branding crisis when it comes to protein thinking automatically meat. 
+> 
+> And if there are more plant sources of proteins in the protein category that could help overcome that mislabeling or misnomer or misinformation by having it more prominently, not just all that meat line. 
+> 
+> But I also think that that's where we would probably offer more flexibility in our swaps where we would have increased in like plant based. That's going to get increasing beans peas and lentils at the expense of some of those other meat products, right? Not so much to displace vegetables, right, that are in the vegetable category. 
+> 
+> I don't know-- I haven't really thought about it being its own line item, but I think there are a lot of benefits of having it as a protein. I do appreciate the cultural perspectives of it really acting more like a vegetable in menus, so that, there will be I think some key translation needed there. 
+> 
+> And in terms of a table you could easily have like ounce equivalence in parentheses and cups as the main unit. I think that that's not much of a problem. 
+> 
+> But I see a lot of pros for it being in the protein in terms of communication and helping emphasize protein comes from more than just animal products, because right now I think that's what most people think you have to have your meat to get protein. And from all of the modeling we see, that's just simply not the case.
+> 
+> ...
+> 
+> Chris Taylor, DGAC [05:18:30]
+> 
+> In the encouraged recommendations to shift to nutrient dense plant-based meals, this is kind of a-- is it a terminology thing of encouraging people whose from data analysis, eating less plant-based meals, or is it a conceptual framework to say that the dietary guidelines are promoting more plant-based?
+> 
+> Because plant-based has a tendency to be used as a code word for vegan, as opposed to eating more plant protein or eating more plant products. Because if you look at the recommendations in the HUSS, it's a foundation of grains, it's a foundation of fruits, it's a foundation of vegetables with some meat, poultry and eggs and dairy products, seafood, which doesn't mean that it's vegan, but it is more plant based. 
+> 
+> So the terminology here in terms of what that's like-- what's the concept that we're really trying to convey? And that is my question.
+> 
+> Sarah Booth, DGAC [05:19:42]
+> 
+> Chris, you've raised a really good point and I know there's been a lot of discussion, because different words and different terms have different connotations. And I think this is where a good discussion would come out. So I'm hoping that's, what's going to come out, but you've raised a really good point. And I don't think that we landed on perhaps the perfect term yet. 
+> 
+> ...
+> 
+> Heather Eicher-Miller, DGAC [05:20:12]
+> 
+> I'm not a big fan of the first one there to encourage shift to nutrient plant-based meals, because I also feel like this is kind of disregarding the dairy, the dairy and fortified soy group. 
+> 
+> And we know that a lot of, also, not just because of dairy, but just are animal sources of many nutrients in general are more bioavailable. And, I think in particular for our growing age groups are adolescents and kids that they're already not having enough from like the dairy group. 
+> 
+> And it's so important for bone health that these nutrients, that they're getting bioavailable sources. So I just feel like the way that that is written there, it's like deemphasizing some of those really important food groups for nutrients that are already under consumed.
+> 
+> ...
+> 
+> Christopher Gardner, DGAC [05:21:32]
+> 
+> I would agree that plant-based in the past was very much more inclusive. This isn't plant restrictive or plant exclusive. This is plant-based and it's shifting.
+> 
+> A lot of people are using plant-based to mean vegan, which is pissing me off because vegan already has bad connotations and now people are gonna be angry that they just switched the word, but they kept the vegan thing. 
+> 
+> But I think plant forward may work. I don't really want to answer that question now. I just think we should be careful about it just could be plant foods. More nutrient dense plant foods could be an option or plant sourced foods, right. 
+> 
+> This also brings up the plant-based meats, the plant-based dairy, the plant-based, the fake things. So we'll have to be careful there, but to build on the last point, maybe it needs to be specific by age group, right? 
+> 
+> So Heather for the adults, the dairy, I don't think would be as important. I didn't really see that as shifting away from dairy, but I totally recognize your point for kids that, that might carry across for kids. So maybe this needs to have an adult one because when we get to saturated food sources of saturated fat tomorrow for adults, it's going to be pretty clear to switch to more plant sourced foods. 
+> 
+> And so maybe shift to more, not just to shift to, and there's going to be a lot of terminology questions. I'm happy to help if I can, but it is confusing at the moment.
 
 # October 22, 2024
 
