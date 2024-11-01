@@ -13,7 +13,15 @@ Here are some articles I've worked on for 2024. You can also find them [by Googl
 
 # October 2024
 
-- ...
+- [How Harris and Trump's stances on Medicare compare for 2024](https://www.cbsnews.com/news/trump-harris-medicare-2024/)
+- [Unusual surge of "walking pneumonia" reported in young kids this year](https://www.cbsnews.com/news/walking-pneumonia-cases-children-2024/)
+- [As IV shortage continues after hurricane, U.S. invokes wartime power to speed recovery](https://www.cbsnews.com/news/iv-shortage-hurricane-defense-production-act/)
+- [How Trump and Harris' health care stances and policy plans compare for the 2024 election](https://www.cbsnews.com/news/trump-harris-health-care-2024/)
+- [Why free COVID tests from the government are expiring so soon](https://www.cbsnews.com/news/free-covid-tests-expiration-dates/)
+- [CDC to screen travelers for Marburg, as outbreak of Ebola-like disease grows](https://www.cbsnews.com/news/traveler-screenings-marburg/)
+- [CDC launches new way to measure trends of COVID, flu and more for 2024](https://www.cbsnews.com/news/new-cdc-website-shows-if-covid-or-flu-is-on-the-rise-in-2024/)
+- [Flu vaccine might be less effective this year, new CDC report suggests](https://www.cbsnews.com/news/flu-vaccine-effectiveness-2024-2025-season/)
+- [FDA now weighing approval of first new sunscreen ingredient in decades](https://www.cbsnews.com/news/fda-new-sunscreen-ingredient-review-bemotrizinol/)
 
 # September 2024
 
