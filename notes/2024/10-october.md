@@ -9,6 +9,20 @@ permalink: /notes/2024/10
 
 <br>
 
+# October 31, 2024
+
+## USDA spokesperson on bird flu in Washington state
+
+- **Source:** email
+- **Attribution:** Animal and Plant Health Inspection Services spokesperson Shilo Weir
+- **Date:** received October 31, 2024
+
+> _Apologies if this was addressed earlier this month and I missed it — were any of the flocks that USDA has confirmed infected with H5 in Washington state infected with B3.13?_
+> 
+> ...
+> 
+> Yes, the confirmation in question was B3.13.
+
 # October 29, 2024
 
 ## Washington's health department on McDonald's E. Coli outbreak
