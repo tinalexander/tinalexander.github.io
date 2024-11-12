@@ -10,6 +10,7 @@ Built from a [Github repository](https://github.com/tinalexander/tinalexander.gi
   - [2024](https://tinalexander.github.io/notes/2024/)
     - [Articles](https://tinalexander.github.io/notes/2024/articles)
     - [Candidates Excerpts](https://tinalexander.github.io/notes/2024/candidates-excerpts)
+    - [MAHA Platform](https://tinalexander.github.io/notes/2024/maha-platform)
     - [January](https://tinalexander.github.io/notes/2024/01)
     - [February](https://tinalexander.github.io/notes/2024/02)
     - [March](https://tinalexander.github.io/notes/2024/03)
