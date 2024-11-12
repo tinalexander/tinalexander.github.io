@@ -11,6 +11,184 @@ permalink: /notes/2024/11
 
 # November 12, 2024
 
+## Bobby Kennedy and Calley Means at Joe Polish event
+
+- **Source:** [recording](https://www.youtube.com/watch?v=bO0qzGdIziY)
+- **Attribution:** The Joe Polish Show
+- **Date:** published November 11, 2024
+
+> Bobby Kennedy [00:22:11]
+> 
+> I've seen that now, again and again, with Trump, during the transition where we make all these suggestions about who should be at each post, he comes into the meeting, and he very quickly, we have-- there's eight giant screens and each person has a picture of themselves on the screen. They have a biography next to 'em. You can press a button and you can see three different clips from that person. 
+> 
+> So you can see how he talks and how he presents himself. He or she. And he goes through them very, very quickly. 
+> 
+> And then he says, I want that guy. And-- and he's making the decisions. He listens to what people say, but he makes the decisions. And he has very, very firm ideas. And he decides very quickly, and the meetings are very quick when he comes in. 
+> 
+> And it really-- you know, Elon Musk is in the room. Amaryllis, my daughter-in-law is in the room, and a few other people, and they all have very strong ideas. These are all alpha people. And they're, you know, they have very strong ideas about what should happen, but he makes those decisions. He makes it very quickly. 
+> 
+> I've seen a level of decisiveness, a real vision. And the interesting thing about him is he doesn't care what that person believes. The person, there's a very big sympathy among all of his advisors that we should stay away from the neocons. 
+> 
+> But if he puts a neocon up there, you shouldn't worry about it because the decision ultimately is going to come from him. 
+> 
+> And he said to me, at one point, he said he really hates John Bolton. John Bolton was his NSA advisor. 
+> 
+> And he said, but it was good that I had him there because it scared the shit out of everybody in the world at, if I had John Bolton there, John Bolton wants to bomb at every country in the world. 
+> 
+> And he said, they believe that I was gonna do it too. So it was good for me to have him there. And so that's the way he thinks about things. 
+> 
+> He doesn't care what you believe. He doesn't care what your ideology is. He's going to make this decision himself. 
+> 
+> And I've been so impressed with that. It's completely changed my opinion of who he is, and really convinced me that this guy that I had such contempt for such disdain for is actually, you know, a really extraordinary leader that he could be one of the great presidents in history.
+> 
+> ...
+> 
+> Calley Means [00:37:19]
+> 
+> I think President Trump, with his team of Bobby Kennedy, Tulsi Gabbard, Elon Musk, you know, on down the list, have a mandate from everyone here, a mandate from voters to kick the special interest in the deep state, out of the office and really drive foundational change. 
+> 
+> So I think what we can all do is just maintain that and continue to just speak out support President Trump and support him in what he wants to do and what he's promised to do, which is true transformational change, not partisan change, but true foundational change.
+> 
+> When it comes to MAHA, and I'll just be real quick here, and Bobby obviously will have much more to add, but we've talked about three things, cleaning up corruption. 
+> 
+> What can we do? The FDA is 75% funded by pharma, the USDA nutrition guidelines, which set guidelines for our children, 19 out of the 20 advisors are funded by food or pharma companies. The NIH is an orgy of corruption where 88,000 grants in recent years have gone to conflicted researchers. 
+> 
+> That ties to number two, the gold standard, just this isn't about any agenda. It's just understanding what's happening. 
+> 
+> We have AI, we have so many smart people. We should be open sourcing all the data. We should be fearlessly understanding why people are getting sick. We should let the data data guide us to where it goes. We should not be covering up for any previous guidance. 
+> 
+> We basically need to say a lot of guidance on pharmaceutical products, on food, on what we've been giving our children might be wrong. We need to have fearless data. That's all we're asking for. 
+> 
+> And you can do that very quickly.
+> 
+> And then just end the chronic disease epidemic and what Bobby's talked about and what President Trump has talked about. In the Republican platform, it says, we believe in chronic disease reversal and benefit flexibility. 
+> 
+> We are not telling anyone what drugs to take, what food to eat, what to do, but the $4.5 trillion of medical system right now is top down, it's mandates. 
+> 
+> When you are a child on Medicaid, who's a little bit sad, you got a 15 minute appointment, you're getting a pill, SSRI. If you have high cholesterol, 15 minute appointment, you're getting a pill, statin on down the list. Now they're pushing Ozempic on 12 year olds. 
+> 
+> The mom, that mom on Medicaid should have flexibility to go to health coaching, to go to nutrition, to go to more functional methods. 
+> 
+> Just giving patients the choice, if we can get the science, right, and then let patients make their own decisions, Americans aren't trying to kill themselves. 
+> 
+> They want their kids to be healthy. That's the foundation of the policies we're putting together.
+> 
+> ...
+> 
+> Bobby Kennedy [00:40:03]
+> 
+> There is a lot of science that suggests that mental health is deeply connected to the food intake. 
+> 
+> There's a very, very good study that shows that children who are insulin resistant at age nine are five times, four, five times more likely to have a psychotic episode before they're 24. There's another very, very strong study that shows that kids who become obese during puberty are four times more likely to suffer severe depression, by the time that they're 22 years old. 
+> 
+> And, there's a dispute about whether the depression is come coming from the social demotion that you get from being obese and fat shaming or whatever, but it is really an irrelevant dispute. If you are overweight, you're more likely to be depressed. 
+> 
+> There's a recent study of epidemiological study of 300,000 people that shows a very, very strong link between depression and-- people who eat processed food every day are three times more likely just to experience clinical depression and people who don't eat it every day, in other words, not people who are eating organic food all the time, but just people who don't eat every day, less than every day. 
+> 
+> And then there's a series of pilot studies. And normally I wouldn't quote because they're not strong science, but they're indicative, and they should be mentioned that diseases like anorexia actually disappear. You lose your diagnosises by treating them with diet with keto diets and other kind of diets. 
+> 
+> And those are the studies that NIH should be doing. 
+> 
+> NIH won't do those studies because they don't want to know the source or the cure or the treatment for chronic disease. 
+> 
+> ...
+> 
+> Calley Means [00:48:21]
+> 
+> I can't look at my phone without 20 messages from reporters, writing stories about how this man is gonna be dangerous to public health. 
+> 
+> Public health, we are on the verge of collapse. Like we, we are destroying our children's future right now. 
+> 
+> And there are evil forces trying to protect that because it is the largest and most profitable industry and the fastest growing industry in the country is healthcare. And it profits from children being sick.
+> 
+> And success, one big level of success, and what we can all do in this room is we can stand up to these forces and change consciousness to where we all, a lot of people in this room see it, we can't go back. We must change the incentives. We must change it to where we, we stop just poisoning and then drugging kids at scale and start asking what they're eating. Start asking what they're putting in their body. Start asking about environmental factors and start, people are saying, this is gonna be bad for farmers. 
+> 
+> We want farmers to be at the center of healthcare. In the United States, we spend two times less per capita. We spend half the amount per capita on food as they do in Europe, but they spend three to four times less per capita on healthcare in Europe, they live 5, 6 years longer. Like they're, they've got something going right there. They're not poisoning their population and then cleaning up the mess. 
+> 
+> Like, that's the level we're on. This can happen quickly if we all stay on that consciousness level and really help Bobby and help President Trump stay high level and not get lost in the weeds. 
+> 
+> Like we just need to change our paradigm of how we think about these things.
+> 
+> ...
+> 
+> Calley Means [00:52:46]
+> 
+> It's so simple, but if we have a obesity and diabetes crisis and among six year olds, maybe it's not working to drug them. 
+> 
+> Maybe doctors should be recommending dietary interventions. Maybe we should be incentivizing exercise. You can do that from the medical system. 
+> 
+> If you get the standards of care, and frankly, a lot of this is bureaucratic. It's not even statutory. You don't even need Congress. 
+> 
+> The-- we have outsourced billing codes and Medicare, Medicaid to the AMA, which is a lobbying group for pharma. And they outsourced to medical groups like the American Diabetes Associaton, American Academy of Pediatrics, that are literally pharma front groups. 
+> 
+> And there's not a word in American Academy of Pediatrics guidance on childhood obesity about food. It actually says, do not wait for dietary interventions, drug your child right away. And they're going down to six. 
+> 
+> So the research which Bobby's talking about, if we can get control of the research, that's what the bad people have realized. 
+> 
+> There's nothing higher in society than a Harvard or NIH study. All culture, all policy flows from that gold star scientific research and because the research has been co-opted that has trillions of dollars of ramifications. 
+> 
+> So if we in the next four years can get not with any ideology, but just get the conflicts out of the research that then impacts what doctors can do. 
+> 
+> They're stuck in this system from the top.
+> 
+> ...
+> 
+> Bobby Kennedy [00:54:45]
+> 
+> If I could wave a magic wand, I would put the same effort into this as we put into COVID: to declare a national emergency and to do things that are going to be really dramatic and bold that change very, very quickly.
+> 
+> President Trump wants to see, has told me, he wants to see concrete, measurable diminishment in chronic disease within two years. 
+> 
+> And, in order to do that, we need to operate very, very quickly. And we need to treat this with the same kind of urgency that we did, the COVID epidemic. 
+> 
+> This is a thousand times worse than COVID in terms of what it is the cause that it's imposing on our society and on our lives.
+> 
+> COVID was killing people mainly in the last year of their lives. 81, 82 was the average death from COVID.
+> 
+> But this is hurting people from the day that they're born and it's destroying lifespans of years. And the cost that it's imposing on us is existential. 
+> 
+> So we need to be able to respond very quickly and in order to do that we need to have a really good crack staff right now. 
+> 
+> We have the people, we need to get them paid, we need to get them housing in Florida, so they can be right there while we walk into these transition meetings, day after day.
+> 
+> ...
+> 
+> Calley Means [00:58:45]
+> 
+> We are pushing so hard. We've got the mandate. Now we just need to operationalize what Bobby's saying. 
+> 
+> So this is so helpful, but we're really trying to build out an incredible coalition, to both identify names to staff these 600 key positions and really just build, continue this movement. 
+> 
+> I mean, on the "All In" podcast, they said, well, Bobby and Trump, it's a realignment of American politics. 
+> 
+> So if we can build this coalition, get the right names, get the organization, we're going to get real change done. And I think really, really revolutionize American politics with this new coalition.
+> 
+> ...
+> 
+> Bobby Kennedy [01:00:01]
+> 
+> I see what's happening now that we have to restore people's mental health. We have to restore their physical health and create, right now start growing a new generation of kids that is super healthy, the way that Americans were when I was a kid.
+> 
+> But there's also spiritual health in this country. And that I think is at the core of everything that we're engaged now in spiritual warfare. And it's spiritual warfare against this kind of elite technocracy that's trying to take away our power and take away our rights and to commoditize our health, our children, our landscapes, everything that we value in this country. 
+> 
+> And, there's no other country in the world that has what we have in this country. I'm always skeptical of people who talk about America as an exemplary nation, because it's been used to justify warfare and, military dominance of the globe. 
+> 
+> But the truth is today, we are the last redoubt for personal freedom in the world. There's no country in Europe that has a constitution like we do. 
+> 
+> We have the constitution in the United States is unique on earth. And, we had this, we were part of this project to take all those freedoms away from us. 
+> 
+> And, you know, thank God in some ways for COVID because it was progressing, without any kind of interference for many years. 
+> 
+> And-- and people weren't noticing it. And I think so many people now have woken up and seen that this is the most existential threat to us. 
+> 
+> And, and it's a spiritual threat. It's going to-- but the United States now has an opportunity because of this election to reverse that trend here, and then to rescue the rest of the world. 
+> 
+> And, so I'm very, very optimistic about the future under this president. I'm watching what's happening and there is nothing that I'm seeing, on day to day at moral, that-- my level of hope and optimism increases every day. 
+> 
+> So, you know, I'm, I'm very happy and I think let's go forward. Let's be kind to the people. 
+> 
+> We need to fight for them, all those people, your relatives who hate you, and won't talk to you anymore. We need to be fighting for them until they can wake up and fight for themselves.
+
 ## FDA's Robert Califf at Friends of Cancer Research event
 
 - **Source**: [livestream](https://friendsofcancerresearch.org/event/friends-of-cancer-research-annual-meeting-2024/)
