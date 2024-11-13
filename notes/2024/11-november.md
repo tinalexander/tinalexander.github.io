@@ -15,7 +15,7 @@ permalink: /notes/2024/11
 
 - **Source:** [livestream](https://youtu.be/N88_JupS6v8)
 - **Attribution:** British Columbia Centre for Disease Control
-- **Date:** published November 13, 2024
+- **Date:** published November 12, 2024
 
 > [00:00:57] This person was admitted to the BC children's hospital late on Friday, and over the weekend, their condition had varied and sadly, they right now remain in critical condition.
 > 
