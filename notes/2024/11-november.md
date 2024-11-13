@@ -11,6 +11,68 @@ permalink: /notes/2024/11
 
 # November 13, 2024
 
+## CDC's Mandy Cohen at Milken Institute event
+
+- **Source:** [livestream](https://milkeninstitute.org/events/future-health-summit-2024/program)
+- **Attribution:** Future of Health Summit 2024
+- **Date:** broadcasted November 13, 2024
+
+> Mandy Cohen, CDC [00:01:20]
+> 
+> What I've been sharing with my team is that an election happened, but our mission hasn't changed one bit. 
+> 
+> CDC exists to protect health and improve lives. We're going to stay focused on that mission. And folks want fundamentally, I believe, want their families to be safe, want their families to be healthy. 
+> 
+> And we need an entity like the CDC, as well as our larger public health ecosystem, to protect folks health every day. And we've been working hard to be a different CDC. We are. 
+> 
+> Four years has been really important for the CDC to learn some very important lessons and we've taken action on those. And so I've told our team stay focused on the things that we have been prioritizing, making sure we are ready to respond to any health threat coming our way. 
+> 
+> We prioritized improving mental health in reaction to exactly what we were seeing in those polls, and supporting young families and making sure we're preventing, and not just reacting to those health threats.
+> 
+> ...
+> 
+> [00:05:41] Fundamentally folks want to make sure that we have an entity that is ready to respond to health threats. And that means we need data infrastructure to be able to identify those things, have the people who are talented to understand how to respond. 
+> 
+> But I do think that there, Rob said it well, there is a difference between understanding the evidence and the data and policy choices. And I think particularly when we look at resources, I think that is where I'm most concerned, because this kind of work and that infrastructure takes resources and you need to maintain it. 
+> 
+> Now we already knew we were going to hit a bit of a cliff in the next coming year to two years as COVID funding goes away. And so there was already going to be a choice, but I am concerned when I see proposed budgets out there that zero out our ability to work on overdoses and suicide. 
+> 
+> What do you think is killing people under the age of 50, top reason? It is unintended injury, right? Which is a combination of suicide, overdoses, car accidents. 
+> 
+> And for children, the number one thing that is killing our children is drowning, right? So if, if we are drowning, our young kids, right, two to five, right? 
+> 
+> So if-- we have to work on those issues, we need the data and the evidence and the investment in those areas. But the good news is in the last four years, we've been making progress on overdose. 
+> 
+> And actually you're going to see some new data from the CDC today, um, about overdoses and continued progress in that space. 
+> 
+> We've had our first reductions in fatal overdoses that we have seen. 
+> 
+> And we need to keep progress on that. 
+> 
+> So we, we are concerned again about having those ongoing resources to do this important work, to highlight the problems and the challenges, and then bring the evidence to solve those challenges.
+> 
+> ...
+> 
+> [00:08:03] So it is a real trend and that's great. Look, we are throwing a lot at this, and we are starting to really break through, I think with some important things.
+> 
+> One, we know connecting folks to care at a moment of a non-fatal overdose is really critical, right? Because folks have had a major life event happen. They've almost lost their lives. It is the important time to connect them to care. We're using way more peer supports to do that. 
+> 
+> We have-- we are much more, talking much more about fentanyl, and making sure that folks understand that fentanyl could be in things that you don't think fentanyl could be in. 
+> 
+> And so using things like fentanyl test strips, that is a common, common language in our high schools, unfortunately we had to be there. 
+> 
+> So those are the kinds of ways in which we are highlighting it. I mean, and this work has been going on for years.
+> 
+> ...
+> 
+> [00:10:13] As you were saying in the United States, at least those cases had been quite mild, reassuring, but as we were seeing around the world, when we see other cases of avian, it has been more severe. 
+> 
+> And so this case in Canada that came over the weekend, we have some  more work to do to understand the strain of the virus. 
+> 
+> It is our presumption that it potentially is from one of wild birds. It may look more like some of the avian flu cases we see often in Southeast Asia, that tend to be more severe, but we don't know that until we can do the genetic analysis. 
+> 
+> But what we want to make sure again, how do we think about any of these potential pandemic threats is making sure we have the infrastructure ready to go, to be able to detect, to prevent and to respond, right? And so we have a very extensive network of flu surveillance across the country. 
+
 ## BC CDC's Bonnie Henry at press conference
 
 - **Source:** [livestream](https://youtu.be/N88_JupS6v8)
