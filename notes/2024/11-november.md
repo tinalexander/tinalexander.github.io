@@ -11,6 +11,18 @@ permalink: /notes/2024/11
 
 # November 13, 2024
 
+## NIDA's Nora Volkow on drug overdose deaths
+
+- **Source:** emailed statement
+- **Attribution:** National Institute on Drug Abuse Director Dr. Nora Volkow
+- **Date:** received November 13, 2024
+
+> The declines in estimated overdose deaths that we have continued to see in these recent data are unprecedented, robust, and appear to be reflecting real trends. These data give us hope that we may finally be making significant progress in reducing the devastating loss of life from the overdose crisis.
+> 
+> While these data are cause for optimism, we must not lose sight of the fact that nearly 100,000 people are still estimated to be dying annually from drug overdose in the U.S. Each death represents a tragic loss that could have been prevented. It’s also important to acknowledge that progress has not been equal for all groups. Unfortunately, for the most affected groups, namely Native Americans and Black American men, the death rates are not decreasing and are at the highest recorded levels.
+> 
+> Understanding the causes for the different trends in overdose mortality is needed to tailor implementation and support of evidence-based strategies to prevent and reduce deaths. We must continue to prioritize efforts to prevent drug use, treat addiction, provide access to lifesaving harm reduction services, and support people in recovery that are equitable and accessible to everyone who would benefit from them.
+
 ## CDC spokesperson on H5 case in Canada
 
 - **Source** emailed statement
