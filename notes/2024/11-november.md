@@ -11,6 +11,18 @@ permalink: /notes/2024/11
 
 # November 13, 2024
 
+## CDC spokesperson on H5 case in Canada
+
+- **Source** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received November 13, 2024
+
+> An individual has been hospitalized at British Columbia Children’s Hospital diagnosed with presumptive positive influenza A(H5). This is the only presumed influenza A(H5) illness among humans identified in Canada. CDC has been in touch with Canadian health authorities and expects to learn more as Canadian health authorities acquire additional information. Contact the Public Health Agency of Canada for the most up to date information on this potential case.  
+> 
+> Influenza A(H5N1) has been detected recently in poultry, wild birds, and mammals in British Columbia. Ongoing outbreaks of influenza A(H5) have been detected globally in animals. Sporadic cases are not surprising; nevertheless, CDC continues to work vigilantly to monitor worldwide H5N1 activity.
+> 
+> The risk to the U.S. general public continues to be low. People with exposure to infected animals, including birds and dairy cows, are at higher risk.
+
 ## CDC's Mandy Cohen at Milken Institute event
 
 - **Source:** [livestream](https://milkeninstitute.org/events/future-health-summit-2024/program)
