@@ -72,6 +72,44 @@ permalink: /notes/2024/11
 > It is our presumption that it potentially is from one of wild birds. It may look more like some of the avian flu cases we see often in Southeast Asia, that tend to be more severe, but we don't know that until we can do the genetic analysis. 
 > 
 > But what we want to make sure again, how do we think about any of these potential pandemic threats is making sure we have the infrastructure ready to go, to be able to detect, to prevent and to respond, right? And so we have a very extensive network of flu surveillance across the country. 
+> 
+> ...
+> 
+> Question [00:14:20]
+> 
+> We have heard a lot about Robert F. Kennedy Jr. potentially taking some kind of czar like role over health agencies. You know, he tweeted in March that he wants to clean up the cesspool of corruption at CDC and forced the public health agencies to come clean about COVID vaccines. 
+> 
+> He's also said that he wants to require there to be long term placebo controlled trials run on all childhood vaccines recommended by the CDC. 
+> 
+> What is your message to people working in public health about how to respond to that kind of language?
+> 
+> Mandy Cohen, CDC [00:14:55]
+> 
+> You know, I think we have a very short memory of what it is like to hold a child who has been paralyzed with polio or to comfort a mom who has lost their kid from measles, and it's not that many generations ago, but it is a far enough away that folks have forgotten. 
+> 
+> And we need to remember that the reason we have these childhood vaccines is to make sure that we are the strongest, the healthiest, that we can be as a community. 
+> 
+> And I don't want to have to see us go backwards in order to remind ourselves that vaccines work. Like they work, they protect our kids, they are our best  defense against these terrible illnesses that luckily we haven't seen, but we are starting to see around the world, because vaccine rates post pandemic are lower. 
+> 
+> We're seeing more measles cases. Again, measles is one of the most contagious viruses out there. It's the canary in the coal mine for vaccination rates. We're seeing more measles cases here in the United States, but luckily more than 90% of our, of our communities are vaccinated that protects us.
+> 
+>  But remember that vaccines are-- only work well when we are all getting to that. We've heard those terms, herd immunity, when we're all in this together, because we know that some of some folks whose immune systems don't work as well as others, their vaccines are not going to protect them. So they don't have the kinds of choices that some of us do have. 
+> 
+> So we, I think the important part in this moment is to remember, to make sure that we're focused as Dr. Califf said on the evidence, and that we stay focused on what works to protect the health of communities. 
+> 
+> No one wants to see a child paralyzed, a child die from something that we can prevent.
+> 
+> ...
+> 
+> Question [00:16:52]
+> 
+> And how do you respond to sort of charges that there are these tropes of hidden data that the CDC has not released about vaccine safety?
+> 
+> Mandy Cohen, CDC [00:16:59]
+> 
+> You know, look, CDC has been incredibly transparent with information and data, and I'm really proud of that, of that transparency. 
+> 
+> And so, we want to make sure folks feel reassured about vaccine effectiveness, about vaccine safety. And I think that's what folks are going to continue, continue to see.
 
 ## BC CDC's Bonnie Henry at press conference
 
