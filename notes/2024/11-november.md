@@ -9,6 +9,98 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 13, 2024
+
+## BC CDC's Bonnie Henry at press conference
+
+- **Source:** [livestream](https://youtu.be/N88_JupS6v8)
+- **Attribution:** British Columbia Centre for Disease Control
+- **Date:** published November 13, 2024
+
+> [00:00:57] This person was admitted to the BC children's hospital late on Friday, and over the weekend, their condition had varied and sadly, they right now remain in critical condition.
+> 
+> ...
+> 
+> [00:05:51] That has been our priority, the contact tracing over the past few days to make sure that there are not other cases out there that we're missing, to make sure that people who have been in contact with this young person during their infectious period are assessed, are tested. And, all of the people who've been in contact either at home or in the hospital are notified. 
+> 
+> So we've been following up. We, and I say that the team at Fraser Health Public Health at the BC CDC, BC children's hospital BCH, have been working together over these last few days to ensure that all family, friends and contacts have been identified in the community, that our public health teams are following up with healthcare workers as well, that have been in contact with this young person. 
+> 
+> And we would have tested a number in the vicinity of three dozen people for influenza to make sure that there's no hidden or asymptomatic or mild infections out there. And people have been offered prophylaxis with an antiviral medication called oseltamivir to, prevent them from developing symptoms, should they be infected.
+> 
+> And we'll be following up the public health teams who will contact people daily for 10 days from their last exposure. 
+> 
+> That is one of the reasons why I have confidence that we at at this point have not identified anybody else that is sick with this virus in British Columbia right now. 
+> 
+> ...
+> 
+> [00:08:35] We're very grateful again, to the family of this young person who at the same time they're caring for and supporting their loved one have been very generous in sharing information with us as best they can, and being committed with us to finding out how this happened. 
+> 
+> Having said that, I must caution that there is a very real possibility, we may not ever determine a source, but at this point we have a number of leads that we're following, and we will be tracking down everyone.
+> 
+> ...
+> 
+> [00:14:46] As I mentioned in BC, we're in our sixth wave of high pathogenic AI from H5N1, and it's affecting now, as of this morning, 26 premises across British Columbia, primarily in the lower mainland Fraser valley area. And this is aligned with migratory waterfowl, so geese and ducks that migrate from the north and they fly south at this time of year and then back north again in the spring. 
+> 
+> So back to our investigation, we are looking very, very carefully at all potential animal exposures, bird exposures. There were other pets in the house, and there was contacts with pets in other houses.
+> 
+> Right now, we have no specific source identified, but the testing is ongoing in partnerships with our veterinary colleagues and will be continuing that investigation very thoroughly. 
+> 
+> I will also say there has been no link to any of the infected poultry premises here in British Columbia. So that's not where we seem to have a source, related to this case, as I mentioned, an environmental source is also something that we need to investigate thoroughly, although it's less likely. 
+> 
+> ...
+> 
+> [00:22:54] Their initial symptoms started, not surprisingly with conjunctivitis, so infection in the eyes, fever and cough. And those are really the hallmarks. 
+> 
+> It's very difficult early on to determine if that is from influenza from COVID from other respiratory viruses. 
+> 
+> So it really was the surveillance network that we have in place and the testing that was done that led us to identifying the H5 in this person.
+> 
+> ...
+> 
+> [00:26:48] So there were a variety of animals that had been in contact, in different settings, including dogs, cats, some reptiles, no birds that were aware of. 
+> 
+> So those are the ongoing investigation that were, that the public health teams and the veterinary teams are doing together. 
+> 
+> There was one one animal, a dog that was sick and advanced testing has been done on that animal. And so far, all of the tests that have been done on the animal so far have been negative. 
+> 
+> So we've not yet identified a source, but that is absolutely an ongoing investigation.
+> 
+> ...
+> 
+> [00:36:59] This person does not live on a farm and there is no contact with any poultry farming or any other farming, in the-- their area, or in the family. 
+> 
+> So there's no obvious quick connection to a farm or exposure to wild birds or to poultry that we can detect at this time. 
+> 
+> ...
+> 
+> [00:41:47] As you can imagine, things have progressed and the clinical condition can change very rapidly. But, they're experiencing acute respiratory distress syndrome. 
+> 
+> ...
+> 
+> [00:42:52] So yes, we have a lot of people working back and forth across-- moving back and forth across the borders. 
+> 
+> In this case. However, there was no-- this person did not have any contact with-- did not cross the border. Did not have any contact with farms or ill animals in Washington state.
+> 
+> ...
+> 
+> [00:44:28] This was a healthy teenager, prior to this, so no underlying conditions, and it just reminds us that in young people, this is a virus that can progress, and cause quite severe illness.
+> 
+> And the deterioration, as I mentioned was quite rapid. So the person, I mentioned that this symptoms started on November 2nd. But they had not been in school. 
+> 
+> There were definitely people that they were in contact with during the infectious period, but they were not in school during their infectious period for a variety of reasons. 
+> 
+> And no there's been no travel in any of the contacts, any of the family or friends, outside of the country-- I shouldn't say that-- to Vietnam or other areas in Southeast Asia in the last little while.
+> 
+> ...
+> 
+> [00:49:09] And we know as I mentioned that young people in Vietnam and China and other places also are more likely to have severe illness with this virus. So that tells us that something about our immunity as we get older, seems to protect us from getting those deep lung infections that cause the more serious illness.
+> 
+> One of the hypotheses that I think there's some evidence for is that as we get older, we have more exposure to the N1, particularly since 2009 where we've had an H1N1 circulating every year. 
+> 
+> So whether we have exposure to that, N1, confers some protection either from vaccination or from previous infections that we accumulate some better protection for those more serious infections from that, from having that history of vaccination or infection that you just don't have the time to accumulate, if you're a young person. 
+> 
+> So that's a hypothesis. I think we don't really know why mostly it's a milder infection while mostly in older people, especially adults, and why it doesn't transmit thankfully very easily between people.
+
 # November 12, 2024
 
 ## Bobby Kennedy and Calley Means at Joe Polish event
