@@ -11,6 +11,16 @@ permalink: /notes/2024/11
 
 # November 14, 2024
 
+## Sen Ron Johnson spokesperson on RFK Jr.
+
+- **Source:** email
+- **Attribution:** Senator Ron Johnson spokesperson Kiersten Pels
+- **Date:** received November 14, 2024
+
+> This conversation took place a few weeks before RFK Jr. suspended his campaign and endorsed President Trump. 
+> 
+> They were speaking generally about different positions, not specifically HHS secretary although that might have come up. 
+
 ## CDC spokesperson on COVID-19 vaccination survey
 
 - **Source:** emailed statement
