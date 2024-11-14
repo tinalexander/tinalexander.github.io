@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 14, 2024
 
+## CDC spokesperson on COVID-19 vaccination survey
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received November 13, 2024
+
+> There have been no methodological changes from last year to this year. One thing to note is COVID-19 vaccine distribution for the 2024-25 season was earlier then last season for the updated 2023-24 COVID-19 vaccination. This earlier start could likely be the leading reason for the higher coverage in all age groups at this time compared to similar calendar time last season. We will continue to track vaccination data as we continue through the season.
+  
 ## FDA's Peter Marks at Milken Institute event
 
 - **Source:** [livestream](https://milkeninstitute.org/events/future-health-summit-2024/livestream)
