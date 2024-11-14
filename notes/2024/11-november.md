@@ -9,6 +9,130 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 14, 2024
+
+## FDA's Peter Marks at Milken Institute event
+
+- **Source:** [livestream](https://milkeninstitute.org/events/future-health-summit-2024/livestream)
+- **Attribution:** Milken Institute Future of Health Summit 2024
+- **Date:** broadcasted November 13, 2024
+
+> Peter Marks, FDA [00:22:16]
+> 
+> If we end up having to spend a lot of time, re-litigating things that we know work, like prophylactic vaccines, it will take away from the time that we have to help push innovation of very novel products. 
+> 
+> So I think that's the-- I think where we have to, or this has been a problem in the United States that's been around for the past years, since-- it was there before the COVID 19 pandemic. And it has only grown in place, this doubt about vaccine safety and effectiveness of vaccines. 
+> 
+> And hopefully we'll be able to clear up some of the misinformation over the next years.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:32:57]
+> 
+> I think we're going to continue to work-- we are public health professionals. We're here.
+> 
+> In some ways I think, I don't mean to have a strange analogy, but much like the Department of Defense, we're the Department of Defense against pathogens that are coming around, people-- we are going to have to stand guard, and that doesn't matter who's in the White House because, I hate to tell you, the bird flu for those-- is now in a lot of different species, including cows, which are big, it's replicating. And it's just a matter of time before we see more breakout and potentially something that could be either epidemic or pandemic potential, whether it's this year, next year or the year after. So we have to be prepared for that. 
+> 
+> We have to have, keep our heads about us, and I think we'll get support, hopefully. And I think we found working, we managed to get by, by keeping our eye on public health, and drowning out a lot of the noise. So, that's what we'll have to do here. 
+> 
+> It's my one reason why I just hope we can keep vaccine confidence up, because it would be, if we do have another epidemic, it would be really nice not to lose lives unnecessarily like we did during COVID 19, from people who didn't take vaccines, who, because they had false impressions of what they were about. 
+> 
+> So I think our, our goal is focus on public health, get the work done, and I think we've, best analogy is if we can go through and be kind of stealth below the radar screen, get the public health mission done and only pop up above the radar, into the radar zone when we need to.
+> 
+> ...
+> 
+> Peter Marks, FDA [00:32:57]
+> 
+> I think we're going to continue to work-- we are public health professionals. We're here.
+> 
+> In some ways I think, I don't mean to have a strange analogy, but much like the Department of Defense, we're the Department of Defense against pathogens that are coming around, people-- we are going to have to stand guard, and that doesn't matter who's in the White House because, I hate to tell you, the bird flu for those-- is now in a lot of different species, including cows, which are big, it's replicating. And it's just a matter of time before we see more breakout and potentially something that could be either epidemic or pandemic potential, whether it's this year, next year or the year after. So we have to be prepared for that. 
+> 
+> We have to have, keep our heads about us, and I think we'll get support, hopefully. And I think we found working, we managed to get by, by keeping our eye on public health, and drowning out a lot of the noise. So, that's what we'll have to do here. 
+> 
+> It's my one reason why I just hope we can keep vaccine confidence up, because it would be, if we do have another epidemic, it would be really nice not to lose lives unnecessarily like we did during COVID 19, from people who didn't take vaccines, who, because they had false impressions of what they were about. 
+> 
+> So I think our, our goal is focus on public health, get the work done, and I think we've, best analogy is if we can go through and be kind of stealth below the radar screen, get the public health mission done and only pop up above the radar, into the radar zone when we need to.
+> 
+> ...
+> 
+> Question [00:36:44]
+> 
+> From where you sit. And when you talk about conspiracy theories and so forth, is there a positive spin on unleashing RFK on the FDA?
+> 
+> Peter Marks, FDA [00:36:56]
+> 
+> Positive spin?
+> 
+> So I guess it's how you react to a challenge and we'd be very happy to have lots of public advisory committees, where there are experts who-- that will speak. And hopefully that would be returned, at the return favor that we would ask, is that someone keep an open mind to the fact that vaccines might actually work and might not be dangerous. 
+> 
+> So I think we are open minded. I think that could be-- look we at FDA want, are trying to lean in as much as we can. We have a group of devoted public servants. 
+> 
+> I think, we can be asked to respond to a lot of different incoming that are not our typical incoming. 
+> 
+> The only thing I would ask from anyone is to just do it with respect, because just as I think at CMS, we have now up to 20,000 people in FDA, 1,500 in my center, 6,000 in the center for drugs, who are so devoted to what they do. And they do what they do to protect the American people. Not because they're trying to, not for any kind of nefarious purpose. 
+> 
+> So they, and during the COVID pandemic, people worked 14 hours a day to move those vaccines along. So there's a lot of devotion there. So hopefully we can have a dialog that is a civil one.
+> 
+> ...
+> 
+> Peter Marks, FDA [01:01:46]
+> 
+> So I sat in the room with Mr. Kennedy before on the issues of vaccines multiple times now.
+> 
+> I think there's this great opportunity if he focuses on chronic diseases and on health. I think his concept of doing things about our, what we do with foods, and what we do with things, you don't need GLP one inhibitors, if you don't actually have weight problems to start with, because you have good diet and exercise, perhaps. And if he takes an approach towards that perhaps, very supportive.
+> 
+> I think as we, as he comes towards FDA, I think we'll be looking to have-- we'll engage-- happy, we'll have to engage with a dialog with him and see.
+> 
+> I just would ask-- what I would ask of him is that he keep an open mind. We're happy to try to show as much of the data as we can. And I think the data are essentially overwhelming, in certain areas, but we'll just have to-- we'll just have to engage in the dialog. 
+> 
+> And perhaps engaging in that dialog, especially if it's in a public venue, it may help, it may help bring some of the rest of the country along because sometimes as somebody is convinced, perhaps, maybe some of the rest of the country will be convinced of the utility of vaccines.
+> 
+> Remember vaccines also help chronic conditions. If you look at people who get influenza vaccinated, and COVID vaccinated, they have a lower risk of heart attacks, et cetera. 
+> 
+> So, basic public health measures, we'll do what we can to interact with Mr. Kennedy to try to help make sure that those get delivered to patients. 
+> 
+> It's been good. You know, vaccines have been good since about, we've known that they're worthwhile since about 17 something. So it's probably a-- and George Washington wanted to virulate his troops. So they've been around for a little while.
+> 
+> ...
+> 
+> Peter Marks, FDA [01:03:42]
+> 
+> If he wanted to engage I'm-- we're open, he knows where-- he probably knows where to find me.
+> 
+> ...
+> 
+> Peter Marks, FDA [01:03:56]
+> 
+> In terms of the safety of the safety of vaccines. We've tried to do that pretty actively with our CDC colleagues, and people are free to go to our websites, but I'm happy to have anyone contact me. We're happy to-- we're happy to try to provide as much information as we can, because there again, there's no secret files. 
+> 
+> I mean, if there's secret, they're-- you know, I hold a security clearance. If they are secret from me then, so they must be at some other level of classification. 
+> 
+> But as far as I know, all the data we have indicate that the vaccines that we have licensed in the United States are safe and effective.
+> 
+> ...
+> 
+> Peter Marks, FDA [01:04:53]
+> 
+> I think I would say something that I'll say-- I'm going to try to try to be very fair.
+> 
+> There are doctors with MDs and there are PhDs. Okay? I can tell you that PhDs are able to dive down to a level of understanding of science, perhaps that MDs, some MDs, can't.
+> 
+> I think he has an understanding of science that perhaps does not-- it's not as deep as others might, but I think what, I would just ask him more than anything else, rather than, because I know a number of attorneys who know more than most PhDs and MDs about medicine. So it doesn't, it's not the degree. 
+> 
+> It's just a matter of keeping an open mind.
+> 
+> ...
+> 
+> Peter Marks, FDA [01:08:08]
+> 
+> Look, the people who I work with absolutely are committed to what we do in terms of protecting the health of Americans and-- so yes, I do want to keep my job and I do want to make sure, because I think we have a team together that has been put together that can help protect.
+> 
+> We've been through-- we have a team now that's been through a pandemic. We managed to respond to the mpox epidemic remarkably rapidly. And it did not become greater than it was in part because we were able to respond so well because we had done it before.
+> 
+> Emergency use authorizations were issued in a matter of weeks instead of months because of how well people did it. 
+> 
+> So I think you have a group of people that are there very committed to public health because they feel a commitment to the individual people in the country, not to politicians, but to what it means to mothers, fathers, sons, daughters, to have the best possible state of public health in this country.
+
 # November 13, 2024
 
 ## NIDA's Nora Volkow on drug overdose deaths
