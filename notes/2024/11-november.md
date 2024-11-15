@@ -11,6 +11,16 @@ permalink: /notes/2024/11
 
 # November 15, 2024
 
+## Americans United for Life statement on Trump picking Kennedy
+
+- **Source:** emailed statement
+- **Attribution:** Americans United for Life
+- **Date:** received November 15, 2024
+
+> John Mize, CEO of Americans United for Life:
+> 
+> "Like many newcomers to the conservative pro-life movement, Robert F. Kennedy Jr. needs further education on the reality of abortion and its harmful effects on children, women, public health, and our nation. We are optimistic about working with RFK Jr. to correct the wrongs of the Biden/Harris Administration. I find his statement at the Iowa State Fair in August to be encouraging. This man had thought through the issue and drew a line at 15 weeks, much further towards conception than any of his Democrat political colleagues ever would. I hope RFK Jr. shows a clear sign to the pro-life movement that he is aware of this devastating threat to American children to encourage support of his nomination. Showing his desire to re-instate REMS, basic safety measures on the abortion pill, would be a large signal to the movement.”
+
 ## President-elect Trump at America First Policy Institute gala
 
 - **Source:** [livestream](https://www.c-span.org/video/?540029-1/president-elect-trump-delivers-remarks-gala)
