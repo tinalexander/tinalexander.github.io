@@ -310,9 +310,11 @@ https://www.youtube.com/watch?v=FJFnBHFQhnU
 > …
 > 
 > [01:16:43] Fentanyl is a crisis in this country. We had 106,000 overdose deaths in the last year, which is almost double the number of kids that we lost during the 20 year Vietnam War, but in a single year and every year it's going up and up in the last couple of years, it's gone down by a few thousand, but it's still a terrible crisis. 
-> 
-> October 29, 2024 on Fox News
-> 
+
+## October 29, 2024 on Fox News
+
+https://www.foxnews.com/video/6363916081112
+
 > [00:07:09] It's easy to fix. We have a thousand ingredients in our foods that are illegal in Italy and other countries in Europe. 
 > 
 > And the reason for that is corruption at the food industry and the agriculture, big agriculture producers, control FDA. And so they're not worried about public health. They're worried about advancing the mercantile interests of those corporations. 
