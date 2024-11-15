@@ -9,6 +9,28 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 15, 2024
+
+## President-elect Trump at America First Policy Institute gala
+
+- **Source:** [livestream](https://www.c-span.org/video/?540029-1/president-elect-trump-delivers-remarks-gala)
+- **Attribution:** C-SPAN
+- **Date:** published November 14, 2024
+
+> Another one who's another great mind, and a great guy, and so popular, and I think he's right, he wants to make people healthy. It's driven him pretty wild over the last number of years.
+> 
+> And the Democrats didn't treat him well. He was doing fantastically well, and I think they came out with some rule that you had to do this Mike, you had to get 70 or 75% of the vote to qualify to be in the primary. That was a pretty tough thing to get.
+> 
+> And he was doing incredibly well and he decided he can't do it, went independent, now he's with us all the way. And today I nominated him for, I guess, if you like health, and if you like people that live a long time, it's the most important position: RFK Jr.
+> 
+> Bobby? Good.
+> 
+> And I just looked at the news reports. People like you Bobby. Don't get too popular Bobby. You know, you've reached about the level. No.
+> 
+> We want you to come up with things and ideas and what you've been talking about for a long time. And I think you're going to do some unbelievable thing.
+> 
+> Nobody is going to be able to do it like you, and boy does he feel it in his heart. So congratulations also, to your family.
+
 # November 14, 2024
 
 ## Sen Ron Johnson spokesperson on RFK Jr.
