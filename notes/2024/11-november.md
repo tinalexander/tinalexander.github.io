@@ -11,6 +11,32 @@ permalink: /notes/2024/11
 
 # November 15, 2024
 
+## Susan Collins on Robert F. Kennedy Jr. 
+
+- **Source:** gaggle
+- **Attribution:** WGME CBS 13
+- **Date:** recorded on November 15, 2024
+
+> Sen. Susan Collins [7;55]
+> 
+> Well, you know, I am a member of the HELP committee, the Health Education, Labor and Pensions Committee, we have partial jurisdiction over the Secretary of Health and Human Services, so we will be holding a hearing on Mr. Kennedy's nomination. 
+> 
+> The committee that actually votes on it and will also hold a hearing is the Senate Finance Committee, so I anticipate having ample opportunity to question him and learn more about his views.
+> 
+> That department is a huge, very complex department with a lot of different programs, and I will be talking to him about that and his managerial experience, as well as about some of the views that he reportedly holds. 
+> 
+> So I'm not worried about not having enough information or enough time, because in that case, I actually am on the committee that has partial jurisdiction.
+> 
+> Question [9;04]
+> 
+> Are you worried about some of the views he has?
+> 
+> Sen. Susan Collins [9;11]
+> 
+> You know, I want to hear directly from him, because I've never met him, so all I have are press reports. 
+> 
+> So I want to hear directly from him. 
+
 ## Americans United for Life statement on Trump picking Kennedy
 
 - **Source:** emailed statement
