@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 15, 2024
 
+## Susan B. Anthony Pro-Life America
+
+- **Source:** emailed statement
+- **Attribution:** Marjorie Dannenfelser, president of Susan B. Anthony Pro-Life America
+- **Date:** received November 15, 2024
+
+> "There's no question that we need a pro-life HHS secretary, and of course, we have concerns about Robert F. Kennedy Jr. I believe that no matter who is HHS secretary, baseline policies set by President Trump during his first term will be re-established."
+
 ## Susan Collins on Robert F. Kennedy Jr. 
 
 - **Source:** gaggle
