@@ -352,9 +352,11 @@ https://www.foxnews.com/video/6363916081112
 > …
 > 
 > [00:12:39] It's cheaper for them to put the chemicals. And President Trump wants to get the chemicals out and he wants to make us healthy because in the long run that's cheaper for us.
-> 
-> October 26, 2024 on Reclaim America Tour Live
-> 
+
+## October 26, 2024 on Reclaim America Tour Live
+
+https://www.facebook.com/watch/live/?ref=watch_permalink&v=1220116715957025
+
 > [00:06:47] We talked then for about two hours on several occasions afterward in person and over the phone and the things that he said to me transformed me and transformed my attitude about this, about him and about our election. 
 > 
 > He said, let's look at the things that we agree on and let's agree to disagree on the stuff that we don't agree on, but the things, the most important things are ending the war machine and our addiction to foreign wars, ending the censorship and surveillance state in our country, and then making America healthy again. 
