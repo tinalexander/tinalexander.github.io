@@ -19,6 +19,14 @@ permalink: /notes/2024/11
 
 > The routine contract tracing investigation continues, and the risk assessment – that there is no concern or evidence that mpox clade I is currently spreading among individuals in San Mateo County or elsewhere in the United States – remains unchanged.
 
+## CDC spokesperson on characterizing clade I mpox from California
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received November 18, 2024
+
+> CDC should have viral sequencing completed soon– we are currently awaiting the specimen, which is being handled according to select agent regulations.
+
 ## CDC spokesperson on NORS data about Escherichia outbreaks
 
 - **Source:** email
@@ -32,14 +40,6 @@ permalink: /notes/2024/11
 > ...
 > 
 > I checked with our experts, and it sounds like those are expected to be released by late winter 2025.
-
-## CDC spokesperson on characterizing clade I mpox from California
-
-- **Source:** emailed statement
-- **Attribution:** Centers for Disease Control and Prevention spokesperson
-- **Date:** received November 18, 2024
-
-> CDC should have viral sequencing completed soon– we are currently awaiting the specimen, which is being handled according to select agent regulations.
 
 # November 15, 2024
 
