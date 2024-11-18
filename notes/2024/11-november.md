@@ -9,6 +9,16 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 18, 2024
+
+## CDC spokesperson on characterizing clade I mpox from California
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received November 18, 2024
+
+> CDC should have viral sequencing completed soon– we are currently awaiting the specimen, which is being handled according to select agent regulations.
+
 # November 15, 2024
 
 ## Susan B. Anthony Pro-Life America
