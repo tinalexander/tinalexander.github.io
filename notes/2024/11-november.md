@@ -11,6 +11,40 @@ permalink: /notes/2024/11
 
 # November 18, 2024
 
+## Robert Redfield on NewsNation about Robert F. Kennedy Jr.
+
+- **Source:** [recording](https://www.youtube.com/watch?v=_bFfJIPHWkw)
+- **Attribution:** NewsNation
+- **Date:** published November 15, 2024
+
+> Robert Redfield [00:00:13]
+> 
+> I'm probably one of the biggest advocates for vaccine. You mentioned that I, when I was CDC director, I would say that I think vaccines are the greatest gift for science to modern medicine. And I still believe that.
+> 
+> Kennedy's not, anti-vaccine. What Kennedy is about is transparency about vaccine, honest discussion about vaccines, asking for the data to show that these vaccines are safe and they are efficacious.
+> 
+> And the mere question of asking what's the data for safety, many of his detractors say, okay, well, you're, anti-vax.
+> 
+> No, just show me the safety data. Show me the efficacy data. 
+> 
+> I have high confidence that Kennedy is going to be a strong supporter of, of transparency on vaccines and when the vaccine data shows that they're efficacious and a benefit to the American public, he will promote them.
+> 
+> ...
+> 
+> [00:01:36] We need transformational change.
+> 
+> Right now, we've created over the last 20, 30 years, we've developed a disease system. We need to make a health system. 
+> 
+> And when Kennedy says he wants to help make America healthy again, when I was CDC director, one of the challenges was we lost about 1.2 million people died of COVID.
+> 
+> Other countries like Taiwan lost less than 10,000 people. Why did we lose so many people? 
+> 
+> We lost so many people is cuz we're because (crosstalk) we're a sick nation.
+> 
+> And Kennedy is really committed to making us healthy again. 
+> 
+> And I do agree with you. We should all get behind him. Making a healthy America is not a partisan issue. 
+
 ## San Mateo County health department on clade I mpox
 
 - **Source:** email
