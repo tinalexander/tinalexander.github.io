@@ -11,6 +11,24 @@ permalink: /notes/2024/11
 
 # November 18, 2024
 
+## Hawaii's agriculture department on bird flu detection
+
+- **Source:** email
+- **Attribution:** Hawaii Department of Agriculture spokesperson Janelle Saneishi
+- **Date:** received November 18, 2024
+
+> Is it known how H5N1 was introduced to the flock that was confirmed this month?
+> 
+> **No, it is not known. However, wild bird introduction is possible.**
+> 
+> For example, wondering if any links have been identified to imports or travel.
+> 
+> **No, no link has been made to importation or travel. (FYI – Hawai‘i has strict importing regulations for birds and other animals, including cattle)**
+> 
+> Also, are you able to say if multiple herds or flocks have been identified infected with H5N1 in Hawaii, or only one?
+> 
+> **There is only one confirmed site and investigations are ongoing.**
+
 ## Robert Redfield on NewsNation about Robert F. Kennedy Jr.
 
 - **Source:** [recording](https://www.youtube.com/watch?v=_bFfJIPHWkw)
