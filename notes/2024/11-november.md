@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 18, 2024
 
+## APHIS spokesperson on H5N1 in Hawaii
+
+- **Source:** email
+- **Attribution:** Animal and Plant Health Inspection Services spokesperson Lyndsay Cole
+- **Date:** received November 18, 2024
+
+> The genotype is confirmed as A3, indicative of a spillover from migratory birds and represents a different genotype than that found in the current outbreak among dairy cows in the U.S.
+
 ## Hawaii's agriculture department on bird flu detection
 
 - **Source:** email
