@@ -441,6 +441,34 @@ permalink: /notes/2024/11
 - **Attribution:** The Joe Polish Show
 - **Date:** published November 11, 2024
 
+> Robert F. Kennedy Jr [00:02:20]
+> 
+> The stuff that he is really, like, bad.
+> 
+> It's not-- campaign food is always bad, but the food that goes on to that airplane is like just poison. 
+> 
+> It's all-- you have a choice between-- you don't have the choice. You're either given KFC or a Big Mac. That's the big-- that's like when you're lucky. 
+> 
+> And then the rest of the stuff, is I consider kind of inedible, but I was eating it. 
+> 
+> And then he eats Diet Coke, I saw it, I was with Dana White the other day, and who was really good, great for my campaign. He was a huge, huge supporter. 
+> 
+> He's very close to Trump. They've had a relationship for 20 years for, you know, through UFC. 
+> 
+> He said during that time, sometimes he'll sit through a fight with Trump, and he's five hours in the fight, said he has never seen Trump drink a glass of water.
+> 
+> Question [00:03:34]
+> 
+> Yeah, exactly, just like sodas or Diet Coke or whatever?
+> 
+> Robert F. Kennedy Jr [00:03:39]
+> 
+> On diet coke.
+> 
+> But he has this extraordinary energy.
+> 
+> ...
+> 
 > Bobby Kennedy [00:22:11]
 > 
 > I've seen that now, again and again, with Trump, during the transition where we make all these suggestions about who should be at each post, he comes into the meeting, and he very quickly, we have-- there's eight giant screens and each person has a picture of themselves on the screen. They have a biography next to 'em. You can press a button and you can see three different clips from that person. 
