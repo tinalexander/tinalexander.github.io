@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 18, 2024
 
+## San Mateo County health department on clade I mpox
+
+- **Source:** email
+- **Attribution:** San Mateo County Health spokesperson Preston Merchant
+- **Date:** received November 18, 2024
+
+> The routine contract tracing investigation continues, and the risk assessment – that there is no concern or evidence that mpox clade I is currently spreading among individuals in San Mateo County or elsewhere in the United States – remains unchanged.
+
 ## CDC spokesperson on NORS data about Escherichia outbreaks
 
 - **Source:** email
