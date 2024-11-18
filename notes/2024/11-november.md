@@ -11,6 +11,20 @@ permalink: /notes/2024/11
 
 # November 18, 2024
 
+## CDC spokesperson on NORS data about Escherichia outbreaks
+
+- **Source:** email
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received November 18, 2024
+
+> _It looks to me like the NORS figures totaling the number of foodborne illnesses linked to Escherichia only go through 2022. _
+>  
+> _Is there any more recent totals available? If not, are you able to share an estimate for when those are expected to be released?_
+> 
+> ...
+> 
+> I checked with our experts, and it sounds like those are expected to be released by late winter 2025.
+
 ## CDC spokesperson on characterizing clade I mpox from California
 
 - **Source:** emailed statement
