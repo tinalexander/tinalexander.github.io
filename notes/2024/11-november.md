@@ -17,7 +17,7 @@ permalink: /notes/2024/11
 - **Attribution:** Centers for Disease Control and Prevention spokesperson
 - **Date:** received November 18, 2024
 
-> _It looks to me like the NORS figures totaling the number of foodborne illnesses linked to Escherichia only go through 2022. _
+> _It looks to me like the NORS figures totaling the number of foodborne illnesses linked to Escherichia only go through 2022._
 >  
 > _Is there any more recent totals available? If not, are you able to share an estimate for when those are expected to be released?_
 > 
