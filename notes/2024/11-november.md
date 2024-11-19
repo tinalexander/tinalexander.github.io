@@ -11,6 +11,24 @@ permalink: /notes/2024/11
 
 # November 19, 2024
 
+## CDC spokesperson on presumptive positive bird flu in child
+
+- **Source:** email
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Rosa Norman
+- **Date:** received November 19, 2024
+
+> CDC is aware that California has identified a presumptive positive influenza A (H5) case in a child. CDC is supporting the investigation by the California Department of Public Health and is awaiting the specimen to test at its lab for confirmation and will provide further updates promptly.  
+
+Yes, that is correct – the child and their family members tested positive for the same, more common respiratory viruses that are not bird flu. 
+
+## California health department on bird flu case in child
+
+- **Source:** email
+- **Attribution:** California Department of Public Health spokesperson
+- **Date:** received November 19, 2024
+
+> Yes, that is correct – the child and their family members tested positive for the same, more common respiratory viruses that are not bird flu. 
+
 ## CDC spokesperson on Mycoplasma pneumoniae trends
 
 - **Source:** emailed statement
