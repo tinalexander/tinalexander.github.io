@@ -28,6 +28,12 @@ Yes, that is correct – the child and their family members tested positive for 
 - **Date:** received November 19, 2024
 
 > Yes, that is correct – the child and their family members tested positive for the same, more common respiratory viruses that are not bird flu. 
+> 
+> ...
+> 
+> _Can you also clarify whether it is known if the child consumed dairy products?_
+> 
+> At this time, we do not have any additional information to share beyond what was included in our news release.
 
 ## CDC spokesperson on Mycoplasma pneumoniae trends
 
