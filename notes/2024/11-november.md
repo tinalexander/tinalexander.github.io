@@ -9,6 +9,18 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 19, 2024
+
+## CDC spokesperson on Mycoplasma pneumoniae trends
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Jasmine Reed
+- **Date:** received November 18, 2024
+
+> August remains the peak for the percentage of pneumonia-associated emergency department visits with a Mycoplasma pneumoniae diagnosis. As shown in the figure on Mycoplasma pneumoniae Infection Surveillance and Trends | M. pneumoniae | CDC, these diagnoses dropped a little after August, but remained high through early November. Of note, diagnoses among 0–1-year-olds have steadily increased throughout the fall without any subsequent decrease.
+> 
+> Though we have seen an increase in every region, the highest levels are in HHS Regions 2, 6, and 7, while the lowest are in HHS regions 8, 9, and 10. It’s important to note that while the National Syndromic Surveillance Program collects data from the vast majority of emergency departments, it isn’t 100%, so there may be regions of the country with more or less reporting. CDC will continue to monitor the situation.
+
 # November 18, 2024
 
 ## APHIS spokesperson on H5N1 in Hawaii
