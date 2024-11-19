@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 19, 2024
 
+## Alameda County spokesperson on bird flu case in child
+
+- **Source:** emailed statement
+- **Attribution:** Alameda County Public Health Department spokesperson Austin Wingate
+- **Date:** received November 19, 2024
+
+> Due to this being an active public health investigation and to protect the privacy of all parties involved, we are unable to answer your first question at this time. Regarding your question about if the county has identified other avian influenza cases in animals or workers so far this year, we have not.
+
 ## CDC spokesperson on presumptive positive bird flu in child
 
 - **Source:** email
