@@ -9,6 +9,18 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 20, 2024
+
+## USDA inspector general on Boar's Head audit
+
+- **Source:** emailed statement
+- **Attribution:** U.S. Department of Agriculture Office of Inspector General spokesperson Shane Bunn
+- **Date:** received November 20, 2024
+
+> Regarding Boar’s Head, I can confirm that an inspection is being conducted by USDA OIG’s Office of Audit.  
+> 
+> The objective of the inspection is to determine whether the Food Safety and Inspection Service and the Virginia Department of Agriculture and Consumer Services established an effective process to (1) ensure that corrective and enforcement actions for reported noncompliances at the Boar’s Head Establishment, Jarratt, Virginia were implemented; and (2) identify, elevate, and address recurring noncompliances reported at State-inspected establishments to reduce the risk of adulterated product entering the food supply.
+
 # November 19, 2024
 
 ## Alameda County spokesperson on bird flu case in child
