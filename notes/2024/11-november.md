@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 20, 2024
 
+## Colorado's health department on Taylor Farms facility
+
+- **Source:** email
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson Gabi Johnston
+- **Date:** received November 20, 2024
+
+> Our Manufactured Food Program registers and inspects Taylor Farms. The last routine inspection occurred on October 10, 2023. No significant violations were observed at the time of inspection. We are collaborating with the Food and Drug Administration on the E. coli  investigation. Those inspection records are not available because the investigation is ongoing. 
+
 ## California agriculture department on H5N1 in Alameda County
 
 - **Source:** emailed statement
