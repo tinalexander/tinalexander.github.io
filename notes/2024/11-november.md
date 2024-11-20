@@ -11,11 +11,19 @@ permalink: /notes/2024/11
 
 # November 20, 2024
 
+## New York City's health department on Mycoplasma pneumoniae
+
+- **Source:** emailed statement
+- **Attribution:** New York City Department of Health and Mental Hygiene spokesperson Chantal Gomez
+- **Date:** received November 19, 2024
+
+> New York City has experienced an increase in Mycoplasma pneumoniae among people under age 18. The NYC Health Department is closely monitoring the situation and regularly receives updates from providers, laboratories, and health care facilities. Mycoplasma pneumoniae is not a reportable disease; however, we work closely with the health care community to get the most complete picture as possible. 
+
 ## USDA inspector general on Boar's Head audit
 
 - **Source:** emailed statement
 - **Attribution:** U.S. Department of Agriculture Office of Inspector General spokesperson Shane Bunn
-- **Date:** received November 20, 2024
+- **Date:** received November 19, 2024
 
 > Regarding Boar’s Head, I can confirm that an inspection is being conducted by USDA OIG’s Office of Audit.  
 > 
