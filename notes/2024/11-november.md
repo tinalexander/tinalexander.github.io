@@ -11,6 +11,20 @@ permalink: /notes/2024/11
 
 # November 20, 2024
 
+## FDA spokesperson on food recalls
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received November 20, 2024
+
+> The U.S. food supply remains one of the safest in the world. The Economist regularly updates a report that measures the Global Food Security Index, which considers food affordability, availability, quality and safety, and sustainability and adaptation, across 113 countries. The U.S. has moved up 25 positions for the food safety indicator since 2012 and is ranked a joint first for the food safety indicator in 2022.      
+> 
+> Most recalls in the U.S. are carried out voluntarily by the product manufacturer, importer, or distributor. A company may initiate a recall based on their own sampling or findings, after notification of a problem by the FDA or other regulatory agency, or as follow up to internal investigations regarding consumer complaints. The FDA’s role is to ensure that the recalling firm is taking appropriate steps to protect the public from violative goods. This includes, processing the recall, evaluating the health hazard posed by the product, verifying the effectiveness of the recall, and encouraging the recalling firm to alert the public, when appropriate.  
+> 
+> Our ultimate goal is for industry to do their part to ensure that the foods they introduce into the market are not adulterated or misbranded. Recalls help get the food off the market quickly when something goes wrong. Outbreak advisories provide important food safety information to the public. The occurrence of recalls and outbreaks means that manufacturers, importers and distributors are monitoring for issues and taking action when they detect a problem. Consumers should know that recalls and outbreaks indicate that the problem has been identified and is being addressed.    
+> 
+> When a company issues a public warning, typically via news release, to inform the public of a product recall, the FDA shares that release on our website and communicates the recall information through multiple social media platforms. In instances where firms refuse to issue a public warning, the FDA may issue a Public Health Alert.   
+
 ## New York City's health department on Mycoplasma pneumoniae
 
 - **Source:** emailed statement
