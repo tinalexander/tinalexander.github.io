@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 20, 2024
 
+## California agriculture department on H5N1 in Alameda County
+
+- **Source:** emailed statement
+- **Attribution:** California Department of Food and Agriculture spokesperson Steve Lyle
+- **Date:** received November 20, 2024
+
+> There are no licensed dairies in Alameda County.  Also, there have been no detections of H5N1 in poultry flocks.  We are seeing an increase in wild bird detections across California, but the last report in Alameda was in early 2024. Follow-up testing from the California Department of Fish and Wildlife since September 1 confirms no new detections in the county.
+
 ## FDA drugs director on retirement of Dr. Throckmorton
 
 - **Source:** emailed statement
