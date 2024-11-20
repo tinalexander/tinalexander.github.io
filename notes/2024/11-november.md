@@ -11,6 +11,246 @@ permalink: /notes/2024/11
 
 # November 20, 2024
 
+## Calley Means on podcast about RFK Jr's plan for HHS
+
+- **Source:** [video](https://youtu.be/uSWnu6CBAO0)
+- **Attribution:** The Liz Wheeler Show
+- **Date:** published November 15, 2024
+
+> Calley Means [00:02:53]
+> 
+> My sister and I got into this from her experience being in the medical system, from me being a lobbyist, and our mom abruptly dying of cancer. 
+> 
+> You know, one of the many Americans struck down by our chronic disease crisis.
+> 
+> And we started companies. We wrote a book, we started going on podcasts. You know, I've known you, as you said for years.
+> 
+> And just organically, this beautiful movement has sprung up. We got connected to RFK, got connected to the Trump campaign, just reached out, hey, this is kind of interesting. We wanna fold this into President Trump's talking points. Members of Congress reached out and had an opportunity, I had a spiritual feeling after President Trump got shot. 
+> 
+> I just felt the need to pick up the phone and call Bobby Kennedy, who I had been talking to a lot and say, maybe this is time to call President Trump and discuss unity and was able to make that connection that night, with the help of Tucker Carlson.
+> 
+> And have a little bit of a seat watching them connect. And I think what's so powerful and what I think people are so scared about is there was a real meaningful connection on big ideas. 
+> 
+> And I think that that almost spiritual level of connection came through in the campaign to where I was shocked, in the final weeks of the campaign, President Trump talking about our food toxins and childhood chronic disease and taking on corruption in the USDA and the FDA and the CDC.
+> 
+> It's like these are bipartisan issues. These are anti-corruption issues. These are us versus the uni-party. 
+> 
+> And, I think as you saw Liz, these issues connected with I think the base.
+> 
+> You heard really loud applauses. Trump was shocked. He said by the applauses, RFK and these issues were getting. 
+> 
+> And I think it brought millions of new people into the coalition. When you look at the gender gap closing, independents, young people, Latinos. I mean, I think this really, really resonated. 
+> 
+> And I got to say, from my standpoint behind the scenes, this was good vibes. Like I've never seen a partisan or kind of calculated word exchanged in the closed door sessions.
+> 
+> It's all about how can we actually communicate this childhood chronic disease crisis. 
+> 
+> So on this particular topic, and I think in a lot of topics, honestly, when Trump was working with Elon and talking about big ideas, it honestly was coming from everything, I've seen, a very good place.
+> 
+> ...
+> 
+> Calley Means [00:12:08]
+> 
+> We're going to return to science. 
+> 
+> I think what bad interests have realized is that there's nothing higher level in society than an NIH study. 
+> 
+> And I've actually, Liz had conversations in the past three days with the senior most members of the NIH who are defending the institution publicly, who are saying, this is an absolute and utter dumpster fire. 
+> 
+> There's huge DEI regulations and parameters around what can and can't be said, a feeling of absolute assault on academic freedom, and from what I'm hearing, when you add it up, 80 to 90% of NIH grants and funding goes to pharmaceutical R&D, there has been an absolute freeze on foundational scientific research. 
+> 
+> And we just need to call a spade a spade here, a huge institutional force from preventing embarrassment to previous guidelines, whether that's on pharmaceutical interventions or on food.
+> 
+> What President Trump, in some bold statements and videos, the first day is we are going to get back to freedom of speech. We're going to get back to truth. We're going to get back to academic freedom. We're going to get any type of ideology out of our scientific guidelines. He said that directly. 
+> 
+> And I-- that's the key to everything. I mean, the key and a victory in the first year is returning the NIH to asking the question, why are we getting so sick?
+> 
+> ...
+> 
+> Calley Means [00:15:10]
+> 
+> There's nothing conservative or liberal about the USDA recommending added sugar as part of a healthy two year old's diet. 
+> 
+> That then flows to hundreds of billions of dollars of various subsidies. 
+> 
+> I think a huge problem. And I think Trump talked about this one with this first video, let's get the DEI out of all the federal agencies.
+> 
+> DEI has actually infected science in a really problematic way where the dietary guidelines actually have to consider affordability. They have to consider equity. 
+> 
+> And actually they recommend ultra processed food to kids because they say, well, we can't possibly expect people to afford real whole food. 
+> 
+> You should have zero thought about equity or affordability in scientific guidelines. The job of the USDA is to say the truth, which is then in the midst of a diabetes and obesity crisis among six year olds, that we should be steering kids away from ultra processed food, away from sugar, towards whole food made by American farmers. 
+> 
+> And that's the USDA's job. That's the executive branch's job. And there's actually no policy there. 
+> 
+> But that recommendation should be from the science and then policy makers and money can flow where we see fit. 
+> 
+> But the problem is that you actually have fear in these scientific agencies about saying the wrong thing and getting attacked for being classist. That's got to end. 
+> 
+> We need unbiased science about what food's doing, what vaccines are doing, what fluoride's doing, all these things. Why are we so afraid to ask these questions?
+> 
+> ...
+> 
+> Calley Means [00:19:56]
+> 
+> What we are preparing for President Trump's consideration and consideration by the transition team. 
+> 
+> Well, when you get into food regulations, you get into what's called GRAS standards. So generally recognized as safe. 
+> 
+> So there was a bill passed in the 1950s, basically saying that things are just, that are absolutely no-brainers like food additives that are just natural no-brainers that they can be, you know, okay, those are good to go. 
+> 
+> And through various corrupt regulatory interpretations today, it's full self-policing from the food industry, to where a food company can add any chemical whatsoever into our food system. 
+> 
+> And then it can only be taken out if it's demonstrably proven that it's harmful after it's been in our kids food. 
+> 
+> And we have 10,000 chemicals in our food that are phased out of European countries, and we have full self policing. 
+> 
+> Now that isn't the free market, that's been a totally rigged system. 
+> 
+> And I would just say like, let's take food colorings, artificial food colorings, that is literally crude oil. 
+> 
+> One thing I'd like love the USDA and FDA to pursue is actually just more honest labeling of what food products are. 
+> 
+> Natural flavors encompass thousands of harmful chemicals, you know, red 40 that's crude oil. That's literally what it is. 
+> 
+> So we are coloring those neon colors in our kids' food that have no nutritional need, that's phased out of every other developed country. 
+> 
+> And it's absolutely demonstrably tied to ADHD and other neurological issues. 
+> 
+> I mean, it's astounding as you've seen Liz, if you actually a kid with some ADHD issues, if you take food coloring out of their diet, it's actually astounding, studies are showing this. But instead we just give them Adderall. 
+> 
+> So yeah, I think it's not an attack on-- and we got to just be, as you said, very specific.
+> 
+> I think the overall posture of the FDA should be actually a lot of deregulation. I think we should have a golden age of innovation and drug development. Nobody's standing in the way of that. 
+> 
+> But when it comes to food, when it comes to generally recognized as safe, complete self-policing from this industry, allowing them to put chemicals in our food that are banned in every other country and have hundreds of studies saying are harmful, yeah, there needs to be a review of GRAS standards. Absolutely. 
+> 
+> Now that, I don't think that's punitive on the food system. And I want to make this really clear. And this is what we're talking about. 
+> 
+> This is a dual fault. The government and the food industry has created a regulatory regime and a sub system that's led U.S. food to not be nutritious. 
+> 
+> ...
+> 
+> Calley Means [00:23:32]
+> 
+> So what nutrition researchers who are paid by food companies do, is they look at these dynamics where 80% of the American people are obese or overweight. And we have disastrous health outcomes compared to every other developed country. 
+> 
+> And they sit around in a circle endlessly and say, is it the glyphosate? Is it the food colorings? Is it the BHT preservatives? Is it the seed oils? And they have endless conferences. 
+> 
+> And they sit in these five year cycles of the USDA nutrition guidelines and just fight about, and it's a game, it's a total game. 
+> 
+> The issue is that we are relying too much on ultra processed food, which includes grains, which in the United States specifically are sprayed with many types of pesticides and herbicides that almost all come from China, that are phased out of the EU food supply.
+> 
+> Because, you know, Alex Jones actually was right on some of these things. I mean, some of these chemicals that are sprayed by the truckload on our food, actually are feminizing agents, are estrogen producing agents that do actually change the gender of frogs that swim in the water run off of our fields. 
+> 
+> I mean, that is absolutely happening.
+> 
+> ...
+> 
+> Calley Means [00:24:43]
+> 
+> Debating whether it's the glyphosate, whether it's some other ingredient, it actually loses the point. And it's kind of the spiritual strain that RFK hits, it's what Good Energy, our book, is about. 
+> 
+> We need to actually just reassert common sense. Like we shouldn't be eating grains that are sprayed with pesticides that require the workers to wear a hazmat suit that kill everything in sight that are being phased out of every other country. 
+> 
+> Like clearly that's impacting our microbiome, which regulates many of our hormones in ways we don't even fully understand.
+> 
+> Like we're not going to have that science. Our body is this absolute awe inspiring interconnected machine. And it just totally misses the point to try to isolate.
+> 
+> If we literally, and I mean this literally, fired every single nutrition researcher in the United States government and cut all funding for nutrition research to zero and replace that with a standard that we should lower ultra processed food consumption for kids from 70% to 20%, we'd have a transformation of human capital in this country. 
+> 
+> A mass increase in life expectancy and our economy would be on fire because what we're doing by having 38% of kids is prediabetic is we're ruining their futures and actually ruining their future of human capital. 
+> 
+> So, that gets to the type of principles that we're looking at. We got to return to simplicity. 
+> 
+> I'm actually getting a lot of messages from various nutrition researchers saying that we have to have a 20 person panel to advise RFK on what specific ingredients, we need to have a mass panel of debating seed oils and all these other things. 
+> 
+> No, we need to actually use this mandate to get back to simplicity, simplicity. That's the key. 
+> 
+> I think a lot of evil forces are hiding in the complexity of our dietary debate. 
+> 
+> ...
+> 
+> Calley Means [00:27:20]
+> 
+> Let me give the framework that I think Bobby's talking about and that we're certainly talking about and recommending for the new administration, which is that nothing is too important to subject to science. 
+> 
+> I mean, we should not be afraid to conduct science on, particularly interventions that we're giving and essentially mandating for every single child. 
+> 
+> So the argument that vaccines are too important to study when demonstrably, there are terrible incentives of the vaccine schedule to where companies invest billions of dollars on new development, and then the second they're able to lobby to get something on a schedule, it's the only product in America that the governments pays for for every single American citizen, and then uses the regulatory agencies and the media, which the pharma industry funds, to call anyone who questions that schedule a war criminal. 
+> 
+> We can be generally supportive of vaccines and admit that the incentives of getting new and more and more and more vaccines on the schedule are extremely problematic. 
+> 
+> I would say anyone, anyone that's actually stepping back and looking at the situation would probably say some vaccines, maybe have been good. There's probably almost certainly issues with the schedule, that we probably have too many on the schedule, that we should analyze how our schedule's different than other countries, that we should trust American parents to make the best decision for their kids. 
+> 
+> ...
+> 
+> Calley Means [00:31:15]
+> 
+> We have the opportunity to have a golden age of innovation, including pharmaceutical innovation, but this idea that there's no liability protection, this idea that you're basically called a war criminal for questioning any vaccine and the fact that everyone's grouped together, that we're not even differentiating when they're given. 
+> 
+> I mean, there's nuance in all of this. Like, obviously hepatitis B in the first day of birth makes no sense. It's indefensible. I've yet to hear a defense of it. If the mom is tested for hepatitis B.
+> 
+> The literal answer from scientific authorities, when you press them on that, is that the American people are too stupid to remember. So we might as well just give to everyone. 
+> 
+> It is an STD okay or intravenous needles. Never in American history has a child tripped on a needle that just had hepatitis B on it and got it-- it's ridiculous. Right? 
+> 
+> So maybe that is a important intervention for many Americans, but the timing is like, but even to question the timing, you're anti-vax.
+> 
+> Every reporter I talked to, to even insert nuance on 72 immune system changing interventions before a child reaches maturity is anti-vax.
+> 
+> That is the problem that I think the American people are pushing back on. 
+> 
+> And you know, I think this movement is much wider than this issue, but I think it's like why are we prevented from asking a question about that? 
+> 
+> Why is the medical system mobilizing so much force to prevent any questions or any discussion of that issue? 
+> 
+> But then when it comes to childhood obesity, childhood prediabetes, child diet, it's hands off.
+> 
+> It's way too expensive to possibly intervene. It's $1,600 for Ozempic jabs, fine. Medicare approved that. Healthy food for kids not possible, right? 
+> 
+> It's-- you are a war criminal if you're a single lower income mom to not give 72 shots on the exact day that they're recommended, even if your child is immunocompromised, or is sick, they still -- CDC recommends to give it the shot. Don't miss anything, versus, hands off on what you're feeding your kid and actually added sugar and Coca-Cola and food stamps and all this other stuff is fine.
+> 
+>  And the American Academy of Pediatrics has nothing to say about that. 
+> 
+> It is obviously wrong where the industry is focusing. And I-- I think vaccines are an important part of public health. I think the message is they should absolutely be subjected to science. Parents should absolutely be able to ask questions. 
+> 
+> Parents aren't trying to hurt their kids. 
+> 
+> ...
+> 
+> Calley Means [00:40:57]
+> 
+> The FDA and the USDA, I believe their job is to explain the American people, when we have toxic, demonstrably toxic chemicals in our food, and are recommending even those chemicals, that's their job. 
+> 
+> It's Congress's job. They'll scream, bloody murder, the food industry of like, you know, this is going to raise food prices, et cetera, et cetera. 
+> 
+> We have to understand that is we should be working constructively with the food industry and Congress, because this is not a free market right now. 
+> 
+> And I do, obviously, as these changes happen, we're going to have a deep conversation with all stakeholders to reform the incentive structure and the subsidy structure that is propagating our current system.
+> 
+> ...
+> 
+> Calley Means [00:44:43]
+> 
+> I think that's why we should have optimism. I think President Trump, the promise of his presidency and his promise to voters, is he's going to empower people like RFK, and he's going to take the blowback from the special interests. 
+> 
+> Why are we optimistic too, with the inevitable deep state reaction to this? 
+> 
+> We've got the presidential microphone and pulpit. I think what I constantly hear from members of Congress is that they kind of want this stuff done as humans. 
+> 
+> I mean, we all understand the FDA shouldn't be funded by pharma 75%, and totally co-opted and research, but it, they always say, it's not the national issue. It's like the corruption kind of happens because there's not a spotlight on it.
+> 
+> By having a spotlight from President Trump and hopefully Bobby Kennedy, I think it draws and these things are, I think that's why people are waking up being radicalized. It's unimpeachably bad. 
+> 
+> Like the stuff we're talking about just literally makes no sense. It just does not make sense for our children's food to be covered in crude oil that the USDA says is healthy. 
+> 
+> I mean, that just doesn't make any sense. So, if we could just keep up the spotlight, have good lawyers have kind of an attitude that we're going to just do it, that we're going to stand up to the scrutiny. You bring these things light. 
+> 
+> This is not a monolithic, all powerful, this is not an all powerful industry. They can be disrupted. So that's what gives me hope. 
+> 
+> The voters and President Trump's microphone are on our side.
+
 ## FDA spokesperson on food recalls
 
 - **Source:** emailed statement
