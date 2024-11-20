@@ -11,6 +11,28 @@ permalink: /notes/2024/11
 
 # November 20, 2024
 
+## FDA drugs director on retirement of Dr. Throckmorton
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received November 20, 2024
+
+> Please see below for a message from CDER Director Dr. Patrizia Cavazzoni to CDER Staff regarding Dr. Throckmorton:
+> 
+> Dear CDER Colleagues:
+> 
+> After 34 years of distinguished federal service, including 27 years at CDER, Doug Throckmorton, M.D., the deputy center director for regulatory programs, will retire in early January 2025.
+> 
+> It was bittersweet when Doug told me in September that he planned to retire around the new year. I am excited for him to begin this next phase of his life after dedicating so many years to CDER, but as a long-standing senior leader with extensive public health experience and institutional knowledge, he will be sorely missed.
+> 
+> Doug’s CDER career began in 1997 when he joined FDA as a medical officer in the Division of Cardiac and Renal Drug Products in the Office of New Drugs. He was soon promoted to deputy division director and then to division director in 2002. In this role, he helped shape the agency response to drug-induced QT prolongation to successfully avoid additional drug withdrawals.
+> 
+> In 2004, he became acting deputy center director, a role that became permanent in 2005 and which he has held ever since. During his service as deputy center director, Doug has overseen many critical and complex areas in the CDER portfolio, including the regulation of controlled substances, drug shortages, counterterrorism and emergency coordination, combination product regulation, and the impact of pharmaceuticals in the environment.
+> 
+> In addition, Doug has advised me and previous center directors on complex regulatory policy and programmatic matters. We have been fortunate to have his strategic guidance over the years, and I am grateful that he has been such a steadying presence and a sound advisor on a wide range of topics vital to CDER. Doug has had an immeasurable impact on public health.
+> 
+> Please join me in thanking Doug for his outstanding service and commitment to CDER. Let’s wish him all the best as he looks forward to a well-deserved retirement! He says he has no immediate plans beyond relaxing, but one never knows.
+
 ## Calley Means on podcast about RFK Jr's plan for HHS
 
 - **Source:** [video](https://youtu.be/uSWnu6CBAO0)
