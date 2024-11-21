@@ -11,6 +11,156 @@ permalink: /notes/2024/11
 
 # November 20, 2024
 
+## CDC officials at meeting on emergency responses
+
+- **Source:** livestream
+- **Attribution:** Centers for Disease Control and Prevention's Board of Scientific Counselors for the Center for Preparedness and Response
+- **Date:** occurred November 20, 2024
+
+> Ian Williams, CDC [00:06:24]
+> 
+> We've been very busy.
+> 
+> Right now, there are about 860 agency staff currently supporting one of several active CDC emergency responses, including Marburg, Lassa, Mpox, Dengue, Influenza H5N1, Polio, and the recovery mission from Hurricane Helene. 
+> 
+> So lots of busy, lots of work going across CDC.
+> 
+> ...
+> 
+> Ian Williams, CDC [00:06:24]
+> 
+> We've been very busy.
+> 
+> Right now, there are about 860 agency staff currently supporting one of several active CDC emergency responses, including Marburg, Lassa, Mpox, Dengue, Influenza H5N1, Polio, and the recovery mission from Hurricane Helene. 
+> 
+> So lots of busy, lots of work going across CDC.
+> 
+> ...
+> 
+> Ian Williams, CDC [00:12:29]
+> 
+> Mpox clade I cases have appeared in neighboring countries of Burundi, Rwanda, Central African Republic, Republic of Chicago and Uganda.
+> 
+> Travel associated cases have now been reported in Germany, India, Kenya, Sweden, Thailand, and over the last weekend here in the United States. 
+> 
+> At this time there is no data to suggest that sustained transmission has been occurring in these countries. 
+> 
+> The two cases in Sweden, Thailand occurred in August, and the case of the United States has occurred here-- in the United States-- and they didn't update the slide here, because it just happened over the weekend, but hopefully folks either saw the media, there was a health alert network posting that came out Monday night, I believe, or Tuesday morning, that gives sort of updates on that.
+> 
+> And the short answer, if you haven't seen that is, this was very similar to the cases we saw in the UK and Sweden, which is a traveler who returned from a country where the mpox is endemic.
+> 
+> He basically presented to care with a rash illness and was subsequently picked up as having traveled to this part of the world. 
+> 
+> All the right stuff happened, and big kudos to our colleagues in the state of California and San Mateo county who were basically picked it up. 
+> 
+> They had that right testing at the right place in the right time and were able to go from a sort of a, a clinical diagnosis to basically get laboratory confirmation very quickly, over last weekend.
+> 
+> Where we are currently with that case is following up contacts both within the community, folks that he traveled with, who are in two additional states, and those states have been notified of those travelers, we're following up on everyone who sat in surrounding him on the airplane, on the flights on the way back to the United States.
+> 
+> We're following up members in the community, including all the healthcare workers. And just to give you a flavor of there's around 60 or so healthcare workers that have been, are currently being followed up by our colleagues in the state of California. 
+> 
+> Good news is it does not look like there's any sort of high risk exposure there. But of course we're following this very closely just to make sure that there is no ongoing transmission in the community. 
+> 
+> Last thing I'll mention is there's also wastewater detection monitoring that's happening within the community. 
+> 
+> There have been no case recent cases of or no recent wastewater detections there in San Mateo or the surrounding counties. 
+> 
+> So the good news is that the system that we've been working on for almost 10 months now worked sort of as it was supposed to, again, big kudos to our state local colleagues who basically made it run seamlessly. 
+> 
+> So, we're not out of the woods with this one yet, but we're watching it very closely. 
+> 
+> ...
+> 
+> Ian Williams, CDC [00:20:36]
+> 
+> We've also issued, CDC has also issued a updated level two travel health notice, per enhanced precautions for travelers to DRC or the neighboring countries. It advises travelers to be aware of mpox exposures, risks and symptoms, reiterates vaccine recommendation, reminds travelers to seek immediate medical attention if a new or unexplained tr skin rash develops after visiting a country with ongoing clade one transmission. 
+> 
+> And just to emphasize that CDC and the WHO do not discourage travel to the DRC or elsewhere at this time due the risk of the mpox outbreak nor is CDC conducting entry screening at U.S. ports for entry for mpox. Nonetheless again, CDC is ready to respond to ill travelers at ports of entry 24 7 each day of the year. 
+> 
+> ...
+> 
+> Fernando Torres, CDC [00:28:04]
+> 
+> So now into the outbreak, on September 30th, the WHO issued a disease outbreak news report on this outbreak. This is the first time that we see Marburg in Rwanda. 
+> 
+> Most of the cases have been confined to two facilities in the capital Kigali, among healthcare workers and the presumptive index case has been suggested to be a miner, in a mine near Kigali. 
+> 
+> At this point, the outbreak seems to be under control. The last case was confirmed on October 30th. 
+> 
+> So WHO started to countdown for the, to declare the outbreak over. And that would be December 21st, if there's no other cases.
+> 
+> It is important to know that historically this has been the Marburg outbreak with the highest number of survivors or recovered individuals, and that we partnered with WHO and other USG colleagues to use this opportunity for a phase one clinical trial of a Marburg vaccine and monoclonal antibiotics. Next slide. 
+> 
+> To date, the risk to the U.S. remains slow. However, October 16, the Department of Homeland Security directed all travelers from Rwanda to just three airports in the United States.
+> 
+> That would be JFK, Chicago O'Hare and Dulles Washington, and we have CDC staff deployed in this airport conducting screening tests for all travelers. 
+> 
+> ...
+> 
+> Lyle Petersen, CDC [00:41:13]
+> 
+> Now that we're getting in towards the end of the year, cases are starting to decrease, as expected.
+> 
+> This large decrease down here is just largely due to reporting delay, but cases are starting to decrease. 
+> 
+> So what's happened here is we've had a pretty substantial outbreak. There's been about 4,700 laboratory confirmed cases, about 2,700 hospitalizations. 
+> 
+> But the important thing is there's only been nine deaths despite having a huge number of hospitalizations, 2,700. 
+> 
+> And this is due to the fact thatwe've really worked on training physicians in Puerto Rico to recognize dengue and to treat it properly so that, so I think this has been a huge public health success. 
+> 
+> Now, the one thing that didn't happen is a massive outbreak.
+> 
+> As I mentioned earlier, sometimes we've seen outbreaks of 10,000 cases or more in Puerto Rico. And right now we're at nowhere near that number. 
+> 
+> So this was a little unexpected, but again, this was still a huge outbreak. 
+> 
+> ...
+> 
+> Lyle Petersen, CDC [00:44:22]
+> 
+> Now what's happening in Southern California is really interesting. 
+> 
+> So far we've found 15 locally acquired dengue cases, both in L.A. county, San Bernardino county and in San Diego. 
+> 
+> And so dengue in California had never been reported locally transmitted dengue, I should say, had never been reported in California before last year.
+> 
+> Last year, there were two local transmission cases in Los Angeles county. This year we have 15.
+> 
+> And the reason for this and the reason it's starting to occur in Southern California is simply due to the fact that the Aedes aegypti mosquito has invaded California as well as numerous cities throughout the southwestern United States. And it never used to be there. 
+> 
+> And so Aedes aegypti is present in much of California at this point. And in other cities like Phoenix and Las Vegas and other basically all over the Southwest at this point.
+> 
+> Why Aedes aegypti is invading the Southwestern United States is not clear, but as illustrated on this slide, it certainly raises the possibility of local dengue transmission in places where it never occurred before. 
+> 
+> ...
+> 
+> Chris Brown, CDC [01:03:49]
+> 
+> I know that in the news folks have probably been paying's attention to recent cases, particularly in Canada with Canada's first detection of a human case, pediatric case, as part of this particular outbreak, as well as the pediatric suspect case that California identified within the last number of days. 
+> 
+> Testing around that last one is ongoing right now, and we're still trying to work with partners on the ground, including at the healthcare system where the case was identified, to get more information about the case.
+> 
+> The epi investigation is underway, and we're working through some issues around sampling and laboratory analysis of that sample to learn more about what's going on there. 
+> 
+> ...
+> 
+> Chris Brown, CDC [01:05:02]
+> 
+> Really what we're seeing is the bulk of human cases resulting from occupational exposures, on the various types of farms that are affected. So that's really where the focus I think of this response is gonna remain unless the trajectory of the outbreak changes with what we may, you know, still learn about the recent California and other cases. 
+> 
+> ...
+> 
+> Chris Brown, CDC [01:06:40]
+> 
+> We've reached out and we're trying to engage OSHA. This is a challenging landscape, I will say because of the way the OSHA programs are structured about half the states across the country are OSHA state plans. Meaning the state gets funding from the federal government to operate their own plan. They're required to be minimally, at least as affected as the federal standards.
+> 
+> States have the purview to go further if they want, than the federal standards, but by and large, it's a consistent program. But that means the jurisdiction is kind of a patchwork between whether it's federal OSHA or state OSHA. 
+> 
+> The other challenge here is that on the agriculture side, OSHA does not have many prescriptive standards in this space. There is one standard for general sanitation that is largely relevant and the other occupational protection standards that apply to agriculture deal with things like farm equipment rollover. So they're not relevant to preventing exposure to an infection with infectious diseases. 
+> 
+> We're engaging OSHA on that. I mean, I think the regulatory climate that we will likely see going forward probably will not allow us to do too much more in that space, but we are working with them to try to leverage the partnerships that we can. 
+
 ## Colorado's health department on Taylor Farms facility
 
 - **Source:** email
