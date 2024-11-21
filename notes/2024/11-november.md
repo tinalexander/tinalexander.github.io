@@ -9,6 +9,20 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 21, 2024
+
+## Hawaii health department on H5N1 investigation
+
+- **Source:** emailed statement
+- **Attribution:** Dr. Sarah Kemble, Hawaiʻi State Epidemiologist, Department of Health
+- **Date:** received November 21, 2024
+
+> The Hawaiʻi State Department of Health is investigating human contacts to the flock infected with H5N1. No humans in Hawaiʻi have tested positive for avian influenza at this time. To date, 54 individuals have been investigated for potential exposure. Of those, 34 were offered testing because of either having a unprotected exposure, meaning without use of adequate personal protective equipment, to the infected birds within the past 10 days, or because they had developed respiratory symptoms within 10 days of contact with the birds. Twenty-nine consented to testing, including 13 who had at least one symptom of respiratory infection and 16 who had no symptoms. All of the individuals who would be considered to have very high-risk exposure to the infected birds, including prolonged direct contact with visibly sick, dying, or dead birds, consented to testing. Testing involved collection of swabs from the nasopharynx, nose, throat, and/or conjunctiva which were tested by polymerase chain reaction (PCR) at the State Laboratories Division.  Results for all 29 of those tested, including those with very high-risk exposure and/or symptoms, have come back negative for avian influenza. Two symptomatic individuals tested positive for common cold viruses. Investigation into potential exposures to individuals who interacted with ducks or geese at the Mililani Pet Fair is ongoing. At least 4 individuals whose only exposure was at the Mililani Pet Fair have been tested for avian influenza with all negative results. Additional investigation results will be shared as they become available.
+> 
+> While initial human testing results are reassuring, DOH urges the public to continue to exercise caution. Avoid close contact with wild birds, and if you encounter birds that appear sick or have died, don’t approach them. Report sick or dead birds, especially if multiple or unusual, to the Department of Agriculture (808-483-7106 during Monday to Friday from 7:45AM to 4:30PM, or 808-837-8092 during non-business hours and holidays).
+> 
+> Hawaiʻi residents who recently visited or worked on a farm in another state with known or suspected H5N1 animal infections should contact the Hawaiʻi Department of Health’s Disease Reporting Line (808-586-4586) for a telephone risk assessment.
+
 # November 20, 2024
 
 ## CDC officials at meeting on emergency responses
