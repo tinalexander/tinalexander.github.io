@@ -11,6 +11,14 @@ permalink: /notes/2024/11
 
 # November 22, 2024
 
+## CDC spokesperson on sequencing of California mpox case
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson David Daigle
+- **Date:** received November 22, 2024
+
+> The viral characterization of the clade I sample from California returned results of clade Ib, which has been the predominate subclade associated with travel during the outbreaks in Central and Eastern Africa.
+
 ## Consumer Brands Assocation on Kennedy's GRAS rewrite plans
 
 - **Source:** emailed statement
