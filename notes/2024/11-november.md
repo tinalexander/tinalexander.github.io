@@ -9,6 +9,16 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 22, 2024
+
+## Consumer Brands Assocation on Kennedy's GRAS rewrite plans
+
+- **Source:** emailed statement
+- **Attribution:** Sarah Gallo, Senior Vice President of Federal Affairs, Consumer Brands Association
+- **Date:** received November 22, 2024
+
+> “The makers of America’s household brands deliver safe, affordable and convenient products that consumers want, need and trust, every day. Keeping consumers and their families safe is our number one priority. The federal regulatory agencies within HHS operate under a science and risk-based mandate and it is critical that framework remains under the new administration. As the largest domestic manufacturing employer, supporting more than 22 million American jobs, we are prepared to work with the confirmed appointee and qualified experts within HHS to support public health, build consumer trust and promote consumer choice.”
+
 # November 21, 2024
 
 ## Hawaii health department on H5N1 investigation
