@@ -11,6 +11,22 @@ permalink: /notes/2024/11
 
 # November 26, 2024
 
+## CMS spokesperson on cost of AOM used in modeling
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Medicare and Medicaid Services spokesperson
+- **Date:** occurred November 26, 2024
+
+> _Regarding this line:_
+> 
+> _"The cost per utilization was based on 2024 prescription drug event (PDE) data for the drugs in question. These costs were trended forward to each projection year and adjusted for estimated manufacturer rebates. To account for changes in the AOM drug development pipeline, the estimates assumed that there would be a gradual shift from older to newer products."_
+> 
+> _Are you able to describe how much was the cost per utilization that was used in the modeling? Or is there another way that you can describe it, like per enrollee per month?_
+> 
+> ...
+> 
+> The estimate is based on 2024 Part D drug experience, which shows an average gross drug cost of approximately $1,000 per utilizing member per month. This amount was projected forward bearing in mind cost trends, new drugs entering the market, and other considerations.
+
 ## CMS officials on proposal to expand coverage for obesity medications
 
 - **Source:** press conference
