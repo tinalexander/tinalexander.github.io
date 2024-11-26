@@ -11,6 +11,70 @@ permalink: /notes/2024/11
 
 # November 26, 2024
 
+## CMS officials on proposal to expand coverage for obesity medications
+
+- **Source:** press conference
+- **Attribution:** hosted by the Centers for Medicare and Medicaid Services
+- **Date:** occurred November 26, 2024
+
+> [00;13;49] Chiquita Brooks Lasure, CMS
+> 
+> During my time at CMS administrator, I have heard from countless people about how this coverage exclusion is a barrier preventing people from treating obesity and living healthier lives.
+>  
+> People with obesity deserve to have affordable access to medical treatment and support including anti-obesity medications for this disease, just as a person with type 2 diabetes can access these medications to get healthy, for example.
+> 
+> That’s why we're proposing to revise our interpretation of the law and provide coverage of anti-obesity medications for the treatment of obesity and give millions of people a just opportunity to get the care they need.
+> 
+> ...
+> 
+> [00:25:32] Dan Tsai, CMS
+> 
+> I think there’s a question on kids and Medicaid.
+> 
+> We would rely on what is indicated in the FDA label.
+> 
+> And currently, products are indicated for obesity and weight loss management for patients aged 12 and older.
+> 
+> So to the extent there are kids 12 and older that meet the clinical definition obesity as indicated in the FDA label, the proposed rule would require coverage of these medications for those kids, for those young-- for those adolescents.
+> 
+> So that's the answer to your first question. 
+> 
+> The second piece for timing.
+> 
+> We actually invite comments specifically on timing of when states would be required to implement this provision.
+> 
+> We note in the rule that the rule reinterprets the Medicaid statute, which means this would govern all Medicaid programs, but we specifically invite comment on a range of implications and timing for states.
+> 
+> ...
+> 
+> [00:28:16] Meena Seshamani, CMS
+> 
+> As you noted, this rule is a proposed rule and it will go through notice and comment rulemaking.
+> 
+> And based on the comments, then the rule would be finalized in the next administration.
+> 
+> ...
+> 
+> [00:30:07] Dan Tsai, CMS
+>  
+> So we estimate that-- so the answer is yes, the federal government will be substantially helping states with the cost of this. 
+> 
+> We estimate that the cost of this over a 10-year period will-- the federal government will pick up $11 billion. And states will pick up 3.8 billion. 
+> 
+> And so the federal government will cover more than the majority of the cost. 
+> 
+> As you note, states are also feeling substantial state budget pressure. And we are doing our part to make sure that patients, Medicaid enrollees all across the country can get access to life-saving and life-altering medications.
+> 
+> And we would urge drug manufacturers to do their part as well, make sure they're thinking about offering fair, appropriate prices to the Medicaid program all across the country.
+> 
+> ...
+> 
+> [00:33:38] Meena Seshamani, CMS
+> 
+> And for the reasons that I mentioned, because of the protections in the Inflation Reduction Act, we do not expect any short-term impact on premiums from this proposal.
+> 
+> And in fact this proposal provides a significant savings for people who currently may be paying out of pocket for these medications, in addition to the overall savings that people will will have through the $2,000 out-of-pocket tap that goes into effect January 1st.
+
 ## HHS spokesperson on dietary guidelines report
 
 - **Source:** emailed statement
