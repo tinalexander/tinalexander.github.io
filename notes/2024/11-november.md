@@ -9,6 +9,22 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 26, 2024
+
+## HHS spokesperson on dietary guidelines report
+
+- **Source:** emailed statement
+- **Attribution:** Office of Disease Prevention and Health Promotion spokesperson Joellen Leavelle
+- **Date:** received November 26, 2024
+
+> The 2025 Dietary Guidelines Advisory Committee, a federal advisory committee, is in the process of finalizing its Scientific Report to the U.S. Department of Health and Human Services (HHS) and the U.S. Department of Agriculture (USDA). This Scientific Report will be published online later in the year. This Scientific Report will contain the Committee’s review of the current state of nutrition science and includes independent advice for HHS and USDA to consider as the departments develop the Dietary Guidelines for Americans, 2025-2030.
+> 
+> Once the Scientific Report is published online later in the year, HHS and USDA will open a public comment period, inviting the public to share feedback on the report with both departments.
+> 
+> Once the Scientific Report is published on DietaryGuidelines.gov, the activities of the Committee will be complete. The Committee’s Scientific Report – and comments on the Scientific Report from the public as well as input from federal agencies – will be key resources the departments will use as they develop the next edition of the Dietary Guidelines for Americans.
+> 
+> HHS and USDA continue to demonstrate their commitment to transparency, equity, and scientific integrity throughout the entire process of developing the Dietary Guidelines for Americans, 2025-2030. HHS and USDA plan to release the Dietary Guidelines for Americans by the end of 2025.  To learn more please visit DietaryGuidelines.gov.
+
 # November 22, 2024
 
 ## CDC spokesperson on sequencing of California mpox case
