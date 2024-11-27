@@ -9,6 +9,18 @@ permalink: /notes/2024/11
 
 <br>
 
+# November 27, 2024
+
+## USDA spokesperson on data on SNAP purchases of sugary beverages
+
+- **Source:** emailed statement
+- **Attribution:** Food and Nutrition Service spokesperson Cherish Meadows
+- **Date:** received November 27, 2024
+
+> The Foods Typically Purchased by Supplemental Nutrition Assistance Program (SNAP) Households report published in November 2016, is the latest (and only item-level report) available. Please note, the data in the report is not a nationally representative. Therefore, one can’t interpret the data as the total amount of SNAP benefits that were spent on a category of food. The report is best used to compare the purchases of SNAP and non-SNAP households, as the same caveats apply to both groups. For example: About 3.5% of food expenditures was spent on milk by SNAP households versus 3.8% for non-SNAP households.
+> 
+> You can view more about the caveats and limitations on page 3 of the report.
+
 # November 26, 2024
 
 ## Alameda County spokesperson on bird flu investigation
