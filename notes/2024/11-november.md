@@ -11,6 +11,46 @@ permalink: /notes/2024/11
 
 # November 27, 2024
 
+## FDA stakeholder briefing on IV product shortages
+
+- **Source:** [recording](https://fda.zoomgov.com/rec/play/GlE8iC8zMYkHwAKRgDSty3QabHhfR7jN6MX_xsl7uWwy4qcUG_t-ncJFNwBxTjsS6CG4JSsqtiwNHocy.rkb6jWqy8N-1cJiO?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https://fda.zoomgov.com/rec/share/-MPT647--nO_PotyxNPBeK3g7LBXnhwTJVkYFml1TKM8Hls7q__g5hN3xhdYTRmy.ZNLfmYnT1JyM_cgr)
+- **Attribution:** published by the Food and Drug Administration
+- **Date:** dated November 21, 2024
+
+> Valerie Jensen, FDA [00:05:20]
+> 
+> So I want to give you a little more information about these additional lots that are being released. 
+> 
+> So, this was an issue where we had some product that Baxter identified that has a very small proportion of leaks. 
+> 
+> And so this is a large volume of fluid. I can tell you it's hundreds of thousands of bags, and so very small proportion of this known issue with leaks. 
+> 
+> And so these lots were actually manufactured at the North Carolina facility before Hurricane Helene and Baxter has investigated this issue, and they found that the leak would most likely be presented as an obvious defect before handling. 
+> 
+> And so it would present itself as an obvious defect, once the pressure is applied to the product.
+> 
+> ...
+> 
+> Francis Godwin, FDA [00:11:01]
+> 
+> The four lots that were announced, these lots were produced before the hurricane. They, Baxter, had them in their warehouse. They wereinvestigating and evaluating these before they were be to be released to the market. And then the hurricane hit. 
+> 
+> And with these, you know, all IV bags tend to have leakers in general. This is just kind of the nature of millions of bags being shipped through trucks, being jostled around after they leave the plant. 
+> 
+> And so when we're discussing with Baxter, we looked at the scenario and there are small proportion of leakers in these lots that are slightly higher than what you normally see. But we already know that healthcare providers are on the lookout for leaking bags, just from the general wear and tear that exists in the supply chain. 
+> 
+> ...
+> 
+> Francis Godwin, FDA [00:12:11]
+> 
+> When it comes to leaking bags, there can be various manufacturing issues that happen along the way. 
+> 
+> The dear healthcare provider letters talk in general about, you know, there's a couple different scenarios. 
+> 
+> But in this case, the proportion of leaking bags that are found is typically in the tens or-- it's measured in defects per million. So it's definitely a very low percent, but it's still a little bit above what we would normally see. 
+> 
+> That's why we wanted to alert the public today.
+
 ## USDA spokesperson on data on SNAP purchases of sugary beverages
 
 - **Source:** emailed statement
