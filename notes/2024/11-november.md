@@ -11,6 +11,24 @@ permalink: /notes/2024/11
 
 # November 26, 2024
 
+## Alameda County spokesperson on bird flu investigation
+
+- **Source:** email
+- **Attribution:** Alameda County Public Health Department spokesperson Austin Wingate
+- **Date:** received November 26, 2024
+ 
+> _Has the suspected wild bird exposure been ruled out?_
+> 
+> The investigation is ongoing.
+> 
+> _Has exposure to contaminated dairy products been investigated?_ 
+> 
+> There is no exposure to raw milk or raw milk products.
+>  
+> _Have any additional symptomatic contacts been identified?_
+> 
+> No additional cases have been identified.  
+
 ## CMS spokesperson on cost of AOM used in modeling
 
 - **Source:** emailed statement
