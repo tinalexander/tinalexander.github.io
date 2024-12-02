@@ -11,6 +11,23 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
+# November 2024
+
+- [Biden administration set to miss chance to lock in new food guidelines](https://www.cbsnews.com/news/biden-administration-food-guidelines-protein-red-meat/)
+- [Drugs like Wegovy, Ozempic would be covered by Medicare, Medicaid under Biden proposal](https://www.cbsnews.com/news/wegovy-ozempic-medicare-medicaid-biden-proposal/)
+- [RFK Jr. weighing FDA crackdown on food additives under Trump](https://www.cbsnews.com/news/rfk-jr-weighing-fda-crackdown-on-food-additives-under-trump/)
+- [Are food recalls and outbreaks on the rise? FDA says U.S. food supply still "one of the safest in the world"](https://www.cbsnews.com/news/food-recalls-e-coli-listeria-outbreaks-fda/)
+- [As "walking pneumonia" spreads, ER visits surge for sick babies](https://www.cbsnews.com/news/walking-pneumonia-er-visits-surge-sick-babies-mycoplasma-pneumoniae/)
+- [Bird flu reaches Hawaii, the last state that had escaped it](https://www.cbsnews.com/news/bird-flu-reaches-hawaii-infecting-last-state-to-have-escaped-h5n1-outbreak/)
+- [How RFK Jr. could impact vaccines as Trump's HHS secretary](https://www.cbsnews.com/news/rfk-jr-vaccine-access-hhs/)
+- [Anti-abortion groups divided over RFK Jr., after Pence objects to Trump's pick](https://www.cbsnews.com/news/rfk-mike-pence-abortion/)
+- [FDA vaccines chief hopes for common ground with RFK Jr.](https://www.cbsnews.com/news/robert-f-kennedy-fda-vaccines-trump-administration/)
+- [Opioid overdose deaths drop for 12th straight month, now lowest since 2020](https://www.cbsnews.com/news/opioid-overdoses-drop-lowest-since-2020-cdc/)
+- [Many more seniors are getting COVID shots this year, CDC reports](https://www.cbsnews.com/news/seniors-covid-shots-2024/)
+- [What is "Make America Healthy Again"? What to know about Trump and RFK Jr.'s wide-ranging platform](https://www.cbsnews.com/news/trump-robert-f-kennedy-make-america-healthy-again/)
+- [Robert F. Kennedy Jr. could be on short list for HHS secretary, Trump allies say](https://www.cbsnews.com/news/robert-f-kennedy-trump-short-list-hhs-secretary-allies-say/)
+- [FDA to pull common but ineffective cold medicine from market](https://www.cbsnews.com/news/fda-cold-medicine-phenylephrine-ineffective/)
+
 # October 2024
 
 - [How Harris and Trump's stances on Medicare compare for 2024](https://www.cbsnews.com/news/trump-harris-medicare-2024/)
