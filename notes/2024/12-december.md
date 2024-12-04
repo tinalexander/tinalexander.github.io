@@ -11,6 +11,32 @@ permalink: /notes/2024/12
 
 # December 4, 2024
 
+## Raw Farm emails on pet food
+
+- **Source:** emails
+- **Attribution:** Mark McAfee, chief executive officer of Raw Farm
+- **Date:** received December 4, 2024
+
+> Pet food products are not affected in any way because they were produced far before this event occurred.
+> 
+> Regulators test our milk, and all was clear when these products were produced.
+> 
+> ...
+> 
+> _Thanks for getting back to me._
+> 
+> _Does that mean there are pet food lots that did test positive but have not been distributed yet?_
+> 
+> _Sent from my phone (202) 381-7107_
+> 
+> ...
+> 
+> No…
+> 
+> We don’t make batches of pet food regularly.  We make them based on orders and demand.  
+> 
+> We stopped producing batches long before this event occurred. None are in distribution.
+
 ## Veterans Affairs statement on Dr David Weldon
 
 - **Source:** emailed statement
