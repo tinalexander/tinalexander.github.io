@@ -19,7 +19,7 @@ permalink: /notes/2024/12
 
 > Dr. David Weldon is not currently employed by VA. He previously practiced at a VA facility in Florida in a “Without Compensation” capacity, meaning he provided services without compensation. Due to the transition from paper to digital systems for maintaining employee records, VA is unable to provide specific dates and details of his prior employment. This change is part of VA’s ongoing efforts to modernize its HR processes and systems.
 
-## California health department statement on Raw Farm
+## California health department statement on Raw Farm recall
 
 - **Source:** emailed statement
 - **Attribution:** California Department of Public Health spokesperson
@@ -40,3 +40,11 @@ permalink: /notes/2024/12
 > QUESTION 3: Have any symptomatic cattle been identified so far at Raw Farm's premises
 > 
 > RESPONSE: As previously noted, please contact the California Department of Food and Agriculture for this question.
+
+## Food and Drug Administration statement on Raw Farm recall
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson Janell Goodwin
+- **Date:** received December 4, 2024
+
+> The FDA and RAW FARM, LLC (f/k/a Organic Pastures Dairy Co., LLC) are involved in an ongoing enforcement action in the U.S. District Court for the Eastern District of California, United States of America v. Organic Pastures Dairy Co., et al., 1:08-cv-1786 (E.D. Cal.). Per agency policy the FDA does not comment on possible, pending or ongoing litigation. 
