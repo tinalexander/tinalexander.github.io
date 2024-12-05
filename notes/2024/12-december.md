@@ -11,6 +11,30 @@ permalink: /notes/2024/12
 
 # December 5, 2024
 
+## Ohio health department statement on pertussis
+
+- **Source:** emailed statement
+- **Attribution:** Ohio Department of Health spokesperson
+- **Date:** received December 5, 2024
+
+> Pertussis can be cyclical. After seeing lower numbers of reported cases in the past few years -- during and after the COVID-19 pandemic -- nationally, pertussis is now returning to pre-pandemic trends.
+> 
+> Ohio is no different. So far this year, Ohio has seen over 1,200 cases. This is higher than we saw last year and is consistent with some years prior to the COVID-19 pandemic.
+> 
+> Between 2010 and 2014, for example, Ohio reported an average of 1,285 cases annually, including over 1,600 cases in 2013.
+> 
+> State data on pertussis and more than 100 other infectious diseases can be found on our dashboard, Summary of Infectious Diseases in Ohio.
+> 
+> You can sort the timeframe, specific disease, county and demographic profile. To find pertussis, under “Reportable Condition” unclick “all,” select pertussis from the dropdown menu, then click “Apply.”
+> 
+> We would recommend going back and selecting a longer timeframe, perhaps even back to 2001, the earliest data we have available, to see the longer-term trends for pertussis cases. Click on “epi curve” after you have selected a timeframe to see this.
+> 
+> The Ohio Department of Health (ODH) has been working with local health departments by providing guidance and support on responding to individual cases and outbreaks of pertussis.
+> 
+> ODH encourages individuals to stay up to date on vaccines to help prevent pertussis, which can be especially dangerous to infants. Additionally, everyone should stay home when they are sick, cover any coughs or sneezes, and wash their hands frequently.
+> 
+> For more information on pertussis, visit https://odh.ohio.gov/know-our-programs/vaccine-preventable-diseases/resources/pertussis
+
 ## California agriculture department email on Raw Farm
 
 - **Source:** email
