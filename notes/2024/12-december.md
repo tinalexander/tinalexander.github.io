@@ -9,6 +9,36 @@ permalink: /notes/2024/12
 
 <br>
 
+# December 5, 2024
+
+## California agriculture department email on Raw Farm
+
+- **Source:** email
+- **Attribution:** Steve Lyle, California Department of Food and Agriculture spokesperson
+- **Date:** received December 4, 2024
+
+> _Can you clarify if any of the cows at Raw Farm have been identified to be symptomatic or tested positive for H5N1?_
+> 
+> _Is it known if the milk that tested positive for H5N1 from Raw Farm by CDFA's testing was infectious?_
+> 
+> ...
+> 
+> Alex, we have not seen symptomatic cows at Raw Farm. 
+> 
+> Could you clarify your second question?
+> 
+> ...
+> 
+> _Thank you for  getting back to me._
+> 
+> _On the second, wondering if there’s a way to describe the amount of virus that was found in the milk. _
+> 
+> _I saw that Raw Farm said it was only a very small trace amount, too little to be infectious._
+> 
+> ...
+> 
+> There is lab testing pending to learn more about that. 
+
 # December 4, 2024
 
 ## Alameda County spokesperson on bird flu investigation
