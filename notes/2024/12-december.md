@@ -17,6 +17,10 @@ permalink: /notes/2024/12
 - **Attribution:** Austin Wingate, Alameda County Health spokesperson
 - **Date:** received December 4, 2024
 
+> _Just checking in again to see if any update on whether additional cases have been identified, and if the exposure to wild birds is still being investigated._
+> 
+> ...
+
 > Thank you for your email. Our investigation is complete, and no other cases were identified. The source of the exposure remains unknown. Also, Clade 2.3.4.4b is the clade that’s been circulating in the U.S. since 2022, in wild birds/mammals and domestic livestock and poultry.
 
 ## Raw Farm emails on pet food
