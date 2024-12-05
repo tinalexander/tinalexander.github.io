@@ -31,7 +31,7 @@ permalink: /notes/2024/12
 > 
 > _Thank you for  getting back to me._
 > 
-> _On the second, wondering if there’s a way to describe the amount of virus that was found in the milk. _
+> _On the second, wondering if there’s a way to describe the amount of virus that was found in the milk._
 > 
 > _I saw that Raw Farm said it was only a very small trace amount, too little to be infectious._
 > 
