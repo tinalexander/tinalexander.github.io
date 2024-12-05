@@ -11,6 +11,14 @@ permalink: /notes/2024/12
 
 # December 4, 2024
 
+## Alameda County spokesperson on bird flu investigation
+
+- **Source:** email
+- **Attribution:** Austin Wingate, Alameda County Health spokesperson
+- **Date:** received December 4, 2024
+
+> Thank you for your email. Our investigation is complete, and no other cases were identified. The source of the exposure remains unknown. Also, Clade 2.3.4.4b is the clade that’s been circulating in the U.S. since 2022, in wild birds/mammals and domestic livestock and poultry.
+
 ## Raw Farm emails on pet food
 
 - **Source:** emails
