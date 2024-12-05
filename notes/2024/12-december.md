@@ -21,7 +21,7 @@ permalink: /notes/2024/12
 > 
 > ...
 > 
-> Thank you for your email. Our investigation is complete, and no other cases were identified. The source of the exposure remains unknown. Also, Clade 2.3.4.4b is the clade that’s been circulating in the U.S. since 2022, in wild birds/mammals and domestic livestock and poultry.
+> Thank you for your email. Our investigation is complete, and no other cases were identified. The source of the exposure remains unknown.
 
 ## Raw Farm emails on pet food
 
