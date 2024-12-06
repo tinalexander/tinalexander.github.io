@@ -11,6 +11,48 @@ permalink: /notes/2024/12
 
 # December 5, 2024
 
+## FDA commissioner at gaggle, pull-aside after hearing
+
+- **Source:** gaggle, pull-aside
+- **Attribution:** Food and Drug Administration Commissioner Robert Califf
+- **Date:** occurred December 5, 2024
+
+> Question [00:02:17]
+> 
+> Do you have any big ticket items that you're trying to accomplish in the month and a half left that you have the FDA?
+> 
+> Robert Califf [00:02:23]
+> 
+> Well, some of them were here, front of package and healthy. The nicotine standard is another big one that's in play right now. You'll hear more about that.
+> 
+> And, this sounds kind of, so what, but we have many, many guidances that the industry is dependent on that need to get through the system.
+> 
+> Not because any one of them is-- but they're just making it possible for industry to do its work in a way that's safer and more effective.
+> 
+> So I wouldn't pick one of those specifically, a good example would be the issue of hair straightner and formaldehyde. It's a pretty basic thing.
+> 
+> So just needs to get done.
+> 
+> ...
+> 
+> Robert Califf [00:00:30]
+> 
+> It's very difficult to give a specific amount of money because the work needs to be adjusted for the specific purpose that Congress wants us to do, but in the area of chemical safety, it would at least take a doubling of the budget to just really begin to address the numerous chemicals that derived food and make sure that they're safe.
+> 
+> And when it comes to nutrition, we have a very meager budget for nutrition. Yet, as we discussed today, this is harming a lot of people, the food that they're eating. So it would a large amount if we really want to address nutrition.
+> 
+> ...
+> 
+> Robert Califf [00:00:30]
+> 
+> It's very difficult to give a specific amount of money because the work needs to be adjusted for the specific purpose that Congress wants us to do, but in the area of chemical safety, it would at least take a doubling of the budget to just really begin to address the numerous chemicals that derived food and make sure that they're safe.
+> 
+> And when it comes to nutrition, we have a very meager budget for nutrition. Yet, as we discussed today, this is harming a lot of people, the food that they're eating. So it would a large amount if we really want to address nutrition.
+
+## Senate committee hearing with FDA officials
+
+- **Source:** 
+
 ## Ohio health department statement on pertussis
 
 - **Source:** emailed statement
