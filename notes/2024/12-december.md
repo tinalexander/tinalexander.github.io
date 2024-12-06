@@ -130,7 +130,17 @@ permalink: /notes/2024/12
 >  His focus on these macro big issues is paradigm shifting. So that's where I think the opportunity is. And, what the long term goal is? The long term goal is we have a healthcare industry that's not incentivized for Americans to be sick. That doctors are talking more when a child's depressed about going outside and exercising and eating healthy.
 > 
 > That we're working closer with small and large farmers, to make American food, the most nutritious in the world and change our subsidy system. 
+>
+> ...
 > 
+> Donald Trump Jr [00:35:58]
+> 
+> I was actually with Bobby earlier today, briefly. It's great to actually see that, because I was one of those guys again, behind the scenes, like you were, and then Tucker and I got together to really try to solidify that relationship and make it happen. And they got along great. 
+> 
+> And then I'm sitting there be like, okay, now I made a promise. I made a handshake. Like you're going to be like in this thing. And like, and he is.
+> 
+> So it's not like one of these, well, the way we see in politics, so much where you make a promise and then you have no intention of delivering, right.
+
 > ...
 > 
 > Calley Means [00:37:24]
