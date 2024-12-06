@@ -43,11 +43,15 @@ permalink: /notes/2024/12
 > 
 > ...
 > 
-> Robert Califf [00:00:30]
+> Question [00:02:19]
 > 
-> It's very difficult to give a specific amount of money because the work needs to be adjusted for the specific purpose that Congress wants us to do, but in the area of chemical safety, it would at least take a doubling of the budget to just really begin to address the numerous chemicals that derived food and make sure that they're safe.
+> Is it frustrating that only now food is such a big topic? I remember a year or two ago you were at hearings complaining nobody was asking you about nutrition. So is it frustrating that it's only a big issue now?
 > 
-> And when it comes to nutrition, we have a very meager budget for nutrition. Yet, as we discussed today, this is harming a lot of people, the food that they're eating. So it would a large amount if we really want to address nutrition.
+> Robert Califf [00:02:30]
+> 
+> Well, in my job, I don't-- I can't allow myself to get frustrated, but this is the issue of nutrition and the diet of Americans has been a hot button issue for me for over two decades, because I'm a cardiologist. You see it. 
+> 
+> So it's great that now attention is coming to it. I'll just take it as a good thing that we're finally getting to where we need to be.
 
 ## Senate committee hearing with FDA officials
 
