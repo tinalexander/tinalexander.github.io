@@ -11,6 +11,218 @@ permalink: /notes/2024/12
 
 # December 6, 2024
 
+## Calley Means in interview with Donald Trump Jr
+
+- **Source:** [video](https://rumble.com/v5wdsm5-americas-health-crisis-its-time-to-maha-interview-with-calley-means-trigger.html)
+- **Attribution:** "TRIGGERED" podcast
+- **Date:** published December 5, 2024
+
+> Calley Means [00:13:42]
+> 
+> As my sister and I started talking with Tucker about this, talking with Megyn Kelly, going on the podcast, seeing it resonate, we met Bobby Kennedy and Susie Wiles and Vince Haley from the Trump campaign, more than a year ago, reached out. 
+> 
+> They said the president's focused on this. We're thinking about it. And my sister and I shared some talking points. So many people don't know this, but your dad spoke extremely eloquently about this issue, about why kids are getting so sick throughout the campaign. Actually worked with Vince and Susie and they were really inspired by your dad's focus on this. But he was saying that since the beginning that we got to figure this out.
+> 
+> And then got to know Bobby as well. Obviously Bobby, to me, he was hitting on a MAHA MAGA message. I mean, to me, there were two candidates in this campaign that were talking about a much wider thing than partisan politics, but really just the corruption of our systems and what Bobby did really well is talk about this incentive of kids to be sick and how that's actually representation of the swamp.  
+> 
+> So there was a moment, after the Butler shooting, I was actually talking with Tucker and I've become really-- Tucker, as you probably know, is really focused on this issue. And we had an idea of, maybe Bobby and your dad, maybe that was the moment where they could talk. 
+> 
+> So was able to facilitate that connection to talk about unity right after the Butler shooting had a small insight into those discussions. And Don, you were much closer to this, but from my limited vantage point, it was pretty inspiring just seeing them connect on this emotional level about why so many kids have prediabetes, about why we have the most obese country among kids in the world, about why we spend three times more in healthcare about have six years less life expectancy. 
+> 
+> They really talked about these issues. And then I think what you saw with this MAHA movement. I mean, when Bobby Kennedy came out there on the stage in Phoenix, it was the loudest cheer I ever heard. And the way the MAGA movement embraced Kennedy was not surprising to me. But certainly, I think a shift in American politics.
+> 
+> ...
+> 
+> Calley Means [00:18:44]
+> 
+> We bureaucratically have outsourced our medical codes to the American Medical Association. This is not in a law. It's just what bureaucrats have decided to do over the previous decades. 
+> 
+> And the American Medical Association is a pharma lobbying group. That's what it is. 
+> 
+> So we have outsourced on a bureaucratic level, the biggest part of our economy to a pharmaceutical lobbying group that just demonstrably profits when people are sick. 
+> 
+> So that to me, Don is what the big promise of MAHA is before we get into any bans or any type of real policy change. 
+> 
+> We don't need to talk about Obamacare. Let's just get the corruption out of our scientific regulatory and government bodies, hopefully working close with the Vivek and Elon.
+> 
+> ...
+> 
+> Calley Means [00:23:41]
+> 
+> So we need to start asking why?
+> 
+> Well, you just look at the basic pillars. Obviously, we look at our food, 70% of our food that a kid eats and what we eat in America is ultra-processed. 
+> 
+> Now nobody's trying to ban our sodas. You know, nobody's trying to take anything away.
+> 
+> But it is worth asking, should we be subsidizing this stuff? We subsidize it hundreds of millions of dollars. Should we be recommending it? The USDA actually issued a report just a year ago saying that a child's diet 93% in ultra processed food could be healthy and they recommend added sugar as a healthy part of a two old's diet. 
+> 
+> So before we get into any questions of bans whatsoever, I think it's conservative, liberal, whatever, it's just common sense that we shouldn't be recommending or subsidizing. When you talk about the subsidies, I think the numbers now 18% of SNAP, our food stamp programs, which is actually the fourth largest government program entitlement program after Social Security, Medicare, Medicaid, it's a huge program. 18% of the entire program goes to sugary drinks. 
+> 
+> Okay, no other country's doing that. So we're basically subsidizing and recommending food that's made in a lab. And my big point there, Don is this is by design. I mean, again, we're all free market people, but like it's also incumbent to call this out. 
+> 
+> ...
+> 
+> Calley Means [00:25:45]
+> 
+> We could be incentivizing American farmers to reverse prediabetes and get people on better food programs. Like, it's not ideological to just ask if people are sick, what's the best way to reverse why they're sick. Drugging everyone is not the answer, but that's what we do right now.
+> 
+> ...
+> 
+> Calley Means [00:26:22]
+> 
+> So we've got the devils bargain between the food industry making us sick and the healthcare industry profiting. 
+> 
+> I think frankly, this could be a golden age for pharma and health innovation with deregulation, but, there's going to have to be some conflicts attacking there.
+> 
+> When it gets to the food side. When it gets to your question, I think this is my message, Don. We are on the verge of a golden age of American farming. 
+> 
+> We are in the verge of a golden age. No farmers happy. I'm speaking to the lead lobbyists for the farm bureau. They're attacking Bobby, you know, publicly. They all think, you probably talked to them, nobody's really happy with what's happening to American farmers. Whether you're a big farmer or small farmer. 
+> 
+> So behind closed doors, everyone's kind of scraping for pennies with the current subsidy system, but the farm bill, our subsidy system, again, the U.S. Department of Agriculture, 85% of budget is SNAP, right? It's basically a subsidy department, right. We have massive subsidy structures for food. Nobody agrees that it's right. 
+> 
+> So, my personal vision with Brooke Rollins and Bobby and various stakeholders in your dad's administration is we can actually bring stakeholders together. This is not brute force. This is not coming down hard on farmers.
+> 
+> ...
+> 
+> Calley Means [00:29:29]
+> 
+> I think there's been calls to maybe do a one year extension of the farm bill and just think about how to change the incentive and regulatory system. 
+> 
+> The fact of the matter is we have a rigged market right now with hundreds of billions of dollars of agriculture incentives. 
+> 
+> You know, the Bobby Kennedy vision, what President Trump's talked about is actually redefining healthcare to get to the root cause I actually think more healthcare dollars could go to food. You know, we actually have to support American farmers.
+> 
+> When you start peeling the onion and Don, I talk to members of Congress, senators, they don't even understand this. A lot of our meat processing is coming from China. Most of the pesticides we spray on our crops are coming from China. 
+> 
+> There's really dark forces here that nobody's really that happy with. So as long as the message is let's support American farmers, the simple inescapable reality is that we've got to rethink about the subsidies and my pitch there would be absolutely, we should hold bad actors accountable, but I think we need a forward looking agenda where we kind of have some grace looking backwards on how we got here.
+> 
+> ...
+> 
+> Calley Means [00:31:08] 
+> 
+> When you get into tactics there, where my head goes, GRAS standards, I encourage everyone to look them up. They make no sense, it's not conservative or liberal free market and that we have self-policing or chemicals in our food. 
+> 
+> I think I'm optimistic that actually a lot of stakeholders are going to come to the table and just self-police themselves and say we shouldn't be having some of these toxic ingredients. 
+> 
+> And then I know Don you're excited about Jay Bhattacharya, I think I cannot overstate how important having a fearless leader at the NIH is. Because before we get into bans, before we get into any policy discussion, let's just get a report on glyphosate. It's being phased out of countries?
+> 
+> ...
+> 
+> Calley Means [00:32:36] 
+> 
+> So having someone come in just before any policies, just like, Hey, can we figure out what's going on with the pesticides? Hey, can we figure out what these 10,000 chemicals are doing? 
+> 
+> Getting the truth then changes the policy options. 
+> 
+> So I think Jay at NIH is an absolutely transformative move. That's going to impact policy in the years to come.
+> 
+> ...
+> 
+> Calley Means [00:34:49] 
+> 
+> As Bobby said, your dad has kept every single promise he's made and he is so committed to this issue. 
+> 
+> It's just having his light on the issue, having him say the words childhood chronic disease crisis, it gives an ability-- we've heard from senators who are really excited. 
+> 
+> It just like, almost like they can blame him for like maybe going against farm a little bit and maybe changing the paradigm a little bit.
+> 
+>  His focus on these macro big issues is paradigm shifting. So that's where I think the opportunity is. And, what the long term goal is? The long term goal is we have a healthcare industry that's not incentivized for Americans to be sick. That doctors are talking more when a child's depressed about going outside and exercising and eating healthy.
+> 
+> That we're working closer with small and large farmers, to make American food, the most nutritious in the world and change our subsidy system. 
+> 
+> ...
+> 
+> Calley Means [00:37:24]
+> 
+> We've got to deliver unimpeachable wins for the Trump administration in the next, in the first hundred days. And I call the goal of the next four years is changing consciousness. 
+> 
+> The biggest win is that we basically this kind of MAHA feeling, I think you've had, so many voters have had, they've been brought in the fold. They just feel like something isn't right. And if we can change, you know, in the next couple years that we really can't go back to this sick care system, but really have a healthcare system and incentives that prioritize health will be in a victory. 
+> 
+> So what can we do? What, what can we do immediately? 
+> 
+> I think it starts with getting the research right, and getting the conflicts out. And those are two principles we're talking about that we're talked about a lot in the campaign, so I'm just going to list some potential ideas. 
+> 
+> Obviously Bobby and his team and President Trump's team are working on the specifics, but I'll just give a couple ideas. 
+> 
+> Like why does the CDC have a nonprofit that allows pharma to bribe that agency hundreds of millions of dollars? That can be cut immediately. Why does the FDA and NIH have the same nonprofit that you can bribe it? 
+> 
+>  Why does the USDA, as I said, allow their nutrition guideline committee members to receive money from food and pharma companies? Why does the FDA guidance panels that approve our drugs have no conflicts of interest rules to speak of at all? 
+> 
+> Why is there no revolving door where a lot of people from the first term, who are telling your dad probably that they're going to fight the good fight and fight the MAGA way, they go straight to industry, right? You can actually disclose some of these loopholes. 
+> 
+> And I can't stress there's enough. If you change the incentives of these industries, there's no bigger swamp than healthcare. HHS is the largest and most expensive and fastest growing department budget in the government. This is the center of the swamp. 
+> 
+> The second I'll just reiterate is the NIH.
+> 
+> Before talk of major policies, people are like, oh is Bobby gonna be doing some bans? Well, some of this stuff, frankly, probably it's not the free market that the stuff is even in our food. I mean, I think correcting a broken market isn't anti-free market, but like before, even any talk of that, let's have Jay Bhattacharya shift the NIH budget to answer the simple question your dad asked during the campaign, why are we getting sick? That was really powerful. 
+> 
+> I almost was brought to tears when I saw your dad, like, say that in front of Bobby, why are kids getting sick? Now that's a simple question. But the NIH, 90% of their budget right now goes to pharmaceutical, basically R and D. It's basically saying everyone's getting sick, but we're going to figure out this bandaid for Alzheimer's. We're gonna figure out this bandaid for diabetes. This-- pharma should like-- pharma's great. Like they can do their own R and D. 
+> 
+> What Jay is talking about doing is he's gonna steer the entire agency to answer that question. 
+> 
+> And then, there's these hot topics and get into the food. Is it the over prescription of pharmaceuticals? Is it our sleep? Is it very, you can do studies and actually get definitive statements on why we're getting sick. 
+> 
+> What's going to happen, Don, is people are going to go, that's anti-science to even ask that question, we've settled that issue. It's all these people that have already made the dietary guidelines. They've already made the pharmaceutical guidelines.
+> 
+> So I think one thing Bobby and Trump are saying is like, listen, we're not trying to take any drug away. We're not trying to take any-- but we should get to the truth. Like, that's a principle. We should have unbiased.
+> 
+> ...
+> 
+> Calley Means [00:41:11]
+> 
+> The other thing, Jay, and this is getting into weeds, but I think it's very important. It can happen day one, is establish the center at the NIH, just do replicability studies, 50% of studies that underlie drug approvals in this country can't be replicated. They can't redo the study. 
+> 
+> It's basically we have an epidemic. This is Jay, really talk about this, a fraudulent science. 
+> 
+> So, you know, your dad is attacked and I'm sure in many cases for being anti-science. And I'll tell you Don, from my limited vantage point behind closed doors, I have never heard an ideological statement ever uttered in a Kennedy meeting or meeting with the Trump staff. 
+> 
+> It is literally people trying to figure out how to get back to foundational science. It is literally trying to figure out with the NIH budget, how to arm the best scientists in the world and unburden them from any restrictions in academic freedom to get to core questions. 
+> 
+> There's so much bureaucracy right now, preventing that from happening. And it truly is-- it's getting back to science, because I think the enemies hide in complexity and the enemies hide and you know, I think all these DEI rules in science that you have to study certain areas and study certain-- we should just figure out why we have a 50% childhood obesity or overweight rate, things like that. 
+> 
+> ...
+> 
+> Calley Means [00:42:26]
+> 
+> Dr. Oz is working with a lot of people. He gets it. And that's the biggest part of the federal budget. That department. 
+> 
+> So just figuring out how to basically change the standard of care to where your kid, if you have a kid in high school, you probably see this right. 
+> 
+> That doctor's going quick to the prescription pad. Right. You probably see with your high school, it's just like SSRIs prescribed like candy, statins, it's just like, that's because of CMS. That's because of Medicare Medicaid, which then goes to private insurance. And it all comes from the standard of care. 
+> 
+> So when you have the right research, I don't know, maybe that kids are getting obese, because they're eating too much ultra processed food and then you have more standards of care. Okay. Instead of jamming an Ozempic into kid's arm, who's obese, maybe we can put them on a dietary intervention. Maybe we can put them on an incentivized exercise. You can start then changing the standards of care. So that's really important. 
+> 
+> And the last thing I'll say the other major agency, the CDC can't stress this enough. Infectious disease is important. Infectious disease is important, but that's 8% of deaths, right? 92 percent's chronic. They have a mandate on chronic disease, the chronic disease and their mandate is, infectious and chronic disease. 
+> 
+> So of course having the best standards on infectious disease and being prepared for future pandemics is important, but steering the overall posture of the CDC and our overall health authorities to reversing the chronic disease crisis as a general policy emphasis, that will have a big impact as well.
+> 
+> ...
+> 
+> Calley Means[00:59:56]
+>  
+> Americans, listen to doctors and the surgeon general, I don't think we, many of us would disagree that the surgeon general report saying smoking isn't great. 
+> 
+> Probably, that wasn't-- that led to a plummeting of smoking, right? That led to various policy makers to make decisions. We haven't banned it, but it's led to, and that was just one government bravery.
+> 
+> The food pyramid, our diet radically changed when the government said to eat more carbs and sugar, it went up 20% in the next 10 years. 
+> 
+> So, I can't emphasize enough with Jay and with Marty at the FDA. And with this day one initiative your dad's talked about with the chronic disease reversal panel, just bringing attention to this issue and actually just giving the right guidance. 
+> 
+> I'm telling you if Dr. Fauci or ever, people like that yeah, stood up during COVID with the head of the NIH, the head of Harvard medical school, and they said, we're dying at 16% rate of worldwide COVID deaths, 4% of the population because of our immune system. And we got to harden up and think about our metabolic health, we would've had a transformation. We listened to medical leaders. 
+> 
+> ...
+> 
+> Calley Means [01:01:21]
+> 
+> I just ask everyone to keep up the good vibes for Bobby and your dad. I think we have this positive, just incredibly optimistic vision on health. 
+> 
+> And just so grateful to be a small part of knowing Bobby and the Trump team and seeing them just absolutely crank on this issue.
+> 
+> Donald Trump Jr [01:01:37]
+> 
+> Hopefully you and your sister become a big part of that team and I think that'd be awesome and I really appreciate the time and everything that you're doing. 
+
 ## Calley Means in interview with Fox News
 
 - **Source:** [video](https://www.foxnews.com/video/6365382988112)
