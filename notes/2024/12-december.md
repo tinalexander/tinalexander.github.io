@@ -9,6 +9,64 @@ permalink: /notes/2024/12
 
 <br>
 
+# December 6, 2024
+
+## Calley Means in interview with Fox News
+
+- **Source:** [video](https://www.foxnews.com/video/6365382988112)
+- **Attribution:** published by Fox and Friends
+- **Date:** published December 1, 2024
+
+> Calley Means [00:01:00]
+> 
+> Those are not ingredients by and large, that are in Twinkies that are made in any other country. 
+> 
+> I want to be clear, Bobby Kennedy's not saying he's gonna take the Twinkies away, but we should be starting to ask questions, as 77% of young adults aren't eligible to join the military in the United States due to metabolic health, due to food.
+> 
+> We have these things called GRAS standards, no other country has them, food companies can self police. You know, that's not conservative, it's not liberal. It just doesn't make sense. We have 10,000 ingredients that aren't allowed in European foods. 
+> 
+> Even more alarmingly. Rachel, we subsidize this food. Again, Twinkies should exist, but I was just on Amazon right before this show, they're available for SNAP. You can buy them with food stamp dollars right now, Twinkies.
+> 
+> Additionally, Twinkies actually qualify for federally funded school lunch programs. There's no nutrition or sugar limits on federally funded school lunches. 
+> 
+> The last thing I'll mention, the USDA essentially recommends Twinkies for two year olds. The USDA, right now our guidelines, which are very corrupt say that 10% of a two year old's diet can be added sugar. 
+> 
+> So by the letter of the nutrition guidelines, we're actually recommending Twinkies to kids. 
+> 
+> So as you said, there's a real optimistic vision here. I think the food industry's not fully understanding what President Trump and RFK are saying. They're saying, let's get all stakeholders together. Let's have American food be the most nutritious food in the world and the best food in the world.
+> 
+> ...
+> 
+> Calley Means [00:02:48]
+> 
+> I don't think it should be called red 40. It should be called crude oil. That's what red 40 is. It's crude oil with a couple other molecules. 
+> 
+> Let me get into this corruption, because as Donald Trump and-- President Trump and RFK have said, the first step is to get corruption out of the science. 
+> 
+> So the USDA nutrition guidelines committee. You can't even believe this, but they're able to accept money from food and pharma companies, 19 out of the 20 advisors in that committee accept money from those industries. 
+> 
+> You can't even make this up, but 30% of President Biden's committee accepted money from GLP-1 makers from Ozempic, from a Danish pharmaceutical company, Novo Nordisk. 
+> 
+> So you have just innate conflicts of interest that infect the USDA nutrition guidelines, infect our federal school lunch guidelines, infect our SNAP program. 
+> 
+> So before we talk about any policy whatsoever, let's just reconstitute that nutrition guidelines committee and say you cannot accept money from food or pharma companies, if you're going to 
+> 
+> be making recommendations for our kids.
+> 
+> ...
+> 
+> Calley Means [00:04:07]
+> 
+> I think the connection between MAHA and DOGE is a huge opportunity. Elon Musk at Vivek Ramaswamy have been tweeting about this, actually.
+> 
+> The biggest part of our budget and the fastest growing part of our budget is healthcare costs. And that is because we're getting sick. 
+> 
+> It's not the technicalities of policy. We're the sickest country in the world and that's what's driving up so much inefficiency. 
+> 
+> So actually making our healthcare system more efficient, asking how we can spend money more effectively, that's actually asking how we can get healthier. 
+> 
+> So I think this connection between the DOGE effort and Bobby Kennedy's HHS with incredible picks like Jay Bhattacharya, Marty Makary, Jim O'Neil, we can really do a lot and I can tell you there's close collaboration happening between those two organizations.
+
 # December 5, 2024
 
 ## Sen Bernie Sanders in interview with Natalie Brand
