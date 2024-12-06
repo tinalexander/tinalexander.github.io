@@ -11,6 +11,93 @@ permalink: /notes/2024/12
 
 # December 5, 2024
 
+## Sen Bernie Sanders in interview with Natalie Brand
+
+- **Source:** interview
+- **Attribution:** by CBS News Correspondent Natalie Brand
+- **Date:** occurred December 5, 2024
+
+> 00:05:37 Natalie Brand 
+> 
+> So President-elect Trump's pick for HHS, RFK Jr's food policy and taking on the food companies is something he's talked about. Do you think that you could work with him on this issue?
+> 
+> 00:05:51 Sen Bernie Sanders
+> 
+> Well, look, from what I-- I've not talked to Mr. Kennedy, in a number of years actually. I think what he's
+> saying about the food industry is exactly correct.
+> 
+> I think you have a food industry concerned about their profits, could care less about the health of the
+> American people. I think they have to be taken on.
+> 
+> I think on the other hand, when you talk about, when Mr. Kennedy talks about taking fluoride out of our
+> water system, I think what scientific community will tell you that would be a disaster, in terms of dental
+> health in this country.
+> 
+> His views on vaccine, very wrong, in so many ways. So we will see how the process unfolds.
+> 
+> So I think what he's saying about the food industry makes sense to me, a lot of other things that he's
+> saying are extremely dangerous.
+> 
+> 00:06:41 Natalie Brand
+> 
+> How are you preparing for confirmation hearings?
+> 
+> 00:06:44 Sen Bernie Sanders
+> 
+> Well we are preparing. We'll be prepared to ask the right questions and it's not only the confirmation
+> hearings, it will be discussions that we have behind close doors as well.
+> 
+> 00:06:58 Natalie Brand
+> 
+> At this point, have you made up your mind or you're going to go through the process?
+> 
+> 00:07:01 Sen Bernie Sanders
+> 
+> No, I haven't.
+> 
+> 00:07:01 Natalie Brand
+> 
+> Any other health related, as the chair of HELP, are there any other health related picks, agency picks
+> that you're concerned about?
+> 
+> 00:07:10 Sen Bernie Sanders
+> 
+> Well, I think I know Kennedy, somewhat over the years. I do not know his other picks. I'm going to have
+> to sit down and talk with them.
+> 
+> The other thing I think that's important is Trump over the years, and Kennedy himself has talked about
+> as a health problem, the fact that we pay by far the highest prices in the world for prescription drugs.
+> 
+> And if I'm not mistaken, Kennedy has talked about the need for Americans not to pay more than the
+> people in other countries. I think that's exactly right.
+> 
+> And I hope Trump keeps his word in terms of going forward in something that he has talked about for
+> years, substantially lowering costs of prescription drugs in this country.
+> 
+> 00:07:46 Natalie Brand
+> 
+> Are you hopeful or prepared to work with the Trump administration on those issues?
+> 
+> 00:07:49 Sen Bernie Sanders
+> 
+> We work with people who have good ideas. We will vigorously oppose them when they're wrong.
+> 
+> And there are a lot of things that come, that Trump has proposed that are dead wrong.
+> 
+> We do not need at time with massive income and wealth inequality, more tax breaks for billionaires, we
+> do not need U.S. military to be dragging people out of their homes in a kind of deportation process that
+> we have never seen, etc.
+> 
+> ...
+> 
+> 00:13:15 Question
+> 
+> If you wouldn't mind, I was curious what your thoughts are on what Senator Markey said--
+> 
+> 00:13:19 Sen Bernie Sanders
+> 
+> No, I don't want to get into Kennedy. I think I indicated that.
+
 ## FDA commissioner at gaggle, pull-aside after hearing
 
 - **Source:** gaggle, pull-aside
