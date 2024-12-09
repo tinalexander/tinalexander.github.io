@@ -11,6 +11,14 @@ permalink: /notes/2024/12
 
 # December 9, 2024
 
+## APHIS statement on H5N1 national milk testing strategy
+
+- **Source:** email
+- **Attribution:** Lyndsay Cole, Animal and Plant Health Inspection Services spokesperson
+- **Date:** received December 9, 2024
+
+> USDA expects first round of samples to be submitted the week of Dec 16th. We also expect the first silo sample results before the end of the calendar year.
+
 ## Santa Clara County statement on Raw Farm bird flu
 
 - **Source:** emailed statement
