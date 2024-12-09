@@ -9,6 +9,16 @@ permalink: /notes/2024/12
 
 <br>
 
+# December 9, 2024
+
+## Santa Clara County statement on Raw Farm bird flu
+
+- **Source:** emailed statement
+- **Attribution:** Santa Clara County Public Health Department
+- **Date:** received December 9, 2024
+
+> “The samples were positive for H5, well beyond the level of detection.”
+
 # December 6, 2024
 
 ## Calley Means in interview with Donald Trump Jr
