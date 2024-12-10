@@ -9,6 +9,16 @@ permalink: /notes/2024/12
 
 <br>
 
+# December 10, 2024
+
+## California Department of Public Health statement on raw milk and Marin County
+
+- **Source:** emailed statement
+- **Attribution:** Grant Boyken, California Department of Public Health spokesperson
+- **Date:** received December 10, 2024
+
+> Since announcing multiple recalls of raw milk due to contamination with bird flu, state and local public health experts have received reports of illnesses from 10 individuals who reported drinking raw milk. Initial county and state public health laboratory testing has not identified any positive bird flu infections in these individuals. One child in Marin County tested positive for influenza A and has recovered from their illness. Additional testing is underway to assess whether this infection was bird flu or seasonal flu. The California Department of Public Health (CDPH) and Marin County Health and Human Services are working with the Centers for Disease Control and Prevention (CDC) on this investigation and will provide updates as they are available. A robust history of scientific study has documented that pasteurization kills bacteria and viruses, like influenza, in milk. Choosing pasteurized milk and products made with pasteurized milk is the best way to keep you and your family safe. For more information see recommendations from the California Department of Public Health.
+
 # December 9, 2024
 
 ## APHIS statement on H5N1 national milk testing strategy
