@@ -9,6 +9,16 @@ permalink: /notes/2024/12
 
 <br>
 
+# December 11, 2024
+
+## Marin County Health and Human Services on case tied to raw milk
+
+- **Source:** email
+- **Attribution:** Lisa Santora, Marin Health & Human Services health officer
+- **Date:** received December 11, 2024
+
+> We are just following up to see you in you need any additional information for your reporting on this possible case of avian flu.  I think our press release answered your initial questions. We were contacted by a local ED physician to investigate a suspect case of avian flu in a child who presented with fever and vomiting after drinking raw milk. The patient was not hospitalized. If CDC can sequence the specimen, we should have the results by tomorrow.  Thank you for ongoing coverage of this emerging public health issue.
+
 # December 10, 2024
 
 ## California Department of Public Health statement on raw milk and Marin County
