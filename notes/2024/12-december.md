@@ -36,6 +36,64 @@ permalink: /notes/2024/12
 > A mother gets that vaccine, and they will be boosted presumably against prefusion F, but they should have many antibodies that bind prefusion F. So all of those antibodies should be boosted against prefusion F. 
 > 
 > And so a maternal vaccination would not exactly mimic infection, but it would be a lot more like infection than just receiving a monoclonal antibody, because it would be a very diverse antibody response.
+> 
+> ...
+> 
+> Jay Portnoy, FDA
+> 
+> One other question, the infants who did have the severe disease and were hospitalized, were there any risk factors for those infants that differentiated those from the ones who weren't hospitalized other than getting vaccine or not? Like, did they have atopic dermatitis? Was there a family history of allergy? Were they predisposed to a TH2 type of response?
+> 
+> Matthew Snape, Moderna
+> 
+> Just to look at these children again, I can tell you that all children were -- the inclusion exclusion criteria were very strict. These children did not have underlying conditions. They were all born at term. They did not have any history of wheezing or any individual concerns at that level. 
+> 
+> And I'll actually bring doctor Saez-Llorens if you want to comment further about the medical history of these participants.
+> 
+> Xavier Saez-Llorens, Moderna
+> 
+> Hello to everybody. They were previously healthy infants. And exclusion criteria were very clear and not enrolled patients with risk factors. 
+> 
+> ...
+> 
+> Matthew Snape, Moderna
+> 
+> We -- the numbers are small, we agree. It was clear there was a trend here that meant that we couldn't progress further dosing and enrollment, I think that was the right decision, but the numbers are small.
+> 
+> We've not found any likely mechanism, we've not found the likely mechanism of action for these findings, if they are confirmed. And we are gathering more data to understand these findings and we'll be sharing the data with the public as it becomes available. 
+> 
+> And we welcome the input of the VRBPAC today for suggestions for possible further research to elucidate mechanisms of action and we'll be engaging with the broader scientific and regulatory community to understand these results.
+> 
+> ...
+> 
+> Mark Connelly, FDA
+> 
+> At the time of the study pause, part B cohorts 3 and 4 were fully enrolled and participants had received 2 of 3 study doses. Part B cohorts 5 and 6 and part C were enrolling and participants have received one study dose. The DSMB was convened for an ad hoc meeting and recommended continued study pause. 
+> 
+> The FDA was notified of the study pause and the IND was placed on clinical hold. 
+> 
+> A partial hold on enrollment of children less than two years of age and RSV naive children 2 years to less than 5 years of age was implemented for all pediatric studies under U.S. IND with the exception of studies using live attenuated RSV vaccines. 
+> 
+> The sponsor at the DSMB's recommendation established a blinded clinical assessment team to monitor for additional cases of significant RSV disease and a post hoc definition for cases of clinically significant severe or very severe RSV lower respiratory tract infection, which I'll refer to hereafter as severe slash hospitalized RSV cases, was established to better identify new RSV cases of interest.
+> 
+> ...
+> 
+> Mark Connelly, FDA
+> 
+> In one clinical study, a numerical imbalance in severe slash hospitalized RSV cases was observed in children 5 months to less than 8 months of age who received an RSV only vaccine or combination RSV plus human metapneumovirus vaccine, as compared to placebo. 
+> 
+> Nonclinical and clinical safeguards were in place for this study, based on our understanding of VAERD following the formulin inactivated RSV vaccine. 
+> 
+> The mRNA vaccine construct was designed and non-clinical data were assessed prior to the clinical study to mitigate the risk of VAERD. 
+> 
+> Preliminary immunogenicity data suggest differences in the severe slash hospitalized RSV cases observed in the study, as compared to formulin inactivated RSV VAERD cases. Again, characterization of these cases is not complete. 
+> 
+> The implication of the observed imbalance for other pediatric RSV vaccine programs are uncertain. 
+> 
+> The partial hold on enrollment of children less than 2 years of age and seronegative individuals 2 through 5 years of age remains in place for pediatric clinical development programs for RSV vaccines under U.S. IND, other than live attenuated RSV vaccines.
+> 
+> ...
+
+
 
 # December 11, 2024
 
