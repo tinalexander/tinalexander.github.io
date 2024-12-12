@@ -92,16 +92,32 @@ permalink: /notes/2024/12
 > The partial hold on enrollment of children less than 2 years of age and seronegative individuals 2 through 5 years of age remains in place for pediatric clinical development programs for RSV vaccines under U.S. IND, other than live attenuated RSV vaccines.
 > 
 > ...
+> 
+> Adam Berger, VRBPAC
+> 
+> I'm curious if you've actually evaluated any of the other development programs to see if they're having similar results to what we're hearing today.
+> 
+> Mark Connelly, FDA
+> 
+> As of today, we have not been notified of anything in the other development programs, but of course, we are monitoring and in contact with them as well.
+> 
+> ...
+> 
+> Arnold Monto, VRPBAC
+> 
+> I think we are confronted by a very complicated situation. 
+> 
+> We know that passive acquisition of antibody is protective, highly protective, and does not produce severe disease in any way. 
+> 
+> We now have a platform which should be only inducing antibody formation, which I think it's pretty-- the right antibody, the prefusion antibody. I think it's very clear that there is a safety signal and the trials cannot continue, at least in the youngest age group.
+> 
+> I don't see this, based on our understanding and our ability to develop any kind of new markers for severity, that we can stop or should stop development of potential vaccines using other platforms because we really don't understand the relationship of the platform to the severity, nor different antigenic conformations. Certainly the stabilized prefusion would be the one to follow. 
+> 
+> Therefore, just cutting to the discussion topic, I think this needs to be done a vaccine platform by vaccine platform basis, and to continue with the very careful age deescalation and pre-infection, previous infectiou approach, but to do it with great caution and to make sure that if there is a signal, it is caught and appropriately handled. 
+> 
+> ...
 
-Adam Berger, VRBPAC
 
-I'm curious if you've actually evaluated any of the other development programs to see if they're having similar results to what we're hearing today.
-
-Mark Connelly, FDA
-
-As of today, we have not been notified of anything in the other development programs, but of course, we are monitoring and in contact with them as well.
-
-...
 
 # December 11, 2024
 
