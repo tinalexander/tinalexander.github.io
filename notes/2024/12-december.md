@@ -9,6 +9,22 @@ permalink: /notes/2024/12
 
 <br>
 
+# December 12, 2024
+
+## Food and Drug Administration committee meeting on RSV vaccines
+
+- **Source:** [livestream](https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-12-2024-meeting-announcement)
+- **Attribution:** Food and Drug Administration's Vaccines and Related Biological Products Advisory Committee
+- **Date:** occurred December 12, 2024
+
+> David Kaslow, FDA
+> 
+> Second, and I want to be clear about this, none of the RSV vaccine candidates based on live attenuated RSV vectors, are currently on clinical hold.
+> 
+> ...
+
+
+
 # December 11, 2024
 
 ## Marin County Health and Human Services on case tied to raw milk
