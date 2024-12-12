@@ -117,6 +117,21 @@ permalink: /notes/2024/12
 > 
 > ...
 
+Sarah Meyer, CDC
+
+I think my takeaways from today are we had some very well thought out safeguards put in place that were based on prior experiences of vaccine candidates, multiple global groups looked at this issue, all came to kind of similar recommendations around how to study these vaccines. So this was a very well thought out process.
+
+But again, as others have pointed out, here we are talking about a safety signal and we don't really understand the mechanism why. So for me, it makes it very difficult to comment on the second question about what additional safeguards or what new ways to study this we can put in place without really understanding what we think may have happened here or why or -- why the safeguards we've put in place didn't necessarily predict severe outcomes. 
+
+So I'm really hopeful that some of the additional investigations that Moderna has discussed can shed some light on this and some of the other studies that my colleagues have recommended.
+
+So for me, it makes it very difficult to really comment on that one. 
+
+In terms of the first question though, I'll add my input on this, I do think we saw some data presented today during the open public hearing around the live virus vaccines and I think if I understood our Sanofi colleagues correctly, thousands of children have already received a vaccine in those trials and not found a safety signal.
+
+And I found that reassuring, because where we have detected safety signals, it's been in pretty small numbers of kids. And so I think that was good signs that we can develop -- that there are different vaccine technologies that may have different outcomes. So I think I would agree that we need to kind of look at these.
+
+...
 
 
 # December 11, 2024
