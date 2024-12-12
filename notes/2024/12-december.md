@@ -113,7 +113,7 @@ permalink: /notes/2024/12
 > 
 > I don't see this, based on our understanding and our ability to develop any kind of new markers for severity, that we can stop or should stop development of potential vaccines using other platforms because we really don't understand the relationship of the platform to the severity, nor different antigenic conformations. Certainly the stabilized prefusion would be the one to follow. 
 > 
-> Therefore, just cutting to the discussion topic, I think this needs to be done a vaccine platform by vaccine platform basis, and to continue with the very careful age deescalation and pre-infection, previous infectiou approach, but to do it with great caution and to make sure that if there is a signal, it is caught and appropriately handled. 
+> Therefore, just cutting to the discussion topic, I think this needs to be done a vaccine platform by vaccine platform basis, and to continue with the very careful age deescalation and pre-infection, previous infection approach, but to do it with great caution and to make sure that if there is a signal, it is caught and appropriately handled. 
 > 
 > ...
 
