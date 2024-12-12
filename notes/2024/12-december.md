@@ -22,8 +22,20 @@ permalink: /notes/2024/12
 > Second, and I want to be clear about this, none of the RSV vaccine candidates based on live attenuated RSV vectors, are currently on clinical hold.
 > 
 > ...
-
-
+> 
+> Sarah Long, VRBPAC
+> 
+> So the mother who is immunized passes on the antibody to the baby and she has received a prefusion vaccine that is not unlike nirsevimab, which is a prefusion antibody. But you said the maternal would more simulate the response of infection in the mother? Why would that be?
+> 
+> Natalie Thornburg, CDC
+> 
+> Ah, because, by the time a person is an adult, they have had many infections. And there is data to suggest that through repeated infections upon your, in your lifetime, you get a very diverse antibody response that includes neutralizing antibodies against site zero. It's not a single antibody. 
+> 
+> So nirsevimab is one single antibody that binds to prefusion F, a very specific part of prefusion F. A person might have one antibody that looks like nirsevimab, but it's one in ten thousand antibodies. So that's just one antibody that gets boosted. 
+> 
+> A mother gets that vaccine, and they will be boosted presumably against prefusion F, but they should have many antibodies that bind prefusion F. So all of those antibodies should be boosted against prefusion F. 
+> 
+> And so a maternal vaccination would not exactly mimic infection, but it would be a lot more like infection than just receiving a monoclonal antibody, because it would be a very diverse antibody response.
 
 # December 11, 2024
 
