@@ -93,7 +93,15 @@ permalink: /notes/2024/12
 > 
 > ...
 
+Adam Berger, VRBPAC
 
+I'm curious if you've actually evaluated any of the other development programs to see if they're having similar results to what we're hearing today.
+
+Mark Connelly, FDA
+
+As of today, we have not been notified of anything in the other development programs, but of course, we are monitoring and in contact with them as well.
+
+...
 
 # December 11, 2024
 
