@@ -116,23 +116,44 @@ permalink: /notes/2024/12
 > Therefore, just cutting to the discussion topic, I think this needs to be done a vaccine platform by vaccine platform basis, and to continue with the very careful age deescalation and pre-infection, previous infection approach, but to do it with great caution and to make sure that if there is a signal, it is caught and appropriately handled. 
 > 
 > ...
-
-Sarah Meyer, CDC
-
-I think my takeaways from today are we had some very well thought out safeguards put in place that were based on prior experiences of vaccine candidates, multiple global groups looked at this issue, all came to kind of similar recommendations around how to study these vaccines. So this was a very well thought out process.
-
-But again, as others have pointed out, here we are talking about a safety signal and we don't really understand the mechanism why. So for me, it makes it very difficult to comment on the second question about what additional safeguards or what new ways to study this we can put in place without really understanding what we think may have happened here or why or -- why the safeguards we've put in place didn't necessarily predict severe outcomes. 
-
-So I'm really hopeful that some of the additional investigations that Moderna has discussed can shed some light on this and some of the other studies that my colleagues have recommended.
-
-So for me, it makes it very difficult to really comment on that one. 
-
-In terms of the first question though, I'll add my input on this, I do think we saw some data presented today during the open public hearing around the live virus vaccines and I think if I understood our Sanofi colleagues correctly, thousands of children have already received a vaccine in those trials and not found a safety signal.
-
-And I found that reassuring, because where we have detected safety signals, it's been in pretty small numbers of kids. And so I think that was good signs that we can develop -- that there are different vaccine technologies that may have different outcomes. So I think I would agree that we need to kind of look at these.
-
-...
-
+> 
+> Sarah Meyer, CDC
+> 
+> I think my takeaways from today are we had some very well thought out safeguards put in place that were based on prior experiences of vaccine candidates, multiple global groups looked at this issue, all came to kind of similar recommendations around how to study these vaccines. So this was a very well thought out process.
+> 
+> But again, as others have pointed out, here we are talking about a safety signal and we don't really understand the mechanism why. So for me, it makes it very difficult to comment on the second question about what additional safeguards or what new ways to study this we can put in place without really understanding what we think may have happened here or why or -- why the safeguards we've put in place didn't necessarily predict severe outcomes. 
+> 
+> So I'm really hopeful that some of the additional investigations that Moderna has discussed can shed some light on this and some of the other studies that my colleagues have recommended.
+> 
+> So for me, it makes it very difficult to really comment on that one. 
+> 
+> In terms of the first question though, I'll add my input on this, I do think we saw some data presented today during the open public hearing around the live virus vaccines and I think if I understood our Sanofi colleagues correctly, thousands of children have already received a vaccine in those trials and not found a safety signal.
+> 
+> And I found that reassuring, because where we have detected safety signals, it's been in pretty small numbers of kids. And so I think that was good signs that we can develop -- that there are different vaccine technologies that may have different outcomes. So I think I would agree that we need to kind of look at these.
+> 
+> ...
+> 
+> Hana El Sahly, VRBPAC chair
+> 
+> This was a very involved and very stimulating discussion to a very vexing question given the small numbers, the data being not finalized in terms of the evaluation of these adverse events, etc. 
+> 
+> Since the committee that these potential safety signals, although small in numbers, however, RSV associated severe LRTI and HMPV severe associated LRTI in an HMPV slash RSV vaccine is rather compelling, as opposed to the fracture or the Kawasaki. 
+> 
+> So there is the potential safety signal, especially in the history of the 1960s, is rather compelling that the signal is likely true. But not final, but likely true, and should have been addressed with the urgency that it was addressed in terms of the sponsor and in terms of the FDA.
+> 
+> The committee, after review of the data of the mishap or the tragedy of the 1960s, the predictive model was followed however, did not really predict what the outcome would be once the vaccine moved into the seronegative infants who do have a predilection of differing immune response with potentially (inaudible) bias in general. 
+> 
+> What does it mean for different vaccine technologies? Certain technologies like the live attenuated has a track record in the thousands already and with in various I guess minor changes to the constructs and in various medical institutions or centers, so there is a reassurance that potentially it can carry its own weight so to speak, given the existing data and moving it forward with the less anxiety provoking than subunit vaccines.
+> 
+> Subunit vaccines have been tested in humans of all ages, whether it's the recombinant prefusion, the one that is just the recombinant F, and there was no safety signals in adults, a couple are already licensed, but to my knowledge none were in seronegative infants.
+> 
+> How do the events of the last few months what needs to happen for these particular vaccines to go into that sliver of the population? I am not sure, however maybe the additional data that is forthcoming from the collected samples can guide, if they do shed light, onto what was different in the immune response there.
+> 
+> Different antigenic conformations is a little harder. The stabilized pre-F is the one that is in the constructs under consideration today and it didn't seem to predict the pre-F post-F ratio was of course in favor of the pre-F but it didn't seem to have aggregated this particular signal.
+> 
+> And based on the currently available evidence, when it comes to the clinical information, so for example the clinical trials that will be resuming I'm assuming at the minimum the replicating ones, the safeguards in place seem to catch such an occurrence. I'm pretty sure all the DSMBs of those trials are on the lookout even more so now. 
+> 
+> But what additional nonclinical information should be considered is unknown at this phase. It is something that potentially can be amended once more data from these infants and toddlers are forthcoming and unless I'm -- and then we touched upon the new lay of the land, which understand the risk benefit which all IRBs need to know going forward when they review these vaccine studies. We commented that this is an evolving field and our colleagues in the CDC and colleagues in the FDA who will see the subsequent season's data from the clinical trials are also will be analyzing those data and these will also be informative of the risk and benefit going forward. 
 
 # December 11, 2024
 
