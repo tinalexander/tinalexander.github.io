@@ -11,6 +11,14 @@ permalink: /notes/2024/12
 
 # December 13, 2024
 
+## Senator Tommy Tuberville spokesperson on Red 40
+
+- **Source:** emailed statement
+- **Attribution:** spokesperson for Senator Tommy Tuberville
+- **Date:** received December 11, 2024
+
+> “Senator Tuberville was shocked to learn that we haven’t evaluated the safety of R-40 in more than a decade and that we are at least 20 years behind Europe in our food safety evaluation standards. He wants to see increased attention to our food safety evaluations, especially when it comes to food coming from places like China. Senator Tuberville looks forward to working with the incoming Trump administration to Make America Healthy Again.”
+
 ## International Association of Color Manufacturers statement on Red 40
 
 - **Source:** emailed statement
