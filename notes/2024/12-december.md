@@ -11,6 +11,16 @@ permalink: /notes/2024/12
 
 # December 13, 2024
 
+## International Association of Color Manufacturers statement on Red 40
+
+- **Source:** emailed statement
+- **Attribution:** Sarah Codrea, Executive Director of the International Association of Color Manufacturers
+- **Date:** received December 13, 2024
+
+> “In the U.S., all color additives must be approved for use before they can be used in food, drugs, or cosmetics. The FDA regulates the safety and labeling of all color additives, and it does so based on scientific evidence. As such, the FDA has determined and continues to maintain that FD&C Red No. 40 is safe. In 2011, the FDA Food Advisory Committee, an expert panel that included pediatricians, psychiatrists, and behavioral and developmental specialists, reviewed all other relevant science purportedly linking consumption of Red No. 40 to neurobehavioral effects in children with ADHD and the general population, concluded that there is no causal relationship, and voting against a warning label requirement. FDA also monitors and evaluates any new available evidence on an ongoing basis. Most recently, in October 2019, the FDA Science Board similarly concluded that there remains insufficient evidence to establish a causal link between synthetic color intake and adverse behavioral outcomes. Since U.S. regulations already require that every color be listed by name on the ingredient list, parents can easily identify and avoid them if desired.
+> 
+> Notably, other international expert bodies, including the European Food Safety Authority (most recently in 2009) and the FAO/WHO JECFA Expert Committee (most recently in 2016), have conducted comprehensive risk assessments on FD&C Red No. 40 (known globally as Allura Red), concluded that current evidence does not establish a causal relationship between consumption of the color and adverse behavior, including hyperactivity.”
+
 ## Food and Drug Administration spokesperson on Red 40
 
 - **Source:** emailed statement
