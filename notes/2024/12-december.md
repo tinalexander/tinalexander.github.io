@@ -9,6 +9,24 @@ permalink: /notes/2024/12
 
 <br>
 
+# December 13, 2024
+
+## Food and Drug Administration spokesperson on Red 40
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received December 13, 2024
+
+> Reassessing the safety of chemicals in food as new, relevant data become available is a priority for the FDA. The agency has continued to assess available new information about color additives including FD&C Red 40, also known as Allura Red AC. The FDA will continue to assess the emerging science and ensure the safety of approved color additives.    
+> 
+> In 2011, there was a Food Advisory Committee Meeting March 30-31, 2011, that assessed children’s consumption of food dyes and its possible association with hyperactivity. The Committee concluded that, based on all available data, no causal link could be established between children’s consumption of synthetic color additives and adverse behavioral effects including hyperactivity, and that additional labeling information on foods containing color additives was not necessary.  One of the committee’s research recommendations was that FDA conduct an exposure assessment of consumption of certified color additives from foods.  
+> 
+> In 2016, the FDA performed an exposure assessment related to all seven FD&C color additives (which included Red 40) and found the exposure estimates for these color additives, including for children, are well below the FDA’s established acceptable daily intake levels for these color additives. See: Exposure Assessment for FD&C Blue 1, Blue 2, Green 3, Red 3, Red 40, Yellow 5, and Yellow 6 levels in food.
+> 
+> For more information, see: https://www.fda.gov/food/food-ingredients-packaging/color-additives-information-consumers.    
+> 
+> In 2019, the FDA conducted an updated review of the data and information and presented its findings to the Science Board, an independent advisory committee of scientists that advises the agency, to discuss the latest science on a potential link between children’s consumption of color additives in food and ADHD. A limitation noted at the Science Board meeting was that many of the available studies had several deficiencies limiting their use, for example some were performed using mixtures containing color additives not approved for use in the U.S. The Science Board concluded, based on the available scientific evidence, that most children have no effects from consuming foods containing color additives, though some evidence suggested that certain children may be part of a sensitive subpopulation.   
+
 # December 12, 2024
 
 ## Food and Drug Administration committee meeting on RSV vaccines
