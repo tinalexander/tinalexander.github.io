@@ -11,6 +11,15 @@ permalink: /notes/2024/articles/
 
 Here are some articles I've worked on for 2024. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
+# December 2024
+
+- [Are flu and COVID high now? Here's how the season has started](https://www.cbsnews.com/news/flu-covid-infections-december-2024/)
+- [Who is Calley Means? Meet man behind Trump's RFK Jr. alliance](https://www.cbsnews.com/news/who-is-calley-means-meet-man-behind-trumps-rfk-jr-alliance/)
+- [U.S. sets Thanksgiving record for whooping cough cases](https://www.cbsnews.com/news/whooping-cough-record-thanksgiving-2024/)
+- [Sanders says RFK Jr. "exactly correct" on food issues, has not decided on Trump pick for HHS secretary](https://www.cbsnews.com/news/bernie-sanders-rfk-health-human-services/)
+- [What is Red 40 and why hasn't the FDA banned the dye?](https://www.cbsnews.com/news/what-is-red-dye-40-effects/)
+- [Mitch McConnell warns RFK Jr. against effort to undermine polio vaccines](https://www.cbsnews.com/news/rfk-jr-mitch-mcconnell-polio-vaccine/)
+
 # November 2024
 
 - [Biden administration set to miss chance to lock in new food guidelines](https://www.cbsnews.com/news/biden-administration-food-guidelines-protein-red-meat/)
