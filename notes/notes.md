@@ -13,6 +13,7 @@ My name is [Alexander Tin](https://www.linkedin.com/in/alextin/) and I am a repo
 
 I use this website to save notes that I've gathered while covering federal public health agencies during these years:
 
+- [2025](https://tinalexander.github.io/notes/2025/)
 - [2024](https://tinalexander.github.io/notes/2024/)
 - [2023](https://tinalexander.github.io/notes/2023/)
 - [2022](https://tinalexander.github.io/notes/2022/)
