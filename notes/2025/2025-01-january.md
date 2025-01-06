@@ -9,13 +9,27 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 6, 2025
+
+## Statement about FDA's response to bird flu in pet food
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received January 6, 2025
+
+> The FDA and state authorities routinely work together to surveil the animal food supply, including pet food. This includes conducting risk-based facility inspections and collecting animal food samples to help ensure safety.  The FDA may also collect samples “for cause,” such as when a pet food is suspected of being associated with human or animal illness. State authorities also regularly collect samples from retail settings and share test results with the agency. HPAI is an emerging contaminant in animal food. Analytical capacity is limited and pathogens like H5N1 can be difficult to detect because they might not be evenly distributed throughout the product (increasing the possibility of a false negative result). 
+> 
+> Part of a pet food manufacturer’s responsibility is to bring a safe, wholesome product to market that is not adulterated under the Federal Food, Drug, and Cosmetic Act. As we learn more about the transmission of H5N1 in animal food, there are several practices that the FDA is encouraging pet food manufacturers and others in the supply chain to use to prevent HPAI transmission through animal food. These practices could include seeking poultry from flocks that are documented as having remained healthy throughout processing, and taking processing steps, such as heat treatment, that are capable of inactivating viruses and other hazards.   
+> 
+> All recent detections of H5N1 in cats had these things in common: the infected cats ate wild birds, unpasteurized milk, raw poultry, and/or raw poultry pet food. We know that cats are particularly sensitive to HPAI, and that very young, very old or immune-compromised animals are at greater risk of infection. The FDA continues to recommend that consumers avoid feeding pets any products that are recalled or from affected farms if those products have not been thoroughly cooked or pasteurized to inactivate the virus. If consumers are unsure of the origin of those products, it’s safest to follow the USDA guidelines for handling and thorough cooking before feeding. Animals should also be kept from hunting and eating wild birds.
+
 # January 2, 2025
 
 ## Email about influenza trends at an Oregon hospital
 
 - **Source:** email
 - **Attribution:** Sara Hottman, Oregon Health & Science University Hospital spokesperson
-- **Date:** received January 2, 2024
+- **Date:** received January 2, 2025
 
 > Hi, Alexander: Below please find a graph showing the OHSU Health system daily census for patients with the flu, from 11/1/2018 to present. You can see that in Dec. 2022, we also had a very large spike in flu cases, but this year has been significantly higher than last year. Below the graph is a chart with real numbers from the different facilities that make up OHSU Health. You can see that in 2023, the system treated 251 cases of flu, and in 2024, it jumped to 1,101 cases.
 > 
@@ -29,7 +43,7 @@ permalink: /notes/2025/01
 
 - **Source:** email
 - **Attribution:** Jasmine Reed, Centers for Disease Control and Prevention spokesperson
-- **Date:** received January 3, 2024
+- **Date:** received January 3, 2025
 
 > Data from the NoroSTAT network are typically released monthly online; we expect to release the next update mid-month.
 > 
