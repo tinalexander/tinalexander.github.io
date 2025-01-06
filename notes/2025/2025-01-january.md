@@ -15,7 +15,7 @@ permalink: /notes/2025/01
 
 - **Source:** emailed statement
 - **Attribution:** Food and Drug Administration spokesperson
-- **Date:** received January 6, 2025
+- **Date:** received January 3, 2025
 
 > The FDA and state authorities routinely work together to surveil the animal food supply, including pet food. This includes conducting risk-based facility inspections and collecting animal food samples to help ensure safety.  The FDA may also collect samples “for cause,” such as when a pet food is suspected of being associated with human or animal illness. State authorities also regularly collect samples from retail settings and share test results with the agency. HPAI is an emerging contaminant in animal food. Analytical capacity is limited and pathogens like H5N1 can be difficult to detect because they might not be evenly distributed throughout the product (increasing the possibility of a false negative result). 
 > 
