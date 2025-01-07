@@ -9,6 +9,24 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 7, 2025
+
+## Email about the emergence of a new norovirus strain
+
+- **Source:** emails
+- **Attribution:** Jan Vinjé of the Centers for Disease Control and Prevention
+- **Date:** received January 7, 2024
+
+> Here are the latest data (September 1, 2024 – December 31, 2024 uploaded to CaliciNet  https://www.cdc.gov/norovirus/php/reporting/calicinet-data.html which is our national norovirus surveillance system based on lab-data including typing of the viruses, which during the last couple of months is dominated by GII.17. During previous norovirus seasons (since 2012/2013), GII.4 Sydney was the predominant norovirus strain associated with at least 50-60% of all norovirus outbreaks every year. It is too early to tell if this strain is associated with more severe norovirus disease but likely lower population immunity is the reason for the early surge of an otherwise seasonal increase of this virus. Hope this helps.
+> 
+> ...
+> 
+> _Very helpful, thank you. If you'll permit a follow up: do you know if there is any regional difference for GII.17[P17]'s dominance this season so far, or does it appear to be prevalent around the country?_
+> 
+> ...
+> 
+> It’s everywhere including on cruise ship outbreaks
+
 # January 6, 2025
 
 ## Statement about FDA's response to bird flu in pet food
