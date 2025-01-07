@@ -11,10 +11,22 @@ permalink: /notes/2025/01
 
 # January 7, 2025
 
-## Email about the emergence of a new norovirus strain
+## Email from a Wisconsin spokesperson about the new norovirus strain
+
+- **Source:** email
+- **Attribution:** Elizabeth Goodsitt, Wisconsin Department of Health Services spokesperson
+- **Date:** received January 7, 2024
+
+> The new dominant strain is norovirus GII.17[P17] – speaking out loud, you would say “G two seventeen, P seventeen.” The previous dominant strain was norovirus GII.4 Sydney[P16].
+> 
+> I checked with Dr. Roberts, who says the names of specific subtypes of norovirus are usually only helpful for epidemiologists and folks that do research on norovirus. For all intents and purposes, there is little/no difference between norovirus strains. They all cause the same symptoms, have the same incubation period and length of illness, etc. The primary reason we keep track of these strains is so we know what is circulating so that when a new strain pops up like this one, we can catch it. Historically, a new strain can be associated with more cases and outbreaks, but it’s not because new strains cause new symptoms or have new features. It can be because folks in the community will not have any immunity to a new strain, making it easier to spread and easier to make more people sick.
+> 
+> It does not change any recommendations about prevention or spread. It just means we have a robust outbreak season and therefore an opportunity to really emphasize the importance of handwashing, staying home while sick and until at least 48 hours after recovery, etc.
+
+## Email from a CDC scientist about the new norovirus strain
 
 - **Source:** emails
-- **Attribution:** Jan Vinjé of the Centers for Disease Control and Prevention
+- **Attribution:** Jan Vinjé, director of the Centers for Disease Control and Prevention's CaliciNet
 - **Date:** received January 7, 2024
 
 > Here are the latest data (September 1, 2024 – December 31, 2024 uploaded to CaliciNet  https://www.cdc.gov/norovirus/php/reporting/calicinet-data.html which is our national norovirus surveillance system based on lab-data including typing of the viruses, which during the last couple of months is dominated by GII.17. During previous norovirus seasons (since 2012/2013), GII.4 Sydney was the predominant norovirus strain associated with at least 50-60% of all norovirus outbreaks every year. It is too early to tell if this strain is associated with more severe norovirus disease but likely lower population immunity is the reason for the early surge of an otherwise seasonal increase of this virus. Hope this helps.
