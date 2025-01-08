@@ -11,6 +11,16 @@ permalink: /notes/2025/01
 
 # January 7, 2025
 
+## Email from Marion Koopmans about new norovirus strain
+
+- **Source:** email
+- **Attribution:** Marion Koopmans, head of the Earsmus MC Department of Virology
+- **Date:** received January 7, 2024
+
+> We do indeed see that there is a genotype of norovirus (GII17) that seems to become dominant this season. It also has been observed in Europe.  There is insufficient surveillance (in my view) to really make the case that this is causing an increase in the number of cases, as we have a lot of norovirus infections each winter and the surveillance is rather patchy. 
+> 
+> What we are seeing has happened before for noroviruses. Noroviruses are very diverse.   Based on the virus composition, they are grouped into genotypes.  Over the past decade, genotype GII4 viruses have been observed most often as causes of outbreaks, for instance (although if you do more in depth studies, a greater diversity of viruses is seen).  Recently, viruses of a different genotype, GII17, have started to take over. It is possible that that is associated with an increase in illness reports, but we would need studies to actually proof that that is the case.
+
 ## Email from a Wisconsin spokesperson about the new norovirus strain
 
 - **Source:** email
