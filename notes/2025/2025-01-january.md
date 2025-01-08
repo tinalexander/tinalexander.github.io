@@ -9,13 +9,26 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 8, 2025
+
+## FOIA response from FDA about EzriCare
+
+- **Source:** emailed documents
+- **Attribution:** Freedom of Information Act request to the Food and Drug Administration
+- **Date:** received January 7, 2025
+
+- [2025-01-08_fda_foia-2023-1766_enc4_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc4_300.pdf)
+- [2025-01-08_fda_foia-2023-1766_enc3_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc3_300.pdf)
+- [2025-01-08_fda_foia-2023-1766_enc2_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc2_300.pdf)
+- [2025-01-08_fda_foia-2023-1766_enc1_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc1_300.pdf)
+
 # January 7, 2025
 
 ## Email from Marion Koopmans about new norovirus strain
 
 - **Source:** email
 - **Attribution:** Marion Koopmans, head of the Earsmus MC Department of Virology
-- **Date:** received January 7, 2024
+- **Date:** received January 7, 2025
 
 > We do indeed see that there is a genotype of norovirus (GII17) that seems to become dominant this season. It also has been observed in Europe.  There is insufficient surveillance (in my view) to really make the case that this is causing an increase in the number of cases, as we have a lot of norovirus infections each winter and the surveillance is rather patchy. 
 > 
@@ -25,7 +38,7 @@ permalink: /notes/2025/01
 
 - **Source:** email
 - **Attribution:** Elizabeth Goodsitt, Wisconsin Department of Health Services spokesperson
-- **Date:** received January 7, 2024
+- **Date:** received January 7, 2025
 
 > The new dominant strain is norovirus GII.17[P17] – speaking out loud, you would say “G two seventeen, P seventeen.” The previous dominant strain was norovirus GII.4 Sydney[P16].
 > 
@@ -37,7 +50,7 @@ permalink: /notes/2025/01
 
 - **Source:** emails
 - **Attribution:** Jan Vinjé, director of the Centers for Disease Control and Prevention's CaliciNet
-- **Date:** received January 7, 2024
+- **Date:** received January 7, 2025
 
 > Here are the latest data (September 1, 2024 – December 31, 2024 uploaded to CaliciNet  https://www.cdc.gov/norovirus/php/reporting/calicinet-data.html which is our national norovirus surveillance system based on lab-data including typing of the viruses, which during the last couple of months is dominated by GII.17. During previous norovirus seasons (since 2012/2013), GII.4 Sydney was the predominant norovirus strain associated with at least 50-60% of all norovirus outbreaks every year. It is too early to tell if this strain is associated with more severe norovirus disease but likely lower population immunity is the reason for the early surge of an otherwise seasonal increase of this virus. Hope this helps.
 > 
