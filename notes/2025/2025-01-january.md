@@ -11,6 +11,94 @@ permalink: /notes/2025/01
 
 # January 8, 2025
 
+## Quotes from an FDA and CDC official about COVID-19 vaccines
+
+- **Source:** webinar
+- **Attribution:** published by the National Foundation for Infectious Diseases
+- **Date:** occurred January 7, 2025
+
+> Peter Marks, FDA [00:11:15]
+> 
+> One of the issues comes up about is how often should we change these vaccine strains? And there are really some practical considerations that limit our ability to change vaccine composition. 
+> 
+> One of them is just manufacturing constraints. You can only change the process so many times, and because there's a whole process involved, and that limits things. 
+> 
+> And the other issue though, it's true, is that we, it's hard to get data to suggest when you should actually do so, because in many cases, as we've seen already with the XEC variant, an existing vaccine seems to cover them pretty well. So you don't want to change until you have data that suggests that your current vaccine is not actually working well. 
+> 
+> So this is some of the challenges that we deal with.
+> 
+> Right now we are anticipating that we will continue to update these vaccines and we'll be choosing a strain next May, June for next year. 
+> 
+> With the obvious caveat that if something were to materialize that were a very serious escape variant, we could potentially mobilize to pick a variant more rapidly in a similar way that we've done for influenza viruses in the past, where, in part, because of the rapidity of the mRNA process, it could potentially only take a few months before we could have a new vaccine, if we needed to deploy one on the order of about three months, if it were necessary.
+> 
+> ...
+> 
+> Demetre Daskalakis, CDC [00:27:32]
+> 
+> So this is a comparison using our national immunization survey of what we are seeing among older adults. 
+> 
+> This is 75 plus in the United States this year in terms of vaccination coverage. The light blue line is last season. So 2023 and 24. And you can see that we plateaued somewhere around 40% for coverage all said and done in the season. 
+> 
+> And so when you are looking at this slide, a couple things are notable. 
+> 
+> One because of the earlier availability of vaccine, these individuals were able to start getting vaccinated in early September rather than late September. And we are seeing climbs that are higher than what we saw last year. So in fact, today we're at about 49%, which is higher than the plateau for last year. So that is a really encouraging trend. 
+> 
+> And that is especially encouraging, given the data that I showed you previously about the risk of death and hospitalization for individuals who are more advanced in years. And we're going to define that, for the purpose of this presentation as over 75. 
+> 
+> So there's a lot of reasons that this may be going on. 
+> 
+> Again, first it could be because of COVID vaccines were available several weeks earlier this season. That may mean that folks were able to sync this closer to their flu vaccine. 
+> 
+> Second, our early data from September suggest that more older adults are receiving both of these together. So in fact, we do have some data that COVID and flu vaccines, co-administration at least in pharmacies also appears to be increased compared to last year. 
+> 
+> And then additionally, we are seeing, in our national immunization survey from October that older adults have increased concern about COVID 19. So the findings that we have about severe outcomes, like those are passing over to them because of their concern. They have a greater intention to receive the vaccine. 
+> 
+> And then lastly, because of the work that you do, healthcare providers are increasingly recommending the COVID 19 vaccine to this population. And so all really important and also really important to protect one population that may have a risk of some of the worst outcomes of COVID 19.
+> 
+> ...
+> 
+> Question [00:38:33]
+> 
+> Do you have any forecasting when it's likely that the pediatric COVID 19 vaccines will get full FDA approval?
+> 
+> Peter Marks, FDA [00:38:40]
+> 
+> It's always, this is all obviously commercial confidential information, but I would suspect that we're looking at something that's on the matter of months away, not years away.
+> 
+> ...
+> 
+> Question [00:44:09]
+> 
+> Peter, can you comment on the LP.8.1 variant? Do we know how it compares with XEC and whether we expect different protection?
+> 
+> Peter Marks, FDA [00:44:19]
+> 
+> So we'll need to get that. That's one where we're going to need to get data. 
+> 
+> And that's part of what I was talking about. This challenge for us is to keep up with this. 
+> 
+> We do keep up, which is that as we get these variants, we start to test them and get them into the testing process. 
+> 
+> But again, we will keep-- and we'll keep chasing them. 
+> 
+> So far we've been pretty lucky in finding that these have been generally covered by the current strains that we're covering with with either JN.1 or KP.2, but we'll keep testing.
+> 
+> ...
+> 
+> Question [00:52:32]
+> 
+> There have been some concerns about vaccine being available in the summer surge of disease. Do we foresee any further changes in kind of the timing of our recommendations, authorization of new seasonal vaccine for COVID vaccine going forward?
+> 
+> Peter Marks, FDA [00:52:51]
+> 
+> Yeah, so, I mean, this is something that we will, this is why we monitor the epidemiology pretty closely. 
+> 
+> I think if we were to, as we come into the May June timeframe, if we were to start to see a surge, with a new variant that we did not think was well covered, we might try to move up as much as we could the availability of the next season's vaccine. 
+> 
+> So there's a little bit of an art to this still because it's not perfect seasonality as Dr. Daskalakis showed. So we're just gonna have to watch this closely. 
+> 
+> We may get lucky, and if there's a summer surge, it'll be with the same, something that's covered well with the same vaccine. If not, we have this opportunity, particularly with the mRNA vaccine technology to really crank out vaccine pretty quickly, in order to try to address an emerging variant a little sooner.
+
 ## Statement from Los Angeles health department about bird flu and cats
 
 - **Source:** emailed statement
