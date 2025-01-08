@@ -17,10 +17,13 @@ permalink: /notes/2025/01
 - **Attribution:** Freedom of Information Act request to the Food and Drug Administration
 - **Date:** received January 7, 2025
 
-- [2025-01-08_fda_foia-2023-1766_enc4_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc4_300.pdf)
-- [2025-01-08_fda_foia-2023-1766_enc3_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc3_300.pdf)
-- [2025-01-08_fda_foia-2023-1766_enc2_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc2_300.pdf)
-- [2025-01-08_fda_foia-2023-1766_enc1_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc1_300.pdf)
+> [2025-01-08_fda_foia-2023-1766_enc4_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc4_300.pdf)
+> 
+> [2025-01-08_fda_foia-2023-1766_enc3_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc3_300.pdf)
+> 
+> [2025-01-08_fda_foia-2023-1766_enc2_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc2_300.pdf)
+> 
+> [2025-01-08_fda_foia-2023-1766_enc1_300.pdf](https://github.com/tinalexander/tinalexander.github.io/blob/main/notes/attachments/2025-01-08_fda_foia-2023-1766_enc1_300.pdf)
 
 # January 7, 2025
 
