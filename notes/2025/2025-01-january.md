@@ -11,6 +11,18 @@ permalink: /notes/2025/01
 
 # January 8, 2025
 
+## Statement from Los Angeles health department about bird flu and cats
+
+- **Source:** emailed statement
+- **Attribution:** Los Angeles Department of Public Health spokesperson
+- **Date:** received January 8, 2025
+
+> Of the 7 cats confirmed with H5 Bird Flu in LA County, 5 of them have been linked to Raw Farm, LLC milk product and 1 has been linked to Monarch Raw Pet Food. The source of infection for the 7th cat is still under investigation.
+>  
+> Please note additional cats in households with these confirmed cases may have fallen ill or died, but testing was not possible for all cats.
+>  
+> There has been no clear demonstration of transmission of H5 bird flu virus from a sick cat to another cat or animal in these cases, nor have there been any known cases of transmission of H5 bird flu from cat to human in these cases. We strongly recommend that pet owners do not consume nor feed their pets raw milk, raw dairy, raw meat, raw poultry, or raw pet food.
+
 ## Email from Idaho's health department about new norovirus strain
 
 - **Source:** email
