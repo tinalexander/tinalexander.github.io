@@ -13,7 +13,7 @@ permalink: /notes/2025/01
 
 ## Quotes from an FDA and CDC official about COVID-19 vaccines
 
-- **Source:** webinar
+- **Source:** [webinar](https://www.youtube.com/watch?v=dHJdSmHY8AQ)
 - **Attribution:** published by the National Foundation for Infectious Diseases
 - **Date:** occurred January 7, 2025
 
