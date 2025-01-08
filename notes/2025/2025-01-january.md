@@ -11,6 +11,20 @@ permalink: /notes/2025/01
 
 # January 8, 2025
 
+## Email from Idaho's health department about new norovirus strain
+
+- **Source:** email
+- **Attribution:** AJ McWhorter, Idaho Department of Health and Welfare public information officer
+- **Date:** received January 8, 2025
+
+> 1) I know several states have reported large increases in norovirus outbreaks compared to previous years. Is that the case in Idaho?
+> 
+> We have observed a considerable increase in the cases of norovirus reported during 2024 compared with previous years.
+> 
+> 2) Has Idaho also seen an increase in GII.17 outbreaks, as has been reported elsewhere? 
+> 
+> We don’t have enough laboratory characterization data to confirm whether the increase in cases is caused by the norovirus GII.17 strain.
+
 ## FOIA response from FDA about EzriCare
 
 - **Source:** emailed documents
