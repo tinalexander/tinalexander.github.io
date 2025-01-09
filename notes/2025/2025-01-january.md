@@ -9,6 +9,96 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 9, 2025
+
+## Quotes from the CDC director at event about agency
+
+- **Source:** livestream
+- **Attribution:** hosted by the Center for Strategic and International Studies
+- **Date:** occurred January 8, 2025
+
+> Mandy Cohen, CDC [00:14:38]
+> 
+> I think CDC has been on this journey to learn a lot of lessons from the COVID pandemic. 
+> 
+> Look, we know that there were ways in which CDC did not do what, all of what it needed to do. We've taken accountability for that, particularly in the lab space, in the communication space. 
+> 
+> And, you know, I-- we have very much, and I personally have done a lot of listening and learning. And I think the organization has as well. 
+> 
+> And so what I'm hopeful for the team that is coming to HHS, coming to CDC, is to make sure that they know this to your point, the baseline, what is the status of things at CDC right now? 
+> 
+> And of course there needs more improvement. We should always be an improving learning organization, but where are we? 
+> 
+> And I just wrote an op-ed in the Financial Times where the headline was, right, CDC needs a scalpel, not an axe. 
+> 
+> And so what, because I want folks to know the improvements we've made. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:21:37]
+> 
+> I'm proud of the work. We're not done. We have more to do, but I think we've learned a lot. 
+> 
+> And I want to make sure, again, the incoming team knows that the team that they remember in the CDC, that they interacted with in 2020, is not the same organization that we are now. 
+> 
+> And there's always more to do. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:30:00]
+> 
+> So as we think about what are the right structures to bring people and keep and retain your workforce, I want to make sure we're thinking about it again, not with broad brushes, but to be specific. 
+> 
+> So we are very lucky to have some incredible data scientists, that folks who are working on our data. They may reside in California, to do that work because they have done great things in their first parts of their career. And then they come to CDC to give back, to do public service, but they're not willing to move their family. I want that talent. 
+> 
+> I want that talent at CDC. We should want it to protect. So just, we need to think about, as we think about making sure we can retain the talented workforce that we need, not everything can be painted with one broad brush. 
+> 
+> And I will say though, it's hard to-- you don't do lab work from home. Our team's been in, doing the work in person, for a very long time. And that hasn't changed. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:46:09]
+> 
+> We take our job very seriously at putting out solid information, but part of what we have to do is also move faster. And share information. But we need to do it in a way, like this is what I know today that may be different. Right? We're trying, 
+> 
+> I hope folks are seeing us communicate differently about avian flu. Like this is what we know today, which is there's no human to human spread that we have vaccine candidates ready, that we are, you know, ready and prepared. 
+> 
+> However, we've all learned that these viruses change. And so I want folks to also hear the statement that things could change in the future, and that's not making public health wrong now. Right. That doesn't mean we made some mistake now. It just means things change. And then you have to react to those changes and make different. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:47:23]
+> 
+> I do want to push back a little on the premise that, on the trust premise, because actually we see people polled, quarter over quarter on trust in CDC. And I'm really proud that actually over the last 18 months, we've seen that trust in CDC go back up. 
+> 
+> And I think it's because we're communicating differently. We're focused on priorities that matter for people in their everyday lives. 
+> 
+> And so I think we're on that journey every day. We rebuild trust. 
+> 
+> ...
+> 
+> Mandy Cohen, CDC [00:59:16]
+> 
+> We have been working on this issue for a long time, meaning that we have very different infrastructure around avian flu than we have almost on any other pandemic potential pathogen. 
+> 
+> We, you know, we have waste water infrastructure. We have the ability to see into our emergency rooms. We have laboratory tests that are not just in public health, but are in the commercial labs already. We have Tamiflu and a treatment that maps to the pathogen. We have vaccine candidates, not just candidates. We also have 5 million doses, already in our stockpile that going up to 10 million.
+> 
+> But that all said, right, those are a lot of great things like we already, but we have to stay ahead of the virus. As we were saying, things can change. And it doesn't mean we didn't do all the right things right now to be prepared. It just means the virus can change. Which means then we have to make sure that our therapies and our vaccines still map to those changes in the virus. 
+> 
+> So we do not-- so the things that I look at and want to be evaluating, in terms of do we need to step up and do something? Is there human to human transmission? No. We haven't seen that yet, but if we were to see that that is a change. 
+> 
+> Are we seeing severity of disease? Now we've had this one case where it was, we know it was from a wild bird, from a bird flock. And an older gentleman did pass. That was our first death, but all of the other cases have been very mild, like not even hospitalized, right. Some pink eye. 
+> 
+> So we look at severity of disease and we look at the genetics, are the genetics changing. And do we know if they map.
+> 
+> All of that work? That's hard like to be able to do that assessment work over and over. We do it literally daily. Are-- we're looking at it over and over and over. So we cannot to your point have a ball drop because we need to continually assess. 
+> 
+> And so if there was a change in any one of those things, then we would want to think about stepping up our work. And I-- and then we need to make sure that the incoming team knows that there is that potential, right? That of the things that I worry about, what could create the next pandemic avian flu of course, is at the top of the list. It's why we've been focused on it for 20 years. We've been watching it for a long time. 
+> 
+> And now we have more of that circulating in our animal population than we have seen before, which means more exposure for humans, right. Just more opportunity. 
+> 
+> And so, again, we're a low probability event, but could have outsized impact. So you need to highly manage some of these big impact, even low probability events. Got to be ready. You gotta keep that funding there to do this important work.
+
 # January 8, 2025
 
 ## Quotes from an FDA and CDC official about COVID-19 vaccines
