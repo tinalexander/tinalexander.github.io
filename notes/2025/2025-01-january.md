@@ -11,6 +11,40 @@ permalink: /notes/2025/01
 
 # January 9, 2025
 
+## Quotes from Calley Means in interview at AmericaFest
+
+- **Source:** [video](https://www.theepochtimes.com/epochtv/heres-why-americans-are-becoming-sicker-calley-means-5785448)
+- **Attribution:** The Epoch Times
+- **Date:** published January 7, 2025
+
+> Question [00:16:05]
+> 
+> What are the top reforms, like if you were going to give me line items, okay, that could actually shift this and kind of restore a more reasonable set of incentive structures?
+> 
+> Calley Means [00:16:17]
+> 
+> Directing the NIH to no longer be a pharmaceutical R and D factory. Propelling research, directing them to study what glyphosate is doing, studying what atrazine is doing, other food chemicals that we allow that no other country allows. 
+> 
+> Studying various pharmaceutical standards. Doing, reproducing FDA studies that are underlying the built trillions of dollars we spend on pharmaceutical products. So reproducing studies, getting to the root cause, getting the science right.
+> 
+> Throughout the orgs, but particularly the FDA, getting conflicts of interest out of the agencies. Just why is the FDA funded by pharma? 75% of drug approval budget is funded by pharma. Why don't people have access to better diagnostic technologies? 
+> 
+> Let's let patients work with their doctors. Let's have Medicare money go to food, if somebody's obese, instead of straight to Ozempic. So loosening up, making flexible these Medicare, Medicaid standards to help patients make the best decisions with their doctors. 
+> 
+> So what are the principles? Transparency, reducing conflicts, flexibility for patients, medical freedom, trusting patients. Those are the principles that are gonna be guiding a flurry of agency actions from Bobby Kennedy.
+> 
+> ...
+> 
+> Calley Means [00:24:17]
+> 
+> I've been an informal advisor. I've been helping however I can.
+> 
+> I mean, my good friends, Jay Bhattacharya, and Marty Makary, are going to be leading the NIH and FDA. Dr. Oz is, has become, a great ally and friend. 
+> 
+> I mean, we've got great people in there. I'm trying to support them however I possibly can, you know, during this very quick transition period.
+> 
+> And I don't have any announcements on specifically what I'm going to be doing.
+
 ## Statement from the Los Angeles health department about bird flu in pets
 
 - **Source:** emailed statement
