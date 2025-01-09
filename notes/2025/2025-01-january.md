@@ -11,6 +11,30 @@ permalink: /notes/2025/01
 
 # January 9, 2025
 
+## Quotes from Calley Means in podcast interview 
+
+- **Source:** [podcast](https://rumble.com/v66nby1-limitless-health-with-calley-means-ep453.html?e9s=src_v1_ucp)
+- **Attribution:** The Big Mig Show
+- **Date:** published January 6, 2025
+
+> Calley Means [00:28:21]
+> 
+> What do we do? I don't think the plan is any bans to start. I don't think we need to talk about banning food. Although I do think things like high fructose corn syrup, we might need to get there eventually, but I think phase one of MAHA is just getting to the truth and there's two areas what I recommend. 
+> 
+> The USDA nutrition guidelines are up for review early in Trump's term. Right now, the USDA nutrition guidelines recommend added sugar for two year olds. And they say that ultra processed food is healthy. Literally you can't even make this up. 
+> 
+> So 19 out of the 20 advisors on the USDA nutrition guideline committee, which set standards for our kids are paid for by food or pharma companies. 
+> 
+> So President Trump and Bobby have the opportunity to throw the corrupt recommendations of the Biden administration, which say ultra processed food could be healthy, throw those in the trash and issue simple guidelines. 
+> 
+> And it's, I think conservative, before we get in into any bans, Americans should have the truth. This scientists should give the truth. 
+> 
+> One problem with the guidelines is they take into DEI parameters. They actually say, well, we care about affordability. We care about the Americans can only afford all to process food. 
+> 
+> That's not the scientists job. The nutrition guidelines should say what American children should be eating, which is avoiding all added sugar and eating whole food. That's their job to say.
+> 
+> It's policymakers job then to do what they will with that information. But the first step is we need truth from our scientists. 
+
 ## Quotes from Calley Means in interview at AmericaFest
 
 - **Source:** [video](https://www.theepochtimes.com/epochtv/heres-why-americans-are-becoming-sicker-calley-means-5785448)
