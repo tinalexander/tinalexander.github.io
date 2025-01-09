@@ -13,7 +13,7 @@ permalink: /notes/2025/01
 
 ## Quotes from the CDC director at event about agency
 
-- **Source:** livestream
+- **Source:** [livestream](https://www.youtube.com/watch?v=psTCKKGhIaI&t=1s)
 - **Attribution:** hosted by the Center for Strategic and International Studies
 - **Date:** occurred January 8, 2025
 
