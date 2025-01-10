@@ -11,6 +11,20 @@ permalink: /notes/2025/01
 
 # January 9, 2025
 
+## Email from Oregon's agriculture department about Northwest Naturals
+
+- **Source:** email
+- **Attribution:** Oregon Department of Agriculture spokesperson Andrea Cantu-Schomus
+- **Date:** received January 10, 2025
+
+> _I wanted to check in to ask if the department has heard of any additional animal cases or deaths were identified linked to the Northwest Naturals product that was recalled? Also, do you know if the genotype was B3.13 or D1.1 in the pet food?_
+> 
+> ...
+> 
+> The FDA has taken over as lead agency on the Northwest Natural recall. For updates, please contact the FDA.
+> 
+> The genome found in the Northwest Naturals product was B3.13.
+
 ## Quotes from Calley Means in podcast interview 
 
 - **Source:** [podcast](https://rumble.com/v66nby1-limitless-health-with-calley-means-ep453.html?e9s=src_v1_ucp)
