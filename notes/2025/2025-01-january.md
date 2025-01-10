@@ -11,6 +11,14 @@ permalink: /notes/2025/01
 
 # January 10, 2025
 
+## FOIA response from FDA about Taylor Farms Colorado
+
+- **Source:** emailed documents
+- **Attribution:** Freedom of Information Act request to the Food and Drug Administration
+- **Date:** received January 10, 2025
+
+> [2025-01-10_fda_foia_2024-10096.pdf](https://tinalexander.github.io/notes/attachments/2025-01-10_fda_foia_2024-10096.pdf)
+
 ## Statement from FDA spokesperson about Northwest Naturals
 
 - **Source:** emailed statement
