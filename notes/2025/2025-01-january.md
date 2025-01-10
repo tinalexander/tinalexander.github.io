@@ -9,7 +9,15 @@ permalink: /notes/2025/01
 
 <br>
 
-# January 9, 2025
+# January 10, 2025
+
+## Statement from FDA spokesperson about Northwest Naturals
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration spokesperson
+- **Date:** received January 10, 2025
+
+> There has not been any additional cases linked to the Northwest Naturals recall.  This is an evolving situation that the FDA will continue to keep the public and companies updated on. The FDA continues to recommend avoiding feeding pets any products from affected farms, if those products have not been thoroughly cooked or pasteurized to inactivate the virus. Animals should also be kept from hunting and eating wild birds.
 
 ## Email from Oregon's agriculture department about Northwest Naturals
 
@@ -24,6 +32,8 @@ permalink: /notes/2025/01
 > The FDA has taken over as lead agency on the Northwest Natural recall. For updates, please contact the FDA.
 > 
 > The genome found in the Northwest Naturals product was B3.13.
+
+# January 9, 2025
 
 ## Quotes from Calley Means in podcast interview 
 
