@@ -11,6 +11,28 @@ permalink: /notes/2025/01
 
 # January 10, 2025
 
+## McDonald's statement about FDA Form 483
+
+- **Source:** emailed statement
+- **Attribution:** McDonald's USA
+- **Date:** received January 10, 2025
+
+> We hold our suppliers to the highest expectations and standards of food safety. Prior to this inspection, and unrelated to its findings, McDonald's stopped sourcing from Taylor Farms' Colorado Springs facility.
+> 
+> You can read more about the swift action the company took during last year's outbreak on our newsroom: https://corporate.mcdonalds.com/corpmcd/our-stories/article/always-putting-food-safety-first.html
+
+## Taylor Farms statement about FDA Form 483
+
+- **Source:** emailed statement
+- **Attribution:** Taylor Farms
+- **Date:** received January 10, 2025
+
+> Taylor Farms is confident in our best-in-class food safety processes, and in turn, the quality and safety of our products. As is common following an inspection, FDA issued observations of conditions that could be improved at one of our facilities. We immediately took steps to address the three observations made in the report and responded with our corrective actions.  
+> 
+> The FDA has since classified this inspection as “voluntary action indicated,” meaning the agency “is not prepared to take or recommend any administrative or regulatory action.” This is consistent with the fact that no illnesses or public health threat has been linked to these observations. 
+> 
+> We know that maintaining trust with our customers and consumers is essential and we are committed to preserving that trust. Our vision of creating healthy lives continues to be important, and we remain deeply committed to delivering the safest, healthiest fresh foods possible to our customers.
+
 ## FOIA response from FDA about Taylor Farms Colorado
 
 - **Source:** emailed documents
