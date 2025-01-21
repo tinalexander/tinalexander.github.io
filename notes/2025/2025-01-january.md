@@ -9,6 +9,20 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 21, 2025
+
+- **Source:** emailed statement
+- **Attribution:** Food and Drug Administration official
+- **Date:** received January 17, 2025
+
+> 1.      Are you able to say how many cat infections that FDA is aware of linked to contaminated food? 
+> 
+> The FDA is aware of reports of death or illness associated with uncooked food in 13 domestic cats in eight households, 1 exotic cat in one household, and an unknown number of animals at two sanctuaries for large felids.  
+> 
+> 2.      Also, has FDA been able to trace back the source of the contamination in any of the outbreaks? It wasn't clear to me from yesterday's press call. 
+> 
+> The FDA is in the process of tracing back the sources of food that the ill animals ate to determine possible scenarios for how and when these products were contaminated. Testing is underway and can take several weeks for full results. For some of the reported illnesses, traceback may not be possible, due to a lack of complete information about what the animals ate, or because the food they ate is no longer available for testing.   
+
 # January 10, 2025
 
 ## McDonald's statement about FDA Form 483
