@@ -11,6 +11,8 @@ permalink: /notes/2025/01
 
 # January 21, 2025
 
+## FDA official's statement on bird flu in cat pet food
+
 - **Source:** emailed statement
 - **Attribution:** Food and Drug Administration official
 - **Date:** received January 17, 2025
