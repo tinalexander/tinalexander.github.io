@@ -11,6 +11,44 @@ permalink: /notes/2025/01
 
 # January 21, 2025
 
+## USDA officials at press conference on bird flu
+
+- **Source:** press conference
+- **Attribution:** hosted by the Department of Health and Human Services
+- **Date:** occurred January 16, 2025
+
+> Eric Deeble, USDA [00:32:44]
+> 
+> We are working with our FDA colleagues in order to determine whether or not any of the products that may be implicated as ingredients in pet food that was determined to have H5N1 virus present in it was a product of an FSIS inspected facility.
+> 
+> Obviously, a great deal of protein that is produced is produced outside of FSIS inspected facilities, and is never intended for human consumption. 
+> 
+> I will say that birds from affected flocks that are depopulated as part of USDA's efforts to control H5N1 are not permitted in any food product at all.
+> 
+> They are most frequently composted on site as part of the efforts to mitigate the spread of the virus.
+> 
+> ...
+> 
+> Alex Turner, USDA [00:52:26]
+> 
+> I would guess one thing we saw with this winter that was a little bit different in terms of the cadence and the pace of poultry infections was really the timing of when wild birds started their migration. 
+> 
+> Apparently it was a very seasonally warm fall and early winter further north. And so that kept a lot of those birds up co-mingling with each other further north before they started the fall migration. 
+> 
+> So the whole thing kind of started, and what we've seen in our epi curve is, really that that whole curve shifted about 30 days or so, before we started to see things. 
+> 
+> So other than that, I think that this version of the virus has continued to behave as we've seen in the previous years.
+> 
+> ...
+> 
+> Alex Turner, USDA [00:55:20]
+> 
+> If you kind of think of the-- an epi curve as the number of cases over a certain span of time, that whole curve probably shifts that same 30 days to the right. 
+> 
+> So if it seems like it was a late start, we would anticipate being kind of a late finish to that, as well as the decrease starts to wind down from the amount of virus that's in the environment from the wild birds that have migrated. 
+> 
+> So now that they are predominantly kind of where they're going to be for the winter, there's a little bit less of that migratory movement and exposure, but also we're working through the poultry cases that we have, and those poultry cases would be expected to kind of have that curve decrease and hit the down slope of that curve a little bit later as well.
+
 ## FDA official's statement on bird flu in cat pet food
 
 - **Source:** emailed statement
