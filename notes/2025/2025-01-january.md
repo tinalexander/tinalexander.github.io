@@ -11,7 +11,7 @@ permalink: /notes/2025/01
 
 # January 22, 2025
 
-## HHS spokesperson on "short pause" in public communications
+## HHS official on "short pause" in public communications
 
 - **Source:** emailed statement
 - **Attribution:** Health and Human Services Principal Deputy Chief of Staff Stefanie Spear
