@@ -9,6 +9,25 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 22, 2025
+
+## Email about January 28 meeting of the PACCARB
+
+- **Source:** forwarded email
+- **Attribution:** obtained by CBS News
+- **Date:** received January 22, 2025
+
+> Sent: Wednesday, January 22, 2025 2:16 PM
+> Subject: PACCARB Meeting is cancelled
+> 
+> ...
+> 
+> Dear PACCARB Meeting Registrant –
+> 
+> The 27th Public Meeting of the Presidential Advisory Council for Combating Antibiotic-Resistant Bacteria scheduled for Tuesday, January 28 and Wednesday, January 29 is canceled, as the new Administration considers its plan for managing federal policy and public communications. We will keep you apprised of any updates or changes. We apologize for any inconvenience.
+> 
+> Thank you for being a valued member of our PACCARB community.
+
 # January 21, 2025
 
 ## USDA officials at press conference on bird flu
