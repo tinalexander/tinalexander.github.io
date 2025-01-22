@@ -11,6 +11,14 @@ permalink: /notes/2025/01
 
 # January 22, 2025
 
+## HHS spokesperson on "short pause" in public communications
+
+- **Source:** emailed statement
+- **Attribution:** Health and Human Services Principal Deputy Chief of Staff Stefanie Spear
+- **Date:** received January 22, 2025
+
+> HHS has issued a pause on mass communications and public appearances that are not directly related to emergencies or critical to preserving health. This is a short pause to allow the new team to set up a process for review and prioritization. There are exceptions for announcements that HHS divisions believe are mission critical, but they will be made on a case-by-case basis.
+
 ## Email about January 28 meeting of the PACCARB
 
 - **Source:** forwarded email
