@@ -9,6 +9,20 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 23, 2025
+
+## Alabama health department on ceftriaxone investigation
+
+- **Source:** email
+- **Attribution:** Alabama Department of Public Health spokesperson Arrol Sheehan
+- **Date:** received January 23, 2025
+
+> _Just wanted to check in to see if it is still accurate that ADPH is actively working with CDC to investigate the reports. I wasn't sure if the recent communications "pause" at CDC has interrupted that._
+> 
+> ...
+> 
+> This is an ongoing active investigation, and the Centers for Disease Control and Prevention is involved.
+
 # January 22, 2025
 
 ## HHS official on "short pause" in public communications
