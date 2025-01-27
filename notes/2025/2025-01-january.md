@@ -9,6 +9,16 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 27, 2025
+
+## San Francisco's health department on H5N1 investigation
+
+- **Source:** emailed statement
+- **Attribution:** San Francisco Department of Public Health
+- **Date:** received January 24, 2025
+
+> SFDPH has completed its investigation, which included interviewing and assessing close contacts and the source of exposure in this case is unknown. No additional cases have been identified and there remains no evidence of human-to-human transmission. The serology study is being conducted by the CDC and is in progress. We do not expect the results of the serology study to be available for at least a month.  
+
 # January 23, 2025
 
 ## Alabama health department on ceftriaxone investigation
