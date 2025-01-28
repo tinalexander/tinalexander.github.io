@@ -11,6 +11,27 @@ permalink: /notes/2025/01
 
 # January 28, 2025
 
+## Texas health department on tuberculosis outbreaks
+
+- **Source:** emailed statement
+- **Attribution:** Texas Department of State Health Services spokesperson Douglas Loveday
+- **Date:** received January 28, 2025
+
+> A TB outbreak in Texas is generally defined as a situation where there are more TB cases than expected within a geographic area or population during a particular time period, and there is evidence of recent transmission of M. tuberculosis among those cases. Any TB cluster with 10 or more cases related via molecular sequencing is considered a Large Outbreak of TB in the US (or LOTUS), as defined by the Centers for Disease Control and Prevention.
+> 
+> The largest outbreak in Texas in recent years is a cluster in southeast Texas (Beaumont – Jefferson County). Since 2016, there have been 81 cases in this outbreak. Provisionally, there were 24 cases in 2024; however, this number is subject to change as more data is reported.
+> 
+> Cases in this outbreak can be characterized as primarily US-born (93%) with some history of substance use (47%). Over half (55%) have drug-resistance to isoniazid, one of the primary drugs used to treat tuberculosis. Additionally, eight cases in this cluster were diagnosed when they were less than 15 years of age, with six of those 5 years old or less. Nine cases, including one child, died while being treated or were dead at diagnosis.
+
+## California health department on tuberculosis outbreaks
+
+- **Source:** emailed statement
+- **Attribution:** California Department of Public Health spokesperson
+- **Date:** received January 28, 2025
+
+> Since 2022, the largest new confirmed tuberculosis outbreak in California included 14 cases. The outbreak was identified as meeting surveillance criteria for a confirmed outbreak in 2023. It included cases spanning 2020-2024. It was centered in Long Beach.
+> https://longbeach.gov/press-releases/official-city-of-long-beach-statement-regarding-public-health-emergency-in-response-to-local-tuberculosis-outbreak-risk-to-population-at-large-remains-low/
+
 ## USDA spokesperson on H5N5 in California ducks
 
 - **Source:** emailed statement
