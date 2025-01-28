@@ -9,6 +9,22 @@ permalink: /notes/2025/01
 
 <br>
 
+# January 28, 2025
+
+## CDC spokesperson on Kansas tuberculosis outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received January 28, 2025
+
+> The ongoing tuberculosis (TB) disease outbreak in Kansas is not the largest outbreak in U.S. history.
+> 
+> A 2015-2017 outbreak response detected more than 170 cases of TB disease and over 400 cases of inactive TB.
+> 
+> In 2021, a nationwide outbreak of TB disease involving 113 patients occurred after surgical implantation of contaminated bone allografts. 
+>  
+> Four CDC staff are providing on-site assistance including contact investigation, testing and screening, and working with community leaders on health education.
+
 # January 27, 2025
 
 ## Kansas health department on tuberculosis outbreak
