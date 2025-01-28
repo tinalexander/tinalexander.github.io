@@ -11,6 +11,14 @@ permalink: /notes/2025/01
 
 # January 28, 2025
 
+## USDA spokesperson on H5N5 in California ducks
+
+- **Source:** emailed statement
+- **Attribution:** U.S. Department of Agriculture spokesperson
+- **Date:** received January 28, 2025
+
+> The case of H5N9 confirmed in backyard ducks at a facility in California was a reassortment of the H5N1 D1.1 virus that has been circulating in U.S. birds. The finding was not unexpected, as it is not uncommon to see reassortments and ducks are reservoir hosts for influenza A viruses. APHIS reported the detection to the World Organisation for Animal Health (WOAH), as is done for all cases of HPAI in domestic birds in the United States. APHIS will continue to conduct comprehensive epidemiological investigations and enhanced surveillance in response to detections of HPAI and will continue reporting cases to WOAH.
+
 ## CDC spokesperson on Kansas tuberculosis outbreak
 
 - **Source:** emailed statement
