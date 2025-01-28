@@ -11,6 +11,30 @@ permalink: /notes/2025/01
 
 # January 27, 2025
 
+## Kansas health department on tuberculosis outbreak
+
+- **Source:** emailed statement
+- **Attribution:** Jill Bronaugh, Kansas Department of Health and Environment communications director
+- **Date:** received January 27, 2025
+
+> Thank you for reaching out to our office regarding the current tuberculosis outbreak in the Kansas City, Kan. Metro area.
+> 
+> The current Kansas City, Kan. Metro tuberculosis (TB) outbreak is the largest documented outbreak in U.S. history, presently (since the 1950’s, when the Centers for Disease Control and Prevention (CDC) started monitoring and reporting TB cases). This outbreak is still ongoing, which means that there could be more cases. The Tuberculosis Outbreak page on our website is where the current case counts are updated each week and general information on TB can be accessed.
+> 
+> We are working with and following the guidance of the CDC.
+> 
+> As of Jan. 24, 2025, there are 67 individuals, including 60 in Wyandotte County and seven (7) in Johnson County, currently being treated for confirmed active TB related to this outbreak. There are 79 confirmed latent TB cases, which include 77 in Wyandotte County and two (2) in Johnson County. Cases related to the outbreak were first reported in January 2024.
+> 
+> Last year, KDHE reported 79 active and 213 latent, outbreak and non-outbreak, TB cases in Wyandotte and Johnson counties (active cases: Wyandotte 65, Johnson 16; latent cases: Wyandotte 124, Johnson 89). Those 2024 case counts are still provisional, as they will be reviewed and confirmed officially by the CDC near the end of March 2025. In 2023, the CDC recorded 46 active TB cases in Kansas.
+> 
+> There are two reported TB deaths in 2024 associated with this outbreak.
+> 
+> In an effort to provide efficient and quality care to those individuals affected by the outbreak, KDHE assumed responsibility for the coordination and distribution of testing, treatment and medical consultation in Wyandotte County.
+> 
+> TB is an infectious disease that most often affects the lungs and is caused by a type of bacteria. It spreads through the air when infected people cough, speak, or sing. While there is a very low risk of infection to the general public in these communities, KDHE is working to ensure that patients are receiving appropriate treatment, which will limit the ability to spread this disease and prevent additional cases from occurring.
+> 
+> According to CDC, the Bacillus Calmette-Guérin (BCG) vaccine is not generally recommended for use in the United States because of the low risk of infection with Mycobacterium tuberculosis (M. tuberculosis), the variable effectiveness of the vaccine against adult pulmonary TB, and the vaccine's potential interference with tuberculin skin test reactivity. https://www.cdc.gov/tb/publications/factsheets/prevention/bcg.pdf
+
 ## San Francisco's health department on H5N1 investigation
 
 - **Source:** emailed statement
