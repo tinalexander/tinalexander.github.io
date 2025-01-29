@@ -11,6 +11,22 @@ permalink: /notes/2025/01
 
 # January 28, 2025
 
+## Americans United for Life CEO on Kennedy hearing
+
+- **Source:** emailed statement
+- **Attribution:** John Mize, Americans United for Life chief executive officer
+- **Date:** received January 29, 2025
+
+> “Today, we received clear signals that the prolife movement can work with RFK Junior. Acknowledging that every abortion is a tragedy left my team applauding. RFK Jr. calling for the review of safety standards around Mifeprex and saying he is against fetal stem cell research reveals this is a man aware of the need for serious change in the status quo around the protection of life and children.”
+
+## Susan B. Anthony Pro-Life America spokesperson on Kennedy hearing
+
+- **Source:** email
+- **Attribution:** Kelsey Pritchard, SBA's political affairs communications director
+- **Date:** received January 29, 2025
+
+> “We were encouraged by the questions asked and the answers given. We look forward to tomorrow’s hearing.”
+
 ## Texas health department on tuberculosis outbreaks
 
 - **Source:** emailed statement
