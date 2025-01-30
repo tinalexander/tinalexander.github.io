@@ -681,7 +681,7 @@ permalink: /notes/2025/01
 > 
 > ...
 > 
-> 12:42:10 KENNEDY: The Institute of Medicine has said repeatedly in 2013, 2017, when they investigated this, has asked CDC to do certain studies, animal studies, Spanish studies, observational studies, studies of the vaccine safety data link. 
+> 12:42:10 KENNEDY: The Institute of Medicine has said repeatedly in 2013, 2017, when they investigated this, has asked CDC to do certain studies, animal studies, bench studies, observational studies, studies of the vaccine safety data link. 
 > 
 > CDC has not done that. I want them to do that, and I want the best science. 
 > 
