@@ -11,6 +11,84 @@ permalink: /notes/2025/01
 
 # January 28, 2025
 
+## Kennedy on abortion at hearing by Senate's finance committee
+
+- **Source:** [livestream](https://youtu.be/xHenpS4Vh-E)
+- **Attribution:** hosted by the Senate Finance Committee
+- **Date:** occurred January 29, 2025
+
+> [1;08;03] Robert F. Kennedy Jr.
+> 
+> I'm going to support President Trump's policies on Title X. I agree with President Trump that every abortion is a tragedy. 
+> 
+> I agree with him that we cannot be a moral nation if we have 1.2 million abortions a year. I agree with him that the states should control abortion. 
+> 
+> President Trump has told me that he wants to end late-term abortions. And that he wants to protect conscience exemptions and that he wants to end federal funding for abortions here or abroad. That's Title X. 
+> 
+> I'm going to serve at the pleasure of the president. I'm going to implement his policies.
+> 
+> ...
+> 
+> [1;24;13] Robert F. Kennedy Jr.
+> 
+> I think it's immoral to have a policy where patients are not allowed to report adverse events and where doctors are discouraged from doing that. 
+> 
+> President Trump has asked me to study the safety of mifepristone. He has not yet taken a stand on how to regulate it. 
+> 
+> Whatever he does, I will implement those policies. 
+> 
+> And I will work with this committee, make those policies make sense.
+> 
+> ...
+> 
+> [1;11;56] Robert F. Kennedy Jr.
+> 
+> We need to know what adverse events are. We need to understand the safety of every drug, mifepristone and every other drug.
+> 
+> And President Trump has made it clear to me that one of the things he is not taking a position yet on is mifepristone, a detailed position.
+> 
+> But he's made it clear to me that he wants me to look at safety issues, and I'll ask NIH and FDA to do that.
+> 
+> ...
+> 
+> [01;32;27] Sen. Cortez-Masto
+> 
+> What authority do you have over this as the director of HHS?
+> 
+> Robert F. Kennedy Jr. 
+> 
+> What authority do I have?
+> 
+> Sen. Cortez-Masto
+>  
+> Yeah, to enforce the law?
+> 
+> Robert F. Kennedy Jr. 
+> 
+> In what regards?
+> 
+> Sen. Cortez-Masto
+> 
+> To make sure that a hospital that receives payment from Medicare is ensuring that they're providing the necessary emergency care to patients when they present.
+> 
+> It's actually the EMTALA law.  
+> 
+> So what authority as HHS director do you have with respect to EMTALA?
+> 
+> Robert F. Kennedy Jr.
+> 
+> My understanding is that I have budgetary power and that it's pretty much limited to that. 
+> 
+> But if you tell me I have another authority, I don't even think that we have a law enforcement branch at HHS?
+> 
+> Sen. Cortez-Masto 
+> 
+> Well, let me tell you, you do. Actually, you do. And that's CMS. 
+> 
+> CMS actually investigates complaints of EMTALA violations, as well as the Health and Human Services Inspector General, who, by the way, was just recently fired by Donald Trump. 
+> 
+> So you will be enforcing EMTALA laws. And it's important that you understand their impact and don't play politics with the patient presenting at the ER based on a position that this administration has taken.
+
 ## Americans United for Life CEO on Kennedy hearing
 
 - **Source:** emailed statement
