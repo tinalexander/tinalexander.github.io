@@ -17,13 +17,13 @@ permalink: /notes/2025/01
 - **Attribution:** hosted by the Senate Finance Committee
 - **Date:** occurred January 29, 2025
 
-> Sen. Smith
+> [3;27;06] Sen. Smith
 > 
-> Mr. Kennedy, do you intend to give research on bird flu a break?
+> Mr. Kennedy, do you intend to give research on bird flu 'a break'?
 > 
 > Robert F. Kennedy Jr.
 > 
-> I intend to devote the appropriate resources to preventing pandemics. That's a central part of my job.
+> No. I intend to devote the appropriate resources to preventing pandemics. That's a central part of my job.
 > 
 > Sen. Smith
 > 
@@ -31,39 +31,41 @@ permalink: /notes/2025/01
 > 
 > Robert F. Kennedy Jr.
 > 
-> I think the H5N1 viruses.
+> I think the H5N1 virus is.
 > 
 > ...
 > 
-> Robert F. Kennedy Jr.
+> Robert F. Kennedy Jr. [3;05;26]
 > 
-> The gold standard means real scientific research with replication of studies, which very rarely happens now at NIH. 
+> The gold standard means real scientific research, with replication of studies, which very rarely happens now at NIH. 
 > 
-> We should be giving at least 20% of the NIH fund to its replication. 
+> We should be giving at least 20% of the NIH budgets to replication. 
 > 
-> We should have to make sure that all the science is published with raw data. We should make sure the peer reviews are also published.
+> We should have to make sure that all the science is published with the raw data. We should make sure the peer reviews are also published.
 > 
 > ...
 > 
-> Robert F. Kennedy Jr.
+> Robert F. Kennedy Jr. [2;51;10]
 > 
 > Senator, I don't believe that I ever compared the CDC to Nazi death camps. 
 > 
-> I support the CDC, my job is not to dismantle or harm the CDC. 
+> I support the CDC. My job is not to dismantle or harm the CDC. 
 > 
-> My job is to empower the scientists if I'm privileged to be confirmed.
-> 
-> ...
-> 
-> Robert F. Kennedy Jr.
-> 
-> There's nothing I'm going to do that is going to harm CDC. I want to make sure that our science is gold standard science. So that it's free from that same government oversight Investigation Committee. At the panels, the ACIP panel, within CDC. I think 97% of the people on it had conflicts. 
-> 
-> I don't believe that that's right. I think we need to end those conflicts and make sure that scientists are doing unobstructed science.
+> My job is to empower the scientists, if I'm privileged to be confirmed.
 > 
 > ...
 > 
 > Robert F. Kennedy Jr.
+> 
+> There's nothing I'm going to do that is going to harm CDC. I want to make sure that our science is gold standard science, so that it's free from--
+>
+> That same government oversight investigation committeee, of the panels, the ACIP panel, within CDC. I think 97% of the people on it had conflicts. 
+> 
+> I don't believe that that's right. I think we need to end those conflicts, and make sure that scientists are doing unobstructed science.
+> 
+> ...
+> 
+> Robert F. Kennedy Jr. [2;54;48]
 > 
 > That directive made sure that no public health and only non-essential travel and mass communications were temporarily suspended, pending the confirmation of a new HHS secretary. 
 > 
@@ -71,39 +73,43 @@ permalink: /notes/2025/01
 > 
 > ...
 > 
-> Robert F. Kennedy Jr. 
+> Robert F. Kennedy Jr. [2;22;31]
 > 
-> I will protect our research. Stem cell research today can be done on umbilical cords and you don't need fetal tissue.
+> I will protect stem cell research.
+>
+> Stem cell research today can be done on umbilical cords, and you don't need fetal tissue.
 > 
 > Sen. Cantwell
 > 
-> You'll protect the laws that are on the books today and the research that's done.
+> You'll protect the laws that are on the books today? And the research that's done?
 > 
 > Robert F. Kennedy Jr.
 > 
-> My job is, Senator, to enforce the laws.
+> My job is, senator, to enforce the laws.
 > 
 > ...
 > 
-> Robert F. Kennedy Jr. 
+> Robert F. Kennedy Jr. [2;28;11]
 > 
 > I believe that Medicaid is a critical program, but that it’s not working as well as it ought to be. 
 > 
-> And President Trump has asked me to make it, to make it work better, that most Americans are not happy with it, the premiums are too high, the deductibles are too high. And everybody's getting sicker. 
-> 
-> Too much money is going to the insurance industry.
-> 
-> ...
-> 
-> Robert F. Kennedy Jr.
-> 
-> I'm going to bring a native and for the first time in history into my central office. That all the major decisions in my office will be… we have interviewed a candidate, a very, very good candidate and have direct impact on all the major offices. One of my priorities is to improve…
+> And President Trump has asked me to make it-- to make it work better, that most Americans are not happy with it.
+>
+> The premiums are too high, the deductibles are too high. And everybody's getting sicker. Too much money is going to the insurance industry.
 > 
 > ...
 > 
-> Sen. Lujan
+> Robert F. Kennedy Jr. [2;32;48]
 > 
-> Will you commit to finalizing the Congressionally mandated FDA guidance to increase- increasing clinical trial diversity?
+> I'm going to bring a native, and for the first time in history, into my central office.
+>
+> That all the major decisions in my office will be-- he will have-- we have interviewed a candidate, a very, very good candidate that will have direct impact on all the major offices. 
+> 
+> ...
+> 
+> Sen. Lujan [2;33;15]
+> 
+> Will you commit to finalizing the Congressionally mandated FDA guidance to increasing clinical trial diversity?
 > 
 > Robert F. Kennedy Jr.
 > 
@@ -111,7 +117,7 @@ permalink: /notes/2025/01
 > 
 > Sen. Lujan
 > 
-> I appreciate that. Will you commit to reinstating all of the pages that- that were eliminated and people that were fired from this administration that have this responsibility?
+> I appreciate that. Will you commit to reinstating all of the pages that were eliminated and people that were fired from this administration that have this responsibility?
 > 
 > Robert F. Kennedy Jr.
 > 
@@ -121,15 +127,19 @@ permalink: /notes/2025/01
 > 
 > ...
 > 
-> Robert F. Kennedy Jr.
+> Robert F. Kennedy Jr. [1;48;40]
 > 
-> My approach to HHS, I said before, Senator is radical transparency. Democrats, Republicans ought to be able to come in and get information that was generated at taxpayer expense that is owned by the American taxpayer. 
+> My approach to administration to HHS, as I said before senator, is radical transparency.
+>
+> Democrats, Republicans ought to be able to come in and get information that was generated at taxpayer expense, that is owned by the American taxpayer. 
 > 
-> They shouldn't get redacted documents. Public health agencies should be transparent. And we, if we want Americans to restore trust in the public health agencies, we need transparency.
+> They shouldn't get redacted documents.
+>
+> Public health agencies should be transparent. And we-- if we want Americans to restore trust in the public health agencies, we need transparency.
 > 
 > ...
 > 
-> Sen. Warner
+> Sen. Warner [1;03;40]
 > 
 > Will you commit not to fire anyone in the health arena who currently works on protecting Americans from cyber attacks in their health care files?
 > 
@@ -139,7 +149,7 @@ permalink: /notes/2025/01
 > 
 > Sen. Warner
 > 
-> Based on your opinion, based upon your opinion, or your political agenda, or Mr. Trump's political agenda?
+> Based on your opinion? Based upon your opinion, or your political agenda, or Mr. Trump's political agenda?
 > 
 > Robert F. Kennedy Jr.
 > 
@@ -147,7 +157,7 @@ permalink: /notes/2025/01
 > 
 > ...
 > 
-> Robert F. Kennedy Jr. 
+> Robert F. Kennedy Jr. [41;58]
 > 
 > President Trump has personally spoken to me about locating those 300,000 children who disappeared over the last four years.
 > 
@@ -161,7 +171,7 @@ permalink: /notes/2025/01
 > 
 > ...
 > 
-> Sen. Cornyn
+> Sen. Cornyn [44;58]
 > 
 > And I'd like to know whether you support the objectives and goals of PEPFAR and would you work with me and my colleagues to make sure that this program continues to provide life-saving antiviral drugs to people who are most in need?
 > 
@@ -171,19 +181,21 @@ permalink: /notes/2025/01
 > 
 > ...
 > 
-> Robert F. Kennedy Jr.
+> Robert F. Kennedy Jr. [26;26]
 > 
 > Most importantly, we need to use, deploy NIH and FDA to doing the research to understand the relationship between these different food additives and chronic disease, so that Americans understand it and make sure that Americans are aware of it. 
 > 
-> I don't want to take food away from anybody. If you like a cheeseburger, a McDonald's cheeseburger, a Diet Coke, which my boss loves, and I, you should be able to get them. If you want to eat Hostess Twinkies, you should be able to do that. 
+> I don't want to take food away from anybody. If you like a cheeseburger, a McDonald's cheeseburger, a Diet Coke, which my boss loves, you should be able to get them. If you want to eat Hostess Twinkies, you should be able to do that. 
 > 
 > But you should know what the impacts are on your family and on your health.
 > 
 > ...
 > 
-> Robert F. Kennedy Jr.
+> Robert F. Kennedy Jr. [34;09]
 > 
-> I support the measles vaccine. I support the polio vaccine. I will do nothing as HHS secretary that makes it difficult or discourages people from taking either of those vaccines
+> I support the measles vaccine. I support the polio vaccine.
+>
+> I will do nothing as HHS secretary that makes it difficult or discourages people from taking either of those vaccines.
 
 ## Kennedy on abortion at hearing by Senate's finance committee
 
