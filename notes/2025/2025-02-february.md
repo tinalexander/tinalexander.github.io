@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # Feburary 3, 2025
 
+## Letters sent to grant recipients on DEI and gender
+
+- **Source:** forwarded by email
+- **Attribution:** obtained by CBS News
+- **Date:** received January 31, 2025
+
+
+
 ## Email to FDA advisory committee members on postponed meeting
 
 - **Source:** email
