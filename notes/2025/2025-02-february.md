@@ -21,9 +21,7 @@ permalink: /notes/2025/02
 > 
 > Mr. Kennedy and the administration reached out seeking to reassure me regarding their commitment to protecting the public health benefit of vaccination.
 > 
-> To this end, Mr. Kennedy and the administration committed that he and I would have an unprecedentedly close, collaborative working relationship, if  he has confirmed.
-> 
-> We will meet or speak multiple times a month. This collaboration will allow us to work well together and therefore, to be more effective. 
+> To this end, Mr. Kennedy and the administration committed that he and I would have an unprecedentedly close, collaborative working relationship, if he is confirmed. We will meet or speak multiple times a month. This collaboration will allow us to work well together and therefore, to be more effective. 
 > 
 > Mr. Kennedy has asked for my input into hiring decisions at HHS beyond Senate confirmed positions. And this aspect of the collaboration will allow us to represent all sides of those folks who are contacting me over this past weekend. 
 > 
