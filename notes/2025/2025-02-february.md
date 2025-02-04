@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 4, 2025
+
+- **Source:** emailed statement
+- **Attribution:** Andrew Nixon, Health and Human Services Communications Director
+- **Date:** received February 3, 2025
+
+> HHS continues to increase staff levels as we look forward to the new Secretary leading the agency. HHS has approved numerous communications related to critical health and safety needs and will continue to do so. In addition, ASPA is now more flexible with communications as HHS and its Divisions work to align with President Trump’s agenda.    
+> 
+> There are several types of external communications that are no longer subject to the pause. All HHS divisions have been given clear guidance on how to seek approval for any other type of mass communication. 
+
 # Feburary 3, 2025
 
 ## Letters sent to grant recipients on DEI and gender
