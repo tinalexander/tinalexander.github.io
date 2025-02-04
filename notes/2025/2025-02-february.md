@@ -11,6 +11,38 @@ permalink: /notes/2025/02
 
 # February 4, 2025
 
+## Senator Cassidy on decision to support Robert F. Kennedy Jr.
+
+- **Source:** livestream
+- **Attribution:** Senate floor
+- **Date:** occurred February 4, 2025
+
+> Sen. Bill Cassidy [00:04:57]
+> 
+> Mr. Kennedy and the administration reached out seeking to reassure me regarding their commitment to protecting the public health benefit of vaccination.
+> 
+> To this end, Mr. Kennedy and the administration committed that he and I would have an unprecedentedly close, collaborative working relationship, if  he has confirmed.
+> 
+> We will meet or speak multiple times a month. This collaboration will allow us to work well together and therefore, to be more effective. 
+> 
+> Mr. Kennedy has asked for my input into hiring decisions at HHS beyond Senate confirmed positions. And this aspect of the collaboration will allow us to represent all sides of those folks who are contacting me over this past weekend. 
+> 
+> He has also committed that he would work within current vaccine approval and safety monitoring systems and not establish parallel systems. 
+> 
+> If confirmed, he'll maintain the Centers for Disease Control and Prevention's Advisory Committee on Immunization Practices recommendations without changes. 
+> 
+> CDC will not remove statements on their website pointing out that vaccines do not cause autism.
+> 
+> Mr. Kennedy and the administration also committed that this administration will not use the subversive techniques used under the Biden administration, like sue and settle, to change policies enacted by Congress without first going through Congress. 
+> 
+> Mr. Kennedy and the administration committed to a strong role of Congress. Aside from he and I meeting regularly, he will come before the HELP committee on a quarterly basis if requested.
+> 
+> He committed that the HELP committee chair, whether it's me or someone else, may choose a representative on any board or commission formed to review vaccine safety. 
+> 
+> If he is confirmed, HHS will provide a 30 day notice to the HELP committee if the agency seeks to make changes to any of our federal vaccine safety monitoring programs and HELP committee will have the option to call a hearing to further review. 
+> 
+> These commitments and my expectation that we can have a great working relationship to Make America Healthy Again is the basis of my support. 
+
 ## Senate Finance Committee vote on Robert F. Kennedy Jr.
 
 - **Source:** livestream
