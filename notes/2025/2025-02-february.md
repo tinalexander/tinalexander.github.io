@@ -11,6 +11,8 @@ permalink: /notes/2025/02
 
 # February 4, 2025
 
+## HHS spokesperson on communications "pause"
+
 - **Source:** emailed statement
 - **Attribution:** Andrew Nixon, Health and Human Services Communications Director
 - **Date:** received February 3, 2025
