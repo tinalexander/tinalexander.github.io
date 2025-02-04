@@ -17,7 +17,9 @@ permalink: /notes/2025/02
 - **Attribution:** obtained by CBS News
 - **Date:** received January 31, 2025
 
-
+> [2025-02-03_cdc_letter-gender.pdf](https://tinalexander.github.io/notes/attachments/2025-02-03_cdc_letter-gender.pdf)
+> 
+> [2025-02-03_cdc_letter-dei.pdf](https://tinalexander.github.io/notes/attachments/2025-02-03_cdc_letter-dei.pdf)
 
 ## Email to FDA advisory committee members on postponed meeting
 
