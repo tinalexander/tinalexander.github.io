@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 5, 2025
 
+## HHS spokesperson on DOGE at CMS
+
+- **Source:** emailed statement
+- **Attribution:** Department of Health and Human Services spokesperson Andrew Nixon
+- **Date:** received February 5, 2025
+
+> CMS has two senior Agency veterans – one focused on policy and one focused on operations – who are leading the collaboration with DOGE, including ensuring appropriate access to CMS systems and technology. We are taking a thoughtful approach to see where there may be opportunities for more effective and efficient use of resources in line with meeting the goals of President Trump.
+
 ## CDC spokesperson on working with WHO in Ebola response
 
 - **Source:** emailed statement
