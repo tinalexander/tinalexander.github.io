@@ -13,6 +13,10 @@ permalink: /notes/2025/02
 
 ## CDC spokesperson on working with WHO in Ebola response
 
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received February 5, 2025
+
 > _Working on a story to publish this afternoon about the SVD outbreak in Uganda, and checking in to see if there's a comment or statement to share on two details in our story:_
 > 
 > _CDC staff have been unable to coordinate with WHO in Uganda's incident command to respond to the virus_
