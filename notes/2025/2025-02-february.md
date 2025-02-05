@@ -11,6 +11,24 @@ permalink: /notes/2025/02
 
 # February 5, 2025
 
+## Nevada agriculture department spokesperson on bird flu in cows
+
+- **Source:** emailed statement
+- **Attribution:** Ciara Ressel, spokesperson for the Nevada Department of Agriculture
+- **Date:** received February 5, 2025
+
+> _How many herds are believed to have been infected linked to the outbreak?_
+> 
+> Detections of H5N1 have been made in dairy cattle in Nye County and Churchill County.
+> 
+> i.      The detection in Nye County was confirmed in December of 2024 as H5N1 B3.13. This herd was placed under quarantine at the first sign of illness and will remain under quarantine until they test negative for 3 consecutive weeks.
+> 
+>  ii.      Four detections in Churchill County have been confirmed as H5N1 D1.1 and were placed under quarantine. Two additional herds in Churchill County have been placed under quarantine with “non-negative” laboratory results at a National Animal Health Laboratory Network (NAHLN) lab and are awaiting confirmation from the USDA National Veterinary Services Laboratory.
+> 
+> _Are you able to describe the kinds of symptoms that have been reported in cows?_
+> 
+> Symptoms of H5N1 D1.1 have been similar to the detections of B3.13. These include fever, reduced feed consumption, reduced milk production and mild respiratory signs (coughing, sneezing, runny nose).
+
 ## HHS spokesperson on DOGE at CMS
 
 - **Source:** emailed statement
