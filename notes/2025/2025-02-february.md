@@ -9,6 +9,22 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 5, 2025
+
+## CDC spokesperson on working with WHO in Ebola response
+
+> _Working on a story to publish this afternoon about the SVD outbreak in Uganda, and checking in to see if there's a comment or statement to share on two details in our story:_
+> 
+> _CDC staff have been unable to coordinate with WHO in Uganda's incident command to respond to the virus_
+> 
+> _CDC's usual meetings with state and local health officials and external stakeholders to share information about the outbreak have not occurred, amid the current communications pause_
+> 
+> _Appreciate anything you can share by 2 p.m. ET today._
+> 
+> ...
+> 
+> This is inaccurate. CDC has been cleared to speak one-on-one with WHO counterparts related to response activities in Uganda, Tanzania and DRC.
+
 # February 4, 2025
 
 ## Senator Cassidy on decision to support Robert F. Kennedy Jr.
