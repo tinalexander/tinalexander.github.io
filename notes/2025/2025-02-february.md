@@ -9,6 +9,18 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 6, 2025
+
+## From a senior USAID official on Facebook
+
+- **Source:** Facebook post
+- **Attribution:** senior USAID official 
+- **Date:** February 6, 2025
+
+> This is the extent of the guidance we have for how we sort out our lives, plan our next steps, know how our senior can graduate from the school that is paid for or if we leave him behind somehow with trusted friends to do so, or how our 9yo knows when she says goodbye to her teachers and friends?
+> 
+> We are being traumatized without a plan, and for WHAT? There are ways to do this humanely and logically. If ppl think AID should be downsized, fine...do it legally, thoughtfully, and purposefully. And we are in a better situation than so many of our colleagues who we've worked alongside, who take great risks, and are just abandoned because of their hiring mechanism. This 90 day "review" that they said was going to happen... never was put out there in good faith. They've taken over our databases with our indicators and results, trying to keep us from accessing info to demonstrate the value of our work. Thev weren't fast enough though. So, now they know they were going to lose with any bs "90 day review" so they had to cut us off from all of it, including the treasury payments via the culty tech bro teenagers they're using so there is probably not even money to get us home. And I say this again, we are better off in this whole shitstorm than so many other people and families who are dedicating their lives to public service, diplomacy, humanitarian causes, saving lives, preventing coups, attacks....I'm so tired
+
 # February 5, 2025
 
 ## Nevada agriculture department spokesperson on bird flu in cows
