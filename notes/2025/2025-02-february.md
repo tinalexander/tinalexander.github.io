@@ -11,7 +11,15 @@ permalink: /notes/2025/02
 
 # February 6, 2025
 
-## From a senior USAID official 
+## CDC spokesperson on risk posed by D1.1 in cattle
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received February 6, 2025
+
+> Risk remains low despite what appears to be the introduction of a different genotype of avian influenza A(H5N1) virus into dairy cows based on the USDA’s Animal and Plant Health Inspection Service Stakeholder Registry email. CDC continues to monitor this situation closely for signs that would indicate the risk to human health has changed.
+
+## From a senior USAID official on changes
 
 - **Source:** Facebook post
 - **Attribution:** senior USAID official 
