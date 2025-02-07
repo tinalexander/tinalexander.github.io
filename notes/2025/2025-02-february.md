@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 7, 2025
+
+## WOAH spokesperson on H5N9 in other countries
+
+- **Source:** emailed statement
+- **Attribution:** World Organization for Animal Health spokesperson Janelle Wilson
+- **Date:** received February 7, 2025
+
+> An outbreak of HPAI H5N9 (clade unidentified) was reported in France in 2015 and ended on 20 April 2016.  Since then, no other outbreaks of this subtype has been reported from other countries until now.  
+
 # February 6, 2025
 
 ## CDC spokesperson on risk posed by D1.1 in cattle
