@@ -11,6 +11,22 @@ permalink: /notes/2025/02
 
 # February 10, 2025
 
+## CDC spokesperson on increased influenza activity
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Paul Prince
+- **Date:** received February 10, 2025
+
+> *****************
+> 
+> “Foremost, anyone who has not been vaccinated for flu this season should get vaccinated immediately. Flu activity remains elevated and continues to increase across the country. While flu activity and flu season severity cannot be predicted and can vary from season to season, it is expected to see flu activity elevated and increasing at this time of the year. Flu activity in the United States can vary widely and is determined by several factors, including the characteristics of circulating flu viruses, the timing of the season, how many people have pre-existing immunity to circulating flu viruses, how well the flu vaccine is protecting those who are vaccinated against illness, and how many people get vaccinated.”
+> 
+> *****************
+> 
+> Information for Background:
+> 
+> According to the latest FluView Report, flu activity is increasing in all 10 HHS regions and across all age groups. Elevated flu activity is expected to continue for weeks and even months to come. There's still time for individuals and family to benefit from the flu vaccine this season.”
+
 ## Central Nevada Health District on other dairy workers
 
 - **Source:** email
