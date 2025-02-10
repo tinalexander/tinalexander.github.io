@@ -11,6 +11,18 @@ permalink: /notes/2025/02
 
 # February 10, 2025
 
+## Nevada's agriculture department on D1.1 spillover
+
+- **Source:** emailed statement
+- **Attribution:** Ciara Ressel, Nevada Department of Agriculture spokesperson
+- **Date:** received February 10, 2025
+
+> _I read that the department thinks the virus spilled over from wild birds into cows independently at multiple dairies, as opposed to spreading between dairies. Is that right?_
+> 
+> ...
+> 
+> We believe the initial infection came from spillover from wild birds. We are still conducting our epidemiology study to determine how it is being spread between dairies.
+
 ## CDC spokesperson on whooping cough deaths in 2024
 
 - **Source:** emailed statement
