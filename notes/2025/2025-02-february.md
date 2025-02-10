@@ -11,6 +11,18 @@ permalink: /notes/2025/02
 
 # February 10, 2025
 
+## Central Nevada Health District on other dairy workers
+
+- **Source:** email
+- **Attribution:** Central Nevada Health District spokesperson Owen Truesdell
+- **Date:** received February 10, 2025
+
+> _I saw reports that there are several symptomatic dairy workers at the Churchill County dairies. Is that true?_
+> 
+> At this time we have no evidence of dairy workers showing symptoms.
+> 
+> Please note that this is an evolving situation and we will continue to communicate with reporters and the public when relevant new information is learned. 
+
 ## CDC spokesperson on D1.1 in human in Nevada
 
 - **Source:** emailed statement
