@@ -11,7 +11,15 @@ permalink: /notes/2025/02
 
 # February 10, 2025
 
-## Susan Collins statement on NIH funding cuts
+## Joseph Grogan quote on NIH indirect costs
+
+- **Source:** emailed quote
+- **Attribution:** Joe Grogan, former White House Domestic Policy Council director
+- **Date:** received February 10, 2025
+
+> "the appropriations rider inserted in 2017 when Republicans controlled the Congress was ill-advised as it prohibited not just a rational discussion of how indirect cost rates should be calculated but also prohibited any attempts to relieve research institutions of arbitrary, outdated and objectively stupid regulatory burdens. It's time for a transparent bipartisan discussion of whether taxpayers are getting cutting edge research out of NIH, whether researchers are subject to appropriate ethical obligations and whether all that paperwork should be required."
+
+## Susan Collins statement on NIH indirect costs
 
 - **Source:** emailed statement
 - **Attribution:** Senator Susan Collins
