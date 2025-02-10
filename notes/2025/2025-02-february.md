@@ -11,6 +11,22 @@ permalink: /notes/2025/02
 
 # February 10, 2025
 
+## Susan Collins statement on NIH funding cuts
+
+- **Source:** emailed statement
+- **Attribution:** Senator Susan Collins
+- **Date:** received February 10, 2025
+
+> Washington, D.C. – U.S. Senator Susan Collins, Chair of the Senate Appropriations Committee, issued a statement on the cap to indirect costs on biomedical research funded by National Institutes of Health (NIH).
+> 
+> “I oppose the poorly conceived directive imposing an arbitrary cap on the indirect costs that are part of NIH grants and negotiated between the grant recipient and NIH.  I have heard from the Jackson Laboratory, the University of Maine, Maine Medical Center Research Institute, the University of New England, and MDI Biological Laboratory, among others, that these cuts, which in some cases would apply retroactively to existing grants, would be devastating, stopping vital biomedical research and leading to the loss of jobs.
+> 
+> “This morning, I called Robert F. Kennedy, Jr., the nominee to head the Department of Health and Human Services, to express my strong opposition to these arbitrary cuts in funding for vital research at our Maine institutions, which are known for their excellence.  He has promised that as soon as he is confirmed, he will re-examine this initiative that was implemented prior to his confirmation.
+> 
+> “Additionally, Fiscal Year 2024 Appropriations legislation includes language that prohibits the use of funds to modify NIH indirect costs.
+> 
+> “There is no investment that pays greater dividends to American families than our investment in biomedical research.  In Maine, scientists are conducting much-needed research on Lyme disease and other tick-borne illnesses, Alzheimer’s, diabetes, Duchenne’s Muscular Dystrophy, and on how to improve efficiency in drug discovery, helping to lower the cost of prescription drugs, and conducting many other life-enhancing or life-saving research.”
+
 ## CDC spokesperson on increased influenza activity
 
 - **Source:** emailed statement
