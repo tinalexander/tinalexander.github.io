@@ -9,6 +9,28 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 10, 2025
+
+## CDC spokesperson on whooping cough deaths in 2024
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Paul Prince
+- **Date:** received February 10, 2025
+
+> **********
+> 
+> “People of all ages are at risk for getting pertussis (whooping cough). Everyone who is not up to date with whooping cough vaccination should get vaccinated. Data for January 2025 are pending confirmation; However, we are aware of 12 confirmed whooping cough deaths in 2024.”
+> 
+> **********
+> 
+> Background Information:
+> 
+> Preliminary cases reported in 2024 are higher than cases for any year since 2014, but this is expected. Whooping cough is a cyclic disease, and the United States typically sees peaks in disease every 3-5 years; however, the COVID-19 pandemic interrupted typical whooping cough patterns. Additionally, the Council of State and Territorial Epidemiologists (CSTE) modified the whooping cough case definition on January 1, 2020. The changes were made to help improve case identification, which could lead to increased case counts. The 2020 CSTE case definition can be viewed here: https://ndc.services.cdc.gov/case-definitions/pertussis-2020/. Reported cases continue to remain elevated in 2025.
+> 
+> Babies are at greatest risk for have severe complications from whooping cough. Most whooping cough deaths are in babies younger than 3 months old―too young to be protected by having received their own vaccines. Vaccinating pregnant women with a whooping cough vaccine (Tdap) is the most important thing we can do to help protect babies during their first few months of life, before they are old enough to get their own whooping cough vaccines.
+> 
+> While whooping cough typically isn’t a severe illness for teens and adults, complications are possible. Also, the coughing fits can last for weeks or months. Whooping cough is usually less severe for those who have been vaccinated. Learn more about whooping cough vaccine recommendations: Whooping Cough Vaccination  Whooping Cough  CDC.
+
 # February 7, 2025
 
 ## WOAH spokesperson on H5N9 in other countries
