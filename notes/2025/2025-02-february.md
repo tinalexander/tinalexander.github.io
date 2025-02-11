@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 11, 2025
+
+## WHO spokesperson on "challenging" bird flu collaboration
+
+- **Source:** email
+- **Attribution:** World Health Organization spokesperson Christian Lindmeier
+- **Date:** received February 11, 2025
+
+> I said that communication has been challenging and that the traditional ways of communication have been disrupted. But that’s all I or we have. Feel free to join the global press briefing with Dr Tedros tomorrow, pm.
+
 # February 10, 2025
 
 ## Joseph Grogan quote on NIH indirect costs
