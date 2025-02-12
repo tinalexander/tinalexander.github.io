@@ -11,6 +11,39 @@ permalink: /notes/2025/02
 
 # February 12, 2025
 
+## Acting NIH director on Dr. Lawrence Tabak's abrupt retirement from the NIH
+
+- **Source:** email
+- **Attribution:** a National Institutes of Health employee
+- **Date:** received February 12, 2025
+
+> Dear Colleagues,
+> 
+> With gratitude for his strong leadership and commitment, I announce National Institutes of Health (NIH) Principal Deputy Director Lawrence A. Tabak, D.D.S., Ph.D., retired from federal service effective Feb. 11, 2025, after 25 years of service. Dr. Tabak has held critical NIH leadership roles since 2000, most notably in his current role as the second in command since August 2010, and two years as the Acting NIH Director from December 2021-November 2023. He has helped shape important policy decisions at NIH over four administrations. He has guided NIH through complex issues and will be sorely missed.
+> 
+> Dr. Tabak also served as the Deputy Ethics Counselor since August 2010 and as Director of the National Institute of Dental and Craniofacial Research from 2000-2010. In addition to his administrative duties, he maintained a research laboratory within the NIH intramural program studying glycoprotein biosynthesis and function.
+> 
+> Prior to joining NIH, Dr. Tabak was the Senior Associate Dean for Research and professor of dentistry and biochemistry & biophysics in the School of Medicine and
+> Dentistry at the University of Rochester, New York.
+> 
+> Dr. Tabak is an elected member of the National Academy of Medicine of the National Academies. He received his undergraduate degree from City College of New York,
+> his D.D.S. from Columbia University, and a Ph.D. from the University of Buffalo.
+> 
+> I thank Dr. Tabak for his 25 years of leadership in biomedical research and public health in service of the American people.
+> 
+> Sincerely,
+> 
+> Matthew J. Memoli, M.D., M.S.
+> Acting Director, NIH
+
+## Jordan Lara on Dr. Lawrence Tabak's abrupt retirement from the NIH
+
+- **Source:** message
+- **Attribution:** Jordan Lara, a research fellow in Tabak's lab
+- **Date:** received February 12, 2025
+
+> I really want the general public to know how good of a person and scientist he is. Despite all of his duties for the institution, he always made time for mentorship and ensuring sound science was conducted. His benefit to me and the NIH cannot be overstated. He would work 80 hours a weekly regularly with no days off. He truly gave himself up for the American public. it’s absolutely insane to have him cast out like this and to paint him as anything other than a dedicated public servant.
+
 ## Comments from WHO press briefing on U.S.
 
 - **Source:** [livestream](https://www.youtube.com/watch?v=RGflJNNUR4E)
