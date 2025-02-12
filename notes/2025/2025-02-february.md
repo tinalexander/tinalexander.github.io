@@ -9,6 +9,262 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 12, 2025
+
+## Comments from WHO press briefing on U.S.
+
+- **Source:** [livestream](https://www.youtube.com/watch?v=RGflJNNUR4E)
+- **Attribution:** published by the World Health Organization
+- **Date:** occurred February 12, 2025
+
+> Tedros Adhanom Ghebreyesus, WHO [00:10:20]
+> 
+> A significant part of WHO's response to health emergencies in Uganda, DRC, Gaza, Sudan, and elsewhere is supported by funding from the United States. 
+> 
+> As we have said, we regret the announcement that the United States intends to withdraw from WHO and we would welcome the opportunity to engage in constructive dialog. 
+> 
+> There are also actions that the U.S. government is taking that are unrelated to its intended withdrawal from WHO but which we are concerned are having a serious impact on global health. 
+> 
+> For example, the suspension of funding to PEPFAR, the president's emergency plan for aids relief, caused an immediate stop to HIV treatment testing and prevention services in the 50 countries that PEPFAR supports based on bilateral agreements. 
+> 
+> Although a waiver has been granted for life saving services, it does not include prevention services for some of the most at risk groups. 
+> 
+> Despite the waiver, clinics are shuttered and health workers have been put on leave. 
+> 
+> WHO is gathering data on service disruptions and supporting countries with mitigation measures, including by filling gaps in supplies of antivirals.
+> 
+> The sudden suspension of U.S. funding and the sudden disengagement of U.S. institutions is also affecting the response to global efforts to eradicate polio and the response to mpox epidemics in Africa.
+> 
+> In Myanmar, almost 60,000 people, most of them women and children have been left with no access to life saving services. And we have limited information about the spread of avian influenza among dairy cattle, in the U.S., or human cases. 
+> 
+> We ask the U.S. to consider continuing its funding, at least until solutions can be found. 
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:16:46]
+> 
+> U.S. is reporting cases of avian influenza through IHR channels. 
+> 
+> So we have had reports of a H1N2v of swine virus through IHR, a human detection. 
+> 
+> We've also had a human case of H5 that has been reported through IHR channels. 
+> 
+> CDC right now is not reporting influenza data through the WHO global platforms, FluNet, FluID, that they've been providing information for many, many years. 
+> 
+> And we have not had direct communication, with CDC related to influenza, we are communicating with them, but we haven't heard anything back. 
+> 
+> We are receiving information on avian influenza, through animal infections, USDA has published some information online. 
+> 
+> So we do know about some circulation that's happening in dairy cattle, but as DG has said, we welcome active technical exchange with our colleagues in the U.S. 
+> 
+> And there are very important meetings that are taking place, and we welcome, as always, the engagement of our technical partners in the U.S., as well as through all of our member states and in fact, a technical exchange with anyone, anywhere.
+> 
+> ...
+> 
+> Abdi Rahman Mahamud, WHO [00:24:47]
+> 
+> Close collaborations coming from U.S., both U.S. CDC at the field level, both in Uganda and Tanzania have been given permission to work very closely with WHO, and we have seen the initial announcement from the U.S. to support the response. 
+> 
+> So we would like to see more because the demand is huge. 
+> 
+> Uganda has a very strong capability, have responded to this, their eighth Ebola disease outbreak they're dealing, but it started in the capital. And, I think would be very important for all countries to show that solidarity not only for Uganda, but all other countries dealing with this response. 
+> 
+> ...
+> 
+> Abdi Rahman Mahamud, WHO [00:26:03]
+> 
+> All the confirmed cases, the nine, are all epidemiologically linked to the index cases. 
+> 
+> Part of the ongoing investigation is to understand better how did this healthcare worker got infected? A lot of investigation are going on, and then the country is improving. 
+> 
+> So people get confused between cases, suspect cases, alerts.
+> 
+> As the government improved the surveillance system, we expect to see more suspected cases, more alert coming from the community. 
+> 
+> All those cases have been investigated and confirmed. 
+> 
+> The government also introduced additional layers of surveillance called mortality surveillance, where they go swab samples from people who died for a non-Ebola disease. 
+> 
+> And so out of the 200 deaths, they tested all were negative. So while there's a lot of room for improvement, we are confident Uganda has the core capability and it requires support. 
+> 
+> So just to reiterate again, all the confirmed cases, epidemiologically link to the presumed index case.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:27:15]
+> 
+> So there's a vaccine composition meeting that's taking place in a couple of weeks, every six months or so, the world comes together, the HWO collaborating centers for influenza technical partners to make recommendations on seasonal influenza vaccine composition. 
+> 
+> They also make recommendations in looking at the circulating zoonotic influenza viruses to identify candidate vaccine viruses that can be used by manufacturers, should there need to be these types of vaccines developed for a pandemic related to a zoonotic influenza.
+> 
+> That meeting will take place. There are many meetings that actually lead up to the face to face meeting that happens every six months or so.
+> 
+> U.S. CDC and many partners, we actually have national influenza centers in 130 member states that contribute data to this assessment that happens every six months to make the recommendation for the seasonal vaccine composition. 
+> 
+> So those meetings have been taking place. Data has been exchanged. 
+> 
+> The face to face meeting will take place in a couple weeks and the recommendation will come. 
+> 
+> So I think it's really important that all of that you know there are several WHO collaborating centers, including some in the United States, they play a major role in the global influenza surveillance and response system. 
+> 
+> This system that has been in operation for 73 years, they are characterizing viruses, influenza viruses that are circulating. They share samples, they share genetic sequencing, they do risk assessments, and they make these recommendations to make sure that the vaccines that are produced by manufacturers provide as much protection as they can against severe disease and death, for seasonal flu, but they also make recommendations for viruses that could become a pandemic strain. 
+> 
+> So we are not in a situation where in a pre-pandemic for avian influenza, we're in an inter-pandemic period. 
+> 
+> So these meetings are really, really critical. That meeting will take place. There will be a recommendation that will be made, and we will make that announcement as soon as that meeting is finished.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:31:00]
+> 
+> The communication from CDC stopped around the 24th of January. 
+> 
+> But up until that, I want to be really clear, there are incredible scientists at U.S. CDC and across U.S. institutions, as well as the institutions in all of the member states that we work with. 
+> 
+> We hope that this exchange resumes soon.
+> 
+> We are continuing to reach out to our colleagues in the U.S. government agencies. We haven't heard back from them, but we will continue to reach out. And we hope again that exchange resumes. 
+> 
+> We have, I want to reiterate, that the U.S. has reported human cases of avian influenza through IHR, that has continued. And we do hope that there will be more uploads to the different websites and through the different portals related to influenza as well as other diseases. 
+> 
+> So it's not just influenza, obviously that we're concerned about, but all of them, and this ask is for all of our member states, to continue to do good detection work, to utilize their surveillance systems, multiple components of surveillance systems, because everything that we do in support of our member states and pandemic prevention, preparedness readiness response is around surveillance, detection, collaboration, and supporting those capacities that exist in all countries, so that we could prevent that next big event from happening.
+> 
+> ...
+> 
+> Teresa Zakaria, WHO [00:32:51]
+> 
+> Very important to highlight in Myanmar is the very large portion of the population that has no access to health services. 
+> 
+> In 2025, close to 20 million people are expected to be in need of some kind of humanitarian assistance. And that include health services. 
+> 
+> The focus of WHO's work has really been to increase access to health services in those areas that have been hardest to reach. We still have a long way to go to, to properly increase coverage to health services, for which donations, funding, that is provided by the United States is significant. 
+> 
+> So the number, that is a reflection basically of the number of people that we are trying to improve their access to health services. 
+> 
+> But it's really just a small portion of the entire number of people actually in need of humanitarian assistance in Myanmar. 
+> 
+> And, we do very frequently forget just the scale of suffering in needs in this country as well. 
+> 
+> Just to very quickly to touch on the United States of America's contribution to WHO's emergency operations, we're looking at 39 percent of the total funding received, and available for WHO's emergency operations for the grade three emergencies. 
+> 
+> So that's quite a significant amount. And what it means is that everywhere in, in any graded emergencies, in any settings, territories, and countries where WHO is trying to respond to these emergencies, it's about increasing access to health services. It's making sure that people have access, they do not face barriers in accessing the services that they need, and that the public health functions are operational. 
+> 
+> So quantifying those who are directly impacted is a way of showing it.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:35:49]
+> 
+> So, the vaccine composition meeting will take place in a couple of weeks.
+> 
+> U.S. CDC, our WHO collaborating centers and partners, have been invited. Don't know if they will come.
+> 
+> But as I said, in my previous answer, there are many meetings that actually lead up to the face to face vaccine composition meeting all year long
+> 
+> The WHO collaborating centers, the national influenza centers, there are national influenza centers in 133 member states. They're sharing information about circulating viruses and all of that information over the course of the six months, a year is actually utilized in making that decision about the vaccine composition for either the Northern hemisphere or the Southern hemisphere. 
+> 
+> So, yes, there is a pause in the reporting of information from the U.S., as we've said, we hope that that resumes, we hope that that technical exchange resumes, but there is data that has been provided from the U.S. as well as from many countries around the world. 
+> 
+> So it's not just that one meeting, where data is exchanged. Data is exchanged over the course of the whole year and for many, many years.
+> 
+> ...
+> 
+> Abdi Rahman Mahamud, WHO [00:37:02]
+> 
+> The DG has already alluded the things in vaccination, but there is also the financial, around 7.5 million that was allocated for key critical interventions has been impacted and more importantly, the humanitarian crisis where a lot of the NGO partners we have in government that depend heavily on the USAID and U.S. partners funding. 
+> 
+> But I want to reiterate, again, it's more than even the funding.
+> 
+> As we speak today in Uganda, global outbreak alert response network started by U.S. CDC and WHO coming together. 
+> 
+> And through that mechanism, U.S. CDC has deployed almost 842 deployment of U.S. experts to countries that would never have been accessed. 
+> 
+> So it continuous exchange between WHO, its two sister organization, has been very critical.
+> 
+> So while we're very happy to see U.S. CDC experts coming to the field, joining us in Tanzania, in Uganda, I think this is a very critical, important collaboration that needs to be further strength, and it's beyond even the financial, which has direct impact on our partners and WHO, but there's technical collaboration that will be lost for both. 
+> 
+> ...
+> 
+> Meg Doherty, WHO [00:39:26]
+> 
+> Currently right now, there are limited waivers that have come forward to be able to allow access to life saving treatment, including antiretroviral therapies, mother to child transmission. 
+> 
+> But, we have noted that there has been confusion in countries and certainly with the furloughed healthcare workers, some of the services have not been able to get started again. 
+> 
+> So what we've been doing at our coordination is having contact with countries ministries, and when there are requests for other antiretrovirals to go to one country or another, we seek support, from country to country for sharing. 
+> 
+> This is a very short term limited approach that we did during COVID to ensure life saving medicines were available.
+> 
+> But over the long term, there's going to need to be greater coordination, especially with other resources and some of the domestic resources that are now going into antiretroviral programs. 
+> 
+> So this will be an evolving story. And, I think each day we learn something new and currently right now countries and ministries are working very hard to see how they can mitigate the effects and we are there with them as they do that transition. 
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [00:53:17]
+> 
+> U.S. colleagues contribute to many different types of information exchange with us. 
+> 
+> So what I was referring to with influenza, there's data that can go on on databases, online, in reporting systems that exist globally. 
+> 
+> I mentioned Flu ID, I mentioned Flu Net, but the data that is published on the CDC website across a number of different diseases is information that is still needed for a number of different programs. 
+> 
+> But CDC and other U.S. experts also participate in advisory groups. They participate in expert network discussions where we are developing evidence based guidance. 
+> 
+> There are meetings that have been taking place, looking at different types of research for Marburg, for Ebola, for mpox, for many different types of really critical technical outbreaks that are happening right now. 
+> 
+> And that's the exchange that we are asking to continue. 
+> 
+> So while all of these other things are being worked out, the technical exchange between scientists, between collaborators, whether this is happening at a global level, at a regional level, or in country as part of a response, or as part of preparedness efforts, that's the exchange that we want to resume.
+> 
+> ...
+> 
+> Tedros Adhanom Ghebreyesus, WHO [00:55:35]
+> 
+> The three strategic goals are mobilize resources, tighten the belt, and also engage. 
+> 
+> So it's within our own goals and that's what we are trying to do.
+> 
+> Of course, without formal engagement or without engagement, you wouldn't know what would really help in terms of continuing the cooperation and for the U.S. to reconsider its decision.
+> 
+> On the issues you raised in the executive order, I can give you some examples. 
+> 
+> For instance, one is, it asks about WHO's reform. 
+> 
+> Of course we believe in reform. We believe that change is a constant. We believe in continuous improvement. 
+> 
+> And since I started, we have initiated the biggest transformation initiative in the history of the organization and the seven pillars I said earlier. 
+> 
+> And many of those initiatives are happening, changing the organization, preparing it for the future.
+> 
+> For instance, our investment in science, in data and in technology is forward looking and that will be game changers, and that will really shape up the organization and prepare it for the future. 
+> 
+> So we have been doing that, but still if reform, if there is more reform idea from the U.S., they're welcome, we are actually asking for it. We have been asking for it. 
+> 
+> So if there are good ideas, there are ideas, we would be happy to take those. So I don't think this should be a reason. It should be actually a reason to cooperate. 
+> 
+> And then the other issue is payments, of course, in the executive order says U.S. pays disproportionately. 
+> 
+> Of course we thank the U.S. for its generosity. I know the U.S. generosity and leadership, not just as DG of WHO but when I was working in Ethiopia as head of department, as minister of health and so on, that actually helped me when I was minister to transform the health sector of Ethiopia. 
+> 
+> So I'm really grateful for that. And that's why I feel sad when U.S. has decided to withdraw, because I know its leadership and impact at country level and the same at global level. 
+> 
+> But when it does this, of course, this is wants to help the rest of the world. But at the same time, the U.S. also benefits from it. 
+> 
+> But, if the U.S. wants to pay less, it's actually in line with what we are doing as part of our reform, because we have started in 2017, the sustainable financing reform that is helping us to broaden donor base. 
+> 
+> And when this succeeds, the contribution of traditional donors, including the U.S. could decline.
+> 
+> Of course it will take some years, but it will decline because the burden will be shared. 
+> 
+> So if this is what the U.S. wants, then again, cooperation and being with WHO will be the answer, meaning we are asking exactly the same thing we are asking, share burden, the burden and the U.S. saying, share the burden. So there is no difference at all. 
+> 
+> And we started this seven years ago.
+> 
+> And if there are other issues they raise, we are building a transparent organization, an accountable organization, a responsive organization, and we would respond to any queries or issues there are. And we hope U.S. will reconsider and work with us to continue the reform that we have started seven years ago. 
+> 
+> And I think that would be actually one thing we expect as part of our goals now for the U.S. to come back, but look forward to their engagement.
+
 # February 11, 2025
 
 ## Central Nevada Health District on bird flu cases in the region
