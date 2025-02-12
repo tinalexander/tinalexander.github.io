@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 11, 2025
 
+## Central Nevada Health District on bird flu cases in the region
+
+- **Source:** email
+- **Attribution:** Owen Truesdell, Central Nevada Health District spokesperson
+- **Date:** received February 12, 2025
+
+> At this time, Central Nevada Health District is not aware of any additional presumptive positive cases or symptomatic individuals. We continue testing and monitoring in the region in partnership with local dairy operations. This is an evolving situation and we will continue to communicate with reporters and the public when relevant new information is learned.
+
 ## WHO spokesperson on "challenging" bird flu collaboration
 
 - **Source:** email
