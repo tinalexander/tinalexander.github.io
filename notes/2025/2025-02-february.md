@@ -11,6 +11,86 @@ permalink: /notes/2025/02
 
 # February 13, 2025
 
+## Del Bigtree at MAHA Action press conference
+
+- **Source:** press conference
+- **Attribution:** hosted by MAHA Action
+- **Date:** occurred February 13, 2025
+
+> Question [00:51:55]
+> 
+> ...talk about state advocacy. There's been a lot of bills coming up in the states yes, focused on school meals and other things. Can you talk about the relationship between like how much focus you'll have federally versus the states?
+> 
+> Del Bigtree [00:52:06]
+> 
+> Yeah, so we have, as-- if you watching, we have a C4, which is MAHA Action. We just hired professional investigators and scientists to go through every single bill across America. And we will be listing on our website at MAHA Action every single bill we think should be either a pro MAHA bill or an anti MAHA bill. 
+> 
+> You're going to be able to track your representatives on how well they're voting on MAHA issues. All of that will be in a very easy to use dashboard of the United States. And you can click on where you live and we're going to show you who you can call. And we are going to get this movement to be directly involved with issues of food safety, drug safety, water safety, air safety, and that will all be done by our legislative outfit at MAHA Action. 
+> 
+> ...
+> 
+> Del Bigtree [01:04:30]
+> 
+> I saw him speak with Rand Paul who keeps asking for information on gain of function and exactly when and where, and very specific FOIA requests. And I saw him say today at the Oval Office, they're still gaslighting me. I can't get it. 
+> 
+> And Bobby said, I'm gonna walk down there this afternoon and make sure you get it. Those are the types of things he can do right away. 
+> 
+> And I think you're going to see this, this hold up of transparency and information being held from our political representatives, being held from us.
+> 
+> As far as my role, Bobby Kennedy and I are very good friends. I have always appreciated our relationship and I am there for him in any capacity that he needs me whenever, wherever, however.
+> 
+> I will wait for him to decide what he needs from me.
+> 
+> Right now, what he has said is Dell, I need you to go out and actually Make America Healthy Again. Everything in here will be about regulations and trying to get the truth out. But if we don't get people eating better, if we don't get them to stop taking way too many drugs, if we don't get them to start exercising, if we don't get them to start sleeping right, then I am not going to prove this point. 
+> 
+> Donald Trump has given Robert Kennedy Jr. two years to reverse the chronic disease epidemic. That seems like it would be almost impossible. I am going to attempt to work with all of the grassroots people that are out there. All of the different groups that have already done work. 
+> 
+> ...
+> 
+> Del Bigtree [01:07:36]
+> 
+> There's a reason why you bring in a head of the FDA, we still need Marty Makary to take over that position. We still need Dr. Mehmet Oz to be confirmed for CMS. We still need-- I'm forgetting CDC's-- Dr. Dave Weldon, sorry, Dave Weldon, who is also a good friend of mine. I've known for years.
+> 
+> We need them to take on those roles. What Robert Kennedy Jr. is he's great at leading teams of people. I was one of those people. He relies on their talent to do the job, and they'll be having discussions on how to best move forward. 
+> 
+> That's all I can say about that. It won't be him by himself. 
+> 
+> Question [01:08:21]
+> 
+> Well, maybe picking up on that. I mean, talk to us about what you've told Mr. Kennedy about what should happen to the scientists and the health officials that have been overseeing the system. I mean, is it possible for him to get his agenda done if those people are still in their positions?
+> 
+> Del Bigtree [01:08:37]
+> 
+> Look, I did some interviewing of candidates and just trying to help out and push people his way. 
+> 
+> And a few whistle blowers from inside of our regulatory agencies came to me and they all said the same thing they said, is it true that there is some revolving door where some of these scientists do things to maybe get a big job in pharma? Yes. But that's probably only 10% of your problem. 
+> 
+> Is it true that there's corruption in funding that they're getting and they're getting kick backs from some of the products that they make? Yeah, sure, that's happening, but that's probably 10% of your problem. 
+> 
+> And I heard this several times, they said 80% of your problem is this massive bureaucracy that is essentially like watching a substitute teacher come into the room in the classroom. And they think, well, you'll be gone in four years. We'll just sort of stone wall and not move things, and nothing gets done. And that was said by people that have had the highest positions that are in there. 
+> 
+> I will also say though that when they spoke of Robert Kennedy Jr. and sometimes speaking to him, there was a light in their eyes. And they looked at him almost like a superhero and said, you know, you are different. You might be able to do what I couldn't do because I still have to leave and run my legal practice that has pharmaceutical clients. And I still have to make sure I don't make anyone upset.
+> 
+> But you, Robert Kennedy Jr. are not owned by any of the people that are trying to control these regulatory agencies. You might be able to just do what we all have dreamed about. 
+> 
+> ...
+> 
+> Del Bigtree [01:20:22]
+> 
+> We cannot avoid looking the truth in the eyes and saying, you know what? I have to reconsider that. 
+> 
+> The moment we stop looking at science, we are now involved in a religion. And for anyone to believe that asking questions right now of a program where there's this many side effects and no placebo trials and small studies being done, that show an increase in autism with vaccinations, then we need to reopen this investigation and we need to reopen the investigation in the chemicals in our food. 
+> 
+> And we've got to analyze those regulatory agents and doctors and scientists that put the stuff into our environment, allowed the stuff on our grocery shelves allowed these things to be injected into our kids without a proper study. 
+> 
+> Those people should never work for the United States government again.
+> 
+> And only people that remember why they're here, that believe in the Hippocratic oath to do no harm, not harm to just a small group of people, while we work towards the greater good. That is what do no harm means? 
+> 
+> You're not allowed to think of any other patient except the one sitting right in front of you. This one right in front of you might be injured today. It's a possibility. 
+> 
+> We all need to do everything we can to make sure that that child or that person is perfectly safe and never has to worry about being hurt. 
+
 ## Secretary Kennedy on Fox News interview
 
 - **Source:** Fox News Channel
