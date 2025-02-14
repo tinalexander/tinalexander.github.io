@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 14, 2025
+
+## HHS spokesperson cuts at health agencies
+
+- **Source:** statement
+- **Attribution:** Department of Health and Human Services spokesperson Andrew Nixon
+- **Date:** received February 14, 2025
+
+> HHS is following the Administration’s guidance and taking action to support the President’s broader efforts to restructure and streamline the federal government.  This is to ensure that HHS better serves the American people at the highest and most efficient standard.
+
 # February 13, 2025
 
 ## Del Bigtree at MAHA Action press conference
