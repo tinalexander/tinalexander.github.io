@@ -33,7 +33,7 @@ permalink: /notes/2025/02
 > 
 > I saw him speak with Rand Paul who keeps asking for information on gain of function and exactly when and where, and very specific FOIA requests. And I saw him say today at the Oval Office, they're still gaslighting me. I can't get it. 
 > 
-> And Bobby said, I'm gonna walk down there this afternoon and make sure you get it. Those are the types of things he can do right away. 
+> And Bobby said, I'm going to walk down there this afternoon and make sure you get it. Those are the types of things he can do right away. 
 > 
 > And I think you're going to see this, this hold up of transparency and information being held from our political representatives, being held from us.
 > 
