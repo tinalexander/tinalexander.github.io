@@ -9,6 +9,42 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 13, 2025
+
+## Secretary Kennedy on Fox News interview
+
+- **Source:** Fox News Channel
+- **Attribution:** "The Ingraham Angle"
+- **Date:** broadcasted February 13, 2025
+
+> 19;12;49;19 KENNEDY: Congress has repeatedly, and the National Academies of Sciences, have repeatedly ordered CDC to put together a better vaccine adverse events reporting system.
+> 
+> Q: Will you require it?
+> 
+> KENNEDY: And we will do that right away. 
+> 
+> ...
+> 
+> 19;13;01;06 Q: There's rumors out there that as many as 50% of the employees of HHS will be cut in the restructuring of government that DOGE is helping President Trump carry out. And people are wringing their hands. Your response to that? 
+> 
+> KENNEDY: I don't know anything about 50% of people being cut. There's 90,000 employees. I would be surprised if there were 50% cuts. 
+> 
+> Q: How much do you think you might cut? 
+> 
+> KENNEDY: Well, I mean, I think the lower level employees at HHS, most of them are public-spirited, good public servants, good American patriots, and hardworking people.
+> 
+> What I'm interested in are moving around, moving away the people who have made really bad decisions, for example, on the nutrition guidelines.
+> 
+> People who have-- you know, there's people at NIH that were involved in the amyloid plaque scandals that derailed Alzheimer's treatment for 20 years.
+> 
+> It's all corruption. Those kind of people need to be moved.
+> 
+> Q: Do you have a list of people that you already know need to be removed in quickly? 
+> 
+> KENNEDY: I have a list in my head. And, you know, we have a generic list of the kind of people that, if you've been involved in good science, you've got nothing to worry about. If you care about public health, you've got nothing to worry about. 
+> 
+> If you're in there working for the pharmaceutical industry, then I'd say you should move out and work for the pharmaceutical industry. 
+
 # February 12, 2025
 
 ## Acting NIH director on Dr. Lawrence Tabak's abrupt retirement from the NIH
