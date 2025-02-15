@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 14, 2025
 
+## Joshuah Marshall on cuts at the Indian Health Service
+
+- **Source:** message
+- **Attribution:** Joshuah Marshall, former Indian Health Service senior advisor
+- **Date:** received February 14, 2025
+
+> No matter how many staff members are ultimately let go due to this reckless order, each loss will directly impact how IHS—the 18th largest health care system in the U.S.—carries out its mission to millions of American Indians and Alaska Natives. Beyond providing direct health care services, IHS supports critical public health infrastructure, veterinary services, and essential utilities like clean drinking water and wastewater management in tribal communities nationwide. For years, the agency’s unacceptably high vacancy rate has been a bipartisan concern across multiple administrations. To see the hard-won progress of recruitment and retention efforts so casually disregarded is the very definition of government inefficiency and shows a disregard for Native American lives.
+
 ## Wyoming's health department on avian influenza hospitalization
 
 - **Source:** email
