@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 15, 2025
+
+## Colorado's health department on H5 case
+
+- **Source:** email
+- **Attribution:** Colorado Department of Public Health and Environment spokesperson Kristin Richmann
+- **Date:** received February 15, 2025
+
+> CDC confirmed a Wyoming resident, currently hospitalized in Colorado, is positive for avian influenza A(H5).  Wyoming is leading the investigation. For additional information, please reach out to Kim Deti, kim.deti@wyo.gov, at the Wyoming Department of Health.
+
 # February 14, 2025
 
 ## Joshuah Marshall on cuts at the Indian Health Service
