@@ -11,6 +11,32 @@ permalink: /notes/2025/02
 
 # February 15, 2025
 
+## Ohio's health department on bird flu case hospitalization
+
+- **Source:** email
+- **Attribution:** Ohio Department of Health spokesperson
+- **Date:** received February 15, 2025
+
+> The individual had respiratory symptoms. He was previously hospitalized and has since been released.
+
+## Wyoming's health department on bird flu case 
+
+- **Source:** email
+- **Attribution:** Wyoming Department of Health spokesperson Kim Deti
+- **Date:** received February 15, 2025
+
+> _1) What is the condition (e.g. recovering, good, critical, etc.) of the patient?_
+> 
+> _2) Around how long has she been hospitalized?_
+> 
+> _3) Around how long has it been since she was initially exposed to sick birds?_
+> 
+> ...
+> 
+> We don't typically provide information on patient condition due to privacy concerns and decline to do so. 
+> 
+> The patient was hospitalized within the last two weeks. Exposure to the sick poultry preceded her hospitalization by just a couple of days.
+
 ## Colorado's health department on H5 case
 
 - **Source:** email
