@@ -11,6 +11,24 @@ permalink: /notes/2025/02
 
 # February 14, 2025
 
+## Wyoming's health department on avian influenza hospitalization
+
+- **Source:** email
+- **Attribution:** Wyoming Department of Health spokesperson Kim Deti
+- **Date:** received February 14, 2025
+
+> The patient is hospitalized in Colorado. We do not yet know the strain. She had flu-like symptoms. 
+
+## Wyoming's livestock board on backyard flocks
+
+- **Source:** email
+- **Attribution:** Wyoming State Veterinarian Hallie Hasel
+- **Date:** received February 14, 2025
+
+> _Is it known what genotype (e.g. D1.1 or B3.13) caused these backyard poultry flock infections?_
+> 
+> Yes, thanks for asking. It is B3.13. 
+
 ## HHS spokesperson cuts at health agencies
 
 - **Source:** statement
