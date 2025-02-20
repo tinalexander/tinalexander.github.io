@@ -11,6 +11,34 @@ permalink: /notes/2025/02
 
 # February 20, 2025
 
+## CDC spokesperson on bird flu cases in humans in Wyoming and Ohio
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received February 18, 2025
+
+> Attributable to a CDC spokesperson:
+> 
+> The Centers for Disease Control and Prevention (CDC) has confirmed a human infection with avian influenza A(H5) virus in Wyoming. As reported by the Wyoming Department of Health, the individual owned a backyard poultry flock and was likely exposed to the virus through unprotected, direct contact with infected poultry before becoming ill. The individual is currently hospitalized and receiving treatment, making this the second confirmed case of severe illness in the United States associated with backyard poultry flocks. Owners of backyard flocks should be aware of the risk of H5 bird flu to their flock and their own health.
+> 
+> CDC’s risk assessment remains low for the public but is higher for people with occupational or recreational exposures to infected animals. Recently, detections have increased among wild birds and poultry, while detections have declined in dairy cows and bulk milk testing. For more information about the current U.S. situation, visit www.cdc.gov/bird-flu/.   
+> 
+> Background 
+> 
+> Serious illness from H5 bird flu is not unexpected. Most human infections with H5 bird flu in the United States since 2024 have been mild. Historically, these viruses have caused illnesses ranging from mild to deadly.  One other severe case of H5 bird flu associated with exposure to an infected backyard poultry flock occurred in Louisiana; unfortunately, that individual died from illness caused by H5 bird flu. 
+> 
+> Because these viruses can cause serious illness and death, it is important that people with exposure to infected or potentially infected animals take recommended precautions, including use of appropriate personal protective equipment. Keeping backyard poultry is becoming more popular, but it may put owners at higher risk of H5 bird flu. There are steps people can take to protect their flocks and protect their own health in the event their flock becomes infected. 
+> 
+> Ohio:
+> 
+> Attributable to CDC Spokesperson:
+> 
+> The Centers for Disease Control and Prevention (CDC) conducted laboratory testing on a specimen from the presumptive positive human case of avian influenza A(H5) (H5 bird flu) received from the Ohio Department of Health. Testing at CDC was not able to confirm avian influenza A(H5) virus infection. Therefore, this case is being reported as a “probable case” in accordance with guidance from the Council of State and Territorial Epidemiologists. For more information about the current U.S. situation, visit www.cdc.gov/bird-flu/. 
+> 
+> Background:
+> 
+> CDC is conducting genetic sequencing on a specimen from the Wyoming case, and results are not yet available.
+
 ## James Jones resignation letter over FDA cuts
 
 - **Source:** letter
