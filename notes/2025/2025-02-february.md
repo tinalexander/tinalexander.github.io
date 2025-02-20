@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 20, 2025
+
+## James Jones resignation letter over FDA cuts
+
+- **Source:** letter
+- **Attribution:** obtained by CBS News
+- **Date:** received February 20, 2025
+
+> I submit my resignation as Deputy Commissioner of Human Foods at FDA. It has been an honor for me to serve in this position working to protect the health and welfare of Americans. I was looking forward to working to pursue the Department’s agenda of improving the health of Americans by reducing diet-related chronic disease and risks from chemicals in food. It has been increasingly clear that withthe Trump Administration’s disdain for the very people necessary to implement your agenda, however, it would have been fruitless for me to continue in this role. The indiscriminate firing of 89 staff in the Human Foods Program is beyond short sighted. The foods program staff at FDA is the envy of the world in its technical, professional and ethical standards. The Secretary’s comments impugning the integrity of the food staff, asserting they are corrupt based on falsities is a disservice to everyone. The foods program is over 99% funded by Congressional appropriations and less than 1% by fees paid by industry despite the Secretary’s continued public assertions that industry funds 75% of FDA including the foods program. The employees fired this past weekend are the most recent hires and generally come to federal service with the most recent education and represent the future of the Agency. They included staff with highly technical expertise in nutrition, infant formula, food safety response and even 10 chemical safety staff hired to review potentially unsafe ingredients in our food supply. Their termination will be one more roadblock to achieving the Secretary’s stated objectives of making America healthy again. I hope the Administration comes to the realization that the highly skilled professionals that work in FDA and across HHS are the only way to succeed.
+
 # February 15, 2025
 
 ## Ohio's health department on bird flu case hospitalization
