@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 21, 2025
 
+## CDC spokesperson on flu antigenic characterization
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson Paul Prince
+- **Date:** received February 21, 2025
+
+> CDC antigenically characterizes about 2,000 flu viruses during a typical flu season to monitor for changes in circulating viruses and to compare how similar these viruses are to those included in flu vaccines. Antigenic characterization can give an indication of the flu vaccine's ability to produce an immune response against the flu viruses circulating in people. However, this is only one of several indicators used to determine vaccine effectiveness, and VE cannot be calculated based on characterization data alone.
+
 ## HHS secretary on exempting IHS from probationary cuts
 
 - **Source:** emailed statement
