@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 21, 2025
+
+## HHS secretary on exempting IHS from probationary cuts
+
+- **Source:** emailed statement
+- **Attribution:** Health and Human Services Secretary Robert F. Kennedy Jr.
+- **Date:** received February 21, 2025
+
+> “The Indian Health Service has always been treated as the redheaded stepchild at HHS,” said HHS Secretary Robert F. Kennedy, Jr. “My father often complained that IHS was chronically understaffed and underfunded. President Trump wants me to rectify this sad history. Indians suffer the highest level of chronic disease of any demographic. IHS will be a priority over the next four years. President Trump wants me to end the chronic disease epidemic beginning in Indian country.”
+
 # February 20, 2025
 
 ## CDC spokesperson on bird flu cases in humans in Wyoming and Ohio
