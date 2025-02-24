@@ -9,6 +9,24 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 24, 2025
+
+## Email to HHS employees about OPM's 'What did you do last week?' request
+
+- **Source:** emails obtained by CBS News
+- **Attribution:** sent to HHS-NEWS-ALL@LIST.NIH.GOV
+- **Date:** received February 23, 2025
+
+> On Saturday, February 22, 2025, OPM sent an email to all federal employees titled "What did you do last week?". This is a legitimate email. Please read and respond per the instructions by Monday, February 24 11:59pm EST.
+
+> Dear colleagues,
+> 
+> HHS leadership continues to work with OPM officials on how best to meet the intent of yesterday's notice to employees while being mindful of the sensitivity of the information and initiatives ongoing within the HHS Operational and Staff Divisions.
+> 
+> Employees are therefore directed to "pause" activities in answering the OPM email.
+> 
+> Additional guidance will be provided on or around noon tomorrow, ensuring HHS employees and leaders have sufficient time to assess OPM's guidance and still meet the Monday 11:59 PM deadline.
+
 # February 21, 2025
 
 ## CDC spokesperson on flu antigenic characterization
