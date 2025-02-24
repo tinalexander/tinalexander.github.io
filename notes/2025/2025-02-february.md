@@ -11,6 +11,32 @@ permalink: /notes/2025/02
 
 # February 24, 2025
 
+## Email to HHS employees on voluntary OPM request
+
+- **Source:** email obtained by CBS News
+- **Attribution:** sent to Department of Health and Human Services employees
+- **Date:** received February 24, 2025
+
+> HHS Employees -  
+> 
+> On Saturday, you received an email from OPM entitled “What did you do last week.”  The directive stated employees were to submit five bullets detailing their accomplishments in the past week.
+> 
+> In discussions with OPM Officials yesterday and today OPM has now rescinded that mandatory requirement.
+> 
+> There is no HHS expectation that HHS employees respond to OPM and there is no impact to your employment with the agency if you choose not to respond. 
+> 
+> That said, if you choose to respond, here are the guidelines you should follow:
+> 
+> Respond to the email by the deadline established (today @ 11:59 P.M.).
+> 
+> Keep your response at a high level of generality and describe your work in a manner to protect sensitive data, personally identifiable information, and applicable privileges to the extent possible.  Do not (1) identify, by name or title, any other HHS employees with whom you have been working; (2) identify, by case name or otherwise, matters you are working on, or (3) identify any specific grants or contracts, or any specific grantees or contractors.
+> 
+> If you are engaged in scientific research or reviews, do not identify by name any drugs, devices, biologics, therapeutics, or similar items in your response.  If you are engaged in any scientific experiments, research, or reviews, do not provide information that could allow anyone to identify the precise nature of your work.
+> 
+> Respond by replying to the OPM HR email as instructed, with a cc: to your supervisor.
+> 
+> Assume that what you write will be read by malign foreign actors and tailor your response accordingly.
+
 ## Email to FDA employees on Kyle Diamantas 
 
 - **Source:** email obtained by CBS News
