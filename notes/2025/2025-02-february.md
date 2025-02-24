@@ -11,6 +11,20 @@ permalink: /notes/2025/02
 
 # February 24, 2025
 
+## Email to FDA employees on Kyle Diamantas 
+
+- **Source:** email obtained by CBS News
+- **Attribution:** sent to Food and Drug Administration employees
+- **Date:** received February 24, 2025
+
+> Dear Colleagues, I am pleased to share the news that Kyle Diamantas, J.D. is our new Acting Deputy Commissioner for Human Foods.
+> 
+> Most recently Kyle worked at Jones Day, serving as Partner, Chair of its Food Supplier practice, and Co-Chair of its Food and Drug Subgroup. He is well versed in the Federal Food, Drug, and Cosmetic Act, and the FDA's operational framework. He has extensive experience working with various federal and state agencies, scientific organizations, consumer advocacy groups, and industry stakeholders, and has wide-ranging experience on mat- ter spanning regulatory, compliance, investigation, enforcement, rulemaking and legislation, and transactions involving products regulated by the FDA, FTC, CPSC, USDA and EPA.
+> 
+> Kyle holds a juris doctor from the University of Florida Levin College of Law and a bachelor's in pre-law political science from the University of Central Florida.
+> 
+> Please join me welcoming Kyle to our agency. I know he is looking forward to working with all of us in the pursuit to Make America Healthy Again!
+
 ## Email to NIH employees by acting director Matthew Memoli
 
 - **Source:** email obtained by CBS News
