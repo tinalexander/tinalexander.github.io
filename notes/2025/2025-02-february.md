@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 24, 2025
 
+## Email to NIH employees by acting director Matthew Memoli
+
+- **Source:** email obtained by CBS News
+- **Attribution:** sent to National Institutes of Health employees
+- **Date:** received February 21, 2025
+
+> Dear Colleagues: I want to acknowledge the challenges we are facing at NIH during this period of significant change. I joined NIH more than 20 years ago as a clinical fellow and continued as an intramural researcher, driven by a deep belief in public service and the transformative power of biomedical research to advance public health. I know this commitment is something we all share. The last few weeks have been difficult for many of us, but we must prepare for further changes ahead. When this transition is behind us, NIH may look different, but our mission - to improve the health of all people through groundbreaking biomedical research - will remain unchanged. We will continue to pursue that mission diligently and efficiently. This week, HHS welcomed a new Secretary, Robert F. Kennedy, Jr. If you missed the event, I encourage you to watch the livestream. Secretary Kennedy spoke warmly about NIH, recalling how, as a young boy and aspiring scientist, he visited NIH and admired NIH researchers. He described them as the smartest people in the world- driven not by financial gain, but by a higher calling, a deep-seated idealism. That belief in NIH scientists remains with him today. We will have many opportunities to demonstrate our value to Secretary Kennedy in the coming weeks and months. NIH stands at the forefront of providing the critical data needed to combat chronic diseases and address the many interconnected factors that influence health, from obesity to nutrition to environmental exposures. As we have for more than 138 years, NIH will rise to the occasion, advancing scientific discoveries that improve lives and reaffirming our essential role in the nation's health landscape. Sincerely, Matthew J. Memoli, M.D. Acting Director, NIH
+
 ## Email to HHS employees about OPM's 'What did you do last week?' request
 
 - **Source:** emails obtained by CBS News
