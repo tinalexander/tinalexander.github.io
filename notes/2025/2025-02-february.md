@@ -11,6 +11,16 @@ permalink: /notes/2025/02
 
 # February 25, 2025
 
+## Wyoming health department on H5 case hospitalization
+
+- **Source:** email
+- **Attribution:** Wyoming Department of Health spokesperson Kim Deti
+- **Date:** received February 25, 2025
+
+> _Just wanted to check in again to see if the H5 case was still hospitalized in Colorado? Also, has the strain been identified yet?_
+> 
+> She has been discharged from the hospital. The genotype was D1.1, which was the same as the poultry at her home.
+
 ## Wyoming state veterinarian on Platte County bird flu
 
 - **Source:** email
