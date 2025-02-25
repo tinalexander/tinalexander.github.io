@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 25, 2025
+
+## CDC spokesperson on participation in WHO meeting
+
+- **Source:** emailed statement
+- **Attribution:** Centers for Disease Control and Prevention spokesperson
+- **Date:** received February 25, 2025
+
+> CDC will be actively participating virtually at the WHO vaccine consultation meeting for the recommendation of viruses for 2025-26 Northern Hemisphere Vaccine this week.
+
 # February 24, 2025
 
 ## Email to HHS employees on voluntary OPM request
