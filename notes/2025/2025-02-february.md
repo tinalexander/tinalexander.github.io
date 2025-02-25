@@ -11,6 +11,16 @@ permalink: /notes/2025/02
 
 # February 25, 2025
 
+## Wyoming state veterinarian on Platte County bird flu
+
+- **Source:** email
+- **Attribution:** Wyoming State Veterinarian Hallie Hasel
+- **Date:** received February 25, 2025
+
+> _Just wanted to follow up to see if Platte County's genotype has been identified yet?_
+> 
+> Yes, the flock was confirmed as D1.1
+
 ## CDC spokesperson on participation in WHO meeting
 
 - **Source:** emailed statement
