@@ -17,6 +17,8 @@ permalink: /notes/2025/02
 - **Attribution:** Department of Health and Human Services spokesperson Andrew Nixon
 - **Date:** received February 26, 2025
 
+> _Is it true that two people have died from measles this year, as Secretary Kennedy said at the White House?_
+> 
 > CDC is aware of the death of one child in Texas from measles, and our thoughts are with the family. CDC continues to provide technical assistance, laboratory support, and vaccines as needed to the Texas Department of State Health Services and New Mexico Department of Health, which are leading the response to this outbreak.
 
 ## Robert F Kennedy Jr on measles deaths in Texas
