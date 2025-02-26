@@ -37,17 +37,19 @@ permalink: /notes/2025/02
 > 
 > ...
 > 
-> USDA spokesperson [00:23:55]
+> Question [00:24:31]
+>
+> So when is the timetable to begin these increased imports and do you-- is there any estimation of how many eggs are expected to be imported?
 > 
-> This money is from USDA's Commodity Credit Corporation,
+> USDA spokesperson [00:24:44]
+>
+> So we-- this press release is the first indication that we have made that we are interested and open to increased imports in this area.
 > 
-> Question [00:24:02]
+> We do know for sure Turkey is already a country that we import from, and they've already made a commitment to give us more eggs than they normally have.
 > 
-> To be clear all $1 billion, is that new money? Or is it from what's existing in the pot then?
+> Usually they give us about 70 million and we're anticipating them this year to give about 420 million. So we do know that Turkey is a country that we are already importing from.
 > 
-> USDA spokesperson [00:24:10]
-> 
-> Yes ma'am. Yes, that's correct.
+> We are open to those conversations. We also want to be realistic that whoever we do end up importing from, if anyone else, that they have to have certain safety considerations in place as well for the American consumer.
 > 
 > ...
 > 
