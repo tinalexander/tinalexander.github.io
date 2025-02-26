@@ -11,6 +11,22 @@ permalink: /notes/2025/02
 
 # February 26, 2025
 
+## Brooke Rollins on depopulation of chickents on Fox News
+
+- **Source:** television feed
+- **Attribution:** Fox News
+- **Date:**
+
+> 9;24;51 AM  Q: Do you think it might it might be time to revisit what Kevin Hassett was just talking about? Which is, the policy for a long time and kind of understandably, in terms of good intentions, but doesn't allow immunity for those survive to pass on. 
+> 
+> Is it time to stop the policy or change it, where you just kill all the chickens?
+> 
+> 09;25;36 AM  ROLLINS: That’s part of the fifth prong. That's part of the research piece. And we are going to have hopefully some pilot programs around the country that work to prove that out. 
+> 
+> The avian flu is an extremely fast spreading virus. And within a couple of days, it spreads so quickly that most of the chickens have died anyway. 
+> 
+> But there are some farmers that are out there that are willing to really try this on a pilot as we build the safe perimeter around them to see if there is a way forward with immunity and the genetics and the DNA become part of this. And I think that'll be a big change too in terms of policy.
+
 ## Brooke Rollins at White House on new avian flu strategy
 
 - **Source:** video feed
