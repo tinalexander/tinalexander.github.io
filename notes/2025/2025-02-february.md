@@ -15,7 +15,7 @@ permalink: /notes/2025/02
 
 - **Source:** television feed
 - **Attribution:** Fox News
-- **Date:**
+- **Date:** February 26, 2025
 
 > 9;24;51 AM  Q: Do you think it might it might be time to revisit what Kevin Hassett was just talking about? Which is, the policy for a long time and kind of understandably, in terms of good intentions, but doesn't allow immunity for those survive to pass on. 
 > 
