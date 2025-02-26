@@ -9,6 +9,58 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 26, 2025
+
+## Brooke Rollins at White House on new avian flu strategy
+
+- **Source:** video feed
+- **Attribution:** White House stakeout 
+- **Date:** occurred February 26, 2025
+
+> Brooke Rollins, USDA [00:00:02]
+> 
+> The president has made it one of his priorities from minute one that we bring those prices down for consumers while protecting America's farmers. And very quickly you can see here this chart, the prices of eggs under Biden have just skyrocketed. Under Trump, went down a little bit. Obama went up a little bit, so it's more than just the avian flu, but certainly that has been the driver. 
+> 
+> So just this morning, we announced the plan to first of all, attack the avian flu and how we pull it back out of our poultry producers. But secondly, how we bring the cost of eggs down. So that plan has five parts. 
+> 
+> The first part is a biosecurity part. And what that means is that how do we lock our poultry barns down? How do we ensure that our egg laying chickens aren't getting this disease? Mostly it comes from wild fowl that fly over or get into the barns. So USDA will be producing at no charge an audit to every single egg farmer in this country. And, then we will help them secure their barns.
+> 
+> Of 150 pilot projects on this exact project, only one has gotten the avian flu since the USDA came in and helped lock those barn down. So that's first.
+> 
+> Secondly, we're going to work to move much more quickly on repopulating the 160 million birds that have been culled in just the last few months. So what do we need to do to get regulations out of the way to help indemnify these poultry producers to start repopulating much more quickly than we've been doing? 
+> 
+> Third is a deregulation effort that is ensuring that the rules that have been layered on our producers are egg producers over the last really four years, that we begin to peel those back that will allow costs to come down. That's a little bit more long term, but really important, there are some rules in play that are costing the eggs to go up without the avian flu as part of it. 
+> 
+> The fourth is we're looking to import eggs in the short term. This is just on the cost piece. We're already in discussions, there's been, you know, if you dig around, you'll kind of figure out which countries, but we're talking to three or four countries right now about getting between 70 and a hundred million eggs into the country, in the next month or two, which of course will help with supply and demand. 
+> 
+> And then the final more long term is putting significant funds into vaccine and therapeutic research. Our egg layers and our broilers, our poultry industry does not use vaccinations right now. A lot of the industry believes on the egg-laying side that we should, but it isn't a proven vaccine yet. And so I was hesitant in rolling anything out that would require more vaccinations without understanding first exactly what it solved.
+> 
+> The problem? Mexico vaccinates their egg layers, and they still are hit with about 80% even vaccinated with this avian flu. So instead we're going to put some significant funding into researching how we get to that point. And the way I would think about it is it's almost like the flu vaccine, right? Most people get it, but it only works one out of every two or three times.
+> 
+> Before we start sticking our chickens, we need to ensure in putting that into the food supply that we know exactly what we're doing. 
+> 
+> ...
+> 
+> Brooke Rollins, USDA [00:03:11]
+> 
+> We are seeing probably even a little bit more increase up until Easter, which is actually normal because so many eggs are used around Easter. We also have only been in 30 days. I've been in 13 days. 
+> 
+> We are going-- it's going to take a little while to get through, I think the next month or two, but hopefully by summer. 
+> 
+> ...
+> 
+> Brooke Rollins, USDA [00:05:20]
+> 
+> So there's a lot of work that has already been done.
+> 
+> Clearly, I don't know the exact number, I have it in my head, but I don't want to say it in case it's wrong, but it's right around a dozen or more countries that currently use a vaccine. So it's not that it's a brand new idea, and there are a lot of people in the country, we got a lot of feedback from those who think that's the immediate solution and that we should be doing it. 
+> 
+> It has been tested around the world. When we really dug in, in talking to our CDC, our Centers for Disease Control, our NIH, some of the key veterinarians around the country next week, I'm going to a facility in Athens, Georgia with University of Georgia that goes into this specifically within livestock, as I do that, a lot of the feedback I got was, as I mentioned, that it could be a solution, but to push that out now and require it, we're just not ready. 
+> 
+> We don't have enough information and we need to fully understand how it will affect the food supply. So those are all really, really important questions that I think have to be answered. 
+> 
+> So we've got a hundred million of that billion dollar plan that will be focused specifically on vaccines, but not just on vaccines on therapeutics. Is there a way to address the avian flu with therapeutics, not just vaccines?
+
 # February 25, 2025
 
 ## Wyoming health department on H5 case hospitalization
