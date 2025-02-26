@@ -11,6 +11,24 @@ permalink: /notes/2025/02
 
 # February 26, 2025
 
+## Robert F Kennedy Jr on measles deaths in Texas
+
+- **Source:** [livestream](https://youtu.be/9pgesdlkU0U?t=3430)
+- **Attributed:** event hosted at the White House
+- **Date:** occurred February 26, 2025
+
+> 57:09 KENNEDY: We are following the measles epidemic every day. 
+> 
+> I think there's 124 people who have contracted measles at this point in Gaines County Texas, mainly, we're told in the Mennonite community.
+> 
+> There are two people who have died, but-- we're watching and there are about 20 people hospitalized mainly for quarantine.
+> 
+> We're watching it, we put out a post on it yesterday and we're going to continue to follow it. 
+> 
+> Incidentally, there have been four measles outbreaks this year in this country, last year there were 16.
+> 
+> So it's not unusual ot have measles outbreaks every year.
+
 ## USDA officials on stakeholder call about bird flu
 
 - **Source:** stakeholder briefing
