@@ -11,7 +11,7 @@ permalink: /notes/2025/02
 
 # February 26, 2025
 
-## USDA press briefing on egg imports
+## USDA press briefing on new bird flu plan
 
 - **Source:** press briefing
 - **Attribution:** hosted by the U.S. Department of Agriculture
