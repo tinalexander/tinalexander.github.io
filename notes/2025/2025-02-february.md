@@ -11,10 +11,18 @@ permalink: /notes/2025/02
 
 # February 26, 2025
 
+## HHS spokesperson on measles deaths in Texas
+
+- **Source:** emailed statement
+- **Attribution:** Department of Health and Human Services spokesperson Andrew Nixon
+- **Date:** received February 26, 2025
+
+> CDC is aware of the death of one child in Texas from measles, and our thoughts are with the family. CDC continues to provide technical assistance, laboratory support, and vaccines as needed to the Texas Department of State Health Services and New Mexico Department of Health, which are leading the response to this outbreak.
+
 ## Robert F Kennedy Jr on measles deaths in Texas
 
 - **Source:** [livestream](https://youtu.be/9pgesdlkU0U?t=3430)
-- **Attributed:** event hosted at the White House
+- **Attribution:** event hosted at the White House
 - **Date:** occurred February 26, 2025
 
 > 57:09 KENNEDY: We are following the measles epidemic every day. 
