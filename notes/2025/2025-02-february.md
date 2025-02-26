@@ -11,6 +11,54 @@ permalink: /notes/2025/02
 
 # February 26, 2025
 
+## USDA press briefing on egg imports
+
+- **Source:** press briefing
+- **Attribution:** hosted by the U.S. Department of Agriculture
+- **Date:** occurred February 26, 2025
+
+> Question [00:23:31]
+> 
+> Is this $1 billion investment for the approach-- where is that money coming from? 
+> 
+> ...
+> 
+> USDA spokesperson [00:23:55]
+> 
+> This money is from USDA's Commodity Credit Corporation,
+> 
+> Question [00:24:02]
+> 
+> To be clear all $1 billion, is that new money? Or is it from what's existing in the pot then?
+> 
+> USDA spokesperson [00:24:10]
+> 
+> Yes ma'am. Yes, that's correct.
+> 
+> ...
+> 
+> USDA spokesperson [00:23:55]
+> 
+> This money is from USDA's Commodity Credit Corporation,
+> 
+> Question [00:24:02]
+> 
+> To be clear all $1 billion, is that new money? Or is it from what's existing in the pot then?
+> 
+> USDA spokesperson [00:24:10]
+> 
+> Yes ma'am. Yes, that's correct.
+> 
+> ...
+> 
+> Question [00:25:51]
+> 
+> Will the USDA be making these purchases directly? Or will there be subsidizing any sort of private purchases?
+> 
+> USDA spokesperson [00:26:00]
+> 
+> We're not subsidizing any private purchases.
+
 ## NIH statement on resuming FACA meeting notices
 
 - **Source:** emailed statement
