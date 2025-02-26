@@ -11,6 +11,158 @@ permalink: /notes/2025/02
 
 # February 26, 2025
 
+## USDA officials on stakeholder call about bird flu
+
+- **Source:** stakeholder briefing
+- **Attribution:** hosted by the U.S. Department of Agriculture
+- **Date:** occurred February 26, 2025
+
+> 00:11:47.000 KAILEE BULLER, USDA
+> 
+> So that really details our five-prong approach. We look forward to rolling it out later today. 
+> 
+> I do have two experts with me here today who can further discuss the plan and take further questions.
+> 
+> But we really look forward to being your partner and working through this plan together. We will be having biweekly public calls for you all to continue to track our progress, for us to share with you all what we're working on and for you to share with us. 
+> 
+> Those will be open to Congressional folks, stakeholders, media. So you all will hear from us until further notice bi-weekly.
+> 
+> We also will be soliciting public solutions involving governors, state departments of ag, state veterinarians, poultry and dairy farmers to really talk about the therapeutics, the vaccines, the logistics, surveillance, to make sure that whatever way we end up doing this, we're doing it the best way we can to contain the situation.
+> 
+> ...
+> 
+> 00:13:01.000 MIKE WATSON, APHIS
+> 
+> As Kailee mentioned, we're looking this morning to share some tools that will help us combat what's been an unprecedented outbreak of HPAI and poultry. 
+> 
+> We're entering year four of an epidemic that started in 2022. We've never seen the virus spread in all birds for three years, as we've seen over these last three years and the impacts on producers has been tremendous.
+> 
+> So we've learned a few things over these last couple of years. We know that biosecurity has been a really critical tool here to prevent infection of poultry facilities.
+> 
+> But we also know that the virus has been doing something a little bit different than we've seen in the past. And so we need to augment our tools so that we can ensure that we have the best tools available to reduce the impact of the virus moving forward.
+> 
+> So what we're rolling out this morning includes some short-term activity, some sort of actions that are going to help reduce the incidence of the virus, and that includes the biosecurity, as Kailee mentioned.
+> 
+> But also looking at the longer term around developing that vaccine that provides sterilizing immunity, but also has different means of providing the vaccine to poultry, beyond the inoculation that's currently available for the currently available vaccines.
+> 
+> ...
+> 
+> 00:14:14.000 ROSEMARY SIFFORD, USDA
+> 
+> First around the biosecurity measures, as Kailee mentioned, we will be expanding the wildlife services biosecurity assessments. Those have been conducted in four pilot states and we'll be expanding that to allow other producers to request those and receive that support.
+> 
+> We'll also be expanding the biosecurity audits that veterinary services has recently implemented for affected flocks to allow producers who've not been affected to also request those audits.
+> 
+> And then for all of those audits, if a producer, if we identify biosecurity updates or changes that need to be made, we’ll be willing to partner with that producer to cost share up to 75% of the cost of addressing some of the highest risk biosecurity challenges that the producer faces.
+> 
+> So that will give the producer the opportunity to get direct feedback for their facility as well as the cost share to help address some of the major challenges that they face.
+> 
+> ...
+> 
+> 00:16:01.000 ROSEMARY SIFFORD, APHIS 
+> 
+> We are very interested in trying to develop a more robust vaccine that's well matched to the current circulating strain and helps address some of our logistical challenges in terms of administration.
+> 
+> And so we are planning to put out a request for proposals for manufacturers to support them in making some of those changes. But we are also going to be standing up a working group, which will include states, industry, and our public health partners to look and develop very specific protocols and plans for vaccination.
+> 
+> That will help us to really get into the details of who's responsible for what and how we're going to meet our trading partner expectations with regard to the control of vaccine, the vaccinated animals, and then the surveillance to ensure we don't have any underlying circulating virus.
+> 
+> So our expectation is that that working group will be able to work quickly to develop that really robust plan and then we'll be able to share some of the details from that plan with trading partners to help answer any questions they might have and set us up to be able to mitigate any potential trade impacts as we continue to plan for the specific vaccine strategy that we might pursue.
+> 
+> ...
+> 
+> 00:20:11.000 QUESTION
+> 
+> There’s  been some miscommunication, I believe, in the last week or two about euthanasia and depopulation of farms that are positive.
+> 
+> I'm hoping that USDA is going to continue to follow the WOAH standards in regards to depopulation of positive farms.
+> 
+> Can you confirm that that is not going to change, policy?
+> 
+> 00:20:39.000 ROSMARY SIFFORD, APHIS
+> 
+> Yes, sir. 
+> 
+> At this time, no anticipated changes to our current stamping out policy at this time.
+> 
+> And we will continue to follow WOAH guidelines. 
+> 
+> ...
+> 
+> 00:23:04.000 QUESTION
+> 
+> Regarding vaccine working group, do you have a timeline set on when you would like to try to get in front of trade partners to have conversations around that? 
+> 
+> And also, do you have a timeline on when you'd like to see a resolution regarding vaccine development itself?
+> 
+> 00:23:29.000 ROSEMARY SIFFORD, APHIS
+> 
+> So we expect to start the working group within the next two weeks and we will move very swiftly to put together a full plan, so that we can put that in front of trading partners as quickly as possible.
+> 
+> And our commitment to you all is that we will continue to work very closely with you and keep you apprised every step of the way. 
+> 
+> So we will have that biweekly update open to the public and then we will be having a couple different work streams with our trading partners, industry friends, friends in government such as FDA, CDC, NIH.
+> 
+> So we anticipate, if you want updates to come to those biweekly calls, but also to reach out to us for involvement in those other separate working groups.
+> 
+> ...
+> 
+> 00:25:35.000 QUESTION
+> 
+> I'm asking specifically about human resources. I know that there's been a push to cut back on resources in many parts of the government and I wanted to know if part of this plan has anything in it with regards to making sure that you all have adequate resources to carry out these efforts?
+> 
+> …
+> 
+> 00:26:09.000 MIKE WATSON, USDA
+> 
+> And what we're doing right now is looking across the department for folks who have the skill set that we need to help with this work. 
+> 
+> So we've identified a number of staff across USDA have the skills and the ability to come and work immediately, which is going to help us to get this ramped up really quickly. 
+> 
+> So in terms of the resources, we have the immediate resources available to us across USDA.
+> 
+> If we need additional staff, we will bring on term employees in the future as well. But right now we feel like we have enough resources available to us start this off pretty quickly here.
+> 
+> 00:26:41.000 KAILEE BULLER, USDA
+> 
+> And I think to be clear from my end as well, I mean, this is a number one priority for the secretary specifically, and so there's no greater need across the department to reallocate resources to than this issue and containing this issue. 
+> 
+> And so, you know, the secretary herself and myself have had these discussions with APHIS and across the department so people understand that this is a key priority for us at the OSEC level.
+> 
+> ...
+> 
+> 00:29:20.000 QUESTION
+> 
+> And then the second question is on the NVSL staff There's been some disruption there to Dr. Clifford's question on APS staff is there sufficient stab at the lab for the lab Long-term analysis and and turn around on those samples.
+> 
+> …
+> 
+> 
+> 00:30:04.000 ROSEMARY SIFFORD, APHIS
+> In terms of the other staffing question, as I mentioned, we get a lot of support from across the department, but as Kaylee mentioned this is obviously a priority for Secretary Rollins. And so we find that there's gaps.
+> 
+> We will certainly look to find resources available outside the department if necessary to fill those gaps.
+> 
+> I think right now we're okay. Those naming will be okay moving forward, but we'll address those as we move forward.
+> 
+> ...
+> 
+> 00:32:37.000 QUESTION
+> 
+> I just need to reiterate, we cannot do this without future assistance from especially wildlife services, as it comes to that surveillance around these dairies and then that abatement when it's needed.
+> 
+> What is the plan for that to make sure that we can keep our folks on the ground here that are working with us from USDA wildlife services?
+> 
+> 00:33:10.000 MIKE WATSON, USDA
+> 
+> And again, I think the commitment here is to make sure we have enough resources available to combat the challenges we're having with HPAI. 
+> 
+> And so we did have a few hiccups here in the last few weeks, but we feel like we're going to get those addressed. If they not have been addressed already.
+> 
+> And we will have resources available to support the states as we move forward. 
+> 
+> So I think as we spoke a couple weeks ago, I think we address an immediate concern, but we want to make sure we have long-term issues addressed as well moving forward here. 
+
 ## Brooke Rollins on depopulation of chickents on Fox News
 
 - **Source:** television feed
