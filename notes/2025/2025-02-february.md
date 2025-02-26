@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 26, 2025
 
+## NIH statement on resuming FACA meeting notices
+
+- **Source:** emailed statement
+- **Attribution:** National Institutes of Health
+- **Date:** received February 26, 2025
+
+> The NIH Center for Scientific Review can begin sending notices incrementally to the Office of the Federal Register to advertise meetings of scientific review groups/study sections and begin their resumption. CSR will submit Federal Register Notices (FRNs) for the next 50 meetings. FRNs for other types of meetings subject to the Federal Advisory Committee Act, such as National Advisory Councils/Boards and Boards of Scientific Counselors, remain on hold.   
+
 ## HHS spokesperson on measles deaths in Texas
 
 - **Source:** emailed statement
@@ -191,7 +199,7 @@ permalink: /notes/2025/02
 > 
 > So I think as we spoke a couple weeks ago, I think we address an immediate concern, but we want to make sure we have long-term issues addressed as well moving forward here. 
 
-## Brooke Rollins on depopulation of chickents on Fox News
+## Brooke Rollins on depopulation of chickens on Fox News
 
 - **Source:** television feed
 - **Attribution:** Fox News
