@@ -225,6 +225,7 @@ permalink: /notes/2025/02
 > 
 > 
 > 00:30:04.000 ROSEMARY SIFFORD, APHIS
+> 
 > In terms of the other staffing question, as I mentioned, we get a lot of support from across the department, but as Kaylee mentioned this is obviously a priority for Secretary Rollins. And so we find that there's gaps.
 > 
 > We will certainly look to find resources available outside the department if necessary to fill those gaps.
