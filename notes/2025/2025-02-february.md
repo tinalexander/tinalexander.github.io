@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 27, 2025
+
+## HHS spokesperson on cancelation of FDA's flu VRBPAC
+
+- **Source:** emailed statement
+- **Attribution:** Department of Health and Human Services spokesperson Andrew Nixon
+- **Date:** received February 27, 2025
+
+> A planned March 13 meeting of the FDA’s Vaccines and Related Biological Products Advisory Committee on the influenza vaccine strains for the 2025-2026 influenza season in the northern hemisphere has been cancelled. The FDA will make public its recommendations to manufacturers in time for updated vaccines to be available for the 2025-2026 influenza season.
+
 # February 26, 2025
 
 ## USDA press briefing on new bird flu plan
