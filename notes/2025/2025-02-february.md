@@ -11,6 +11,16 @@ permalink: /notes/2025/02
 
 # February 27, 2025
 
+## HHS spokesperson on review of Biden-era vaccine contracts
+
+- **Source:** emailed statement
+- **Attribution:** Department of Health and Human Services spokesperson Andrew Nixon
+- **Date:** received February 27, 2025
+
+> _I read in Bloomberg that the administration is also considering canceling the contracts for Moderna's bird flu vaccine development as well. Is that true? Wondering if you can clarify whether Vaxart and any other vaccine related development contracts have been stopped._
+> 
+> While it is crucial that the U.S. Department and Health and Human Services support pandemic preparedness, four years of the Biden administration’s failed oversight have made it necessary to review agreements for vaccine production.  
+
 ## HHS spokesperson on cancelation of FDA's flu VRBPAC
 
 - **Source:** emailed statement
