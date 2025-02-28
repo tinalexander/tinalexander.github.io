@@ -11,6 +11,92 @@ permalink: /notes/2025/02
 
 # February 28, 2025
 
+## WHO officials at influenza consultation press conference
+
+- **Source:** press conference
+- **Attribution:** hosted by the World Health Organization
+- **Date:** occurred February 28, 2025
+
+> Ian Barr, Victorian Infectious Diseases Reference Laboratory [08:15:38]
+> 
+> We've had a very careful look at the global situation with all three circulating influenza viruses in the human population. 
+> 
+> The H3 component always gives us the most grief. It's constantly changing and evolving quicker than the other viruses. So it was an appropriate decision to update the H3 to the same virus that we recommended for the Southern hemisphere. 
+> 
+> And we do that on the balance of what we expect that these vaccines will cover in the current and emerging viruses in 2025, 2026. 
+> 
+> So it is always a balance of what we know and what we don't know. And we have to make a bit of a judgment call of what's going to circulate in 9 to 12 months time. 
+> 
+> So we do our best and that's our selection for this particular vaccine update and the other components, the H1 and the B components have been quite stable in terms of the vaccine coverage with the existing vaccine. 
+> 
+> So there was no need to update those at this point in time, according to our assessments. 
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [08:22:32]
+> 
+> We hope that the pause in the work that we are we're doing with the U.S. is temporary. And we hope that, um, we will be able to resume that in full force, in the coming weeks. 
+> 
+> Wenqing Zhang, WHO [08:22:42]
+> 
+> Just to add to what Maria just said, is that the CDC participated actively in the WHO's consultation from Monday to Thursday, participating and also contributing with the data that they generated. 
+> 
+> ...
+> 
+> Wenqing Zhang, WHO [08:24:00]
+> 
+> There was a period of time that CDC-- there was period of time that there was no data coming out from CDC. 
+> 
+> However, I remember correctly, is that on 14th February, because this date is very special, that CDC released a lot of data in the publicly accessible data platform, like GISAID, the sequence data. 
+> 
+> Actually, CDC also shared the data in time as other collaborating, as other institutions in the WHO consultation, data packages makes them available for the consultation. 
+> 
+> ...
+> 
+> Wenqing Zhang, WHO [08:26:50]
+> 
+> With regards to ERL, you are right that, we have an ERL lab in the CBER FDA. 
+> 
+> So CBER FDA is the same as CDC, participated in the vaccine composition consultation that just finished. They contributed again with the data package. 
+> 
+> So they participated as in the past.
+> 
+> ...
+> 
+> Ian Barr, Victorian Infectious Diseases Reference Laboratory [08:27:19]
+> 
+> H3 is always the bane of our existence. We are trying to keep up with that virus. 
+> 
+> In fact, the vaccine effectiveness studies that we have, both the interim ones from the Northern Hemisphere and the final vaccine effectiveness statistics from the Southern Hemisphere show that even though the virus has moved on a little bit, that the H3 vaccine was still relatively effective, both in the Southern Hemisphere, past influenza season and in the Northern Hemisphere current season.
+> 
+> As you know, that in the United States, it's not just H3N2, which are circulating. There's also a high level of H1N1 circulating in the country as well. 
+> 
+> And so I think, the match is not perfect, but it is a reasonable match and is still the best preventative we have against infection with influenza.
+> 
+> ...
+> 
+> Maria Van Kerkhove, WHO [08:30:09]
+> 
+> We need to clarify that the U.S. is contributing information to the global influenza surveillance and response system. 
+> 
+> There was a temporary pause in information that was coming from U.S. CDC. There was information that was provided to us, and to the system, certainly through, for this meeting in particular, but sequences continue to be shared from the U.S. There's information that's coming out from USDA on the animal side. 
+> 
+> So I want to be very clear that the U.S. is still contributing. 
+> 
+> I know that there's a lot of attention on the U.S. right now, but we are going to continue to emphasize the importance of this global system that's in place. 
+> 
+> ...
+> 
+> Ian Barr, Victorian Infectious Diseases Reference Laboratory [08:32:04]
+> 
+> There was variation in the viruses which circulated globally. 
+> 
+> For example, in the most of Europe, it was a predominance of the H1N1 virus. So they had only had a low circulation of H3. China was almost entirely H1N1, and South America had a mixture of H1 and B viruses. 
+> 
+> So the mixture was a little different in the U.S. It was in fact quite similar to what we saw in Australia in the last season where we had a mixture of H1 and H3 co circulating throughout the season. 
+> 
+> So a very similar season to what we saw in the Southern Hemisphere.
+
 ## Alabama's health department on ceftriaxone investigation
 
 - **Source:** email
