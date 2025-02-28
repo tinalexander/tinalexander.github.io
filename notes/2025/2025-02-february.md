@@ -15,7 +15,7 @@ permalink: /notes/2025/02
 
 - **Source:** email
 - **Attribution:** Alabama Department of Public Health spokesperson Arrol Sheehan
-- **Date:** received February 28, 2025
+- **Date:** received February 27, 2025
 
 > As the investigation of this cluster of cases remains ongoing, and there is no definitive indication of any link to any medication, the Alabama Department of Public Health does not have additional information, at this time.
 
