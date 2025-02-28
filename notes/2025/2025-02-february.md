@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 28, 2025
 
+## A source familiar on FDA being granted WHO exemption
+
+- **Source:** email
+- **Attribution:** a source familiar
+- **Date:** received February 28, 2025
+
+> FDA was given an exemption to coordinate with WHO and other external partners to conduct public health outbreak and emergency response.
+
 ## WHO officials at influenza consultation press conference
 
 - **Source:** press conference
