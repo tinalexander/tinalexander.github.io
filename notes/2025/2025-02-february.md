@@ -11,6 +11,14 @@ permalink: /notes/2025/02
 
 # February 28, 2025
 
+## COGR statement on HHS rescinding the "Richardson Waiver"
+
+- **Source:** emailed statement
+- **Attribution:** COGR President Matt Owens
+- **Date:** received February 28, 2025
+
+> “HHS’s proclamation that it has abandoned its longstanding policy of seeking public input on its rule making under the Administrative Procedures Act flies in the face of the Trump Administration’s professed mandate for greater transparency. For decades HHS policies affecting public health and research institutions have benefitted from public stakeholder participation in the policy process. Public input is an essential element of the policy process that reflects our nation’s democratic principles. As it always has, COGR stands ready to provide constructive input to HHS policies. I urge HHS to rescind this misguided dictum.”
+
 ## A source familiar on FDA being granted WHO exemption
 
 - **Source:** email
