@@ -9,6 +9,16 @@ permalink: /notes/2025/02
 
 <br>
 
+# February 28, 2025
+
+## Alabama's health department on ceftriaxone investigation
+
+- **Source:** email
+- **Attribution:** Alabama Department of Public Health spokesperson Arrol Sheehan
+- **Date:** received February 28, 2025
+
+> As the investigation of this cluster of cases remains ongoing, and there is no definitive indication of any link to any medication, the Alabama Department of Public Health does not have additional information, at this time.
+
 # February 27, 2025
 
 ## HHS spokesperson on review of Biden-era vaccine contracts
