@@ -96,6 +96,32 @@ permalink: /notes/2025/02
 > So the mixture was a little different in the U.S. It was in fact quite similar to what we saw in Australia in the last season where we had a mixture of H1 and H3 co circulating throughout the season. 
 > 
 > So a very similar season to what we saw in the Southern Hemisphere.
+> 
+> ...
+> 
+> Mike Ryan, WHO [00:39:12]
+> 
+> That's something that we've had under intense investigation. 
+> 
+> And, when you look at the epi it's not the same issue that's occurred previously in southern DR Congo, but there certainly has been a significant event early on, in this situation, in which we had a large clustering of deaths that were mainly focused in young men in a particular village, then there appears to have been an extension of that, but what's clear for the epidemiology is, as the investigation team broadened their case definition, a lot of other issues, like normal background diseases, malaria and others have become mixed up with that. 
+> 
+> Our current assessment of the situation is that what we have is a fairly limited in time and very limited in geography cluster of unusual deaths. It has been proven negative for hemorrhagic fevers. Other samples have been taken, a systematic investigation, looking at all the suspect, even the extremely suspect suspect cases, has been done. 
+> 
+> And there clearly is, based on onset of symptomatology to death, it looks and appears very much more like a toxic type of event, either from a biologic perspective, like a meningitis or from a chemical exposure. 
+> 
+> And there have been-- there is some indication now from the authorities that there's a very strong level of suspicion of a poisoning event related to the poisoning of a water source, in relation to that specific village. So that's under investigation by the appropriate authorities in country. 
+> 
+> We will continue to investigate. Clearly, and it's something that, our press officer here at ECA mentioned to me many times, that we are very concerned about these events until we prove that there's a mixed epidemiology and that many people are dying of malaria and other diseases. 
+> 
+> And once we establish that it's not some major new earth killing virus, we all lose interest. This is a significant set of deaths and disease caused by multiple agents in a vulnerable population. Clearly at the center of this, it would appear that we have some kind of poisoning event. 
+> 
+> We will not stop investigating until we're assured that the risk of that or that the true cause and the absolute cause of what's here is fully investigated. And we will stay vigilant again, credit to the authorities in the DR Congo. 
+> 
+> I think one has to really commend our colleagues who work in DR Congo. I mean, they're dealing with the situation in north and south Kivu. They're dealing with an explosive impact situation. They're dealing with cholera, they're dealing with meningitis, they're dealing with malaria. They're dealing with so many other crises about internal displacement of population. 
+> 
+> And yet the provincial response team were able to get to the field. They were able to take samples, not without difficulty logistically, not in any degree of a hundred percent perfection and national response team has-- was deployed to support that team with support from WHO embedded staff, and further samples and further investigation has helped elucidate the calls further. 
+> 
+> So, what I see here is again our ability collectively to be able to detect and investigate unusual events quickly, is very important. And again, this event was reported into the system and reported internationally. And again, the transparency of the government of DR Congo for me is very, very impressive.
 
 ## Alabama's health department on ceftriaxone investigation
 
