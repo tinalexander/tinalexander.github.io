@@ -10,6 +10,8 @@ Built from a [Github repository](https://github.com/tinalexander/tinalexander.gi
   - [2025](https://tinalexander.github.io/notes/2025/)
     - [Articles](https://tinalexander.github.io/notes/2025/articles)
     - [January](https://tinalexander.github.io/notes/2025/01)
+    - [February](https://tinalexander.github.io/notes/2025/02)
+    - [March](https://tinalexander.github.io/notes/2025/03)
   - [2024](https://tinalexander.github.io/notes/2024/)
     - [Articles](https://tinalexander.github.io/notes/2024/articles)
     - [Candidates Excerpts](https://tinalexander.github.io/notes/2024/candidates-excerpts)
