@@ -51,7 +51,35 @@ Here are some articles I've worked on for 2025. You can also find them [by Googl
 ](https://www.cbsnews.com/news/rfk-jr-vaccinating-poultry-bird-flu-could-backfire/)
 - [Why RFK Jr.'s top spokesperson abruptly resigned from HHS last week](https://www.cbsnews.com/news/rfk-jr-top-spokesperson-resigns-hhs/)
 - [Americas at risk of losing measles elimination status, U.N. agency warns](https://www.cbsnews.com/news/measles-outbreaks-americas-risk-losing-elimination-status/)
-  
+
+# February 2025
+
+- [FDA allowed to help WHO update flu shots, despite Trump ban](https://www.cbsnews.com/news/fda-who-flu-shot-update-trump-ban/)
+- [RFK Jr. rolls back transparency policy on Medicaid and NIH changes](https://www.cbsnews.com/news/rfk-jr-transparency-policy-medicaid-nih/)
+- [Flu shot less effective this season for some kids, CDC report suggests](https://www.cbsnews.com/news/flu-shot-less-effective-this-season-kids-cdc-report/)
+- [FDA cancels meeting to update next season's flu vaccines](https://www.cbsnews.com/news/fda-cancels-flu-vaccine-meeting/)
+- [U.S. officials walk back plans to stop culling poultry for bird flu](https://www.cbsnews.com/news/bird-flu-us-officials-walk-back-plans-to-stop-culling-poultry/)
+- [Flu vaccine this season may be poorly matched, early CDC data suggests](https://www.cbsnews.com/news/flu-vaccine-match-early-cdc-data-2025/)
+- [FDA declares end to Wegovy and Ozempic shortage](https://www.cbsnews.com/news/fda-declares-end-to-wegovy-and-ozempic-shortage/)
+- [Mental health agency loses 1 in 10 staffers to DOGE cuts, 988 hotline team impacted](https://www.cbsnews.com/news/samhsa-mental-health-agency-doge-job-cuts-988-hotline/)
+- [Top FDA food safety official's resignation letter warns firings will backfire on RFK Jr.](https://www.cbsnews.com/news/fda-food-safety-james-jones-resigns-warning-rfk-jr/)
+- [Thousands of probationary federal health agency workers fired by letter this weekend. Here's what it said.](https://www.cbsnews.com/news/thousands-of-probationary-federal-health-agency-workers-fired-by-letter-this-weekend/)
+- [U.S. bird flu hospitalizations rise to 4 after Ohio discloses case](https://www.cbsnews.com/news/us-bird-flu-hospitalizations-rise-ohio-discloses-case/)
+- [Bird flu case with "flu-like symptoms" reported in Colorado, 1 person hospitalized
+](https://www.cbsnews.com/news/bird-flu-case-woman-hospitalized-colorado/)
+- [CDC's "disease detectives" apparently spared in DOGE cuts at health agencies](https://www.cbsnews.com/news/cdc-disease-detectives-doge-cuts-health-agencies/)
+- [Some CDC health data and webpages still offline after judge's order](https://www.cbsnews.com/news/some-cdc-health-data-webpages-still-offline-judge-order/)
+- [Top-ranking NIH official forced to retire under Trump administration](https://www.cbsnews.com/news/nih-official-dr-lawrence-tabak-forced-to-retire-trump-administration/)
+- [Flu deaths may have surpassed COVID deaths nationwide for first time since start of pandemic, early CDC data suggests](https://www.cbsnews.com/news/flu-deaths-surpass-covid-for-first-time-since-pandemic-started/)
+- [U.S. records most whooping cough deaths since 2017](https://www.cbsnews.com/news/whooping-cough-deaths-us-most-since-2017/)
+- [New bird flu strain in cows spreads to Nevada dairy worker](https://www.cbsnews.com/news/bird-flu-nevada-human-case-dairy-worker-cows/)
+- [Federal judge blocks Trump administration cuts to medical research funding](https://www.cbsnews.com/news/nih-federal-cuts-medical-research-funding/)
+- [Trump officials exerting unprecedented control over CDC scientific journal](https://www.cbsnews.com/news/trump-officials-influence-cdc-mmwr/)
+- [Flu levels now highest since 2009 pandemic, CDC reports](https://www.cbsnews.com/news/flu-levels-highest-since-2009-pandemic-cdc-reports/)
+- [Trump taps Gerald Parker to be new head of pandemic office as bird flu threat grows](https://www.cbsnews.com/news/trump-head-pandemic-office-gerald-parker/)
+- [Cows infected by lethal bird flu strain never before seen in the animal showing respiratory symptoms, Nevada says](https://www.cbsnews.com/news/cows-bird-flu-d11-symptoms/)
+- [As Trump shuts down USAID missions, officials warn Ebola outbreak in Uganda will spread](https://www.cbsnews.com/news/some-u-s-officials-fear-disaster-as-trump-upends-ebola-response-in-uganda/)
+
 # January 2025
 
 ...
