@@ -82,4 +82,26 @@ Here are some articles I've worked on for 2025. You can also find them [by Googl
 
 # January 2025
 
-...
+- [Agencies asked to scrub federal government websites to remove diversity-related content](https://www.cbsnews.com/news/trump-officials-pausing-most-federal-government-websites-friday/)
+- [CDC purges STD and vaccine recommendations after Trump gender order](https://www.cbsnews.com/news/cdc-std-vaccine-gender-trump/)
+- [Abortion opponents praise RFK Jr., after he vows to follow Trump](https://www.cbsnews.com/news/abortion-opponents-praise-rfk-jr-trump/)
+- [White House blames "outage" for locking out Medicaid, Head Start, health centers from funding site](https://www.cbsnews.com/news/medicaid-head-start-health-centers-trump-funding-freeze/)
+- [How are H5N9 and H5N1 different? What to know after California bird flu outbreak](https://www.cbsnews.com/news/h5n9-h5n1-bird-flu-what-to-know/)
+- [What to know about RFK Jr. as he faces Senate confirmation hearings](https://www.cbsnews.com/news/rfk-jr-to-face-senate-confirmation-hearings/)
+- [CDC staff ordered to cut off communication with WHO](https://www.cbsnews.com/news/cdc-communication-who-world-health-organization/)
+- [Trump administration expected to go outside CDC for acting director](https://www.cbsnews.com/news/trump-administration-cdc-acting-director/)
+- [Who is in charge of the CDC right now? Nobody knows for sure](https://www.cbsnews.com/news/cdc-who-is-in-charge-trump-administration/)
+- [More than a dozen cats dead or sickened by bird flu in raw pet food, FDA says](https://www.cbsnews.com/news/fda-cats-dead-sickened-bird-flu-raw-pet-food/)
+- [Biden administration seeks last-minute appeal of court loss over fluoride in water](https://www.cbsnews.com/news/fluoride-in-water-biden-court-appeal/)
+- [Medicare drug price negotiations to target Ozempic, Wegovy and other drugs](https://www.cbsnews.com/news/medicare-drug-prices-ozempic-wegovy-cost-negotiations/)
+- [How food brands and drugmakers are responding to FDA's ban of food dye Red 3](https://www.cbsnews.com/news/red-3-fda-ban-food-drug-brands/)
+- [FDA moves to ban Red 3, citing concern over cancer in some animals](https://www.cbsnews.com/news/red-3-fda-ban-food-dye/)
+- [FDA moves to cut nicotine from cigarettes, in plan first floated under Trump](https://www.cbsnews.com/news/no-nicotine-in-cigarettes-fda-proposal/)
+- [More than 1 drink a day raises risk of dying, new federal review concludes](https://www.cbsnews.com/news/alcohol-drinking-risk-death-cancer-injuries/)
+- [Food shoppers could see nutrition facts on the front, as FDA unveils proposed packaging rules](https://www.cbsnews.com/news/nutrition-facts-packages-fda-proposal/)
+- [Norovirus wave now more than double last year's peak, in CDC's data](https://www.cbsnews.com/news/norovirus-wave-twice-last-year-cdc-data/)
+- [U.S. egg industry sees record chicken deaths from bird flu outbreak](https://www.cbsnews.com/news/egg-industry-chicken-deaths-bird-flu/)
+- [FDA finds little handwashing, dirty equipment at McDonald's supplier linked to E. coli outbreak](https://www.cbsnews.com/news/fda-report-e-coli-outbreak-onions-taylor-farms/)
+- [It feels like everyone has a stomach bug. A new norovirus strain might be to blame, CDC data suggests](https://www.cbsnews.com/news/new-norovirus-strain-us-wave-stomach-bug/)
+- [First U.S. bird flu death reported in Louisiana after severe case of H5N1](https://www.cbsnews.com/news/bird-flu-h5n1-death-first-us-louisiana/)
+- [Flu emergency room visits now "very high" nationwide, CDC says](https://www.cbsnews.com/news/influenza-flu-season-emergency-room-visits-very-high/)
