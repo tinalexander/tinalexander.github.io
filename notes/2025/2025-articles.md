@@ -11,6 +11,38 @@ permalink: /notes/2025/articles/
 
 Here are some articles I've worked on for 2025. You can also find them [by Googling](https://www.google.com/search?q=%22By+Alexander+Tin%22+site%3Acbsnews.com%2F) me.
 
+# May 2025
+
+- [Trump administration ending multiple HIV vaccine studies, scientists and officials say](https://www.cbsnews.com/news/trump-administration-ending-multiple-hiv-vaccine-studies/)
+- [CDC now says kids "may receive" COVID-19 vaccines, should talk to their doctors](https://www.cbsnews.com/news/cdc-kids-covid-19-vaccine-recommendation/)
+- [CDC steps up measles travel warning after spread in airplane](https://www.cbsnews.com/news/cdc-measles-travel-warning-spread-in-airplane/)
+- [RFK Jr. says CDC will no longer recommend COVID vaccine for children and pregnant women](https://www.cbsnews.com/news/rfk-jr-covid-vaccines-cdc-children-pregnant-women/)
+- [U.S. reports cases of new COVID variant NB.1.8.1 behind surge in China](https://www.cbsnews.com/news/us-reports-cases-new-covid-variant-nb-1-8-1-behind-surge-china/)
+- [RFK Jr. releases "MAHA" report on childhood chronic disease. Here's what to know.](https://www.cbsnews.com/news/rfk-jr-maha-report-childhood-chronic-disease/)
+- [FDA expands COVID vaccine warning about heart side effect risk for young males](https://www.cbsnews.com/news/fda-covid-vaccine-mrna-heart-side-effects-warning-label/)
+- [Who can get updated COVID vaccines this fall? FDA will OK for high-risk groups, calls for new clinical trials](https://www.cbsnews.com/news/covid-vaccine-2025-fda-seniors-clinical-trials/)
+- [RFK Jr. tells farmers, GOP not to worry about his report targeting pesticides](https://www.cbsnews.com/news/rfk-jr-tells-farmers-gop-not-to-worry-pesticides-report/)
+- [Biden's "Cancer Moonshot" hit by Trump's cuts to research at Harvard and Columbia](https://www.cbsnews.com/news/biden-cancer-moonshot-trump-cuts-harvard-columbia/)
+- [RFK Jr. told Congress no working scientists were fired, but these top NIH brain scientists are still facing job cuts](https://www.cbsnews.com/news/rfk-jr-claims-no-working-scientists-fired-nih-cuts/)
+- [Pool fences and life jackets could save hundreds of lives, CDC estimates](https://www.cbsnews.com/news/pool-fences-life-jackets-save-lives-cdc/)
+- [FDA greenlights marketing of first Alzheimer's blood test for some patients](https://www.cbsnews.com/news/fda-first-alzheimers-blood-test-fujirebio/)
+- [FDA to revisit approval of "yoga mat" bread ingredient banned in Europe](https://www.cbsnews.com/news/fda-yoga-mat-chemical-bread-ada-azodicarbonamide/)
+- [Trump wants drug price caps tied to foreign nations. Here's why Biden never did it.](https://www.cbsnews.com/news/trump-drug-price-cap-biden-senate-democrats/)
+- [Head of worker safety agency NIOSH restored, ahead of RFK Jr. hearing](https://www.cbsnews.com/news/john-howard-niosh-restored-ahead-of-rfk-jr-hearing/)
+- [Trump ordering U.S. to pay only the price other nations do for some drugs](https://www.cbsnews.com/news/lower-medications-cost-trump-truth-social-executive-order/)
+- [Trump to unveil Medicare drug pricing plan after teasing "earth-shattering" announcement](https://www.cbsnews.com/news/trump-big-announcement-medicare-drug-pricing-plan/)
+- [HHS moving to fire probationary employees again, officials say](https://www.cbsnews.com/news/hhs-to-fire-probationary-employees-again-officials-say/)
+- [HHS to withhold some bonus pay earned by laid-off employees](https://www.cbsnews.com/news/hhs-to-withhold-some-pay-from-laid-off-employees/)
+- [CDC disease detectives exempted from Trump hiring freeze, averting cut to program](https://www.cbsnews.com/news/cdc-disease-detectives-trump-hiring-freeze-exemption/)
+- [HHS revokes some layoff notices, including to 9/11 program](https://www.cbsnews.com/news/hhs-revokes-some-layoff-notices-including-to-911-program/)
+- [FDA picks critic of COVID boosters to be new top vaccines official](https://www.cbsnews.com/news/fda-critic-covid-boosters-new-top-vaccines-official-vinay-prasad/)
+- [National Institutes of Health lays off hundreds more staff, including at cancer research institute](https://www.cbsnews.com/news/nih-lays-off-hundreds-more-staff-cancer-research-institute/)
+- [FDA's top inspector abruptly retires](https://www.cbsnews.com/news/fda-top-inspector-michael-rogers-abruptly-resigns/)
+- [Worker safety agency NIOSH lays off most remaining staff](https://www.cbsnews.com/news/worker-safety-agency-niosh-lays-off-most-remaining-staff/)
+- [Weekly measles cases hit new record amid worst outbreak since 1990s](https://www.cbsnews.com/news/weekly-measles-cases-hit-new-record-amid-worst-outbreak-since-1990s/)
+- [RFK Jr. asks CDC for new measles treatment guidance amid his unfounded claims](https://www.cbsnews.com/news/rfk-jr-cdc-measles-treatment-guidance/)
+- [HHS redirects $500 million to Trump appointee's vaccine project, bypassing reviews](https://www.cbsnews.com/news/covid-flu-vaccine-funding-trump-administration/)
+
 # April 2025
 
 - [Former top health official criticizes RFK Jr. for downplaying measles deaths](https://www.cbsnews.com/news/peter-marks-fda-vaccines-criticizes-rfk-jr-for-downplaying-measles-deaths/)
