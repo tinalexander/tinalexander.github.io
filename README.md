@@ -17,7 +17,7 @@ Some other kinds of files that I've gathered during these years can be found [th
 
 Initially, I was saving these notes on [Revue](https://help.twitter.com/en/using-twitter/revue) before it was shut down by Twitter. I then switched to organizing them under Github's [Wiki tab](https://github.com/tinalexander/notes/wiki), before discovering those aren't [indexable by search engines](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis#:~:text=Note%3A%20Search,a%20public%20repository.). Then I switched to publishing them here with Github Pages.
 
-Notes with time codes typically align to my personal recordings. That means they don't always reflect when they happened in the real world or on the official recordings I've linked to. These notes also likely **contain typos and other errors I haven't noticed**. Please let me know if you spot one!
+Notes with time codes typically align to my personal recordings. That means they don't always reflect when they happened in the real world or on the official recordings I've linked to. These notes also likely **contain typos and other errors I haven't noticed**. 
 
 I was previously at [TinA@CBSNews.com](mailto:TinA@CBSNews.com) and +1-202-381-7107, before I left CBS. 
 
