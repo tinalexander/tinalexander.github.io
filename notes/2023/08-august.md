@@ -1,5 +1,5 @@
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**** 
+**** 
 ---
 title: August 2023
 permalink: /notes/2023/08
