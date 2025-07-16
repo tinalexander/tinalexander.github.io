@@ -1,15 +1,3 @@
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
-**Learn more [about this site](https://tinalexander.github.io/notes/).** 
 ---
 title: September 2024
 permalink: /notes/2024/09
