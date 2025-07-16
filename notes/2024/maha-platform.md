@@ -1,3 +1,5 @@
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
 ---
 title: MAHA Platform
 permalink: /notes/2024/maha-platform

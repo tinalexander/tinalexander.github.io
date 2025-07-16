@@ -1,3 +1,5 @@
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
 ---
 title: July 2024
 permalink: /notes/2024/07
