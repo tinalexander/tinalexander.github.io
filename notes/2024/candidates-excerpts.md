@@ -1,3 +1,15 @@
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
 ---
 title: Candidates Annotated
 permalink: /notes/2024/candidates-excerpts

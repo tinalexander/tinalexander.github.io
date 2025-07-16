@@ -1,3 +1,15 @@
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
+**Learn more [about this site](https://tinalexander.github.io/notes/).** 
 ---
 title: October 2022
 permalink: /notes/2022/10
