@@ -15,6 +15,7 @@ Built from a [Github repository](https://github.com/tinalexander/tinalexander.gi
     - [April](https://tinalexander.github.io/notes/2025/04)
     - [May](https://tinalexander.github.io/notes/2025/05)
     - [June](https://tinalexander.github.io/notes/2025/06)
+    - [July](https://tinalexander.github.io/notes/2025/07)
   - [2024](https://tinalexander.github.io/notes/2024/)
     - [Articles](https://tinalexander.github.io/notes/2024/articles)
     - [Candidates Excerpts](https://tinalexander.github.io/notes/2024/candidates-excerpts)
