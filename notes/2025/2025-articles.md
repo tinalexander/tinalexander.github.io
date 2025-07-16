@@ -1,5 +1,3 @@
-**** 
-**** 
 ---
 title: Articles in 2025
 permalink: /notes/2025/articles/

@@ -1,5 +1,4 @@
-**** 
-**** 
+
 ---
 title: December 2023
 permalink: /notes/2023/12

@@ -1,5 +1,3 @@
-**** 
-**** 
 ---
 title: January 2024
 permalink: /notes/2024/01

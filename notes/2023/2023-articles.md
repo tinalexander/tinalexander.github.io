@@ -1,5 +1,3 @@
-**** 
-**** 
 ---
 title: Articles in 2023
 permalink: /notes/2023/articles/

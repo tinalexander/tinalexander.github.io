@@ -1,5 +1,3 @@
-**** 
-**** 
 ---
 title: June 2024
 permalink: /notes/2024/06

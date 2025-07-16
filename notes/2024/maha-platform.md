@@ -1,5 +1,3 @@
-**** 
-**** 
 ---
 title: MAHA Platform
 permalink: /notes/2024/maha-platform

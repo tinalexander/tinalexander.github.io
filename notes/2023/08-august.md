@@ -1,5 +1,3 @@
-**** 
-**** 
 ---
 title: August 2023
 permalink: /notes/2023/08
